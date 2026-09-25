@@ -33,3 +33,6 @@ Reines Static-Hosting, z. B. GitHub Pages (Settings → Pages → Branch `main`,
 Zusätzlich zu Köln enthält die Seite Regionalseiten für Karlsruhe, Baden-Baden/Rastatt, Achern/Bühl, Offenburg/Kehl und die A5 (`abschleppdienst-*.html`), eine Übersichtsseite `abschleppdienst-mittelbaden.html` (Text des Inhabers, unverändert) sowie Ratgeber (`ratgeber*.html`, `pannenhilfe-koelner-autobahnring.html`). Fakten (A5-Ausfahrten 43 bis 56, Raststätten, Michaelstunnel, B500, § 15a StVO, Unfall-Kostenregeln) wurden recherchiert; Preise aus Marktübersichten sind als Richtwerte gekennzeichnet.
 
 Offene Punkte vor dem Start: Festpreis "ab 129 €" mit den Partnern bestätigen, Anfahrtszeit und Zahlungsarten (gelb markiert auf der Übersichtsseite) klären, Aussage "Hotline rund um die Uhr besetzt" nur, wenn die Partner das tragen, Impressum ausfüllen, Texte von Muttersprachlern lesen lassen.
+
+## SEO
+Laufende SEO-Planung und Arbeitsprotokoll: siehe `SEO-ROADMAP.md`. Canonical, Open Graph und `sitemap.xml` nutzen die GitHub-Pages-Adresse und müssen bei einer eigenen Domain umgestellt werden.
