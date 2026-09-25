@@ -32,7 +32,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
             └ kontakt, impressum, datenschutz, danke (danke = no sitemap)
 ```
 
-## 3. Page inventory (36 indexable-in-principle pages + danke)
+## 3. Page inventory (37 indexable-in-principle pages + danke)
 | URL | Primary topic | Search intent | Status |
 |-----|---------------|---------------|--------|
 | index | Abschleppdienst Köln | Local service, "Abschleppdienst Köln" | done |
@@ -67,6 +67,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | pannenhilfe-a3-koeln | Panne A3 bei Köln (Leverkusen bis Rösrath) | Situation on Autobahn | done (cycle 5); ~10 % phrase overlap with the ring page, acceptable |
 | pannenhilfe-a1-koeln | Panne A1 bei Köln (Leverkusen bis Erfttal) | Situation on Autobahn | done (cycle 7) |
 | pannenhilfe-a4-koeln | Panne A4 bei Köln (Frechen bis Bensberg) | Situation on Autobahn | done (cycle 6) |
+| ratgeber-wohnmobil-gespann-panne | Wohnmobil/Gespann Panne, 3,5-t-Grenze | Practical | done (cycle 8) |
 | ratgeber-tiefgarage-parkhaus-liegengeblieben | Tiefgarage/Parkhaus, Durchfahrtshöhe, Rampen | Practical | done (cycle 5) |
 | kontakt, impressum, datenschutz | Utility | – | kontakt done; impressum/datenschutz drafts (B1) |
 
@@ -79,7 +80,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | Canonical | added cycle 1 (based on `$BASE`, see B2) |
 | Open Graph | added cycle 1 (og:image = existing hero photo) |
 | Breadcrumbs (visible + JSON-LD) | added cycle 1 |
-| `sitemap.xml` | added cycle 1 (36 URLs after cycle 7). Not referenced from robots.txt while the preview blocks crawling |
+| `sitemap.xml` | added cycle 1 (37 URLs after cycle 8). Not referenced from robots.txt while the preview blocks crawling |
 | FAQPage schema | generated from the visible `<details>` FAQs |
 | Organization/business schema | AutomotiveBusiness with `areaServed` on region and Köln pages; no street address invented (home page uses the real Antwerp address) |
 | Internal links | related-block on all guides, footer with all clusters; every page has ≥ 2 inbound links |
@@ -141,3 +142,9 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 ### Cycle 7 (2026-09-26) – A1 Köln
 - Research: A1 exit list and features from the German Wikipedia source (Kreuz Leverkusen 98 … Dreieck Erfttal 107, Rheinbrücke Leverkusen 1.057 m, Einhausung Lövenich 1.550 m, lane counts 4/6). The status of the Leverkusen bridge (old bridge weight limits, new construction) is described generally and the reader is told to check current closures; no current-status claim is made.
 - Köln Autobahn cluster now: ring page + A1, A3, A4 pages, all cross-linked.
+
+### Cycle 8 (2026-09-26) – Wohnmobil/Gespann, Keyless, Köln Flughafen/Messe
+- New guide Wohnmobil/Gespann (facts: many Wohnmobile > 3,5 t, some clubs do not serve > 3,5 t, Gespann handling, towing aids rated ≥ 3.500 kg). No capacity claim above 3,5 t; the page says so and asks for length/height/weight.
+- `ratgeber-ausgesperrt` extended with a Keyless-Go section (hedged: behaviour is model dependent).
+- `abschleppdienst-koeln-stadtteile` extended with Flughafen Köln/Bonn (A59, P1–P3; P2 height 1,95 m is attributed to third-party sources) and Messe/Deutz (A4 → Gremberg → A559; A3 → Köln-Ost → B55).
+- Considered: separate pages for Flughafen and Messe — rejected as too thin; kept as sections.

@@ -84,7 +84,7 @@
 <tr><td>Standort: Straße, Hof, Baustelle, Autobahn</td><td>Zufahrt, Platz zum Verladen</td></tr>
 </tbody></table></div>
 <h2>Die Grenze bei 3,5 Tonnen</h2>
-<p>Mit dem Führerschein der Klasse B dürfen Sie Fahrzeuge bis 3,5 Tonnen zulässiger Gesamtmasse fahren. Deshalb ist diese Grenze auch im Alltag der Punkt, an dem die Anforderungen an Fahrzeug und Fahrer wechseln. Fahrzeuge darüber, etwa größere Lieferwagen oder Wohnmobile, brauchen ein anderes Abschleppfahrzeug. Nennen Sie uns in dem Fall Länge, Höhe und Gewicht, damit wir klären können, wer das übernimmt.</p>
+<p>Mit dem Führerschein der Klasse B dürfen Sie Fahrzeuge bis 3,5 Tonnen zulässiger Gesamtmasse fahren. Deshalb ist diese Grenze auch im Alltag der Punkt, an dem die Anforderungen an Fahrzeug und Fahrer wechseln. Fahrzeuge darüber, etwa größere Lieferwagen oder Wohnmobile, brauchen ein anderes Abschleppfahrzeug, siehe <a href="ratgeber-wohnmobil-gespann-panne.html">Wohnmobil oder Gespann liegengeblieben</a>. Nennen Sie uns in dem Fall Länge, Höhe und Gewicht, damit wir klären können, wer das übernimmt.</p>
 <h2>Selbst abschleppen? Lieber nicht</h2>
 <p>Ein Transporter lässt sich mit einem Seil nur mit viel Vorsicht ziehen: Die Bremskraft des Zugfahrzeugs reicht bei einem beladenen Fahrzeug dahinter oft nicht, und ohne laufenden Motor sind Servolenkung und Bremskraftverstärker aus. Ob das Abschleppen mit dem eigenen Führerschein zulässig ist, hängt zudem davon ab, ob es sich um Abschleppen im Sinne der Nothilfe handelt oder um Schleppen. Das ist juristisch nicht ganz einfach. Ein Abschleppdienst nimmt Ihnen diese Frage ab. Regeln im Überblick: <a href="ratgeber-abschleppseil-oder-abschleppdienst.html">Abschleppseil oder Abschleppdienst?</a></p>
 <h2>Ladung und Werkzeug</h2>

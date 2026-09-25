@@ -59,3 +59,6 @@ ratgeber-tiefgarage-parkhaus-liegengeblieben	ratgeber-transporter-abschleppen.ht
 ratgeber-tiefgarage-parkhaus-liegengeblieben	abschleppdienst-karlsruhe.html	Abschleppdienst Karlsruhe	Parkhaus und Innenstadt
 pannenhilfe-a4-koeln	pannenhilfe-koeln.html	Pannenhilfe Köln	Was vor Ort möglich ist
 pannenhilfe-a1-koeln	pannenhilfe-koeln.html	Pannenhilfe Köln	Was vor Ort möglich ist
+ratgeber-wohnmobil-gespann-panne	ratgeber-transporter-abschleppen.html	Transporter abschleppen	Gewicht, Ladung, Höhe
+ratgeber-wohnmobil-gespann-panne	abschleppdienst-a5.html	Panne auf der A5	Ausfahrten 43 bis 56
+ratgeber-wohnmobil-gespann-panne	ratgeber-tiefgarage-parkhaus-liegengeblieben.html	Tiefgarage und Parkhaus	Höhe und Rampen
