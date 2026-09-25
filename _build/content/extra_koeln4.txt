@@ -1,0 +1,37 @@
+=== pannenhilfe-a1-koeln | Panne auf der A1 bei Köln: Leverkusen bis Erfttal | Panne auf der A1 von Leverkusen über Köln-Nord und Lövenich bis Frechen und Hürth: Ausfahrten, Rheinbrücke, Lärmschutztunnel und Verhalten. | page ===
+<!--AREAS: Köln, Leverkusen, Frechen, Hürth -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A1</p><h1>Panne auf der A1 bei Köln</h1><p class="lead">Im Westen und Norden Kölns bildet die A1 den Ring. Sie führt über die Leverkusener Rheinbrücke, durch eine Lärmschutzeinhausung und dann Richtung Eifel. Hier steht, wie Sie sich dort orientieren.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreuze und Ausfahrten im Kölner Raum</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Nr.</th><th>Name</th><th>Anschluss</th></tr></thead><tbody>
+<tr><td>98</td><td>Kreuz Leverkusen</td><td>A3</td></tr>
+<tr><td>99</td><td>Kreuz Leverkusen-West</td><td>A59</td></tr>
+<tr><td>100</td><td>Köln-Niehl</td><td></td></tr>
+<tr><td>101</td><td>Kreuz Köln-Nord</td><td>A57</td></tr>
+<tr><td>102</td><td>Köln-Bocklemünd</td><td>B59</td></tr>
+<tr><td>103</td><td>Köln-Lövenich</td><td>B55</td></tr>
+<tr><td>104</td><td>Kreuz Köln-West</td><td>A4</td></tr>
+<tr><td>104</td><td>Frechen</td><td>B264, mit Autohof</td></tr>
+<tr><td>105</td><td>Gleuel</td><td></td></tr>
+<tr><td>106</td><td>Hürth</td><td></td></tr>
+<tr><td>107</td><td>Dreieck Erfttal</td><td>A61</td></tr>
+</tbody></table></div>
+<p>Zwischen den Ausfahrten Gleuel und Hürth liegt die Raststätte Ville. Nennen Sie uns die Fahrtrichtung, zum Beispiel Richtung Dortmund oder Richtung Euskirchen und Saarbrücken, und die letzte Ausfahrt oder das letzte Kreuz.</p>
+<h2>Die Rheinbrücke bei Leverkusen</h2>
+<p>Die A1 überquert den Rhein zwischen Kreuz Leverkusen-West und Köln-Niehl auf der Leverkusener Rheinbrücke, einer Schrägseilbrücke von gut einem Kilometer Länge. Die Brücke gehört mit ihren Hochstraßen zu den Engstellen des Netzes. Wegen erheblicher Schäden an der Konstruktion wird sie durch einen Neubau ersetzt, mit einer Brücke je Fahrtrichtung; zeitweise galten für die alte Brücke Beschränkungen für Fahrzeuge über 3,5 Tonnen. Ob aktuell etwas gesperrt oder eingeschränkt ist, prüfen Sie vor der Fahrt in einer Verkehrsmeldung, das ändert sich. Wenn Sie hier liegen bleiben, sagen Sie uns, ob Sie vor oder hinter der Brücke stehen.</p>
+<h2>Der Lärmschutztunnel bei Lövenich</h2>
+<p>Bei Köln-Lövenich verläuft die A1 auf rund 1,5 Kilometern in einer Lärmschutzeinhausung, weil die Wohnbebauung bis an die Autobahn reicht. Das ist ein Tunnel. Wer dort liegen bleibt, sollte sich wie in jedem Tunnel verhalten: Warnblinker einschalten, Motor abstellen, das Fahrzeug verlassen und zur nächsten Notrufeinrichtung gehen, sofern das gefahrlos möglich ist. Bei Verletzten wählen Sie die 112. Direkt nach dem Tunnel folgt das Kreuz Köln-West, wo die A1 den Kölner Ring verlässt.</p>
+<h2>Kreuz Köln-Nord bei Chorweiler</h2>
+<p>Das Kreuz Köln-Nord liegt bei Chorweiler, dort trifft die A1 auf die A57. Auf dem Weg dorthin führt die Strecke an Merkenich und einem großen Industriepark vorbei, der Ring bildet hier eine weite Kurve von Norden nach Westen. Ein Kreuz bringt viele Fahrbeziehungen zusammen, deshalb hilft uns bei einer Panne die Angabe, aus welcher Richtung Sie kamen und wohin Sie wollten. Bleiben Sie hinter der Leitplanke, bis Hilfe da ist.</p>
+<h2>Südlich von Köln-West: vier Spuren, Autohof und Rastanlage</h2>
+<p>Nach Köln-West ist die A1 vierstreifig und führt an Frechen, Gleuel und Hürth vorbei ins Erfttal. Bei Frechen liegt an der Ausfahrt ein Autohof, dazu kommt die Raststätte Ville. Am Dreieck Erfttal läuft die A1 ein Stück gemeinsam mit der A61 und ist dann sechsstreifig, bis Erftstadt und Kreuz Bliesheim. Wenn Ihr Fahrzeug noch rollt, fahren Sie zu einer dieser Stellen. Dort stehen Sie außerhalb des fließenden Verkehrs.</p>
+<h2>Wer fährt in Köln?</h2>
+<p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze im Kölner Raum übernehmen Partner, wir koordinieren sie. Ob auf der Autobahn ein Vertragsunternehmen gerufen wird, entscheidet sich oft am Einsatzort: Ist die Polizei dabei oder haben Sie die Notrufsäule benutzt, kann das der Fall sein. Ihren Wunsch dürfen Sie trotzdem nennen. Was bei einer Panne insgesamt zu tun ist, steht im Ratgeber <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A1 bei Köln</h2>
+<details><summary>Was tun bei einer Panne im Tunnel bei Lövenich?</summary><div>Warnblinker an, Motor aus, Fahrzeug verlassen und zur nächsten Notrufeinrichtung gehen, sofern das gefahrlos möglich ist. Bei Verletzten 112.</div></details>
+<details><summary>Ich stehe kurz vor der Leverkusener Brücke. Was sage ich?</summary><div>Nennen Sie Fahrtrichtung, letzte Ausfahrt oder das letzte Kreuz (Leverkusen oder Leverkusen-West) und ob Sie vor der Brücke stehen. Am besten teilen Sie Ihren Standort per WhatsApp.</div></details>
+<details><summary>Gehört Leverkusen zu Ihrem Einsatzgebiet?</summary><div>Wir koordinieren Hilfe im Kölner Raum. Ob und wie wir Ihnen an Ihrem Standort helfen können, klären wir beim Anruf.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="pannenhilfe-a3-koeln.html">Panne auf der A3<small>Leverkusen bis Rösrath</small></a><a href="pannenhilfe-a4-koeln.html">Panne auf der A4<small>Frechen bis Bensberg</small></a><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring<small>Alle Kreuze im Überblick</small></a></div></div></section>
+@@CTA@@

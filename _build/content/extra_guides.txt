@@ -24,6 +24,7 @@
 <section class="section"><div class="wrap"><h2>Kosten und Regionales</h2><div class="cards3">
 <article class="card"><h3>Was kostet ein Abschleppdienst?</h3><p>Richtwerte, Preisfaktoren und Fragen, die Sie vorab stellen sollten.</p><a href="ratgeber-abschleppdienst-kosten.html">Lesen →</a></article>
 <article class="card"><h3>Kölner Autobahnring</h3><p>Panne auf A1, A3, A4 oder A555 rund um Köln: was Sie wissen sollten.</p><a href="pannenhilfe-koelner-autobahnring.html">Lesen →</a></article>
+<article class="card"><h3>Panne auf der A1 bei Köln</h3><p>Leverkusener Brücke, Lärmschutztunnel Lövenich und die Ausfahrten bis Erfttal.</p><a href="pannenhilfe-a1-koeln.html">Lesen →</a></article>
 <article class="card"><h3>Panne auf der A4 bei Köln</h3><p>Rodenkirchener Brücke, Kreuz Köln-Süd und der Weg ins Bergische Land.</p><a href="pannenhilfe-a4-koeln.html">Lesen →</a></article>
 <article class="card"><h3>Panne auf der A3 bei Köln</h3><p>Ausfahrten von Leverkusen bis Rösrath, achtspuriger Abschnitt und Verhalten im dichten Verkehr.</p><a href="pannenhilfe-a3-koeln.html">Lesen →</a></article>
 <article class="card"><h3>Panne auf der A5</h3><p>Alle Ausfahrten von Karlsruhe bis Lahr, Rastanlagen und Verhalten.</p><a href="abschleppdienst-a5.html">Lesen →</a></article>

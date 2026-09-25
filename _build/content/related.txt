@@ -58,3 +58,4 @@ ratgeber-tiefgarage-parkhaus-liegengeblieben	pannenhilfe-koeln.html	Pannenhilfe 
 ratgeber-tiefgarage-parkhaus-liegengeblieben	ratgeber-transporter-abschleppen.html	Transporter abschleppen	Höhe, Gewicht, Ladung
 ratgeber-tiefgarage-parkhaus-liegengeblieben	abschleppdienst-karlsruhe.html	Abschleppdienst Karlsruhe	Parkhaus und Innenstadt
 pannenhilfe-a4-koeln	pannenhilfe-koeln.html	Pannenhilfe Köln	Was vor Ort möglich ist
+pannenhilfe-a1-koeln	pannenhilfe-koeln.html	Pannenhilfe Köln	Was vor Ort möglich ist

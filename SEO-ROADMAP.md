@@ -32,7 +32,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
             └ kontakt, impressum, datenschutz, danke (danke = no sitemap)
 ```
 
-## 3. Page inventory (35 indexable-in-principle pages + danke)
+## 3. Page inventory (36 indexable-in-principle pages + danke)
 | URL | Primary topic | Search intent | Status |
 |-----|---------------|---------------|--------|
 | index | Abschleppdienst Köln | Local service, "Abschleppdienst Köln" | done |
@@ -65,6 +65,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | ratgeber-handbremse-loest-sich-nicht | Handbremse festgefroren/festgerostet, blockiertes Rad | How-to | done (cycle 3) |
 | ratgeber-transporter-abschleppen | Transporter/Kleintransporter bis 3,5 t | Practical + legal basics | done (cycle 3) |
 | pannenhilfe-a3-koeln | Panne A3 bei Köln (Leverkusen bis Rösrath) | Situation on Autobahn | done (cycle 5); ~10 % phrase overlap with the ring page, acceptable |
+| pannenhilfe-a1-koeln | Panne A1 bei Köln (Leverkusen bis Erfttal) | Situation on Autobahn | done (cycle 7) |
 | pannenhilfe-a4-koeln | Panne A4 bei Köln (Frechen bis Bensberg) | Situation on Autobahn | done (cycle 6) |
 | ratgeber-tiefgarage-parkhaus-liegengeblieben | Tiefgarage/Parkhaus, Durchfahrtshöhe, Rampen | Practical | done (cycle 5) |
 | kontakt, impressum, datenschutz | Utility | – | kontakt done; impressum/datenschutz drafts (B1) |
@@ -78,7 +79,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | Canonical | added cycle 1 (based on `$BASE`, see B2) |
 | Open Graph | added cycle 1 (og:image = existing hero photo) |
 | Breadcrumbs (visible + JSON-LD) | added cycle 1 |
-| `sitemap.xml` | added cycle 1 (35 URLs after cycle 6). Not referenced from robots.txt while the preview blocks crawling |
+| `sitemap.xml` | added cycle 1 (36 URLs after cycle 7). Not referenced from robots.txt while the preview blocks crawling |
 | FAQPage schema | generated from the visible `<details>` FAQs |
 | Organization/business schema | AutomotiveBusiness with `areaServed` on region and Köln pages; no street address invented (home page uses the real Antwerp address) |
 | Internal links | related-block on all guides, footer with all clusters; every page has ≥ 2 inbound links |
@@ -92,7 +93,7 @@ Known small issues: the hub page (owner copy) has the yellow placeholders in its
 ## 5. Backlog (ordered)
 Each entry: topic, intent, unique angle, links in/out. Do not build unless the angle is real.
 
-1. **Panne A3 / A4 / A1 Köln as separate pages** – A3 done (cycle 5, exits 22–30a, verified on Wikipedia). A4 done cycle 6 (exits 9b–20, Rodenkirchener Brücke, Autohof Eifeltor, lane counts 8/5/4). A1 (Leverkusener Brücke, Köln-Nord, Kreuz Köln-Lövenich) and A57/A555/A59 still open: research exits first, build only if the section is as distinct as the A3/A4 ones.
+1. **Panne A3 / A4 / A1 Köln as separate pages** – A3 done (cycle 5, exits 22–30a, verified on Wikipedia). A4 done cycle 6 (exits 9b–20, Rodenkirchener Brücke, Autohof Eifeltor, lane counts 8/5/4). A1 done cycle 7 (exits 98–107, Leverkusener Rheinbrücke, Lärmschutzeinhausung Lövenich 1,5 km, Autohof Frechen, Raststätte Ville). A57, A555 and A59 still open: research exits first, build only if the section is as distinct as the A1/A3/A4 ones (A555 and A59 are short, probably better as sections of the ring page).
 2. **A555 Köln–Bonn** – Zubringer, Kreuz Köln-Süd traffic figures already on the ring page. Needs additional facts (Bonn end, Wesseling, Flughafen link) before a page is justified.
 3. ~~Motorschaden / Auto geht während der Fahrt aus~~ – done cycle 3.
 4. ~~Auto lässt sich nicht bewegen (Handbremse, blockiertes Rad)~~ – done cycle 3.
@@ -136,3 +137,7 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 ### Cycle 6 (2026-09-26) – A4 Köln
 - Research: A4 exit list and section facts from the German Wikipedia source (exits 9b–20, Rodenkirchener Brücke 567 m, Autohof at 11b, A3/A4 joint 8-lane section, 5 then 4 lanes east of Köln-Ost), Autobahn GmbH traffic figures for Köln-Süd.
 - Wording of the partner disclosure is now varied per page to avoid identical paragraphs (highest phrase overlap is the A3/ring pair, ~10 %).
+
+### Cycle 7 (2026-09-26) – A1 Köln
+- Research: A1 exit list and features from the German Wikipedia source (Kreuz Leverkusen 98 … Dreieck Erfttal 107, Rheinbrücke Leverkusen 1.057 m, Einhausung Lövenich 1.550 m, lane counts 4/6). The status of the Leverkusen bridge (old bridge weight limits, new construction) is described generally and the reader is told to check current closures; no current-status claim is made.
+- Köln Autobahn cluster now: ring page + A1, A3, A4 pages, all cross-linked.
