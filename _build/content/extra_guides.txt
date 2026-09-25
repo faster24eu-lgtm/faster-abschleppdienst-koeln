@@ -14,6 +14,9 @@
 <article class="card"><h3>Warnleuchten im Auto</h3><p>Rot, gelb, blinkend: welche Symbole Sie zum sofortigen Anhalten zwingen.</p><a href="ratgeber-warnleuchten-auto.html">Lesen →</a></article>
 <article class="card"><h3>Motor überhitzt</h3><p>Sofortmaßnahmen, warum der Kühlerdeckel zu bleibt und wann abgeschleppt werden muss.</p><a href="ratgeber-motor-ueberhitzt.html">Lesen →</a></article>
 <article class="card"><h3>Automatikauto abschleppen</h3><p>Stellung N, Notentriegelung, Streckenlimit: warum Verladen meist besser ist.</p><a href="ratgeber-automatik-abschleppen.html">Lesen →</a></article>
+<article class="card"><h3>Motor geht während der Fahrt aus</h3><p>Sicher ausrollen, was Sie prüfen können und welche Ursachen dahinterstecken.</p><a href="ratgeber-motor-geht-aus.html">Lesen →</a></article>
+<article class="card"><h3>Handbremse löst sich nicht</h3><p>Festgefroren oder festgerostet: was hilft und wann das Auto auf die Ladefläche muss.</p><a href="ratgeber-handbremse-loest-sich-nicht.html">Lesen →</a></article>
+<article class="card"><h3>Transporter abschleppen</h3><p>Gewicht, Ladung, Höhe: die Angaben, die für Transporter bis 3,5 t zählen.</p><a href="ratgeber-transporter-abschleppen.html">Lesen →</a></article>
 <article class="card"><h3>Motorrad-Transport</h3><p>Warum Motorräder nicht abgeschleppt werden dürfen und wie der Transport abläuft.</p><a href="ratgeber-motorrad-transport.html">Lesen →</a></article>
 <article class="card"><h3>Abschleppseil oder Abschleppdienst?</h3><p>Die Regeln für das private Abschleppen und wann Sie besser den Profi rufen.</p><a href="ratgeber-abschleppseil-oder-abschleppdienst.html">Lesen →</a></article>
 </div></div></section>
@@ -414,6 +417,7 @@
 <ul class="ticks">
 <li><strong>Elektro- und Hybridautos:</strong> Rekuperation kann Schäden verursachen, siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</li>
 <li><strong>Automatikgetriebe:</strong> Bei vielen Modellen darf ohne Motor nur mit Einschränkungen abgeschleppt werden, siehe <a href="ratgeber-automatik-abschleppen.html">Automatikauto abschleppen</a>.</li>
+<li><strong>Blockiertes Rad:</strong> Ein Rad, das nicht dreht, schleift über den Asphalt. Siehe <a href="ratgeber-handbremse-loest-sich-nicht.html">Handbremse löst sich nicht</a>.</li>
 <li><strong>Unfallschäden:</strong> Beschädigte Achsen, Lenkung oder Bremsen machen Abschleppen mit Seil gefährlich.</li>
 <li><strong>Dichter Verkehr, Autobahn, Berge:</strong> Hier ist ein Abschleppdienst sicherer.</li>
 </ul>

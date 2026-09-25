@@ -30,7 +30,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
             └ kontakt, impressum, datenschutz, danke (danke = no sitemap)
 ```
 
-## 3. Page inventory (29 indexable-in-principle pages + danke)
+## 3. Page inventory (32 indexable-in-principle pages + danke)
 | URL | Primary topic | Search intent | Status |
 |-----|---------------|---------------|--------|
 | index | Abschleppdienst Köln | Local service, "Abschleppdienst Köln" | done |
@@ -59,6 +59,9 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | ratgeber-motor-ueberhitzt | Motor überhitzt | Immediate how-to | done (cycle 2) |
 | ratgeber-automatik-abschleppen | Automatik abschleppen, Stellung N | How-to | done (cycle 2) |
 | ratgeber-nach-unfall-fahrbereit | Fahrbereit oder abschleppen nach Unfall | Decision help | done (cycle 2) |
+| ratgeber-motor-geht-aus | Motor geht während der Fahrt aus | Immediate how-to | done (cycle 3) |
+| ratgeber-handbremse-loest-sich-nicht | Handbremse festgefroren/festgerostet, blockiertes Rad | How-to | done (cycle 3) |
+| ratgeber-transporter-abschleppen | Transporter/Kleintransporter bis 3,5 t | Practical + legal basics | done (cycle 3) |
 | kontakt, impressum, datenschutz | Utility | – | kontakt done; impressum/datenschutz drafts (B1) |
 
 ## 4. Technical SEO status
@@ -70,7 +73,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | Canonical | added cycle 1 (based on `$BASE`, see B2) |
 | Open Graph | added cycle 1 (og:image = existing hero photo) |
 | Breadcrumbs (visible + JSON-LD) | added cycle 1 |
-| `sitemap.xml` | added cycle 1 (29 URLs after cycle 2). Not referenced from robots.txt while the preview blocks crawling |
+| `sitemap.xml` | added cycle 1 (32 URLs after cycle 3). Not referenced from robots.txt while the preview blocks crawling |
 | FAQPage schema | generated from the visible `<details>` FAQs |
 | Organization/business schema | AutomotiveBusiness with `areaServed` on region and Köln pages; no street address invented (home page uses the real Antwerp address) |
 | Internal links | related-block on all guides, footer with all clusters; every page has ≥ 2 inbound links |
@@ -86,9 +89,9 @@ Each entry: topic, intent, unique angle, links in/out. Do not build unless the a
 
 1. **Panne A3 / A4 / A1 Köln as separate pages** – only if research yields distinct content per road (sections, junctions, typical situations). Today one ring page covers them; splitting without new facts would be thin. *Research first.*
 2. **A555 Köln–Bonn** – Zubringer, Kreuz Köln-Süd traffic figures already on the ring page. Needs additional facts (Bonn end, Wesseling, Flughafen link) before a page is justified.
-3. **Motorschaden / Auto geht während der Fahrt aus** – intent: immediate how-to; angle: symptoms vs. causes, when to stop. Links from Warnleuchten, Überhitzung.
-4. **Auto lässt sich nicht bewegen (Handbremse/Parksperre festgefressen, blockiertes Rad)** – intent: how-to; angle: Feststellbremse elektrisch vs. mechanisch, when to call for a Bergung.
-5. **Transporter/Kleintransporter abschleppen (bis 3,5 t)** – legal + practical (Führerscheinklasse, Ladung, Höhe). Needs verified legal facts.
+3. ~~Motorschaden / Auto geht während der Fahrt aus~~ – done cycle 3.
+4. ~~Auto lässt sich nicht bewegen (Handbremse, blockiertes Rad)~~ – done cycle 3.
+5. ~~Transporter abschleppen (bis 3,5 t)~~ – done cycle 3. The Führerschein question (Abschleppen vs. Schleppen, Klasse E) is only hedged in the text; a lawyer/Straßenverkehrsamt source would be needed for firm statements.
 6. **Fahrzeug aus Tiefgarage bergen** – Durchfahrtshöhen, Zufahrt; needs sourced facts (Garagenverordnung) before writing.
 7. **Karlsruhe: Panne Südtangente/B10 in one place** – only if it adds beyond the Karlsruhe page; otherwise extend that page.
 8. **Baden-Baden / Schwarzwaldhochstraße im Winter** – winter breakdowns; needs sourced road facts.
@@ -108,3 +111,9 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 ### Cycle 2 (2026-09-26) – Ratgeber gaps
 - Added: Warnleuchten, Motor überhitzt, Automatikauto abschleppen, Nach dem Unfall fahrbereit. Facts checked against web sources (Kühlerdeckel/Abkühlzeit, Stellung N + ~50 km/h + kurze Strecke, Farblogik der Warnleuchten, Verkehrssicherheit-Kategorien).
 - Linked from the Ratgeber index, related blocks and in-body links on 5 existing pages.
+
+### Cycle 3 (2026-09-26) – tooling and three more guides
+- Moved the generator into the repo (`_build/`, see `_build/README.md`) so any session can rebuild the site; verified the rebuild is byte-identical to the deployed HTML.
+- Added: Motor geht während der Fahrt aus, Handbremse löst sich nicht, Transporter abschleppen. Sources: search results on Feststellbremse/Frost (Föhn statt Heißluft, vorsichtiges Rangieren), Ursachen Motorausfall (Kraftstoffpumpe, Lichtmaschine, Zahnriemen, DPF), Führerscheinklasse B ≤ 3,5 t.
+- Linked from the Ratgeber index, related blocks, and in-body links on Karlsruhe, Überhitzung and Abschleppseil pages.
+- Scheduled: hourly cycles until 08:30 (session cron). Each cycle follows the loop in the master instruction.

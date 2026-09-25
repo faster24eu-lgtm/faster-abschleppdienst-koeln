@@ -58,7 +58,7 @@ sub schema_for {
 # extra pages: marker "=== slug | title | description | flag ===", optional body comment <!--AREAS: a, b -->. Later files override earlier slugs.
 {
   my $dir = "$Bin/content";
-  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt)) {
+  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt)) {
     open(my $ex,"<:raw","$dir/$name") or next; my $c;
     while (my $l=<$ex>) {
       if ($l =~ /^=== (\S+) \| (.*?) \| (.*) \| (\w+) ===\s*$/) { $c=$1; push @order,$c unless $P{$c}; $P{$c}={title=>"$2 | Faster Abschleppdienst",desc=>$3,flag=>$4,body=>""}; next }
@@ -86,6 +86,8 @@ my %CRUMB_PARENT = (
   'ratgeber-motorrad-transport'=>['ratgeber','Motorrad-Transport'], 'ratgeber-abschleppseil-oder-abschleppdienst'=>['ratgeber','Abschleppseil oder Abschleppdienst?'],
   'ratgeber-warnleuchten-auto'=>['ratgeber','Warnleuchten im Auto'], 'ratgeber-motor-ueberhitzt'=>['ratgeber','Motor überhitzt'],
   'ratgeber-automatik-abschleppen'=>['ratgeber','Automatikauto abschleppen'], 'ratgeber-nach-unfall-fahrbereit'=>['ratgeber','Nach dem Unfall: fahrbereit?'],
+  'ratgeber-handbremse-loest-sich-nicht'=>['ratgeber','Handbremse löst sich nicht'], 'ratgeber-motor-geht-aus'=>['ratgeber','Motor geht während der Fahrt aus'],
+  'ratgeber-transporter-abschleppen'=>['ratgeber','Transporter abschleppen'],
 );
 my %CRUMB_LABEL = ('index'=>'Start', 'ratgeber'=>'Ratgeber', 'abschleppdienst-mittelbaden'=>'Karlsruhe bis Offenburg');
 # related links per page from related.txt (tab separated: slug, target, label, small); placed before the CTA

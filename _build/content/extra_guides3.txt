@@ -1,0 +1,100 @@
+=== ratgeber-handbremse-loest-sich-nicht | Handbremse löst sich nicht: Ursachen und was hilft | Handbremse festgefroren oder festgerostet? Was Sie selbst versuchen können, was Sie lassen sollten und wann das Auto auf die Ladefläche muss. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Handbremse löst sich nicht: Was hilft</h1><p class="lead">Das Auto rollt nicht oder schleift, obwohl die Handbremse unten ist. Meist steckt Feuchtigkeit oder Rost dahinter, und oft lässt es sich ohne Werkstatt beheben.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Warum die Bremse hängt</h2>
+<p>Die mechanische Handbremse wird über einen Seilzug betätigt. Steht Feuchtigkeit im Seilzug und es friert, kann er einfrieren. Bei Fahrzeugen mit Trommelbremse an der Hinterachse sammelt sich Feuchtigkeit in der Trommel. Steht das Auto lange mit angezogener Handbremse, kann sich dort außerdem Rost bilden. Bei der elektrischen Parkbremse kann es bei längerem Stehen und starkem Frost ebenfalls dazu kommen, dass die Hinterachse blockiert.</p>
+<h2>Was Sie versuchen können</h2>
+<ol>
+<li><strong>Vorsichtig anfahren.</strong> Manchmal löst sich die Bremse schon nach wenigen Zentimetern. Ein paar Mal vorsichtig vor- und zurückrollen hilft oft.</li>
+<li><strong>Erwärmen mit einem Haartrockner</strong> an der Hinterachse, wenn Sie herankommen. Ein Heißluftgebläse oder eine offene Flamme sind dagegen tabu, sie können Gummiteile und Lack beschädigen.</li>
+<li><strong>Warten:</strong> Bei Tauwetter oder nach einer Fahrt in der Garage löst sich Eis von selbst.</li>
+</ol>
+<div class="note"><p>Fahren Sie nicht mit hohem Tempo los, wenn Sie den Eindruck haben, dass ein Rad noch bremst. Ein schleifendes Rad wird heiß, riecht verbrannt und kann Bremse und Reifen zerstören.</p></div>
+<h2>Anzeichen, dass die Bremse noch schleift</h2>
+<ul class="ticks">
+<li>Das Fahrzeug fährt nur mit deutlich mehr Gas an</li>
+<li>Es riecht verbrannt oder qualmt an einem Hinterrad</li>
+<li>Ein Hinterrad ist nach kurzer Fahrt auffallend heiß</li>
+<li>Das Auto zieht zur Seite oder es quietscht</li>
+</ul>
+<h2>Vorbeugen im Winter</h2>
+<p>Bei Frost und längerem Parken sollten Sie die Handbremse nicht fest angezogen lassen. Auf ebener Strecke können Sie stattdessen einen Gang einlegen, beim Automatikfahrzeug die Stellung P nutzen. Am Hang legen Sie zusätzlich einen Unterlegkeil unter ein Rad. Bei der elektrischen Parkbremse gilt dasselbe: Bei starkem Frost und langem Stehen nicht dauerhaft angezogen lassen, wenn es die Situation erlaubt.</p>
+<h2>Wenn nichts hilft: Abschleppen</h2>
+<p>Bewegt sich das Fahrzeug nicht oder blockiert ein Rad, ziehen Sie es nicht mit Seil oder Stange. Ein blockiertes Rad schleift dabei über den Asphalt, der Reifen wird zerstört, und die Achse kann Schaden nehmen. Sagen Sie uns am Telefon, dass ein Rad blockiert ist, ob es die Vorder- oder die Hinterachse betrifft und ob das Fahrzeug einen Automatikwählhebel hat. Dann klären wir, wie es sich verladen lässt. Weitere Regeln zum Abschleppen finden Sie unter <a href="ratgeber-abschleppseil-oder-abschleppdienst.html">Abschleppseil oder Abschleppdienst?</a> und <a href="ratgeber-automatik-abschleppen.html">Automatikauto abschleppen</a>.</p>
+<h2>Fehlermeldung bei der elektrischen Parkbremse</h2>
+<p>Meldet das Display einen Fehler oder lässt sich die Parkbremse nicht lösen, liegt es manchmal an einer schwachen Batterie. Wenn Sie nach Starthilfe die Bremse wieder lösen können, war das der Grund. Bleibt es dabei, muss die Werkstatt ran. Siehe <a href="ratgeber-starthilfe-batterie.html">Starthilfe und leere Batterie</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich mit angezogener Handbremse ein Stück fahren, damit sie sich löst?</summary><div>Nein. Das führt zu Überhitzung und Schäden. Lösen Sie sie zuerst, so gut es geht, oder lassen Sie das Fahrzeug transportieren.</div></details>
+<details><summary>Ist eine festgefrorene Handbremse ein Fall für den Abschleppdienst?</summary><div>Meist nicht. Wenn sie sich mit Geduld und Wärme lösen lässt, brauchen Sie keinen. Bleibt ein Rad blockiert, ist ein Transport auf der Ladefläche die sichere Lösung.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-motor-geht-aus | Motor geht während der Fahrt aus: Ursachen, Ablauf | Motor aus während der Fahrt: wie Sie sicher anhalten, was zu tun ist und welche Ursachen (Kraftstoff, Lichtmaschine, Zahnriemen) dahinter stecken können. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Motor geht während der Fahrt aus</h1><p class="lead">Plötzlich ist der Motor aus, das Lenkrad wird schwer und das Bremspedal hart. Ruhe bewahren, das Auto ist noch lenkbar.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Die ersten Sekunden</h2>
+<ol>
+<li><strong>Warnblinker einschalten,</strong> Kupplung treten oder Wählhebel auf N, das Fahrzeug ausrollen lassen.</li>
+<li><strong>Kräftig lenken und bremsen.</strong> Ohne Motor arbeiten Servolenkung und Bremskraftverstärker nicht mehr, das Fahrzeug lässt sich aber weiter lenken und bremsen. Es braucht nur deutlich mehr Kraft.</li>
+<li><strong>Zum sicheren Ort rollen:</strong> nach rechts, in eine Haltebucht, auf einen Parkplatz oder an die nächste Ausfahrt, sonst auf den Standstreifen.</li>
+<li><strong>Warnweste an, aussteigen, hinter die Leitplanke.</strong> Auf der Autobahn siehe <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</li>
+</ol>
+<h2>Was Sie danach prüfen können</h2>
+<ul class="ticks">
+<li><strong>Kraftstoff:</strong> Ist der Tank leer, oder wurde falsch getankt? Bei falsch getankt: nicht wieder starten, siehe <a href="ratgeber-falsch-getankt.html">Falsch getankt</a>.</li>
+<li><strong>Warnleuchten:</strong> Leuchtet die Batterie- oder Öldruckleuchte? Siehe <a href="ratgeber-warnleuchten-auto.html">Warnleuchten im Auto</a>.</li>
+<li><strong>Kraftstoffpumpe:</strong> Bei einigen Fahrzeugen hört man beim Einschalten der Zündung ein kurzes Surren. Fehlt es, kann die Pumpe ausgefallen sein.</li>
+<li><strong>Geräusche vor dem Ausgehen:</strong> Ruckeln, Leistungsverlust oder Rasseln geben Hinweise für die Werkstatt.</li>
+</ul>
+<h2>Häufige Ursachen</h2>
+<ul class="ticks">
+<li><strong>Kraftstoffversorgung:</strong> Ausgefallene Kraftstoffpumpe oder verstopfter Filter. Der Motor bekommt nicht genug Kraftstoff.</li>
+<li><strong>Lichtmaschine:</strong> Fällt sie aus, versorgt sie das Auto nicht mehr mit Strom. Ist die Batterie leer, geht das Auto aus. Vorher brennt meist die rote Batterieleuchte.</li>
+<li><strong>Zahnriemen oder Steuerkette:</strong> Ein Schaden, etwa an der Spannrolle, kann den Motor abwürgen. Dann darf er nicht mehr angelassen werden, weil dadurch großer Schaden entstehen kann.</li>
+<li><strong>Dieselpartikelfilter:</strong> Ein verstopfter Filter kann einen Diesel zum Stehen bringen, häufig bei Fahrzeugen mit hoher Laufleistung.</li>
+</ul>
+<h2>Nicht immer wieder starten</h2>
+<p>Ein zweiter Startversuch ist erlaubt, wenn Sie sicher stehen und keine rote Leuchte brennt. Wiederholtes Orgeln lädt die Batterie aber weiter herunter und kann bei einem Zahnriemenschaden den Motor zerstören. Bricht der Motor nach dem Start wieder ab oder klingt er ungewöhnlich, lassen Sie es. Die Werkstatt liest den Fehlerspeicher aus, das ist der erste Schritt zur Diagnose.</p>
+<h2>Wann Sie uns rufen sollten</h2>
+<ul class="ticks">
+<li>Der Motor startet nicht mehr oder geht direkt wieder aus</li>
+<li>Rote Warnleuchte oder ungewöhnliche Geräusche vor dem Ausgehen</li>
+<li>Sie stehen an einer gefährlichen Stelle, etwa Autobahn, Tunnel oder Brücke</li>
+</ul>
+<p>Das Fahrzeug wird dann auf einem Plateauwagen in die Werkstatt gebracht. Bei Hybrid und Elektro ist das ohnehin der sichere Weg, siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich weiterfahren, wenn der Motor wieder anspringt?</summary><div>Nur wenn keine rote Leuchte brennt und der Motor normal läuft. Lassen Sie die Ursache bald prüfen, denn der Fehler kann wiederkommen.</div></details>
+<details><summary>Warum wird das Lenkrad plötzlich schwer?</summary><div>Ohne laufenden Motor arbeitet die Servolenkung nicht. Sie können weiter lenken, brauchen aber mehr Kraft.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-transporter-abschleppen | Transporter liegengeblieben: Abschleppen und Bergen bis 3,5 t | Transporter oder Kleinlaster liegengeblieben: Gewicht, Ladung, Höhe und Führerschein. Was Sie am Telefon angeben sollten und warum Verladen oft nötig ist. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Transporter abschleppen: Was Sie angeben müssen</h1><p class="lead">Transporter sind schwerer, höher und oft beladen. Deshalb entscheiden ein paar Angaben darüber, welches Fahrzeug kommen muss.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Warum ein Transporter anders ist als ein Pkw</h2>
+<p>Gewicht, Länge und Höhe sind größer, und viele Transporter fahren mit Ladung. Ein Abschleppwagen für Pkw hat Grenzen bei Gewicht und Länge der Ladefläche. Die Zuladung zählt mit: Ein Transporter mit 3,5 Tonnen zulässiger Gesamtmasse wiegt beladen deutlich mehr als leer. Deshalb fragen wir nach mehr als nur Marke und Modell.</p>
+<h2>Diese Angaben helfen uns am meisten</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Angabe</th><th>Warum sie wichtig ist</th></tr></thead><tbody>
+<tr><td>Marke, Modell, Baujahr</td><td>Radstand, Länge, Antrieb</td></tr>
+<tr><td>Zulässige Gesamtmasse und Ladung</td><td>Welches Fahrzeug das Gewicht tragen kann</td></tr>
+<tr><td>Länge und Höhe (auch Dachaufbauten)</td><td>Ladefläche, Tiefgarage, Brücken</td></tr>
+<tr><td>Vorder-, Hinter- oder Allradantrieb</td><td>Wie das Fahrzeug verladen werden darf</td></tr>
+<tr><td>Manuell oder Automatik</td><td>Siehe <a href="ratgeber-automatik-abschleppen.html">Automatikauto abschleppen</a></td></tr>
+<tr><td>Kann die Ladung abgeladen werden?</td><td>Leichteres Fahrzeug möglich, Ladung sicher</td></tr>
+<tr><td>Standort: Straße, Hof, Baustelle, Autobahn</td><td>Zufahrt, Platz zum Verladen</td></tr>
+</tbody></table></div>
+<h2>Die Grenze bei 3,5 Tonnen</h2>
+<p>Mit dem Führerschein der Klasse B dürfen Sie Fahrzeuge bis 3,5 Tonnen zulässiger Gesamtmasse fahren. Deshalb ist diese Grenze auch im Alltag der Punkt, an dem die Anforderungen an Fahrzeug und Fahrer wechseln. Fahrzeuge darüber, etwa größere Lieferwagen oder Wohnmobile, brauchen ein anderes Abschleppfahrzeug. Nennen Sie uns in dem Fall Länge, Höhe und Gewicht, damit wir klären können, wer das übernimmt.</p>
+<h2>Selbst abschleppen? Lieber nicht</h2>
+<p>Ein Transporter lässt sich mit einem Seil nur mit viel Vorsicht ziehen: Die Bremskraft des Zugfahrzeugs reicht bei einem beladenen Fahrzeug dahinter oft nicht, und ohne laufenden Motor sind Servolenkung und Bremskraftverstärker aus. Ob das Abschleppen mit dem eigenen Führerschein zulässig ist, hängt zudem davon ab, ob es sich um Abschleppen im Sinne der Nothilfe handelt oder um Schleppen. Das ist juristisch nicht ganz einfach. Ein Abschleppdienst nimmt Ihnen diese Frage ab. Regeln im Überblick: <a href="ratgeber-abschleppseil-oder-abschleppdienst.html">Abschleppseil oder Abschleppdienst?</a></p>
+<h2>Ladung und Werkzeug</h2>
+<p>Was im Fahrzeug bleibt, steht am Ende beim Transport hinten auf der Ladefläche mit. Wertvolles Werkzeug, Maschinen und Material sollten Sie nach Möglichkeit ausräumen oder sichern. Nennen Sie am Telefon, wenn die Ladung nicht abgeladen werden kann, dann planen wir das mit ein.</p>
+<h2>Nach der Panne</h2>
+<p>Wenn der Transporter auf einer Baustelle oder einem Firmengelände steht, sagen Sie uns, wer den Zugang öffnet und wo das Fahrzeug abgeholt werden soll.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Bis welches Gewicht helfen Sie?</summary><div>Fahrzeuge bis 3,5 Tonnen zulässiger Gesamtmasse gehören zu unserem Alltag. Für Schwereres nennen Sie uns Länge, Höhe und Gewicht, dann klären wir, wer helfen kann.</div></details>
+<details><summary>Muss die Ladung ausgeräumt werden?</summary><div>Wenn möglich ja. Sagen Sie uns Bescheid, wenn das nicht geht, dann planen wir mit dem tatsächlichen Gewicht.</div></details>
+<details><summary>Darf ich mit einem B-Führerschein einen Transporter ziehen?</summary><div>Die Grenze für Fahrzeuge liegt bei 3,5 Tonnen. Die Regeln zum Abschleppen im Einzelnen sind komplizierter. Wenden Sie sich im Zweifel an das Straßenverkehrsamt oder nehmen Sie einen Abschleppdienst.</div></details>
+</div></section>
+@@CTA@@
