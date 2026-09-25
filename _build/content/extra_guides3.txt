@@ -90,7 +90,7 @@
 <h2>Ladung und Werkzeug</h2>
 <p>Was im Fahrzeug bleibt, steht am Ende beim Transport hinten auf der Ladefläche mit. Wertvolles Werkzeug, Maschinen und Material sollten Sie nach Möglichkeit ausräumen oder sichern. Nennen Sie am Telefon, wenn die Ladung nicht abgeladen werden kann, dann planen wir das mit ein.</p>
 <h2>Nach der Panne</h2>
-<p>Wenn der Transporter auf einer Baustelle oder einem Firmengelände steht, sagen Sie uns, wer den Zugang öffnet und wo das Fahrzeug abgeholt werden soll.</p>
+<p>Wenn der Transporter in einer Tiefgarage oder einem Parkhaus steht, hilft der Ratgeber <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Tiefgarage und Parkhaus</a>. Wenn der Transporter auf einer Baustelle oder einem Firmengelände steht, sagen Sie uns, wer den Zugang öffnet und wo das Fahrzeug abgeholt werden soll.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
 <details><summary>Bis welches Gewicht helfen Sie?</summary><div>Fahrzeuge bis 3,5 Tonnen zulässiger Gesamtmasse gehören zu unserem Alltag. Für Schwereres nennen Sie uns Länge, Höhe und Gewicht, dann klären wir, wer helfen kann.</div></details>

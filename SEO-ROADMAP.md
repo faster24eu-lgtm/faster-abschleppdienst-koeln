@@ -32,7 +32,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
             └ kontakt, impressum, datenschutz, danke (danke = no sitemap)
 ```
 
-## 3. Page inventory (32 indexable-in-principle pages + danke)
+## 3. Page inventory (34 indexable-in-principle pages + danke)
 | URL | Primary topic | Search intent | Status |
 |-----|---------------|---------------|--------|
 | index | Abschleppdienst Köln | Local service, "Abschleppdienst Köln" | done |
@@ -64,6 +64,8 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | ratgeber-motor-geht-aus | Motor geht während der Fahrt aus | Immediate how-to | done (cycle 3) |
 | ratgeber-handbremse-loest-sich-nicht | Handbremse festgefroren/festgerostet, blockiertes Rad | How-to | done (cycle 3) |
 | ratgeber-transporter-abschleppen | Transporter/Kleintransporter bis 3,5 t | Practical + legal basics | done (cycle 3) |
+| pannenhilfe-a3-koeln | Panne A3 bei Köln (Leverkusen bis Rösrath) | Situation on Autobahn | done (cycle 5); ~10 % phrase overlap with the ring page, acceptable |
+| ratgeber-tiefgarage-parkhaus-liegengeblieben | Tiefgarage/Parkhaus, Durchfahrtshöhe, Rampen | Practical | done (cycle 5) |
 | kontakt, impressum, datenschutz | Utility | – | kontakt done; impressum/datenschutz drafts (B1) |
 
 ## 4. Technical SEO status
@@ -75,7 +77,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | Canonical | added cycle 1 (based on `$BASE`, see B2) |
 | Open Graph | added cycle 1 (og:image = existing hero photo) |
 | Breadcrumbs (visible + JSON-LD) | added cycle 1 |
-| `sitemap.xml` | added cycle 1 (32 URLs after cycle 3). Not referenced from robots.txt while the preview blocks crawling |
+| `sitemap.xml` | added cycle 1 (34 URLs after cycle 5). Not referenced from robots.txt while the preview blocks crawling |
 | FAQPage schema | generated from the visible `<details>` FAQs |
 | Organization/business schema | AutomotiveBusiness with `areaServed` on region and Köln pages; no street address invented (home page uses the real Antwerp address) |
 | Internal links | related-block on all guides, footer with all clusters; every page has ≥ 2 inbound links |
@@ -89,12 +91,12 @@ Known small issues: the hub page (owner copy) has the yellow placeholders in its
 ## 5. Backlog (ordered)
 Each entry: topic, intent, unique angle, links in/out. Do not build unless the angle is real.
 
-1. **Panne A3 / A4 / A1 Köln as separate pages** – only if research yields distinct content per road (sections, junctions, typical situations). Today one ring page covers them; splitting without new facts would be thin. *Research first.*
+1. **Panne A3 / A4 / A1 Köln as separate pages** – A3 done (cycle 5, exits 22–30a, verified on Wikipedia). A4 (Rodenkirchener Brücke, Köln-Süd, Köln-West) and A1 (Leverkusener Brücke, Köln-Nord, Kreuz Köln-Lövenich) still open: research exits first, build only if the section is as distinct as the A3 one.
 2. **A555 Köln–Bonn** – Zubringer, Kreuz Köln-Süd traffic figures already on the ring page. Needs additional facts (Bonn end, Wesseling, Flughafen link) before a page is justified.
 3. ~~Motorschaden / Auto geht während der Fahrt aus~~ – done cycle 3.
 4. ~~Auto lässt sich nicht bewegen (Handbremse, blockiertes Rad)~~ – done cycle 3.
 5. ~~Transporter abschleppen (bis 3,5 t)~~ – done cycle 3. The Führerschein question (Abschleppen vs. Schleppen, Klasse E) is only hedged in the text; a lawyer/Straßenverkehrsamt source would be needed for firm statements.
-6. **Fahrzeug aus Tiefgarage bergen** – Durchfahrtshöhen, Zufahrt; needs sourced facts (Garagenverordnung) before writing.
+6. ~~Fahrzeug aus Tiefgarage bergen~~ – done cycle 5 (Muster-Garagenverordnung 2,00 m, Durchfahrtshöhe 1,90–2,10 m typical, Rampen 15/20 %).
 7. **Karlsruhe: Panne Südtangente/B10 in one place** – only if it adds beyond the Karlsruhe page; otherwise extend that page.
 8. **Baden-Baden / Schwarzwaldhochstraße im Winter** – winter breakdowns; needs sourced road facts.
 9. **Kehl–Straßburg: Panne im Grenzgebiet** – cross-border transport, documents; needs verified rules.
@@ -124,3 +126,8 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 - Reviewed the structure: hero with 24/7 phone, 6 service cards, 3-step process, benefits block, cost section, Einsatzgebiet with map, 14-question FAQ, Ratgeber in main nav, footer with 20+ city links.
 - Adopted (with honest content): more service cards (falsch getankt, ausgesperrt, E-Auto), "Was Sie an uns haben" block, "Wovon die Kosten abhängen" (no numbers, no promise), longer FAQ on the Köln home page (now ~1,100 words).
 - Deliberately NOT adopted: customer counts, star ratings, insurer/ADAC logos, "Festpreisgarantie", "Versicherungsschutz" claims, city-link footer (doorway pages), stats section. None of these is supported by facts we have.
+
+### Cycle 5 (2026-09-26) – A3 Köln and Tiefgarage
+- Research: A3 exit list from Wikipedia raw source (22 Leverkusen-Opladen … 30a Rösrath), 8-lane facts (Leverkusen–Mülheim since 2017, Köln-Ost–Heumar 2005), 2015 traffic count; Muster-Garagenverordnung values for the Tiefgarage guide.
+- Considered and rejected: a France-breakdown guide (private roadside assistance is banned on French motorways; not our service, so no business reason to rank for it).
+- Linked from the Köln ring page, Köln home (Angaben list), Ratgeber index, footer, related blocks.

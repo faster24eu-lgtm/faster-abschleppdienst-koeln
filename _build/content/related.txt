@@ -53,3 +53,7 @@ ratgeber-motor-geht-aus	ratgeber-falsch-getankt.html	Falsch getankt	Wenn der Kra
 ratgeber-transporter-abschleppen	ratgeber-abschleppseil-oder-abschleppdienst.html	Abschleppseil oder Abschleppdienst?	Regeln im Überblick
 ratgeber-transporter-abschleppen	abschleppen-bergung-koeln.html	Abschleppen und Bergung Köln	Pkw und Transporter bis 3,5 t
 ratgeber-transporter-abschleppen	abschleppdienst-karlsruhe.html	Abschleppdienst Karlsruhe	Transporter und Firmenfahrzeuge
+pannenhilfe-a3-koeln	pannenhilfe-koeln.html	Pannenhilfe Köln	Was vor Ort möglich ist
+ratgeber-tiefgarage-parkhaus-liegengeblieben	pannenhilfe-koeln.html	Pannenhilfe Köln	Batterie, Reifen, ausgesperrt
+ratgeber-tiefgarage-parkhaus-liegengeblieben	ratgeber-transporter-abschleppen.html	Transporter abschleppen	Höhe, Gewicht, Ladung
+ratgeber-tiefgarage-parkhaus-liegengeblieben	abschleppdienst-karlsruhe.html	Abschleppdienst Karlsruhe	Parkhaus und Innenstadt

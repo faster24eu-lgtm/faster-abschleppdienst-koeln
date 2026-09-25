@@ -16,6 +16,7 @@
 <article class="card"><h3>Automatikauto abschleppen</h3><p>Stellung N, Notentriegelung, Streckenlimit: warum Verladen meist besser ist.</p><a href="ratgeber-automatik-abschleppen.html">Lesen →</a></article>
 <article class="card"><h3>Motor geht während der Fahrt aus</h3><p>Sicher ausrollen, was Sie prüfen können und welche Ursachen dahinterstecken.</p><a href="ratgeber-motor-geht-aus.html">Lesen →</a></article>
 <article class="card"><h3>Handbremse löst sich nicht</h3><p>Festgefroren oder festgerostet: was hilft und wann das Auto auf die Ladefläche muss.</p><a href="ratgeber-handbremse-loest-sich-nicht.html">Lesen →</a></article>
+<article class="card"><h3>Tiefgarage und Parkhaus</h3><p>Durchfahrtshöhe, Rampen und die Angaben, die für die Bergung aus einer Garage zählen.</p><a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Lesen →</a></article>
 <article class="card"><h3>Transporter abschleppen</h3><p>Gewicht, Ladung, Höhe: die Angaben, die für Transporter bis 3,5 t zählen.</p><a href="ratgeber-transporter-abschleppen.html">Lesen →</a></article>
 <article class="card"><h3>Motorrad-Transport</h3><p>Warum Motorräder nicht abgeschleppt werden dürfen und wie der Transport abläuft.</p><a href="ratgeber-motorrad-transport.html">Lesen →</a></article>
 <article class="card"><h3>Abschleppseil oder Abschleppdienst?</h3><p>Die Regeln für das private Abschleppen und wann Sie besser den Profi rufen.</p><a href="ratgeber-abschleppseil-oder-abschleppdienst.html">Lesen →</a></article>
@@ -23,6 +24,7 @@
 <section class="section"><div class="wrap"><h2>Kosten und Regionales</h2><div class="cards3">
 <article class="card"><h3>Was kostet ein Abschleppdienst?</h3><p>Richtwerte, Preisfaktoren und Fragen, die Sie vorab stellen sollten.</p><a href="ratgeber-abschleppdienst-kosten.html">Lesen →</a></article>
 <article class="card"><h3>Kölner Autobahnring</h3><p>Panne auf A1, A3, A4 oder A555 rund um Köln: was Sie wissen sollten.</p><a href="pannenhilfe-koelner-autobahnring.html">Lesen →</a></article>
+<article class="card"><h3>Panne auf der A3 bei Köln</h3><p>Ausfahrten von Leverkusen bis Rösrath, achtspuriger Abschnitt und Verhalten im dichten Verkehr.</p><a href="pannenhilfe-a3-koeln.html">Lesen →</a></article>
 <article class="card"><h3>Panne auf der A5</h3><p>Alle Ausfahrten von Karlsruhe bis Lahr, Rastanlagen und Verhalten.</p><a href="abschleppdienst-a5.html">Lesen →</a></article>
 </div></div></section>
 @@CTA@@

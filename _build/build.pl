@@ -14,7 +14,7 @@ my $footer = <<'EOT';
 <footer class="site-footer"><div class="wrap foot-grid">
   <div><strong>Faster Depannage Takeldienst</strong><p>Abschleppdienst und Pannenhilfe in Köln sowie zwischen Karlsruhe und Offenburg. Persönlich und rund um die Uhr erreichbar.</p></div>
   <div><strong>Kontakt</strong><p><a href="tel:+4917641956993">+49 176 41956993</a><br><a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a><br>Sitz: De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p></div>
-  <div><strong>Köln</strong><p><a href="index.html">Abschleppdienst Köln</a><br><a href="pannenhilfe-koeln.html">Pannenhilfe Köln</a><br><a href="abschleppen-bergung-koeln.html">Abschleppen &amp; Bergung Köln</a><br><a href="abschleppdienst-koeln-stadtteile.html">Stadtbezirke und Rheinbrücken</a><br><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a></p></div>
+  <div><strong>Köln</strong><p><a href="index.html">Abschleppdienst Köln</a><br><a href="pannenhilfe-koeln.html">Pannenhilfe Köln</a><br><a href="abschleppen-bergung-koeln.html">Abschleppen &amp; Bergung Köln</a><br><a href="abschleppdienst-koeln-stadtteile.html">Stadtbezirke und Rheinbrücken</a><br><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a><br><a href="pannenhilfe-a3-koeln.html">Panne auf der A3</a></p></div>
   <div><strong>Karlsruhe bis Offenburg</strong><p><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden</a><br><a href="abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="abschleppdienst-a5.html">Panne auf der A5</a></p></div>
   <div><strong>Ratgeber &amp; Rechtliches</strong><p><a href="ratgeber.html">Alle Ratgeber</a><br><a href="kontakt.html">Kontakt</a><br><a href="impressum.html">Impressum</a><br><a href="datenschutz.html">Datenschutz</a></p></div>
 </div><div class="wrap foot-bottom">© 2026 Faster Depannage Takeldienst</div></footer>
@@ -58,7 +58,7 @@ sub schema_for {
 # extra pages: marker "=== slug | title | description | flag ===", optional body comment <!--AREAS: a, b -->. Later files override earlier slugs.
 {
   my $dir = "$Bin/content";
-  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt)) {
+  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt)) {
     open(my $ex,"<:raw","$dir/$name") or next; my $c;
     while (my $l=<$ex>) {
       if ($l =~ /^=== (\S+) \| (.*?) \| (.*) \| (\w+) ===\s*$/) { $c=$1; push @order,$c unless $P{$c}; $P{$c}={title=>"$2 | Faster Abschleppdienst",desc=>$3,flag=>$4,body=>""}; next }
@@ -73,7 +73,7 @@ my $BASE = 'https://faster24eu-lgtm.github.io/faster-abschleppdienst-koeln/';
 my $TODAY = '2026-09-26';
 my %CRUMB_PARENT = (
   'pannenhilfe-koeln'=>['index','Pannenhilfe Köln'], 'abschleppen-bergung-koeln'=>['index','Abschleppen &amp; Bergung Köln'],
-  'pannenhilfe-koelner-autobahnring'=>['index','Kölner Autobahnring'], 'abschleppdienst-koeln-stadtteile'=>['index','Köln: Stadtbezirke und Rheinbrücken'],
+  'pannenhilfe-koelner-autobahnring'=>['index','Kölner Autobahnring'], 'pannenhilfe-a3-koeln'=>['pannenhilfe-koelner-autobahnring','Panne auf der A3'], 'abschleppdienst-koeln-stadtteile'=>['index','Köln: Stadtbezirke und Rheinbrücken'],
   'abschleppdienst-mittelbaden'=>['index','Karlsruhe bis Offenburg'],
   'abschleppdienst-karlsruhe'=>['abschleppdienst-mittelbaden','Karlsruhe'], 'abschleppdienst-baden-baden'=>['abschleppdienst-mittelbaden','Baden-Baden &amp; Rastatt'],
   'abschleppdienst-achern'=>['abschleppdienst-mittelbaden','Achern &amp; Bühl'], 'abschleppdienst-offenburg'=>['abschleppdienst-mittelbaden','Offenburg &amp; Kehl'],
@@ -87,7 +87,7 @@ my %CRUMB_PARENT = (
   'ratgeber-warnleuchten-auto'=>['ratgeber','Warnleuchten im Auto'], 'ratgeber-motor-ueberhitzt'=>['ratgeber','Motor überhitzt'],
   'ratgeber-automatik-abschleppen'=>['ratgeber','Automatikauto abschleppen'], 'ratgeber-nach-unfall-fahrbereit'=>['ratgeber','Nach dem Unfall: fahrbereit?'],
   'ratgeber-handbremse-loest-sich-nicht'=>['ratgeber','Handbremse löst sich nicht'], 'ratgeber-motor-geht-aus'=>['ratgeber','Motor geht während der Fahrt aus'],
-  'ratgeber-transporter-abschleppen'=>['ratgeber','Transporter abschleppen'],
+  'ratgeber-transporter-abschleppen'=>['ratgeber','Transporter abschleppen'], 'ratgeber-tiefgarage-parkhaus-liegengeblieben'=>['ratgeber','Tiefgarage und Parkhaus'],
 );
 my %CRUMB_LABEL = ('index'=>'Start', 'ratgeber'=>'Ratgeber', 'abschleppdienst-mittelbaden'=>'Karlsruhe bis Offenburg');
 # related links per page from related.txt (tab separated: slug, target, label, small); placed before the CTA

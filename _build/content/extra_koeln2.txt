@@ -1,0 +1,78 @@
+=== pannenhilfe-a3-koeln | Panne auf der A3 bei Köln: Leverkusen bis Rösrath | Panne auf der A3 zwischen Leverkusen und Rösrath: Ausfahrten, Kreuz Köln-Ost, Dreieck Heumar, acht Fahrstreifen und wie Sie Ihren Standort angeben. | page ===
+<!--AREAS: Köln, Leverkusen, Rösrath -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A3</p><h1>Panne auf der A3 bei Köln</h1><p class="lead">Die A3 ist im Kölner Osten eine der am stärksten befahrenen Autobahnen Deutschlands. Hier steht, wo Sie sich befinden könnten und worauf es bei einer Panne im dichten Verkehr ankommt.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Die Ausfahrten zwischen Leverkusen und Rösrath</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Nr.</th><th>Name</th><th>Anschluss</th></tr></thead><tbody>
+<tr><td>22</td><td>Leverkusen-Opladen</td><td>B8</td></tr>
+<tr><td>23</td><td>Kreuz Leverkusen</td><td>A1</td></tr>
+<tr><td>24</td><td>Leverkusen-Zentrum</td><td></td></tr>
+<tr><td>25</td><td>Köln-Mülheim</td><td>B51</td></tr>
+<tr><td>26</td><td>Köln-Dellbrück</td><td>B506</td></tr>
+<tr><td>27</td><td>Kreuz Köln-Ost</td><td>A4, B55a</td></tr>
+<tr><td>28</td><td>Dreieck Köln-Heumar</td><td>A4, A59</td></tr>
+<tr><td>29</td><td>Königsforst</td><td></td></tr>
+<tr><td>30a</td><td>Rösrath</td><td></td></tr>
+</tbody></table></div>
+<p>Zwischen den Ausfahrten Königsforst und Rösrath liegt die Raststätte Königsforst, kurz dahinter der Parkplatz Sülztal. Wenn Sie es bis dorthin schaffen, stehen Sie sicherer als auf dem Seitenstreifen. Sonst reicht uns die Nummer der letzten Ausfahrt und die Fahrtrichtung.</p>
+<h2>Was diesen Abschnitt ausmacht</h2>
+<p>Zwischen dem Autobahnkreuz Köln-Ost und dem Dreieck Heumar laufen A3 und A4 zusammen. Diese Strecke ist zum größten Teil achtspurig, mit Beschleunigungsstreifen sogar zehnspurig. Nach der Zählung von 2015 fuhren dort rund 171.000 Fahrzeuge pro Tag, das war der am dichtesten befahrene Autobahnabschnitt Deutschlands. Zwischen Leverkusen und Köln-Mülheim wurde die A3 im Juni 2017 in beide Richtungen auf acht Fahrstreifen erweitert. Der Abschnitt zwischen Dreieck Heumar und Leverkusen-Zentrum ist rund 15 Kilometer lang.</p>
+<h2>Panne auf einer achtspurigen Autobahn</h2>
+<p>Je mehr Spuren es gibt, desto weiter ist der Weg von der linken Spur zum Seitenstreifen. Das verändert, wie Sie sich verhalten sollten.</p>
+<ul class="ticks">
+<li><strong>Frühzeitig reagieren:</strong> Sobald Sie merken, dass etwas nicht stimmt, den Blinker setzen und Spur für Spur nach rechts wechseln, solange der Motor noch Leistung hat.</li>
+<li><strong>Mit Schwung ausrollen:</strong> Wenn der Motor ausgeht, weiter lenken und so weit wie möglich nach rechts rollen. Ohne Motor braucht es mehr Kraft beim Lenken und Bremsen, siehe <a href="ratgeber-motor-geht-aus.html">Motor geht während der Fahrt aus</a>.</li>
+<li><strong>Wenn Sie den Rand nicht erreichen:</strong> Warnblinker an, angeschnallt bleiben und sofort die 112 wählen. Aussteigen mitten auf der Fahrbahn ist lebensgefährlich.</li>
+<li><strong>Am Rand angekommen:</strong> Warnweste an, über die Beifahrerseite aussteigen, hinter die Leitplanke. Weitere Schritte unter <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</li>
+</ul>
+<h2>Was Sie uns sagen sollten</h2>
+<ol>
+<li>Richtung: Richtung Frankfurt oder Richtung Leverkusen/Oberhausen</li>
+<li>Letzte Ausfahrt oder Raststätte, zum Beispiel Köln-Dellbrück oder Königsforst</li>
+<li>Wo Sie stehen: Seitenstreifen, Parkplatz oder Fahrbahn</li>
+<li>Fahrzeug und Antrieb, siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a></li>
+<li>Ob jemand verletzt ist</li>
+</ol>
+<h2>Wer fährt in Köln?</h2>
+<p>Faster Depannage Takeldienst hat seinen Sitz in Antwerpen. In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Wir koordinieren die Hilfe. Auf der Autobahn gilt zusätzlich: Kommt die Polizei oder nutzen Sie die Notrufsäule, wird oft ein Vertragsunternehmen beauftragt. Sie können Ihren Wunsch äußern, garantiert ist er nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A3 bei Köln</h2>
+<details><summary>Was, wenn ich am Kreuz Köln-Ost liege bleibe?</summary><div>Dort gibt es viele Ein- und Ausfädelspuren. Nennen Sie uns, aus welcher Richtung Sie kamen und in welche Sie wollten, und sagen Sie, ob Sie auf der A3 oder A4 stehen.</div></details>
+<details><summary>Kann ich am Dreieck Heumar Hilfe rufen?</summary><div>Ja, wie überall. Geben Sie Ausfahrt und Fahrtrichtung an. Bei Verletzten wählen Sie zuerst die 112.</div></details>
+<details><summary>Ist die Raststätte Königsforst sicherer als der Seitenstreifen?</summary><div>Ja, weil Sie dort außerhalb des fließenden Verkehrs stehen. Wenn Ihr Fahrzeug noch rollt, fahren Sie sie an.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring<small>A1, A3, A4, A555</small></a><a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke und Rheinbrücken<small>Standort beschreiben</small></a><a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn<small>Die Schritte im Überblick</small></a></div></div></section>
+@@CTA@@
+=== ratgeber-tiefgarage-parkhaus-liegengeblieben | Liegengeblieben in Tiefgarage oder Parkhaus: was gilt | Auto in Tiefgarage oder Parkhaus liegengeblieben: Sicherung, Durchfahrtshöhe, Rampen und welche Angaben ein Abschleppdienst für die Bergung braucht. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Liegengeblieben in der Tiefgarage oder im Parkhaus</h1><p class="lead">Der Motor springt nicht an, die Batterie ist leer, oder die Bremse hängt. In Garagen ist das ärgerlich, weil nicht jeder Abschleppwagen hineinpasst.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zuerst</h2>
+<ol>
+<li><strong>Warnblinker einschalten.</strong> Stehen Sie in einer Fahrgasse oder auf einer Rampe, blockieren Sie den Weg. Sichern Sie das Fahrzeug und melden Sie es dem Betreiber, wenn Sie den Weg versperren.</li>
+<li><strong>Nicht schieben, wo Verkehr ist.</strong> In Garagen fahren Autos um Ecken und über Rampen, Sie werden spät gesehen.</li>
+<li><strong>Bei Rauch, Brandgeruch oder ausgetretenem Kraftstoff:</strong> Garage verlassen und 112 wählen.</li>
+</ol>
+<h2>Warum die Höhe entscheidet</h2>
+<p>Garagen dürfen nicht beliebig niedrig sein. Die Muster-Garagenverordnung nennt eine lichte Höhe von mindestens 2,00 Metern, gemessen bis zur Unterkante der Decke. Die Bundesländer regeln das jeweils eigenständig, zum Beispiel in einer eigenen Garagenverordnung. Praktisch liegt die Durchfahrtshöhe an der Einfahrt oft zwischen 1,90 und 2,10 Metern. Ein Abschleppwagen mit Ladefläche und aufgeladenem Fahrzeug ist höher als ein normaler Pkw und passt darum nicht immer hinein.</p>
+<div class="note"><p><strong>Tipp:</strong> Das Schild an der Einfahrt nennt die zulässige Durchfahrtshöhe. Fotografieren Sie es und schicken Sie es uns per WhatsApp.</p></div>
+<h2>Rampen und Zufahrten</h2>
+<p>Rampen in Mittel- und Großgaragen dürfen nach der Muster-Verordnung höchstens 15 Prozent geneigt sein, in Klein- und Mittelgaragen sowie zwischen Garage und öffentlicher Verkehrsfläche bis zu 20 Prozent, wenn es die Grundstücksverhältnisse erfordern. Steile Rampen bei niedriger Decke sind für lange Fahrzeuge schwierig, weil der Neigungswechsel am Rampenanfang die Ladefläche aufsetzen lassen kann. Nennen Sie uns deshalb, ob die Zufahrt eine Rampe hat und wie steil sie wirkt.</p>
+<h2>Diese Angaben helfen bei der Bergung</h2>
+<ul class="ticks">
+<li>Durchfahrtshöhe an der Einfahrt (Schild)</li>
+<li>Auf welcher Ebene das Fahrzeug steht und wie viele Rampen dazwischenliegen</li>
+<li>Ob das Fahrzeug rollt, blockiert ist oder eine Handbremse hängt, siehe <a href="ratgeber-handbremse-loest-sich-nicht.html">Handbremse löst sich nicht</a></li>
+<li>Ob es ein Elektro- oder Hybridauto ist, siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a></li>
+<li>Hat es einen Dachträger, Aufbauten oder Anhängerkupplung?</li>
+<li>Wer den Zugang zur Garage öffnen kann</li>
+</ul>
+<h2>Oft reicht Starthilfe</h2>
+<p>Steht das Fahrzeug nur wegen leerer Batterie, kann Starthilfe reichen. Dafür kommt man auch in niedrige Garagen. Wie das geht und worauf Sie achten müssen, steht im Ratgeber <a href="ratgeber-starthilfe-batterie.html">Starthilfe und leere Batterie</a>. Achtung bei Hybrid und Elektro: Die Anschlusspunkte für Starthilfe sind vorgegeben.</p>
+<h2>Wenn Ihr Auto an der Einfahrt hängen geblieben ist</h2>
+<p>Ist Ihr Fahrzeug zu hoch für die Einfahrt und hat sich verklemmt oder wurde beschädigt, sichern Sie die Stelle, fotografieren Sie die Höhenangabe an der Einfahrt und Ihre Schäden und melden Sie es dem Betreiber. Wenn die Angabe an der Zufahrt nicht stimmt, etwa weil eine geneigte Zufahrt die Höhe verringert, kann der Betreiber wegen der Verkehrssicherungspflicht haften. Das ist eine Frage für Ihre Versicherung oder eine Rechtsberatung.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ein Abschleppwagen in jedes Parkhaus fahren?</summary><div>Nein. Die Durchfahrtshöhe und die Rampen begrenzen es. Deshalb fragen wir Höhe und Zufahrt ab, bevor ein Fahrzeug losfährt.</div></details>
+<details><summary>Was, wenn das Auto zu hoch für die Tiefgarage ist?</summary><div>Dann muss es anders geborgen werden, etwa durch Rollen an eine Stelle, an der ein Fahrzeug laden kann. Sagen Sie uns die Lage, dann klären wir den Weg.</div></details>
+</div></section>
+@@CTA@@

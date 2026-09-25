@@ -46,7 +46,7 @@
 <h2>Bevor Sie uns anrufen: Diese Angaben helfen</h2>
 <ul class="ticks">
 <li><strong>Straße, Hausnummer oder Kreuzung.</strong> In Köln gibt es viele gleichnamige Straßen in verschiedenen Stadtteilen, nennen Sie deshalb auch den Stadtteil.</li>
-<li><strong>Parkhaus oder Tiefgarage?</strong> Nennen Sie die Ebene und, wenn Sie sie kennen, die Durchfahrtshöhe.</li>
+<li><strong>Parkhaus oder Tiefgarage?</strong> Nennen Sie die Ebene und, wenn Sie sie kennen, die Durchfahrtshöhe. Warum das zählt, steht im Ratgeber <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Tiefgarage und Parkhaus</a>.</li>
 <li><strong>Autobahn?</strong> Autobahn, Fahrtrichtung, letzte Ausfahrt oder Parkplatz.</li>
 <li><strong>Fahrzeug:</strong> Marke, Modell, Antrieb, und ob es noch rollt.</li>
 <li><strong>Ziel:</strong> Ihre Werkstatt, Ihr Zuhause oder ein anderer Ort.</li>
@@ -142,7 +142,7 @@
 <tr><td>Autobahnkreuz Köln-Ost</td><td>A3 und A4</td><td>Übergang zum dichtest befahrenen Abschnitt</td></tr>
 <tr><td>A59</td><td>Richtung Flughafen Köln/Bonn</td><td>Zubringer zum Flughafen</td></tr>
 </tbody></table></div>
-<p>Wenn Sie uns die Autobahn, die Fahrtrichtung und das letzte Kreuz oder die letzte Ausfahrt nennen, wissen wir, wo Sie ungefähr stehen.</p>
+<p>Wenn Sie uns die Autobahn, die Fahrtrichtung und das letzte Kreuz oder die letzte Ausfahrt nennen, wissen wir, wo Sie ungefähr stehen. Für den Abschnitt zwischen Leverkusen und Rösrath gibt es eine eigene Seite: <a href="pannenhilfe-a3-koeln.html">Panne auf der A3 bei Köln</a>.</p>
 <h2>Rheinquerung: die Leverkusener und die Rodenkirchener Brücke</h2>
 <p>Zwei Rheinbrücken gehören zum Autobahnnetz: Im Süden die Rodenkirchener Brücke auf der A4, im Norden die Leverkusener Autobahnbrücke der A1, die zur Hälfte auf Leverkusener Gebiet liegt und trotzdem zu Kölns Rheinquerungen gezählt wird. Auf Brücken gibt es kaum Ausweichmöglichkeiten, ein liegengebliebenes Fahrzeug blockiert dort schnell mehrere Spuren. Sagen Sie uns deshalb, ob Sie vor, auf oder hinter der Brücke stehen.</p>
 <h2>So verhalten Sie sich</h2>
