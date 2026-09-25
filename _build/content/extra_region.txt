@@ -79,7 +79,7 @@
 <details><summary>Kommen Sie auch bis auf die Schwarzwaldhochstraße?</summary><div>Ja, das ist möglich. Wegen der Entfernung und der Bergstrecke nennen wir den Preis dafür individuell am Telefon.</div></details>
 <details><summary>Was mache ich bei einer Panne im Michaelstunnel?</summary><div>Warnblinker an, Motor aus, aussteigen und zur nächsten Notrufeinrichtung gehen, sofern das gefahrlos möglich ist. Bei Verletzten 112 wählen. Danach rufen Sie uns an.</div></details>
 <details><summary>Helfen Sie auch in Rastatt und Bühl?</summary><div>Ja. Rastatt, Sinzheim, Bühl, Gaggenau und Gernsbach gehören zu unserem Einsatzgebiet.</div></details>
-<details><summary>Ich stehe am Baden-Airpark. Können Sie mir helfen?</summary><div>Ja. Nennen Sie uns Parkplatz und Fahrzeug. Oft reicht Starthilfe.</div></details>
+<details><summary>Ich stehe am Baden-Airpark. Können Sie mir helfen?</summary><div>Ja. Sagen Sie uns Parkplatz und Fahrzeug. Oft reicht Starthilfe.</div></details>
 <details><summary>Kann ich einen Mietwagen bekommen?</summary><div>Das bieten wir nicht selbst an. Fragen Sie bei Bedarf Ihre Versicherung oder Ihren Automobilclub, ob ein Ersatzfahrzeug enthalten ist.</div></details>
 </div></section>
 <section class="section"><div class="wrap narrow"><h2>Weitere Regionen</h2><div class="related"><a href="abschleppdienst-karlsruhe.html">Karlsruhe<small>Südtangente, A5 43 bis 48</small></a><a href="abschleppdienst-achern.html">Achern &amp; Bühl<small>A5 Ausfahrt 53</small></a><a href="abschleppdienst-a5.html">Panne auf der A5<small>Ausfahrten 43 bis 56</small></a></div></div></section>
@@ -109,7 +109,7 @@
 <li><strong>Bremsen bergab:</strong> Wer mit schwacher Bremse oder überhitztem Motor liegen bleibt, sollte das gleich am Telefon sagen. Dann planen wir den Abtransport entsprechend.</li>
 </ul>
 <h2>Renchtal und Renchen</h2>
-<p>Renchen liegt an der Rench, und das Renchtal führt von dort Richtung Oberkirch. Die A5 überquert die Rench zwischen den Ausfahrten Achern und Appenweier auf einer Flutkanalbrücke. Wer in diesem Abschnitt liegen bleibt, ist also nicht weit von Renchen und dem Renchtal entfernt. Nennen Sie uns die Ausfahrt oder die Raststätte Renchtal als Anhaltspunkt.</p>
+<p>Renchen liegt an der Rench, und das Renchtal führt von dort Richtung Oberkirch. Die A5 überquert die Rench zwischen den Ausfahrten Achern und Appenweier auf einer Flutkanalbrücke. Wer in diesem Abschnitt liegen bleibt, ist also nicht weit von Renchen und dem Renchtal entfernt. Sagen Sie uns die Ausfahrt oder die Raststätte Renchtal als Anhaltspunkt.</p>
 <h2>Reifenwechsel oder Starthilfe statt Abschleppen</h2>
 <p>Nicht jede Panne endet auf der Ladefläche. Oft reichen Starthilfe, ein Kanister Kraftstoff oder ein Reifenwechsel. Wir sagen Ihnen ehrlich, was reicht, bevor der Preis feststeht. Ratgeber dazu: <a href="ratgeber-starthilfe-batterie.html">Starthilfe</a> und <a href="ratgeber-reifenpanne.html">Reifenpanne</a>.</p>
 <h2>Wenn Sie auf der Reise sind</h2>
@@ -119,7 +119,7 @@
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Achern</h2>
 <details><summary>Helfen Sie auch im Achertal und in Kappelrodeck?</summary><div>Ja. Achern, Sasbach, Ottersweier, Kappelrodeck und Renchen gehören zu unserem Einsatzgebiet.</div></details>
-<details><summary>Ich stehe an der Raststätte Renchtal. Können Sie mich abholen?</summary><div>Ja. Nennen Sie uns die Fahrtrichtung und ob Sie auf dem Rastplatz oder auf dem Standstreifen stehen.</div></details>
+<details><summary>Ich stehe an der Raststätte Renchtal. Können Sie mich abholen?</summary><div>Ja. Melden Sie uns die Fahrtrichtung und ob Sie auf dem Rastplatz oder auf dem Standstreifen stehen.</div></details>
 <details><summary>Was kostet das Abschleppen von Achern nach Offenburg?</summary><div>Das hängt von Fahrzeug, Uhrzeit und Ziel ab. Wir nennen Ihnen den Preis am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Gibt es einen Notdienst nachts?</summary><div>Wir sind rund um die Uhr erreichbar, auch nachts, am Wochenende und an Feiertagen.</div></details>
 </div></section>
@@ -146,7 +146,7 @@
 <h2>Lahr, Ettenheim, Rust</h2>
 <p>Südlich von Offenburg verlassen viele Reisende die A5 bei Lahr (B415, mit Flughafen Lahr) oder bei Rust, wo der Europa-Park eine eigene Anschlussstelle hat. Nach einem langen Tag im Freizeitpark kommt es vor, dass die Batterie leer ist, weil das Licht angeblieben ist. Nennen Sie uns den Parkplatz und das Fahrzeug. In vielen Fällen lässt sich das Problem vor Ort beheben.</p>
 <h2>Ein wichtiger Knoten</h2>
-<p>Offenburg ist nicht nur Autobahn-Ausfahrt, sondern auch ein Verkehrsknoten: An der Stadt trennen sich die Wege ins Kinzigtal und in den Schwarzwald, die B28 führt Richtung Kehl und Straßburg, und die Bahn kreuzt hier ebenfalls das Rheintal. Für eine Panne heißt das: Der Weg zur richtigen Werkstatt kann kurz sein oder eine ganze Strecke umfassen. Nennen Sie uns Ihr Ziel, dann sehen wir, wie es geht.</p>
+<p>Offenburg ist nicht nur Autobahn-Ausfahrt, sondern auch ein Verkehrsknoten: An der Stadt trennen sich die Wege ins Kinzigtal und in den Schwarzwald, die B28 führt Richtung Kehl und Straßburg, und die Bahn kreuzt hier ebenfalls das Rheintal. Für eine Panne heißt das: Der Weg zur richtigen Werkstatt kann kurz sein oder eine ganze Strecke umfassen. Sagen Sie uns Ihr Ziel, dann sehen wir, wie es geht.</p>
 <h2>Wenn der Transport über die Grenze führt</h2>
 <p>Für Fahrten nach Frankreich sollten Sie Ausweis und Fahrzeugpapiere griffbereit haben, ebenso Angaben zu Kennzeichen und Fahrzeugtyp. Bei Fahrzeugen ohne Zulassung oder mit Ausfuhrkennzeichen ist der Ablauf ein anderer als bei einem normal zugelassenen Wagen. Sagen Sie uns das bitte vorab.</p>
 <h2>Nach dem Abschleppen: Wie geht es weiter?</h2>
@@ -194,7 +194,7 @@
 <tr><td>56</td><td>Lahr/Schwarzwald</td><td>B415</td></tr>
 </tbody></table></div>
 <h2>Raststätten und Parkplätze</h2>
-<p>Zwischen Karlsruhe und Offenburg liegen die Raststätten Baden-Baden (mit Anschlussstelle), Bühl und Renchtal. Dazu kommen mehrere unbewirtschaftete Parkplätze, zum Beispiel Silbergrund/Schleifweg, Oberfeld, Brachfeld, Feldmatt und Gottswald/Waldmatten. Wenn Sie es bis auf einen Parkplatz schaffen, sind Sie dort deutlich sicherer als auf dem Standstreifen. Nennen Sie uns den Namen des Parkplatzes.</p>
+<p>Zwischen Karlsruhe und Offenburg liegen die Raststätten Baden-Baden (mit Anschlussstelle), Bühl und Renchtal. Dazu kommen mehrere unbewirtschaftete Parkplätze, zum Beispiel Silbergrund/Schleifweg, Oberfeld, Brachfeld, Feldmatt und Gottswald/Waldmatten. Wenn Sie es bis auf einen Parkplatz schaffen, sind Sie dort deutlich sicherer als auf dem Standstreifen. Sagen Sie uns den Namen des Parkplatzes.</p>
 <h2>Sechs Spuren, viel Verkehr</h2>
 <p>Der Abschnitt zwischen Baden-Baden und Offenburg ist etwa 41 Kilometer lang und wurde zwischen 2009 und 2014 von vier auf sechs Fahrstreifen erweitert. Bei Offenburg endet der sechsstreifige Ausbau. Rund um Karlsruhe zählt die A5 zu den meistbefahrenen Autobahnen Deutschlands. Das heißt: Wer hier liegen bleibt, steht in dichtem, schnellem Verkehr. Das ist einer der Gründe, warum Sie den Standstreifen nicht als sicheren Ort betrachten sollten.</p>
 <h2>Was auf der Autobahn anders läuft</h2>

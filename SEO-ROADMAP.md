@@ -148,3 +148,7 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 - `ratgeber-ausgesperrt` extended with a Keyless-Go section (hedged: behaviour is model dependent).
 - `abschleppdienst-koeln-stadtteile` extended with Flughafen Köln/Bonn (A59, P1–P3; P2 height 1,95 m is attributed to third-party sources) and Messe/Deutz (A4 → Gremberg → A559; A3 → Köln-Ost → B55).
 - Considered: separate pages for Flughafen and Messe — rejected as too thin; kept as sections.
+
+### Cycle 9 (2026-09-26) – style pass and blocked items
+- Style: "Nennen Sie uns" occurred 39 times across the site; the 2nd–4th use on each page now rotates with "Sagen Sie uns" / "Melden Sie uns" (23 remain, ~1 per page). Keep this in mind for new pages: vary how the reader is asked for location details.
+- Blocked / not started: **A8 Karlsruhe–Pforzheim** (exits Karlsbad 42, Pforzheim-West 43 researched) needs the owner to confirm the partners cover Pforzheim; **A57/A555/A59** better as ring-page sections; **Baden-Baden winter / Schwarzwaldhochstraße** needs sourced road facts; **Kehl–Straßburg** border page needs verified cross-border rules.

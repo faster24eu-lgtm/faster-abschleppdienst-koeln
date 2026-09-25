@@ -124,7 +124,7 @@
 <details><summary>Wird mein Fahrzeug gezogen oder getragen?</summary><div>In der Regel getragen: Es wird auf eine Ladefläche verladen. Das ist schonender, und bei Elektroautos und Motorrädern ist es die richtige Wahl.</div></details>
 <details><summary>Kann ich im Abschleppwagen mitfahren?</summary><div>Das klären wir im Einzelfall. Nennen Sie uns, wie viele Personen es sind.</div></details>
 <details><summary>Was ist, wenn ich den Schlüssel nicht habe?</summary><div>Sagen Sie es uns am Telefon. Ohne Schlüssel lässt sich ein Fahrzeug oft schwerer verladen, wir finden aber eine Lösung.</div></details>
-<details><summary>Kommen Sie auch aus einer Tiefgarage?</summary><div>Wenn die Durchfahrtshöhe und der Platz passen, ja. Nennen Sie uns Höhe und Zufahrt, dann schicken wir das passende Fahrzeug.</div></details>
+<details><summary>Kommen Sie auch aus einer Tiefgarage?</summary><div>Wenn die Durchfahrtshöhe und der Platz passen, ja. Sagen Sie uns Höhe und Zufahrt, dann schicken wir das passende Fahrzeug.</div></details>
 </div></section>
 @@CTA@@
 === pannenhilfe-koelner-autobahnring | Panne auf dem Kölner Autobahnring (A1, A3, A4, A555) | Panne rund um Köln: Kölner Autobahnring mit A1, A3 und A4, Kreuz Köln-Süd, Köln-Nord, A555 und A59. Verhalten bei Panne, Stau und Rettungsgasse. | page ===
@@ -211,9 +211,9 @@
 <p>Die Einsätze in Köln übernehmen unsere Partner vor Ort, wir koordinieren die Hilfe. Faster hat seinen Sitz in Antwerpen (Belgien).</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Köln</h2>
-<details><summary>Helfen Sie in allen Kölner Stadtbezirken?</summary><div>Wir koordinieren Hilfe in Köln und Umgebung. Nennen Sie uns den Stadtteil, dann klären wir, wie wir Ihnen helfen können.</div></details>
+<details><summary>Helfen Sie in allen Kölner Stadtbezirken?</summary><div>Wir koordinieren Hilfe in Köln und Umgebung. Sagen Sie uns den Stadtteil, dann klären wir, wie wir Ihnen helfen können.</div></details>
 <details><summary>Was, wenn ich mich nicht auskenne?</summary><div>Schicken Sie uns Ihren Standort per WhatsApp. Auf dem Handy geht das mit wenigen Klicks, und wir sehen genau, wo Sie stehen.</div></details>
-<details><summary>Ich stehe in Deutz und will nach Ehrenfeld. Geht das?</summary><div>Ja, das ist ein normaler Weg über eine der Rheinbrücken. Nennen Sie uns Ausgangs- und Zielort.</div></details>
+<details><summary>Ich stehe in Deutz und will nach Ehrenfeld. Geht das?</summary><div>Ja, das ist ein normaler Weg über eine der Rheinbrücken. Melden Sie uns Ausgangs- und Zielort.</div></details>
 </div></section>
 <section class="section"><div class="wrap narrow"><div class="related"><a href="index.html">Abschleppdienst Köln<small>Startseite</small></a><a href="pannenhilfe-koelner-autobahnring.html">Autobahnring<small>A1, A3, A4, A555</small></a><a href="ratgeber.html">Ratgeber<small>Alle Themen</small></a></div></div></section>
 @@CTA@@
