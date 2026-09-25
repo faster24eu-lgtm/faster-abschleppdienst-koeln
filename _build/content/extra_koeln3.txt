@@ -1,0 +1,41 @@
+=== pannenhilfe-a4-koeln | Panne auf der A4 bei Köln: Frechen bis Bensberg | Panne auf der A4 von Frechen bis Bensberg: Ausfahrten, Rodenkirchener Brücke, Kreuz Köln-Süd, gemeinsame Strecke mit der A3, schmalere Abschnitte. | page ===
+<!--AREAS: Köln, Frechen, Bergisch Gladbach -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A4</p><h1>Panne auf der A4 bei Köln</h1><p class="lead">Die A4 kommt aus Richtung Aachen, bildet mit der A3 den Ostring und läuft dann ins Bergische Land. Auf dieser Strecke ändern sich Spurzahl und Umgebung mehrfach.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ausfahrten und Kreuze im Kölner Raum</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Nr.</th><th>Name</th><th>Anschluss</th></tr></thead><tbody>
+<tr><td>9b</td><td>Frechen-Nord</td><td></td></tr>
+<tr><td>10</td><td>Kreuz Köln-West</td><td>A1</td></tr>
+<tr><td>11a</td><td>Köln-Klettenberg</td><td>B265</td></tr>
+<tr><td>11b</td><td>Köln-Eifeltor</td><td>mit Autohof</td></tr>
+<tr><td>12</td><td>Kreuz Köln-Süd</td><td>A555 Richtung Bonn</td></tr>
+<tr><td>13</td><td>Köln-Poll</td><td>nach der Rodenkirchener Brücke</td></tr>
+<tr><td>14</td><td>Kreuz Köln-Gremberg</td><td>A559 Richtung Deutz und Flughafen Köln/Bonn</td></tr>
+<tr><td>15</td><td>Dreieck Köln-Heumar</td><td>A3 und A59</td></tr>
+<tr><td>16</td><td>Kreuz Köln-Ost</td><td>A3, B55a</td></tr>
+<tr><td>17</td><td>Köln-Merheim</td><td></td></tr>
+<tr><td>18</td><td>Bergisch Gladbach-Refrath</td><td></td></tr>
+<tr><td>19</td><td>Bergisch Gladbach-Frankenforst</td><td></td></tr>
+<tr><td>20</td><td>Bergisch Gladbach-Bensberg</td><td></td></tr>
+</tbody></table></div>
+<p>Kurz vor Köln-West liegt an der A4 die Raststätte Frechen. Bei Refrath und Frankenforst helfen die Parkplätze Lustheide und Röttgesberg als Anhaltspunkte. Nennen Sie uns Namen, die Sie sehen, zusammen mit der Fahrtrichtung: Richtung Aachen oder Richtung Olpe.</p>
+<h2>Die Rodenkirchener Brücke</h2>
+<p>Zwischen Köln-Süd und Köln-Poll überquert die A4 den Rhein auf der Rodenkirchener Brücke, rund 570 Meter lang. Auf einer Brücke gibt es keine Möglichkeit auszuweichen, ein liegengebliebenes Fahrzeug blockiert dort schnell eine Spur. Wenn Ihr Fahrzeug Leistung verliert, versuchen Sie, vor oder hinter der Brücke zu halten, nicht mittendrin. Nennen Sie uns außerdem, ob Sie auf der Brücke, davor oder dahinter stehen.</p>
+<h2>Kreuz Köln-Süd und die A555</h2>
+<p>Am Kreuz Köln-Süd trifft die A4 auf die A555 aus Richtung Bonn. Nach Angaben der Autobahn GmbH fahren dort täglich über 150.000 Fahrzeuge auf der A4 und über 120.000 auf der A555, etwa 50.000 Fahrzeuge nutzen das Kreuz, um nach Köln hinein oder hinaus zu gelangen. Das erklärt, warum es dort oft zäh wird und Pannen im Stau enden.</p>
+<h2>Autohof Köln-Eifeltor</h2>
+<p>An der Ausfahrt Köln-Eifeltor liegt ein Autohof direkt an der Autobahn, daneben der Containerbahnhof Köln-Eifeltor. Wenn Ihr Fahrzeug noch rollt, ist der Autohof ein sicherer Ort zum Warten, statt am Seitenstreifen zu bleiben.</p>
+<h2>Gemeinsam mit der A3 bis Köln-Ost</h2>
+<p>Zwischen dem Dreieck Köln-Heumar und dem Kreuz Köln-Ost laufen A3 und A4 auf einer gemeinsamen, achtspurigen Trasse. Das ist der am dichtesten befahrene Autobahnabschnitt Deutschlands nach der Zählung von 2015. Zur Panne auf dem Ostring finden Sie die Details bei <a href="pannenhilfe-a3-koeln.html">Panne auf der A3 bei Köln</a>.</p>
+<h2>Hinter Köln-Ost wird die Autobahn schmaler</h2>
+<p>Nach dem Kreuz Köln-Ost verlässt die A4 den Ring und führt fünfstreifig, ab Refrath vierstreifig Richtung Bergisches Land, vorbei an Merheim, Brück und dem nördlichen Königsforst. Weniger Spuren bedeuten weniger Platz zum Ausweichen. Bei einer Panne heißt das: früh Warnblinker, mit Schwung an den Rand, Warnweste und hinter die Leitplanke, wie unter <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a> beschrieben.</p>
+<h2>Wer fährt in Köln?</h2>
+<p>Unser Sitz ist Antwerpen. Für Einsätze rund um Köln stehen Partner vor Ort bereit, wir nehmen Ihren Anruf entgegen und koordinieren alles Weitere. Wird auf der Autobahn ein Vertragsunternehmen beauftragt, weil die Polizei am Einsatzort ist, hat das Vorrang.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A4 bei Köln</h2>
+<details><summary>Ich stehe auf der Rodenkirchener Brücke. Was tun?</summary><div>Warnblinker, wenn es sicher geht Warnweste und hinter die Leitplanke. Bei Verletzten 112. Wenn Sie nicht sicher aussteigen können, angeschnallt bleiben und den Notruf wählen. Danach rufen Sie uns an.</div></details>
+<details><summary>Liege ich in Frechen noch im Kölner Bereich?</summary><div>Frechen grenzt an Köln. Nennen Sie uns die Ausfahrt (9b Frechen-Nord) oder die Raststätte Frechen, dann klären wir, wie wir Ihnen helfen können.</div></details>
+<details><summary>Was heißt A4 Richtung Aachen und Richtung Olpe?</summary><div>Richtung Aachen fahren Sie nach Westen aus Köln heraus, Richtung Olpe nach Osten ins Bergische Land. Auf dem gemeinsamen Ostring mit der A3 hilft zusätzlich die Angabe der Richtung dieser Autobahn.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="pannenhilfe-a3-koeln.html">Panne auf der A3<small>Leverkusen bis Rösrath</small></a><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring<small>Kreuze und Brücken im Überblick</small></a><a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke und Rheinbrücken<small>Standort beschreiben</small></a></div></div></section>
+@@CTA@@
