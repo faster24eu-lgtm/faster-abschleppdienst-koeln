@@ -8,7 +8,7 @@ Die Seite ist als **Vorschau** online und für Suchmaschinen gesperrt (`noindex,
 
 ## Wichtig: Was diese Seite (noch) nicht behauptet
 
-Faster hat seinen Sitz in Antwerpen (Belgien). Die Seite nennt deshalb bewusst **keine Adresse in Köln, keine Anfahrtszeit und kein „vor Ort in 30 Minuten“**. Solche Aussagen sind in Deutschland irreführend (UWG), wenn sie nicht stimmen, und ein Google-Unternehmensprofil in Köln setzt einen echten Standort voraus. Die Texte sagen nur, was auf der Hauptseite belegt ist: 24/7 erreichbar, Preis vorab, Pkw/Transporter bis 3,5 t, Motorräder, Maschinen.
+Faster hat seinen Sitz in Antwerpen (Belgien). Die Seite nennt deshalb bewusst **keine Adresse in Köln, keine Anfahrtszeit und kein „vor Ort in 30 Minuten“**. Solche Aussagen sind in Deutschland irreführend (UWG), wenn sie nicht stimmen, und ein Google-Unternehmensprofil in Köln setzt einen echten Standort voraus. Die Texte sagen nur, was auf der Hauptseite belegt ist: 24/7 erreichbar, Pkw/Transporter bis 3,5 t, Motorräder, Maschinen.
 
 ## Vor der Veröffentlichung klären (Pflicht)
 
