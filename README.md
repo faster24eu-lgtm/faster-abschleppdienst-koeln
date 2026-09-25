@@ -13,7 +13,7 @@ Faster hat seinen Sitz in Antwerpen (Belgien). Die Seite nennt deshalb bewusst *
 ## Vor der Veröffentlichung klären (Pflicht)
 
 1. **Einsatz in Köln:** Erledigt. Die Einsätze übernehmen Partner vor Ort, Faster koordiniert (steht so in der FAQ). Bitte nur veröffentlichen, wenn die Partner das mittragen.
-2. **Telefonnummer:** Es steht die belgische Nummer +32 3 375 67 37. Eine deutsche Nummer würde die Erreichbarkeit für Kunden in Köln verbessern.
+2. **Telefonnummer:** Es steht die deutsche Mobilnummer +49 176 41956993 (vom Inhaber genannt). Bitte bestätigen, dass sie auch bei WhatsApp aktiv ist.
 3. **Impressum** (§ 5 DDG): Für eine öffentliche deutsche Geschäftsseite ist es Pflicht (Name, Rechtsform, Anschrift, Kontakt, Unternehmens- und USt-Nummer). Ohne diese Angaben drohen Abmahnungen. Im Vorschau-Modus ist das unkritisch, vor dem echten Start nicht.
 4. **Datenschutzerklärung** prüfen lassen und Hosting-Anbieter eintragen.
 5. **Texte gegenlesen** (idealerweise Muttersprachler). Alles ist neu formulierter Entwurf.
@@ -28,3 +28,8 @@ Kein Google-Tag, keine Cookies. Für Google Ads in Deutschland wäre vorher eine
 
 ## Veröffentlichen
 Reines Static-Hosting, z. B. GitHub Pages (Settings → Pages → Branch `main`, Ordner `/`). Kostenlose GitHub Pages brauchen ein öffentliches Repository.
+
+## Erweiterung: Karlsruhe bis Offenburg (A5) und Ratgeber
+Zusätzlich zu Köln enthält die Seite Regionalseiten für Karlsruhe, Baden-Baden/Rastatt, Achern/Bühl, Offenburg/Kehl und die A5 (`abschleppdienst-*.html`), eine Übersichtsseite `abschleppdienst-mittelbaden.html` (Text des Inhabers, unverändert) sowie Ratgeber (`ratgeber*.html`, `pannenhilfe-koelner-autobahnring.html`). Fakten (A5-Ausfahrten 43 bis 56, Raststätten, Michaelstunnel, B500, § 15a StVO, Unfall-Kostenregeln) wurden recherchiert; Preise aus Marktübersichten sind als Richtwerte gekennzeichnet.
+
+Offene Punkte vor dem Start: Festpreis "ab 129 €" mit den Partnern bestätigen, Anfahrtszeit und Zahlungsarten (gelb markiert auf der Übersichtsseite) klären, Aussage "Hotline rund um die Uhr besetzt" nur, wenn die Partner das tragen, Impressum ausfüllen, Texte von Muttersprachlern lesen lassen.
