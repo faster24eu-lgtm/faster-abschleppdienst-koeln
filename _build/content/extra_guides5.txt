@@ -1,0 +1,38 @@
+=== ratgeber-winterpanne-schwarzwald | Panne im Winter: Schwarzwaldhochstraße und Bergstrecken | Liegengeblieben bei Schnee und Glätte auf Bergstrecken wie der B500: Winterreifenpflicht, Verhalten im Fahrzeug und Angaben für den Abschleppdienst. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber · Mittelbaden</p><h1>Panne im Winter auf der Schwarzwaldhochstraße und anderen Bergstrecken</h1><p class="lead">Die B500 führt zwischen Baden-Baden und Freudenstadt über 60 Kilometer durch die Höhen des Nordschwarzwalds. Im Winter kann dort schnell aus einer kleinen Panne eine lange Wartezeit werden.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Was die Strecke im Winter ausmacht</h2>
+<p>Die Schwarzwaldhochstraße verläuft über weite Strecken zwischen etwa 800 und 1.000 Metern Höhe. Bei Schneefall wird sie geräumt, das geht aber nicht immer schnell genug. Bei starkem Wintereinbruch kann die Straße zeitweise gesperrt werden. Schneeketten sind für Pkw nur in Ausnahmefällen vorgeschrieben, für Lkw wurde die Kettenpflicht auf einzelnen Abschnitten, etwa zwischen Alexanderschanze und Kniebis, schon angeordnet. Vor der Fahrt lohnt sich deshalb ein Blick auf die aktuelle Verkehrslage.</p>
+<h2>Winterreifen: was vorgeschrieben ist</h2>
+<p>In Deutschland gilt eine situative Winterreifenpflicht (§ 2 Abs. 3a StVO): Bei Glatteis, Schneeglätte, Schneematsch, Eis- oder Reifglätte müssen Sie mit Winterreifen fahren. Seit Oktober 2024 gilt dafür nur noch der Reifen mit Alpine-Symbol, ein Berg mit Schneeflocke. Wer bei diesen Bedingungen ohne passende Reifen fährt, muss mit mindestens 60 Euro Bußgeld und einem Punkt rechnen. Behindert er andere oder gefährdet sie, sind es mindestens 80 Euro. Ein Fahrzeug mit Sommerreifen, das im Schnee stecken bleibt, blockiert schnell die ganze Straße.</p>
+<h2>Wenn Sie festsitzen</h2>
+<ol>
+<li><strong>Warnblinker einschalten,</strong> Warnweste bereithalten. Steigen Sie nur aus, wenn die Stelle sicher ist.</li>
+<li><strong>Nicht weiter durchdrehen.</strong> Das gräbt das Fahrzeug tiefer ein und überhitzt bei Automatik das Getriebe. Vorsichtig zurückrollen, Räder gerade stellen.</li>
+<li><strong>Auspuff freihalten,</strong> wenn Sie den Motor zum Heizen laufen lassen. Ein zugeschneiter Auspuff kann Abgase in den Innenraum leiten.</li>
+<li><strong>Warm bleiben:</strong> Jacke und Decke anziehen, Heizung nur zeitweise nutzen, Handy laden.</li>
+<li><strong>Standort bestimmen:</strong> Parkplatz, Aussichtspunkt oder Kilometerstein, zum Beispiel Mummelsee, Hundseck oder Ruhestein.</li>
+</ol>
+<h2>Typische Winterpannen auf Bergstrecken</h2>
+<ul class="ticks">
+<li><strong>Batterie leer nach der Nacht:</strong> Bei Frost bringt sie weniger Leistung, siehe <a href="ratgeber-starthilfe-batterie.html">Starthilfe und leere Batterie</a>.</li>
+<li><strong>Handbremse festgefroren:</strong> Siehe <a href="ratgeber-handbremse-loest-sich-nicht.html">Handbremse löst sich nicht</a>.</li>
+<li><strong>Fahrzeug rutscht in den Graben:</strong> Bergung statt Abschleppen. Sagen Sie uns, wie das Fahrzeug steht und ob jemand verletzt ist. Bei Verletzten zuerst 112.</li>
+<li><strong>Motor überhitzt oder Bremsen glühen</strong> nach langer Bergabfahrt, siehe <a href="ratgeber-motor-ueberhitzt.html">Motor überhitzt</a>.</li>
+<li><strong>Kein Empfang:</strong> Wenn das Handy keinen Empfang hat, versuchen Sie, an eine Stelle mit Empfang zu gelangen, zum Beispiel eine Kuppe, oder bitten Sie vorbeifahrende Autofahrer um Hilfe.</li>
+</ul>
+<h2>Was Sie einem Abschleppdienst sagen sollten</h2>
+<ul class="ticks">
+<li>Straße und Abschnitt: B500 mit Abschnitt oder dem nächsten Parkplatz, oder eine Ortsangabe im Tal</li>
+<li>Ob die Straße geräumt ist, ob Sie an einer Steigung oder in einer Kurve stehen</li>
+<li>Reifen: Winterreifen oder nicht, Kette vorhanden</li>
+<li>Fahrzeug, Antrieb und ob es sich noch bewegen lässt</li>
+</ul>
+<p>Bei Bergstrecken brauchen Abschleppfahrzeuge selbst Winterausrüstung, und auf gesperrten Abschnitten kommt niemand durch. Wir sagen Ihnen offen, wenn es länger dauert. Für die Region Baden-Baden siehe <a href="abschleppdienst-baden-baden.html">Abschleppdienst Baden-Baden</a>, für das Achertal <a href="abschleppdienst-achern.html">Abschleppdienst Achern</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Sind Schneeketten auf der Schwarzwaldhochstraße Pflicht?</summary><div>Für Pkw nur in Ausnahmefällen bei außergewöhnlichem Schneefall. Für Lkw wurde die Kettenpflicht auf einzelnen Abschnitten bereits angeordnet. Achten Sie auf die Beschilderung.</div></details>
+<details><summary>Reichen M+S-Reifen im Winter?</summary><div>Für die Winterreifenpflicht zählen seit Oktober 2024 nur Reifen mit Alpine-Symbol.</div></details>
+<details><summary>Was tun, wenn ich ohne Handyempfang festsitze?</summary><div>Warnblinker einschalten, im warmen Fahrzeug bleiben, wenn es sicher ist, und versuchen, Hilfe von vorbeifahrenden Autofahrern zu bekommen. Sobald Sie Empfang haben, teilen Sie Ihren Standort.</div></details>
+</div></section>
+@@CTA@@

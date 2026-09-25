@@ -32,7 +32,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
             └ kontakt, impressum, datenschutz, danke (danke = no sitemap)
 ```
 
-## 3. Page inventory (37 indexable-in-principle pages + danke)
+## 3. Page inventory (38 indexable-in-principle pages + danke)
 | URL | Primary topic | Search intent | Status |
 |-----|---------------|---------------|--------|
 | index | Abschleppdienst Köln | Local service, "Abschleppdienst Köln" | done |
@@ -68,6 +68,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | pannenhilfe-a1-koeln | Panne A1 bei Köln (Leverkusen bis Erfttal) | Situation on Autobahn | done (cycle 7) |
 | pannenhilfe-a4-koeln | Panne A4 bei Köln (Frechen bis Bensberg) | Situation on Autobahn | done (cycle 6) |
 | ratgeber-wohnmobil-gespann-panne | Wohnmobil/Gespann Panne, 3,5-t-Grenze | Practical | done (cycle 8) |
+| ratgeber-winterpanne-schwarzwald | Winterpanne Schwarzwaldhochstraße/Bergstrecken | Situation + legal basics | done (cycle 10) |
 | ratgeber-tiefgarage-parkhaus-liegengeblieben | Tiefgarage/Parkhaus, Durchfahrtshöhe, Rampen | Practical | done (cycle 5) |
 | kontakt, impressum, datenschutz | Utility | – | kontakt done; impressum/datenschutz drafts (B1) |
 
@@ -80,7 +81,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | Canonical | added cycle 1 (based on `$BASE`, see B2) |
 | Open Graph | added cycle 1 (og:image = existing hero photo) |
 | Breadcrumbs (visible + JSON-LD) | added cycle 1 |
-| `sitemap.xml` | added cycle 1 (37 URLs after cycle 8). Not referenced from robots.txt while the preview blocks crawling |
+| `sitemap.xml` | added cycle 1 (38 URLs after cycle 10). Not referenced from robots.txt while the preview blocks crawling |
 | FAQPage schema | generated from the visible `<details>` FAQs |
 | Organization/business schema | AutomotiveBusiness with `areaServed` on region and Köln pages; no street address invented (home page uses the real Antwerp address) |
 | Internal links | related-block on all guides, footer with all clusters; every page has ≥ 2 inbound links |
@@ -101,7 +102,7 @@ Each entry: topic, intent, unique angle, links in/out. Do not build unless the a
 5. ~~Transporter abschleppen (bis 3,5 t)~~ – done cycle 3. The Führerschein question (Abschleppen vs. Schleppen, Klasse E) is only hedged in the text; a lawyer/Straßenverkehrsamt source would be needed for firm statements.
 6. ~~Fahrzeug aus Tiefgarage bergen~~ – done cycle 5 (Muster-Garagenverordnung 2,00 m, Durchfahrtshöhe 1,90–2,10 m typical, Rampen 15/20 %).
 7. **Karlsruhe: Panne Südtangente/B10 in one place** – only if it adds beyond the Karlsruhe page; otherwise extend that page.
-8. **Baden-Baden / Schwarzwaldhochstraße im Winter** – winter breakdowns; needs sourced road facts.
+8. ~~Baden-Baden / Schwarzwaldhochstraße im Winter~~ – done cycle 10 as a guide (situative Winterreifenpflicht § 2 Abs. 3a StVO, Alpine-Symbol since Oct 2024, 60/80 € fines, road 800–1.000 m, Kettenpflicht only exceptional for Pkw; sources: news reports and consumer sites, no current closure status claimed).
 9. **Kehl–Straßburg: Panne im Grenzgebiet** – cross-border transport, documents; needs verified rules.
 10. **Improve `ratgeber-ausgesperrt`** with more scenarios (Keyless, Kofferraum) once facts are sourced.
 11. **Köln Stadtbezirke deep dives** (e.g. Deutz/Messe, Porz/Flughafen) – only with genuine road/access facts. No page per district by default.
@@ -152,3 +153,6 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 ### Cycle 9 (2026-09-26) – style pass and blocked items
 - Style: "Nennen Sie uns" occurred 39 times across the site; the 2nd–4th use on each page now rotates with "Sagen Sie uns" / "Melden Sie uns" (23 remain, ~1 per page). Keep this in mind for new pages: vary how the reader is asked for location details.
 - Blocked / not started: **A8 Karlsruhe–Pforzheim** (exits Karlsbad 42, Pforzheim-West 43 researched) needs the owner to confirm the partners cover Pforzheim; **A57/A555/A59** better as ring-page sections; **Baden-Baden winter / Schwarzwaldhochstraße** needs sourced road facts; **Kehl–Straßburg** border page needs verified cross-border rules.
+
+### Cycle 10 (2026-09-26, cron) – Winterpanne Schwarzwald
+- Built `ratgeber-winterpanne-schwarzwald`, linked from the Baden-Baden and Achern pages, the Ratgeber index and related blocks. No claim about current closures; the reader is told to check the traffic situation.
