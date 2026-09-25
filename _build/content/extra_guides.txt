@@ -1,0 +1,471 @@
+=== ratgeber | Ratgeber – Panne, Abschleppen, Kosten und Recht | Ratgeber zu Panne, Abschleppen und Kosten: Autobahn, Unfall, E-Auto, Starthilfe, Reifenpanne, falsch getankt, ausgesperrt, Motorrad, Abschleppseil. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Ratgeber: Panne, Abschleppen und Kosten</h1><p class="lead">Kurz erklärt, was Sie bei einer Panne tun, was ein Abschleppdienst kostet und wer nach einem Unfall zahlt. Alle Texte sind allgemeine Information und keine Rechts- oder Fachberatung.</p></div></section>
+<section class="section"><div class="wrap"><h2>Wenn etwas passiert ist</h2><div class="cards3">
+<article class="card"><h3>Panne auf der Autobahn</h3><p>Warndreieck, Warnweste, Notrufsäule: die Schritte in der richtigen Reihenfolge.</p><a href="ratgeber-panne-autobahn.html">Lesen →</a></article>
+<article class="card"><h3>Abschleppkosten nach einem Unfall</h3><p>Wer zahlt, wer sucht den Abschleppdienst aus und wohin darf das Auto?</p><a href="ratgeber-unfall-abschleppkosten.html">Lesen →</a></article>
+<article class="card"><h3>Nach dem Unfall: fahrbereit?</h3><p>Woran Sie erkennen, ob das Auto noch verkehrssicher ist oder abgeschleppt werden sollte.</p><a href="ratgeber-nach-unfall-fahrbereit.html">Lesen →</a></article>
+<article class="card"><h3>Falsch getankt</h3><p>Was Sie sofort tun und lassen sollten, damit aus einem Fehler kein Motorschaden wird.</p><a href="ratgeber-falsch-getankt.html">Lesen →</a></article>
+<article class="card"><h3>Ausgesperrt</h3><p>Schlüssel im Auto: Wege, das Fahrzeug ohne Schaden zu öffnen.</p><a href="ratgeber-ausgesperrt.html">Lesen →</a></article>
+</div></div></section>
+<section class="section grey"><div class="wrap"><h2>Fahrzeug und Technik</h2><div class="cards3">
+<article class="card"><h3>E-Auto abschleppen</h3><p>Warum Elektroautos verladen werden müssen und was Sie dem Abschleppdienst sagen sollten.</p><a href="ratgeber-e-auto-abschleppen.html">Lesen →</a></article>
+<article class="card"><h3>Starthilfe und leere Batterie</h3><p>Warum die Batterie streikt, wie Starthilfe geht und wann es ein Fall für die Werkstatt ist.</p><a href="ratgeber-starthilfe-batterie.html">Lesen →</a></article>
+<article class="card"><h3>Reifenpanne</h3><p>Ersatzrad, Pannenset oder Abschleppen: was in welcher Lage sinnvoll ist.</p><a href="ratgeber-reifenpanne.html">Lesen →</a></article>
+<article class="card"><h3>Warnleuchten im Auto</h3><p>Rot, gelb, blinkend: welche Symbole Sie zum sofortigen Anhalten zwingen.</p><a href="ratgeber-warnleuchten-auto.html">Lesen →</a></article>
+<article class="card"><h3>Motor überhitzt</h3><p>Sofortmaßnahmen, warum der Kühlerdeckel zu bleibt und wann abgeschleppt werden muss.</p><a href="ratgeber-motor-ueberhitzt.html">Lesen →</a></article>
+<article class="card"><h3>Automatikauto abschleppen</h3><p>Stellung N, Notentriegelung, Streckenlimit: warum Verladen meist besser ist.</p><a href="ratgeber-automatik-abschleppen.html">Lesen →</a></article>
+<article class="card"><h3>Motorrad-Transport</h3><p>Warum Motorräder nicht abgeschleppt werden dürfen und wie der Transport abläuft.</p><a href="ratgeber-motorrad-transport.html">Lesen →</a></article>
+<article class="card"><h3>Abschleppseil oder Abschleppdienst?</h3><p>Die Regeln für das private Abschleppen und wann Sie besser den Profi rufen.</p><a href="ratgeber-abschleppseil-oder-abschleppdienst.html">Lesen →</a></article>
+</div></div></section>
+<section class="section"><div class="wrap"><h2>Kosten und Regionales</h2><div class="cards3">
+<article class="card"><h3>Was kostet ein Abschleppdienst?</h3><p>Richtwerte, Preisfaktoren und Fragen, die Sie vorab stellen sollten.</p><a href="ratgeber-abschleppdienst-kosten.html">Lesen →</a></article>
+<article class="card"><h3>Kölner Autobahnring</h3><p>Panne auf A1, A3, A4 oder A555 rund um Köln: was Sie wissen sollten.</p><a href="pannenhilfe-koelner-autobahnring.html">Lesen →</a></article>
+<article class="card"><h3>Panne auf der A5</h3><p>Alle Ausfahrten von Karlsruhe bis Lahr, Rastanlagen und Verhalten.</p><a href="abschleppdienst-a5.html">Lesen →</a></article>
+</div></div></section>
+@@CTA@@
+=== ratgeber-abschleppdienst-kosten | Was kostet ein Abschleppdienst? Richtwerte und Tipps | Was kostet Abschleppen? Richtwerte für Stadt, Autobahn und Pannenhilfe, Preisfaktoren, Nachtzuschläge und Fragen, die Sie vorab stellen sollten. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Was kostet ein Abschleppdienst?</h1><p class="lead">Die Preise streuen stark. Hier steht, wovon sie abhängen und wie Sie sich vor Überraschungen schützen.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Richtwerte in Deutschland</h2>
+<p>Die folgenden Werte sind Marktrichtwerte aus Preisübersichten für 2026. Sie zeigen die ungefähre Größenordnung, ersetzen aber kein Angebot.</p>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Leistung</th><th>Richtwert</th></tr></thead><tbody>
+<tr><td>Abschleppen im Stadtgebiet / kurze Strecke</td><td>ca. 89 bis 150 €</td></tr>
+<tr><td>Abschleppen auf der Autobahn</td><td>ca. 129 bis 250 €</td></tr>
+<tr><td>Pannenhilfe vor Ort (z. B. Starthilfe)</td><td>ca. 59 bis 120 €</td></tr>
+</tbody></table></div>
+<p>Für einzelne Städte gibt das Portal kostenfinder.com (2026) folgende Durchschnittswerte an: Karlsruhe rund 219 € (Spanne etwa 102 bis 383 €), Freiburg rund 223 €, Stuttgart rund 240 €.</p>
+<h2>Warum die Spanne so groß ist</h2>
+<p>Ein Abschleppdienst ist kein Produkt mit einheitlichem Preis. Zwei Einsätze in derselben Stadt können sich stark unterscheiden: Im einen Fall steht ein Auto auf einem ebenen Parkplatz und rollt noch, im anderen liegt es nachts nach einem Unfall im Graben. Dazu kommt, dass Betriebe unterschiedlich kalkulieren. Manche berechnen Anfahrt und Kilometer getrennt, andere nennen einen Pauschalpreis. Deshalb sagt ein Durchschnitt wenig über Ihren Fall.</p>
+<h2>Wovon der Preis abhängt</h2>
+<ul class="ticks">
+<li><strong>Entfernung:</strong> Anfahrt und Weg zum Ziel. Ein kurzer Weg in die nächste Werkstatt ist günstiger als eine lange Fahrt.</li>
+<li><strong>Uhrzeit:</strong> Nachts, am Wochenende und an Feiertagen sind Aufschläge üblich.</li>
+<li><strong>Fahrzeug:</strong> Gewicht, Länge, Antrieb. Elektroautos und Transporter brauchen oft mehr Aufwand.</li>
+<li><strong>Zustand:</strong> Ein Fahrzeug, das nicht mehr rollt, im Graben liegt oder in einer Tiefgarage steht, macht mehr Arbeit als eines, das einfach aufgeladen wird.</li>
+<li><strong>Ort:</strong> Auf der Autobahn gelten besondere Bedingungen, zum Beispiel für die Sicherung der Einsatzstelle.</li>
+<li><strong>Wartezeit und Zusatzleistungen:</strong> Zum Beispiel Bergung, Öl-Bindemittel oder ein zweiter Einsatz.</li>
+</ul>
+<h2>Pannenhilfe vor Ort oder Abschleppen?</h2>
+<p>Oft ist die Hilfe vor Ort die günstigere Lösung. Starthilfe bei leerer Batterie, ein Kanister Kraftstoff oder ein Radwechsel kosten meist weniger als ein Transport. Eine seriöse Firma sagt Ihnen, ob das Problem vor Ort lösbar ist, bevor sie ein Fahrzeug losschickt. Wenn ein Anbieter ohne Rückfragen sofort abschleppen will, fragen Sie nach.</p>
+<h2>Fragen, die Sie vor der Beauftragung stellen sollten</h2>
+<ol>
+<li>Ist das ein Festpreis oder ein Richtpreis?</li>
+<li>Sind Anfahrt, Verladung und alle Kilometer enthalten?</li>
+<li>Gibt es einen Aufschlag für Nacht, Wochenende oder Feiertag?</li>
+<li>Ist die Mehrwertsteuer enthalten?</li>
+<li>Wie kann ich bezahlen?</li>
+<li>Wohin genau wird das Fahrzeug gebracht?</li>
+</ol>
+<p>Lassen Sie sich den Preis möglichst schriftlich geben, zum Beispiel per WhatsApp. Ein seriöser Anbieter nennt ihn, bevor er losfährt.</p>
+<h2>Unser Festpreis (Region Karlsruhe bis Offenburg)</h2>
+<p>In der Region Karlsruhe bis Offenburg beginnt unser Festpreis für das Abschleppen im Stadtgebiet bei <strong>129 €</strong>. Er gilt für kürzere Strecken, den genauen Betrag nennen wir Ihnen nach Ihren Angaben zu Standort, Ziel und Fahrzeug am Telefon.</p>
+<h2>Wenn ein anderer zahlt</h2>
+<p>Nach einem unverschuldeten Unfall trägt in der Regel die Haftpflichtversicherung des Unfallgegners die Abschleppkosten. Mit Schutzbrief oder Mitgliedschaft in einem Automobilclub kann die Hilfe ebenfalls abgedeckt sein. Prüfen Sie Ihre Unterlagen, bevor Sie zahlen. Mehr dazu im Ratgeber <a href="ratgeber-unfall-abschleppkosten.html">Abschleppkosten nach einem Unfall</a>.</p>
+<h2>Rechnung prüfen</h2>
+<p>Vergleichen Sie die Rechnung mit dem genannten Preis. Steht dort ein Betrag, den niemand vorher erwähnt hat, fragen Sie nach einer Aufschlüsselung. Bei Streit über eine überhöhte Rechnung nach einem Unfall kann die Versicherung des Verursachers eingeschaltet werden, siehe unseren Unfall-Ratgeber.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu den Kosten</h2>
+<details><summary>Ist Abschleppen nachts teurer?</summary><div>Häufig ja. Fragen Sie deshalb immer nach dem Endpreis inklusive aller Zuschläge.</div></details>
+<details><summary>Kostet Abschleppen mit einem E-Auto mehr?</summary><div>Das kann sein, weil ein Plateaufahrzeug nötig ist und der Aufwand größer sein kann. Der Preis wird vorab genannt.</div></details>
+<details><summary>Muss ich sofort bezahlen?</summary><div>Das besprechen wir vor der Fahrt mit Ihnen.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="ratgeber-unfall-abschleppkosten.html">Nach dem Unfall<small>Wer zahlt?</small></a><a href="ratgeber-abschleppseil-oder-abschleppdienst.html">Abschleppseil?<small>Selbst abschleppen oder Profi</small></a><a href="abschleppdienst-karlsruhe.html">Karlsruhe<small>Festpreis ab 129 €</small></a></div></div></section>
+@@CTA@@
+=== ratgeber-panne-autobahn | Panne auf der Autobahn – was tun? Die richtigen Schritte | Panne auf der Autobahn: Warnblinker, Warnweste, Warndreieck, Notrufsäule, Abschleppdienst. Die Schritte in der richtigen Reihenfolge, mit Abständen. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Panne auf der Autobahn: Was tun?</h1><p class="lead">Ruhe bewahren und in dieser Reihenfolge vorgehen. Ihre Sicherheit geht vor dem Fahrzeug.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Die Schritte</h2>
+<ol>
+<li><strong>Warnblinker einschalten</strong> und mit Schwung möglichst weit nach rechts rollen. Wenn möglich zum nächsten Parkplatz oder zur nächsten Ausfahrt, sonst auf den Standstreifen.</li>
+<li><strong>Warnweste anziehen</strong>, bevor Sie aussteigen. Steigen Sie auf der Beifahrerseite aus, weg vom fließenden Verkehr.</li>
+<li><strong>Alle Personen aussteigen lassen</strong> und hinter die Leitplanke gehen. Kinder und Tiere nicht im Fahrzeug lassen.</li>
+<li><strong>Warndreieck aufstellen</strong>, aber nur, wenn es ohne Gefahr möglich ist. Auf der Autobahn gilt als Richtwert mindestens 150 Meter Abstand, eher mehr. Gehen Sie dafür hinter der Leitplanke.</li>
+<li><strong>Hilfe rufen:</strong> Bei Verletzten die 112. Bei einer Panne ohne Verletzte rufen Sie einen Abschleppdienst oder den Pannenhilfe-Dienst Ihres Automobilclubs oder Ihrer Versicherung.</li>
+<li><strong>Nicht selbst reparieren</strong> und nicht auf dem Standstreifen ein Rad wechseln.</li>
+</ol>
+<h2>Warum die Reihenfolge zählt</h2>
+<p>Die meisten schweren Unfälle nach einer Panne passieren nicht durch die Panne selbst, sondern durch das, was danach folgt: Menschen, die auf dem Standstreifen stehen bleiben, am Fahrzeug arbeiten oder ohne Warnweste umhergehen. Ein Fahrzeug lässt sich ersetzen, Sie nicht. Verlassen Sie das Auto deshalb so schnell wie möglich und bringen Sie sich hinter die Leitplanke.</p>
+<h2>Abstand des Warndreiecks</h2>
+<table class="tbl"><thead><tr><th>Straße</th><th>Richtwert</th></tr></thead><tbody>
+<tr><td>Innerorts</td><td>etwa 50 Meter</td></tr>
+<tr><td>Landstraße</td><td>etwa 100 Meter</td></tr>
+<tr><td>Autobahn</td><td>mindestens 150 Meter, bis etwa 400 Meter</td></tr>
+</tbody></table>
+<p class="fine">Die Straßenverkehrs-Ordnung (§ 15) verlangt ein Warnzeichen in ausreichender Entfernung. Die genannten Abstände sind übliche Richtwerte. Hinter einer Kurve oder Kuppe gehört das Dreieck weiter weg.</p>
+<h2>Standort melden</h2>
+<p>Wichtig sind Autobahn (z. B. A5), Fahrtrichtung, letzte Ausfahrt und, wenn erkennbar, die Kilometerangabe an den Schildern. Die Pfeile auf den Leitpfosten zeigen den Weg zur nächsten Notrufsäule. Auf dem Handy können Sie per WhatsApp den Standort teilen. Wer die Notrufsäule benutzt, muss nichts erklären: Sie ist mit einer Zentrale verbunden, die den Standort kennt.</p>
+<h2>Warum nicht immer Sie den Abschleppdienst auswählen</h2>
+<p>Ist die Polizei vor Ort oder haben Sie die Notrufsäule genutzt, wird oft ein Vertragsunternehmen beauftragt. Sie können Ihren Wunsch nennen, das Unternehmen entscheidet dann aber nicht immer nach Ihrem Wunsch. Bei einer einfachen Panne ohne Polizei können Sie frei wählen.</p>
+<h2>Abschleppen von der Autobahn</h2>
+<p>Beim Abschleppen eines auf der Autobahn liegen gebliebenen Fahrzeugs ist die Autobahn bei der nächsten Ausfahrt zu verlassen (§ 15a Abs. 1 StVO). Während des Abschleppens müssen beide Fahrzeuge das Warnblinklicht eingeschaltet haben. Motorräder dürfen nicht abgeschleppt werden, sie müssen transportiert werden.</p>
+<h2>Im Stau liegen geblieben</h2>
+<p>Bei stockendem Verkehr muss eine Rettungsgasse gebildet werden. Ein liegengebliebenes Fahrzeug darf sie nicht blockieren. Fahren Sie so weit wie möglich an den Rand.</p>
+<h2>Sonderfälle</h2>
+<ul class="ticks">
+<li><strong>In einem Tunnel:</strong> Warnblinker, Motor aus, Fahrzeug verlassen, zur nächsten Notrufeinrichtung gehen, wenn es gefahrlos möglich ist.</li>
+<li><strong>Warnleuchte im Cockpit:</strong> Bei roten Symbolen wie Öldruck oder Kühlmittel sofort anhalten, siehe <a href="ratgeber-warnleuchten-auto.html">Warnleuchten im Auto</a>.</li>
+<li><strong>Elektroauto:</strong> Bei Rauch oder Beschädigung der Batterie Abstand halten und 112 rufen. Siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</li>
+<li><strong>Mit Kindern oder Tieren:</strong> Erst alle in Sicherheit bringen, dann telefonieren.</li>
+<li><strong>Nachts oder bei Nebel:</strong> Auf jeden Fall hinter die Leitplanke, Warnweste tragen, Fahrzeug so gut wie möglich sichtbar machen.</li>
+</ul>
+<p>Ausführliche Hilfe für die A5 zwischen Karlsruhe und Offenburg: <a href="abschleppdienst-a5.html">Abschleppdienst A5</a>. Für Köln: <a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Wie weit hinter dem Auto muss das Warndreieck stehen?</summary><div>Auf der Autobahn mindestens 150 Meter, oft mehr. Wenn das nur mit Gefahr möglich ist, verzichten Sie darauf und gehen Sie hinter die Leitplanke.</div></details>
+<details><summary>Muss ich eine Warnweste tragen?</summary><div>Eine Warnweste sollte im Fahrzeug liegen, und bei einer Panne auf der Autobahn sollten Sie sie vor dem Aussteigen anziehen.</div></details>
+<details><summary>Wen rufe ich zuerst?</summary><div>Bei Verletzten die 112, sonst Ihren Pannendienst oder uns.</div></details>
+<details><summary>Darf ich auf dem Standstreifen ein Rad wechseln?</summary><div>Davon raten wir ab. Der Standstreifen ist nahe am fließenden Verkehr. Rufen Sie besser einen Pannendienst.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-unfall-abschleppkosten | Abschleppkosten nach Unfall – wer zahlt? | Wer zahlt das Abschleppen nach einem Unfall? Haftpflicht, freie Wahl des Abschleppdienstes, nächste Werkstatt, überhöhte Rechnung. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Abschleppkosten nach einem Unfall: Wer zahlt?</h1><p class="lead">Wenn Sie den Unfall nicht verursacht haben, zahlt in der Regel die Versicherung des Unfallgegners.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p>Das ist eine allgemeine Übersicht und keine Rechtsberatung. Im Streitfall hilft eine Rechtsanwältin oder ein Rechtsanwalt oder die Versicherung.</p></div>
+<h2>Die Grundregel</h2>
+<p>Ist ein anderer für den Unfall verantwortlich, trägt in der Regel dessen Kfz-Haftpflichtversicherung die Abschleppkosten. Die Abschleppkosten gehören zu den Schäden, die ersetzt werden.</p>
+<h2>Wer sucht den Abschleppdienst aus?</h2>
+<p>Als Geschädigte oder Geschädigter dürfen Sie das Unternehmen selbst wählen. Sie müssen in der Notlage keinen Preisvergleich anstellen. Gerade nach einem Unfall ist dafür meist keine Zeit. Der Schädiger schuldet in einer solchen Eilsituation die tatsächlich entstandenen Kosten. Es kommt nicht darauf an, ob der Preis dem Durchschnitt entspricht.</p>
+<h2>Wohin darf das Fahrzeug?</h2>
+<p>Es gilt die Schadenminderungspflicht: Sie sollen die Kosten so niedrig wie möglich halten. In der Regel bedeutet das, dass das Fahrzeug in die nächstgelegene geeignete Werkstatt gebracht wird. Ein weiter Weg zu Ihrer Stammwerkstatt kann dazu führen, dass die Versicherung die Mehrkosten nicht übernimmt. Besprechen Sie das Ziel deshalb vorab mit uns und mit Ihrer Versicherung. Ob das Auto überhaupt noch fahren darf, klärt <a href="ratgeber-nach-unfall-fahrbereit.html">Nach dem Unfall: fahrbereit oder abschleppen?</a></p>
+<h2>Wenn die Versicherung den Preis für überhöht hält</h2>
+<p>Zunächst bezahlt meist der Auftraggeber die Rechnung, also Sie. Hält die Versicherung sie für überhöht, kann sie Ihre Ansprüche gegen das Abschleppunternehmen abgetreten verlangen und sich selbst darum kümmern. Dann müssen Sie sich nicht streiten.</p>
+<h2>Wenn Sie den Unfall verursacht haben</h2>
+<p>Dann zahlen Sie zunächst selbst, es sei denn, Ihre Kasko, Ihr Schutzbrief oder Ihre Mitgliedschaft in einem Automobilclub deckt es ab. Ein kurzer Blick in die Vertragsbedingungen oder ein Anruf bei der Versicherung klärt das.</p>
+<h2>Wenn beide Seiten Schuld haben</h2>
+<p>Teilen sich die Beteiligten die Schuld, teilen sich auch die Kosten, und zwar nach der Quote, die die Versicherungen festlegen. Halten Sie in diesem Fall alle Belege bereit und zahlen Sie die Rechnung, damit Sie sie einreichen können.</p>
+<h2>Ablauf nach dem Unfall</h2>
+<ol>
+<li>Unfallstelle sichern: Warnblinker, Warnweste, Warndreieck.</li>
+<li>Bei Verletzten 112 rufen.</li>
+<li>Bei Bedarf die Polizei rufen, besonders bei Personenschaden, Streit über die Schuld oder Fahrerflucht.</li>
+<li>Daten austauschen: Name, Anschrift, Kennzeichen, Versicherung.</li>
+<li>Fotos machen: Fahrzeuge, Schäden, Standort, Straße.</li>
+<li>Abschleppdienst wählen und Ziel nennen.</li>
+<li>Rechnung und Beleg aufbewahren.</li>
+</ol>
+<h2>Das sollten Sie sichern</h2>
+<ul class="ticks">
+<li>Fotos vom Fahrzeug, der Unfallstelle und Schäden</li>
+<li>Name und Versicherung des Unfallgegners, bei Bedarf Polizei rufen</li>
+<li>Die Rechnung und ein Nachweis, dass sie bezahlt ist</li>
+<li>Den Zielort des Abschleppens und den Grund, warum Sie ihn gewählt haben</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Muss ich den Abschleppdienst nehmen, den die Polizei nennt?</summary><div>Wenn die Polizei einen Vertragsdienst beauftragt, ist das eine andere Lage. Sie dürfen aber Ihren Wunsch äußern. Bei kleineren Unfällen ohne Polizei können Sie frei wählen.</div></details>
+<details><summary>Kann ich das Auto direkt zur Stammwerkstatt bringen lassen?</summary><div>Das ist möglich, aber nach einem fremdverschuldeten Unfall übernimmt die Versicherung in der Regel nur den Weg zur nächsten geeigneten Werkstatt.</div></details>
+<details><summary>Muss ich einen Preisvergleich machen?</summary><div>Nein. In der Notlage nach einem Unfall müssen Sie keine Angebote einholen.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-e-auto-abschleppen | E-Auto abschleppen – das sollten Sie wissen | Elektroauto liegengeblieben: warum E-Autos verladen werden sollten, was Rekuperation damit zu tun hat und was nach einem Unfall gilt. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>E-Auto abschleppen: Das sollten Sie wissen</h1><p class="lead">Elektroautos werden am sichersten auf einem Plateaufahrzeug transportiert. Hier steht, warum.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Warum nicht einfach ziehen?</h2>
+<p>Ein Elektromotor kann als Generator arbeiten. Das ist das Prinzip der Rekuperation: Beim Bremsen gewinnt das Fahrzeug Energie zurück. Werden die angetriebenen Räder beim Abschleppen gedreht, erzeugt der Motor Spannung, die die abgeschaltete Steuerelektronik nicht verarbeiten kann. Im schlimmsten Fall entstehen Schäden. Deshalb sollte die angetriebene Achse keinen Bodenkontakt haben.</p>
+<h2>Der sichere Weg: Plateaufahrzeug</h2>
+<p>Ein Fahrzeug mit Ladefläche transportiert das E-Auto komplett. Die Methode gilt als die sicherste und wird von den Herstellern grundsätzlich akzeptiert. Ob und wie ein bestimmtes Modell auch anders bewegt werden darf, steht in der Betriebsanleitung. Fragen Sie bei Zweifeln den Hersteller oder Ihre Werkstatt.</p>
+<h2>Vollelektrisch, Hybrid, Plug-in-Hybrid</h2>
+<p>Auch Hybride haben einen Elektromotor und teils eine Hochvoltbatterie. Was für reine Elektroautos gilt, betrifft deshalb je nach Modell auch Plug-in-Hybride und andere Hybridfahrzeuge. Sagen Sie deshalb am Telefon, welchen Antrieb Ihr Fahrzeug hat. Wenn Sie es nicht wissen, nennen Sie Marke, Modell und Baujahr.</p>
+<h2>Was Sie uns sagen sollten</h2>
+<ul class="ticks">
+<li>Marke, Modell und Antrieb: vollelektrisch, Hybrid oder Plug-in-Hybrid</li>
+<li>Ob das Fahrzeug noch rollt oder blockiert ist (bei manchen Modellen lässt sich die Parksperre oder elektrische Feststellbremse ohne Strom nicht lösen)</li>
+<li>Ob es einen Unfall oder ein Warnsignal der Hochvoltbatterie gab</li>
+<li>Wo es steht: Tiefgarage, Ladesäule, Straße</li>
+<li>Ob das Fahrzeug an einer Ladesäule angeschlossen ist</li>
+</ul>
+<h2>Leere 12-Volt-Batterie</h2>
+<p>Auch Elektroautos haben eine kleine 12-Volt-Batterie für Elektronik, Schlösser und Bremsen. Ist sie leer, lässt sich das Fahrzeug manchmal nicht mehr öffnen oder starten, obwohl der große Akku noch geladen ist. Starthilfe ist dann je nach Modell möglich, aber nur an den vom Hersteller vorgesehenen Anschlusspunkten. Mehr im Ratgeber <a href="ratgeber-starthilfe-batterie.html">Starthilfe und leere Batterie</a>.</p>
+<h2>Nach einem Unfall</h2>
+<p>Bei Beschädigung der Batterie oder Rauchentwicklung: Abstand halten und die 112 rufen. Sagen Sie der Feuerwehr, dass es ein Elektroauto ist. Das Fahrzeug wird danach fachgerecht gesichert und abtransportiert. Ein beschädigtes Fahrzeug sollte nicht in einer Tiefgarage oder direkt neben Gebäuden stehen bleiben.</p>
+<h2>Akku leer, sonst nichts?</h2>
+<p>Wenn nur die Reichweite ausgeht, ist Abschleppen oft nicht nötig. Ein Transport zur nächsten Ladesäule oder Werkstatt ist möglich. Nennen Sie uns Ziel und Fahrzeug, und wir besprechen den weiteren Weg.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich ein E-Auto mit Abschleppseil ziehen?</summary><div>Davon raten wir ab. Auf keinen Fall mit angetriebenen Rädern auf dem Boden, bevor Sie in der Betriebsanleitung geschaut haben.</div></details>
+<details><summary>Ist es teurer, ein E-Auto abzuschleppen?</summary><div>Das kann sein, weil ein Plateaufahrzeug nötig ist. Der Preis wird vorab genannt.</div></details>
+<details><summary>Darf ich ein E-Auto nach einem Unfall weiterfahren?</summary><div>Nein, wenn die Batterie beschädigt sein könnte oder Warnleuchten brennen. Lassen Sie es transportieren und prüfen.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-starthilfe-batterie | Starthilfe und leere Batterie – Ursachen und Ablauf | Auto springt nicht an? Ursachen einer leeren Batterie, Starthilfe Schritt für Schritt, Sonderfälle und wann ein Abschleppdienst sinnvoll ist. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Starthilfe und leere Batterie</h1><p class="lead">Das Auto klickt nur oder tut gar nichts? Meist ist die Batterie schuld. Oft lässt sich das vor Ort beheben.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Woran Sie eine leere Batterie erkennen</h2>
+<ul class="ticks">
+<li>Beim Drehen des Zündschlüssels oder Drücken des Startknopfs passiert nichts oder es klickt nur</li>
+<li>Der Anlasser dreht sehr langsam</li>
+<li>Die Instrumentenbeleuchtung ist schwach oder geht aus, wenn Sie starten</li>
+<li>Die Zentralverriegelung reagiert nicht mehr</li>
+</ul>
+<h2>Warum die Batterie leer wird</h2>
+<ul class="ticks">
+<li><strong>Kälte:</strong> Bei Frost bringt eine Batterie weniger Leistung, der Motor braucht aber mehr.</li>
+<li><strong>Kurzstrecken:</strong> Wer nur kurze Wege fährt, lädt die Batterie kaum wieder auf.</li>
+<li><strong>Alter:</strong> Nach einigen Jahren lässt die Kapazität nach.</li>
+<li><strong>Licht oder Verbraucher an:</strong> Ein vergessenes Standlicht reicht.</li>
+<li><strong>Lange Standzeit:</strong> Auch ein geparktes Fahrzeug verbraucht Strom, etwa für Alarmanlage und Steuergeräte.</li>
+</ul>
+<h2>Starthilfe Schritt für Schritt</h2>
+<p>Für die Starthilfe brauchen Sie ein zweites Fahrzeug mit ähnlicher Batteriespannung und Starthilfekabel. Ein Überblick:</p>
+<ol>
+<li>Beide Motoren aus, Zündung aus. Kabel nicht aufeinander stoßen lassen.</li>
+<li>Rotes Kabel an den Pluspol der leeren Batterie, dann an den Pluspol der Spenderbatterie.</li>
+<li>Schwarzes Kabel an den Minuspol der Spenderbatterie, das andere Ende an ein blankes Metallteil am Motorblock oder eine Masseschraube des liegengebliebenen Fahrzeugs, nicht an den Minuspol der leeren Batterie.</li>
+<li>Spender starten und kurz laufen lassen, dann das liegengebliebene Fahrzeug starten.</li>
+<li>Kabel in umgekehrter Reihenfolge entfernen. Danach eine längere Fahrt machen, damit die Batterie wieder lädt.</li>
+</ol>
+<div class="note"><p>Bei Hybrid- und Elektroautos, Start-Stopp-Systemen und modernen Fahrzeugen sind die Anschlusspunkte oft besonders vorgesehen. Lesen Sie die Betriebsanleitung, bevor Sie Kabel anklemmen.</p></div>
+<h2>Häufige Fehler</h2>
+<ul class="ticks">
+<li>Kabel vertauscht: Plus an Minus kann Elektronik zerstören.</li>
+<li>Schwarzes Kabel direkt an den Minuspol der leeren Batterie: Dabei können Funken an der Batterie entstehen.</li>
+<li>Zu kurz laufen lassen: Wer sofort nach dem Start wieder abstellt, steht bald wieder da.</li>
+<li>Eine offensichtlich beschädigte oder gefrorene Batterie überbrücken: Das sollten Sie nicht tun.</li>
+</ul>
+<h2>Wann Sie uns rufen sollten</h2>
+<ul class="ticks">
+<li>Sie haben kein zweites Fahrzeug oder keine Kabel</li>
+<li>Sie stehen an einer gefährlichen Stelle (Autobahn, Tunnel, Tiefgarage)</li>
+<li>Das Fahrzeug springt trotz Starthilfe nicht an. Dann liegt vielleicht ein anderer Fehler vor.</li>
+<li>Es ist ein Hybrid- oder Elektroauto</li>
+</ul>
+<p>Wir versuchen zuerst, das Fahrzeug vor Ort zu starten. Klappt das nicht, bringen wir es in die Werkstatt.</p>
+<h2>Danach vorbeugen</h2>
+<p>Lassen Sie die Batterie prüfen, besonders wenn sie schon einige Jahre alt ist. Vermeiden Sie im Winter wiederholte Kurzstrecken, oder laden Sie die Batterie gelegentlich mit einem Ladegerät nach. Auch ein Schutzbrief kann sich lohnen, weil er Pannenhilfe abdeckt.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Wie lange muss ich nach der Starthilfe fahren?</summary><div>Eine längere Fahrt ist besser als eine Kurzstrecke, weil die Lichtmaschine die Batterie erst wieder laden muss. Lassen Sie die Batterie danach prüfen.</div></details>
+<details><summary>Kann Starthilfe dem Auto schaden?</summary><div>Bei falschem Anschluss ja. Halten Sie sich an die Betriebsanleitung, oder lassen Sie es uns machen.</div></details>
+<details><summary>Kann ich bei Kälte einfach nochmal versuchen?</summary><div>Mehrere Startversuche direkt hintereinander entladen die Batterie weiter. Warten Sie besser einige Minuten oder holen Sie Starthilfe.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-reifenpanne | Reifenpanne – Ersatzrad, Pannenset oder Abschleppen? | Platter Reifen: Ersatzrad, Pannenset oder Abschleppdienst? Was sinnvoll ist, wo Sie gefahrlos wechseln und wann Sie Hilfe rufen sollten. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Reifenpanne: Was jetzt?</h1><p class="lead">Ersatzrad, Pannenset oder Abschleppwagen? Das hängt vom Schaden und vom Ort ab.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zuerst sichern</h2>
+<p>Warnblinker an, an einen sicheren Ort fahren und Warnweste anziehen. Nur dort wechseln, wo es sicher ist: auf einem ebenen Parkplatz, nicht am Rand einer schnellen Straße und nicht auf dem Standstreifen der Autobahn.</p>
+<h2>Woran Sie einen Reifenschaden erkennen</h2>
+<ul class="ticks">
+<li>Das Fahrzeug zieht plötzlich zu einer Seite</li>
+<li>Es gibt ein Flattern oder Poltern</li>
+<li>Die Reifendruck-Warnleuchte geht an</li>
+<li>Ein Zischen ist zu hören, oder der Reifen sieht sichtbar platt aus</li>
+</ul>
+<p>Bremsen Sie nicht abrupt, sondern nehmen Sie das Gas weg, halten Sie das Lenkrad fest und rollen Sie aus.</p>
+<h2>Was Ihr Fahrzeug an Bord hat</h2>
+<ul class="ticks">
+<li><strong>Ersatzrad:</strong> Wechseln Sie es, wenn Sie sicher stehen und die Anleitung kennen.</li>
+<li><strong>Pannenset (Dichtmittel und Kompressor):</strong> Viele neue Fahrzeuge haben nur das. Es hilft bei kleinen Löchern in der Lauffläche, nicht bei Schäden an der Seitenwand.</li>
+<li><strong>Notlaufreifen:</strong> Erlauben, mit reduziertem Tempo weiterzufahren. Die Angaben stehen in der Betriebsanleitung.</li>
+</ul>
+<p>Nach einer Reparatur mit dem Pannenset gilt meist ein Tempolimit von etwa 80 km/h und eine kurze Strecke bis zur Werkstatt. Die genauen Angaben stehen auf dem Set.</p>
+<h2>Das Rad wechseln in fünf Schritten</h2>
+<ol>
+<li>Handbremse anziehen, Gang einlegen, wenn möglich Unterlegkeil.</li>
+<li>Radmuttern etwas lösen, solange das Rad noch am Boden steht.</li>
+<li>Fahrzeug an der vom Hersteller vorgesehenen Stelle anheben.</li>
+<li>Rad wechseln, Muttern von Hand aufdrehen.</li>
+<li>Fahrzeug absenken und die Muttern über Kreuz festziehen. Die Muttern bald mit dem Drehmomentschlüssel nachziehen lassen.</li>
+</ol>
+<h2>Wann ein Abschleppdienst besser ist</h2>
+<ul class="ticks">
+<li>Der Reifen ist an der Seitenwand aufgerissen</li>
+<li>Es gibt kein Ersatzrad und das Pannenset hilft nicht</li>
+<li>Sie stehen auf der Autobahn, in einem Tunnel oder an einer unübersichtlichen Stelle</li>
+<li>Sie können das Rad nicht lösen (Radmutter, Felgenschloss) oder es ist dunkel und nass</li>
+<li>Der Wagenheber oder das Werkzeug fehlen</li>
+</ul>
+<p>Oft ist der direkte Transport zum Reifenservice die einfachste Lösung. Wir bringen Ihr Fahrzeug dorthin oder in die Werkstatt Ihrer Wahl.</p>
+<h2>Nach dem Wechsel</h2>
+<p>Lassen Sie den Luftdruck und die Radmuttern bald prüfen. Ein Notrad ist nur für kurze Strecken gedacht. Lassen Sie den beschädigten Reifen begutachten: Ein Reifen, der auf der Felge gefahren wurde, kann von innen beschädigt sein.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich mit einem platten Reifen weiterfahren?</summary><div>Nur ein kurzes Stück und nur, wenn es sicher ist. Wer auf der Felge fährt, beschädigt Reifen, Felge und im schlimmsten Fall die Achse.</div></details>
+<details><summary>Wechseln Sie auch den Reifen vor Ort?</summary><div>Wenn ein Ersatzrad vorhanden ist und die Stelle sicher genug, versuchen wir zuerst, Ihnen vor Ort zu helfen. Sonst transportieren wir das Fahrzeug zum Reifenservice.</div></details>
+<details><summary>Ist ein Pannenset ein Ersatz für ein Ersatzrad?</summary><div>Nur für kleine Löcher in der Lauffläche. Bei größeren Schäden hilft es nicht, dann ist Abschleppen nötig.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-falsch-getankt | Falsch getankt – was jetzt zu tun ist | Diesel statt Benzin oder umgekehrt getankt? Was Sie sofort tun und lassen sollten: nicht starten, Zündung aus, Werkstatt und Abschleppdienst. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Falsch getankt: Was jetzt?</h1><p class="lead">Diesel im Benziner oder Benzin im Diesel: Wenn Sie den Fehler früh bemerken, lässt sich der Schaden meist begrenzen.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Das gilt sofort</h2>
+<ol>
+<li><strong>Tankvorgang stoppen.</strong> Sobald Sie merken, dass Sie die falsche Zapfsäule genommen haben, hören Sie auf zu tanken.</li>
+<li><strong>Motor nicht starten und Zündung nicht einschalten.</strong> Ist der Kraftstoff im Tank, aber noch nicht in der Leitung, ist der Schaden meist klein.</li>
+<li><strong>Tür möglichst geschlossen halten.</strong> Bei vielen modernen Fahrzeugen startet schon beim Öffnen der Fahrertür die Kraftstoffvorförderpumpe, die das falsche Gemisch weitertransportieren kann.</li>
+<li><strong>Fahrzeug an einen sicheren Platz bringen,</strong> zum Beispiel von der Zapfsäule wegrollen lassen oder schieben.</li>
+<li><strong>Hilfe rufen:</strong> Eine Werkstatt oder ein Abschleppdienst bringt das Fahrzeug dorthin, wo der Tank abgepumpt werden kann.</li>
+</ol>
+<h2>Wenn der Motor schon gelaufen ist</h2>
+<p>Bemerken Sie den Fehler erst unterwegs, etwa weil der Motor stottert oder Warnleuchten angehen, schalten Sie den Motor sofort aus, rollen Sie an einen sicheren Ort und fahren Sie nicht weiter. Je länger das falsche Gemisch durchs System läuft, desto größer kann der Schaden am Einspritzsystem sein, bis hin zu Hochdruckpumpe, Injektoren und Leitungen.</p>
+<h2>Was in der Werkstatt passiert</h2>
+<p>Der Tank wird abgepumpt und gegebenenfalls gespült. Je nachdem, wie weit der falsche Kraftstoff gekommen ist, werden auch Leitungen und Filter geprüft. Deshalb lohnt es sich, in der Werkstatt genau zu sagen, wann Sie den Fehler bemerkt haben und ob der Motor lief.</p>
+<h2>Wer zahlt?</h2>
+<p>Der Fehler liegt in der Regel bei Ihnen. Hersteller oder Kfz-Versicherung haften meist nicht für einen falsch gefüllten Tank. Mit einem Autoschutzbrief kann ein Teil der Kosten für Abschleppen und Abpumpen erstattet werden. Prüfen Sie Ihren Vertrag oder rufen Sie Ihren Club an, bevor Sie zahlen.</p>
+<h2>Vorbeugen</h2>
+<ul class="ticks">
+<li>Lesen Sie das Schild an der Zapfpistole und die Angabe im Tankdeckel.</li>
+<li>Diesel-Zapfpistolen sind meist dicker und passen bei vielen Benzinern nicht. Das ist ein Hinweis, aber kein sicherer Schutz.</li>
+<li>Wenn Sie ein Mietfahrzeug haben, fragen Sie bei der Übergabe nach dem Kraftstoff.</li>
+<li>Bei Unsicherheit: nicht tanken, erst nachfragen.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich einfach weiterfahren, wenn ich nur ein bisschen falsch getankt habe?</summary><div>Nein. Auch kleine Mengen können Schäden verursachen. Das Fahrzeug sollte in die Werkstatt.</div></details>
+<details><summary>Warum soll ich die Tür nicht öffnen?</summary><div>Bei vielen modernen Fahrzeugen läuft die Kraftstoffvorförderpumpe schon beim Öffnen der Fahrertür an. Das können Sie vermeiden, indem Sie sie geschlossen lassen.</div></details>
+<details><summary>Bringen Sie das Fahrzeug in meine Werkstatt?</summary><div>Ja, nennen Sie uns die Adresse. Sie sollte in der Lage sein, den Tank abzupumpen. Rufen Sie dort vorher an.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-ausgesperrt | Ausgesperrt: Schlüssel im Auto – was tun? | Schlüssel im Auto eingeschlossen? Ersatzschlüssel, Hersteller-App, Automobilclub, professionelle Fahrzeugöffnung und was Sie lieber nicht versuchen sollten. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Ausgesperrt: Schlüssel im Auto</h1><p class="lead">Tür zu, Schlüssel drin? Bleiben Sie ruhig. Es gibt Wege, das Fahrzeug zu öffnen, ohne dass etwas kaputtgeht.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p><strong>Notfall:</strong> Sind ein Kind oder ein Tier im Auto eingeschlossen, rufen Sie sofort die 112, besonders bei Wärme.</p></div>
+<h2>Erst die einfachen Wege</h2>
+<ol>
+<li><strong>Ersatzschlüssel:</strong> Kann jemand ihn bringen?</li>
+<li><strong>Hersteller-App:</strong> Manche Fahrzeuge lassen sich per App öffnen.</li>
+<li><strong>Automobilclub oder Schutzbrief:</strong> Mitglieder können mit Fahrzeugpapieren und Ausweis nachweisen, dass das Fahrzeug ihnen gehört.</li>
+<li><strong>Pannendienst oder Schlüsseldienst:</strong> Fachleute können das Fahrzeug in der Regel ohne Schaden öffnen.</li>
+</ol>
+<h2>Was Sie besser nicht versuchen</h2>
+<p>Draht, Kleiderbügel oder Keile ins Türfenster schieben führt häufig zu Kratzern, verbogenen Türrahmen, beschädigten Dichtungen und Problemen mit Elektronik oder Airbags. Am Ende wird das oft teurer als eine fachgerechte Öffnung. Auch das Einschlagen einer Scheibe ist meist die teuerste Lösung.</p>
+<h2>Wie eine professionelle Öffnung abläuft</h2>
+<p>Fachleute nutzen Spezialwerkzeug und öffnen die Tür in der Regel in wenigen Minuten, ohne Spuren zu hinterlassen. Halten Sie Ihren Ausweis und die Fahrzeugpapiere bereit oder einen anderen Nachweis, dass das Fahrzeug Ihnen gehört. Seriöse Anbieter fragen danach.</p>
+<h2>Kosten und Schutzbrief</h2>
+<p>Ein Autoschutzbrief oder die Mitgliedschaft in einem Automobilclub kann die Kosten ganz oder teilweise abdecken, oft bis zu einer Höchstgrenze pro Fall. Fragen Sie Ihre Versicherung, bevor Sie zahlen. Bei einem Angebot sollten Sie den Preis vorher erfragen.</p>
+<h2>Was Sie am Telefon sagen sollten</h2>
+<ul class="ticks">
+<li>Marke, Modell und Baujahr des Fahrzeugs</li>
+<li>Ob Fenster oder Schiebedach offen stehen</li>
+<li>Ob Personen, Tiere oder Wertsachen im Fahrzeug sind</li>
+<li>Wo Sie stehen und ob Sie Ihren Ausweis und den Fahrzeugschein dabeihaben</li>
+</ul>
+<h2>Schlüssel verloren statt eingeschlossen</h2>
+<p>Ist der Schlüssel nicht im Auto, sondern verloren, hilft eine Öffnung nicht weiter, denn ohne Schlüssel lässt sich das Fahrzeug meist nicht starten. Ein Ersatzschlüssel kommt in der Regel über die Werkstatt oder den Hersteller, dafür brauchen Sie Fahrzeugpapiere und Ausweis. Das Fahrzeug kann bis dahin auf einem Plateaufahrzeug in die Werkstatt gebracht werden.</p>
+<h2>Vorbeugen</h2>
+<ul class="ticks">
+<li>Zweitschlüssel außerhalb des Fahrzeugs aufbewahren.</li>
+<li>Schlüsselanhänger mit Verriegelungsanzeige beachten.</li>
+<li>Beim Aussteigen Schlüssel immer mitnehmen, auch beim kurzen Tanken.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Beschädigt eine Fahrzeugöffnung mein Auto?</summary><div>Bei fachgerechter Öffnung in der Regel nicht.</div></details>
+<details><summary>Brauche ich Papiere?</summary><div>Ja, ein Nachweis, dass das Fahrzeug Ihnen gehört, ist üblich: Fahrzeugpapiere und Ausweis.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-motorrad-transport | Motorrad-Transport nach Panne oder Sturz | Motorräder dürfen nicht abgeschleppt werden. So läuft der Transport nach Panne oder Sturz ab und was Sie vorbereiten sollten. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Motorrad-Transport nach Panne oder Sturz</h1><p class="lead">Ein Motorrad darf nicht abgeschleppt werden. Es muss transportiert werden. Das ist kein Nachteil, sondern die sicherere Lösung.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Was das Gesetz sagt</h2>
+<p>Nach § 15a Abs. 4 der Straßenverkehrs-Ordnung dürfen Krafträder nicht abgeschleppt werden. Der Grund ist die Stabilität: Ein Motorrad, das an einem Seil hinter einem Auto hängt, kippt leicht, und der Fahrer auf dem Motorrad hat kaum Kontrolle. Das Motorrad muss deshalb auf einem Transporter, einem Anhänger oder einem Plateaufahrzeug transportiert werden.</p>
+<h2>Wie der Transport abläuft</h2>
+<ol>
+<li>Sie nennen uns Standort, Modell und den Zustand: Rollt das Motorrad? Ist es gestürzt?</li>
+<li>Das Motorrad wird auf die Ladefläche gehoben oder gerollt.</li>
+<li>Es wird an den dafür geeigneten Punkten mit Spanngurten gesichert.</li>
+<li>Transport zur Werkstatt, nach Hause oder zu einem anderen Ziel.</li>
+</ol>
+<h2>Nach einem Sturz</h2>
+<ul class="ticks">
+<li>Motor nicht starten, wenn Kraftstoff oder Öl austritt.</li>
+<li>Verletzte zuerst versorgen, bei Verletzungen 112 rufen.</li>
+<li>Zündung und, wenn möglich, Kraftstoffhahn schließen.</li>
+<li>Fotos vom Motorrad und der Stelle machen, falls ein Schaden versichert werden soll.</li>
+<li>Bekleidung und Gepäck mitnehmen.</li>
+</ul>
+<h2>Was Sie uns sagen sollten</h2>
+<ul class="ticks">
+<li>Marke, Modell, ungefähres Gewicht (bei schweren Maschinen wichtig)</li>
+<li>Ob es Verkleidung, Koffer oder Beiwagen gibt</li>
+<li>Ob Lenker oder Räder blockiert sind</li>
+<li>Wo es steht: Straße, Parkplatz, Bergstrecke</li>
+</ul>
+<h2>Motorrad in den Bergen</h2>
+<p>In Mittelbaden und im Schwarzwald sind die Bergstrecken bei Motorradfahrern beliebt, etwa die Schwarzwaldhochstraße. Bei einer Panne an einer solchen Stelle hilft uns eine genaue Ortsangabe wie ein Parkplatz oder Aussichtspunkt. Siehe <a href="abschleppdienst-baden-baden.html">Abschleppdienst Baden-Baden</a>.</p>
+<h2>Ausrüstung und Gepäck</h2>
+<p>Nehmen Sie Helm, Handschuhe, Jacke und Gepäck mit, bevor das Motorrad verladen wird. Koffer und Topcases können sich beim Transport lösen. Nehmen Sie sie besser ab oder sichern Sie sie. Verkleidungsteile, die nach einem Sturz lose sind, sollten Sie ebenfalls mitnehmen.</p>
+<h2>Motorrad nicht mehr fahrbereit: Bergung</h2>
+<p>Liegt das Motorrad im Graben oder unter einer Leitplanke, ist erst Bergung nötig. Sagen Sie uns das gleich am Telefon, damit das passende Fahrzeug kommt. Helfen Sie nicht selbst beim Herausziehen, wenn Sie verletzt sind.</p>
+<h2>Versicherung und Schutzbrief</h2>
+<p>Prüfen Sie, ob Ihr Schutzbrief oder Ihre Mitgliedschaft im Automobilclub auch für Motorräder gilt. Bei vielen Verträgen ist das der Fall, aber nicht bei allen. Rufen Sie vorher an, sonst zahlen Sie möglicherweise selbst.</p>
+<h2>Roller und Quads</h2>
+<p>Für Roller gilt dasselbe wie für Motorräder. Bei Quads, Trikes oder Fahrzeugen mit Beiwagen fragen Sie bitte beim Anruf nach, weil sich die Ladung anders sichern lässt.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Darf ich ein Moped an einem Seil ziehen?</summary><div>Nein. Krafträder dürfen nicht abgeschleppt werden.</div></details>
+<details><summary>Können Sie auch ein schweres Motorrad transportieren?</summary><div>Nennen Sie uns Modell und Gewicht, dann klären wir, welches Fahrzeug passt.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-abschleppseil-oder-abschleppdienst | Abschleppseil oder Abschleppdienst? Regeln und Risiken | Auto selbst abschleppen: Regeln für Seil und Stange, Servolenkung, Bremskraftverstärker, Warnblinker und wann der Profi sicherer ist. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Abschleppseil oder Abschleppdienst?</h1><p class="lead">Ein Auto selbst abzuschleppen ist erlaubt, aber nicht ohne Risiko. Hier stehen die Regeln und die Grenzen.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Die wichtigsten Regeln</h2>
+<ul class="ticks">
+<li><strong>Warnblinklicht:</strong> An beiden Fahrzeugen muss das Warnblinklicht eingeschaltet sein (§ 15a Abs. 3 StVO).</li>
+<li><strong>Abstand:</strong> Das Seil darf nicht länger als etwa fünf Meter sein und sollte in der Mitte durch ein rotes Tuch gekennzeichnet werden.</li>
+<li><strong>Autobahn:</strong> Ein auf der Autobahn liegen gebliebenes Fahrzeug muss bei der nächsten Ausfahrt hinausgeschleppt werden (§ 15a Abs. 1 StVO).</li>
+<li><strong>Motorräder:</strong> Krafträder dürfen nicht abgeschleppt werden (§ 15a Abs. 4 StVO).</li>
+<li><strong>Tempo:</strong> Fahren Sie langsam. Als Richtwert gelten etwa 40 km/h.</li>
+</ul>
+<h2>Was das Abschleppen schwierig macht</h2>
+<p>Bei stehendem Motor arbeiten Servolenkung und Bremskraftverstärker nicht. Das liegengebliebene Fahrzeug lässt sich dann nur mit deutlich mehr Kraft lenken und bremsen. Das Seil muss immer gespannt bleiben, sonst kann es zu Rucken und Auffahren kommen. Wer das nicht kennt, unterschätzt es leicht. Und wer hinten sitzt, hat keine Kontrolle über das, was vorn passiert.</p>
+<h2>Wann Sie kein Seil benutzen sollten</h2>
+<ul class="ticks">
+<li><strong>Elektro- und Hybridautos:</strong> Rekuperation kann Schäden verursachen, siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</li>
+<li><strong>Automatikgetriebe:</strong> Bei vielen Modellen darf ohne Motor nur mit Einschränkungen abgeschleppt werden, siehe <a href="ratgeber-automatik-abschleppen.html">Automatikauto abschleppen</a>.</li>
+<li><strong>Unfallschäden:</strong> Beschädigte Achsen, Lenkung oder Bremsen machen Abschleppen mit Seil gefährlich.</li>
+<li><strong>Dichter Verkehr, Autobahn, Berge:</strong> Hier ist ein Abschleppdienst sicherer.</li>
+</ul>
+<h2>Abschleppstange oder Seil?</h2>
+<p>Eine Abschleppstange hält die Fahrzeuge auf festem Abstand und macht das Bremsen leichter, weil das gezogene Fahrzeug nicht auffahren kann. Sie muss zum Fahrzeug passen und an den vorgesehenen Abschleppösen befestigt werden.</p>
+<h2>Wenn Sie es doch selbst machen: Ablauf</h2>
+<ol>
+<li>Beide Fahrzeuge sichern: Warnblinker an, Warnweste tragen.</li>
+<li>Abschleppöse oder vorgesehene Befestigungspunkte an beiden Fahrzeugen suchen (Betriebsanleitung).</li>
+<li>Seil straffen, wenn das Zugfahrzeug losfährt, aber nicht ruckartig.</li>
+<li>Zündung im gezogenen Fahrzeug einschalten, damit die Lenkung nicht blockiert.</li>
+<li>Kurze Strecke, geringes Tempo, weit vorausschauend bremsen.</li>
+<li>Am Ziel das Seil erst lösen, wenn beide Fahrzeuge stehen.</li>
+</ol>
+<h2>Der Vorteil eines Abschleppdienstes</h2>
+<p>Ein Abschleppdienst lädt das Fahrzeug auf. Dabei werden Getriebe, Antrieb und Elektronik geschont, und das Fahrzeug muss weder lenken noch bremsen. Und Sie müssen nicht selbst am Steuer eines Fahrzeugs sitzen, das Sie eigentlich nicht mehr bewegen sollten. Ob Schäden beim privaten Abschleppen versichert sind, ist außerdem oft unklar.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Brauche ich einen Führerschein, um abzuschleppen?</summary><div>Wer das ziehende Fahrzeug fährt, braucht die passende Fahrerlaubnis. Auch im abgeschleppten Fahrzeug muss jemand am Lenkrad sitzen, der lenken und bremsen kann.</div></details>
+<details><summary>Kann ich das Abschleppen von einem Bekannten machen lassen?</summary><div>Ja, wenn alle Regeln eingehalten werden. Bedenken Sie aber die Risiken und dass Schäden am ziehenden Fahrzeug oder bei einem Unfall Fragen der Versicherung aufwerfen können.</div></details>
+</div></section>
+@@CTA@@
+=== kontakt | Kontakt &amp; Anfrage – Abschleppdienst | Abschleppdienst kontaktieren: per Telefon, WhatsApp oder Formular. Für Köln sowie Karlsruhe, Baden-Baden, Achern und Offenburg. 24/7 erreichbar. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kontakt</p><h1>Hilfe anfordern</h1><p class="lead">Dringend? Rufen Sie an oder schreiben Sie per WhatsApp und senden Sie Ihren Standort. Das Formular ist für Anfragen, die nicht eilen.</p></div></section>
+<section class="section"><div class="wrap split">
+<div class="copy"><h2>So erreichen Sie uns</h2>
+<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp schreiben</a></p>
+<p><a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993 anrufen</a></p>
+<p><strong>E-Mail:</strong> <a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a></p>
+<p><strong>Sitz:</strong><br>Faster Depannage Takeldienst<br>De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p>
+<p><strong>Sprachen:</strong> Deutsch, Niederländisch, Französisch und Englisch.</p>
+<h2>Wann Anruf, wann Formular?</h2>
+<p><strong>Anrufen oder WhatsApp:</strong> bei einer Panne, einem Unfall oder wenn Sie irgendwo festsitzen. Am schnellsten ist ein WhatsApp-Standort.</p>
+<p><strong>Formular:</strong> für geplante Transporte, Fahrzeugüberführungen oder Fragen, die nicht eilen.</p>
+<h2>Was Sie angeben sollten</h2>
+<ul class="ticks"><li>Wo das Fahrzeug steht (Ort, Straße, bei Autobahn Richtung und Ausfahrt)</li><li>Marke, Modell und Antrieb</li><li>Was passiert ist</li><li>Wohin es gebracht werden soll</li></ul>
+<p>Für eine Panne rund um Köln oder zwischen Karlsruhe und Offenburg finden Sie weitere Hinweise auf den Seiten <a href="index.html">Abschleppdienst Köln</a> und <a href="abschleppdienst-mittelbaden.html">Karlsruhe bis Offenburg</a>.</p></div>
+<form class="formbox" action="https://formsubmit.co/faster24eu@gmail.com" method="POST">
+<input type="hidden" name="_subject" value="[DE Abschleppdienst] Neue Anfrage">
+<input type="hidden" name="_template" value="table"><input type="hidden" name="_captcha" value="true">
+<label>Name*<input name="naam" required></label>
+<label>E-Mail*<input type="email" name="email" required></label>
+<label>Telefonnummer<input name="telefoon"></label>
+<label>Marke und Modell des Fahrzeugs<input name="voertuig"></label>
+<label>Wo steht das Fahrzeug?<input name="ophaalplaats"></label>
+<label>Wohin soll es gebracht werden?<input name="bestemming"></label>
+<label>Was ist passiert?<textarea name="situatie"></textarea></label>
+<button class="btn btn-y" type="submit">Anfrage senden</button>
+<p class="fine">Mit dem Absenden stimmen Sie zu, dass Ihre Angaben zur Bearbeitung Ihrer Anfrage per E-Mail an Faster übermittelt werden. Mehr in der <a href="datenschutz.html">Datenschutzerklärung</a>.</p>
+</form></div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zum Kontakt</h2>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja, per Telefon und WhatsApp sind wir rund um die Uhr erreichbar.</div></details>
+<details><summary>Was passiert mit meinen Daten?</summary><div>Ihre Angaben werden zur Bearbeitung Ihrer Anfrage verwendet. Details stehen in der Datenschutzerklärung.</div></details>
+<details><summary>Wer übernimmt den Einsatz vor Ort?</summary><div>Faster hat seinen Sitz in Antwerpen. Vor Ort arbeiten wir mit Partnern zusammen, wir koordinieren die Hilfe.</div></details>
+</div></section>

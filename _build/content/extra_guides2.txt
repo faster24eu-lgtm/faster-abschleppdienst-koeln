@@ -1,0 +1,146 @@
+=== ratgeber-warnleuchten-auto | Warnleuchten im Auto: Wann Sie sofort anhalten müssen | Rote und gelbe Warnleuchten im Auto: Öldruck, Kühlmittel, Batterie, Bremse und Motorkontrollleuchte. Was sie bedeuten und wann Weiterfahren nicht mehr geht. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Warnleuchten im Auto: Wann Sie sofort anhalten müssen</h1><p class="lead">Nicht jede Leuchte im Cockpit ist ein Notfall. Die Farbe verrät, wie dringend es ist, und bei einigen roten Symbolen gilt: rechts ran, Motor aus.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Die Farben in Kürze</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Farbe</th><th>Bedeutung</th><th>Was Sie tun</th></tr></thead><tbody>
+<tr><td>Grün oder blau</td><td>Funktion ist aktiv, zum Beispiel Licht oder Tempomat</td><td>Nichts</td></tr>
+<tr><td>Gelb oder orange</td><td>Ein System meldet einen Fehler oder braucht Aufmerksamkeit</td><td>Weiterfahren möglich, Werkstatt zeitnah aufsuchen</td></tr>
+<tr><td>Rot</td><td>Störung mit Gefahr für Sicherheit oder Motor</td><td>Bei den unten genannten Symbolen sofort sicher anhalten</td></tr>
+</tbody></table></div>
+<p>Das ist die übliche Logik, die Hersteller verwenden. Die genaue Bedeutung eines Symbols steht in Ihrer Betriebsanleitung, und sie unterscheidet sich zwischen Marken und Modellen.</p>
+<h2>Rote Leuchten, bei denen Sie anhalten sollten</h2>
+<ul class="ticks">
+<li><strong>Öldruck (Ölkanne):</strong> Der Öldruck ist zu niedrig. Ohne ausreichenden Druck werden Lager und Zylinderwände nicht mehr geschmiert, und ein Motorschaden kann innerhalb kurzer Zeit entstehen. Motor sofort abstellen.</li>
+<li><strong>Kühlmitteltemperatur (Thermometer in Wellen):</strong> Der Motor kann überhitzen. Siehe <a href="ratgeber-motor-ueberhitzt.html">Motor überhitzt: Was tun?</a></li>
+<li><strong>Batterie:</strong> Meist ein Problem mit der Lichtmaschine oder der Stromversorgung. Das Fahrzeug kann bald liegen bleiben, weil die Batterie sich nicht mehr lädt.</li>
+<li><strong>Bremse (Ausrufezeichen im Kreis):</strong> Wenn sie bei gelöster Handbremse leuchtet, kann ein Mangel an Bremsflüssigkeit oder ein Druckverlust vorliegen. Die Bremsleistung kann nachlassen. Fahren Sie nicht weiter.</li>
+</ul>
+<h2>Die blinkende Motorkontrollleuchte</h2>
+<p>Leuchtet die gelbe Motorkontrollleuchte dauerhaft, hat die Motorsteuerung einen Fehler erkannt, zum Beispiel bei der Abgasreinigung. Sie können meist noch kurz weiterfahren, sollten aber bald in die Werkstatt. Blinkt sie dagegen, ist das ernster: Dann kann der Katalysator Schaden nehmen. Gas wegnehmen, anhalten, Fachleute fragen.</p>
+<h2>Was Sie beim Anhalten beachten</h2>
+<ol>
+<li>Blinker setzen, Warnblinker einschalten, zum nächsten sicheren Halteplatz rollen.</li>
+<li>Motor abstellen, nicht noch mal starten, um zu testen, ob die Leuchte weg ist.</li>
+<li>Warnweste anziehen, Warndreieck aufstellen, wenn es sicher geht. Auf der Autobahn zusätzlich hinter die Leitplanke, siehe <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</li>
+<li>Wenn Sie unsicher sind, ob Sie weiterfahren können: nicht weiterfahren. Ein Transport in die Werkstatt ist billiger als ein Motorschaden.</li>
+</ol>
+<h2>Wenn die Leuchte wieder ausgeht</h2>
+<p>Manche Leuchten flackern nur kurz oder gehen nach einem Neustart aus. Das heißt nicht, dass der Fehler weg ist. Die Steuergeräte speichern meist einen Fehlereintrag, den die Werkstatt auslesen kann. Bei roten Leuchten sollten Sie das Fahrzeug trotzdem prüfen lassen, bevor Sie eine längere Strecke fahren.</p>
+<h2>Wann abgeschleppt werden sollte</h2>
+<ul class="ticks">
+<li>Öldruck- oder Bremsleuchte brennt und lässt sich nicht erklären</li>
+<li>Der Motor läuft unrund, klopft, qualmt oder riecht verbrannt</li>
+<li>Das Fahrzeug verliert Leistung oder lässt sich nicht mehr richtig lenken oder bremsen</li>
+<li>Die Batterieleuchte brennt, und es ist noch eine weite Strecke bis zur Werkstatt</li>
+</ul>
+<p>Für Elektro- und Hybridfahrzeuge kommen eigene Meldungen zur Hochvoltbatterie hinzu. Bei einer solchen Warnung ist ein Transport auf der Ladefläche die sichere Wahl, siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Ich fahre mit gelber Motorkontrollleuchte weiter. Ist das riskant?</summary><div>Kurzfristig meist nicht. Lassen Sie den Fehler aber bald auslesen, damit aus einem kleinen Defekt kein großer wird.</div></details>
+<details><summary>Kann ich die Ölstandsleuchte ignorieren, wenn der Ölstand normal aussieht?</summary><div>Nein. Ein niedriger Öldruck kann auch bei ausreichendem Ölstand auftreten, etwa durch eine defekte Pumpe. Halten Sie an.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-motor-ueberhitzt | Motor überhitzt: Sofortmaßnahmen und Ursachen | Motor überhitzt oder Kühlmittelwarnung: was Sie beim Anhalten tun, warum Sie den Kühlerdeckel nicht öffnen sollten und wann ein Abschleppdienst nötig ist. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Motor überhitzt: Was tun?</h1><p class="lead">Die Temperaturanzeige steigt, Dampf kommt unter der Haube hervor, oder es leuchtet ein rotes Thermometer. Dann zählt jede Minute, aber Hast hilft nicht.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Sofort während der Fahrt</h2>
+<ol>
+<li>Klimaanlage ausschalten. Sie belastet den Motor zusätzlich.</li>
+<li>Heizung auf die höchste Stufe stellen. Das ist unangenehm, leitet aber Wärme aus dem Kühlkreislauf ab.</li>
+<li>Gas wegnehmen, nicht mehr hochdrehen und einen sicheren Halteplatz suchen.</li>
+<li>Sobald die Anzeige im roten Bereich ist oder eine Meldung erscheint, Fahrzeug abstellen.</li>
+</ol>
+<h2>Nach dem Anhalten</h2>
+<ul class="ticks">
+<li>Warnblinker einschalten, Motor abstellen, Warnweste anziehen.</li>
+<li>Motorhaube öffnen, damit die Wärme entweichen kann. Halten Sie Abstand zu Dampf.</li>
+<li><strong>Kühlerdeckel nicht öffnen.</strong> Das Kühlsystem steht unter Druck, und heißes Kühlmittel kann herausspritzen. Warten Sie etwa eine Viertelstunde, bis alles abgekühlt ist.</li>
+<li>Danach Kühlmittel- und Ölstand prüfen und nach Lecks schauen.</li>
+</ul>
+<h2>Woran Sie eine Überhitzung erkennen</h2>
+<ul class="ticks">
+<li>Die Kühlmitteltemperatur steigt stark an, oder die Warnleuchte geht an</li>
+<li>Der Lüfter läuft dauerhaft</li>
+<li>Dampf oder Rauch unter der Haube</li>
+<li>Süßlicher Geruch von Kühlmittel</li>
+<li>Der Motor verliert Leistung</li>
+</ul>
+<h2>Häufige Ursachen</h2>
+<p>Am häufigsten sind ein defektes Thermostat, das den Kühlkreislauf nicht öffnet, eine ausgefallene Wasserpumpe, ein verstopfter Kühler oder ein defekter Kühlerlüfter. Auch zu wenig Kühlmittel durch ein Leck kann der Grund sein.</p>
+<h2>Kühlmittel nachfüllen: ja oder nein?</h2>
+<p>Wenn Sie Kühlmittel dabeihaben und der Motor abgekühlt ist, können Sie nachfüllen. Fahren Sie danach aber nur bis zur nächsten Werkstatt und beobachten Sie die Anzeige. Nachfüllen behebt die Ursache nicht. Wenn das Kühlmittel sofort wieder verschwindet, besteht ein Leck.</p>
+<h2>Weiterfahren oder abschleppen lassen?</h2>
+<p>Ein überhitzter Motor kann teuren Schaden nehmen, etwa an der Zylinderkopfdichtung. Deshalb gilt: Wenn die Temperatur nach dem Abkühlen und Nachfüllen wieder steigt, fahren Sie nicht weiter. Rufen Sie einen Abschleppdienst. Das Fahrzeug wird auf einem Plateauwagen zur Werkstatt gebracht.</p>
+<p>Auf der Autobahn gilt zusätzlich: hinter die Leitplanke, Warnweste an, dann telefonieren, siehe <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>. Was die einzelnen Symbole bedeuten, steht im Ratgeber <a href="ratgeber-warnleuchten-auto.html">Warnleuchten im Auto</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich Wasser statt Kühlmittel nachfüllen?</summary><div>Im Notfall ja, um bis zur Werkstatt zu kommen. Kühlmittel enthält aber Frostschutz und Korrosionsschutz. Lassen Sie es danach fachgerecht auffüllen.</div></details>
+<details><summary>Wie lange muss der Motor abkühlen?</summary><div>Etwa eine Viertelstunde, bevor Sie an den Kühlerdeckel gehen. Bei Zweifeln länger.</div></details>
+<details><summary>Ist Überhitzung im Stau gefährlich?</summary><div>Sie kann auftreten, wenn der Kühler nicht mehr genug Luft bekommt oder der Lüfter nicht läuft. Schalten Sie die Klimaanlage aus und Heizung auf volle Leistung, wenn die Temperatur steigt.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-automatik-abschleppen | Automatikauto abschleppen: Stellung N und Grenzen | Automatikfahrzeug abschleppen: warum Stellung N nötig ist, was die Notentriegelung der Parksperre macht und warum Verladen oft die bessere Lösung ist. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Automatikauto abschleppen: Was Sie beachten müssen</h1><p class="lead">Ein Automatikgetriebe verträgt es schlecht, wenn die Räder sich drehen und der Motor steht. Deshalb ist das Abschleppen mit Seil eine Notlösung, und oft nicht einmal das.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Warum Automatik anders ist</h2>
+<p>Bei einem Schaltgetriebe lässt sich der Motor durch Auskuppeln vom Antrieb trennen. Beim Automatikgetriebe hängt viel vom Getriebeöl ab, das nur bei laufendem Motor richtig umgewälzt wird. Werden die Räder bei stehendem Motor gedreht, kann das Getriebe Schaden nehmen. Deshalb sagen viele Hersteller: nur mit Wählhebel in Stellung N, nur kurze Strecken, nur langsam.</p>
+<h2>Die Faustregeln</h2>
+<ul class="ticks">
+<li><strong>Stellung N:</strong> Nur so lässt sich ein Automatikfahrzeug über eine kurze Strecke abschleppen, weil die Verbindung zwischen Motor und Antriebsrädern unterbrochen ist.</li>
+<li><strong>Kurze Strecke, geringes Tempo:</strong> Viele Hersteller erlauben nur wenige Kilometer bis zur nächsten Werkstatt und höchstens etwa 50 km/h. Längere Strecken oder höheres Tempo führen fast immer zu Getriebeschäden.</li>
+<li><strong>Betriebsanleitung lesen:</strong> Dort steht, ob und wie Ihr Modell abgeschleppt werden darf.</li>
+</ul>
+<h2>Wenn der Wählhebel klemmt</h2>
+<p>Ohne Strom, etwa bei leerer Batterie, lässt sich der Wählhebel oft nicht aus der Stellung P bewegen. Viele Fahrzeuge haben dafür eine mechanische Notentriegelung der Wählhebelsperre. Wo sie sitzt, ist je nach Modell verschieden, meist unter einer kleinen Abdeckung am Wählhebel oder in der Mittelkonsole. Die Betriebsanleitung beschreibt sie. Bei Fahrzeugen mit elektronischem Wählhebel oder Drehschalter gibt es andere Notlösungen.</p>
+<div class="note"><p>Wenn Sie nicht sicher sind, wie das bei Ihrem Fahrzeug geht: nicht mit Gewalt am Hebel ziehen. Das kann die Mechanik beschädigen.</p></div>
+<h2>Warum Verladen oft die bessere Wahl ist</h2>
+<p>Auf einem Plateaufahrzeug drehen sich die Räder nicht. Das Getriebe bleibt unbelastet, und Sie müssen weder auf Stellung N noch auf eine Höchststrecke achten. Klemmt die Wählhebelsperre, sagen Sie es uns bitte am Telefon. Dann klären wir, wie das Fahrzeug verladen werden kann. Nennen Sie uns außerdem, dass es ein Automatikfahrzeug ist und in welcher Stellung der Hebel steht.</p>
+<h2>Was Sie uns sagen sollten</h2>
+<ul class="ticks">
+<li>Marke, Modell und Baujahr</li>
+<li>In welcher Stellung der Wählhebel steht (P, N, D)</li>
+<li>Ob der Motor läuft oder die Batterie leer ist</li>
+<li>Ob es ein Hybrid oder Elektroauto ist, siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a></li>
+</ul>
+<p>Allgemeine Regeln zum Abschleppen mit Seil finden Sie unter <a href="ratgeber-abschleppseil-oder-abschleppdienst.html">Abschleppseil oder Abschleppdienst?</a></p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich ein Automatikauto überhaupt mit Seil abschleppen?</summary><div>Manchmal, mit Wählhebel in N, wenige Kilometer und langsam. Erlaubt ist es nach den Angaben des Herstellers. Sicherer ist der Transport auf einem Plateauwagen.</div></details>
+<details><summary>Warum lässt sich der Wählhebel nicht bewegen?</summary><div>Häufig fehlt Strom, etwa bei leerer Batterie. Viele Fahrzeuge haben eine Notentriegelung, siehe Betriebsanleitung.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-nach-unfall-fahrbereit | Nach dem Unfall: Fahrbereit oder abschleppen lassen? | Wann Sie ein Auto nach einem Unfall nicht mehr fahren sollten: Kriterien für Fahrbereitschaft und Verkehrssicherheit und wie Sie entscheiden. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Nach dem Unfall: Fahrbereit oder abschleppen lassen?</h1><p class="lead">Das Auto springt noch an und rollt. Heißt das, dass Sie damit weiterfahren dürfen? Nicht unbedingt.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p>Dieser Text gibt eine Orientierung und ersetzt keine Begutachtung. Im Zweifel entscheidet ein Sachverständiger oder eine Werkstatt.</p></div>
+<h2>Fahrbereit ist nicht verkehrssicher</h2>
+<p>Ein Fahrzeug kann noch fahren und trotzdem gefährlich sein. Gutachter unterscheiden deshalb: verkehrssicher (uneingeschränkt nutzbar), bedingt verkehrssicher (Fahrt bis zur Werkstatt möglich) und nicht verkehrssicher (nicht mehr im Straßenverkehr bewegen). Wer ein nicht verkehrssicheres Fahrzeug fährt, riskiert Ärger mit der Versicherung und kann bei einem Folgeunfall haften.</p>
+<h2>Woran Sie erkennen, dass Abschleppen nötig ist</h2>
+<ul class="ticks">
+<li><strong>Flüssigkeit tritt aus:</strong> Öl, Kühlmittel, Kraftstoff oder Bremsflüssigkeit unter dem Fahrzeug.</li>
+<li><strong>Lenkung oder Bremse fühlen sich anders an,</strong> das Fahrzeug zieht zur Seite oder das Pedal gibt nach.</li>
+<li><strong>Ein Rad ist verformt, schleift oder der Reifen ist beschädigt.</strong></li>
+<li><strong>Warnleuchten sind an</strong>, die vorher nicht brannten (siehe <a href="ratgeber-warnleuchten-auto.html">Warnleuchten im Auto</a>).</li>
+<li><strong>Beleuchtung funktioniert nicht:</strong> Front-, Brems- oder Blinkleuchten sind ausgefallen.</li>
+<li><strong>Scharfe Kanten oder lose Teile</strong> ragen von der Karosserie ab oder schleifen.</li>
+<li><strong>Türen oder Motorhaube schließen nicht sicher.</strong></li>
+<li><strong>Bei Elektro- oder Hybridfahrzeugen:</strong> Warnung zur Hochvoltbatterie, Rauch oder Geruch, siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</li>
+</ul>
+<h2>Wenn es nur ein Kratzer ist</h2>
+<p>Bei kleinen Schäden ohne Flüssigkeitsaustritt und ohne Funktionsverlust können Sie in der Regel zur Werkstatt fahren. Prüfen Sie vorher Licht, Reifen und Bremsen. Wenn Sie unsicher sind, ist ein Transport die sichere Wahl.</p>
+<h2>Was das für die Kosten bedeutet</h2>
+<p>Ist das Fahrzeug nicht verkehrssicher, können die Abschleppkosten nach einem unverschuldeten Unfall erstattungsfähig sein, siehe <a href="ratgeber-unfall-abschleppkosten.html">Abschleppkosten nach einem Unfall</a>. Wer ein fahrbereites, verkehrssicheres Fahrzeug abschleppen lässt, muss damit rechnen, dass die Versicherung die Notwendigkeit prüft.</p>
+<h2>Am Unfallort</h2>
+<ol>
+<li>Sichern: Warnblinker, Warnweste, Warndreieck.</li>
+<li>Verletzte versorgen, 112 rufen.</li>
+<li>Fotos machen, bevor Sie das Fahrzeug bewegen.</li>
+<li>Prüfen: Flüssigkeiten, Räder, Licht.</li>
+<li>Im Zweifel abschleppen lassen und die Werkstatt oder den Sachverständigen benennen.</li>
+</ol>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Darf ich mit einem beschädigten Auto zur Werkstatt fahren?</summary><div>Wenn es verkehrssicher ist, ja. Sind Bremse, Lenkung, Reifen oder Licht betroffen, sollten Sie es transportieren lassen.</div></details>
+<details><summary>Wer entscheidet, ob mein Auto verkehrssicher ist?</summary><div>Im Streitfall ein Sachverständiger. Für die erste Entscheidung vor Ort helfen die Kriterien oben und der Rat der Werkstatt.</div></details>
+</div></section>
+@@CTA@@

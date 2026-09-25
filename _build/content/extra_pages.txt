@@ -1,0 +1,423 @@
+=== abschleppdienst-karlsruhe | Abschleppdienst Karlsruhe 24h – Pannenhilfe &amp; Festpreis | Abschleppdienst und Pannenhilfe in Karlsruhe: Durlach, Mühlburg, Knielingen, Ettlingen und Südtangente. 24h erreichbar, Festpreis ab 129 € am Telefon. Jetzt anrufen. | page ===
+<!--AREAS: Karlsruhe, Durlach, Ettlingen, Rheinstetten -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Karlsruhe</p><h1>Abschleppdienst Karlsruhe: Pannenhilfe rund um die Uhr</h1><p class="lead">Liegengeblieben in Karlsruhe, auf der Südtangente oder am Autobahndreieck? Sie rufen an, wir nennen Ihnen einen Festpreis und organisieren einen Abschleppwagen aus der Region.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Wo wir in Karlsruhe helfen</h2>
+<p>Innenstadt, Durlach, Mühlburg, Knielingen, Neureut, Rüppurr, Ettlingen und Rheinstetten: Sagen Sie uns die Straße, den Parkplatz oder die nächste Kreuzung, und schicken Sie am besten Ihren Standort per WhatsApp. Das ist schneller und genauer als jede Beschreibung am Telefon.</p>
+<h2>Die Strecken rund um Karlsruhe</h2>
+<p>Karlsruhe liegt an einem der verkehrsreichsten Autobahnabschnitte Deutschlands. Auf der A5 folgen hier mehrere Anschlussstellen dicht aufeinander. Wenn Sie uns die Nummer der letzten Ausfahrt nennen, wissen wir sofort, wo Sie ungefähr stehen:</p>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>A5, Ausfahrt</th><th>Name</th><th>Anschluss</th></tr></thead><tbody>
+<tr><td>43</td><td>Karlsruhe-Nord</td><td>B10</td></tr>
+<tr><td>44</td><td>Karlsruhe-Durlach</td><td>B10</td></tr>
+<tr><td>45</td><td>Karlsruhe-Mitte</td><td>Südtangente</td></tr>
+<tr><td>46</td><td>Dreieck Karlsruhe</td><td>A8 Richtung Stuttgart</td></tr>
+<tr><td>47</td><td>Ettlingen</td><td>B3</td></tr>
+<tr><td>48</td><td>Karlsruhe-Süd</td><td>B3</td></tr>
+</tbody></table></div>
+<p>Die <strong>Südtangente</strong> ist eine autobahnähnlich ausgebaute Verbindung: Sie beginnt an der Anschlussstelle Karlsruhe-Mitte und führt über die Rheinbrücke Maxau nach Wörth am Rhein in die Pfalz. Wer hier liegen bleibt, steht oft ohne Standstreifen im fließenden Verkehr. Warnblinker, Warnweste, und wenn es sicher geht, hinter die Leitplanke. Dann rufen Sie uns an.</p>
+<div class="note"><p><strong>Auf der Autobahn und auf der Südtangente:</strong> Bleiben Sie nicht im Fahrzeug sitzen und versuchen Sie nichts selbst zu reparieren. Ihre Sicherheit geht vor dem Fahrzeug.</p></div>
+<h2>Typische Situationen in Karlsruhe</h2>
+<ul class="ticks">
+<li><strong>Batterie leer nach der Nacht:</strong> Besonders im Winter. Wir versuchen zuerst Starthilfe, bevor wir abschleppen. Mehr dazu im Ratgeber <a href="ratgeber-starthilfe-batterie.html">Starthilfe und leere Batterie</a>.</li>
+<li><strong>Reifenschaden auf der B10 oder B3:</strong> Viele neue Autos haben nur ein Pannenset statt eines Ersatzrads. Wenn das nicht reicht, bringen wir das Fahrzeug zum Reifenservice.</li>
+<li><strong>Unfall in der Stadt:</strong> Das Fahrzeug wird verladen und in die Werkstatt Ihrer Wahl gebracht. Wer die Kosten trägt, erklärt der Ratgeber <a href="ratgeber-unfall-abschleppkosten.html">Abschleppkosten nach einem Unfall</a>.</li>
+<li><strong>Liegengeblieben im Parkhaus oder in der Tiefgarage:</strong> Nennen Sie uns die Durchfahrtshöhe. Nicht jeder Abschleppwagen passt überall hinein, und wir schicken das passende Fahrzeug.</li>
+<li><strong>E-Auto ohne Strom:</strong> Elektroautos werden nicht einfach abgeschleppt, sondern auf einem Plateaufahrzeug transportiert. Siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</li>
+<li><strong>Fahrzeug blockiert Schienen oder eine Ausfahrt:</strong> Sagen Sie das bitte gleich am Telefon. Dann planen wir die Hilfe entsprechend.</li>
+</ul>
+<h2>Was kostet das in Karlsruhe?</h2>
+<p>Ein Preisvergleichsportal (kostenfinder.com, 2026) nennt für Karlsruhe im Schnitt rund 219 €, mit einer Spanne von etwa 102 € bis 383 €. Unser Festpreis im Stadtgebiet beginnt bei <strong>129 €</strong>. Den genauen Preis für Ihre Strecke und Ihr Fahrzeug nennen wir Ihnen vorab. Mehr im <a href="ratgeber-abschleppdienst-kosten.html">Kosten-Ratgeber</a>.</p>
+<h2>Sie sind ADAC-Mitglied?</h2>
+<p>Dann rufen Sie zuerst Ihren Automobilclub oder Ihre Versicherung an. Dauert es dort zu lange, oder haben Sie keinen Schutzbrief, sind wir für Sie da.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Karlsruhe</h2>
+<details><summary>Schleppen Sie auch von der Südtangente oder der B10 ab?</summary><div>Ja, sagen Sie uns die letzte Ausfahrt oder den nächsten Abzweig. Wo eine Behörde oder die Polizei den Einsatz steuert, kann die Auswahl des Unternehmens vorgegeben sein.</div></details>
+<details><summary>Kann mein Auto in die Werkstatt meiner Wahl?</summary><div>Ja. Nach einem Unfall, den Sie nicht verschuldet haben, sollte es in der Regel die nächstgelegene geeignete Werkstatt sein, dazu mehr im Unfall-Ratgeber.</div></details>
+<details><summary>Fahren Sie auch nach Ettlingen, Rheinstetten oder Durlach?</summary><div>Ja. Diese Orte gehören zu unserem Einsatzgebiet rund um Karlsruhe.</div></details>
+<details><summary>Kann ich meinen Standort einfach schicken?</summary><div>Ja, per WhatsApp. Auf dem Handy können Sie dort Ihren aktuellen Standort teilen. Das hilft uns, Sie schnell zu finden.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><h2>Weitere Regionen</h2><div class="related"><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt<small>A5 Ausfahrt 49 bis 52</small></a><a href="abschleppdienst-a5.html">Panne auf der A5<small>Ausfahrten 43 bis 56</small></a><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden<small>Karlsruhe bis Offenburg</small></a></div></div></section>
+@@CTA@@
+=== abschleppdienst-baden-baden | Abschleppdienst Baden-Baden, Rastatt &amp; Bühl 24h | Abschleppdienst und Pannenhilfe in Baden-Baden, Rastatt, Bühl, Sinzheim und Gernsbach. B500, Michaelstunnel und A5: 24h erreichbar, Festpreis ab 129 €. | page ===
+<!--AREAS: Baden-Baden, Rastatt, Bühl, Sinzheim, Gaggenau, Gernsbach -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Baden-Baden · Rastatt · Bühl</p><h1>Abschleppdienst Baden-Baden: Panne zwischen Rastatt und Bühl</h1><p class="lead">Ob in der Kurstadt, an der B500 oder auf der A5: Wir organisieren Pannenhilfe und Abschleppen in Baden-Baden, Rastatt, Sinzheim, Bühl, Gaggenau und Gernsbach.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Die A5 zwischen Rastatt und Bühl</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>A5, Ausfahrt</th><th>Name</th><th>Anschluss</th></tr></thead><tbody>
+<tr><td>49</td><td>Rastatt-Nord</td><td>B462</td></tr>
+<tr><td>50</td><td>Rastatt-Süd</td><td>B3</td></tr>
+<tr><td>51</td><td>Baden-Baden</td><td>B500</td></tr>
+<tr><td>52</td><td>Bühl</td><td></td></tr>
+</tbody></table></div>
+<p>An der Ausfahrt Baden-Baden liegt eine Raststätte mit eigener Anschlussstelle, in Bühl ebenfalls eine Raststätte. Zwischen den Ausfahrten Baden-Baden und Bühl liegt außerdem der Parkplatz Oberfeld. Solche Namen helfen uns, Sie zu finden, wenn Sie kein Straßenschild sehen.</p>
+<p>Von Rastatt aus führt die B462 ins Murgtal Richtung Gaggenau und Gernsbach. Auch dort helfen wir, wenn Sie liegen bleiben.</p>
+<h2>Besonderheiten in und um Baden-Baden</h2>
+<h3>Der Michaelstunnel auf der B500</h3>
+<p>Die B500 führt als westliche Umgehung an der Innenstadt vorbei. Der Michaelstunnel ist rund 2,5 Kilometer lang, hat nur eine Röhre und Gegenverkehr. Wer dort liegen bleibt, sollte Warnblinker einschalten, den Motor abstellen, das Fahrzeug verlassen und zur nächsten Notrufeinrichtung gehen, sofern das gefahrlos möglich ist. Bei Verletzten wählen Sie die 112. Rufen Sie uns an, sobald Sie sicher stehen. Wir organisieren den Rest.</p>
+<h3>Die Schwarzwaldhochstraße</h3>
+<p>Die B500 setzt sich als Schwarzwaldhochstraße über mehr als 60 Kilometer bis nach Freudenstadt fort und steigt auf über 1.100 Meter. Steile Abschnitte belasten Bremsen und Kühlung. Bei Schnee und Eis kommen im Winter Fahrzeuge ins Rutschen oder bleiben hängen. Wer bergauf oder bergab liegen bleibt: Warnblinker, Warnweste, Warndreieck und Abstand zur Fahrbahn. Für den Abtransport von Bergstrecken nennen Sie uns bitte die genaue Stelle, zum Beispiel einen Parkplatz oder Aussichtspunkt.</p>
+<h3>Enge Gassen und Hanglagen</h3>
+<p>In den Wohnlagen von Baden-Baden gibt es enge Straßen, Steigungen und Kurven. Beschreiben Sie uns kurz, wie das Fahrzeug steht und ob es blockiert. Dann schicken wir ein Fahrzeug, das dort auch zurechtkommt.</p>
+<h2>Abschleppen nach Bühl, Rastatt und Sinzheim</h2>
+<p>Zwischen den Städten sind es kurze Wege, und Ihre Stammwerkstatt ist oft nicht weit. Wir bringen Ihr Fahrzeug dorthin, zum Händler oder nach Hause. Bei Unfällen gilt: Wählen Sie den Ort mit Bedacht. Die Haftpflichtversicherung des Unfallgegners erstattet in der Regel den Weg bis zur nächsten geeigneten Werkstatt. Lesen Sie dazu den <a href="ratgeber-unfall-abschleppkosten.html">Ratgeber zu Abschleppkosten nach einem Unfall</a>.</p>
+<h2>Motorrad in den Bergen</h2>
+<p>Die Bergstrecken sind bei Motorradfahrern beliebt. Bei Panne oder Sturz transportieren wir Motorräder auf einem geeigneten Fahrzeug. Sagen Sie uns Modell und ob das Motorrad noch rollt.</p>
+<h2>Was es kostet</h2>
+<p>Unser Festpreis im Stadtgebiet beginnt bei <strong>129 €</strong>. Weitere Strecken, etwa von der Schwarzwaldhochstraße, kosten mehr. Den Preis nennen wir Ihnen vor der Abfahrt. Hintergründe im <a href="ratgeber-abschleppdienst-kosten.html">Kosten-Ratgeber</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Baden-Baden</h2>
+<details><summary>Kommen Sie auch bis auf die Schwarzwaldhochstraße?</summary><div>Ja, das ist möglich. Wegen der Entfernung und der Bergstrecke nennen wir den Preis dafür individuell am Telefon.</div></details>
+<details><summary>Was mache ich bei einer Panne im Michaelstunnel?</summary><div>Warnblinker an, Motor aus, aussteigen und zur nächsten Notrufeinrichtung gehen, sofern das gefahrlos möglich ist. Bei Verletzten 112 wählen. Danach rufen Sie uns an.</div></details>
+<details><summary>Helfen Sie auch in Rastatt und Bühl?</summary><div>Ja. Rastatt, Sinzheim, Bühl, Gaggenau und Gernsbach gehören zu unserem Einsatzgebiet.</div></details>
+<details><summary>Kann ich einen Mietwagen bekommen?</summary><div>Das bieten wir nicht selbst an. Fragen Sie bei Bedarf Ihre Versicherung oder Ihren Automobilclub, ob ein Ersatzfahrzeug enthalten ist.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><h2>Weitere Regionen</h2><div class="related"><a href="abschleppdienst-karlsruhe.html">Karlsruhe<small>Südtangente, A5 43 bis 48</small></a><a href="abschleppdienst-achern.html">Achern &amp; Bühl<small>A5 Ausfahrt 53</small></a><a href="abschleppdienst-a5.html">Panne auf der A5<small>Ausfahrten 43 bis 56</small></a></div></div></section>
+@@CTA@@
+=== abschleppdienst-achern | Abschleppdienst Achern 24h – Achertal, Renchtal &amp; A5 | Abschleppdienst und Pannenhilfe in Achern, Sasbach, Ottersweier, Kappelrodeck und Renchen. A5-Ausfahrt 53, B3 und Achertal. 24h, Festpreis ab 129 €. | page ===
+<!--AREAS: Achern, Sasbach, Ottersweier, Kappelrodeck, Renchen, Oberkirch -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Achern · Renchtal · Achertal</p><h1>Abschleppdienst Achern: Pannenhilfe an der A5 und im Achertal</h1><p class="lead">Achern liegt zwischen Bühl und Offenburg direkt an der A5 und an der B3. Wenn Ihr Fahrzeug hier stehen bleibt, rufen Sie an oder schicken Sie Ihren Standort. Wir nennen den Preis vorab.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>So finden wir Sie zwischen Bühl und Offenburg</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Stelle an der A5</th><th>Was dort liegt</th></tr></thead><tbody>
+<tr><td>Ausfahrt 52</td><td>Bühl</td></tr>
+<tr><td>Zwischen 52 und 53</td><td>Parkplätze Brachfeld und Feldmatt</td></tr>
+<tr><td>Ausfahrt 53</td><td>Achern (mit Autohof)</td></tr>
+<tr><td>Zwischen 53 und 54</td><td>Raststätte Renchtal, Rench-Flutkanalbrücke</td></tr>
+<tr><td>Ausfahrt 54</td><td>Appenweier (B28 nach Kehl und Straßburg)</td></tr>
+</tbody></table></div>
+<p>Nennen Sie uns die Fahrtrichtung und die zuletzt passierte Ausfahrt oder den Namen eines Parkplatzes. Damit lässt sich Ihre Position schon gut eingrenzen. Auf der Autobahn erkennen Sie den genauen Ort auch an den Kilometerangaben und an den Pfeilen auf den Leitpfosten, die zur nächsten Notrufsäule zeigen.</p>
+<h2>Achern und die Orte rundherum</h2>
+<p>Wir helfen in Achern und in Sasbach, Ottersweier, Kappelrodeck und Renchen. Durch Achern verläuft die B3. Vom Stadtgebiet führt das Achertal Richtung Kappelrodeck und Ottenhöfen im Schwarzwald, und von dort geht es weiter Richtung Schwarzwaldhochstraße. Wer im Tal oder am Berg liegen bleibt, beschreibt uns am besten einen Parkplatz, ein Gasthaus oder einen Ortseingang als Treffpunkt.</p>
+<h2>Warum eine Panne im Achertal anders ist</h2>
+<ul class="ticks">
+<li><strong>Gefälle und Kurven:</strong> Fahrzeuge, die im Tal ausrollen, stehen oft an unübersichtlichen Stellen. Warnblinker und Warndreieck sind hier wichtiger als auf gerader Strecke.</li>
+<li><strong>Handyempfang:</strong> In Tälern kann er schwanken. Schicken Sie Ihren Standort, sobald Sie Empfang haben, per WhatsApp.</li>
+<li><strong>Winter:</strong> In den höheren Lagen kann Glätte früher auftreten als im Rheintal. Ein Fahrzeug ohne Winterreifen wird dort schneller zum Problem.</li>
+</ul>
+<h2>Reifenwechsel oder Starthilfe statt Abschleppen</h2>
+<p>Nicht jede Panne endet auf der Ladefläche. Oft reichen Starthilfe, ein Kanister Kraftstoff oder ein Reifenwechsel. Wir sagen Ihnen ehrlich, was reicht, bevor der Preis feststeht. Ratgeber dazu: <a href="ratgeber-starthilfe-batterie.html">Starthilfe</a> und <a href="ratgeber-reifenpanne.html">Reifenpanne</a>.</p>
+<h2>Wenn Sie auf der Reise sind</h2>
+<p>Wer auf der A5 bei Achern liegen bleibt, ist oft auf dem Weg nach Süden oder zurück. Sprechen Sie uns auf Deutsch, Niederländisch, Französisch oder Englisch an. Wir organisieren, dass Ihr Fahrzeug in eine Werkstatt kommt, und nennen Ihnen den Preis, bevor etwas passiert. Ob Übernachtung, Mietwagen oder Bahnfahrt in Ihrem Schutzbrief oder Ihrer Versicherung enthalten sind, klären Sie am besten direkt mit Ihrer Versicherung oder Ihrem Automobilclub.</p>
+<h2>Preis</h2>
+<p>Festpreis im Stadtgebiet ab <strong>129 €</strong>, jeder weitere Weg wird Ihnen vorab genannt. Mehr dazu im <a href="ratgeber-abschleppdienst-kosten.html">Kosten-Ratgeber</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Achern</h2>
+<details><summary>Helfen Sie auch im Achertal und in Kappelrodeck?</summary><div>Ja. Achern, Sasbach, Ottersweier, Kappelrodeck und Renchen gehören zu unserem Einsatzgebiet.</div></details>
+<details><summary>Ich stehe an der Raststätte Renchtal. Können Sie mich abholen?</summary><div>Ja. Nennen Sie uns die Fahrtrichtung und ob Sie auf dem Rastplatz oder auf dem Standstreifen stehen.</div></details>
+<details><summary>Was kostet das Abschleppen von Achern nach Offenburg?</summary><div>Das hängt von Fahrzeug, Uhrzeit und Ziel ab. Wir nennen Ihnen den Preis am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Gibt es einen Notdienst nachts?</summary><div>Wir sind rund um die Uhr erreichbar, auch nachts, am Wochenende und an Feiertagen.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><h2>Weitere Regionen</h2><div class="related"><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt<small>Bühl, B500</small></a><a href="abschleppdienst-offenburg.html">Offenburg &amp; Kehl<small>Ausfahrt 54 und 55</small></a><a href="abschleppdienst-a5.html">Panne auf der A5<small>Alle Ausfahrten</small></a></div></div></section>
+@@CTA@@
+=== abschleppdienst-offenburg | Abschleppdienst Offenburg, Kehl &amp; Ortenau 24h | Abschleppdienst und Pannenhilfe in Offenburg, Kehl, Appenweier, Lahr und der Ortenau. A5, B28 und Kinzigtal: 24h erreichbar, Festpreis ab 129 €. | page ===
+<!--AREAS: Offenburg, Kehl, Appenweier, Oberkirch, Gengenbach, Lahr -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Offenburg · Kehl · Ortenau</p><h1>Abschleppdienst Offenburg: Pannenhilfe in der Ortenau</h1><p class="lead">Offenburg ist die größte Stadt zwischen Karlsruhe und Freiburg und liegt am Eingang zum Kinzigtal. Wir organisieren Abschleppdienst und Pannenhilfe in Offenburg, Kehl, Appenweier, Oberkirch, Gengenbach und Lahr.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ausfahrten rund um Offenburg</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>A5, Ausfahrt</th><th>Name</th><th>Wohin</th></tr></thead><tbody>
+<tr><td>54</td><td>Appenweier</td><td>B28 nach Kehl und Straßburg</td></tr>
+<tr><td>55</td><td>Offenburg</td><td>Stadt, Kinzigtal, Schwarzwald</td></tr>
+<tr><td>56</td><td>Lahr/Schwarzwald</td><td>B415, Flughafen Lahr</td></tr>
+<tr><td>57b</td><td>Rust</td><td>Europa-Park</td></tr>
+</tbody></table></div>
+<p>Zwischen Appenweier und Offenburg liegt der Parkplatz Gottswald/Waldmatten, die Kinzig wird auf einer Brücke überquert. Bei Offenburg endet der sechsstreifige Ausbau der A5, danach ist die Autobahn Richtung Süden nur noch vierstreifig. Wo sich die Fahrbahn verengt, staut es sich häufiger. Wer im Stau liegen bleibt, sollte Warnblinker einschalten und die Rettungsgasse freihalten.</p>
+<h2>Kehl und Straßburg</h2>
+<p>In Appenweier zweigt die B28 zur Rheingrenze bei Kehl ab. Viele Fahrzeuge kommen aus Frankreich, andere fahren dorthin. Wir sprechen Deutsch, Französisch, Niederländisch und Englisch. Wenn Ihr Fahrzeug nach einer Panne über die Grenze soll, oder wenn Sie in Frankreich zugelassen sind und in der Ortenau liegen bleiben, fragen Sie uns nach Möglichkeiten und Preis. Grenzüberschreitende Transporte besprechen wir immer vorab am Telefon.</p>
+<h2>Kinzigtal und Schwarzwald</h2>
+<p>Offenburg ist der Ausgangspunkt ins Kinzigtal Richtung Gengenbach und weiter in den Schwarzwald. Auf Bergstrecken zählen Bremsen und Kühlung. Wenn Ihr Fahrzeug dort streikt, schicken Sie uns Ihren Standort per WhatsApp. Am besten mit einem Foto vom Fahrzeug und dem Umfeld.</p>
+<h2>Was wir in Offenburg für Sie tun</h2>
+<ul class="ticks">
+<li>Abschleppen von Pkw, Transportern, Motorrädern und Elektroautos</li>
+<li>Starthilfe, Reifenwechsel und Fahrzeugöffnung</li>
+<li>Bergung nach einem Unfall, wenn das Fahrzeug im Graben oder neben der Fahrbahn steht</li>
+<li>Transport zur Wunschwerkstatt, nach Hause oder zum Händler</li>
+</ul>
+<h2>Fahrzeugüberführung</h2>
+<p>Ein Auto ohne Zulassung, ein Unfallfahrzeug oder ein Wagen für den Händler: Auch geplante Transporte von und nach Offenburg organisieren wir. Sagen Sie uns Abholort, Ziel und den gewünschten Zeitraum, dann nennen wir den Preis.</p>
+<h2>Preis</h2>
+<p>Festpreis im Stadtgebiet ab <strong>129 €</strong>. Was Strecke, Nachtzeit und Fahrzeug ausmachen, lesen Sie im <a href="ratgeber-abschleppdienst-kosten.html">Kosten-Ratgeber</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Offenburg</h2>
+<details><summary>Helfen Sie auch in Kehl und Lahr?</summary><div>Ja. Kehl, Appenweier, Oberkirch, Gengenbach und Lahr gehören zu unserem Einsatzgebiet.</div></details>
+<details><summary>Kann mein Fahrzeug nach Straßburg gebracht werden?</summary><div>Das besprechen wir im Einzelfall am Telefon. Sagen Sie uns Fahrzeug, Abholort und Ziel, dann nennen wir Möglichkeiten und Preis.</div></details>
+<details><summary>Wie melde ich meinen Standort auf der A5 bei Offenburg?</summary><div>Nennen Sie Fahrtrichtung und letzte Ausfahrt (54 Appenweier oder 55 Offenburg) oder schicken Sie den Standort per WhatsApp.</div></details>
+<details><summary>Sprechen Sie Französisch?</summary><div>Ja. Wir sprechen Deutsch, Französisch, Niederländisch und Englisch.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><h2>Weitere Regionen</h2><div class="related"><a href="abschleppdienst-achern.html">Achern &amp; Bühl<small>Ausfahrt 53</small></a><a href="abschleppdienst-a5.html">Panne auf der A5<small>Alle Ausfahrten</small></a><a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn<small>Was tun?</small></a></div></div></section>
+@@CTA@@
+=== abschleppdienst-a5 | Abschleppdienst A5 – Panne zwischen Karlsruhe und Offenburg | Panne auf der A5 zwischen Karlsruhe und Offenburg? Ausfahrten 43 bis 56, Rastanlagen, Verhalten und Hilfe. 24h erreichbar, Preis vorab. | page ===
+<!--AREAS: Karlsruhe, Rastatt, Baden-Baden, Bühl, Achern, Appenweier, Offenburg, Lahr -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn A5</p><h1>Abschleppdienst A5: Panne zwischen Karlsruhe und Offenburg</h1><p class="lead">Sie stehen auf der A5? Sichern Sie zuerst die Stelle, dann rufen Sie an. Nennen Sie uns Fahrtrichtung und die letzte Ausfahrt, und wir organisieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p><strong>Zuerst Sicherheit:</strong> Warnblinker an, Warnweste anziehen, über die Beifahrerseite aussteigen, hinter die Leitplanke gehen. Bei Verletzten zuerst die 112 rufen. Erst danach uns.</p></div>
+<h2>Alle Ausfahrten der A5 von Karlsruhe bis Lahr</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Ausfahrt</th><th>Name</th><th>Anschluss</th></tr></thead><tbody>
+<tr><td>43</td><td>Karlsruhe-Nord</td><td>B10</td></tr>
+<tr><td>44</td><td>Karlsruhe-Durlach</td><td>B10</td></tr>
+<tr><td>45</td><td>Karlsruhe-Mitte</td><td>Südtangente</td></tr>
+<tr><td>46</td><td>Dreieck Karlsruhe</td><td>A8</td></tr>
+<tr><td>47</td><td>Ettlingen</td><td>B3</td></tr>
+<tr><td>48</td><td>Karlsruhe-Süd</td><td>B3</td></tr>
+<tr><td>49</td><td>Rastatt-Nord</td><td>B462</td></tr>
+<tr><td>50</td><td>Rastatt-Süd</td><td>B3</td></tr>
+<tr><td>51</td><td>Baden-Baden</td><td>B500</td></tr>
+<tr><td>52</td><td>Bühl</td><td></td></tr>
+<tr><td>53</td><td>Achern</td><td>mit Autohof</td></tr>
+<tr><td>54</td><td>Appenweier</td><td>B28 Richtung Kehl und Straßburg</td></tr>
+<tr><td>55</td><td>Offenburg</td><td>Stadt und Kinzigtal</td></tr>
+<tr><td>56</td><td>Lahr/Schwarzwald</td><td>B415</td></tr>
+</tbody></table></div>
+<h2>Raststätten und Parkplätze</h2>
+<p>Zwischen Karlsruhe und Offenburg liegen die Raststätten Baden-Baden (mit Anschlussstelle), Bühl und Renchtal. Dazu kommen mehrere unbewirtschaftete Parkplätze, zum Beispiel Silbergrund/Schleifweg, Oberfeld, Brachfeld, Feldmatt und Gottswald/Waldmatten. Wenn Sie es bis auf einen Parkplatz schaffen, sind Sie dort deutlich sicherer als auf dem Standstreifen. Nennen Sie uns den Namen des Parkplatzes.</p>
+<h2>Sechs Spuren, viel Verkehr</h2>
+<p>Der Abschnitt zwischen Baden-Baden und Offenburg ist etwa 41 Kilometer lang und wurde zwischen 2009 und 2014 von vier auf sechs Fahrstreifen erweitert. Bei Offenburg endet der sechsstreifige Ausbau. Rund um Karlsruhe zählt die A5 zu den meistbefahrenen Autobahnen Deutschlands. Das heißt: Wer hier liegen bleibt, steht in dichtem, schnellem Verkehr. Das ist einer der Gründe, warum Sie den Standstreifen nicht als sicheren Ort betrachten sollten.</p>
+<h2>Was auf der Autobahn anders läuft</h2>
+<ul>
+<li><strong>Abschleppen bis zur nächsten Ausfahrt:</strong> Beim Abschleppen eines auf der Autobahn liegen gebliebenen Fahrzeugs ist die Autobahn bei der nächsten Ausfahrt zu verlassen (§ 15a Abs. 1 StVO). Von dort geht es weiter zum Ziel.</li>
+<li><strong>Polizei und Notrufsäule:</strong> Wenn die Polizei zum Einsatz kommt oder Sie über die Notrufsäule Hilfe anfordern, wird oft ein Vertragsunternehmen beauftragt. Sie dürfen Ihren Wunsch äußern, garantiert ist er nicht. Bei einer einfachen Panne ohne Polizeieinsatz können wir direkt beauftragt werden.</li>
+<li><strong>Nicht selbst reparieren:</strong> Auf dem Standstreifen ist das lebensgefährlich. Ein Reifenwechsel dort ist keine gute Idee.</li>
+</ul>
+<h2>Was wir am Telefon von Ihnen brauchen</h2>
+<ol>
+<li>Fahrtrichtung (Richtung Karlsruhe/Frankfurt oder Richtung Freiburg/Basel)</li>
+<li>Letzte passierte Ausfahrt oder Parkplatz</li>
+<li>Marke, Modell, Antrieb (Benzin, Diesel, Hybrid, Elektro)</li>
+<li>Was passiert ist und ob das Fahrzeug noch rollt</li>
+<li>Zielort: Werkstatt, Zuhause oder Händler</li>
+</ol>
+<h2>Preis auf der A5</h2>
+<p>Für Bergungen und Einsätze auf der Autobahn nennen wir den Preis vorab am Telefon. In Marktübersichten liegt das Abschleppen auf der Autobahn bei etwa 129 bis 250 €. Details im <a href="ratgeber-abschleppdienst-kosten.html">Kosten-Ratgeber</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A5</h2>
+<details><summary>Darf ich mein Auto auf der Autobahn selbst abschleppen?</summary><div>Beim Abschleppen von der Autobahn muss die nächste Ausfahrt genommen werden (§ 15a StVO). Ein Abschleppdienst ist sicherer als ein Abschleppseil, und Krafträder dürfen ohnehin nicht abgeschleppt, sondern müssen transportiert werden.</div></details>
+<details><summary>Ich habe die Notrufsäule benutzt. Kann ich trotzdem Sie beauftragen?</summary><div>Sie können Ihren Wunsch äußern. Ob er berücksichtigt wird, entscheiden die Einsatzkräfte. Bei einfachen Pannen ohne Polizei ist die Beauftragung direkt möglich.</div></details>
+<details><summary>Wie erkenne ich, wo die nächste Notrufsäule ist?</summary><div>Die Pfeile auf den Leitpfosten zeigen den Weg zur nächsten Notrufsäule.</div></details>
+<details><summary>Was, wenn ich aus dem Ausland komme?</summary><div>Sprechen Sie uns auf Deutsch, Französisch, Niederländisch oder Englisch an. Wir besprechen Preis und Ziel am Telefon.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><h2>Mehr zur Panne auf der Autobahn</h2><div class="related"><a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn<small>Die Schritte im Überblick</small></a><a href="ratgeber-abschleppdienst-kosten.html">Was kostet ein Abschleppdienst?<small>Richtwerte</small></a><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden<small>Alle Städte</small></a></div></div></section>
+@@CTA@@
+=== ratgeber | Ratgeber – Panne, Abschleppen und Kosten | Ratgeber von Faster Abschleppdienst: Panne auf der Autobahn, Abschleppkosten, Unfall, E-Auto, Starthilfe und Reifenpanne. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Ratgeber: Panne, Abschleppen und Kosten</h1><p class="lead">Kurz erklärt, was Sie bei einer Panne tun, was ein Abschleppdienst kostet und wer nach einem Unfall zahlt.</p></div></section>
+<section class="section"><div class="wrap"><div class="cards3">
+<article class="card"><h3>Panne auf der Autobahn</h3><p>Warndreieck, Warnweste, Notrufsäule: die Schritte in der richtigen Reihenfolge.</p><a href="ratgeber-panne-autobahn.html">Lesen →</a></article>
+<article class="card"><h3>Was kostet ein Abschleppdienst?</h3><p>Richtwerte, Preisfaktoren und Fragen, die Sie vorab stellen sollten.</p><a href="ratgeber-abschleppdienst-kosten.html">Lesen →</a></article>
+<article class="card"><h3>Abschleppkosten nach einem Unfall</h3><p>Wer zahlt, wer sucht den Abschleppdienst aus und wohin darf das Auto?</p><a href="ratgeber-unfall-abschleppkosten.html">Lesen →</a></article>
+<article class="card"><h3>E-Auto abschleppen</h3><p>Warum Elektroautos verladen werden müssen und was Sie dem Abschleppdienst sagen sollten.</p><a href="ratgeber-e-auto-abschleppen.html">Lesen →</a></article>
+<article class="card"><h3>Starthilfe und leere Batterie</h3><p>Warum die Batterie streikt, wie Starthilfe geht und wann es ein Fall für die Werkstatt ist.</p><a href="ratgeber-starthilfe-batterie.html">Lesen →</a></article>
+<article class="card"><h3>Reifenpanne</h3><p>Ersatzrad, Pannenset oder Abschleppen: was in welcher Lage sinnvoll ist.</p><a href="ratgeber-reifenpanne.html">Lesen →</a></article>
+<article class="card"><h3>Kölner Autobahnring</h3><p>Panne auf A1, A3 oder A4 rund um Köln: was Sie wissen sollten.</p><a href="pannenhilfe-koelner-autobahnring.html">Lesen →</a></article>
+</div></div></section>
+@@CTA@@
+=== ratgeber-abschleppdienst-kosten | Was kostet ein Abschleppdienst? Richtwerte und Tipps | Was kostet Abschleppen? Richtwerte für Stadt, Autobahn und Pannenhilfe, Preisfaktoren, Nachtzuschläge und Fragen, die Sie vorab stellen sollten. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Was kostet ein Abschleppdienst?</h1><p class="lead">Die Preise streuen stark. Hier steht, wovon sie abhängen und wie Sie sich vor Überraschungen schützen.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Richtwerte in Deutschland</h2>
+<p>Die folgenden Werte sind Marktrichtwerte aus Preisübersichten für 2026. Sie zeigen die ungefähre Größenordnung, ersetzen aber kein Angebot.</p>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Leistung</th><th>Richtwert</th></tr></thead><tbody>
+<tr><td>Abschleppen im Stadtgebiet / kurze Strecke</td><td>ca. 89 bis 150 €</td></tr>
+<tr><td>Abschleppen auf der Autobahn</td><td>ca. 129 bis 250 €</td></tr>
+<tr><td>Pannenhilfe vor Ort (z. B. Starthilfe)</td><td>ca. 59 bis 120 €</td></tr>
+</tbody></table></div>
+<p>Für einzelne Städte gibt das Portal kostenfinder.com (2026) folgende Durchschnittswerte an: Karlsruhe rund 219 € (Spanne etwa 102 bis 383 €), Freiburg rund 223 €, Stuttgart rund 240 €.</p>
+<h2>Wovon der Preis abhängt</h2>
+<ul class="ticks">
+<li><strong>Entfernung:</strong> Anfahrt und Weg zum Ziel. Ein kurzer Weg in die nächste Werkstatt ist günstiger als eine lange Fahrt.</li>
+<li><strong>Uhrzeit:</strong> Nachts, am Wochenende und an Feiertagen sind Aufschläge üblich.</li>
+<li><strong>Fahrzeug:</strong> Gewicht, Länge, Antrieb. Elektroautos und Transporter brauchen oft mehr Aufwand.</li>
+<li><strong>Zustand:</strong> Ein Fahrzeug, das nicht mehr rollt, im Graben liegt oder in einer Tiefgarage steht, macht mehr Arbeit als eines, das einfach aufgeladen wird.</li>
+<li><strong>Ort:</strong> Auf der Autobahn gelten besondere Bedingungen, zum Beispiel für die Sicherung der Einsatzstelle.</li>
+<li><strong>Wartezeit und Zusatzleistungen:</strong> Zum Beispiel Bergung, Öl-Bindemittel oder ein zweiter Einsatz.</li>
+</ul>
+<h2>Fragen, die Sie vor der Beauftragung stellen sollten</h2>
+<ol>
+<li>Ist das ein Festpreis oder ein Richtpreis?</li>
+<li>Sind Anfahrt, Verladung und alle Kilometer enthalten?</li>
+<li>Gibt es einen Aufschlag für Nacht, Wochenende oder Feiertag?</li>
+<li>Ist die Mehrwertsteuer enthalten?</li>
+<li>Wie kann ich bezahlen?</li>
+</ol>
+<p>Lassen Sie sich den Preis möglichst schriftlich geben, zum Beispiel per WhatsApp. Ein seriöser Anbieter nennt ihn, bevor er losfährt.</p>
+<h2>Unser Festpreis (Region Karlsruhe bis Offenburg)</h2>
+<p>In der Region Karlsruhe bis Offenburg beginnt unser Festpreis für das Abschleppen im Stadtgebiet bei <strong>129 €</strong>. Er gilt für kürzere Strecken, den genauen Betrag nennen wir Ihnen nach Ihren Angaben zu Standort, Ziel und Fahrzeug am Telefon.</p>
+<h2>Wenn ein anderer zahlt</h2>
+<p>Nach einem unverschuldeten Unfall trägt in der Regel die Haftpflichtversicherung des Unfallgegners die Abschleppkosten. Mit Schutzbrief oder Mitgliedschaft in einem Automobilclub kann die Hilfe ebenfalls abgedeckt sein. Mehr dazu im Ratgeber <a href="ratgeber-unfall-abschleppkosten.html">Abschleppkosten nach einem Unfall</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu den Kosten</h2>
+<details><summary>Ist Abschleppen nachts teurer?</summary><div>Häufig ja. Fragen Sie deshalb immer nach dem Endpreis inklusive aller Zuschläge.</div></details>
+<details><summary>Kostet Abschleppen mit einem E-Auto mehr?</summary><div>Das kann sein, weil ein Plateaufahrzeug nötig ist und der Aufwand größer sein kann. Der Preis wird vorab genannt.</div></details>
+<details><summary>Muss ich sofort bezahlen?</summary><div>Das besprechen wir vor der Fahrt mit Ihnen.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-panne-autobahn | Panne auf der Autobahn – was tun? Die richtigen Schritte | Panne auf der Autobahn: Warnblinker, Warnweste, Warndreieck, Notrufsäule und Abschleppdienst rufen. Die Schritte in der richtigen Reihenfolge. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Panne auf der Autobahn: Was tun?</h1><p class="lead">Ruhe bewahren und in dieser Reihenfolge vorgehen. Ihre Sicherheit geht vor dem Fahrzeug.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Die Schritte</h2>
+<ol>
+<li><strong>Warnblinker einschalten</strong> und mit Schwung möglichst weit nach rechts rollen. Wenn möglich zum nächsten Parkplatz oder zur nächsten Ausfahrt, sonst auf den Standstreifen.</li>
+<li><strong>Warnweste anziehen</strong>, bevor Sie aussteigen. Steigen Sie auf der Beifahrerseite aus, weg vom fließenden Verkehr.</li>
+<li><strong>Alle Personen aussteigen lassen</strong> und hinter die Leitplanke gehen. Kinder und Tiere nicht im Fahrzeug lassen.</li>
+<li><strong>Warndreieck aufstellen</strong>, aber nur, wenn es ohne Gefahr möglich ist. Auf der Autobahn gilt als Richtwert mindestens 150 Meter Abstand, eher mehr. Gehen Sie dafür hinter der Leitplanke.</li>
+<li><strong>Hilfe rufen:</strong> Bei Verletzten die 112. Bei einer Panne ohne Verletzte rufen Sie einen Abschleppdienst oder den Pannenhilfe-Dienst Ihres Automobilclubs oder Ihrer Versicherung.</li>
+<li><strong>Nicht selbst reparieren</strong> und nicht auf dem Standstreifen ein Rad wechseln.</li>
+</ol>
+<h2>Abstand des Warndreiecks</h2>
+<table class="tbl"><thead><tr><th>Straße</th><th>Richtwert</th></tr></thead><tbody>
+<tr><td>Innerorts</td><td>etwa 50 Meter</td></tr>
+<tr><td>Landstraße</td><td>etwa 100 Meter</td></tr>
+<tr><td>Autobahn</td><td>mindestens 150 Meter, bis etwa 400 Meter</td></tr>
+</tbody></table>
+<p class="fine">Die Straßenverkehrs-Ordnung (§ 15) verlangt ein Warnzeichen in ausreichender Entfernung. Die genannten Abstände sind übliche Richtwerte.</p>
+<h2>Standort melden</h2>
+<p>Wichtig sind Autobahn (z. B. A5), Fahrtrichtung, letzte Ausfahrt und, wenn erkennbar, der Kilometerangabe an den Schildern. Die Pfeile auf den Leitpfosten zeigen den Weg zur nächsten Notrufsäule. Auf dem Handy können Sie per WhatsApp den Standort teilen.</p>
+<h2>Warum nicht immer Sie den Abschleppdienst auswählen</h2>
+<p>Ist die Polizei vor Ort oder haben Sie die Notrufsäule genutzt, wird oft ein Vertragsunternehmen beauftragt. Sie können Ihren Wunsch nennen, das Unternehmen entscheidet dann aber nicht immer nach Ihrem Wunsch. Bei einer einfachen Panne ohne Polizei können Sie frei wählen.</p>
+<h2>Im Stau liegen geblieben</h2>
+<p>Bei stockendem Verkehr muss eine Rettungsgasse gebildet werden. Ein liegengebliebenes Fahrzeug darf sie nicht blockieren. Fahren Sie so weit wie möglich an den Rand.</p>
+<p>Ausführliche Hilfe für die A5 zwischen Karlsruhe und Offenburg: <a href="abschleppdienst-a5.html">Abschleppdienst A5</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Wie weit hinter dem Auto muss das Warndreieck stehen?</summary><div>Auf der Autobahn mindestens 150 Meter, oft mehr. Wenn das nur mit Gefahr möglich ist, verzichten Sie darauf und gehen Sie hinter die Leitplanke.</div></details>
+<details><summary>Muss ich eine Warnweste tragen?</summary><div>Eine Warnweste sollte im Fahrzeug liegen, und bei einer Panne auf der Autobahn sollten Sie sie vor dem Aussteigen anziehen.</div></details>
+<details><summary>Wen rufe ich zuerst?</summary><div>Bei Verletzten die 112, sonst Ihren Pannendienst oder uns.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-unfall-abschleppkosten | Abschleppkosten nach Unfall – wer zahlt? | Wer zahlt das Abschleppen nach einem Unfall? Haftpflicht, freie Wahl des Abschleppdienstes, nächste Werkstatt und was Sie beachten sollten. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Abschleppkosten nach einem Unfall: Wer zahlt?</h1><p class="lead">Wenn Sie den Unfall nicht verursacht haben, zahlt in der Regel die Versicherung des Unfallgegners.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p>Das ist eine allgemeine Übersicht und keine Rechtsberatung. Im Streitfall hilft eine Rechtsanwältin oder ein Rechtsanwalt oder die Versicherung.</p></div>
+<h2>Die Grundregel</h2>
+<p>Ist ein anderer für den Unfall verantwortlich, trägt in der Regel dessen Kfz-Haftpflichtversicherung die Abschleppkosten. Die Abschleppkosten gehören zu den Schäden, die ersetzt werden.</p>
+<h2>Wer sucht den Abschleppdienst aus?</h2>
+<p>Als Geschädigte oder Geschädigter dürfen Sie das Unternehmen selbst wählen. Sie müssen in der Notlage keinen Preisvergleich anstellen. Gerade nach einem Unfall ist dafür meist keine Zeit.</p>
+<h2>Wohin darf das Fahrzeug?</h2>
+<p>Es gilt die Schadenminderungspflicht: Sie sollen die Kosten so niedrig wie möglich halten. In der Regel bedeutet das, dass das Fahrzeug in die nächstgelegene geeignete Werkstatt gebracht wird. Ein weiter Weg zu Ihrer Stammwerkstatt kann dazu führen, dass die Versicherung die Mehrkosten nicht übernimmt. Besprechen Sie das Ziel deshalb vorab mit uns und mit Ihrer Versicherung.</p>
+<h2>Wenn die Versicherung den Preis für überhöht hält</h2>
+<p>Zunächst bezahlt meist der Auftraggeber die Rechnung, also Sie. Hält die Versicherung sie für überhöht, kann sie Ihre Ansprüche gegen das Abschleppunternehmen abgetreten verlangen und sich selbst darum kümmern. Dann müssen Sie sich nicht streiten.</p>
+<h2>Wenn Sie den Unfall verursacht haben</h2>
+<p>Dann zahlen Sie zunächst selbst, es sei denn, Ihre Kasko, Ihr Schutzbrief oder Ihre Mitgliedschaft in einem Automobilclub deckt es ab. Ein kurzer Blick in die Vertragsbedingungen oder ein Anruf bei der Versicherung klärt das.</p>
+<h2>Das sollten Sie sichern</h2>
+<ul class="ticks">
+<li>Fotos vom Fahrzeug, der Unfallstelle und Schäden</li>
+<li>Name und Versicherung des Unfallgegners, bei Bedarf Polizei rufen</li>
+<li>Die Rechnung und ein Nachweis, dass sie bezahlt ist</li>
+<li>Den Zielort des Abschleppens und den Grund, warum Sie ihn gewählt haben</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Muss ich den Abschleppdienst nehmen, den die Polizei nennt?</summary><div>Wenn die Polizei einen Vertragsdienst beauftragt, ist das eine andere Lage. Sie dürfen aber Ihren Wunsch äußern. Bei kleineren Unfällen ohne Polizei können Sie frei wählen.</div></details>
+<details><summary>Kann ich das Auto direkt zur Stammwerkstatt bringen lassen?</summary><div>Das ist möglich, aber nach einem fremdverschuldeten Unfall übernimmt die Versicherung in der Regel nur den Weg zur nächsten geeigneten Werkstatt.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-e-auto-abschleppen | E-Auto abschleppen – das sollten Sie wissen | Elektroauto liegengeblieben: warum E-Autos verladen werden sollten, was Rekuperation damit zu tun hat und was Sie dem Abschleppdienst sagen sollten. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>E-Auto abschleppen: Das sollten Sie wissen</h1><p class="lead">Elektroautos werden am sichersten auf einem Plateaufahrzeug transportiert. Hier steht, warum.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Warum nicht einfach ziehen?</h2>
+<p>Ein Elektromotor kann als Generator arbeiten. Werden die angetriebenen Räder beim Abschleppen gedreht, kann er Spannung erzeugen, die die abgeschaltete Steuerelektronik nicht verarbeiten kann. Im schlimmsten Fall entstehen Schäden. Deshalb sollte die angetriebene Achse keinen Bodenkontakt haben.</p>
+<h2>Der sichere Weg: Plateaufahrzeug</h2>
+<p>Ein Fahrzeug mit Ladefläche transportiert das E-Auto komplett. Die Methode gilt als die sicherste und wird von den Herstellern grundsätzlich akzeptiert. Ob und wie ein bestimmtes Modell auch anders bewegt werden darf, steht in der Betriebsanleitung.</p>
+<h2>Was Sie uns sagen sollten</h2>
+<ul class="ticks">
+<li>Marke, Modell und Antrieb: vollelektrisch, Hybrid oder Plug-in-Hybrid</li>
+<li>Ob das Fahrzeug noch rollt oder blockiert ist (bei manchen Modellen lässt sich die Parksperre oder elektrische Feststellbremse ohne Strom nicht lösen)</li>
+<li>Ob es einen Unfall oder ein Warnsignal der Hochvoltbatterie gab</li>
+<li>Wo es steht: Tiefgarage, Ladesäule, Straße</li>
+</ul>
+<h2>Nach einem Unfall</h2>
+<p>Bei Beschädigung der Batterie oder Rauchentwicklung: Abstand halten und die 112 rufen. Sagen Sie der Feuerwehr, dass es ein Elektroauto ist. Das Fahrzeug wird danach fachgerecht gesichert und abtransportiert.</p>
+<h2>Akku leer, sonst nichts?</h2>
+<p>Wenn nur die Reichweite ausgeht, ist Abschleppen oft nicht nötig. Ein Transport zur nächsten Ladesäule oder Werkstatt ist möglich. Nennen Sie uns Ziel und Fahrzeug, und wir nennen den Preis.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich ein E-Auto mit Abschleppseil ziehen?</summary><div>Davon raten wir ab. Auf keinen Fall mit angetriebenen Rädern auf dem Boden, bevor Sie in der Betriebsanleitung geschaut haben.</div></details>
+<details><summary>Ist es teurer, ein E-Auto abzuschleppen?</summary><div>Das kann sein, weil ein Plateaufahrzeug nötig ist. Der Preis wird vorab genannt.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-starthilfe-batterie | Starthilfe und leere Batterie – Ursachen und Ablauf | Auto springt nicht an? Ursachen einer leeren Batterie, Starthilfe Schritt für Schritt und wann ein Abschleppdienst sinnvoll ist. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Starthilfe und leere Batterie</h1><p class="lead">Das Auto klickt nur oder tut gar nichts? Meist ist die Batterie schuld. Oft lässt sich das vor Ort beheben.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Warum die Batterie leer wird</h2>
+<ul class="ticks">
+<li><strong>Kälte:</strong> Bei Frost bringt eine Batterie weniger Leistung, der Motor braucht aber mehr.</li>
+<li><strong>Kurzstrecken:</strong> Wer nur kurze Wege fährt, lädt die Batterie kaum wieder auf.</li>
+<li><strong>Alter:</strong> Nach einigen Jahren lässt die Kapazität nach.</li>
+<li><strong>Licht oder Verbraucher an:</strong> Ein vergessenes Standlicht reicht.</li>
+</ul>
+<h2>Starthilfe Schritt für Schritt</h2>
+<p>Für die Starthilfe brauchen Sie ein zweites Fahrzeug mit ähnlicher Batteriespannung und Starthilfekabel. Ein Überblick:</p>
+<ol>
+<li>Beide Motoren aus, Zündung aus. Kabel nicht auf einander stoßen lassen.</li>
+<li>Rotes Kabel an den Pluspol der leeren Batterie, dann an den Pluspol der Spenderbatterie.</li>
+<li>Schwarzes Kabel an den Minuspol der Spenderbatterie, das andere Ende an ein blankes Metallteil am Motorblock oder eine Masseschraube des liegengebliebenen Fahrzeugs, nicht an den Minuspol der leeren Batterie.</li>
+<li>Spender starten und kurz laufen lassen, dann das liegengebliebene Fahrzeug starten.</li>
+<li>Kabel in umgekehrter Reihenfolge entfernen. Danach eine längere Fahrt machen, damit die Batterie wieder lädt.</li>
+</ol>
+<div class="note"><p>Bei Hybrid- und Elektroautos, Start-Stopp-Systemen und modernen Fahrzeugen sind die Anschlusspunkte oft besonders vorgesehen. Lesen Sie die Betriebsanleitung, bevor Sie Kabel anklemmen.</p></div>
+<h2>Wann Sie uns rufen sollten</h2>
+<ul class="ticks">
+<li>Sie haben kein zweites Fahrzeug oder keine Kabel</li>
+<li>Sie stehen an einer gefährlichen Stelle (Autobahn, Tunnel, Tiefgarage)</li>
+<li>Das Fahrzeug springt trotz Starthilfe nicht an. Dann liegt vielleicht ein anderer Fehler vor.</li>
+<li>Es ist ein Hybrid- oder Elektroauto</li>
+</ul>
+<p>Wir versuchen zuerst, das Fahrzeug vor Ort zu starten. Klappt das nicht, bringen wir es in die Werkstatt.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Wie lange muss ich nach der Starthilfe fahren?</summary><div>Eine längere Fahrt ist besser als eine Kurzstrecke, weil die Lichtmaschine die Batterie erst wieder laden muss. Lassen Sie die Batterie danach prüfen.</div></details>
+<details><summary>Kann Starthilfe dem Auto schaden?</summary><div>Bei falschem Anschluss ja. Halten Sie sich an die Betriebsanleitung, oder lassen Sie es uns machen.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-reifenpanne | Reifenpanne – Ersatzrad, Pannenset oder Abschleppen? | Platter Reifen: Ersatzrad, Pannenset oder Abschleppdienst? Was sinnvoll ist, wo Sie gefahrlos wechseln und wann Sie Hilfe rufen sollten. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Reifenpanne: Was jetzt?</h1><p class="lead">Ersatzrad, Pannenset oder Abschleppwagen? Das hängt vom Schaden und vom Ort ab.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zuerst sichern</h2>
+<p>Warnblinker an, an einen sicheren Ort fahren und Warnweste anziehen. Nur dort wechseln, wo es sicher ist: auf einem ebenen Parkplatz, nicht am Rand einer schnellen Straße und nicht auf dem Standstreifen der Autobahn.</p>
+<h2>Was Ihr Fahrzeug an Bord hat</h2>
+<ul class="ticks">
+<li><strong>Ersatzrad:</strong> Wechseln Sie es, wenn Sie sicher stehen und die Anleitung kennen.</li>
+<li><strong>Pannenset (Dichtmittel und Kompressor):</strong> Viele neue Fahrzeuge haben nur das. Es hilft bei kleinen Löchern in der Lauffläche, nicht bei Schäden an der Seitenwand.</li>
+<li><strong>Notlaufreifen:</strong> Erlauben, mit reduziertem Tempo weiterzufahren. Die Angaben stehen in der Betriebsanleitung.</li>
+</ul>
+<p>Nach einer Reparatur mit dem Pannenset gilt meist ein Tempolimit von etwa 80 km/h und eine kurze Strecke bis zur Werkstatt. Die genauen Angaben stehen auf dem Set.</p>
+<h2>Wann ein Abschleppdienst besser ist</h2>
+<ul class="ticks">
+<li>Der Reifen ist an der Seitenwand aufgerissen</li>
+<li>Es gibt kein Ersatzrad und das Pannenset hilft nicht</li>
+<li>Sie stehen auf der Autobahn, in einem Tunnel oder an einer unübersichtlichen Stelle</li>
+<li>Sie können das Rad nicht lösen (Radmutter, Felgenschloss) oder es ist dunkel und nass</li>
+<li>Der Wagenheber oder das Werkzeug fehlen</li>
+</ul>
+<p>Oft ist der direkte Transport zum Reifenservice die einfachste Lösung. Wir bringen Ihr Fahrzeug dorthin oder in die Werkstatt Ihrer Wahl.</p>
+<h2>Nach dem Wechsel</h2>
+<p>Lassen Sie den Luftdruck und die Radmuttern bald prüfen. Ein Notrad ist nur für kurze Strecken gedacht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich mit einem platten Reifen weiterfahren?</summary><div>Nur ein kurzes Stück und nur, wenn es sicher ist. Wer auf der Felge fährt, beschädigt Reifen, Felge und im schlimmsten Fall die Achse.</div></details>
+<details><summary>Wechseln Sie auch den Reifen vor Ort?</summary><div>Wenn ein Ersatzrad vorhanden ist und die Stelle sicher genug, versuchen wir zuerst, Ihnen vor Ort zu helfen. Sonst transportieren wir das Fahrzeug zum Reifenservice.</div></details>
+</div></section>
+@@CTA@@
+=== pannenhilfe-koelner-autobahnring | Panne auf dem Kölner Autobahnring (A1, A3, A4) | Panne rund um Köln: Kölner Autobahnring mit A1, A3 und A4, Autobahnkreuz Köln-Nord und was Sie bei Stau und Panne tun sollten. | page ===
+<!--AREAS: Köln, Leverkusen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln</p><h1>Panne auf dem Kölner Autobahnring</h1><p class="lead">A1, A3 und A4 bilden den Ring um Köln. Wir organisieren Pannenhilfe und Abschleppen in Köln und Umgebung. Die Einsätze vor Ort übernehmen unsere Partner.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Was den Ring besonders macht</h2>
+<p>Der Kölner Autobahnring aus A3, A4 und A1 ist rund 52 Kilometer lang. Er gehört zu den am stärksten belasteten und staugefährdetsten Autobahnverbindungen Deutschlands. Der Abschnitt der A3/A4 zwischen dem Autobahnkreuz Köln-Ost und dem Autobahndreieck Heumar war nach der Zählung von 2015 der am dichtesten befahrene Autobahnabschnitt des Landes. Am Autobahnkreuz Köln-Nord treffen A1 und A57 aufeinander.</p>
+<p>Dichter Verkehr bedeutet: Wer hier liegen bleibt, steht in schnellem, dichtem Verkehr. Eine Panne ist dort schneller gefährlich als auf einer Landstraße.</p>
+<h2>So verhalten Sie sich</h2>
+<ul class="ticks">
+<li>Warnblinker an, wenn möglich bis zum nächsten Parkplatz oder zur nächsten Ausfahrt rollen</li>
+<li>Warnweste anziehen, über die Beifahrerseite aussteigen und hinter die Leitplanke gehen</li>
+<li>Bei Verletzten zuerst die 112</li>
+<li>Uns Fahrtrichtung, Autobahn und letzte Ausfahrt nennen</li>
+</ul>
+<p>Die ausführlichen Schritte finden Sie im Ratgeber <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
+<h2>Im Stau: Rettungsgasse</h2>
+<p>Bei stockendem Verkehr bilden alle eine Rettungsgasse: Auf der linken Spur nach links, auf allen anderen nach rechts. Ein liegengebliebenes Fahrzeug darf sie nicht blockieren.</p>
+<h2>Wer fährt in Köln?</h2>
+<p>Faster Depannage Takeldienst hat seinen Sitz in Antwerpen. In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Wir koordinieren die Hilfe.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich mir bei einer Panne auf der Autobahn den Abschleppdienst aussuchen?</summary><div>Bei einer einfachen Panne ohne Polizei ja. Kommt die Polizei oder nutzen Sie die Notrufsäule, wird oft ein Vertragsunternehmen beauftragt. Ihren Wunsch dürfen Sie äußern.</div></details>
+<details><summary>Was brauche ich für den Anruf?</summary><div>Autobahn, Fahrtrichtung, letzte Ausfahrt, Fahrzeug und Ziel. Am besten schicken Sie Ihren Standort per WhatsApp.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="index.html">Abschleppdienst Köln<small>Startseite</small></a><a href="pannenhilfe-koeln.html">Pannenhilfe Köln<small>Batterie, Reifen, ausgesperrt</small></a><a href="abschleppen-bergung-koeln.html">Abschleppen &amp; Bergung<small>nach Panne oder Unfall</small></a></div></div></section>
+@@CTA@@

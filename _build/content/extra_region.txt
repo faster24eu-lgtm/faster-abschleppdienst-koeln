@@ -1,0 +1,229 @@
+=== abschleppdienst-karlsruhe | Abschleppdienst Karlsruhe 24h – Pannenhilfe &amp; Festpreis | Abschleppdienst und Pannenhilfe in Karlsruhe: Durlach, Knielingen, Ettlingen, Kriegsstraße-Tunnel, Südtangente. 24h erreichbar, Festpreis ab 129 €. | page ===
+<!--AREAS: Karlsruhe, Durlach, Ettlingen, Rheinstetten -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Karlsruhe</p><h1>Abschleppdienst Karlsruhe: Pannenhilfe rund um die Uhr</h1><p class="lead">Liegengeblieben in Karlsruhe, im Tunnel unter der Kriegsstraße, auf der Südtangente oder am Autobahndreieck? Sie rufen an, wir nennen Ihnen einen Festpreis und organisieren einen Abschleppwagen aus der Region.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Wo wir in Karlsruhe helfen</h2>
+<p>Innenstadt, Durlach, Mühlburg, Knielingen, Neureut, Rüppurr, Ettlingen und Rheinstetten: Sagen Sie uns die Straße, den Parkplatz oder die nächste Kreuzung, und schicken Sie am besten Ihren Standort per WhatsApp. Das ist schneller und genauer als jede Beschreibung am Telefon.</p>
+<h2>Die Strecken rund um Karlsruhe</h2>
+<p>Karlsruhe liegt an einem der verkehrsreichsten Autobahnabschnitte Deutschlands. Auf der A5 folgen hier mehrere Anschlussstellen dicht aufeinander. Wenn Sie uns die Nummer der letzten Ausfahrt nennen, wissen wir sofort, wo Sie ungefähr stehen:</p>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>A5, Ausfahrt</th><th>Name</th><th>Anschluss</th></tr></thead><tbody>
+<tr><td>43</td><td>Karlsruhe-Nord</td><td>B10</td></tr>
+<tr><td>44</td><td>Karlsruhe-Durlach</td><td>B10</td></tr>
+<tr><td>45</td><td>Karlsruhe-Mitte</td><td>Südtangente</td></tr>
+<tr><td>46</td><td>Dreieck Karlsruhe</td><td>A8 Richtung Stuttgart</td></tr>
+<tr><td>47</td><td>Ettlingen</td><td>B3</td></tr>
+<tr><td>48</td><td>Karlsruhe-Süd</td><td>B3</td></tr>
+</tbody></table></div>
+<p>Die <strong>Südtangente</strong> ist eine autobahnähnlich ausgebaute Verbindung: Sie beginnt an der Anschlussstelle Karlsruhe-Mitte und führt über die Rheinbrücke Maxau nach Wörth am Rhein in die Pfalz. Wer hier liegen bleibt, steht oft ohne Standstreifen im fließenden Verkehr. Warnblinker, Warnweste, und wenn es sicher geht, hinter die Leitplanke. Dann rufen Sie uns an.</p>
+<div class="note"><p><strong>Auf der Autobahn und auf der Südtangente:</strong> Bleiben Sie nicht im Fahrzeug sitzen und versuchen Sie nichts selbst zu reparieren. Ihre Sicherheit geht vor dem Fahrzeug.</p></div>
+<h2>Der Tunnel unter der Kriegsstraße</h2>
+<p>Die B10 verläuft in Karlsruhe von Ost nach West durch die Innenstadt. Seit Mitte Oktober 2022 fährt der Durchgangsverkehr nicht mehr oberirdisch über die Kriegsstraße, sondern durch zwei Tunnelröhren von jeweils rund anderthalb Kilometern Länge, den Karoline-Luise-Tunnel. Oben wurde die frühere, bis zu zehnspurige Kriegsstraße zu einer Allee mit Straßenbahn umgebaut.</p>
+<p>Bleibt Ihr Fahrzeug im Tunnel stehen, gilt wie in jedem Straßentunnel: Warnblinker einschalten, Motor abstellen, das Fahrzeug verlassen und zur nächsten Notrufeinrichtung gehen, sofern das gefahrlos möglich ist. Bei Verletzten wählen Sie die 112. Sobald Sie sicher stehen, rufen Sie uns an. Wir organisieren, dass das Fahrzeug aus dem Tunnel gebracht wird.</p>
+<h2>Innenstadt und Straßenbahn</h2>
+<p>Karlsruhe hat ein dichtes Straßenbahnnetz. Mit der Kombilösung fährt die Bahn in der Innenstadt unter der Kaiserstraße im Tunnel, der Straßenverkehr und die Bahn am Boden sind an vielen Stellen aber weiterhin nah beieinander. Blockiert Ihr Fahrzeug Gleise oder eine Haltestelle, sagen Sie uns das bitte gleich am Telefon und melden Sie es auch dem Verkehrsbetrieb. Versuchen Sie nicht, das Fahrzeug selbst wegzuschieben, wenn sich Bahnen nähern.</p>
+<h2>Typische Situationen in Karlsruhe</h2>
+<ul class="ticks">
+<li><strong>Batterie leer nach der Nacht:</strong> Besonders im Winter. Wir versuchen zuerst Starthilfe, bevor wir abschleppen. Mehr dazu im Ratgeber <a href="ratgeber-starthilfe-batterie.html">Starthilfe und leere Batterie</a>.</li>
+<li><strong>Reifenschaden auf der B10 oder B3:</strong> Viele neue Autos haben nur ein Pannenset statt eines Ersatzrads. Wenn das nicht reicht, bringen wir das Fahrzeug zum Reifenservice.</li>
+<li><strong>Unfall in der Stadt:</strong> Das Fahrzeug wird verladen und in die Werkstatt Ihrer Wahl gebracht. Wer die Kosten trägt, erklärt der Ratgeber <a href="ratgeber-unfall-abschleppkosten.html">Abschleppkosten nach einem Unfall</a>.</li>
+<li><strong>Liegengeblieben im Parkhaus oder in der Tiefgarage:</strong> Nennen Sie uns die Durchfahrtshöhe. Nicht jeder Abschleppwagen passt überall hinein, und wir schicken das passende Fahrzeug.</li>
+<li><strong>E-Auto ohne Strom:</strong> Elektroautos werden nicht einfach abgeschleppt, sondern auf einem Plateaufahrzeug transportiert. Siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</li>
+<li><strong>Falsch getankt an der Tankstelle:</strong> Nicht starten, Zündung aus. Siehe <a href="ratgeber-falsch-getankt.html">Falsch getankt</a>.</li>
+</ul>
+<h2>Transporter, Handwerker, Firmenfahrzeuge</h2>
+<p>Steht ein Transporter mit Ladung, ist für uns wichtig, wie schwer er ist und ob die Ladung im Fahrzeug bleiben kann. Fahrzeuge bis 3,5 Tonnen sind unser Alltag. Für Größeres nennen Sie uns Länge, Höhe und Gewicht, dann klären wir, welches Fahrzeug nötig ist.</p>
+<h2>Was kostet das in Karlsruhe?</h2>
+<p>Ein Preisvergleichsportal (kostenfinder.com, 2026) nennt für Karlsruhe im Schnitt rund 219 €, mit einer Spanne von etwa 102 € bis 383 €. Unser Festpreis im Stadtgebiet beginnt bei <strong>129 €</strong>. Den genauen Preis für Ihre Strecke und Ihr Fahrzeug nennen wir Ihnen vorab. Mehr im <a href="ratgeber-abschleppdienst-kosten.html">Kosten-Ratgeber</a>.</p>
+<h2>Sie sind ADAC-Mitglied?</h2>
+<p>Dann rufen Sie zuerst Ihren Automobilclub oder Ihre Versicherung an. Dauert es dort zu lange, oder haben Sie keinen Schutzbrief, sind wir für Sie da.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Karlsruhe</h2>
+<details><summary>Schleppen Sie auch von der Südtangente oder der B10 ab?</summary><div>Ja, sagen Sie uns die letzte Ausfahrt oder den nächsten Abzweig. Wo eine Behörde oder die Polizei den Einsatz steuert, kann die Auswahl des Unternehmens vorgegeben sein.</div></details>
+<details><summary>Kann mein Auto in die Werkstatt meiner Wahl?</summary><div>Ja. Nach einem Unfall, den Sie nicht verschuldet haben, sollte es in der Regel die nächstgelegene geeignete Werkstatt sein, dazu mehr im Unfall-Ratgeber.</div></details>
+<details><summary>Fahren Sie auch nach Ettlingen, Rheinstetten oder Durlach?</summary><div>Ja. Diese Orte gehören zu unserem Einsatzgebiet rund um Karlsruhe.</div></details>
+<details><summary>Was tun bei einer Panne im Kriegsstraßentunnel?</summary><div>Warnblinker an, Motor aus, zur nächsten Notrufeinrichtung gehen, sofern das gefahrlos möglich ist. Bei Verletzten 112, danach rufen Sie uns an.</div></details>
+<details><summary>Kann ich meinen Standort einfach schicken?</summary><div>Ja, per WhatsApp. Auf dem Handy können Sie dort Ihren aktuellen Standort teilen. Das hilft uns, Sie schnell zu finden.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><h2>Weitere Regionen</h2><div class="related"><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt<small>A5 Ausfahrt 49 bis 52</small></a><a href="abschleppdienst-a5.html">Panne auf der A5<small>Ausfahrten 43 bis 56</small></a><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden<small>Karlsruhe bis Offenburg</small></a></div></div></section>
+@@CTA@@
+=== abschleppdienst-baden-baden | Abschleppdienst Baden-Baden, Rastatt &amp; Bühl 24h | Abschleppdienst in Baden-Baden, Rastatt und Bühl: B500, Michaelstunnel, Baden-Airpark und A5. 24h erreichbar, Festpreis ab 129 €. | page ===
+<!--AREAS: Baden-Baden, Rastatt, Bühl, Sinzheim, Gaggenau, Gernsbach, Rheinmünster -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Baden-Baden · Rastatt · Bühl</p><h1>Abschleppdienst Baden-Baden: Panne zwischen Rastatt und Bühl</h1><p class="lead">Ob in der Kurstadt, an der B500, am Baden-Airpark oder auf der A5: Wir organisieren Pannenhilfe und Abschleppen in Baden-Baden, Rastatt, Sinzheim, Bühl, Gaggenau und Gernsbach.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Die A5 zwischen Rastatt und Bühl</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>A5, Ausfahrt</th><th>Name</th><th>Anschluss</th></tr></thead><tbody>
+<tr><td>49</td><td>Rastatt-Nord</td><td>B462</td></tr>
+<tr><td>50</td><td>Rastatt-Süd</td><td>B3</td></tr>
+<tr><td>51</td><td>Baden-Baden</td><td>B500</td></tr>
+<tr><td>52</td><td>Bühl</td><td></td></tr>
+</tbody></table></div>
+<p>An der Ausfahrt Baden-Baden liegt eine Raststätte mit eigener Anschlussstelle, in Bühl ebenfalls eine Raststätte. Zwischen den Ausfahrten Baden-Baden und Bühl liegt außerdem der Parkplatz Oberfeld. Solche Namen helfen uns, Sie zu finden, wenn Sie kein Straßenschild sehen.</p>
+<p>Von Rastatt aus führt die B462 ins Murgtal Richtung Gaggenau und Gernsbach. Auch dort helfen wir, wenn Sie liegen bleiben.</p>
+<h2>Besonderheiten in und um Baden-Baden</h2>
+<h3>Der Michaelstunnel auf der B500</h3>
+<p>Die B500 führt als westliche Umgehung an der Innenstadt vorbei. Der Michaelstunnel ist rund 2,5 Kilometer lang, wurde zwischen 1986 und 1989 gebaut, hat nur eine Röhre und Gegenverkehr. Wer dort liegen bleibt, sollte Warnblinker einschalten, den Motor abstellen, das Fahrzeug verlassen und zur nächsten Notrufeinrichtung gehen, sofern das gefahrlos möglich ist. Bei Verletzten wählen Sie die 112. Rufen Sie uns an, sobald Sie sicher stehen. Wir organisieren den Rest.</p>
+<h3>Die Schwarzwaldhochstraße</h3>
+<p>Die B500 setzt sich als Schwarzwaldhochstraße über mehr als 60 Kilometer bis nach Freudenstadt fort und steigt auf über 1.100 Meter. Steile Abschnitte belasten Bremsen und Kühlung. Bei Schnee und Eis kommen im Winter Fahrzeuge ins Rutschen oder bleiben hängen. Wer bergauf oder bergab liegen bleibt: Warnblinker, Warnweste, Warndreieck und Abstand zur Fahrbahn. Für den Abtransport von Bergstrecken nennen Sie uns bitte die genaue Stelle, zum Beispiel einen Parkplatz oder Aussichtspunkt wie den Mummelsee, Plättig oder die Bühlerhöhe.</p>
+<h3>Enge Gassen und Hanglagen</h3>
+<p>In den Wohnlagen von Baden-Baden gibt es enge Straßen, Steigungen und Kurven. Beschreiben Sie uns kurz, wie das Fahrzeug steht und ob es blockiert. Dann schicken wir ein Fahrzeug, das dort auch zurechtkommt.</p>
+<h2>Baden-Airpark und die Gegend um Rheinmünster</h2>
+<p>Der Flughafen Karlsruhe/Baden-Baden, der Baden-Airpark, liegt in Rheinmünster, etwa 30 Kilometer südlich von Karlsruhe und jeweils rund 10 Kilometer von Baden-Baden, Bühl und Rastatt entfernt, direkt an A5, B36 und B500. Von der A5 erreichen Sie ihn über die Ausfahrt Baden-Baden in Richtung Iffezheim oder über die Ausfahrt Bühl (52) in Richtung Oberbruch und Rheinmünster. Wer nach einer Reise mit leerer Batterie auf dem Parkplatz steht, braucht in der Regel Starthilfe, keinen Abschleppwagen. Nennen Sie uns Parkplatz und Reihe, dann finden wir Sie.</p>
+<h2>Abschleppen nach Bühl, Rastatt und Sinzheim</h2>
+<p>Zwischen den Städten sind es kurze Wege, und Ihre Stammwerkstatt ist oft nicht weit. Wir bringen Ihr Fahrzeug dorthin, zum Händler oder nach Hause. Bei Unfällen gilt: Wählen Sie den Ort mit Bedacht. Die Haftpflichtversicherung des Unfallgegners erstattet in der Regel den Weg bis zur nächsten geeigneten Werkstatt. Lesen Sie dazu den <a href="ratgeber-unfall-abschleppkosten.html">Ratgeber zu Abschleppkosten nach einem Unfall</a>.</p>
+<h2>Motorrad in den Bergen</h2>
+<p>Die Bergstrecken sind bei Motorradfahrern beliebt. Bei Panne oder Sturz transportieren wir Motorräder auf einem geeigneten Fahrzeug, denn Krafträder dürfen nicht abgeschleppt werden. Sagen Sie uns Modell und ob das Motorrad noch rollt. Mehr im Ratgeber <a href="ratgeber-motorrad-transport.html">Motorrad-Transport nach Panne oder Sturz</a>.</p>
+<h2>Was es kostet</h2>
+<p>Unser Festpreis im Stadtgebiet beginnt bei <strong>129 €</strong>. Weitere Strecken, etwa von der Schwarzwaldhochstraße, kosten mehr. Den Preis nennen wir Ihnen vor der Abfahrt. Hintergründe im <a href="ratgeber-abschleppdienst-kosten.html">Kosten-Ratgeber</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Baden-Baden</h2>
+<details><summary>Kommen Sie auch bis auf die Schwarzwaldhochstraße?</summary><div>Ja, das ist möglich. Wegen der Entfernung und der Bergstrecke nennen wir den Preis dafür individuell am Telefon.</div></details>
+<details><summary>Was mache ich bei einer Panne im Michaelstunnel?</summary><div>Warnblinker an, Motor aus, aussteigen und zur nächsten Notrufeinrichtung gehen, sofern das gefahrlos möglich ist. Bei Verletzten 112 wählen. Danach rufen Sie uns an.</div></details>
+<details><summary>Helfen Sie auch in Rastatt und Bühl?</summary><div>Ja. Rastatt, Sinzheim, Bühl, Gaggenau und Gernsbach gehören zu unserem Einsatzgebiet.</div></details>
+<details><summary>Ich stehe am Baden-Airpark. Können Sie mir helfen?</summary><div>Ja. Nennen Sie uns Parkplatz und Fahrzeug. Oft reicht Starthilfe.</div></details>
+<details><summary>Kann ich einen Mietwagen bekommen?</summary><div>Das bieten wir nicht selbst an. Fragen Sie bei Bedarf Ihre Versicherung oder Ihren Automobilclub, ob ein Ersatzfahrzeug enthalten ist.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><h2>Weitere Regionen</h2><div class="related"><a href="abschleppdienst-karlsruhe.html">Karlsruhe<small>Südtangente, A5 43 bis 48</small></a><a href="abschleppdienst-achern.html">Achern &amp; Bühl<small>A5 Ausfahrt 53</small></a><a href="abschleppdienst-a5.html">Panne auf der A5<small>Ausfahrten 43 bis 56</small></a></div></div></section>
+@@CTA@@
+=== abschleppdienst-achern | Abschleppdienst Achern 24h – Achertal, Renchtal &amp; A5 | Abschleppdienst und Pannenhilfe in Achern, Sasbach, Ottersweier, Kappelrodeck und Renchen. A5-Ausfahrt 53, B3 und Achertal. 24h, Festpreis ab 129 €. | page ===
+<!--AREAS: Achern, Sasbach, Ottersweier, Kappelrodeck, Renchen, Oberkirch -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Achern · Renchtal · Achertal</p><h1>Abschleppdienst Achern: Pannenhilfe an der A5 und im Achertal</h1><p class="lead">Achern liegt zwischen Bühl und Offenburg direkt an der A5 und an der B3. Wenn Ihr Fahrzeug hier stehen bleibt, rufen Sie an oder schicken Sie Ihren Standort. Wir nennen den Preis vorab.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>So finden wir Sie zwischen Bühl und Offenburg</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Stelle an der A5</th><th>Was dort liegt</th></tr></thead><tbody>
+<tr><td>Ausfahrt 52</td><td>Bühl</td></tr>
+<tr><td>Zwischen 52 und 53</td><td>Parkplätze Brachfeld und Feldmatt</td></tr>
+<tr><td>Ausfahrt 53</td><td>Achern (mit Autohof)</td></tr>
+<tr><td>Zwischen 53 und 54</td><td>Raststätte Renchtal, Rench-Flutkanalbrücke</td></tr>
+<tr><td>Ausfahrt 54</td><td>Appenweier (B28 nach Kehl und Straßburg)</td></tr>
+</tbody></table></div>
+<p>Nennen Sie uns die Fahrtrichtung und die zuletzt passierte Ausfahrt oder den Namen eines Parkplatzes. Damit lässt sich Ihre Position schon gut eingrenzen. Auf der Autobahn erkennen Sie den genauen Ort auch an den Kilometerangaben und an den Pfeilen auf den Leitpfosten, die zur nächsten Notrufsäule zeigen.</p>
+<h2>Sicher warten: Autohof und Raststätte</h2>
+<p>Wenn Ihr Fahrzeug noch rollt, versuchen Sie, die nächste Ausfahrt oder eine Rastanlage zu erreichen. Bei Achern gibt es an Ausfahrt 53 einen Autohof, und zwischen Achern und Appenweier liegt die Raststätte Renchtal. Dort stehen Sie außerhalb des fließenden Verkehrs, können in Ruhe telefonieren und sind für den Abschleppwagen besser erreichbar als auf dem Standstreifen.</p>
+<h2>Achern und die Orte rundherum</h2>
+<p>Wir helfen in Achern und in Sasbach, Ottersweier, Kappelrodeck und Renchen. Durch Achern verläuft die B3. Vom Stadtgebiet führt das Achertal Richtung Kappelrodeck und Ottenhöfen im Schwarzwald, und von dort geht es weiter Richtung Schwarzwaldhochstraße. Wer im Tal oder am Berg liegen bleibt, beschreibt uns am besten einen Parkplatz, ein Gasthaus oder einen Ortseingang als Treffpunkt.</p>
+<h2>Warum eine Panne im Achertal anders ist</h2>
+<ul class="ticks">
+<li><strong>Gefälle und Kurven:</strong> Fahrzeuge, die im Tal ausrollen, stehen oft an unübersichtlichen Stellen. Warnblinker und Warndreieck sind hier wichtiger als auf gerader Strecke.</li>
+<li><strong>Handyempfang:</strong> In Tälern kann er schwanken. Schicken Sie Ihren Standort, sobald Sie Empfang haben, per WhatsApp.</li>
+<li><strong>Winter:</strong> In den höheren Lagen kann Glätte früher auftreten als im Rheintal. Ein Fahrzeug ohne Winterreifen wird dort schneller zum Problem.</li>
+<li><strong>Bremsen bergab:</strong> Wer mit schwacher Bremse oder überhitztem Motor liegen bleibt, sollte das gleich am Telefon sagen. Dann planen wir den Abtransport entsprechend.</li>
+</ul>
+<h2>Renchtal und Renchen</h2>
+<p>Renchen liegt an der Rench, und das Renchtal führt von dort Richtung Oberkirch. Die A5 überquert die Rench zwischen den Ausfahrten Achern und Appenweier auf einer Flutkanalbrücke. Wer in diesem Abschnitt liegen bleibt, ist also nicht weit von Renchen und dem Renchtal entfernt. Nennen Sie uns die Ausfahrt oder die Raststätte Renchtal als Anhaltspunkt.</p>
+<h2>Reifenwechsel oder Starthilfe statt Abschleppen</h2>
+<p>Nicht jede Panne endet auf der Ladefläche. Oft reichen Starthilfe, ein Kanister Kraftstoff oder ein Reifenwechsel. Wir sagen Ihnen ehrlich, was reicht, bevor der Preis feststeht. Ratgeber dazu: <a href="ratgeber-starthilfe-batterie.html">Starthilfe</a> und <a href="ratgeber-reifenpanne.html">Reifenpanne</a>.</p>
+<h2>Wenn Sie auf der Reise sind</h2>
+<p>Wer auf der A5 bei Achern liegen bleibt, ist oft auf dem Weg nach Süden oder zurück. Sprechen Sie uns auf Deutsch, Niederländisch, Französisch oder Englisch an. Wir organisieren, dass Ihr Fahrzeug in eine Werkstatt kommt, und nennen Ihnen den Preis, bevor etwas passiert. Ob Übernachtung, Mietwagen oder Bahnfahrt in Ihrem Schutzbrief oder Ihrer Versicherung enthalten sind, klären Sie am besten direkt mit Ihrer Versicherung oder Ihrem Automobilclub.</p>
+<h2>Preis</h2>
+<p>Festpreis im Stadtgebiet ab <strong>129 €</strong>, jeder weitere Weg wird Ihnen vorab genannt. Mehr dazu im <a href="ratgeber-abschleppdienst-kosten.html">Kosten-Ratgeber</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Achern</h2>
+<details><summary>Helfen Sie auch im Achertal und in Kappelrodeck?</summary><div>Ja. Achern, Sasbach, Ottersweier, Kappelrodeck und Renchen gehören zu unserem Einsatzgebiet.</div></details>
+<details><summary>Ich stehe an der Raststätte Renchtal. Können Sie mich abholen?</summary><div>Ja. Nennen Sie uns die Fahrtrichtung und ob Sie auf dem Rastplatz oder auf dem Standstreifen stehen.</div></details>
+<details><summary>Was kostet das Abschleppen von Achern nach Offenburg?</summary><div>Das hängt von Fahrzeug, Uhrzeit und Ziel ab. Wir nennen Ihnen den Preis am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Gibt es einen Notdienst nachts?</summary><div>Wir sind rund um die Uhr erreichbar, auch nachts, am Wochenende und an Feiertagen.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><h2>Weitere Regionen</h2><div class="related"><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt<small>Bühl, B500</small></a><a href="abschleppdienst-offenburg.html">Offenburg &amp; Kehl<small>Ausfahrt 54 und 55</small></a><a href="abschleppdienst-a5.html">Panne auf der A5<small>Alle Ausfahrten</small></a></div></div></section>
+@@CTA@@
+=== abschleppdienst-offenburg | Abschleppdienst Offenburg, Kehl &amp; Ortenau 24h | Abschleppdienst und Pannenhilfe in Offenburg, Kehl, Appenweier, Lahr und der Ortenau. A5, B28 und Kinzigtal: 24h erreichbar, Festpreis ab 129 €. | page ===
+<!--AREAS: Offenburg, Kehl, Appenweier, Oberkirch, Gengenbach, Lahr -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Offenburg · Kehl · Ortenau</p><h1>Abschleppdienst Offenburg: Pannenhilfe in der Ortenau</h1><p class="lead">Offenburg ist die größte Stadt zwischen Karlsruhe und Freiburg und liegt am Eingang zum Kinzigtal. Wir organisieren Abschleppdienst und Pannenhilfe in Offenburg, Kehl, Appenweier, Oberkirch, Gengenbach und Lahr.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ausfahrten rund um Offenburg</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>A5, Ausfahrt</th><th>Name</th><th>Wohin</th></tr></thead><tbody>
+<tr><td>54</td><td>Appenweier</td><td>B28 nach Kehl und Straßburg</td></tr>
+<tr><td>55</td><td>Offenburg</td><td>Stadt, Kinzigtal, Schwarzwald</td></tr>
+<tr><td>56</td><td>Lahr/Schwarzwald</td><td>B415, Flughafen Lahr</td></tr>
+<tr><td>57a</td><td>Ettenheim</td><td>mit Autohof</td></tr>
+<tr><td>57b</td><td>Rust</td><td>Europa-Park</td></tr>
+<tr><td>58</td><td>Herbolzheim</td><td>mit Autohof</td></tr>
+</tbody></table></div>
+<p>Zwischen Appenweier und Offenburg liegt der Parkplatz Gottswald/Waldmatten, die Kinzig wird auf einer Brücke überquert. Bei Offenburg endet der sechsstreifige Ausbau der A5, danach ist die Autobahn Richtung Süden nur noch vierstreifig. Wo sich die Fahrbahn verengt, staut es sich häufiger. Wer im Stau liegen bleibt, sollte Warnblinker einschalten und die Rettungsgasse freihalten. Südlich von Offenburg folgen die Parkplätze Höfen/Korb, Unditz/Schutter und Kürzell/Gerstenmatt, danach die Raststätte Mahlberg.</p>
+<h2>Kehl und Straßburg</h2>
+<p>In Appenweier zweigt die B28 zur Rheingrenze bei Kehl ab. Die Europabrücke zwischen Kehl und Straßburg ist eine vierspurige Straßenbrücke von 1960 und gilt als Symbol der deutsch-französischen Aussöhnung. Viele Fahrzeuge kommen aus Frankreich, andere fahren dorthin. Wir sprechen Deutsch, Französisch, Niederländisch und Englisch. Wenn Ihr Fahrzeug nach einer Panne über die Grenze soll, oder wenn Sie in Frankreich zugelassen sind und in der Ortenau liegen bleiben, fragen Sie uns nach Möglichkeiten und Preis. Grenzüberschreitende Transporte besprechen wir immer vorab am Telefon.</p>
+<h2>Kinzigtal und Schwarzwald</h2>
+<p>Offenburg ist der Ausgangspunkt ins Kinzigtal Richtung Gengenbach und weiter in den Schwarzwald. Auf Bergstrecken zählen Bremsen und Kühlung. Wenn Ihr Fahrzeug dort streikt, schicken Sie uns Ihren Standort per WhatsApp. Am besten mit einem Foto vom Fahrzeug und dem Umfeld.</p>
+<h2>Lahr, Ettenheim, Rust</h2>
+<p>Südlich von Offenburg verlassen viele Reisende die A5 bei Lahr (B415, mit Flughafen Lahr) oder bei Rust, wo der Europa-Park eine eigene Anschlussstelle hat. Nach einem langen Tag im Freizeitpark kommt es vor, dass die Batterie leer ist, weil das Licht angeblieben ist. Nennen Sie uns den Parkplatz und das Fahrzeug. In vielen Fällen lässt sich das Problem vor Ort beheben.</p>
+<h2>Ein wichtiger Knoten</h2>
+<p>Offenburg ist nicht nur Autobahn-Ausfahrt, sondern auch ein Verkehrsknoten: An der Stadt trennen sich die Wege ins Kinzigtal und in den Schwarzwald, die B28 führt Richtung Kehl und Straßburg, und die Bahn kreuzt hier ebenfalls das Rheintal. Für eine Panne heißt das: Der Weg zur richtigen Werkstatt kann kurz sein oder eine ganze Strecke umfassen. Nennen Sie uns Ihr Ziel, dann sehen wir, wie es geht.</p>
+<h2>Wenn der Transport über die Grenze führt</h2>
+<p>Für Fahrten nach Frankreich sollten Sie Ausweis und Fahrzeugpapiere griffbereit haben, ebenso Angaben zu Kennzeichen und Fahrzeugtyp. Bei Fahrzeugen ohne Zulassung oder mit Ausfuhrkennzeichen ist der Ablauf ein anderer als bei einem normal zugelassenen Wagen. Sagen Sie uns das bitte vorab.</p>
+<h2>Nach dem Abschleppen: Wie geht es weiter?</h2>
+<p>Wenn Ihr Fahrzeug in der Werkstatt steht, klären Sie dort Diagnose und Reparaturdauer. Fragen Sie nach einer Kostenschätzung, bevor die Reparatur beginnt, und nach einem Ersatzfahrzeug, falls Ihre Versicherung oder Ihr Schutzbrief eines vorsieht. Halten Sie Rechnung und Belege für die Abschleppkosten bereit.</p>
+<h2>Was wir in Offenburg für Sie tun</h2>
+<ul class="ticks">
+<li>Abschleppen von Pkw, Transportern, Motorrädern und Elektroautos</li>
+<li>Starthilfe, Reifenwechsel und Fahrzeugöffnung</li>
+<li>Bergung nach einem Unfall, wenn das Fahrzeug im Graben oder neben der Fahrbahn steht</li>
+<li>Transport zur Wunschwerkstatt, nach Hause oder zum Händler</li>
+</ul>
+<h2>Fahrzeugüberführung</h2>
+<p>Ein Auto ohne Zulassung, ein Unfallfahrzeug oder ein Wagen für den Händler: Auch geplante Transporte von und nach Offenburg organisieren wir. Sagen Sie uns Abholort, Ziel und den gewünschten Zeitraum, dann nennen wir den Preis.</p>
+<h2>Preis</h2>
+<p>Festpreis im Stadtgebiet ab <strong>129 €</strong>. Was Strecke, Nachtzeit und Fahrzeug ausmachen, lesen Sie im <a href="ratgeber-abschleppdienst-kosten.html">Kosten-Ratgeber</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Offenburg</h2>
+<details><summary>Helfen Sie auch in Kehl und Lahr?</summary><div>Ja. Kehl, Appenweier, Oberkirch, Gengenbach und Lahr gehören zu unserem Einsatzgebiet.</div></details>
+<details><summary>Kann mein Fahrzeug nach Straßburg gebracht werden?</summary><div>Das besprechen wir im Einzelfall am Telefon. Sagen Sie uns Fahrzeug, Abholort und Ziel, dann nennen wir Möglichkeiten und Preis.</div></details>
+<details><summary>Wie melde ich meinen Standort auf der A5 bei Offenburg?</summary><div>Nennen Sie Fahrtrichtung und letzte Ausfahrt (54 Appenweier oder 55 Offenburg) oder schicken Sie den Standort per WhatsApp.</div></details>
+<details><summary>Sprechen Sie Französisch?</summary><div>Ja. Wir sprechen Deutsch, Französisch, Niederländisch und Englisch.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><h2>Weitere Regionen</h2><div class="related"><a href="abschleppdienst-achern.html">Achern &amp; Bühl<small>Ausfahrt 53</small></a><a href="abschleppdienst-a5.html">Panne auf der A5<small>Alle Ausfahrten</small></a><a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn<small>Was tun?</small></a></div></div></section>
+@@CTA@@
+=== abschleppdienst-a5 | Abschleppdienst A5 – Panne zwischen Karlsruhe und Offenburg | Panne auf der A5 zwischen Karlsruhe und Offenburg? Ausfahrten 43 bis 56, Rastanlagen, Verhalten, Standort melden und Hilfe. 24h erreichbar, Preis vorab. | page ===
+<!--AREAS: Karlsruhe, Rastatt, Baden-Baden, Bühl, Achern, Appenweier, Offenburg, Lahr -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn A5</p><h1>Abschleppdienst A5: Panne zwischen Karlsruhe und Offenburg</h1><p class="lead">Sie stehen auf der A5? Sichern Sie zuerst die Stelle, dann rufen Sie an. Nennen Sie uns Fahrtrichtung und die letzte Ausfahrt, und wir organisieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p><strong>Zuerst Sicherheit:</strong> Warnblinker an, Warnweste anziehen, über die Beifahrerseite aussteigen, hinter die Leitplanke gehen. Bei Verletzten zuerst die 112 rufen. Erst danach uns.</p></div>
+<h2>Alle Ausfahrten der A5 von Karlsruhe bis Lahr</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Ausfahrt</th><th>Name</th><th>Anschluss</th></tr></thead><tbody>
+<tr><td>43</td><td>Karlsruhe-Nord</td><td>B10</td></tr>
+<tr><td>44</td><td>Karlsruhe-Durlach</td><td>B10</td></tr>
+<tr><td>45</td><td>Karlsruhe-Mitte</td><td>Südtangente</td></tr>
+<tr><td>46</td><td>Dreieck Karlsruhe</td><td>A8</td></tr>
+<tr><td>47</td><td>Ettlingen</td><td>B3</td></tr>
+<tr><td>48</td><td>Karlsruhe-Süd</td><td>B3</td></tr>
+<tr><td>49</td><td>Rastatt-Nord</td><td>B462</td></tr>
+<tr><td>50</td><td>Rastatt-Süd</td><td>B3</td></tr>
+<tr><td>51</td><td>Baden-Baden</td><td>B500</td></tr>
+<tr><td>52</td><td>Bühl</td><td></td></tr>
+<tr><td>53</td><td>Achern</td><td>mit Autohof</td></tr>
+<tr><td>54</td><td>Appenweier</td><td>B28 Richtung Kehl und Straßburg</td></tr>
+<tr><td>55</td><td>Offenburg</td><td>Stadt und Kinzigtal</td></tr>
+<tr><td>56</td><td>Lahr/Schwarzwald</td><td>B415</td></tr>
+</tbody></table></div>
+<h2>Raststätten und Parkplätze</h2>
+<p>Zwischen Karlsruhe und Offenburg liegen die Raststätten Baden-Baden (mit Anschlussstelle), Bühl und Renchtal. Dazu kommen mehrere unbewirtschaftete Parkplätze, zum Beispiel Silbergrund/Schleifweg, Oberfeld, Brachfeld, Feldmatt und Gottswald/Waldmatten. Wenn Sie es bis auf einen Parkplatz schaffen, sind Sie dort deutlich sicherer als auf dem Standstreifen. Nennen Sie uns den Namen des Parkplatzes.</p>
+<h2>Sechs Spuren, viel Verkehr</h2>
+<p>Der Abschnitt zwischen Baden-Baden und Offenburg ist etwa 41 Kilometer lang und wurde zwischen 2009 und 2014 von vier auf sechs Fahrstreifen erweitert. Bei Offenburg endet der sechsstreifige Ausbau. Rund um Karlsruhe zählt die A5 zu den meistbefahrenen Autobahnen Deutschlands. Das heißt: Wer hier liegen bleibt, steht in dichtem, schnellem Verkehr. Das ist einer der Gründe, warum Sie den Standstreifen nicht als sicheren Ort betrachten sollten.</p>
+<h2>Was auf der Autobahn anders läuft</h2>
+<ul>
+<li><strong>Abschleppen bis zur nächsten Ausfahrt:</strong> Beim Abschleppen eines auf der Autobahn liegen gebliebenen Fahrzeugs ist die Autobahn bei der nächsten Ausfahrt zu verlassen (§ 15a Abs. 1 StVO). Von dort geht es weiter zum Ziel.</li>
+<li><strong>Polizei und Notrufsäule:</strong> Wenn die Polizei zum Einsatz kommt oder Sie über die Notrufsäule Hilfe anfordern, wird oft ein Vertragsunternehmen beauftragt. Sie dürfen Ihren Wunsch äußern, garantiert ist er nicht. Bei einer einfachen Panne ohne Polizeieinsatz können wir direkt beauftragt werden.</li>
+<li><strong>Nicht selbst reparieren:</strong> Auf dem Standstreifen ist das lebensgefährlich. Ein Reifenwechsel dort ist keine gute Idee.</li>
+<li><strong>Motorräder:</strong> Sie werden nicht abgeschleppt, sondern transportiert.</li>
+</ul>
+<h2>Was wir am Telefon von Ihnen brauchen</h2>
+<ol>
+<li>Fahrtrichtung (Richtung Karlsruhe/Frankfurt oder Richtung Freiburg/Basel)</li>
+<li>Letzte passierte Ausfahrt oder Parkplatz</li>
+<li>Marke, Modell, Antrieb (Benzin, Diesel, Hybrid, Elektro)</li>
+<li>Was passiert ist und ob das Fahrzeug noch rollt</li>
+<li>Zielort: Werkstatt, Zuhause oder Händler</li>
+</ol>
+<h2>Gespann, Wohnmobil, Transporter</h2>
+<p>Wer mit Anhänger, Wohnwagen oder Wohnmobil liegen bleibt, sollte das am Telefon gleich sagen und Länge, Höhe und ungefähres Gewicht nennen. Für Gespanne muss der Abschleppwagen passen, und manchmal muss der Anhänger getrennt transportiert werden. Wenn Sie Kinder oder Tiere dabeihaben, sagen Sie es bitte auch: Wir planen dann mit, wie Sie sicher zur nächsten Rastanlage oder Ausfahrt kommen.</p>
+<h2>Nachts und im Winter</h2>
+<p>Nachts sehen Autofahrer ein stehendes Fahrzeug später. Bleiben Sie deshalb unbedingt hinter der Leitplanke und tragen Sie die Warnweste. Im Winter kann Glätte die Lage verschärfen: Fahrzeuge, die auf einem Parkplatz oder Rastplatz stehen, sind sicherer als solche am Rand der Fahrbahn.</p>
+<h2>Preis auf der A5</h2>
+<p>Für Bergungen und Einsätze auf der Autobahn nennen wir den Preis vorab am Telefon. In Marktübersichten liegt das Abschleppen auf der Autobahn bei etwa 129 bis 250 €. Details im <a href="ratgeber-abschleppdienst-kosten.html">Kosten-Ratgeber</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A5</h2>
+<details><summary>Darf ich mein Auto auf der Autobahn selbst abschleppen?</summary><div>Beim Abschleppen von der Autobahn muss die nächste Ausfahrt genommen werden (§ 15a StVO). Ein Abschleppdienst ist sicherer als ein Abschleppseil, und Krafträder dürfen ohnehin nicht abgeschleppt, sondern müssen transportiert werden.</div></details>
+<details><summary>Ich habe die Notrufsäule benutzt. Kann ich trotzdem Sie beauftragen?</summary><div>Sie können Ihren Wunsch äußern. Ob er berücksichtigt wird, entscheiden die Einsatzkräfte. Bei einfachen Pannen ohne Polizei ist die Beauftragung direkt möglich.</div></details>
+<details><summary>Wie erkenne ich, wo die nächste Notrufsäule ist?</summary><div>Die Pfeile auf den Leitpfosten zeigen den Weg zur nächsten Notrufsäule.</div></details>
+<details><summary>Was, wenn ich aus dem Ausland komme?</summary><div>Sprechen Sie uns auf Deutsch, Französisch, Niederländisch oder Englisch an. Wir besprechen Preis und Ziel am Telefon.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><h2>Mehr zur Panne auf der Autobahn</h2><div class="related"><a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn<small>Die Schritte im Überblick</small></a><a href="ratgeber-abschleppdienst-kosten.html">Was kostet ein Abschleppdienst?<small>Richtwerte</small></a><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden<small>Alle Städte</small></a></div></div></section>
+@@CTA@@

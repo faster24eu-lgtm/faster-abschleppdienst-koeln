@@ -1,0 +1,198 @@
+=== index | Abschleppdienst Köln – Pannenhilfe &amp; Abschleppen 24/7 | Abschleppdienst und Pannenhilfe für Köln und Umgebung: Pkw, Transporter, Motorräder. 24/7 per Telefon und WhatsApp erreichbar. Partner übernehmen vor Ort. | index ===
+<section class="hero"><div class="wrap hero-grid"><div>
+<p class="eyebrow">Abschleppdienst Köln</p>
+<h1>Abschleppdienst Köln: Pannenhilfe und Abschleppen, 24/7 erreichbar</h1>
+<p class="lead">Panne, Unfall oder ein Fahrzeug, das nicht mehr startet? Rufen Sie an oder schreiben Sie per WhatsApp. Wir besprechen die Situation und organisieren die Hilfe in Köln und Umgebung.</p>
+<div class="actions"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a><a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993 anrufen</a></div>
+<ul class="proof"><li><strong>24/7</strong>erreichbar per Telefon und WhatsApp</li><li><strong>Persönlich</strong>direkt am Telefon oder per WhatsApp</li><li><strong>Pkw bis Transporter</strong>auch Motorräder und Maschinen</li></ul>
+</div><div><img class="hero-img" src="assets/faster-road-transport.jpg" alt="Faster Abschleppwagen mit Fahrzeugen auf der Straße" width="1200" height="900" fetchpriority="high"></div></div></section>
+<section class="section"><div class="wrap"><h2>Unsere Leistungen in Köln und Umgebung</h2><p class="sub">Von der einfachen Starthilfe bis zum Abschleppen nach einem Unfall.</p>
+<div class="cards3">
+<article class="card"><h3>Pannenhilfe</h3><p>Batterie leer, platter Reifen, falsch getankt, Startprobleme oder ausgesperrt? Wir versuchen zuerst, Ihnen vor Ort zu helfen.</p><a href="pannenhilfe-koeln.html">Mehr erfahren →</a></article>
+<article class="card"><h3>Abschleppen und Bergung</h3><p>Nach Unfall, Brand oder Schaden holen wir Ihr Fahrzeug sicher ab und bringen es zum vereinbarten Ort.</p><a href="abschleppen-bergung-koeln.html">Mehr erfahren →</a></article>
+<article class="card"><h3>Panne auf dem Autobahnring</h3><p>A1, A3, A4, A555 und A57 rund um Köln: Was Sie bei einer Panne im dichten Verkehr tun.</p><a href="pannenhilfe-koelner-autobahnring.html">Mehr erfahren →</a></article>
+<article class="card"><h3>In der Stadt und an den Rheinbrücken</h3><p>Neun Stadtbezirke, mehrere Ringe und Rheinbrücken: Wie Sie uns Ihren Standort in Köln am besten beschreiben.</p><a href="abschleppdienst-koeln-stadtteile.html">Mehr erfahren →</a></article>
+<article class="card"><h3>Motorräder und Roller</h3><p>Krafträder dürfen nicht abgeschleppt werden. Sie werden auf einem geeigneten Fahrzeug transportiert.</p><a href="ratgeber-motorrad-transport.html">Mehr erfahren →</a></article>
+<article class="card"><h3>Transporter und Maschinen</h3><p>Größere Fahrzeuge brauchen andere Kapazität und eine andere Ladeweise. Auch dafür gibt es eine Lösung.</p></article>
+</div></div></section>
+<section class="section grey"><div class="wrap narrow copy"><h2>So läuft ein Einsatz in Köln ab</h2>
+<div class="steps">
+<article class="step"><span>1</span><h3>Anruf oder WhatsApp</h3><p>Nennen Sie Ihren Standort (am schnellsten per WhatsApp-Standort), Marke und Modell und was passiert ist.</p></article>
+<article class="step"><span>2</span><h3>Situation klären</h3><p>Wir besprechen mit Ihnen, was nötig ist und wie es weitergeht.</p></article>
+<article class="step"><span>3</span><h3>Hilfe vor Ort</h3><p>Wir organisieren die vereinbarte Hilfe und bringen Ihr Fahrzeug an den gewünschten Ort.</p></article>
+</div>
+<p>Ein Anruf reicht, Sie müssen nicht mehrere Werkstätten abtelefonieren. Wir stellen Ihnen ein paar Fragen, die den Unterschied machen: Wo genau stehen Sie? Läuft der Motor noch? Ist das Fahrzeug beschädigt oder blockiert es die Fahrbahn? Ist es ein Benziner, Diesel, Hybrid oder Elektroauto? Damit entscheiden wir, ob Starthilfe reicht oder ob das Fahrzeug verladen werden muss, und welches Fahrzeug dafür gebraucht wird.</p>
+<h2>Warum die Fahrzeugart wichtig ist</h2>
+<p>Ein Elektroauto darf nicht wie ein Benziner an einem Seil gezogen werden, ein Motorrad darf nach der Straßenverkehrs-Ordnung überhaupt nicht abgeschleppt werden, und ein Transporter mit hoher Ladung passt nicht in jede Tiefgarage. Deshalb fragen wir zuerst nach dem Fahrzeug. Mehr dazu in unseren Ratgebern zum <a href="ratgeber-e-auto-abschleppen.html">Abschleppen von E-Autos</a> und zum <a href="ratgeber-motorrad-transport.html">Motorrad-Transport</a>.</p>
+<h2>Erst Sicherheit, dann Hilfe</h2>
+<p>Bringen Sie sich zuerst in Sicherheit, bevor Sie uns anrufen: Warnblinkanlage einschalten, Warnweste anziehen, Warndreieck aufstellen, wenn es sicher möglich ist, und wenn möglich hinter der Leitplanke warten. Bei Verletzten wählen Sie zuerst die 112. Um das Technische kümmern wir uns.</p>
+<h2>Wer fährt in Köln, und wer ist Ihr Ansprechpartner?</h2>
+<p>Faster Depannage Takeldienst hat seinen Sitz in Antwerpen (Belgien). In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Sie erreichen uns rund um die Uhr, wir koordinieren die Hilfe. Das sagen wir Ihnen ehrlich, bevor Sie sich entscheiden.</p>
+</div></section>
+<section class="section"><div class="wrap narrow copy"><h2>Bevor Sie uns anrufen: Diese Angaben helfen</h2>
+<ul class="ticks">
+<li><strong>Straße, Hausnummer oder Kreuzung.</strong> In Köln gibt es viele gleichnamige Straßen in verschiedenen Stadtteilen, nennen Sie deshalb auch den Stadtteil.</li>
+<li><strong>Parkhaus oder Tiefgarage?</strong> Nennen Sie die Ebene und, wenn Sie sie kennen, die Durchfahrtshöhe.</li>
+<li><strong>Autobahn?</strong> Autobahn, Fahrtrichtung, letzte Ausfahrt oder Parkplatz.</li>
+<li><strong>Fahrzeug:</strong> Marke, Modell, Antrieb, und ob es noch rollt.</li>
+<li><strong>Ziel:</strong> Ihre Werkstatt, Ihr Zuhause oder ein anderer Ort.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Wie schnell sind Sie da?</summary><div>Das hängt von Standort, Verkehr und Verfügbarkeit ab. Wir geben Ihnen beim Anruf eine realistische Einschätzung statt eines festen Versprechens.</div></details>
+<details><summary>Was kostet die Hilfe?</summary><div>Das hängt von Standort, Ziel, Fahrzeug und Situation ab und lässt sich nicht pauschal auf einer Website sagen. Rufen Sie an oder schreiben Sie uns, dann besprechen wir Ihren Fall persönlich.</div></details>
+<details><summary>Sind Sie nachts und am Wochenende erreichbar?</summary><div>Ja, per Telefon und WhatsApp sind wir 24/7 erreichbar.</div></details>
+<details><summary>Wo sitzt Faster, und wer fährt in Köln?</summary><div>Faster Depannage Takeldienst hat seinen Sitz in Antwerpen (Belgien). In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Sie erreichen uns rund um die Uhr; wir koordinieren die Hilfe.</div></details>
+<details><summary>Welche Sprachen sprechen Sie?</summary><div>Deutsch, Niederländisch, Französisch und Englisch.</div></details>
+<details><summary>Kann ich mein Fahrzeug in meine Stammwerkstatt bringen lassen?</summary><div>Ja, nennen Sie uns die Adresse. Nach einem Unfall, den ein anderer verschuldet hat, übernimmt die Versicherung in der Regel nur den Weg zur nächsten geeigneten Werkstatt. Mehr im Ratgeber <a href="ratgeber-unfall-abschleppkosten.html">Abschleppkosten nach einem Unfall</a>.</div></details>
+<details><summary>Bringen Sie auch ein Fahrzeug nach Belgien oder in die Niederlande?</summary><div>Fahrten über die Grenze besprechen wir im Einzelfall. Sagen Sie uns Fahrzeug, Abholort und Ziel.</div></details>
+</div></section>
+@@CTA@@
+=== pannenhilfe-koeln | Pannenhilfe Köln: Batterie, Reifen, falsch getankt | Pannenhilfe in Köln: Batterie, Reifen, ausgesperrt, falsch getankt. Was vor Ort möglich ist und wann abgeschleppt werden muss. 24/7 erreichbar. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Pannenhilfe</p><h1>Pannenhilfe Köln</h1><p class="lead">Nicht jede Panne braucht einen Abschleppwagen. Oft lässt sich das Problem vor Ort lösen, und manchmal ist Abschleppen der bessere Weg. Wir sagen Ihnen, was in Ihrer Lage sinnvoll ist.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Batterie leer und Startprobleme</h2>
+<p>Wenn der Motor nur klickt oder gar nichts tut, ist meist die Batterie schuld. Häufige Gründe sind Kälte, viele Kurzstrecken, eine ältere Batterie oder ein vergessenes Licht. Wenn es sicher und technisch möglich ist, versuchen wir zuerst, das Fahrzeug mit einem Booster zu starten. Danach sollten Sie eine längere Strecke fahren und die Batterie prüfen lassen. Springt das Fahrzeug trotzdem nicht an, liegt oft ein anderer Fehler vor, zum Beispiel am Anlasser oder an der Kraftstoffversorgung. Dann ist der Transport zur Werkstatt der nächste Schritt. Bei Hybrid- und Elektroautos gelten besondere Anschlusspunkte, dazu lesen Sie den Ratgeber <a href="ratgeber-starthilfe-batterie.html">Starthilfe und leere Batterie</a>.</p>
+<h2>Platter Reifen</h2>
+<p>Weiterfahren ist nicht immer möglich oder sicher. Viele neue Fahrzeuge haben kein Ersatzrad, sondern nur ein Pannenset mit Dichtmittel. Das hilft bei kleinen Löchern in der Lauffläche, aber nicht bei einem aufgerissenen Reifen oder einem Schaden an der Seitenwand. In solchen Fällen ist ein direkter Transport zum Reifenservice oft die effizienteste Lösung. Auf Autobahnen, in Tunneln und an unübersichtlichen Stellen sollten Sie kein Rad selbst wechseln. Mehr im Ratgeber <a href="ratgeber-reifenpanne.html">Reifenpanne</a>.</p>
+<h2>Ausgesperrt</h2>
+<p>Schlüssel im Auto, Tür zu? Prüfen Sie zuerst, ob es einen Ersatzschlüssel gibt, den jemand bringen kann, oder ob Ihr Fahrzeug per Hersteller-App zu öffnen ist. Wenn nicht, schauen wir, ob wir Ihnen vor Ort helfen können. Versuchen Sie nicht, die Tür mit Draht oder Kleiderbügel aufzuhebeln: Das führt häufig zu Kratzern, verbogenen Türrahmen, beschädigten Dichtungen oder Problemen mit Elektronik und Airbags. Sind ein Kind oder ein Tier im Auto eingeschlossen, rufen Sie sofort die 112. Alles Weitere im Ratgeber <a href="ratgeber-ausgesperrt.html">Ausgesperrt: Schlüssel im Auto</a>.</p>
+<h2>Falsch getankt</h2>
+<p>Bemerken Sie den Fehler schon an der Zapfsäule, gilt: Tankvorgang stoppen, Motor nicht starten und die Zündung nicht einschalten. Bei vielen modernen Fahrzeugen läuft die Kraftstoffvorförderpumpe schon beim Öffnen der Fahrertür an, halten Sie die Tür deshalb möglichst geschlossen. Das Fahrzeug wird dann zur Werkstatt gebracht, wo der Kraftstoff abgepumpt wird. Ist der Motor schon gelaufen, kann der Schaden am Einspritzsystem groß sein. Deshalb gilt: nicht weiterfahren. Mehr im Ratgeber <a href="ratgeber-falsch-getankt.html">Falsch getankt: Was jetzt?</a></p>
+<h2>Fahrzeug springt nicht an</h2>
+<p>Wir prüfen zuerst, was los ist, und entscheiden dann, ob Hilfe vor Ort reicht oder das Fahrzeug abgeschleppt werden muss. Hilfreich sind Ihre Beobachtungen: Klickt es, dreht der Anlasser durch, leuchten Warnleuchten, ist der Tank leer?</p>
+<h2>Tank leer</h2>
+<p>Ein Fahrzeug, das mit leerem Tank liegen bleibt, klären wir mit Ihnen, ob Kraftstoff gebracht werden kann oder das Fahrzeug zur nächsten Tankstelle transportiert wird. Bei Dieselfahrzeugen sollte nach dem Leerfahren die Kraftstoffanlage oft entlüftet werden, das entscheidet die Werkstatt.</p>
+<h2>Wenn es nicht vor Ort geht: Abschleppen</h2>
+<p>Leuchtet im Cockpit etwas Rotes oder wird der Motor heiß, lesen Sie <a href="ratgeber-warnleuchten-auto.html">Warnleuchten im Auto</a> und <a href="ratgeber-motor-ueberhitzt.html">Motor überhitzt</a>. Hilft nichts davon, wird das Fahrzeug auf ein Plateaufahrzeug verladen und zu der Werkstatt gebracht, die Sie nennen. Wie das abläuft und was Sie vorbereiten sollten, steht auf der Seite <a href="abschleppen-bergung-koeln.html">Abschleppen und Bergung in Köln</a>.</p>
+<h2>So läuft es ab</h2>
+<p>Rufen Sie an oder schreiben Sie per WhatsApp und senden Sie Ihren Standort. Wir besprechen, was nötig ist, und organisieren die Hilfe. Die Einsätze vor Ort übernehmen unsere Partner in Köln und Umgebung.</p>
+<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur Pannenhilfe</h2>
+<details><summary>Kann Starthilfe meinem Auto schaden?</summary><div>Bei falschem Anschluss ja, besonders bei modernen Fahrzeugen mit empfindlicher Elektronik. Lassen Sie sich helfen oder lesen Sie die Betriebsanleitung.</div></details>
+<details><summary>Ich habe falsch getankt und schon gestartet. Was jetzt?</summary><div>Motor sofort ausschalten und nicht weiterfahren. Rufen Sie uns an, das Fahrzeug sollte in die Werkstatt gebracht werden.</div></details>
+<details><summary>Was, wenn ich im Parkhaus liegen geblieben bin?</summary><div>Nennen Sie uns Parkhaus, Ebene und wenn möglich die Durchfahrtshöhe. Nicht jedes Fahrzeug passt überall hinein.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="ratgeber-starthilfe-batterie.html">Starthilfe<small>Batterie, Kabel, Ablauf</small></a><a href="ratgeber-falsch-getankt.html">Falsch getankt<small>Was Sie jetzt nicht tun sollten</small></a><a href="ratgeber-ausgesperrt.html">Ausgesperrt<small>Schlüssel im Auto</small></a></div></div></section>
+@@CTA@@
+=== abschleppen-bergung-koeln | Abschleppen und Bergung Köln nach Panne oder Unfall | Abschleppen und Bergung in Köln und Umgebung nach Panne, Unfall oder Schaden. Transport zur Werkstatt oder zum Wunschziel, für Pkw, Transporter, Motorräder. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Abschleppen &amp; Bergung</p><h1>Abschleppen und Bergung Köln</h1><p class="lead">Wenn Weiterfahren nicht mehr geht, bringen wir Ihr Fahrzeug sicher an den vereinbarten Ort.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Abschleppen nach Panne oder Unfall</h2>
+<p>Von der klassischen Abschleppung bis zum Unfall, Brand oder schweren Schaden: Wir holen Ihr Fahrzeug sicher ab und bringen es zur Werkstatt, nach Hause oder an ein anderes Ziel. Das Fahrzeug wird in der Regel auf ein Plateaufahrzeug verladen. So bleiben Getriebe, Achsen und Elektronik geschont, und auch Fahrzeuge, die nicht mehr rollen oder lenken, lassen sich transportieren.</p>
+<h2>Bergung: wenn das Fahrzeug nicht auf der Straße steht</h2>
+<p>Liegt ein Fahrzeug im Graben, an einer Böschung oder ist es zwischen Hindernissen eingeklemmt, ist nicht nur Abschleppen, sondern Bergung gefragt. Sagen Sie uns, wie das Fahrzeug steht, ob es gekippt ist und ob Kraftstoff oder Öl austritt. Sind Personen verletzt oder besteht Brandgefahr, wählen Sie zuerst die 112. Nach einem Unfall hilft außerdem der Ratgeber <a href="ratgeber-nach-unfall-fahrbereit.html">Fahrbereit oder abschleppen?</a></p>
+<h2>So bereiten Sie sich vor</h2>
+<ul class="ticks">
+<li>Fahrzeugschein und Schlüssel bereithalten</li>
+<li>Persönliche Gegenstände und Wertsachen mitnehmen</li>
+<li>Bei einem Unfall Fotos vom Fahrzeug und von der Stelle machen</li>
+<li>Werkstatt oder Zieladresse nennen</li>
+<li>Bei Elektro- oder Hybridfahrzeugen sagen Sie es gleich am Telefon</li>
+</ul>
+<h2>Wohin darf das Fahrzeug?</h2>
+<p>Grundsätzlich dorthin, wo Sie es haben möchten: Ihre Stammwerkstatt, die Markenwerkstatt, ein Händler oder Ihr Zuhause. Nach einem Unfall, den ein anderer verursacht hat, trägt dessen Haftpflichtversicherung die Abschleppkosten in der Regel aber nur bis zur nächsten geeigneten Werkstatt. Wie das genau funktioniert, lesen Sie im Ratgeber <a href="ratgeber-unfall-abschleppkosten.html">Abschleppkosten nach einem Unfall</a>.</p>
+<h2>Fahrzeugtransport ohne Eile</h2>
+<p>Nicht jede Fahrt ist dringend. Steht das Fahrzeug bereits sicher, planen wir den Transport zu einem passenden Zeitpunkt, zum Beispiel zur Werkstatt, zum Händler oder zu einem Käufer oder Verkäufer. Das gilt auch für Fahrzeuge ohne Zulassung, Unfallfahrzeuge und Oldtimer, bei denen der Transport besonders schonend sein soll.</p>
+<h2>Fahrzeuge</h2>
+<ul class="ticks"><li>Pkw und Transporter bis 3,5 Tonnen</li><li>Motorräder und Roller (<a href="ratgeber-motorrad-transport.html">Ratgeber</a>)</li><li>Elektro- und Hybridfahrzeuge (<a href="ratgeber-e-auto-abschleppen.html">Ratgeber</a>)</li><li>Maschinen und Gabelstapler</li></ul>
+<h2>Abschleppen auf Autobahnen um Köln</h2>
+<p>Auf der Autobahn läuft manches anders: Ein Fahrzeug wird bei der nächsten Ausfahrt von der Autobahn gebracht, und wenn die Polizei beteiligt ist, wird oft ein Vertragsunternehmen beauftragt. Mehr dazu auf der Seite <a href="pannenhilfe-koelner-autobahnring.html">Panne auf dem Kölner Autobahnring</a>.</p>
+<h2>Kosten</h2>
+<p>Die Kosten hängen von Standort, Ziel, Fahrzeugtyp und Dringlichkeit ab. Rufen Sie an oder schreiben Sie uns, dann besprechen wir Ihren Fall persönlich.</p>
+<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zum Abschleppen</h2>
+<details><summary>Wird mein Fahrzeug gezogen oder getragen?</summary><div>In der Regel getragen: Es wird auf eine Ladefläche verladen. Das ist schonender, und bei Elektroautos und Motorrädern ist es die richtige Wahl.</div></details>
+<details><summary>Kann ich im Abschleppwagen mitfahren?</summary><div>Das klären wir im Einzelfall. Nennen Sie uns, wie viele Personen es sind.</div></details>
+<details><summary>Was ist, wenn ich den Schlüssel nicht habe?</summary><div>Sagen Sie es uns am Telefon. Ohne Schlüssel lässt sich ein Fahrzeug oft schwerer verladen, wir finden aber eine Lösung.</div></details>
+<details><summary>Kommen Sie auch aus einer Tiefgarage?</summary><div>Wenn die Durchfahrtshöhe und der Platz passen, ja. Nennen Sie uns Höhe und Zufahrt, dann schicken wir das passende Fahrzeug.</div></details>
+</div></section>
+@@CTA@@
+=== pannenhilfe-koelner-autobahnring | Panne auf dem Kölner Autobahnring (A1, A3, A4, A555) | Panne rund um Köln: Kölner Autobahnring mit A1, A3 und A4, Kreuz Köln-Süd, Köln-Nord, A555 und A59. Verhalten bei Panne, Stau und Rettungsgasse. | page ===
+<!--AREAS: Köln, Leverkusen, Bonn -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln</p><h1>Panne auf dem Kölner Autobahnring</h1><p class="lead">A1, A3 und A4 bilden den Ring um Köln, dazu kommen A555, A57 und A59. Wir organisieren Pannenhilfe und Abschleppen in Köln und Umgebung. Die Einsätze vor Ort übernehmen unsere Partner.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Was den Ring besonders macht</h2>
+<p>Der Kölner Autobahnring aus A3, A4 und A1 ist rund 52 Kilometer lang. Er gehört zu den am stärksten belasteten und staugefährdetsten Autobahnverbindungen Deutschlands. Der Abschnitt der A3/A4 zwischen dem Autobahnkreuz Köln-Ost und dem Autobahndreieck Heumar war nach der Zählung von 2015 der am dichtesten befahrene Autobahnabschnitt des Landes.</p>
+<p>Dichter Verkehr bedeutet: Wer hier liegen bleibt, steht in schnellem Verkehr, oft ohne viel Platz. Eine Panne ist dort schneller gefährlich als auf einer Landstraße.</p>
+<h2>Die wichtigsten Kreuze und Zubringer</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Stelle</th><th>Autobahnen</th><th>Wozu es dient</th></tr></thead><tbody>
+<tr><td>Autobahnkreuz Köln-Nord</td><td>A1 und A57</td><td>Verbindung Richtung Dortmund, Euskirchen und Neuss</td></tr>
+<tr><td>Autobahnkreuz Köln-Süd</td><td>A4 und A555</td><td>Zubringer aus Richtung Bonn; nach Angaben der Autobahn GmbH fahren über 150.000 Fahrzeuge täglich auf der A4 und über 120.000 auf der A555</td></tr>
+<tr><td>Autobahndreieck Heumar</td><td>A3 und A4</td><td>Ostseite des Rings</td></tr>
+<tr><td>Autobahnkreuz Köln-Ost</td><td>A3 und A4</td><td>Übergang zum dichtest befahrenen Abschnitt</td></tr>
+<tr><td>A59</td><td>Richtung Flughafen Köln/Bonn</td><td>Zubringer zum Flughafen</td></tr>
+</tbody></table></div>
+<p>Wenn Sie uns die Autobahn, die Fahrtrichtung und das letzte Kreuz oder die letzte Ausfahrt nennen, wissen wir, wo Sie ungefähr stehen.</p>
+<h2>Rheinquerung: die Leverkusener und die Rodenkirchener Brücke</h2>
+<p>Zwei Rheinbrücken gehören zum Autobahnnetz: Im Süden die Rodenkirchener Brücke auf der A4, im Norden die Leverkusener Autobahnbrücke der A1, die zur Hälfte auf Leverkusener Gebiet liegt und trotzdem zu Kölns Rheinquerungen gezählt wird. Auf Brücken gibt es kaum Ausweichmöglichkeiten, ein liegengebliebenes Fahrzeug blockiert dort schnell mehrere Spuren. Sagen Sie uns deshalb, ob Sie vor, auf oder hinter der Brücke stehen.</p>
+<h2>So verhalten Sie sich</h2>
+<ul class="ticks">
+<li>Warnblinker an, wenn möglich bis zum nächsten Parkplatz oder zur nächsten Ausfahrt rollen</li>
+<li>Warnweste anziehen, über die Beifahrerseite aussteigen und hinter die Leitplanke gehen</li>
+<li>Bei Verletzten zuerst die 112</li>
+<li>Uns Fahrtrichtung, Autobahn und letzte Ausfahrt nennen</li>
+</ul>
+<p>Die ausführlichen Schritte finden Sie im Ratgeber <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
+<h2>Im Stau: Rettungsgasse</h2>
+<p>Bei stockendem Verkehr bilden alle eine Rettungsgasse: Auf der linken Spur nach links, auf allen anderen nach rechts. Ein liegengebliebenes Fahrzeug darf sie nicht blockieren. Auf dem Kölner Ring, wo Stau zum Alltag gehört, kann das entscheidend sein.</p>
+<h2>Abschleppen von der Autobahn</h2>
+<p>Beim Abschleppen eines auf der Autobahn liegen gebliebenen Fahrzeugs ist die Autobahn bei der nächsten Ausfahrt zu verlassen (§ 15a Abs. 1 StVO). Von dort geht es weiter zum Ziel. Kommt die Polizei oder nutzen Sie die Notrufsäule, wird oft ein Vertragsunternehmen beauftragt. Sie können Ihren Wunsch äußern, garantiert ist er nicht.</p>
+<h2>Wer fährt in Köln?</h2>
+<p>Faster Depannage Takeldienst hat seinen Sitz in Antwerpen. In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Wir koordinieren die Hilfe.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich mir bei einer Panne auf der Autobahn den Abschleppdienst aussuchen?</summary><div>Bei einer einfachen Panne ohne Polizei ja. Kommt die Polizei oder nutzen Sie die Notrufsäule, wird oft ein Vertragsunternehmen beauftragt. Ihren Wunsch dürfen Sie äußern.</div></details>
+<details><summary>Was brauche ich für den Anruf?</summary><div>Autobahn, Fahrtrichtung, letzte Ausfahrt, Fahrzeug und Ziel. Am besten schicken Sie Ihren Standort per WhatsApp.</div></details>
+<details><summary>Was tun, wenn ich am Kreuz Köln-Süd oder Köln-Nord liege bleibe?</summary><div>Auf Kreuzen gibt es viele Zu- und Abfahrten. Nennen Sie uns, aus welcher Richtung Sie kamen und in welche Sie wollten. Dann lässt sich Ihre Position eingrenzen.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtteile und Rheinbrücken<small>Standort richtig beschreiben</small></a><a href="pannenhilfe-koeln.html">Pannenhilfe Köln<small>Batterie, Reifen, ausgesperrt</small></a><a href="abschleppen-bergung-koeln.html">Abschleppen &amp; Bergung<small>nach Panne oder Unfall</small></a></div></div></section>
+@@CTA@@
+=== abschleppdienst-koeln-stadtteile | Köln: Stadtbezirke, Ringe und Rheinbrücken | Wo in Köln helfen wir? Neun Stadtbezirke, Ringe, Gürtel, Militärring und die Rheinbrücken: So beschreiben Sie Ihren Standort bei einer Panne in Köln. | page ===
+<!--AREAS: Köln, Ehrenfeld, Nippes, Lindenthal, Rodenkirchen, Chorweiler, Porz, Kalk, Mülheim, Deutz -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln</p><h1>Abschleppdienst in Köln: Stadtbezirke, Ringe und Rheinbrücken</h1><p class="lead">Köln ist groß und hat viele Straßen mit gleichen Namen. Wer seinen Standort gut beschreibt, bekommt schneller Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Die neun Kölner Stadtbezirke</h2>
+<p>Köln gliedert sich in neun Stadtbezirke mit zusammen 86 Stadtteilen: Innenstadt, Rodenkirchen, Lindenthal, Ehrenfeld, Nippes, Chorweiler, Porz, Kalk und Mülheim. Zum Stadtbezirk Innenstadt gehören unter anderem Altstadt-Nord und -Süd, Neustadt-Nord und -Süd sowie Deutz auf der rechten Rheinseite. Ehrenfeld umfasst neben Ehrenfeld selbst auch Neuehrenfeld, Bickendorf, Vogelsang, Ossendorf und Bocklemünd/Mengenich.</p>
+<p>Wenn Sie uns anrufen, nennen Sie bitte den Stadtteil oder Stadtbezirk zusammen mit dem Straßennamen. Manche Namen kommen in mehreren Teilen der Stadt vor.</p>
+<h2>Links und rechts des Rheins</h2>
+<p>Der Rhein teilt Köln in zwei Hälften, und Sie erreichen die andere Seite nur über eine Brücke. Für Straßenfahrzeuge sind das im Stadtgebiet der Reihe nach von Süden nach Norden:</p>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Brücke</th><th>Art</th></tr></thead><tbody>
+<tr><td>Rodenkirchener Brücke</td><td>Autobahnbrücke (A4)</td></tr>
+<tr><td>Severinsbrücke</td><td>Straße und Bahn</td></tr>
+<tr><td>Deutzer Brücke</td><td>Straße und Bahn</td></tr>
+<tr><td>Zoobrücke</td><td>Kraftfahrstraße</td></tr>
+<tr><td>Mülheimer Brücke</td><td>Straße und Bahn</td></tr>
+<tr><td>Leverkusener Autobahnbrücke</td><td>Autobahnbrücke (A1), liegt zur Hälfte auf Leverkusener Gebiet</td></tr>
+</tbody></table></div>
+<p>Dazu kommen die Bahnbrücken Südbrücke und Hohenzollernbrücke, die für Autos keine Rolle spielen. Wenn Sie in Köln-Deutz, Kalk oder Mülheim liegen bleiben und Ihre Werkstatt links des Rheins liegt, ist die Route über eine dieser Brücken Teil der Planung. Nennen Sie uns Standort und Ziel, dann sehen wir, wie es geht.</p>
+<h2>Die Ringe von innen nach außen</h2>
+<ul class="ticks">
+<li><strong>Die Ringe und die Innere Kanalstraße:</strong> der innerste Straßenring um die Altstadt und Neustadt.</li>
+<li><strong>Der Gürtel:</strong> der dritte Ring, von der Innenstadt aus gezählt.</li>
+<li><strong>Die Militärringstraße:</strong> der äußere Ring entlang der ehemaligen Fortgürtel, bis heute eine stark befahrene Verkehrsader.</li>
+<li><strong>Der Autobahnring:</strong> A3, A4 und A1, siehe <a href="pannenhilfe-koelner-autobahnring.html">Panne auf dem Autobahnring</a>.</li>
+</ul>
+<p>Wenn Sie an einem Ring liegen bleiben, hilft uns die Angabe, an welcher Kreuzung oder welchem Platz Sie stehen und in welche Richtung.</p>
+<h2>Innenstadt: Parkhäuser, enge Straßen, Baustellen</h2>
+<p>In der Altstadt und in den Vierteln um den Rhein sind viele Straßen eng, Fußgängerzonen sind für Fahrzeuge gesperrt, und Parkhäuser haben begrenzte Durchfahrtshöhen. Ein Abschleppwagen mit hoher Ladefläche passt nicht in jedes Parkhaus. Deshalb fragen wir bei Innenstadt-Einsätzen nach Ebene, Höhe und Zufahrt. Gibt es eine Baustelle oder Sperrung vor Ort, sagen Sie uns das bitte.</p>
+<h2>Umweltzone</h2>
+<p>Köln hat eine Umweltzone, in der seit dem 1. Juli 2014 nur Fahrzeuge mit grüner Plakette fahren dürfen. Das ist wichtig, wenn Ihr Fahrzeug nach der Reparatur wieder selbst durch die Stadt fahren soll: Ohne grüne Plakette darf es nicht in die Zone. Auskunft dazu gibt die Stadt Köln.</p>
+<h2>Was wir in Köln für Sie organisieren</h2>
+<ul class="ticks">
+<li>Pannenhilfe: <a href="pannenhilfe-koeln.html">Batterie, Reifen, ausgesperrt, falsch getankt</a></li>
+<li>Abschleppen und Bergung nach <a href="abschleppen-bergung-koeln.html">Panne oder Unfall</a></li>
+<li>Transport von Motorrädern, Rollern und Maschinen</li>
+<li>Fahrzeugtransport zur Werkstatt, zum Händler oder nach Hause</li>
+</ul>
+<p>Die Einsätze in Köln übernehmen unsere Partner vor Ort, wir koordinieren die Hilfe. Faster hat seinen Sitz in Antwerpen (Belgien).</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Köln</h2>
+<details><summary>Helfen Sie in allen Kölner Stadtbezirken?</summary><div>Wir koordinieren Hilfe in Köln und Umgebung. Nennen Sie uns den Stadtteil, dann klären wir, wie wir Ihnen helfen können.</div></details>
+<details><summary>Was, wenn ich mich nicht auskenne?</summary><div>Schicken Sie uns Ihren Standort per WhatsApp. Auf dem Handy geht das mit wenigen Klicks, und wir sehen genau, wo Sie stehen.</div></details>
+<details><summary>Ich stehe in Deutz und will nach Ehrenfeld. Geht das?</summary><div>Ja, das ist ein normaler Weg über eine der Rheinbrücken. Nennen Sie uns Ausgangs- und Zielort.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="index.html">Abschleppdienst Köln<small>Startseite</small></a><a href="pannenhilfe-koelner-autobahnring.html">Autobahnring<small>A1, A3, A4, A555</small></a><a href="ratgeber.html">Ratgeber<small>Alle Themen</small></a></div></div></section>
+@@CTA@@
