@@ -89,7 +89,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | Organization/business schema | AutomotiveBusiness with `areaServed` on region and Köln pages; no street address invented (home page uses the real Antwerp address) |
 | Internal links | related-block on all guides, footer with all clusters; every page has ≥ 2 inbound links |
 | Broken internal links | none (checked each cycle) |
-| Images | only logo + one hero photo; all with alt text |
+| Images | only logo + one hero photo; all with alt text. Cycle 14: logo was a 287 KB, 2048 px PNG shown at 110 px on every page; replaced by a 300 px, 11 KB version (`assets/faster-logo-300.png`), original removed. Hero photo is 210 KB (acceptable; could be converted to WebP later) |
 | JavaScript | none |
 | Robots | preview: noindex + Disallow (B5) |
 
@@ -170,3 +170,8 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 ### Cycle 13 (2026-09-26, cron) – two master-list guides
 - Added `ratgeber-auto-springt-nicht-an` (symptom table, sources: ADAC/consumer sites) and `ratgeber-kupplung-defekt` (symptoms, why not to keep driving). The master instruction listed both topics; repair costs deliberately not quoted (sources give numbers but they are not our prices).
 - Master-list topics now all covered except "Fahrzeug ohne Schlüssel bewegen" (covered inside ausgesperrt/Keyless) and "Auto nicht in Neutral schaltbar" (covered in Automatik page).
+
+### Cycle 14 (2026-09-26, cron) – performance fix, no new content
+- Audit of pages/word counts/images: the only real problem was the oversized logo (287 KB on every page). Fixed: 96 % smaller. Logo dimensions in the markup now match the CSS (110×38) to avoid layout shift.
+- Content backlog is exhausted without owner input (Köln Einsatzgebiet, Autoentsorgung, Pforzheim, price/hotline confirmation). No new page written this cycle on purpose.
+- Small pages still under ~450 words: kontakt (utility, fine), impressum/datenschutz (drafts, blocked by B1), ratgeber-nach-unfall-fahrbereit (~420).
