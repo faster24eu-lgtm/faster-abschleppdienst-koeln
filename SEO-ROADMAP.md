@@ -218,3 +218,6 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 ### Session 2, cycle at 15:25 – Ratgeber index restructured
 - The index had grown to 36 unsorted cards. It is now grouped into six sections (Panne unterwegs; Startprobleme und Technik; Unfall, Schaden und Kosten; Besondere Fahrzeuge und Regeln; Orte und Situationen; Regionale Pannenseiten). All 36 pages are reachable from it.
 - **Maintenance note:** the index page now lives in `_build/content/extra_ratgeber.txt` (loaded last, overrides the old index in `extra_guides.txt`). Add new guide cards THERE, in the matching section. The old card list in `extra_guides.txt` is dead code.
+
+### Session 2, cycle at 15:55 – mobile navigation fix
+- Mobile check (375 px) found: the main menu was hidden below 900 px, so phone visitors could not reach Ratgeber/regions from the header; the header sub-line ran under the WhatsApp button. Fixed in `styles.css`: menu is now a swipeable row under the header on phones, logo and WhatsApp share the first row, the text next to the logo is hidden below 520 px, scrollbar hidden. No horizontal page overflow.
