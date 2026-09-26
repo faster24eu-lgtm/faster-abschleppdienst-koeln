@@ -69,7 +69,7 @@ sub schema_for {
 }
 # ---- SEO layer: canonical, Open Graph, breadcrumbs, related links, varied CTAs, sitemap ----
 # BASE must be changed to the real domain before launch (canonical, og:url, sitemap use it).
-my $BASE = 'https://faster24eu-lgtm.github.io/faster-abschleppdienst-koeln/';
+my $BASE = 'https://abschleppdienst-faster.de/';
 my $TODAY = '2026-09-26';
 my %CRUMB_PARENT = (
   'pannenhilfe-koeln'=>['index','Pannenhilfe Köln'], 'abschleppen-bergung-koeln'=>['index','Abschleppen &amp; Bergung Köln'],
