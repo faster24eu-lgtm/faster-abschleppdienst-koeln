@@ -32,7 +32,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
             └ kontakt, impressum, datenschutz, danke (danke = no sitemap)
 ```
 
-## 3. Page inventory (39 indexable-in-principle pages + danke)
+## 3. Page inventory (41 indexable-in-principle pages + danke)
 | URL | Primary topic | Search intent | Status |
 |-----|---------------|---------------|--------|
 | index | Abschleppdienst Köln | Local service, "Abschleppdienst Köln" | done |
@@ -70,6 +70,8 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | ratgeber-wohnmobil-gespann-panne | Wohnmobil/Gespann Panne, 3,5-t-Grenze | Practical | done (cycle 8) |
 | ratgeber-winterpanne-schwarzwald | Winterpanne Schwarzwaldhochstraße/Bergstrecken | Situation + legal basics | done (cycle 10) |
 | ratgeber-panne-kehl-strassburg | Panne Kehl/Straßburg, Regeln über die Grenze | Practical + legal | done (cycle 12) |
+| ratgeber-auto-springt-nicht-an | Auto springt nicht an, Ursache nach Symptom | Diagnosis how-to | done (cycle 13) |
+| ratgeber-kupplung-defekt | Kupplung defekt, Symptome, was tun | Immediate how-to | done (cycle 13); no repair costs quoted |
 | ratgeber-tiefgarage-parkhaus-liegengeblieben | Tiefgarage/Parkhaus, Durchfahrtshöhe, Rampen | Practical | done (cycle 5) |
 | kontakt, impressum, datenschutz | Utility | – | kontakt done; impressum/datenschutz drafts (B1) |
 
@@ -82,7 +84,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | Canonical | added cycle 1 (based on `$BASE`, see B2) |
 | Open Graph | added cycle 1 (og:image = existing hero photo) |
 | Breadcrumbs (visible + JSON-LD) | added cycle 1 |
-| `sitemap.xml` | added cycle 1 (39 URLs after cycle 12). Not referenced from robots.txt while the preview blocks crawling |
+| `sitemap.xml` | added cycle 1 (41 URLs after cycle 13). Not referenced from robots.txt while the preview blocks crawling |
 | FAQPage schema | generated from the visible `<details>` FAQs |
 | Organization/business schema | AutomotiveBusiness with `areaServed` on region and Köln pages; no street address invented (home page uses the real Antwerp address) |
 | Internal links | related-block on all guides, footer with all clusters; every page has ≥ 2 inbound links |
@@ -164,3 +166,7 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 ### Cycle 12 (2026-09-26, cron) – Kehl/Straßburg
 - New guide `ratgeber-panne-kehl-strassburg`, linked from the Offenburg page, Ratgeber index and related blocks. It is honest about scope (German side only) and includes a dated Crit'Air section attributed to the Stadt Kehl; needs a re-check before any launch.
 - Remaining backlog: A8/Pforzheim (service area), Südtangente (Karlsruhe page probably enough). Little left that can be built without owner input.
+
+### Cycle 13 (2026-09-26, cron) – two master-list guides
+- Added `ratgeber-auto-springt-nicht-an` (symptom table, sources: ADAC/consumer sites) and `ratgeber-kupplung-defekt` (symptoms, why not to keep driving). The master instruction listed both topics; repair costs deliberately not quoted (sources give numbers but they are not our prices).
+- Master-list topics now all covered except "Fahrzeug ohne Schlüssel bewegen" (covered inside ausgesperrt/Keyless) and "Auto nicht in Neutral schaltbar" (covered in Automatik page).

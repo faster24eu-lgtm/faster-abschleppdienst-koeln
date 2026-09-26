@@ -68,3 +68,13 @@ ratgeber-winterpanne-schwarzwald	abschleppdienst-a5.html	Panne auf der A5	Rastan
 ratgeber-panne-kehl-strassburg	abschleppdienst-offenburg.html	Abschleppdienst Offenburg	Kehl, Appenweier, Ortenau
 ratgeber-panne-kehl-strassburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Das deutsche Vorgehen
 ratgeber-panne-kehl-strassburg	abschleppdienst-a5.html	Panne auf der A5	Ausfahrt Appenweier
+ratgeber-auto-springt-nicht-an	ratgeber-starthilfe-batterie.html	Starthilfe und leere Batterie	Der häufigste Grund
+ratgeber-auto-springt-nicht-an	ratgeber-falsch-getankt.html	Falsch getankt	Wenn der Kraftstoff schuld ist
+ratgeber-auto-springt-nicht-an	pannenhilfe-koeln.html	Pannenhilfe Köln	Was vor Ort möglich ist
+ratgeber-kupplung-defekt	ratgeber-automatik-abschleppen.html	Automatikauto abschleppen	Ohne Kupplungspedal
+ratgeber-kupplung-defekt	ratgeber-motor-geht-aus.html	Motor geht während der Fahrt aus	Weitere Ausfälle
+ratgeber-kupplung-defekt	abschleppen-bergung-koeln.html	Abschleppen und Bergung Köln	Ablauf und Vorbereitung
+ratgeber-motor-geht-aus	ratgeber-auto-springt-nicht-an.html	Auto springt nicht an	Wenn er nicht mehr startet
+ratgeber-starthilfe-batterie	ratgeber-auto-springt-nicht-an.html	Auto springt nicht an	Ursache nach Symptom
+ratgeber-automatik-abschleppen	ratgeber-kupplung-defekt.html	Kupplung defekt	Schaltgetriebe im Vergleich
+ratgeber-abschleppseil-oder-abschleppdienst	ratgeber-kupplung-defekt.html	Kupplung defekt	Wenn kein Gang mehr geht

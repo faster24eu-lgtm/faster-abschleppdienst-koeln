@@ -1,0 +1,76 @@
+=== ratgeber-auto-springt-nicht-an | Auto springt nicht an: Ursache nach Symptom finden | Auto startet nicht: Was Klicken, Durchdrehen oder Stille bedeuten, welche Ursachen wahrscheinlich sind und wann Sie Hilfe rufen sollten. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Auto springt nicht an: Ursache nach Symptom finden</h1><p class="lead">Die wichtigste Frage lautet: Was passiert, wenn Sie starten? Die Antwort grenzt die Ursache schon stark ein.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zuerst eine Frage: Dreht der Anlasser?</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Was Sie hören</th><th>Was das meist heißt</th></tr></thead><tbody>
+<tr><td>Nichts, kein Licht im Cockpit</td><td>Batterie leer oder Batteriepol lose</td></tr>
+<tr><td>Ein einzelnes Klicken, sonst nichts</td><td>Batterie zu schwach, Anlasser oder Anschluss</td></tr>
+<tr><td>Anlasser dreht langsam</td><td>Batterie schwach, oft bei Kälte</td></tr>
+<tr><td>Anlasser dreht schnell, Motor springt nicht an</td><td>Kraftstoff, Zündung, bei Diesel das Glühsystem, oder Sensorik</td></tr>
+<tr><td>Anlasser reagiert nicht, Cockpit leuchtet</td><td>Wegfahrsperre, Schlüssel, Anlasser oder Startfreigabe</td></tr>
+</tbody></table></div>
+<p>In den meisten Fällen steckt eine schwache oder leere Batterie dahinter. Danach folgen Anlasser und Kraftstoffversorgung.</p>
+<h2>Anlasser dreht nicht</h2>
+<ul class="ticks">
+<li><strong>Batterie:</strong> Licht, Radio oder Zentralverriegelung funktionieren nicht oder nur schwach. Starthilfe ist hier der erste Versuch, siehe <a href="ratgeber-starthilfe-batterie.html">Starthilfe und leere Batterie</a>.</li>
+<li><strong>Polklemmen:</strong> Lose oder korrodierte Klemmen unterbrechen den Strom. Wenn Sie sie sicher erreichen, prüfen Sie sie.</li>
+<li><strong>Automatik:</strong> Steht der Wählhebel in P oder N? Treten Sie beim Start die Bremse.</li>
+<li><strong>Wegfahrsperre:</strong> Wenn der Schlüssel einen defekten Transponder hat oder das Fahrzeug ihn nicht erkennt, verweigert das System den Start. Probieren Sie den Ersatzschlüssel. Bei Keyless-Go kann eine schwache Schlüsselbatterie schuld sein.</li>
+</ul>
+<h2>Anlasser dreht, Motor springt nicht an</h2>
+<ul class="ticks">
+<li><strong>Kraftstoff:</strong> Tank leer? Falsch getankt? Dann nicht weiter probieren, siehe <a href="ratgeber-falsch-getankt.html">Falsch getankt</a>. Auch eine defekte Kraftstoffpumpe oder ein verstopfter Filter unterbricht die Versorgung.</li>
+<li><strong>Dieselmotor im Winter:</strong> Defekte Glühkerzen verhindern oft einen Kaltstart, während der warme Motor noch startet.</li>
+<li><strong>Zündung oder Sensor:</strong> Zündanlage, Kurbelwellensensor oder Steuergerät. Das lässt sich nur in der Werkstatt prüfen.</li>
+<li><strong>Marderbiss:</strong> Durchgebissene Kabel oder Schläuche können den Start verhindern.</li>
+</ul>
+<h2>Was Sie nicht tun sollten</h2>
+<ul class="ticks">
+<li>Nicht minutenlang orgeln. Das entlädt die Batterie und kann den Anlasser überlasten. Zwischen den Versuchen einige Sekunden bis Minuten Pause.</li>
+<li>Kein Startspray in den Ansaugtrakt sprühen, wenn Sie nicht genau wissen, was Sie tun.</li>
+<li>Nicht anschieben, wenn Ihr Fahrzeug ein Automatikgetriebe, einen Katalysator oder eine empfindliche Technik hat. Bei vielen modernen Autos ist das nicht vorgesehen.</li>
+</ul>
+<h2>Wann Sie Hilfe rufen sollten</h2>
+<p>Wenn Starthilfe nicht hilft, Warnleuchten brennen (siehe <a href="ratgeber-warnleuchten-auto.html">Warnleuchten im Auto</a>), Rauch aus dem Motorraum kommt oder Sie an einer gefährlichen Stelle stehen. Dann wird das Fahrzeug auf einem Plateauwagen zur Werkstatt gebracht. Bei Hybrid und Elektro ist das ohnehin der sichere Weg, siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Mein Auto klickt nur. Ist der Anlasser kaputt?</summary><div>Meist ist die Batterie zu schwach. Erst wenn Starthilfe nichts bringt, ist der Anlasser ein Kandidat.</div></details>
+<details><summary>Warum springt mein Diesel nur bei Kälte nicht an?</summary><div>Bei Dieselmotoren können defekte Glühkerzen einen Kaltstart verhindern. Ein warmer Motor startet dann oft noch.</div></details>
+<details><summary>Darf ich mein Auto anschieben?</summary><div>Bei vielen modernen Fahrzeugen, besonders Automatik, ist das nicht vorgesehen. Lesen Sie die Betriebsanleitung.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-kupplung-defekt | Kupplung defekt: Symptome und was Sie jetzt tun sollten | Kupplungspedal hängt, Gang geht nicht rein, Kupplung rutscht: Symptome, warum Sie nicht weiterfahren sollten und wie das Fahrzeug transportiert wird. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Kupplung defekt: Symptome und was jetzt zu tun ist</h1><p class="lead">Wenn sich kein Gang mehr einlegen lässt oder das Pedal unten bleibt, ist Weiterfahren keine gute Idee.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Woran Sie eine defekte Kupplung erkennen</h2>
+<ul class="ticks">
+<li><strong>Kupplung trennt nicht mehr:</strong> Die Kupplungsscheibe berührt auch bei getretenem Pedal noch das Schwungrad. Gänge lassen sich nur mit Kraft oder gar nicht einlegen.</li>
+<li><strong>Das Kupplungspedal bleibt unten oder kommt nicht zurück.</strong> Ursache ist oft ein klemmender Nehmerzylinder oder eine gebrochene Rückholfeder.</li>
+<li><strong>Das Pedal fühlt sich weich an</strong> oder hat plötzlich viel Leerweg.</li>
+<li><strong>Die Kupplung rutscht:</strong> Die Drehzahl steigt, das Fahrzeug beschleunigt aber nicht entsprechend.</li>
+<li><strong>Brandgeruch,</strong> Rucken beim Anfahren oder Geräusche beim Treten des Pedals.</li>
+</ul>
+<h2>Was Sie sofort tun</h2>
+<ol>
+<li>Warnblinker einschalten und, solange es geht, an einen sicheren Ort rollen.</li>
+<li>Wenn Sie nicht mehr schalten können, aber noch rollen: Ausrollen lassen, Fahrzeug abstellen, nicht mit Gewalt einen Gang zwingen.</li>
+<li>Handbremse anziehen, Warnweste an, hinter die Leitplanke, wenn Sie auf einer schnellen Straße stehen. Siehe <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</li>
+<li>Nicht weiterfahren. Ein sicheres Schalten ist meist nicht mehr möglich, und Sie riskieren Folgeschäden am Getriebe.</li>
+</ol>
+<h2>Warum Abschleppen mit Seil selten passt</h2>
+<p>Ein Fahrzeug mit defekter Kupplung lässt sich manchmal mit Seil ziehen, wenn der Gang draußen ist. Klemmt aber das Pedal oder steckt ein Gang, lassen sich die Räder nicht frei drehen. Auf einem Plateauwagen ist das Fahrzeug einfacher zu bewegen, und Getriebe und Antrieb bleiben unbelastet. Regeln für private Abschleppversuche stehen unter <a href="ratgeber-abschleppseil-oder-abschleppdienst.html">Abschleppseil oder Abschleppdienst?</a></p>
+<h2>Was Sie uns sagen sollten</h2>
+<ul class="ticks">
+<li>Ob ein Gang eingelegt ist und ob sich das Fahrzeug schieben lässt</li>
+<li>Ob das Pedal unten bleibt oder weich ist</li>
+<li>Manuell oder Automatik (Automatikgetriebe haben keine Kupplung im herkömmlichen Sinn, siehe <a href="ratgeber-automatik-abschleppen.html">Automatikauto abschleppen</a>)</li>
+<li>Wo das Fahrzeug steht und wohin es soll</li>
+</ul>
+<h2>Nach dem Transport</h2>
+<p>Die Werkstatt prüft, ob es an Geber- oder Nehmerzylinder, Rückholfeder, Kupplungsscheibe oder Zugseil liegt. Fragen Sie vor der Reparatur nach einer Kostenschätzung. Beschreiben Sie, wie sich der Defekt angekündigt hat, das erleichtert die Diagnose.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich mit defekter Kupplung noch bis zur Werkstatt fahren?</summary><div>Davon raten wir ab. Sicheres Schalten ist meist nicht mehr möglich, und Sie riskieren Schäden am Getriebe. Lassen Sie das Fahrzeug transportieren.</div></details>
+<details><summary>Warum bleibt mein Kupplungspedal unten?</summary><div>Häufig klemmt der Nehmerzylinder oder eine Feder ist gebrochen. Die Werkstatt muss es prüfen.</div></details>
+</div></section>
+@@CTA@@
