@@ -58,7 +58,7 @@ sub schema_for {
 # extra pages: marker "=== slug | title | description | flag ===", optional body comment <!--AREAS: a, b -->. Later files override earlier slugs.
 {
   my $dir = "$Bin/content";
-  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt)) {
+  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_ratgeber.txt)) {
     open(my $ex,"<:raw","$dir/$name") or next; my $c;
     while (my $l=<$ex>) {
       if ($l =~ /^=== (\S+) \| (.*?) \| (.*) \| (\w+) ===\s*$/) { $c=$1; push @order,$c unless $P{$c}; $P{$c}={title=>"$2 | Faster Abschleppdienst",desc=>$3,flag=>$4,body=>""}; next }

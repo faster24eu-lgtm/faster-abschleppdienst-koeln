@@ -214,3 +214,7 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 
 ### Session 2, cycle at 14:55 – Notlauf
 - `ratgeber-notlauf-auto`: Notlaufprogramm as protective reaction, symptoms (drehzahlbegrenzt, träge), possible causes (Sensoren, Turbo, AGR/DPF, AdBlue), restart may lift it temporarily, Fehlerspeicher; own recommendation: no slow driving on Autobahn/Steigung, transport instead. Site at 49 pages.
+
+### Session 2, cycle at 15:25 – Ratgeber index restructured
+- The index had grown to 36 unsorted cards. It is now grouped into six sections (Panne unterwegs; Startprobleme und Technik; Unfall, Schaden und Kosten; Besondere Fahrzeuge und Regeln; Orte und Situationen; Regionale Pannenseiten). All 36 pages are reachable from it.
+- **Maintenance note:** the index page now lives in `_build/content/extra_ratgeber.txt` (loaded last, overrides the old index in `extra_guides.txt`). Add new guide cards THERE, in the matching section. The old card list in `extra_guides.txt` is dead code.
