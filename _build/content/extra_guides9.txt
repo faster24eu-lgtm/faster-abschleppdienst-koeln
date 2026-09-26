@@ -1,0 +1,34 @@
+=== ratgeber-wasserschlag-ueberschwemmung | Auto im Wasser liegengeblieben: Wasserschlag | Nach Wasserdurchfahrt oder Überflutung stehen geblieben: Motor nicht starten, Wasserschlag erkennen, Versicherung informieren, Transport. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Auto im Wasser stehen geblieben: Nicht wieder starten</h1><p class="lead">Nach einer Fahrt durch Wasser stottert der Motor oder geht aus. Der wichtigste Satz vorweg: Starten Sie ihn nicht noch einmal.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Was ein Wasserschlag ist</h2>
+<p>Saugt der Motor statt Luft Wasser an, spricht man von Wasserschlag. Wasser lässt sich nicht zusammendrücken, deshalb steht der Motor abrupt still. Dabei können Pleuelstangen verbiegen, Ventile brechen und im schlimmsten Fall der Motorblock reißen. Typische Anzeichen sind ein Motor, der nach der Wasserdurchfahrt nicht mehr startet oder mitten in der Fahrt aussetzt.</p>
+<h2>Sofort tun</h2>
+<ol>
+<li><strong>Motor abstellen, wenn er noch läuft,</strong> und nicht erneut starten. Ein Startversuch kann den Schaden erheblich vergrößern.</li>
+<li><strong>Warnblinker einschalten</strong> und aussteigen, wenn die Stelle sicher ist. Bei steigendem Wasser das Fahrzeug verlassen, bevor die Türen sich nicht mehr öffnen lassen.</li>
+<li><strong>Nicht durch fließendes Wasser waten.</strong> Auch flaches Wasser kann Sie mitreißen.</li>
+<li><strong>Hilfe rufen:</strong> Bei Gefahr für Personen die 112, sonst einen Abschleppdienst.</li>
+<li><strong>Fotos machen:</strong> Wasserstand, Fahrzeug, Umgebung. Sie brauchen sie für die Versicherung.</li>
+</ol>
+<h2>Warum das Auto nicht selbst fahren sollte</h2>
+<p>Ein Fahrzeug, das Wasser angesaugt hat, kann äußerlich unversehrt wirken. Der Schaden sitzt im Motor. Schleppen Sie es nicht mit angetriebenen Rädern, denn das dreht den Motor durch. Ein Transport auf der Ladefläche ist die sichere Lösung, besonders bei Elektro- und Hybridfahrzeugen. Bei ihnen kann Wasser außerdem Hochvoltteile und Stecker betreffen, siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</p>
+<h2>Versicherung informieren</h2>
+<p>Melden Sie den Schaden Ihrer Versicherung, bevor das Fahrzeug repariert wird. Ob und in welcher Höhe gezahlt wird, hängt von Vertrag und Umständen ab, zum Beispiel davon, ob es eine Überschwemmung war oder eine bewusste Fahrt durch überflutete Straßen. Die Werkstatt sollte den Schaden dokumentieren und die Ursache feststellen.</p>
+<h2>Was Sie beim Abschleppdienst angeben sollten</h2>
+<ul class="ticks">
+<li>Wo das Fahrzeug steht und wie hoch das Wasser ist</li>
+<li>Ob das Wasser noch steigt oder die Straße gesperrt ist</li>
+<li>Fahrzeug und Antrieb</li>
+<li>Ob der Motor nach dem Wasserkontakt gestartet wurde oder nicht</li>
+<li>Ob sich Türen und Türschlösser noch bedienen lassen</li>
+</ul>
+<p>Wenn Ihr Auto in einer Tiefgarage oder Unterführung im Wasser steht, hilft der Ratgeber <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Tiefgarage und Parkhaus</a>.</p>
+<h2>Vorbeugen</h2>
+<p>Überflutete Straßen sollten Sie nicht durchfahren. Ist das unvermeidbar, fahren Sie langsam und gleichmäßig, damit keine Bugwelle entsteht, und halten Sie die Drehzahl konstant.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich es noch einmal kurz probieren?</summary><div>Nein. Starten Sie den Motor nach Wasserkontakt nicht, bis eine Werkstatt ihn geprüft hat.</div></details>
+<details><summary>Was heißt Wasserschlag?</summary><div>Der Motor saugt Wasser statt Luft an und bleibt abrupt stehen. Das kann Pleuel, Ventile und Motorblock beschädigen.</div></details>
+</div></section>
+@@CTA@@

@@ -82,3 +82,7 @@ ratgeber-wildunfall	ratgeber-unfall-abschleppkosten.html	Abschleppkosten nach ei
 ratgeber-wildunfall	ratgeber-nach-unfall-fahrbereit.html	Nach dem Unfall: fahrbereit?	Kriterien im Überblick
 ratgeber-wildunfall	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Sicher stehen
 ratgeber-unfall-abschleppkosten	ratgeber-wildunfall.html	Wildunfall	Teilkasko und Bescheinigung
+ratgeber-wasserschlag-ueberschwemmung	ratgeber-e-auto-abschleppen.html	E-Auto abschleppen	Hochvolt und Wasser
+ratgeber-wasserschlag-ueberschwemmung	ratgeber-motor-geht-aus.html	Motor geht während der Fahrt aus	Mögliche Ursachen
+ratgeber-wasserschlag-ueberschwemmung	ratgeber-tiefgarage-parkhaus-liegengeblieben.html	Tiefgarage und Parkhaus	Bergung aus Garagen
+ratgeber-motor-geht-aus	ratgeber-wasserschlag-ueberschwemmung.html	Auto im Wasser	Wenn Wasser die Ursache ist
