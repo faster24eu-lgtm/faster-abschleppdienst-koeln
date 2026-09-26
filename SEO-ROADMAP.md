@@ -241,3 +241,14 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 - Note: item 2 of the backlog ("A57/A555/A59 only as sections") is superseded by the owner's request; the pages exist and the ring page links to them.
 - Checks: 68 pages, 0 broken links, titles ≤ 60, descriptions ≤ 155, JSON-LD valid, no phrase overlap ≥ 10 % between any two pages.
 - Still open: B1–B8, plus the domain (Step 1) and the go-live switch (Step 5: remove noindex except datenschutz/impressum, robots.txt Allow + Sitemap). Step 5 is deliberately NOT done yet.
+
+### Cycle 16 (2026-09-27) – Germany-wide expansion infrastructure
+Owner decision: expand to all of Germany (partners exist everywhere), organic only, no ads yet. Reference: takeldirect.be (276 pages, lead marketplace; his 53 town pages overlap ~52 %, we deliberately do NOT template).
+- **How to add pages (do this every cycle):**
+  1. Write the page(s) into a new file `_build/content/geo_NNN.txt` (marker `=== stadt-<name> | title | description | flag ===` for cities, `=== autobahn-<a7> | … ===` for Autobahn pages; `<!--AREAS: … -->` comment feeds schema; end the body with `@@CTA@@`). Files `geo_*.txt` load automatically, before the Ratgeber index.
+  2. Add one line per page to `_build/content/geo.txt`: `slug<TAB>label<TAB>group<TAB>kind` (group = Bundesland for cities, Autobahn name like `A7` for kind `ab`). This sets the URL (`/staedte/<name>/`, `/autobahnen/<a7>/`), breadcrumbs and the generated hubs `/staedte/` and `/autobahnen/`.
+  3. Add related-links lines to `related.txt` and in-body links to two neighbouring cities.
+  4. `perl _build/build.pl`, audits, commit, push.
+- Hubs `/staedte/` (grouped by Bundesland) and `/autobahnen/` are generated from `geo.txt`; linked from the root home page and from the header menu ("Alle Städte"). Existing Köln, Karlsruhe region and A1/A3/A4/A5/A57/A59/A555 pages are already listed in `geo.txt`.
+- Claim to confirm with owner: hub text "in vielen Fällen können wir auch dort Hilfe organisieren" (cities not listed) — owner says partners exist everywhere.
+- Tiers: 1) ~80 largest cities (700+ words, real per-city facts), 2) Autobahn pages with real exit lists, 3) Landkreis/town pages only with unique content and 25 % max overlap.

@@ -1,0 +1,13 @@
+# slug<TAB>label<TAB>group (Bundesland for cities, Autobahn name for ab)<TAB>kind (empty = city, ab = autobahn)
+index	Köln	Nordrhein-Westfalen	
+abschleppdienst-karlsruhe	Karlsruhe	Baden-Württemberg	
+abschleppdienst-baden-baden	Baden-Baden	Baden-Württemberg	
+abschleppdienst-offenburg	Offenburg	Baden-Württemberg	
+abschleppdienst-achern	Achern	Baden-Württemberg	
+pannenhilfe-a1-koeln	A1 bei Köln	A1	ab
+pannenhilfe-a3-koeln	A3 bei Köln	A3	ab
+pannenhilfe-a4-koeln	A4 bei Köln	A4	ab
+abschleppdienst-a5	A5 Karlsruhe bis Offenburg	A5	ab
+koeln-a57	A57 bei Köln	A57	ab
+koeln-a59	A59 bei Köln	A59	ab
+koeln-a555	A555 Köln bis Bonn	A555	ab

@@ -58,7 +58,7 @@ sub schema_for {
 # extra pages: marker "=== slug | title | description | flag ===", optional body comment <!--AREAS: a, b -->. Later files override earlier slugs.
 {
   my $dir = "$Bin/content";
-  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_guides14.txt extra_koeln5.txt extra_koeln6.txt extra_guides15.txt extra_home.txt extra_ratgeber.txt)) {
+  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_guides14.txt extra_koeln5.txt extra_koeln6.txt extra_guides15.txt extra_home.txt), (map { s{.*/}{}r } sort glob("$Bin/content/geo_*.txt")), qw(extra_ratgeber.txt)) {
     open(my $ex,"<:raw","$dir/$name") or next; my $c;
     while (my $l=<$ex>) {
       if ($l =~ /^=== (\S+) \| (.*?) \| (.*) \| (\w+) ===\s*$/) { $c=$1; push @order,$c unless $P{$c}; $P{$c}={title=>"$2 | Faster Abschleppdienst",desc=>$3,flag=>$4,body=>""}; next }
@@ -136,9 +136,9 @@ sub fix_links {
   return $html;
 }
 my %MENU = (
-  koeln     => [['Köln','index'],['Pannenhilfe','pannenhilfe-koeln'],['Autobahnen','pannenhilfe-koelner-autobahnring'],['Stadtteile','abschleppdienst-koeln-stadtteile'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
-  karlsruhe => [['Karlsruhe &amp; Mittelbaden','abschleppdienst-mittelbaden'],['Karlsruhe','abschleppdienst-karlsruhe'],['A5','abschleppdienst-a5'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
-  shared    => [['Köln','index'],['Karlsruhe &amp; Mittelbaden','abschleppdienst-mittelbaden'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
+  koeln     => [['Köln','index'],['Pannenhilfe','pannenhilfe-koeln'],['Autobahnen','pannenhilfe-koelner-autobahnring'],['Stadtteile','abschleppdienst-koeln-stadtteile'],['Alle Städte','staedte'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
+  karlsruhe => [['Karlsruhe &amp; Mittelbaden','abschleppdienst-mittelbaden'],['Karlsruhe','abschleppdienst-karlsruhe'],['A5','abschleppdienst-a5'],['Alle Städte','staedte'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
+  shared    => [['Köln','index'],['Karlsruhe &amp; Mittelbaden','abschleppdienst-mittelbaden'],['Alle Städte','staedte'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
 );
 $CRUMB_PARENT{'index'} = ['home','Köln &amp; Umgebung'];
 $CRUMB_PARENT{'abschleppdienst-mittelbaden'} = ['home','Karlsruhe &amp; Mittelbaden'];
@@ -154,6 +154,36 @@ $CRUMB_PARENT{'ratgeber-panne-im-tunnel'} = ['ratgeber','Panne im Tunnel'];
 $CRUMB_PARENT{'ratgeber-umweltzone-koeln'} = ['ratgeber','Umweltzone Köln'];
 $CRUMB_PARENT{'ratgeber-abschleppen-koeln-kosten'} = ['ratgeber','Kosten in Köln'];
 $CRUMB_LABEL{'home'} = 'Start';
+# ---- Germany-wide layer: content/geo.txt lists city / Autobahn pages (slug<TAB>label<TAB>group). stadt-* -> /staedte/<x>/, autobahn-* -> /autobahnen/<x>/. Hubs are generated. ----
+my (@GEO_CITY,@GEO_AB);
+{
+  $PATH{'staedte'}='staedte'; $PATH{'autobahnen'}='autobahnen';
+  $CRUMB_PARENT{'staedte'}=['home','Städte']; $CRUMB_PARENT{'autobahnen'}=['home','Autobahnen'];
+  if (open(my $gf,"<:raw","$Bin/content/geo.txt")) {
+    while (my $l=<$gf>) { chomp $l; next if $l =~ /^\s*(#|$)/; my ($slug,$label,$group,$kind)=split /\t/,$l;
+      next unless $P{$slug};
+      (my $lab=$label) =~ s/&/&amp;/g;
+      if ($slug =~ /^stadt-(.+)$/)    { $PATH{$slug}="staedte/$1";    $CRUMB_PARENT{$slug}=['staedte',$lab]; }
+      elsif ($slug =~ /^autobahn-(.+)$/) { $PATH{$slug}="autobahnen/$1"; $CRUMB_PARENT{$slug}=['autobahnen',$lab]; }
+      if (($kind//'') eq 'ab') { push @GEO_AB,[$slug,$lab,$group]; } else { push @GEO_CITY,[$slug,$lab,$group]; }
+    }
+    close $gf;
+  }
+  my $tbl = sub { my ($rows,$h1,$h2)=@_; my $t='<div class="tblwrap"><table class="tbl"><thead><tr><th>'.$h1.'</th><th>'.$h2.'</th></tr></thead><tbody>'."\n"; for my $r (@$rows) { $t .= "<tr><td>$r->[0]</td><td>$r->[1]</td></tr>\n" } $t.'</tbody></table></div>' };
+  my %by; push @{$by{$_->[2]}}, $_ for @GEO_CITY;
+  my @rows; for my $g (sort keys %by) { push @rows, [$g, join(', ', map { qq{<a href="$_->[0].html">$_->[1]</a>} } sort { $a->[1] cmp $b->[1] } @{$by{$g}})]; }
+  $P{'staedte'} = { title=>'Abschleppdienst in Deutschland: Städte | Faster Abschleppdienst', desc=>'Abschleppdienst und Pannenhilfe in deutschen Städten: Übersicht nach Bundesland mit Seiten zu Stadtteilen, Autobahnen und Hinweisen für Ihren Standort.', flag=>'hub',
+    body=>'<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Deutschlandweit</p><h1>Abschleppdienst in Ihrer Stadt</h1><p class="lead">Zu jeder Stadt in dieser Übersicht gibt es eine eigene Seite mit Stadtteilen, Autobahnen und Hinweisen, wie Sie Ihren Standort beschreiben. Rufen Sie an oder schreiben Sie per WhatsApp: wir organisieren die Hilfe.</p></div></section>'."\n".
+    '<section class="section"><div class="wrap narrow copy"><h2>Städte nach Bundesland</h2>'."\n".$tbl->(\@rows,'Bundesland','Städte')."\n".
+    '<h2>Ihre Stadt fehlt?</h2><p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze in Deutschland übernehmen Partner vor Ort. Wenn Ihre Stadt hier noch nicht aufgeführt ist, rufen Sie trotzdem an oder schreiben Sie uns per WhatsApp mit Ihrem Standort: in vielen Fällen können wir auch dort Hilfe organisieren. Auf den <a href="autobahnen.html">Autobahn-Seiten</a> finden Sie Ausfahrten und Hinweise zu den wichtigsten Strecken.</p>'."\n".'</div></section>'."\n".'@@CTA@@'."\n" };
+  push @order,'staedte' unless grep { $_ eq 'staedte' } @order;
+  my @abr = map { [$_->[2], qq{<a href="$_->[0].html">$_->[1]</a>}] } sort { $a->[2] cmp $b->[2] || $a->[1] cmp $b->[1] } @GEO_AB;
+  $P{'autobahnen'} = { title=>'Pannenhilfe auf deutschen Autobahnen | Faster Abschleppdienst', desc=>'Panne auf der Autobahn in Deutschland: Seiten zu einzelnen Autobahnen mit Ausfahrten, Rastanlagen und Hinweisen, was bei einer Panne zu tun ist.', flag=>'hub',
+    body=>'<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Deutschlandweit</p><h1>Pannenhilfe auf der Autobahn</h1><p class="lead">Wer auf der Autobahn liegen bleibt, muss schnell sagen können, wo er steht. Zu den Strecken in dieser Übersicht finden Sie Ausfahrten, Kreuze und Hinweise für Ihre Standortangabe.</p></div></section>'."\n".
+    '<section class="section"><div class="wrap narrow copy"><h2>Autobahnen und Abschnitte</h2>'."\n".$tbl->(\@abr,'Autobahn','Seite')."\n".
+    '<p>Allgemeine Schritte bei einer Panne, von Warnblinker bis Notrufsäule, finden Sie im <a href="ratgeber-panne-autobahn.html">Ratgeber zur Panne auf der Autobahn</a>. Die Einsätze übernehmen Partner vor Ort, Faster (Antwerpen, Belgien) koordiniert die Hilfe.</p>'."\n".'</div></section>'."\n".'@@CTA@@'."\n" };
+  push @order,'autobahnen' unless grep { $_ eq 'autobahnen' } @order;
+}
 
 sub service_ld {
   my ($slug,$name,$curl,$areas)=@_;
