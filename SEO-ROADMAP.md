@@ -224,3 +224,7 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 
 ### Session 2, cycle at 16:25 – Servolenkung
 - `ratgeber-servolenkung-ausgefallen` (hydraulic vs. electric Servo, Warnleuchte colours, slow down and stop, do not continue, transport). Card added to `extra_ratgeber.txt` (section "Panne unterwegs"). Site at 50 pages.
+
+### Session 2, cycle at 16:55 – QA pass (no content change)
+- Live crawl of all 50 sitemap URLs: all HTTP 200. Every page `noindex, nofollow`; no old Belgian phone number or Dutch/French brand strings; every Ratgeber guide is linked from the index; no "€" on any Köln page; exactly one H1 per page (two pages were briefly flagged because the shell hit a transient fork failure; re-checked individually: fine).
+- No new page: remaining ideas (Reifendruck, Kühlmittel, Hagel/Sturm) are thin or not towing-related; not built.
