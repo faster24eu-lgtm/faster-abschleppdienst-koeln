@@ -187,3 +187,9 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 
 ### Schedule end (2026-09-26 08:31)
 - The hourly cron job was deleted after the 08:30 cutoff. No further automatic cycles. To continue, start a new session and point it at this file and `_build/README.md`. Open owner questions: B1–B8 above (Impressum data, domain, price/hotline confirmation, Einsatzgebiet, Autoentsorgung, Pforzheim, native proofreading).
+
+### Session 2 (2026-09-26, 12:57 onward) – new topic ideas beyond the first backlog
+- Owner asked to keep going. The old backlog is exhausted without owner input, so new genuinely relevant ideas were listed (below) and are worked one at a time, only where facts can be sourced.
+- **Built:** `ratgeber-wildunfall` (police, Jäger/Förster, Wildunfallbescheinigung, Teilkasko for Haarwild, do not take the animal, fahrbereit checklist). Linked from Ratgeber index, Unfall pages and related blocks.
+- **Rejected:** "Panne am Bahnübergang" – the search results were largely Swiss (emergency numbers 117/144, Sollbruchstellen advice); no reliable German source found, and giving wrong emergency advice is worse than no page.
+- **Idea list (new):** Aquaplaning/Wasserdurchfahrt and Fahrzeug im Wasser (Motorschaden bei Wasserschlag), Reifendruck/Reifenpanne-Prävention (thin), Fahrzeug im Graben bergen (Bergungsablauf; could extend abschleppen-bergung-koeln), Hagel/Sturmschaden (not towing), Nebel/Stau-Panne (Rettungsgasse; partly covered), Pannenset-Reifen (covered in Reifenpanne), Ölverlust/Ölspur (check who to inform), Batterie im Winter prevention (covered).

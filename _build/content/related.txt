@@ -78,3 +78,7 @@ ratgeber-motor-geht-aus	ratgeber-auto-springt-nicht-an.html	Auto springt nicht a
 ratgeber-starthilfe-batterie	ratgeber-auto-springt-nicht-an.html	Auto springt nicht an	Ursache nach Symptom
 ratgeber-automatik-abschleppen	ratgeber-kupplung-defekt.html	Kupplung defekt	Schaltgetriebe im Vergleich
 ratgeber-abschleppseil-oder-abschleppdienst	ratgeber-kupplung-defekt.html	Kupplung defekt	Wenn kein Gang mehr geht
+ratgeber-wildunfall	ratgeber-unfall-abschleppkosten.html	Abschleppkosten nach einem Unfall	Wer zahlt?
+ratgeber-wildunfall	ratgeber-nach-unfall-fahrbereit.html	Nach dem Unfall: fahrbereit?	Kriterien im Überblick
+ratgeber-wildunfall	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Sicher stehen
+ratgeber-unfall-abschleppkosten	ratgeber-wildunfall.html	Wildunfall	Teilkasko und Bescheinigung

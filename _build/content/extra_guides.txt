@@ -3,6 +3,7 @@
 <section class="section"><div class="wrap"><h2>Wenn etwas passiert ist</h2><div class="cards3">
 <article class="card"><h3>Panne auf der Autobahn</h3><p>Warndreieck, Warnweste, Notrufsäule: die Schritte in der richtigen Reihenfolge.</p><a href="ratgeber-panne-autobahn.html">Lesen →</a></article>
 <article class="card"><h3>Abschleppkosten nach einem Unfall</h3><p>Wer zahlt, wer sucht den Abschleppdienst aus und wohin darf das Auto?</p><a href="ratgeber-unfall-abschleppkosten.html">Lesen →</a></article>
+<article class="card"><h3>Wildunfall</h3><p>Polizei, Wildunfallbescheinigung, Teilkasko und die Frage, ob das Auto noch fahren darf.</p><a href="ratgeber-wildunfall.html">Lesen →</a></article>
 <article class="card"><h3>Nach dem Unfall: fahrbereit?</h3><p>Woran Sie erkennen, ob das Auto noch verkehrssicher ist oder abgeschleppt werden sollte.</p><a href="ratgeber-nach-unfall-fahrbereit.html">Lesen →</a></article>
 <article class="card"><h3>Falsch getankt</h3><p>Was Sie sofort tun und lassen sollten, damit aus einem Fehler kein Motorschaden wird.</p><a href="ratgeber-falsch-getankt.html">Lesen →</a></article>
 <article class="card"><h3>Ausgesperrt</h3><p>Schlüssel im Auto: Wege, das Fahrzeug ohne Schaden zu öffnen.</p><a href="ratgeber-ausgesperrt.html">Lesen →</a></article>
