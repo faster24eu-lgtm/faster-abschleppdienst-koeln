@@ -184,3 +184,6 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 - Checks passed: every page `noindex, nofollow`; no old (Belgian) phone number anywhere; exactly one H1 per page; no duplicate titles; every image has alt text; one canonical host; one phone number (+49 176 41956993) used consistently.
 - Only Köln-page mention of "Preis": one general sentence on the home page pointing to the cost guide ("Wie Preise für Abschleppdienste allgemein zustande kommen"), no promise or number.
 - Yellow placeholder marks remain only on `abschleppdienst-mittelbaden` (Anfahrtszeit, Zahlungsarten), `impressum` and `datenschutz` (blockers B1/B4).
+
+### Schedule end (2026-09-26 08:31)
+- The hourly cron job was deleted after the 08:30 cutoff. No further automatic cycles. To continue, start a new session and point it at this file and `_build/README.md`. Open owner questions: B1–B8 above (Impressum data, domain, price/hotline confirmation, Einsatzgebiet, Autoentsorgung, Pforzheim, native proofreading).
