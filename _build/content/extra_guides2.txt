@@ -1,4 +1,4 @@
-=== ratgeber-warnleuchten-auto | Warnleuchten im Auto: Wann Sie sofort anhalten müssen | Rote und gelbe Warnleuchten im Auto: Öldruck, Kühlmittel, Batterie, Bremse und Motorkontrollleuchte. Was sie bedeuten und wann Weiterfahren nicht mehr geht. | page ===
+=== ratgeber-warnleuchten-auto | Warnleuchten im Auto: Wann Sie sofort anhalten müssen | Rote und gelbe Warnleuchten im Auto: Öldruck, Kühlmittel, Batterie, Bremse, Motorkontrollleuchte. Was sie bedeuten und wann Weiterfahren nicht mehr geht. | page ===
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Warnleuchten im Auto: Wann Sie sofort anhalten müssen</h1><p class="lead">Nicht jede Leuchte im Cockpit ist ein Notfall. Die Farbe verrät, wie dringend es ist, und bei einigen roten Symbolen gilt: rechts ran, Motor aus.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Die Farben in Kürze</h2>
@@ -40,7 +40,7 @@
 <details><summary>Kann ich die Ölstandsleuchte ignorieren, wenn der Ölstand normal aussieht?</summary><div>Nein. Ein niedriger Öldruck kann auch bei ausreichendem Ölstand auftreten, etwa durch eine defekte Pumpe. Halten Sie an.</div></details>
 </div></section>
 @@CTA@@
-=== ratgeber-motor-ueberhitzt | Motor überhitzt: Sofortmaßnahmen und Ursachen | Motor überhitzt oder Kühlmittelwarnung: was Sie beim Anhalten tun, warum Sie den Kühlerdeckel nicht öffnen sollten und wann ein Abschleppdienst nötig ist. | page ===
+=== ratgeber-motor-ueberhitzt | Motor überhitzt: Sofortmaßnahmen und Ursachen | Motor überhitzt oder Kühlmittelwarnung: Was Sie beim Anhalten tun, warum der Kühlerdeckel zubleibt und wann ein Abschleppdienst nötig ist. | page ===
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Motor überhitzt: Was tun?</h1><p class="lead">Die Temperaturanzeige steigt, Dampf kommt unter der Haube hervor, oder es leuchtet ein rotes Thermometer. Dann zählt jede Minute, aber Hast hilft nicht.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Sofort während der Fahrt</h2>

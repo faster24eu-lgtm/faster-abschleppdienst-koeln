@@ -145,7 +145,7 @@
 </div></section>
 <section class="section"><div class="wrap narrow"><h2>Weitere Regionen</h2><div class="related"><a href="abschleppdienst-achern.html">Achern &amp; Bühl<small>Ausfahrt 53</small></a><a href="abschleppdienst-a5.html">Panne auf der A5<small>Alle Ausfahrten</small></a><a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn<small>Was tun?</small></a></div></div></section>
 @@CTA@@
-=== abschleppdienst-a5 | Abschleppdienst A5 – Panne zwischen Karlsruhe und Offenburg | Panne auf der A5 zwischen Karlsruhe und Offenburg? Ausfahrten 43 bis 56, Rastanlagen, Verhalten und Hilfe. 24h erreichbar, Preis vorab. | page ===
+=== abschleppdienst-a5 | Abschleppdienst A5: Panne Karlsruhe bis Offenburg | Panne auf der A5 zwischen Karlsruhe und Offenburg? Ausfahrten 43 bis 56, Rastanlagen, Verhalten und Hilfe. 24h erreichbar, Preis vorab. | page ===
 <!--AREAS: Karlsruhe, Rastatt, Baden-Baden, Bühl, Achern, Appenweier, Offenburg, Lahr -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn A5</p><h1>Abschleppdienst A5: Panne zwischen Karlsruhe und Offenburg</h1><p class="lead">Sie stehen auf der A5? Sichern Sie zuerst die Stelle, dann rufen Sie an. Nennen Sie uns Fahrtrichtung und die letzte Ausfahrt, und wir organisieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">

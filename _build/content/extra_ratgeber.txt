@@ -6,6 +6,7 @@
 <article class="card"><h3>Motor überhitzt</h3><p>Sofortmaßnahmen, warum der Kühlerdeckel zu bleibt und wann abgeschleppt werden muss.</p><a href="ratgeber-motor-ueberhitzt.html">Lesen →</a></article>
 <article class="card"><h3>Motor geht während der Fahrt aus</h3><p>Sicher ausrollen, was Sie prüfen können und welche Ursachen dahinterstecken.</p><a href="ratgeber-motor-geht-aus.html">Lesen →</a></article>
 <article class="card"><h3>Auto im Notlauf</h3><p>Leistung weg, Motorleuchte an: was das Notlaufprogramm bedeutet und wie es weitergeht.</p><a href="ratgeber-notlauf-auto.html">Lesen →</a></article>
+<article class="card"><h3>Panne im Tunnel</h3><p>Warnblinker, Pannenbucht, Notrufstation: die Schritte in der Röhre.</p><a href="ratgeber-panne-im-tunnel.html">Lesen →</a></article>
 <article class="card"><h3>Servolenkung ausgefallen</h3><p>Lenkrad plötzlich schwer: sicher anhalten, Ursachen und warum ein Transport besser ist.</p><a href="ratgeber-servolenkung-ausgefallen.html">Lesen →</a></article>
 <article class="card"><h3>Bremsen versagen</h3><p>Pedal pumpen, Motorbremse, Handbremse dosiert: die Schritte im Notfall.</p><a href="ratgeber-bremsen-versagen.html">Lesen →</a></article>
 <article class="card"><h3>Reifenpanne</h3><p>Ersatzrad, Pannenset oder Abschleppen: was in welcher Lage sinnvoll ist.</p><a href="ratgeber-reifenpanne.html">Lesen →</a></article>
@@ -27,6 +28,7 @@
 <article class="card"><h3>Abschleppkosten nach einem Unfall</h3><p>Wer zahlt, wer sucht den Abschleppdienst aus und wohin darf das Auto?</p><a href="ratgeber-unfall-abschleppkosten.html">Lesen →</a></article>
 <article class="card"><h3>Wildunfall</h3><p>Polizei, Wildunfallbescheinigung, Teilkasko und die Frage, ob das Auto noch fahren darf.</p><a href="ratgeber-wildunfall.html">Lesen →</a></article>
 <article class="card"><h3>Auto im Wasser stehen geblieben</h3><p>Wasserschlag erkennen, Motor nicht starten, Versicherung informieren.</p><a href="ratgeber-wasserschlag-ueberschwemmung.html">Lesen →</a></article>
+<article class="card"><h3>Abschleppen in Köln: Kosten</h3><p>Wovon die Kosten in Köln abhängen, ohne Preisversprechen.</p><a href="ratgeber-abschleppen-koeln-kosten.html">Lesen →</a></article>
 <article class="card"><h3>Was kostet ein Abschleppdienst?</h3><p>Richtwerte, Preisfaktoren und Fragen, die Sie vorab stellen sollten.</p><a href="ratgeber-abschleppdienst-kosten.html">Lesen →</a></article>
 </div></div></section>
 <section class="section grey"><div class="wrap"><h2>Besondere Fahrzeuge und Regeln</h2><div class="cards3">
@@ -40,6 +42,7 @@
 <section class="section"><div class="wrap"><h2>Orte und Situationen</h2><div class="cards3">
 <article class="card"><h3>Tiefgarage und Parkhaus</h3><p>Durchfahrtshöhe, Rampen und die Angaben, die für die Bergung aus einer Garage zählen.</p><a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Lesen →</a></article>
 <article class="card"><h3>Winterpanne im Schwarzwald</h3><p>Schwarzwaldhochstraße, Winterreifenpflicht und Verhalten, wenn Sie im Schnee festsitzen.</p><a href="ratgeber-winterpanne-schwarzwald.html">Lesen →</a></article>
+<article class="card"><h3>Umweltzone Köln</h3><p>Grüne Plakette, Bußgeld, Ausnahmen und was wir nicht sicher wissen.</p><a href="ratgeber-umweltzone-koeln.html">Lesen →</a></article>
 <article class="card"><h3>Panne bei Kehl und Straßburg</h3><p>Was in Frankreich anders ist: Autobahn, Warnweste, Crit'Air-Umweltzone.</p><a href="ratgeber-panne-kehl-strassburg.html">Lesen →</a></article>
 </div></div></section>
 <section class="section grey"><div class="wrap"><h2>Regionale Pannenseiten: Köln und A5</h2><div class="cards3">

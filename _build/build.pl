@@ -5,8 +5,8 @@ my $WA  = 'https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20
 
 my $header = <<'EOT';
 <header class="site-header"><div class="wrap nav">
-  <a class="brand" href="index.html" aria-label="Faster Abschleppdienst - Startseite"><img src="assets/faster-logo-de-600.png" alt="Faster Abschleppdienst Logo" width="110" height="38"><span><strong>FASTER</strong><small>ABSCHLEPPDIENST &amp; PANNENHILFE</small></span></a>
-  <nav class="menu" aria-label="Hauptnavigation"><a href="index.html">Köln</a><a href="abschleppdienst-mittelbaden.html">Karlsruhe &amp; Mittelbaden</a><a href="abschleppdienst-a5.html">A5</a><a href="ratgeber.html">Ratgeber</a><a href="kontakt.html">Kontakt</a></nav>
+  <a class="brand" href="home.html" aria-label="Faster Abschleppdienst - Startseite"><img src="assets/faster-logo-de-600.png" alt="Faster Abschleppdienst Logo" width="110" height="38"><span><strong>FASTER</strong><small>ABSCHLEPPDIENST &amp; PANNENHILFE</small></span></a>
+  <nav class="menu" aria-label="Hauptnavigation">@@MENU@@</nav>
   <div class="nav-cta"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp</a><a class="btn btn-y hide-s" href="tel:+4917641956993">+49 176 41956993</a></div>
 </div></header>
 EOT
@@ -37,7 +37,7 @@ if (open(my $mb,'<:raw',"$Bin/content/mittelbaden_body.html")) {
   $b =~ s/\@\@WA2\@\@/$wa2/g;
   push @order,'abschleppdienst-mittelbaden';
   $P{'abschleppdienst-mittelbaden'}={
-    title=>'Abschleppdienst Karlsruhe bis Offenburg: Festpreis ab 129 €',
+    title=>'Abschleppdienst Karlsruhe bis Offenburg ab 129 €',
     desc=>'Panne oder Unfall zwischen Karlsruhe, Baden-Baden, Achern und Offenburg? 24h Abschleppdienst und Pannenhilfe, Festpreis am Telefon. +49 176 41956993',
     flag=>'page', body=>$b};
 }
@@ -58,7 +58,7 @@ sub schema_for {
 # extra pages: marker "=== slug | title | description | flag ===", optional body comment <!--AREAS: a, b -->. Later files override earlier slugs.
 {
   my $dir = "$Bin/content";
-  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_guides14.txt extra_ratgeber.txt)) {
+  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_guides14.txt extra_koeln5.txt extra_koeln6.txt extra_guides15.txt extra_home.txt extra_ratgeber.txt)) {
     open(my $ex,"<:raw","$dir/$name") or next; my $c;
     while (my $l=<$ex>) {
       if ($l =~ /^=== (\S+) \| (.*?) \| (.*) \| (\w+) ===\s*$/) { $c=$1; push @order,$c unless $P{$c}; $P{$c}={title=>"$2 | Faster Abschleppdienst",desc=>$3,flag=>$4,body=>""}; next }
@@ -113,39 +113,120 @@ sub cta_for {
 sub plainlen { my $s=shift; $s =~ s/&amp;/&/g; $s =~ s/&[a-z]+;/x/g; length($s) }
 my @SITEMAP;
 
+# ---- Site structure: /koeln/, /karlsruhe/, /ratgeber/ ; folder URLs (each page = folder/index.html) ----
+my %PATH = (
+  'home'=>'',
+  'index'=>'koeln', 'pannenhilfe-koeln'=>'koeln/pannenhilfe', 'abschleppen-bergung-koeln'=>'koeln/abschleppen-bergung',
+  'pannenhilfe-koelner-autobahnring'=>'koeln/autobahnring', 'pannenhilfe-a1-koeln'=>'koeln/a1', 'pannenhilfe-a3-koeln'=>'koeln/a3', 'pannenhilfe-a4-koeln'=>'koeln/a4',
+  'koeln-a57'=>'koeln/a57', 'koeln-a59'=>'koeln/a59', 'koeln-a555'=>'koeln/a555', 'koeln-leverkusener-bruecke'=>'koeln/leverkusener-bruecke',
+  'abschleppdienst-koeln-stadtteile'=>'koeln/stadtteile',
+  'abschleppdienst-mittelbaden'=>'karlsruhe', 'abschleppdienst-karlsruhe'=>'karlsruhe/stadt', 'abschleppdienst-baden-baden'=>'karlsruhe/baden-baden',
+  'abschleppdienst-achern'=>'karlsruhe/achern', 'abschleppdienst-offenburg'=>'karlsruhe/offenburg', 'abschleppdienst-a5'=>'karlsruhe/a5',
+  'ratgeber'=>'ratgeber',
+);
+$PATH{"koeln-$_"} = "koeln/$_" for qw(innenstadt ehrenfeld nippes lindenthal rodenkirchen porz kalk muelheim chorweiler);
+sub path_for { my $s=shift; return $PATH{$s} if exists $PATH{$s}; return "ratgeber/$1" if $s =~ /^ratgeber-(.+)$/; return $s; }
+sub region_for { my $pa=shift; return 'koeln' if $pa =~ m{^koeln}; return 'karlsruhe' if $pa =~ m{^karlsruhe}; return 'shared'; }
+sub depth_of { my $pa=shift; return $pa eq '' ? 0 : scalar(split m{/}, $pa); }
+sub relurl { my ($from,$to)=@_; my $d=depth_of($from); my $up = $d ? ('../' x $d) : './'; return $to eq '' ? $up : ($d ? $up : './').$to.'/'; }
+sub fix_links {
+  my ($html,$from)=@_; my $d=depth_of($from); my $R = $d ? ('../' x $d) : '';
+  $html =~ s{href="([a-z0-9-]+)\.html((?:\#[^"]*)?)"}{ exists $PATH{$1} || $1 =~ /^(ratgeber-.+|kontakt|impressum|datenschutz|danke)$/ ? 'href="'.relurl($from,path_for($1)).$2.'"' : qq{href="$1.html$2"} }ge;
+  $html =~ s{(href|src)="(assets/[^"]+|styles\.css)"}{$1="$R$2"}g;
+  return $html;
+}
+my %MENU = (
+  koeln     => [['Köln','index'],['Pannenhilfe','pannenhilfe-koeln'],['Autobahnen','pannenhilfe-koelner-autobahnring'],['Stadtteile','abschleppdienst-koeln-stadtteile'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
+  karlsruhe => [['Karlsruhe &amp; Mittelbaden','abschleppdienst-mittelbaden'],['Karlsruhe','abschleppdienst-karlsruhe'],['A5','abschleppdienst-a5'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
+  shared    => [['Köln','index'],['Karlsruhe &amp; Mittelbaden','abschleppdienst-mittelbaden'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
+);
+$CRUMB_PARENT{'index'} = ['home','Köln &amp; Umgebung'];
+$CRUMB_PARENT{'abschleppdienst-mittelbaden'} = ['home','Karlsruhe &amp; Mittelbaden'];
+$CRUMB_PARENT{$_} = ['home', {ratgeber=>'Ratgeber',kontakt=>'Kontakt',impressum=>'Impressum',datenschutz=>'Datenschutz'}->{$_}] for qw(ratgeber kontakt impressum datenschutz);
+$CRUMB_PARENT{'abschleppdienst-koeln-stadtteile'} = ['index','Stadtbezirke und Rheinbrücken'];
+my %DISTRICT = (innenstadt=>'Innenstadt', ehrenfeld=>'Ehrenfeld', nippes=>'Nippes', lindenthal=>'Lindenthal', rodenkirchen=>'Rodenkirchen', porz=>'Porz', kalk=>'Kalk', muelheim=>'Mülheim', chorweiler=>'Chorweiler');
+$CRUMB_PARENT{"koeln-$_"} = ['abschleppdienst-koeln-stadtteile', "Köln-$DISTRICT{$_}"] for keys %DISTRICT;
+$CRUMB_PARENT{'koeln-a57'} = ['pannenhilfe-koelner-autobahnring','Panne auf der A57'];
+$CRUMB_PARENT{'koeln-a59'} = ['pannenhilfe-koelner-autobahnring','Panne auf der A59'];
+$CRUMB_PARENT{'koeln-a555'} = ['pannenhilfe-koelner-autobahnring','Panne auf der A555'];
+$CRUMB_PARENT{'koeln-leverkusener-bruecke'} = ['pannenhilfe-koelner-autobahnring','Leverkusener Brücke'];
+$CRUMB_PARENT{'ratgeber-panne-im-tunnel'} = ['ratgeber','Panne im Tunnel'];
+$CRUMB_PARENT{'ratgeber-umweltzone-koeln'} = ['ratgeber','Umweltzone Köln'];
+$CRUMB_PARENT{'ratgeber-abschleppen-koeln-kosten'} = ['ratgeber','Kosten in Köln'];
+$CRUMB_LABEL{'home'} = 'Start';
+
+sub service_ld {
+  my ($slug,$name,$curl,$areas)=@_;
+  my $ar = join(',', map { '{"@type":"City","name":"'.$_.'"}' } @$areas);
+  $name =~ s/"/\\"/g;
+  return '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"'.$name.'","serviceType":"Abschleppdienst und Pannenhilfe","url":"'.$curl.'","provider":{"@type":"Organization","name":"Faster Abschleppdienst","telephone":"+4917641956993","email":"faster@takeldienstfaster.be"},"areaServed":['.$ar.'],"availableLanguage":["de","nl","fr","en"]}</script>'."\n";
+}
+sub article_ld {
+  my ($name,$curl)=@_; $name =~ s/"/\\"/g;
+  return '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"'.$name.'","inLanguage":"de","mainEntityOfPage":"'.$curl.'","publisher":{"@type":"Organization","name":"Faster Abschleppdienst"}}</script>'."\n";
+}
+
+# wipe old flat pages in the repo root (new pages are written as folder/index.html)
+unlink glob("$OUT/*.html");
+
 for my $slug (@order) {
-  my $p=$P{$slug}; my $body=$p->{body}; my $wa = ($slug eq 'index' || $slug =~ /koeln/) ? $WA : 'https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.'; $body =~ s/\@\@CTA\@\@/related_for($slug).cta_for($slug)/ge; $body =~ s/\@\@WA\@\@/$wa/g; my $hd=$header; $hd =~ s/\@\@WA\@\@/$wa/g;
+  my $p=$P{$slug}; my $body=$p->{body};
+  my $path = path_for($slug); my $region = region_for($path);
+  my $wa = ($region eq 'koeln') ? $WA : 'https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.';
+  $body =~ s/\@\@CTA\@\@/related_for($slug).cta_for($slug)/ge;
+  $body =~ s/Wir nennen Ihnen den Preis, bevor jemand losfährt\./Wir besprechen Ihre Situation und sagen Ihnen, wie es weitergeht./ if $region eq 'koeln';
+  $body =~ s/\@\@WA\@\@/$wa/g;
+  # header with region menu
+  my $menu = join('', map { sprintf('<a href="%s.html">%s</a>', $_->[1], $_->[0]) } @{$MENU{$region}});
+  my $hd = $header; $hd =~ s/\@\@MENU\@\@/$menu/; $hd =~ s/\@\@WA\@\@/$wa/g;
   # PREVIEW MODE: every page is hidden from search engines until launch (remove this line's noindex to go live)
   my $robots = qq{<meta name="robots" content="noindex, nofollow">\n};
-  my $json = $slug eq "index" ? $ld : "";
-  $json .= schema_for(\$body);
+  # title / description (max 60 / 155 characters)
   my $suffix = ' | Faster Abschleppdienst';
   my $tt = $p->{title}; $tt =~ s/ \| Faster (Abschleppdienst|Depannage Takeldienst)$//;
-  if ($slug eq 'index') { $tt .= ' | Faster Abschleppdienst' if plainlen($tt.' | Faster Abschleppdienst') <= 75; }
-  else { $tt .= $suffix if plainlen($tt.$suffix) <= 62; }
-  my $curl  = $slug eq 'index' ? $BASE : "$BASE$slug.html";
+  $tt .= $suffix if plainlen($tt.$suffix) <= 60;
+  my $curl  = $path eq '' ? $BASE : "$BASE$path/";
   my $canon = qq{<link rel="canonical" href="$curl">\n};
   my $og = qq{<meta property="og:type" content="website"><meta property="og:locale" content="de_DE"><meta property="og:site_name" content="Faster Abschleppdienst"><meta property="og:title" content="$tt"><meta property="og:description" content="$p->{desc}"><meta property="og:url" content="$curl"><meta property="og:image" content="${BASE}assets/faster-road-transport.jpg">\n};
+  # structured data: Service (service pages) or Article (guides), FAQPage, BreadcrumbList. No LocalBusiness / no German address.
+  my $json = '';
+  (my $h1 = ($body =~ m{<h1[^>]*>(.*?)</h1>}s ? $1 : $tt)) =~ s/<[^>]+>//g; $h1 =~ s/&amp;/&/g;
+  my $areas_txt = ($body =~ m{<!--AREAS: (.*?) -->}) ? $1 : ($region eq 'koeln' ? 'Köln' : $region eq 'karlsruhe' ? 'Karlsruhe, Baden-Baden, Achern, Offenburg' : 'Köln, Karlsruhe, Offenburg');
+  my @areas = split /, /, $areas_txt;
+  $body =~ s/<!--AREAS: .*? -->\n?//;
+  if ($slug =~ /^ratgeber-/) { $json .= article_ld($h1,$curl); }
+  elsif ($slug !~ /^(ratgeber|kontakt|impressum|datenschutz|danke)$/) { $json .= service_ld($slug,$h1,$curl,\@areas); }
+  my @qa;
+  while ($body =~ m{<details><summary>(.*?)</summary><div>(.*?)</div></details>}sg) {
+    push @qa, '{"@type":"Question","name":"'.jesc($1).'","acceptedAnswer":{"@type":"Answer","text":"'.jesc($2).'"}}';
+  }
+  $json .= '<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":['.join(',',@qa).']}</script>'."\n" if @qa;
+  # breadcrumbs
   my $crumbs = ''; my $bcjson = '';
-  if ($slug ne 'index' && $CRUMB_PARENT{$slug}) {
+  if ($slug ne 'home' && $CRUMB_PARENT{$slug}) {
     my ($par,$lab) = @{$CRUMB_PARENT{$slug}}; my @chain = ([$slug,$lab]);
-    while ($par && $par ne 'index') { my $pp = $CRUMB_PARENT{$par}; unshift @chain, [$par, $pp ? $pp->[1] : $CRUMB_LABEL{$par}]; $par = $pp ? $pp->[0] : undef; }
-    unshift @chain, ['index','Start'];
+    while ($par && $par ne 'home') { my $pp = $CRUMB_PARENT{$par}; unshift @chain, [$par, $pp ? $pp->[1] : $CRUMB_LABEL{$par}]; $par = $pp ? $pp->[0] : undef; }
+    unshift @chain, ['home','Start'];
     my (@li,@jl); my $i=0;
-    for my $c (@chain) { $i++; my ($cs,$cl)=@$c; my $u = $cs eq 'index' ? $BASE : "$BASE$cs.html";
+    for my $c (@chain) { $i++; my ($cs,$cl)=@$c; my $cp = path_for($cs); my $u = $cp eq '' ? $BASE : "$BASE$cp/";
       (my $lj=$cl) =~ s/&amp;/&/g; $lj =~ s/"/\\"/g;
       push @jl, qq({"\@type":"ListItem","position":$i,"name":"$lj","item":"$u"});
-      push @li, $i==@chain ? qq{<span aria-current="page">$cl</span>} : sprintf('<a href="%s">%s</a>', $cs eq 'index' ? 'index.html' : "$cs.html", $cl); }
+      push @li, $i==@chain ? qq{<span aria-current="page">$cl</span>} : sprintf('<a href="%s.html">%s</a>', $cs, $cl); }
     $crumbs = '<nav class="crumbs" aria-label="Brotkrumen"><div class="wrap">'.join(' &rsaquo; ',@li)."</div></nav>\n";
     $bcjson = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":['.join(',',@jl).']}</script>'."\n";
   }
   $json .= $bcjson;
   push @SITEMAP, [$curl,$slug] unless $slug eq 'danke';
-  warn "TITLE>62 ($slug): ".plainlen($tt)." $tt\n" if plainlen($tt) > 62 && $slug ne 'index';
-  warn "DESC>160 ($slug): ".plainlen($p->{desc})."\n" if plainlen($p->{desc}) > 160;
+  warn "TITLE>60 ($slug): ".plainlen($tt)." $tt\n" if plainlen($tt) > 60;
+  warn "DESC>155 ($slug): ".plainlen($p->{desc})."\n" if plainlen($p->{desc}) > 155;
   my $html = qq{<!doctype html>\n<html lang="de">\n<head>\n<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">\n<title>$tt</title>\n<meta name="description" content="$p->{desc}">\n$robots$canon$og<meta name="theme-color" content="#121212">\n<link rel="icon" href="assets/favicon.ico" sizes="any"><link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">\n<link rel="stylesheet" href="styles.css">\n$json</head>\n<body>\n$hd<main>\n$crumbs$body</main>\n$footer</body>\n</html>\n};
-  open(my $o,'>:raw',"$OUT/$slug.html") or die; print $o $html; close $o; print "wrote $slug.html\n";
+  $html =~ s/<\/head>/<!-- GSC-VERIFICATION -->\n<\/head>/ if $slug eq 'home';
+  $html = fix_links($html,$path);
+  my $dir = $path eq '' ? $OUT : "$OUT/$path";
+  require File::Path; File::Path::make_path($dir);
+  open(my $o,'>:raw',"$dir/index.html") or die "cannot write $dir"; print $o $html; close $o; print "wrote /$path\n";
 }
+
 {
   my $x = qq{<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n};
   for my $u (@SITEMAP) { $x .= "  <url><loc>$u->[0]</loc><lastmod>$TODAY</lastmod></url>\n"; }
@@ -154,7 +235,7 @@ for my $slug (@order) {
 }
 
 __DATA__
-=== index | Abschleppdienst Köln – Pannenhilfe &amp; Abschleppen | Faster Abschleppdienst | Abschleppdienst und Pannenhilfe für Köln und Umgebung: Pkw, Transporter, Motorräder. 24/7 erreichbar per Telefon und WhatsApp. Faster Abschleppdienst. | index ===
+=== index | Abschleppdienst Köln – Pannenhilfe &amp; Abschleppen | Abschleppdienst und Pannenhilfe für Köln und Umgebung: Pkw, Transporter, Motorräder. 24/7 per Telefon und WhatsApp erreichbar. Partner vor Ort. | index ===
 <section class="hero"><div class="wrap hero-grid"><div>
 <p class="eyebrow">Abschleppdienst Köln</p>
 <h1>Abschleppdienst Köln: Pannenhilfe und Abschleppen, 24/7 erreichbar</h1>
@@ -201,7 +282,7 @@ __DATA__
 <p>Rufen Sie an oder schreiben Sie per WhatsApp und senden Sie Ihren Standort. Wir besprechen, was nötig ist, und organisieren die Hilfe.</p>
 <p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p>
 </div></section>
-=== abschleppen-bergung-koeln | Abschleppen und Bergung Köln | Faster Abschleppdienst | Abschleppen und Bergung in Köln und Umgebung nach Panne, Unfall oder Schaden. Transport zur Werkstatt oder zum Wunschziel. | page ===
+=== abschleppen-bergung-koeln | Abschleppen und Bergung Köln | Abschleppen und Bergung in Köln nach Panne, Unfall oder Schaden. Transport zur Werkstatt oder zum Wunschziel, für Pkw, Transporter, Motorräder. | page ===
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Abschleppen &amp; Bergung</p><h1>Abschleppen und Bergung Köln</h1><p class="lead">Wenn Weiterfahren nicht mehr geht, bringen wir Ihr Fahrzeug sicher an den vereinbarten Ort.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Abschleppen nach Panne oder Unfall</h2>

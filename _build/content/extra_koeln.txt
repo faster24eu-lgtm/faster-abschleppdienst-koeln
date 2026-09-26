@@ -1,4 +1,4 @@
-=== index | Abschleppdienst Köln – Pannenhilfe &amp; Abschleppen 24/7 | Abschleppdienst und Pannenhilfe für Köln und Umgebung: Pkw, Transporter, Motorräder. 24/7 per Telefon und WhatsApp erreichbar. Partner übernehmen vor Ort. | index ===
+=== index | Abschleppdienst Köln – Pannenhilfe &amp; Abschleppen 24/7 | Abschleppdienst und Pannenhilfe für Köln und Umgebung: Pkw, Transporter, Motorräder. 24/7 per Telefon und WhatsApp erreichbar. Partner vor Ort. | index ===
 <section class="hero"><div class="wrap hero-grid"><div>
 <p class="eyebrow">Abschleppdienst Köln</p>
 <h1>Abschleppdienst Köln: Pannenhilfe und Abschleppen, 24/7 erreichbar</h1>
@@ -29,6 +29,8 @@
 <p>Ein Elektroauto darf nicht wie ein Benziner an einem Seil gezogen werden, ein Motorrad darf nach der Straßenverkehrs-Ordnung überhaupt nicht abgeschleppt werden, und ein Transporter mit hoher Ladung passt nicht in jede Tiefgarage. Deshalb fragen wir zuerst nach dem Fahrzeug. Mehr dazu in unseren Ratgebern zum <a href="ratgeber-e-auto-abschleppen.html">Abschleppen von E-Autos</a> und zum <a href="ratgeber-motorrad-transport.html">Motorrad-Transport</a>.</p>
 <h2>Erst Sicherheit, dann Hilfe</h2>
 <p>Bringen Sie sich zuerst in Sicherheit, bevor Sie uns anrufen: Warnblinkanlage einschalten, Warnweste anziehen, Warndreieck aufstellen, wenn es sicher möglich ist, und wenn möglich hinter der Leitplanke warten. Bei Verletzten wählen Sie zuerst die 112. Um das Technische kümmern wir uns.</p>
+<h2>Ihr Stadtbezirk, Ihre Autobahn</h2>
+<p>Wenn Sie wissen, wo Sie stehen, finden Sie schneller passende Hinweise: <a href="koeln-innenstadt.html">Innenstadt</a>, <a href="koeln-ehrenfeld.html">Ehrenfeld</a>, <a href="koeln-nippes.html">Nippes</a>, <a href="koeln-lindenthal.html">Lindenthal</a>, <a href="koeln-rodenkirchen.html">Rodenkirchen</a>, <a href="koeln-porz.html">Porz</a>, <a href="koeln-kalk.html">Kalk</a>, <a href="koeln-muelheim.html">Mülheim</a> und <a href="koeln-chorweiler.html">Chorweiler</a>. Für die Autobahnen gibt es eigene Seiten, siehe <a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a>. Weitere Themen: <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>, <a href="ratgeber-umweltzone-koeln.html">Umweltzone Köln</a> und <a href="ratgeber-abschleppen-koeln-kosten.html">Kosten in Köln</a>.</p>
 <h2>Wer fährt in Köln, und wer ist Ihr Ansprechpartner?</h2>
 <p>Faster hat seinen Sitz in Antwerpen (Belgien). In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Sie erreichen uns rund um die Uhr, wir koordinieren die Hilfe. Das sagen wir Ihnen ehrlich, bevor Sie sich entscheiden.</p>
 </div></section>
@@ -93,7 +95,7 @@
 </div></section>
 <section class="section"><div class="wrap narrow"><div class="related"><a href="ratgeber-starthilfe-batterie.html">Starthilfe<small>Batterie, Kabel, Ablauf</small></a><a href="ratgeber-falsch-getankt.html">Falsch getankt<small>Was Sie jetzt nicht tun sollten</small></a><a href="ratgeber-ausgesperrt.html">Ausgesperrt<small>Schlüssel im Auto</small></a></div></div></section>
 @@CTA@@
-=== abschleppen-bergung-koeln | Abschleppen und Bergung Köln nach Panne oder Unfall | Abschleppen und Bergung in Köln und Umgebung nach Panne, Unfall oder Schaden. Transport zur Werkstatt oder zum Wunschziel, für Pkw, Transporter, Motorräder. | page ===
+=== abschleppen-bergung-koeln | Abschleppen und Bergung Köln nach Panne oder Unfall | Abschleppen und Bergung in Köln nach Panne, Unfall oder Schaden. Transport zur Werkstatt oder zum Wunschziel, für Pkw, Transporter, Motorräder. | page ===
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Abschleppen &amp; Bergung</p><h1>Abschleppen und Bergung Köln</h1><p class="lead">Wenn Weiterfahren nicht mehr geht, bringen wir Ihr Fahrzeug sicher an den vereinbarten Ort.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Abschleppen nach Panne oder Unfall</h2>
@@ -144,6 +146,7 @@
 </tbody></table></div>
 <p>Wenn Sie uns die Autobahn, die Fahrtrichtung und das letzte Kreuz oder die letzte Ausfahrt nennen, wissen wir, wo Sie ungefähr stehen. Für drei Abschnitte gibt es eigene Seiten: <a href="pannenhilfe-a3-koeln.html">Panne auf der A3 bei Köln</a> (Leverkusen bis Rösrath), <a href="pannenhilfe-a4-koeln.html">Panne auf der A4 bei Köln</a> (Frechen bis Bensberg) und <a href="pannenhilfe-a1-koeln.html">Panne auf der A1 bei Köln</a> (Leverkusen bis Erfttal).</p>
 <h2>Die Zubringer: A57, A555 und A59</h2>
+<p>Jede dieser drei Autobahnen hat eine eigene Seite: <a href="koeln-a57.html">Panne auf der A57</a>, <a href="koeln-a555.html">Panne auf der A555</a> und <a href="koeln-a59.html">Panne auf der A59</a>.</p>
 <p>Aus dem Ring führen mehrere Autobahnen ins Umland. Wenn Sie dort liegen bleiben, hilft uns die Ausfahrt, die Sie zuletzt gesehen haben.</p>
 <div class="tblwrap"><table class="tbl"><thead><tr><th>Autobahn</th><th>Abschnitt und Ausfahrten</th></tr></thead><tbody>
 <tr><td>A57 nach Norden</td><td>ab Kreuz Köln-Nord (28): Köln-Chorweiler (27), Köln-Worringen (26), Dormagen (25), weiter Richtung Neuss</td></tr>
@@ -153,6 +156,7 @@
 </tbody></table></div>
 <p>Auf der A555 nach Bonn fahren nach Angaben der Autobahn GmbH täglich über 120.000 Fahrzeuge. Mehr zum Kreuz Köln-Süd steht bei <a href="pannenhilfe-a4-koeln.html">Panne auf der A4 bei Köln</a>. Die A59 führt an den Flughafen, zu dem Sie im Abschnitt zur <a href="abschleppdienst-koeln-stadtteile.html">Stadtübersicht</a> mehr finden.</p>
 <h2>Rheinquerung: die Leverkusener und die Rodenkirchener Brücke</h2>
+<p>Zur Leverkusener Brücke gibt es eine eigene Seite: <a href="koeln-leverkusener-bruecke.html">Panne an der Leverkusener Brücke</a>.</p>
 <p>Zwei Rheinbrücken gehören zum Autobahnnetz: Im Süden die Rodenkirchener Brücke auf der A4, im Norden die Leverkusener Autobahnbrücke der A1, die zur Hälfte auf Leverkusener Gebiet liegt und trotzdem zu Kölns Rheinquerungen gezählt wird. Auf Brücken gibt es kaum Ausweichmöglichkeiten, ein liegengebliebenes Fahrzeug blockiert dort schnell mehrere Spuren. Sagen Sie uns deshalb, ob Sie vor, auf oder hinter der Brücke stehen.</p>
 <h2>So verhalten Sie sich</h2>
 <ul class="ticks">
@@ -181,7 +185,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln</p><h1>Abschleppdienst in Köln: Stadtbezirke, Ringe und Rheinbrücken</h1><p class="lead">Köln ist groß und hat viele Straßen mit gleichen Namen. Wer seinen Standort gut beschreibt, bekommt schneller Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Die neun Kölner Stadtbezirke</h2>
-<p>Köln gliedert sich in neun Stadtbezirke mit zusammen 86 Stadtteilen: Innenstadt, Rodenkirchen, Lindenthal, Ehrenfeld, Nippes, Chorweiler, Porz, Kalk und Mülheim. Zum Stadtbezirk Innenstadt gehören unter anderem Altstadt-Nord und -Süd, Neustadt-Nord und -Süd sowie Deutz auf der rechten Rheinseite. Ehrenfeld umfasst neben Ehrenfeld selbst auch Neuehrenfeld, Bickendorf, Vogelsang, Ossendorf und Bocklemünd/Mengenich.</p>
+<p>Köln gliedert sich in neun Stadtbezirke mit zusammen 86 Stadtteilen. Zu jedem Bezirk gibt es eine eigene Seite mit Straßen, Ausfahrten und Hinweisen für Ihren Standort:</p>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Bezirk</th><th>Stadtteile (Auswahl)</th><th>Seite</th></tr></thead><tbody>
+<tr><td>1 Innenstadt</td><td>Altstadt, Neustadt, Deutz</td><td><a href="koeln-innenstadt.html">Köln-Innenstadt</a></td></tr>
+<tr><td>2 Rodenkirchen</td><td>Bayenthal, Marienburg, Sürth, Godorf, Zollstock</td><td><a href="koeln-rodenkirchen.html">Köln-Rodenkirchen</a></td></tr>
+<tr><td>3 Lindenthal</td><td>Sülz, Müngersdorf, Lövenich, Junkersdorf</td><td><a href="koeln-lindenthal.html">Köln-Lindenthal</a></td></tr>
+<tr><td>4 Ehrenfeld</td><td>Neuehrenfeld, Bickendorf, Ossendorf, Bocklemünd</td><td><a href="koeln-ehrenfeld.html">Köln-Ehrenfeld</a></td></tr>
+<tr><td>5 Nippes</td><td>Niehl, Riehl, Longerich, Weidenpesch</td><td><a href="koeln-nippes.html">Köln-Nippes</a></td></tr>
+<tr><td>6 Chorweiler</td><td>Heimersdorf, Seeberg, Merkenich, Worringen</td><td><a href="koeln-chorweiler.html">Köln-Chorweiler</a></td></tr>
+<tr><td>7 Porz</td><td>Wahn, Lind, Zündorf, Poll</td><td><a href="koeln-porz.html">Köln-Porz</a></td></tr>
+<tr><td>8 Kalk</td><td>Vingst, Höhenberg, Merheim, Rath/Heumar</td><td><a href="koeln-kalk.html">Köln-Kalk</a></td></tr>
+<tr><td>9 Mülheim</td><td>Buchheim, Holweide, Dellbrück, Flittard</td><td><a href="koeln-muelheim.html">Köln-Mülheim</a></td></tr>
+</tbody></table></div>
+<p>Auch die Autobahnen rund um Köln haben eigene Seiten: <a href="pannenhilfe-a1-koeln.html">A1</a>, <a href="pannenhilfe-a3-koeln.html">A3</a>, <a href="pannenhilfe-a4-koeln.html">A4</a>, <a href="koeln-a57.html">A57</a>, <a href="koeln-a59.html">A59</a>, <a href="koeln-a555.html">A555</a> und die <a href="koeln-leverkusener-bruecke.html">Leverkusener Brücke</a>.</p>
 <p>Wenn Sie uns anrufen, nennen Sie bitte den Stadtteil oder Stadtbezirk zusammen mit dem Straßennamen. Manche Namen kommen in mehreren Teilen der Stadt vor.</p>
 <h2>Links und rechts des Rheins</h2>
 <p>Der Rhein teilt Köln in zwei Hälften, und Sie erreichen die andere Seite nur über eine Brücke. Für Straßenfahrzeuge sind das im Stadtgebiet der Reihe nach von Süden nach Norden:</p>

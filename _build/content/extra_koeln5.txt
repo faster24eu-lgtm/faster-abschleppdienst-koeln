@@ -1,0 +1,287 @@
+=== koeln-innenstadt | Abschleppdienst Köln-Innenstadt: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen in der Kölner Innenstadt und in Deutz: Ringe, Rheinbrücken, Parkhäuser und was Sie uns zu Ihrem Standort sagen sollten. | page ===
+<!--AREAS: Köln, Köln-Innenstadt, Köln-Deutz -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 1</p><h1>Abschleppdienst Köln-Innenstadt</h1><p class="lead">Dom, Ringe, Rheinufer und Deutz auf der anderen Rheinseite: Der Stadtbezirk Innenstadt ist eng, dicht bebaut und von Einbahnstraßen, Parkhäusern und Baustellen geprägt. Hier steht, worauf es bei einer Panne ankommt.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Wo wir hier helfen</h2>
+<p>Zum Stadtbezirk Innenstadt gehören Altstadt-Nord, Altstadt-Süd, Neustadt-Nord, Neustadt-Süd und Deutz. Er liegt links und rechts des Rheins, das ist eine Besonderheit unter den neun Kölner Stadtbezirken. Wenn Ihr Fahrzeug hier liegen bleibt, koordinieren wir die Hilfe: Starthilfe, Reifenwechsel oder, wenn es nicht anders geht, den Transport zur Werkstatt. Die Einsätze vor Ort übernehmen unsere Partner in Köln, Faster selbst sitzt in Antwerpen.</p>
+<h2>Ringe, Kanalstraße und Rheinbrücken</h2>
+<p>Die Innenstadt wird von mehreren Straßenringen umschlossen. Am innersten liegen die Ringe und die Innere Kanalstraße. Darüber hinaus verbindet der Rhein die beiden Hälften nur an wenigen Stellen: Für Kraftfahrzeuge sind das im Innenstadtbereich die Severinsbrücke und die Deutzer Brücke, weiter nördlich die Zoobrücke. Die Hohenzollernbrücke trägt Bahnverkehr. Wenn Sie in Deutz stehen und Ihre Werkstatt links des Rheins liegt, gehört eine dieser Brücken zur Fahrt. Nennen Sie uns deshalb Standort und Ziel.</p>
+<h2>Nord-Süd-Fahrt und Rheinufertunnel</h2>
+<p>Die Nord-Süd-Fahrt ist eine der wichtigen Durchgangsstraßen. Der Rheinufertunnel wird nach Medienberichten an einigen Wochenenden im Jahr komplett gesperrt, dann läuft der Verkehr über die Nord-Süd-Fahrt. Aktuelle Sperrungen finden Sie bei der Stadt Köln. Ist Ihr Fahrzeug in einem Tunnel liegen geblieben, sind die Regeln andere als auf der offenen Straße, siehe <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel: was tun?</a></p>
+<h2>Parkhäuser und Tiefgaragen</h2>
+<p>Viele Fahrzeuge bleiben in der Innenstadt nicht auf der Straße, sondern im Parkhaus liegen. Dort entscheidet die Durchfahrtshöhe, ob ein Abschleppfahrzeug hineinpasst. Die Tiefgarage Am Dom nennt laut Angaben von Parkportalen eine Einfahrtshöhe von etwa 1,90 Metern, die Tiefgarage am Gürzenich von 1,80 Metern und das Parkhaus Wolfsstraße von 2,00 Metern. Diese Werte stammen von Dritten und können sich ändern. Maßgeblich ist das Schild an der Einfahrt. Wie Höhe und Rampen die Bergung beeinflussen, steht im Ratgeber <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Tiefgarage und Parkhaus</a>.</p>
+<h2>Deutz: Messe, Arena und Bahnhof</h2>
+<p>Auf der rechten Rheinseite liegen die Koelnmesse, die LANXESS arena und der Bahnhof Köln Messe/Deutz. Aus Richtung Leverkusen fahren viele über die A3 zum Kreuz Köln-Ost und weiter über die B55 in Richtung Zentrum bis zur Abfahrt LANXESS arena, aus Richtung Aachen über die A4 bis zum Kreuz Gremberg und die A559 bis nach Deutz. Bei Veranstaltungen sind die Zufahrten stark belastet. In der Nähe von Messe und Arena gibt es Tiefgaragen und Freiflächen, zum Beispiel die Tiefgarage MesseCity. Sagen Sie uns, wo genau Sie stehen.</p>
+<h2>Umweltzone</h2>
+<p>Große Teile der Stadt, auch der Innenstadt, gehören zur Kölner Umweltzone. Seit dem 1. Juli 2014 dürfen dort nur Fahrzeuge mit grüner Plakette fahren, ein Verstoß kostet 100 Euro Bußgeld. Was das für Abschleppen und Pannenfahrzeuge bedeutet, erklärt <a href="ratgeber-umweltzone-koeln.html">Umweltzone Köln: was gilt beim Abschleppen?</a></p>
+<h2>So beschreiben Sie Ihren Standort in der Innenstadt</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße und Hausnummer, oder die nächste Kreuzung. Viele Straßennamen kommen in mehreren Stadtteilen vor.</li>
+<li>Bei Deutz sagen Sie, ob Sie auf der Deutzer Seite des Rheins stehen.</li>
+<li>Bei Parkhäusern: Name des Hauses, Ebene, Einfahrtshöhe.</li>
+<li>Ob Ihr Fahrzeug eine Straßenbahnstrecke, eine Ausfahrt oder eine Einbahnstraße blockiert.</li>
+<li>Ihr Fahrzeug: Marke, Modell, Antrieb.</li>
+</ul>
+<p>Weitere Stadtbezirke: <a href="koeln-rodenkirchen.html">Rodenkirchen</a> im Süden und <a href="koeln-kalk.html">Kalk</a> auf der rechten Rheinseite. Einen Überblick über alle Bezirke finden Sie unter <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke und Rheinbrücken</a>, die Startseite für Köln ist <a href="index.html">Abschleppdienst Köln</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur Innenstadt</h2>
+<details><summary>Kommen Sie auch in die Fußgängerzone?</summary><div>Fußgängerzonen sind für Fahrzeuge meist gesperrt. Sagen Sie uns, wo Ihr Fahrzeug steht. Dann klären wir, ob und wie ein Abschleppfahrzeug hinkommt.</div></details>
+<details><summary>Was tun, wenn ich in einem Parkhaus in der Innenstadt liegen geblieben bin?</summary><div>Nennen Sie Parkhaus, Ebene und die Einfahrtshöhe vom Schild. Nicht jedes Fahrzeug passt überall hinein.</div></details>
+<details><summary>Steht mein Auto auf der Deutzer Seite. Ist das ein Problem?</summary><div>Nein. Sagen Sie uns die Seite des Rheins und Ihr Ziel, dann klären wir die Route über die Rheinbrücken.</div></details>
+<details><summary>Brauche ich eine Umweltplakette, damit Sie mein Auto abschleppen?</summary><div>Ihr Fahrzeug wird bei einem Transport auf der Ladefläche befördert. Für Fragen zur Umweltzone hilft die Stadt Köln, dazu der Ratgeber zur Umweltzone.</div></details>
+</div></section>
+@@CTA@@
+=== koeln-ehrenfeld | Abschleppdienst Köln-Ehrenfeld: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen im Kölner Stadtbezirk Ehrenfeld: Venloer Straße, Gürtel, Butzweilerhof, A57-Ende und A1 Bocklemünd. | page ===
+<!--AREAS: Köln, Köln-Ehrenfeld, Köln-Bickendorf, Köln-Ossendorf -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 4</p><h1>Abschleppdienst Köln-Ehrenfeld</h1><p class="lead">Von der Venloer Straße bis zum Alten Flughafen Butzweilerhof: Ehrenfeld ist ein Stadtbezirk mit Einkaufsstraßen, Industriedenkmälern und dörflich gewachsenen Stadtteilen. Hier steht, wie Sie im Ernstfall verständlich beschreiben, wo Sie stehen.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Was zu Ehrenfeld gehört</h2>
+<p>Der Stadtbezirk Ehrenfeld umfasst sechs Stadtteile: Bickendorf, Bocklemünd/Mengenich, Ehrenfeld, Neuehrenfeld, Ossendorf und Vogelsang. Das Bezirksrathaus steht an der Venloer Straße, die den Mittelpunkt des Bezirks bildet. Stadtteile wie Bickendorf und Ossendorf waren bis in das 19. Jahrhundert Dörfer, woran ihre Architektur teils noch erinnert, und in Ossendorf haben sich Fernsehsender angesiedelt. Diese Mischung heißt für Sie: kurze Wege zwischen sehr unterschiedlichen Straßenbildern.</p>
+<h2>Was wir hier für Sie tun</h2>
+<p>Wir nehmen Ihren Anruf oder Ihre WhatsApp-Nachricht entgegen und koordinieren die Hilfe: Starthilfe, Reifenwechsel, Fahrzeugöffnung oder den Transport zur Werkstatt. Die Einsätze vor Ort übernehmen unsere Partner in Köln. Faster hat seinen Sitz in Antwerpen (Belgien), das steht hier so, damit Sie wissen, mit wem Sie sprechen.</p>
+<h2>Venloer Straße, Gürtel und Stadtbahn</h2>
+<p>Die Venloer Straße verbindet Ehrenfeld mit der Innenstadt. Wo sie den Gürtel kreuzt, liegt die Stadtbahnhaltestelle Venloer Straße/Gürtel am Bahnhof Ehrenfeld, unter der Erde halten die Stadtbahnlinien 3 und 4, oberirdisch verläuft die Linie 13 auf dem Ehrenfeldgürtel. Auch die Subbelrather Straße kreuzt den Gürtel an einer Haltestelle. Wer hier liegen bleibt, steht oft in einer Zone mit viel Kreuzungs-, Bus- und Bahnverkehr. Warnblinker, Warnweste und ein Anruf reichen: Bleiben Sie nicht auf den Gleisen und schieben Sie nicht in den Verkehr.</p>
+<h2>Butzweilerhof und der Westen</h2>
+<p>Im Nordwesten liegt der Alte Flughafen Butzweilerhof mit einem großen Einkaufsmarkt, den die Stadtbahnlinie 5 als Endpunkt bedient. In der Umgebung stehen Parkplätze und Gewerbeflächen. Wenn Ihr Fahrzeug dort auf einem großen Parkplatz liegen bleibt, brauchen wir den Namen des Marktes oder der Firma und den Bereich des Parkplatzes.</p>
+<h2>Das Ende der A57 und die A1</h2>
+<p>Die A57 hat in Ehrenfeld ihr Ende. Sie erreicht Köln über die Ausfahrten Köln-Longerich (28), Köln-Bickendorf (29) und Köln-Ehrenfeld (30). Danach endet die Autobahn, die Fahrt geht als K 4 bis zur Inneren Kanalstraße und zur B55a weiter. Am Ende der Autobahn wechselt der Verkehr von der Autobahn auf Stadtstraße, und Sie sollten uns sagen, ob Sie noch vor oder schon hinter der Ausfahrt stehen. Im Westen führt die A1 mit der Ausfahrt Köln-Bocklemünd (102, B59) am Bezirk vorbei. Mehr zu den Autobahnen: <a href="koeln-a57.html">Panne auf der A57</a> und <a href="pannenhilfe-a1-koeln.html">Panne auf der A1 bei Köln</a>.</p>
+<h2>So beschreiben Sie Ihren Standort in Ehrenfeld</h2>
+<ul class="ticks">
+<li>Nennen Sie den Stadtteil: Ehrenfeld, Neuehrenfeld, Bickendorf, Vogelsang, Ossendorf oder Bocklemünd/Mengenich.</li>
+<li>Bei Hauptstraßen die Kreuzung: zum Beispiel Venloer Straße/Gürtel.</li>
+<li>Bei der Autobahn: Ausfahrt (29 oder 30) und Richtung.</li>
+<li>Auf großen Parkplätzen: Name des Geschäfts und Bereich.</li>
+</ul>
+<p>Benachbart liegen <a href="koeln-nippes.html">Nippes</a> und <a href="koeln-lindenthal.html">Lindenthal</a>. Wenn das Auto nach einem Unfall nicht mehr fahren soll, hilft <a href="ratgeber-nach-unfall-fahrbereit.html">Nach dem Unfall: fahrbereit?</a> Alle Bezirke finden Sie bei <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke</a>, die Kölner Startseite ist <a href="index.html">Abschleppdienst Köln</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Ehrenfeld</h2>
+<details><summary>Ich stehe auf der Venloer Straße. Was brauchen Sie?</summary><div>Die Kreuzung oder Hausnummer, Ihr Fahrzeug und ob es Straßenbahngleise oder eine Haltestelle blockiert.</div></details>
+<details><summary>Wo endet die A57?</summary><div>In Köln-Ehrenfeld. Nach der Ausfahrt 30 endet die Autobahn und die Strecke führt als K 4 bis zur Inneren Kanalstraße weiter.</div></details>
+<details><summary>Gehört Ossendorf zu Ehrenfeld?</summary><div>Ja. Ossendorf ist einer der sechs Stadtteile des Bezirks Ehrenfeld, ebenso Bickendorf, Vogelsang, Neuehrenfeld, Bocklemünd/Mengenich und Ehrenfeld selbst.</div></details>
+<details><summary>Kann ich meinen Standort per WhatsApp schicken?</summary><div>Ja. Auf dem Handy können Sie Ihren aktuellen Standort mit wenigen Klicks teilen. Das hilft, wenn viele ähnlich benannte Straßen in Frage kommen.</div></details>
+</div></section>
+@@CTA@@
+=== koeln-nippes | Abschleppdienst Köln-Nippes: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen im Kölner Stadtbezirk Nippes mit Niehl, Riehl und Longerich: Neusser Straße, A1, A57 und Kreuz Köln-Nord. | page ===
+<!--AREAS: Köln, Köln-Nippes, Köln-Niehl, Köln-Riehl, Köln-Longerich -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 5</p><h1>Abschleppdienst Köln-Nippes</h1><p class="lead">Nippes liegt am linken Rheinufer nördlich der Innenstadt und reicht bis zum Kreuz Köln-Nord. Zwischen Neusser Straße, Niehler Hafengegend und Autobahnen gibt es hier ganz unterschiedliche Pannenorte.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Was zum Stadtbezirk Nippes gehört</h2>
+<p>Der Stadtbezirk 5 liegt am linken Rheinufer nördlich der Kölner Innenstadt und umfasst die Stadtteile Bilderstöckchen, Longerich, Mauenheim, Niehl, Nippes, Riehl und Weidenpesch. Er wurde am 1. Januar 1975 im Zuge der kommunalen Neugliederung gebildet und trägt den Namen seines bevölkerungsreichsten Stadtteils. Im Süden grenzt Nippes an die Neustadt-Nord, im Westen an Neuehrenfeld, im Osten liegt der Rhein.</p>
+<h2>Neusser Straße und das Veedel</h2>
+<p>Im Zentrum des Stadtteils Nippes liegt die Neusser Straße mit vielen Geschäften. Rundherum gibt es zwei Viertel mit eigener Geschichte: das Eisenbahn-Quartier, auch Sechzigviertel genannt, das aus einer Werkssiedlung des früheren Eisenbahn-Ausbesserungswerks hervorgegangen ist und heute teilweise autofrei ist, und das Clouth Quartier auf dem Gelände der früheren Clouth-Werke, wo seit 2013 ein neues Wohnviertel entsteht. Beide Bereiche haben enge Straßen, verkehrsberuhigte Zonen und viele parkende Autos. Ein Abschleppfahrzeug braucht dort Platz zum Rangieren, und Sie sollten uns sagen, wie eng es an Ihrer Stelle ist.</p>
+<h2>Niehl, Riehl und der Rhein</h2>
+<p>Niehl liegt im Norden am Rhein, in Riehl steht der Kölner Zoo. Die Niehler Straße, früher der Niehler Weg, gilt als erste Straße in Nippes und war wohl schon eine alte Durchgangsstraße der Römer. Über die Anschlussstelle Köln-Niehl (100) der A1 kommen Sie direkt auf die Autobahn, dahinter liegt das Kreuz Köln-Nord, wo A1 und A57 aufeinandertreffen. Wenn Sie dort liegen bleiben, sagen Sie uns die Richtung und ob Sie vor oder hinter dem Kreuz stehen. Weitere Informationen: <a href="pannenhilfe-a1-koeln.html">Panne auf der A1 bei Köln</a> und <a href="koeln-a57.html">Panne auf der A57</a>.</p>
+<h2>Stadtbahn nach Norden</h2>
+<p>Die Stadtbahnlinie 15 fährt vom Ubierring über Nippes, Weidenpesch und Longerich nach Chorweiler. Auf den Zufahrtsstraßen zu diesen Haltestellen stehen oft Autos in zweiter Reihe. Wenn Ihr Fahrzeug eine Haltestelle oder eine Fahrspur der Bahn blockiert, sagen Sie es uns bitte sofort und informieren Sie außerdem die Verkehrsbetriebe.</p>
+<h2>Was wir hier tun</h2>
+<p>Wir koordinieren Pannenhilfe und Abschleppen in Nippes: vom Starthilfe-Einsatz bis zum Transport nach einem Unfall oder Defekt. Faster hat seinen Sitz in Antwerpen (Belgien), die Einsätze in Köln übernehmen Partner vor Ort.</p>
+<h2>Longerich und Weidenpesch: Autobahnnähe im Norden</h2>
+<p>Im Norden des Bezirks liegen Longerich und Weidenpesch. Über die Anschlussstelle Köln-Longerich (28) der A57 erreichen Sie die Autobahn, und die Stadtbahnlinie 15 verbindet beide Stadtteile mit Nippes und Chorweiler. Bei einer Panne dort ist die Ausfahrt der beste Anhaltspunkt: Sagen Sie uns, ob Sie vor oder hinter der Anschlussstelle stehen, und ob Sie in Richtung Innenstadt oder in Richtung Kreuz Köln-Nord fahren.</p>
+<h2>So beschreiben Sie Ihren Standort in Nippes</h2>
+<ul class="ticks">
+<li>Stadtteil nennen: Nippes, Niehl, Riehl, Longerich, Mauenheim, Weidenpesch oder Bilderstöckchen.</li>
+<li>Bei der Neusser Straße die Querstraße oder Hausnummer.</li>
+<li>Im Sechzigviertel und Clouth Quartier: Straße und ob Sie in einer verkehrsberuhigten Zone stehen.</li>
+<li>Auf der Autobahn: Ausfahrt Köln-Niehl (100) oder Kreuz Köln-Nord, Richtung und Fahrtrichtungsseite.</li>
+</ul>
+<p>Benachbart liegen <a href="koeln-ehrenfeld.html">Ehrenfeld</a> und die <a href="koeln-innenstadt.html">Innenstadt</a>, auf der anderen Rheinseite <a href="koeln-muelheim.html">Mülheim</a>. Bei einem Ölaustritt lesen Sie <a href="ratgeber-oelverlust-oelspur.html">Ölverlust und Ölspur</a>. Alle Bezirke stehen unter <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke</a>, die Kölner Startseite ist <a href="index.html">Abschleppdienst Köln</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Nippes</h2>
+<details><summary>Welche Stadtteile gehören zum Bezirk Nippes?</summary><div>Bilderstöckchen, Longerich, Mauenheim, Niehl, Nippes, Riehl und Weidenpesch.</div></details>
+<details><summary>Ich stehe am Kreuz Köln-Nord. Was sage ich?</summary><div>Autobahn und Richtung, ob Sie auf der A1 oder A57 stehen, und ob Sie vor oder hinter dem Kreuz sind. Am besten schicken Sie Ihren Standort per WhatsApp.</div></details>
+<details><summary>Kommen Sie ins Clouth Quartier oder ins Sechzigviertel?</summary><div>Das hängt von den Zufahrten ab. Sagen Sie uns Straße und wie eng es ist, dann klären wir, welches Fahrzeug passt.</div></details>
+<details><summary>Ist Riehl noch Nippes?</summary><div>Ja, Riehl ist einer der Stadtteile des Stadtbezirks Nippes.</div></details>
+</div></section>
+@@CTA@@
+=== koeln-lindenthal | Abschleppdienst Köln-Lindenthal: Pannenhilfe 24/7 | Pannenhilfe im größten Kölner Stadtbezirk Lindenthal: Universität, Aachener Straße, Lövenich-Tunnel, Kreuz Köln-West und A4 Klettenberg. | page ===
+<!--AREAS: Köln, Köln-Lindenthal, Köln-Sülz, Köln-Müngersdorf, Köln-Lövenich -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 3</p><h1>Abschleppdienst Köln-Lindenthal</h1><p class="lead">Lindenthal ist mit mehr als 150.000 Einwohnern der bevölkerungsreichste der neun Kölner Stadtbezirke. Hier treffen Universität, Wohnviertel, große Einfallstraßen und die Autobahnen A1 und A4 aufeinander.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ein Bezirk aus neun Stadtteilen</h2>
+<p>Zum Stadtbezirk Lindenthal gehören Braunsfeld, Junkersdorf, Klettenberg, Lindenthal, Lövenich, Müngersdorf, Sülz, Weiden und Widdersdorf. Braunsfeld, Klettenberg, Lindenthal, Müngersdorf und Sülz wurden 1888 nach Köln eingemeindet, die übrigen Stadtteile 1975. In Lindenthal liegen die Universität zu Köln und der Melaten-Friedhof. Wer im Bezirk liegen bleibt, tut das oft zwischen Campus, Wohnstraßen und Geschäftsstraßen.</p>
+<h2>Hauptstraßen im Bezirk</h2>
+<p>Zu den wichtigsten und größten Straßen gehören die Aachener Straße und die Dürener Straße im Stadtteil Lindenthal sowie die Berrenrather Straße und die Luxemburger Straße in Sülz. Dort liegen viele Geschäfte, Unternehmen und Schulen. Auf solchen Straßen sind Haltestellen, Lieferverkehr und Radverkehr dicht, und ein liegengebliebenes Auto behindert schnell alle. Warnblinker an, Warnweste anziehen, aus dem Verkehr rollen, wenn es geht.</p>
+<h2>Universität und Stadion</h2>
+<p>In Lindenthal liegen die Universität und, im Stadtteil Müngersdorf, das RheinEnergieStadion. Bei Veranstaltungen und zu Semesterbeginn sind die Zufahrten stark ausgelastet. Wenn Ihr Fahrzeug auf einem Parkplatz oder in einer Tiefgarage in diesem Umfeld liegen bleibt, nennen Sie uns Namen des Parkplatzes und die Ebene, siehe <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Tiefgarage und Parkhaus</a>.</p>
+<h2>A1, Lärmschutztunnel und Kreuz Köln-West</h2>
+<p>Im Westen führt die A1 durch den Bezirk. Bei Köln-Lövenich (Ausfahrt 103, B55) verläuft sie auf rund 1,5 Kilometern in einer Lärmschutzeinhausung, also in einem Tunnel. Direkt danach folgt das Kreuz Köln-West, wo die A1 die A4 kreuzt. Was bei einer Panne im Tunnel gilt, steht im Ratgeber <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>. Im Süden des Bezirks liegt an der A4 die Ausfahrt Köln-Klettenberg (11a, B265).</p>
+<h2>Was wir hier tun</h2>
+<p>Wir koordinieren Pannenhilfe und Abschleppen im gesamten Bezirk: Starthilfe bei leerer Batterie, Reifenwechsel, Transport zur Werkstatt oder Bergung nach einem Unfall. Faster hat seinen Sitz in Antwerpen (Belgien), die Einsätze in Köln übernehmen Partner vor Ort.</p>
+<h2>Stadtwald, Grüngürtel und Kleingärten</h2>
+<p>Zur Geschichte des Stadtteils gehört die Anlage des Stadtwaldes, dazu kommen Kleingartenanlagen und der Grüngürtel, ein Ring aus Grünflächen um die Innenstadt. Auch das Hofgut Kitschburg gehört zu den älteren Gebäuden in Lindenthal. Für eine Panne bedeutet das: Am Rand von Stadtwald und Grüngürtel gibt es Parkplätze und Zufahrten ohne Straßennamen, an den Kleingartenanlagen enge Wege. Nennen Sie uns in diesem Fall den Namen des Parkplatzes, der Kleingartenanlage oder der nächsten größeren Straße, damit ein Abschleppfahrzeug den richtigen Zugang findet und Sie nicht mit einem Straßennamen suchen müssen, der es dreimal in Köln gibt.</p>
+<h2>So beschreiben Sie Ihren Standort in Lindenthal</h2>
+<ul class="ticks">
+<li>Stadtteil nennen: viele Straßen gibt es mehrfach in Köln.</li>
+<li>Bei der Universität oder dem Stadion: Parkplatz oder Eingang.</li>
+<li>Auf der Autobahn: Ausfahrt (103 Köln-Lövenich, 11a Köln-Klettenberg) und Richtung.</li>
+<li>Ob Sie im Tunnel oder vor dem Kreuz Köln-West stehen.</li>
+</ul>
+<p>Benachbart liegen <a href="koeln-ehrenfeld.html">Ehrenfeld</a> und <a href="koeln-rodenkirchen.html">Rodenkirchen</a>. Alle Bezirke unter <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke</a>, die Kölner Startseite ist <a href="index.html">Abschleppdienst Köln</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Lindenthal</h2>
+<details><summary>Welche Stadtteile gehören zu Lindenthal?</summary><div>Braunsfeld, Junkersdorf, Klettenberg, Lindenthal, Lövenich, Müngersdorf, Sülz, Weiden und Widdersdorf.</div></details>
+<details><summary>Was tun bei einer Panne im Lärmschutztunnel bei Lövenich?</summary><div>Warnblinker an, Motor aus und, wenn es gefahrlos geht, zur nächsten Notrufeinrichtung gehen. Bei Verletzten 112. Danach rufen Sie uns an.</div></details>
+<details><summary>Liegt die Universität in Lindenthal?</summary><div>Ja, die Universität zu Köln liegt im Stadtteil Lindenthal.</div></details>
+<details><summary>Wie schnell sind Sie in Lindenthal?</summary><div>Das hängt von Verfügbarkeit, Verkehr und Standort ab. Wir geben Ihnen am Telefon eine realistische Einschätzung statt eines festen Versprechens.</div></details>
+</div></section>
+@@CTA@@
+=== koeln-rodenkirchen | Abschleppdienst Köln-Rodenkirchen: Pannenhilfe 24/7 | Pannenhilfe im Kölner Süden: Rodenkirchener Brücke, A555 Godorf und Rodenkirchen, Militärring, Raffinerie und Villenviertel in Rodenkirchen. | page ===
+<!--AREAS: Köln, Köln-Rodenkirchen, Köln-Sürth, Köln-Godorf, Köln-Zollstock -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 2</p><h1>Abschleppdienst Köln-Rodenkirchen</h1><p class="lead">Der Kölner Süden liegt im Rheinbogen und reicht bis Wesseling. Villenviertel, Wälder, die Rodenkirchener Brücke und die A555 machen die Panne dort zu einer anderen Situation als in der Stadtmitte.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Der südlichste linksrheinische Bezirk</h2>
+<p>Rodenkirchen ist der zweite von neun Kölner Stadtbezirken und liegt am Westufer des Rheins im Rheinbogen. Er grenzt im Norden an die Innenstadt, im Osten über den Rhein an Porz, im Süden an Wesseling, im Südwesten an Brühl, im Westen an Hürth und im Nordwesten an Lindenthal. Zum Bezirk gehören Bayenthal, Godorf, Hahnwald, Immendorf, Marienburg, Meschenich, Raderberg, Raderthal, Rodenkirchen, Sürth, Rondorf, Weiß und Zollstock.</p>
+<h2>Kölner Süden: Villen, Parks und Wald</h2>
+<p>Die Stadtteile im Rheinbogen, also Bayenthal, Marienburg, Rodenkirchen, Weiß und Sürth, werden oft als Kölner Süden zusammengefasst. Typisch sind Villenviertel aus der Gründerzeit, große Gärten, Alleen mit altem Baumbestand und weiträumige Park- und Forstanlagen, vom Grüngürtel entlang der Militärringstraße bis zu den Waldgebieten im Weißer Rheinbogen. Für Sie heißt das: Manche Straßen sind von Bäumen gesäumt, und in Park- und Waldbereichen gibt es wenige Straßenschilder. Beschreiben Sie einen Park, ein Waldstück oder einen Parkplatz mit Namen.</p>
+<h2>Raderberg, Raderthal und Zollstock</h2>
+<p>Die nordwestlichen Stadtteile Raderberg, Raderthal und Zollstock waren teils bis in die 1980er Jahre Industriestandorte und sind dicht bebaute Arbeiterviertel. Hier stehen die Autos eng, und Liegenbleiber auf Nebenstraßen blockieren schnell die Durchfahrt. Sagen Sie uns, wie breit die Straße ist und ob Sie eine Einfahrt blockieren.</p>
+<h2>Godorf und Hahnwald: Raffinerie und Autobahnnähe</h2>
+<p>Im südlichen Teil des Bezirks liegen die nördliche Werksanlage der Rheinland Raffinerie in Godorf und mehrere Gewerbe- und Geschäftsgebiete in Godorf und Hahnwald. Sie sind über die Köln-Bonner Autobahn gut angebunden. Die A555 hat hier die Ausfahrten Köln-Rodenkirchen (3) und Köln-Godorf (4), dahinter folgen Wesseling und Bornheim. Die A555 ist die älteste deutsche Autobahn, eingeweiht 1932. Mehr dazu unter <a href="koeln-a555.html">Panne auf der A555</a>.</p>
+<h2>Rodenkirchener Brücke und Kreuz Köln-Süd</h2>
+<p>Die A4 überquert den Rhein auf der Rodenkirchener Brücke, rund 570 Meter lang. Am Kreuz Köln-Süd trifft sie auf die A555. Beides sind Engstellen im Kölner Verkehrsnetz, mit dichtem Verkehr. Wenn Sie dort liegen bleiben, sagen Sie uns, ob Sie vor, auf oder hinter der Brücke stehen. Weitere Informationen: <a href="pannenhilfe-a4-koeln.html">Panne auf der A4 bei Köln</a> und <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
+<h2>Was wir hier tun</h2>
+<p>Wir koordinieren Pannenhilfe und Abschleppen in ganz Rodenkirchen: Starthilfe, Reifenwechsel, Transport zur Werkstatt. Faster hat seinen Sitz in Antwerpen (Belgien), die Einsätze in Köln übernehmen Partner vor Ort.</p>
+<h2>So beschreiben Sie Ihren Standort in Rodenkirchen</h2>
+<ul class="ticks">
+<li>Stadtteil nennen, zum Beispiel Sürth, Weiß, Marienburg oder Rondorf.</li>
+<li>Bei Straßen im Rheinbogen: Querstraße und, wenn vorhanden, den nächsten Park oder Platz.</li>
+<li>Auf der A555: Ausfahrt 3 (Rodenkirchen) oder 4 (Godorf), Richtung Bonn oder Richtung Köln.</li>
+<li>Auf der A4: ob Sie vor, auf oder hinter der Rodenkirchener Brücke stehen.</li>
+</ul>
+<p>Benachbart sind die <a href="koeln-innenstadt.html">Innenstadt</a>, <a href="koeln-lindenthal.html">Lindenthal</a> und über den Rhein <a href="koeln-porz.html">Porz</a>. Alle Bezirke unter <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke</a>, die Kölner Startseite ist <a href="index.html">Abschleppdienst Köln</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Rodenkirchen</h2>
+<details><summary>Gehört Sürth zu Rodenkirchen?</summary><div>Ja. Sürth ist einer der Stadtteile des Bezirks, ebenso Weiß, Marienburg, Bayenthal und Rodenkirchen selbst.</div></details>
+<details><summary>Welche Ausfahrten hat die A555 im Bezirk?</summary><div>Köln-Rodenkirchen (3) und Köln-Godorf (4), kurz danach folgt Wesseling.</div></details>
+<details><summary>Ich stehe auf der Rodenkirchener Brücke. Was tun?</summary><div>Warnblinker, wenn es sicher geht Warnweste und hinter die Leitplanke. Bei Verletzten 112. Wenn Sie nicht sicher aussteigen können, angeschnallt bleiben und den Notruf wählen.</div></details>
+<details><summary>Helfen Sie auch in Rondorf und Meschenich?</summary><div>Wir koordinieren Hilfe im Kölner Raum. Nennen Sie uns den Stadtteil, dann klären wir, wie wir Ihnen helfen können.</div></details>
+</div></section>
+@@CTA@@
+=== koeln-porz | Abschleppdienst Köln-Porz: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen im flächengrößten Kölner Stadtbezirk Porz: Flughafen-Zubringer A59, Dreieck Porz, Wahner Heide und Rheinbogen. | page ===
+<!--AREAS: Köln, Köln-Porz, Köln-Wahn, Köln-Zündorf, Köln-Poll -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 7</p><h1>Abschleppdienst Köln-Porz</h1><p class="lead">Porz ist der flächengrößte Kölner Stadtbezirk und liegt rechtsrheinisch im Südosten. Der Rhein, die Wahner Heide und der Weg zum Flughafen bestimmen, wie eine Panne dort abläuft.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Größter Bezirk nach Fläche</h2>
+<p>Porz liegt rechtsrheinisch im Südosten der Stadt. Ende 2025 lebten hier rund 117.500 Einwohner auf einer Fläche von 78,78 Quadratkilometern, damit ist Porz flächenmäßig der größte Stadtbezirk Kölns. Er gehört seit dem 1. Januar 1975 zur Stadt, davor war Porz am Rhein selbständig. Zu ihm gehören die Stadtteile Eil, Elsdorf, Ensen, Finkenberg, Gremberghoven, Grengel, Langel, Libur, Lind, Poll, Porz, Urbach, Wahn, Wahnheide, Westhoven und Zündorf. Poll ist der einzige alte Kölner Stadtteil im Bezirk, er gehört schon seit 1888 zu Köln.</p>
+<h2>Große Fläche, weite Wege</h2>
+<p>Weil Porz so groß ist, können zwischen zwei Punkten im Bezirk viele Kilometer liegen. Sagen Sie uns deshalb immer den Stadtteil: Zündorf, Langel und Libur liegen am Rhein im Süden, Wahn und Lind im Osten, Poll im Norden. Die Wahner Heide, ein großes Naturgebiet, liegt im Osten des Bezirks. Wenn Ihr Fahrzeug dort auf einem Waldparkplatz oder einer Nebenstraße liegen bleibt, gibt es oft wenig Anhaltspunkte. Nennen Sie einen Parkplatz, einen Weg oder einen Ortsausgang.</p>
+<h2>A59, Dreieck Porz und Flughafen</h2>
+<p>Die A59 führt von Köln nach Bonn. Nach dem Dreieck Köln-Heumar folgen die Ausfahrt Rath (32), das Dreieck Köln-Porz (33), an dem die A559 anschließt, die Ausfahrt Flughafen (34), Wahn (35) und Lind (36). An der A59 liegt auch die Tankstelle Schloss Röttgen. Wer nach einer Reise am Flughafen mit leerer Batterie oder Reifenschaden steht, sollte die Durchfahrtshöhe seines Parkhauses kennen, siehe <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Tiefgarage und Parkhaus</a>. Mehr zur Autobahn: <a href="koeln-a59.html">Panne auf der A59</a>.</p>
+<h2>A4 und A559 in Poll und Gremberghoven</h2>
+<p>Hinter der Rodenkirchener Brücke erreicht die A4 den Stadtteil Poll, mit der Ausfahrt Köln-Poll (13). Danach folgt das Kreuz Köln-Gremberg, an dem die A559 nach Deutz und zum Flughafen abzweigt. Beide Stellen sind wichtige Verbindungen zwischen den Rheinseiten und daher stark belastet.</p>
+<h2>Was wir hier tun</h2>
+<p>Wir koordinieren Pannenhilfe und Abschleppen in Porz: Starthilfe, Reifenwechsel, Transport zur Werkstatt. Faster hat seinen Sitz in Antwerpen (Belgien), die Einsätze in Köln übernehmen Partner vor Ort.</p>
+<h2>Warum Namen wichtig sind: ein Blick in die Geschichte</h2>
+<p>Porz war bis 1975 eine eigene Stadt am Rhein und erhielt 1951 Stadtrechte. Der Name geht wohl auf lateinisch porta (Tor) oder portus (Hafen) zurück, der Rheinbogen eignete sich früher für einen Naturhafen. Im Bezirk gibt es deshalb bis heute eigene Zentren: Porz-Zentrum, Wahn, Zündorf und weitere. Seit 2007 ist Finkenberg der 86. Stadtteil Kölns. Für Sie heißt das: Wenn Sie sagen "in Porz", meinen Sie vielleicht den Bezirk, den Stadtteil Porz oder das Zentrum von Porz. Nennen Sie deshalb den Stadtteil und eine Straße, zum Beispiel Wahn oder Zündorf, damit ein Fahrzeug nicht am falschen Ende des Bezirks ankommt.</p>
+<h2>So beschreiben Sie Ihren Standort in Porz</h2>
+<ul class="ticks">
+<li>Stadtteil nennen: Porz, Wahn, Lind, Zündorf, Poll, Eil, Urbach und so weiter.</li>
+<li>Auf der A59: Ausfahrt (32 Rath, 34 Flughafen, 35 Wahn, 36 Lind) und Richtung Bonn oder Köln.</li>
+<li>Am Flughafen: Parkhaus, Ebene und Einfahrtshöhe.</li>
+<li>In der Wahner Heide: Parkplatz, Weg oder nächster Ort.</li>
+</ul>
+<p>Benachbart liegen <a href="koeln-kalk.html">Kalk</a> und über den Rhein <a href="koeln-rodenkirchen.html">Rodenkirchen</a>. Alle Bezirke unter <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke</a>, die Kölner Startseite ist <a href="index.html">Abschleppdienst Köln</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Porz</h2>
+<details><summary>Ist Poll in Porz?</summary><div>Ja. Poll gehört seit der Gebietsreform 1975 zum Stadtbezirk Porz, obwohl es schon seit 1888 zu Köln gehört.</div></details>
+<details><summary>Helfen Sie auch am Flughafen Köln/Bonn?</summary><div>Wir koordinieren Hilfe im Kölner Raum. Sagen Sie uns Parkhaus, Ebene und Fahrzeug, dann klären wir, wie wir helfen können.</div></details>
+<details><summary>Wie finde ich meinen Standort in der Wahner Heide?</summary><div>Parkplatz, Weg oder Ortsausgang genügen. Am besten schicken Sie Ihren Standort per WhatsApp.</div></details>
+<details><summary>Welche Ausfahrten hat die A59 bei Porz?</summary><div>Rath (32), Dreieck Köln-Porz (33), Flughafen (34), Wahn (35) und Lind (36).</div></details>
+</div></section>
+@@CTA@@
+=== koeln-kalk | Abschleppdienst Köln-Kalk: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen im Kölner Stadtbezirk Kalk mit Merheim, Rath und Höhenberg: A3, A4, Kreuz Köln-Ost und Dreieck Heumar. | page ===
+<!--AREAS: Köln, Köln-Kalk, Köln-Merheim, Köln-Rath/Heumar, Köln-Ostheim -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 8</p><h1>Abschleppdienst Köln-Kalk</h1><p class="lead">Kalk liegt rechtsrheinisch zwischen Deutz und dem Bergischen Land. An seinen Rändern treffen sich A3, A4 und A59, darunter der nach der Zählung von 2015 am dichtesten befahrene Autobahnabschnitt Deutschlands.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Neun Stadtteile im Osten</h2>
+<p>Der Stadtbezirk 8 besteht aus den Stadtteilen Brück, Höhenberg, Humboldt/Gremberg, Kalk, Merheim, Neubrück, Ostheim, Rath/Heumar und Vingst. Er wurde am 1. Januar 1975 gebildet und trägt den Namen seines bevölkerungsreichsten Stadtteils. Im Norden grenzt er an Mülheim, im Osten an Bergisch Gladbach und Rösrath, im Süden an Porz, im Westen mit Deutz an die Innenstadt. Das Bezirksrathaus wurde 1992 vom Architekten Gottfried Böhm gebaut, das Kalk Karree eröffnete 2003.</p>
+<h2>Industriegeschichte und dichte Straßen</h2>
+<p>Kalk war ein Industriestandort. Die Chemische Fabrik Kalk hat Wurzeln in der Ammoniakfabrik von Nippes, und die Stadtteile um die Kalker Hauptstraße sind bis heute dicht bebaut, mit Gewerbeflächen, Werksgelände und Wohnstraßen dicht nebeneinander. Für Sie heißt das: Wer auf einer Nebenstraße liegen bleibt, steht oft zwischen Lieferverkehr und geparkten Autos. Beschreiben Sie Straße und Hausnummer, damit ein Fahrzeug zielgenau hinkommt.</p>
+<h2>A3, A4 und A59: Kalks Autobahnknoten</h2>
+<p>Am Rand von Kalk laufen mehrere Autobahnen zusammen: Am Dreieck Köln-Heumar treffen A3, A4 und A59 aufeinander, am Kreuz Köln-Ost (16) A3, A4 und B55a. Zwischen den beiden liegt der Abschnitt, der nach der Zählung von 2015 der am dichtesten befahrene Autobahnabschnitt Deutschlands war. Die Ausfahrt Rath (32) der A59 liegt in Rath/Heumar. Auf der A4 folgt hinter Köln-Ost die Ausfahrt Köln-Merheim (17), danach Bergisch Gladbach-Refrath (18). Wer hier stehen bleibt, sollte sofort die Sicherheitsschritte beachten und uns die Ausfahrt nennen. Mehr in <a href="pannenhilfe-a3-koeln.html">Panne auf der A3 bei Köln</a> und <a href="pannenhilfe-a4-koeln.html">Panne auf der A4 bei Köln</a>.</p>
+<h2>Merheim, Brück und der Königsforst</h2>
+<p>Östlich von Köln-Ost führt die A4 an Merheim und Brück vorbei und durch den nördlichen Teil des Königsforsts. Dort ist die Autobahn nur noch fünf-, ab Refrath vierstreifig. Das bedeutet weniger Platz für Ausweichmanöver. Als Anhaltspunkt an der A4 dienen Parkplatz Lustheide und Parkplatz Röttgesberg.</p>
+<h2>Was wir hier tun</h2>
+<p>Wir koordinieren Pannenhilfe und Abschleppen in Kalk: Starthilfe, Reifenwechsel, Transport zur Werkstatt, Bergung nach einem Unfall. Faster hat seinen Sitz in Antwerpen (Belgien), die Einsätze in Köln übernehmen Partner vor Ort.</p>
+<h2>Orientierungspunkte in Kalk</h2>
+<p>Das Bezirksrathaus von Gottfried Böhm, 1992 eröffnet, und das Kalk Karree von 2003 mit überwiegend städtischen Ämtern sind bekannte Punkte im Stadtteil Kalk. Deutz, das auf der Rheinseite direkt angrenzt, gehört zum Bezirk Innenstadt und nicht zu Kalk. Für Ihre Standortangabe heißt das: Sie sind in Kalk, wenn Sie an der Kalker Hauptstraße oder in den Stadtteilen Vingst, Höhenberg oder Ostheim stehen, in Deutz, wenn Sie in Richtung Messe, Bahnhof oder Rhein sind. Sagen Sie uns im Zweifel beides, dann finden wir die richtige Zufahrt.</p>
+<h2>So beschreiben Sie Ihren Standort in Kalk</h2>
+<ul class="ticks">
+<li>Stadtteil nennen: Kalk, Vingst, Höhenberg, Ostheim, Merheim, Brück, Neubrück, Rath/Heumar oder Humboldt/Gremberg.</li>
+<li>Auf der Autobahn: A3, A4 oder A59, Ausfahrt und Richtung.</li>
+<li>Am Dreieck Heumar oder Kreuz Köln-Ost: aus welcher Richtung Sie kamen und wohin Sie wollten.</li>
+<li>Auf Werksgelände oder Gewerbeflächen: Firmenname und Tor.</li>
+</ul>
+<p>Benachbart liegen <a href="koeln-muelheim.html">Mülheim</a>, <a href="koeln-porz.html">Porz</a> und die <a href="koeln-innenstadt.html">Innenstadt</a>. Für Pannen auf den Autobahnen am Bezirksrand lesen Sie <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>. Alle Bezirke unter <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke</a>, die Kölner Startseite ist <a href="index.html">Abschleppdienst Köln</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Kalk</h2>
+<details><summary>Gehört Merheim zu Kalk?</summary><div>Ja. Merheim ist einer der neun Stadtteile des Bezirks Kalk.</div></details>
+<details><summary>Ich stehe am Dreieck Heumar. Was sage ich?</summary><div>Ob Sie auf der A3, A4 oder A59 sind, aus welcher Richtung Sie kamen und in welche Sie wollten.</div></details>
+<details><summary>Gibt es Anhaltspunkte an der A4 östlich von Köln-Ost?</summary><div>Ja, die Ausfahrten Köln-Merheim (17), Refrath (18) und die Parkplätze Lustheide und Röttgesberg.</div></details>
+<details><summary>Was, wenn ich auf einem Werksgelände liege geblieben bin?</summary><div>Nennen Sie Firma und Tor. Wir klären, wer den Zugang öffnen kann und ob das Fahrzeug hineinpasst.</div></details>
+</div></section>
+@@CTA@@
+=== koeln-muelheim | Abschleppdienst Köln-Mülheim: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen im Kölner Stadtbezirk Mülheim mit Holweide, Dellbrück und Flittard: Mülheimer Brücke, A3 und Grenze zu Leverkusen. | page ===
+<!--AREAS: Köln, Köln-Mülheim, Köln-Dellbrück, Köln-Holweide, Köln-Flittard -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 9</p><h1>Abschleppdienst Köln-Mülheim</h1><p class="lead">Mülheim liegt rechtsrheinisch im Norden Kölns, an der Grenze zu Leverkusen und Bergisch Gladbach. Die Mülheimer Brücke und die A3 sind die zwei wichtigsten Wege in den Bezirk.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Neun Stadtteile zwischen Rhein und Bergischem Land</h2>
+<p>Zum Stadtbezirk 9 gehören Buchforst, Buchheim, Dellbrück, Dünnwald, Flittard, Höhenhaus, Holweide, Mülheim und Stammheim. Er grenzt im Norden an Leverkusen, im Osten an Bergisch Gladbach, im Süden an die Bezirke Kalk und Innenstadt, und im Westen bildet der Rhein die Grenze zum Stadtbezirk Nippes. Die Stadtteile im Norden, Flittard und Stammheim, liegen am Rhein nahe der Stadtgrenze, Dellbrück und Holweide weiter östlich Richtung Bergisch Gladbach.</p>
+<h2>Die Mülheimer Brücke</h2>
+<p>Die heutige Mülheimer Brücke wurde 1951 eröffnet und ist die dritte Brücke an derselben Stelle. Die erste war die 1888 eröffnete Schiffbrücke, 1929 folgte eine Hängebrücke, die im Zweiten Weltkrieg zerstört wurde. Sie verbindet Mülheim mit dem linken Rheinufer, und zwar mit Nippes. Wer auf der Brücke liegen bleibt, blockiert eine wichtige Verbindung. Sagen Sie uns, auf welcher Seite Sie stehen und in welche Richtung Sie fahren wollten.</p>
+<h2>A3 mit drei Anschlussstellen</h2>
+<p>Die A3 bedient den Bezirk mit Köln-Mülheim (25, B51) und Köln-Dellbrück (26, B506), davor liegt Leverkusen-Zentrum (24). Zwischen Leverkusen und Köln-Mülheim wurde die A3 im Juni 2017 auf acht Fahrstreifen erweitert. Die Abschnitte sind stark belastet, siehe <a href="pannenhilfe-a3-koeln.html">Panne auf der A3 bei Köln</a>. Wenn Sie dort liegen bleiben, nennen Sie uns die Ausfahrt, die Richtung und ob Sie auf der Fahrbahn oder dem Seitenstreifen stehen.</p>
+<h2>Stadtbahn in den Osten</h2>
+<p>Die Stadtbahnlinien 3 und 4 verbinden Holweide, Dellbrück und Höhenhaus mit Mülheim und der Innenstadt. Auf den Zufahrtsstraßen ist an Haltestellen wenig Platz. Wenn Ihr Fahrzeug Gleise oder eine Haltestelle blockiert, sagen Sie es uns sofort und informieren Sie den Verkehrsbetrieb.</p>
+<h2>Was wir hier tun</h2>
+<p>Wir koordinieren Pannenhilfe und Abschleppen im gesamten Bezirk: Starthilfe, Reifenwechsel, Transport zur Werkstatt. Faster hat seinen Sitz in Antwerpen (Belgien), die Einsätze in Köln übernehmen Partner vor Ort. Wenn Sie in Flittard oder Stammheim an der Stadtgrenze stehen, klären wir am Telefon, ob und wie wir helfen können.</p>
+<h2>Mülheim am Rhein, nicht an der Ruhr</h2>
+<p>Mülheim war bis 1914 eine eigene Stadt am Rhein mit eigenem Oberbürgermeister, bevor es nach Köln eingemeindet wurde. Weil es auch Mülheim an der Ruhr gibt, ist es hilfreich, "Köln-Mülheim" zu sagen. Im Zweiten Weltkrieg wurde der Stadtteil am 28. Oktober 1944 schwer bombardiert, dabei wurden große Kirchen, die Bahnstrecke zwischen Mülheim und Kalk und vieles mehr zerstört. Das erklärt, warum das Stadtbild aus verschiedenen Bauepochen besteht: alte Kirchen neben Nachkriegsbauten und dicht bebauten Straßen mit begrenztem Platz zum Rangieren.</p>
+<h2>So beschreiben Sie Ihren Standort in Mülheim</h2>
+<ul class="ticks">
+<li>Stadtteil nennen: Mülheim, Buchheim, Buchforst, Dellbrück, Holweide, Höhenhaus, Dünnwald, Flittard oder Stammheim.</li>
+<li>Bei der Mülheimer Brücke: Fahrtrichtung und Rheinseite.</li>
+<li>Auf der A3: Ausfahrt 25 oder 26 und Richtung Frankfurt oder Oberhausen.</li>
+<li>An der Stadtgrenze: ob Sie noch in Köln oder schon in Leverkusen stehen.</li>
+</ul>
+<p>Benachbart liegen <a href="koeln-kalk.html">Kalk</a>, <a href="koeln-nippes.html">Nippes</a> auf der anderen Rheinseite und die <a href="koeln-innenstadt.html">Innenstadt</a>. Nach einem Unfall hilft <a href="ratgeber-nach-unfall-fahrbereit.html">Nach dem Unfall: fahrbereit?</a> Alle Bezirke unter <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke</a>, die Kölner Startseite ist <a href="index.html">Abschleppdienst Köln</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Mülheim</h2>
+<details><summary>Welche Stadtteile gehören zu Mülheim?</summary><div>Buchforst, Buchheim, Dellbrück, Dünnwald, Flittard, Höhenhaus, Holweide, Mülheim und Stammheim.</div></details>
+<details><summary>Ich stehe auf der Mülheimer Brücke. Was tun?</summary><div>Warnblinker, wenn es sicher geht Warnweste und aus dem Verkehr an den Rand. Bei Verletzten 112. Danach rufen Sie uns an und nennen die Richtung.</div></details>
+<details><summary>Welche A3-Ausfahrten liegen in Mülheim?</summary><div>Köln-Mülheim (25) und Köln-Dellbrück (26), davor liegt Leverkusen-Zentrum (24).</div></details>
+<details><summary>Kommen Sie auch nach Leverkusen?</summary><div>Das klären wir im Einzelfall am Telefon. Nennen Sie uns Standort und Ziel.</div></details>
+</div></section>
+@@CTA@@
+=== koeln-chorweiler | Abschleppdienst Köln-Chorweiler: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen im Kölner Norden: Chorweiler, Worringen, Merkenich und Fühlingen mit A57, A1 und Kreuz Köln-Nord. | page ===
+<!--AREAS: Köln, Köln-Chorweiler, Köln-Worringen, Köln-Merkenich -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 6</p><h1>Abschleppdienst Köln-Chorweiler</h1><p class="lead">Chorweiler ist der nördlichste Kölner Stadtbezirk und der einzige Außenstadtbezirk, der nicht an die Innenstadt grenzt. Die A57 und die A1 verbinden ihn mit dem Rest der Stadt.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ein Bezirk am Stadtrand</h2>
+<p>Zum Stadtbezirk gehören Blumenberg, Chorweiler, Esch/Auweiler, Fühlingen, Heimersdorf, Lindweiler, Merkenich (mit Rheinkassel, Langel und Kasselberg), Pesch, Roggendorf/Thenhoven, Seeberg, Volkhoven/Weiler und Worringen. Der eigentliche Stadtteil Chorweiler liegt rund 14 Kilometer nördlich des Stadtzentrums. Im Norden und Westen wird der Bezirk von Wald- und Ackerflächen umgeben, im Osten begrenzen ihn die Rheinwiesen. Wegen dieser Randlage sind die Wege zur Innenstadt lang, und die Straßen dazwischen sind wichtig.</p>
+<h2>Die Neue Stadt</h2>
+<p>Der Stadtteil Chorweiler entstand ab 1966 als Großwohnsiedlung, die „Neue Stadt“. Er gilt als größte Plattenbausiedlung in Nordrhein-Westfalen, mit Häusern von bis zu 24 Geschossen. Der Verkehr ist dort teilweise unterirdisch geführt, mit Tunnelbahnhöfen für S-Bahn und Stadtbahn. Für Sie heißt das: Liegenbleiber in der Neuen Stadt stehen oft auf Parkplätzen zwischen Hochhäusern und in Tiefgaragen. Nennen Sie uns Straße oder Hausnummer und, bei Tiefgaragen, Ebene und Einfahrtshöhe. Details unter <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Tiefgarage und Parkhaus</a>.</p>
+<h2>Fühlinger See und Grünflächen</h2>
+<p>Im Osten reichen die Parkanlagen bis zum Naherholungsgebiet Fühlinger See, im Süden gehen sie nach der Überquerung der Autobahn in den Äußeren Grüngürtel über. An Ausflugstagen sind Parkplätze und Zufahrten voll. Für uns ist wichtig, an welchem Parkplatz oder Eingang Sie stehen.</p>
+<h2>A57, A1 und Kreuz Köln-Nord</h2>
+<p>Die A57 hat im Bezirk die Ausfahrten Köln-Worringen (26) und Köln-Chorweiler (27), danach folgt das Kreuz Köln-Nord (28) mit der A1. In Merkenich führt die Strecke an einem großen Industriepark vorbei. Auf der A57 gibt es zwischen Worringen und Chorweiler den Parkplatz Esch/Weiler als Anhaltspunkt. Wenn Sie stehen bleiben, nennen Sie Ausfahrt, Richtung Köln oder Neuss und ob Sie vor oder hinter dem Kreuz stehen. Mehr unter <a href="koeln-a57.html">Panne auf der A57</a> und <a href="pannenhilfe-a1-koeln.html">Panne auf der A1 bei Köln</a>.</p>
+<h2>S-Bahn und Stadtbahn</h2>
+<p>Chorweiler ist an die S-Bahn-Linie 11 und die Stadtbahnlinie 15 angeschlossen, die am Bahnhof Chorweiler endet. Ein liegengebliebenes Fahrzeug muss trotzdem transportiert werden, dafür sagen Sie uns Straße und Hausnummer.</p>
+<h2>Was wir hier tun</h2>
+<p>Wir koordinieren Pannenhilfe und Abschleppen im Kölner Norden. Faster hat seinen Sitz in Antwerpen (Belgien), die Einsätze in Köln übernehmen Partner vor Ort. Bei sehr weiten Wegen sagen wir Ihnen am Telefon, was realistisch ist.</p>
+<h2>So beschreiben Sie Ihren Standort in Chorweiler</h2>
+<ul class="ticks">
+<li>Stadtteil nennen: Chorweiler, Heimersdorf, Seeberg, Fühlingen, Merkenich, Worringen und so weiter.</li>
+<li>In der Neuen Stadt: Straße, Hausnummer oder Parkplatz, Tiefgarage mit Ebene.</li>
+<li>Auf der A57: Ausfahrt 26 oder 27, Richtung Köln oder Neuss.</li>
+<li>Am Fühlinger See: Parkplatz oder Eingang.</li>
+</ul>
+<p>Im Kölner Norden liegen auch <a href="koeln-nippes.html">Nippes</a> und <a href="koeln-ehrenfeld.html">Ehrenfeld</a>, mit denen Chorweiler über die A57 und A1 verbunden ist. Alle Bezirke unter <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke</a>, die Kölner Startseite ist <a href="index.html">Abschleppdienst Köln</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Chorweiler</h2>
+<details><summary>Grenzt Chorweiler an die Innenstadt?</summary><div>Nein. Chorweiler ist der einzige Kölner Außenstadtbezirk, der nicht an den Stadtbezirk Innenstadt grenzt.</div></details>
+<details><summary>Welche Ausfahrten hat die A57 in Chorweiler?</summary><div>Köln-Worringen (26) und Köln-Chorweiler (27), danach folgt das Kreuz Köln-Nord (28).</div></details>
+<details><summary>Ich stehe in einer Tiefgarage in der Neuen Stadt. Was sage ich?</summary><div>Straße, Ebene und die Einfahrtshöhe vom Schild. Nicht jedes Abschleppfahrzeug passt in jede Tiefgarage.</div></details>
+<details><summary>Helfen Sie auch in Worringen?</summary><div>Worringen gehört zum Bezirk. Wir koordinieren Hilfe im Kölner Raum und klären bei weiten Wegen am Telefon, wie wir Ihnen helfen können.</div></details>
+</div></section>
+@@CTA@@

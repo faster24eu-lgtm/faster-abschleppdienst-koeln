@@ -68,7 +68,7 @@
 <details><summary>Warum wird das Lenkrad plötzlich schwer?</summary><div>Ohne laufenden Motor arbeitet die Servolenkung nicht. Sie können weiter lenken, brauchen aber mehr Kraft.</div></details>
 </div></section>
 @@CTA@@
-=== ratgeber-transporter-abschleppen | Transporter liegengeblieben: Abschleppen und Bergen bis 3,5 t | Transporter oder Kleinlaster liegengeblieben: Gewicht, Ladung, Höhe und Führerschein. Was Sie am Telefon angeben sollten und warum Verladen oft nötig ist. | page ===
+=== ratgeber-transporter-abschleppen | Transporter liegengeblieben: Abschleppen bis 3,5 t | Transporter liegengeblieben: Gewicht, Ladung, Höhe, Führerschein. Was Sie am Telefon angeben sollten und warum Verladen oft nötig ist. | page ===
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Transporter abschleppen: Was Sie angeben müssen</h1><p class="lead">Transporter sind schwerer, höher und oft beladen. Deshalb entscheiden ein paar Angaben darüber, welches Fahrzeug kommen muss.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Warum ein Transporter anders ist als ein Pkw</h2>

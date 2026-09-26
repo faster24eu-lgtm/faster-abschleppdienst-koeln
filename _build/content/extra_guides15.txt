@@ -1,0 +1,120 @@
+=== ratgeber-panne-im-tunnel | Panne im Tunnel: was tun? Schritt für Schritt | Panne im Tunnel: Warnblinker, Pannenbucht, Motor aus, Notrufstation und Warnweste. Mit Beispielen aus Köln, Karlsruhe und Baden-Baden. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Panne im Tunnel: Was tun?</h1><p class="lead">Im Tunnel gelten andere Regeln als auf der offenen Straße. Der Grund ist einfach: Es gibt keinen Ausweg nach rechts, und Rauch, Abgase und Lärm verteilen sich in einer Röhre.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Die Schritte</h2>
+<ol>
+<li><strong>Warnblinker sofort einschalten.</strong> Das warnt den nachfolgenden Verkehr so früh wie möglich und vermeidet Auffahrunfälle.</li>
+<li><strong>Fahrzeug abstellen:</strong> in einer Pannenbucht, auf dem Standstreifen oder so weit wie möglich am rechten Fahrbahnrand.</li>
+<li><strong>Motor ausschalten.</strong></li>
+<li><strong>Warnweste anziehen</strong> und vor dem Aussteigen auf den Verkehr achten.</li>
+<li><strong>Notruf über die Notrufstation absetzen.</strong> Im Abstand von 150 Metern finden Sie im Tunnel eine Notrufstation. Nutzen Sie das Notruftelefon statt Ihres Handys: So kann das Tunnelpersonal Ihre genaue Position orten.</li>
+<li><strong>Bei Verletzten oder Feuer:</strong> 112 wählen, siehe unten.</li>
+</ol>
+<div class="note"><p>Bei starker Rauchentwicklung oder Feuer verlassen Sie den Tunnel sofort über die Fluchtwege. Feuer und Rauch können tödlich sein.</p></div>
+<h2>Warum die Notrufstation besser ist als das Handy</h2>
+<p>Von einer Notrufstation aus weiß die Leitstelle, wo im Tunnel Sie stehen. Bei einem Anruf vom Handy müssen Sie die Stelle selbst beschreiben, und im Tunnel gibt es kaum Orientierungspunkte. Merken Sie sich beim Einfahren, wo die Notausgänge und Notrufnischen liegen. Das ist der Grund, warum die Sicherheitseinrichtungen in Tunneln in regelmäßigen Abständen angebracht sind.</p>
+<h2>Vorbereitung vor der Einfahrt</h2>
+<ul class="ticks">
+<li>Abblendlicht einschalten.</li>
+<li>Radio einschalten und auf Verkehrsfunk achten. Bei Störungen kommen Durchsagen.</li>
+<li>Großen Abstand zum Vordermann halten.</li>
+<li>Notausgänge und Notruftelefone einprägen.</li>
+</ul>
+<h2>Tunnel in unseren Regionen</h2>
+<ul class="ticks">
+<li><strong>Köln:</strong> Die A1 verläuft bei Köln-Lövenich auf rund 1,5 Kilometern in einer Lärmschutzeinhausung, siehe <a href="pannenhilfe-a1-koeln.html">Panne auf der A1 bei Köln</a>. Auch in der Innenstadt gibt es Tunnel, zum Beispiel den Rheinufertunnel, siehe <a href="koeln-innenstadt.html">Abschleppdienst Köln-Innenstadt</a>.</li>
+<li><strong>Karlsruhe:</strong> Unter der Kriegsstraße verläuft seit Oktober 2022 der Karoline-Luise-Tunnel mit zwei Röhren, siehe <a href="abschleppdienst-karlsruhe.html">Abschleppdienst Karlsruhe</a>.</li>
+<li><strong>Baden-Baden:</strong> Der Michaelstunnel auf der B500 ist rund 2,5 Kilometer lang und hat nur eine Röhre mit Gegenverkehr, siehe <a href="abschleppdienst-baden-baden.html">Abschleppdienst Baden-Baden</a>.</li>
+</ul>
+<h2>Wenn Sie im Stau im Tunnel stehen</h2>
+<p>Automobilclubs empfehlen, im Tunnel großen Abstand zu halten und bei einem Stau den Warnblinker einzuschalten. Hören Sie den Verkehrsfunk und folgen Sie den Anweisungen aus dem Radio und den Tunnelanzeigen. Bei längerem Stillstand ist es üblich, den Motor abzustellen, damit weniger Abgase entstehen. Für eine Panne gilt trotzdem: Ein liegengebliebenes Fahrzeug in der Pannenbucht ist besser als eines auf der Fahrspur, und wenn Sie nicht mehr aus eigener Kraft weiterkommen, ist die Notrufstation Ihr erster Ansprechpartner, danach wir.</p>
+<h2>Was Sie uns sagen sollten</h2>
+<p>Wenn das Fahrzeug aus dem Tunnel gebracht werden muss, nennen Sie uns den Namen des Tunnels, die Fahrtrichtung und ob Sie in einer Pannenbucht, am Rand oder auf der Fahrbahn stehen. Auch ob die Polizei oder die Tunnelleitstelle schon Bescheid weiß, ist wichtig. Wird auf der Autobahn ein Vertragsunternehmen gerufen, dürfen Sie Ihren Wunsch nennen, eine Zusage ist das nicht. Die Regeln für Autobahnen im Allgemeinen stehen unter <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Soll ich im Tunnel im Auto bleiben oder aussteigen?</summary><div>Stellen Sie das Fahrzeug ab und gehen Sie zur nächsten Notrufstation, wenn das gefahrlos möglich ist. Bei Rauch oder Feuer verlassen Sie den Tunnel über die Fluchtwege.</div></details>
+<details><summary>Wie weit ist die nächste Notrufstation?</summary><div>Im Tunnel finden Sie im Abstand von 150 Metern eine Notrufstation.</div></details>
+<details><summary>Warum nicht mit dem Handy telefonieren?</summary><div>Über die Notrufstation kann das Tunnelpersonal Ihre genaue Position orten. Beim Handy müssen Sie den Ort selbst beschreiben.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-umweltzone-koeln | Umweltzone Köln: was gilt beim Abschleppen? | Kölner Umweltzone: grüne Plakette seit 2014, 100 Euro Bußgeld, Ausnahmen und was das für Pannenfahrzeuge bedeutet. Was wir nicht sicher wissen. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber · Köln</p><h1>Umweltzone Köln: Was gilt für Pannenfahrzeuge?</h1><p class="lead">Ihr Auto ist in Köln liegen geblieben, und Sie fragen sich, ob die Umweltzone beim Abschleppen eine Rolle spielt. Hier steht, was die Stadt Köln zur Umweltzone sagt, und was wir nicht zuverlässig wissen.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p>Das ist eine allgemeine Übersicht. Verbindliche Auskunft gibt die Stadt Köln. Sie sagt, welche Straßen zur Umweltzone gehören, und wer eine Ausnahme bekommt.</p></div>
+<h2>Die Grundregel</h2>
+<p>In Köln darf in der ausgewiesenen Umweltzone nur fahren, wer eine grüne Umweltplakette hat. Die Regel gilt seit dem 1. Juli 2014. Wer ohne gültige Plakette, ohne Bescheinigung oder ohne Ausnahmegenehmigung in der Zone fährt, begeht eine Ordnungswidrigkeit, die mit 100 Euro Bußgeld geahndet wird. Die Zone wurde 2019 erweitert, welche Straßen aktuell dazugehören, steht bei der Stadt Köln.</p>
+<h2>Welche Fahrzeuge keine Plakette brauchen</h2>
+<p>Für bestimmte Fahrzeuge hat der Gesetzgeber Ausnahmen festgelegt. Sie dürfen auch ohne Plakette, Bescheinigung oder schriftliche Einzelfallgenehmigung in der Zone gefahren werden. Dazu gehören laut den Angaben der Stadt zum Beispiel Krankenwagen und Fahrzeuge mit Sonderrechten. Darüber hinaus gibt es Ausnahmegenehmigungen im Einzelfall, die man bei der Stadt beantragen muss.</p>
+<h2>Was wir nicht wissen</h2>
+<p>Ob Abschleppwagen und Pannenhilfefahrzeuge in Köln pauschal von der Plakettenpflicht befreit sind, haben wir nicht verlässlich klären können. Deshalb sagen wir es Ihnen nicht ungefragt zu und behaupten es auch nicht. Wenn es für Ihre Situation wichtig ist, fragen Sie bei der Stadt Köln (Ordnungsamt oder Amt für Umwelt und Verbraucherschutz) nach. Wenn Ihr Fahrzeug aus der Umweltzone gebracht werden muss und Sie keine grüne Plakette haben, sagen Sie es uns am Telefon.</p>
+<h2>Was das für Ihr Fahrzeug heißt</h2>
+<ul class="ticks">
+<li><strong>Fahrzeug mit grüner Plakette:</strong> Sie fahren, wie Sie immer fahren. Die Umweltzone spielt beim Transport keine besondere Rolle für Sie.</li>
+<li><strong>Fahrzeug ohne Plakette oder mit anderer Farbe:</strong> Sie dürfen nicht in die Umweltzone einfahren. Wenn es in der Zone liegen geblieben ist, sagen Sie uns das, damit wir gemeinsam klären, wie es herauskommt.</li>
+<li><strong>Nach der Reparatur:</strong> Wenn Ihr Auto selbst wieder durch die Stadt fahren soll, muss es die Voraussetzungen der Umweltzone erfüllen.</li>
+<li><strong>Ausländisches Kennzeichen:</strong> Erkundigen Sie sich bei der Stadt, wie die Regelung für Ihr Fahrzeug gilt.</li>
+</ul>
+<h2>Was die grüne Plakette ist</h2>
+<p>Die grüne Feinstaubplakette bekommen Fahrzeuge mit geringem Schadstoffausstoß. Wie sie erteilt wird und welche Fahrzeuge dazugehören, erklärt die Stadt Köln auf ihren Seiten zur Feinstaubplakette. Die Plakette hängt an der Windschutzscheibe und muss dauerhaft angebracht sein, sonst gilt das Fahrzeug in der Zone als ohne Plakette. Wenn Sie erst nach einer Panne feststellen, dass Ihr Fahrzeug keine grüne Plakette hat, lohnt sich ein Blick in die Unterlagen und ein Anruf beim Zulassungs- oder Umweltamt.</p>
+<h2>Was Sie tun können, wenn Sie unsicher sind</h2>
+<ol>
+<li>Fahrzeugschein und Plakette prüfen.</li>
+<li>Bei der Stadt Köln nachfragen, ob Ihre Straße in der Umweltzone liegt.</li>
+<li>Uns sagen, wo Ihr Fahrzeug steht und welche Plakette es hat.</li>
+<li>Das Fahrzeug auf der Ladefläche transportieren lassen, statt mit eigener Kraft aus der Zone zu fahren.</li>
+</ol>
+<h2>Wo es in Köln relevant wird</h2>
+<p>Die Umweltzone betrifft große Teile der Stadt. Für die Stadtbezirke und Rheinbrücken finden Sie eine Übersicht unter <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke und Rheinbrücken</a>, für die Innenstadt speziell <a href="koeln-innenstadt.html">Abschleppdienst Köln-Innenstadt</a>. Auf den Autobahnen um Köln gelten andere Regeln, siehe <a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Seit wann gilt die grüne Plakette in Köln?</summary><div>Seit dem 1. Juli 2014.</div></details>
+<details><summary>Wie hoch ist das Bußgeld?</summary><div>100 Euro, wenn Sie ohne gültige Plakette oder ohne Ausnahme in der Umweltzone fahren.</div></details>
+<details><summary>Sind Abschleppwagen ausgenommen?</summary><div>Das haben wir nicht verlässlich klären können. Fragen Sie bei Bedarf bei der Stadt Köln nach.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-abschleppen-koeln-kosten | Abschleppen in Köln: wovon die Kosten abhängen | Abschleppen in Köln: welche Faktoren die Kosten beeinflussen, von Rheinseite und Ring über Tiefgarage bis Nachtzeit. Ohne konkrete Preise. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber · Köln</p><h1>Abschleppen in Köln: Wovon hängen die Kosten ab?</h1><p class="lead">Ein Preis für alle Fälle wäre falsch. Hier steht, welche Punkte in Köln den Aufwand bestimmen, und was Sie fragen sollten, bevor Sie beauftragen.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p>Auf dieser Seite nennen wir bewusst keine Preise. Was ein Einsatz kostet, besprechen wir mit Ihnen persönlich, nachdem wir die Lage kennen.</p></div>
+<h2>Die Faktoren im Überblick</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Faktor</th><th>Warum er den Aufwand verändert</th></tr></thead><tbody>
+<tr><td>Standort und Ziel</td><td>Der Weg zwischen Standort, Werkstatt und Fahrzeug bestimmt Zeit und Kilometer.</td></tr>
+<tr><td>Rheinseite</td><td>Zwischen links- und rechtsrheinisch gibt es nur wenige Brücken, das kann den Weg verlängern.</td></tr>
+<tr><td>Autobahn oder Stadt</td><td>Auf dem Ring gelten andere Sicherungspflichten, und es kann Stau geben.</td></tr>
+<tr><td>Uhrzeit</td><td>Nachts, am Wochenende und an Feiertagen sind Aufschläge üblich.</td></tr>
+<tr><td>Fahrzeugart</td><td>Pkw, Transporter, Motorrad oder Elektroauto brauchen jeweils andere Technik.</td></tr>
+<tr><td>Zustand</td><td>Ein rollendes Fahrzeug ist einfacher zu verladen als ein blockiertes oder ein Unfallwrack.</td></tr>
+<tr><td>Ort</td><td>Tiefgarage, enge Straße oder Baustelle erfordern ein passendes Fahrzeug und mehr Zeit.</td></tr>
+</tbody></table></div>
+<h2>Was in Köln besonders ist</h2>
+<p>Köln liegt an beiden Seiten des Rheins, und der Ring aus A1, A3 und A4 gehört zu den am stärksten belasteten Autobahnverbindungen des Landes. Ein Einsatz kann deshalb länger dauern, als die Kilometer erwarten lassen. Wenn Sie das Fahrzeug in einer Tiefgarage oder einem Parkhaus haben, entscheidet die Durchfahrtshöhe, welches Fahrzeug kommen kann, siehe <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Tiefgarage und Parkhaus</a>. Für Ihre Wegbeschreibung helfen die Seiten zu den Stadtbezirken, zum Beispiel <a href="koeln-ehrenfeld.html">Köln-Ehrenfeld</a> oder <a href="koeln-porz.html">Köln-Porz</a>.</p>
+<h2>Fragen vor der Beauftragung</h2>
+<ol>
+<li>Ist das ein Festpreis oder ein Richtpreis?</li>
+<li>Sind Anfahrt, Verladung und alle Kilometer enthalten?</li>
+<li>Gibt es einen Aufschlag für Nacht, Wochenende oder Feiertag?</li>
+<li>Ist die Mehrwertsteuer enthalten?</li>
+<li>Wie kann ich bezahlen?</li>
+<li>Wohin genau wird das Fahrzeug gebracht?</li>
+</ol>
+<p>Lassen Sie sich die Antworten möglichst schriftlich geben, zum Beispiel per WhatsApp.</p>
+<h2>Zeit ist ein eigener Faktor</h2>
+<p>In Köln kann ein Einsatz auf dem Autobahnring durch Stau länger dauern, als die Kilometer erwarten lassen. Das wirkt sich auf die Kosten aus, weil Wartezeit und Fahrtzeit mitbezahlt werden. Dasselbe gilt für Einsätze in der Innenstadt bei Baustellen oder Sperrungen. Fragen Sie deshalb, ob Wartezeit im Preis enthalten ist, und sagen Sie uns, ob Ihr Termin drängt: Manchmal entscheidet die Wahl der Rheinbrücke über die Fahrtzeit.</p>
+<h2>So läuft es bei uns ab</h2>
+<ol>
+<li>Sie rufen an oder schreiben per WhatsApp und schicken Ihren Standort.</li>
+<li>Wir klären Fahrzeug, Zustand, Ziel und Uhrzeit.</li>
+<li>Wir besprechen die Kosten mit Ihnen persönlich, bevor jemand losfährt.</li>
+<li>Der Partner vor Ort übernimmt den Einsatz, wir bleiben Ihr Ansprechpartner.</li>
+</ol>
+<h2>Wenn ein anderer zahlt</h2>
+<p>Nach einem unverschuldeten Unfall trägt in der Regel die Haftpflichtversicherung des Unfallgegners die Abschleppkosten, siehe <a href="ratgeber-unfall-abschleppkosten.html">Abschleppkosten nach einem Unfall</a>. Ein Schutzbrief oder eine Clubmitgliedschaft kann die Hilfe ebenfalls abdecken. Prüfen Sie Ihre Unterlagen, bevor Sie zahlen. Allgemeine Hinweise zu Marktwerten für Abschleppdienste in Deutschland finden Sie im <a href="ratgeber-abschleppdienst-kosten.html">allgemeinen Kosten-Ratgeber</a>.</p>
+<h2>Wer bezahlt, wer fährt?</h2>
+<p>Faster hat seinen Sitz in Antwerpen (Belgien). In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Wir koordinieren die Hilfe und besprechen die Kosten mit Ihnen, bevor es losgeht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Nennen Sie hier keine Preise?</summary><div>Nein. Die Kosten hängen von zu vielen Faktoren ab. Wir besprechen Ihren Fall persönlich.</div></details>
+<details><summary>Ist Abschleppen nachts teurer?</summary><div>Häufig ja. Fragen Sie nach dem Endpreis inklusive aller Zuschläge.</div></details>
+<details><summary>Kostet eine Fahrt über den Rhein mehr?</summary><div>Sie kann den Weg verlängern. Nennen Sie Standort und Ziel, dann klären wir es.</div></details>
+</div></section>
+@@CTA@@

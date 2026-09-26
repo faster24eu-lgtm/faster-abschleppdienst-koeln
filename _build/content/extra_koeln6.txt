@@ -1,0 +1,177 @@
+=== koeln-a57 | Panne auf der A57 bei Köln: Ausfahrten und Ende | Panne auf der A57 zwischen Dormagen und Köln-Ehrenfeld: Ausfahrten 25 bis 30, Kreuz Köln-Nord, Autobahnende und wie Sie Ihren Standort melden. | page ===
+<!--AREAS: Köln, Dormagen, Köln-Chorweiler, Köln-Ehrenfeld -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A57</p><h1>Panne auf der A57 bei Köln</h1><p class="lead">Die A57 kommt vom Niederrhein und Neuss, kreuzt bei Chorweiler die A1 und endet mitten in Köln-Ehrenfeld. Auf dieser Strecke wechseln Spurzahl und Umgebung mehrfach, und das beeinflusst, wie Sie sich bei einer Panne verhalten.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ausfahrten der A57 im Kölner Raum</h2>
+<p>Die Bundesautobahn 57 verläuft von der niederländischen Grenze bei Goch parallel zum Rhein über Krefeld und Neuss nach Köln. Sie gehört zur Europastraße 31, die von Rotterdam bis nach Hockenheim führt. In Köln passieren Sie von Norden nach Süden diese Stellen:</p>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Nr.</th><th>Name</th><th>Besonderheit</th></tr></thead><tbody>
+<tr><td>24</td><td>Dreieck Neuss-Süd</td><td>Anschluss A46</td></tr>
+<tr><td>25</td><td>Dormagen (Nord- und Südteil)</td><td>Rhein-Kreis Neuss, nördlich der Kölner Stadtgrenze</td></tr>
+<tr><td>26</td><td>Köln-Worringen</td><td>danach Parkplatz Esch/Weiler</td></tr>
+<tr><td>27</td><td>Köln-Chorweiler</td><td></td></tr>
+<tr><td>28</td><td>Kreuz Köln-Nord</td><td>A1, E37, Kölner Autobahnring</td></tr>
+<tr><td>28</td><td>Köln-Longerich</td><td>ab hier fünfstreifig</td></tr>
+<tr><td>29</td><td>Köln-Bickendorf</td><td>ab hier sechsstreifig</td></tr>
+<tr><td>30</td><td>Köln-Ehrenfeld</td><td>danach Autobahnende</td></tr>
+</tbody></table></div>
+<h2>Das Autobahnende in Ehrenfeld</h2>
+<p>Nach der Ausfahrt Köln-Ehrenfeld endet die A57. Die Strecke geht dort als K 4 bis zur Inneren Kanalstraße und zur B55a weiter. Wer in diesem Bereich liegen bleibt, steht plötzlich nicht mehr auf der Autobahn, sondern auf einer Stadtstraße mit Ampeln, Kreuzungen und Fußgängern. Für uns ist wichtig zu wissen, ob Sie noch auf der Autobahn oder schon auf der K 4 stehen. Dann klären wir, welche Regeln gelten, siehe auch <a href="koeln-ehrenfeld.html">Abschleppdienst Köln-Ehrenfeld</a>.</p>
+<h2>Spuren und Verkehrsbeeinflussung</h2>
+<p>Zwischen Dormagen und Köln-Worringen gibt es eine Verkehrsbeeinflussungsanlage. Hinter dem Kreuz Köln-Nord hat die A57 fünf, ab Longerich sechs Fahrstreifen. Sechs Spuren heißen: Der rechte Rand ist von der Mitte aus weit entfernt. Wenn Ihr Fahrzeug an Leistung verliert, wechseln Sie früh nach rechts und rollen aus, statt auf einer mittleren Spur stehen zu bleiben. Wenn Sie den Rand nicht mehr erreichen, schalten Sie den Warnblinker ein, bleiben Sie angeschnallt und wählen Sie die 112.</p>
+<h2>Kreuz Köln-Nord</h2>
+<p>Am Kreuz Köln-Nord bei Chorweiler trifft die A57 auf die A1 und den Kölner Autobahnring. Kreuze haben viele Zu- und Abfahrten, deshalb fragen wir bei einer Panne dort immer zwei Dinge: Aus welcher Richtung kamen Sie, und in welche Richtung wollten Sie fahren? Mehr zur Umgebung: <a href="pannenhilfe-a1-koeln.html">Panne auf der A1 bei Köln</a> und <a href="koeln-chorweiler.html">Abschleppdienst Köln-Chorweiler</a>.</p>
+<h2>Was Sie am Telefon sagen sollten</h2>
+<ol>
+<li>Autobahn (A57) und Richtung: Richtung Köln oder Richtung Neuss</li>
+<li>Letzte Ausfahrt oder Parkplatz (Esch/Weiler)</li>
+<li>Ob Sie auf dem Seitenstreifen, auf einer Fahrspur oder schon nach dem Autobahnende stehen</li>
+<li>Fahrzeug und Antrieb</li>
+<li>Ob jemand verletzt ist</li>
+</ol>
+<p>Die Schritte, die Sie zuerst gehen, stehen im Ratgeber <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>. Wenn Sie den Rand erreicht haben: Warnweste anziehen, aussteigen, hinter die Leitplanke. Kommt die Polizei oder haben Sie die Notrufsäule benutzt, wird häufig ein Vertragsunternehmen beauftragt, Ihren Wunsch dürfen Sie trotzdem nennen.</p>
+<h2>Wer fährt in Köln?</h2>
+<p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze im Kölner Raum übernehmen Partner vor Ort, wir koordinieren sie. Bei Einsätzen nördlich der Stadtgrenze, etwa in Dormagen, klären wir am Telefon, ob und wie wir helfen können.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A57 bei Köln</h2>
+<details><summary>Wo endet die A57?</summary><div>In Köln-Ehrenfeld nach der Ausfahrt 30. Danach führt die Strecke als K 4 zur Inneren Kanalstraße.</div></details>
+<details><summary>Welche Ausfahrten hat die A57 in Köln?</summary><div>Köln-Worringen (26), Köln-Chorweiler (27), Kreuz Köln-Nord (28), Köln-Longerich (28), Köln-Bickendorf (29) und Köln-Ehrenfeld (30).</div></details>
+<details><summary>Gibt es Parkplätze an der A57 im Kölner Norden?</summary><div>Zwischen Worringen und Chorweiler liegt der Parkplatz Esch/Weiler.</div></details>
+<details><summary>Was, wenn ich nach dem Autobahnende liegen bleibe?</summary><div>Sagen Sie uns, dass Sie schon auf der K 4 oder der Inneren Kanalstraße stehen. Dort gelten Stadtregeln, keine Autobahnregeln.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="koeln-ehrenfeld.html">Köln-Ehrenfeld<small>A57-Ende, Venloer Straße</small></a><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring<small>A1, A3, A4 im Überblick</small></a><a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn<small>Die Schritte</small></a></div></div></section>
+@@CTA@@
+=== koeln-a59 | Panne auf der A59 bei Köln: Heumar bis Troisdorf | Panne auf der A59 zwischen Dreieck Köln-Heumar, Flughafen und Bonn: Ausfahrten 31 bis 43, Dreieck Porz, Anschlüsse und Verhalten. | page ===
+<!--AREAS: Köln, Köln-Porz, Troisdorf, Bonn -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A59</p><h1>Panne auf der A59 bei Köln</h1><p class="lead">Die A59 zwischen Köln und Bonn ist die rechtsrheinische Verbindung mit dem Flughafen. Sie beginnt am Dreieck Köln-Heumar und führt durch den Kölner Südosten bis Bonn-Beuel.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Drei getrennte A59</h2>
+<p>Die Bundesautobahn 59 besteht aus drei unterbrochenen Abschnitten. Der nördlichste liegt in Duisburg, ein weiterer führt von Düsseldorf bis Leverkusen, und schließlich verbindet die A59 Köln mit Bonn-Beuel. Um diesen dritten Abschnitt geht es hier. Er beginnt am Dreieck Köln-Heumar, an dem A3 und A4 zusammenlaufen.</p>
+<h2>Ausfahrten und Kreuze</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Nr.</th><th>Name</th><th>Anschluss / Hinweis</th></tr></thead><tbody>
+<tr><td>31</td><td>Dreieck Köln-Heumar</td><td>A3, A4</td></tr>
+<tr><td>32</td><td>Rath</td><td>nach einer 480 m langen Hochstraße</td></tr>
+<tr><td>33</td><td>Dreieck Köln-Porz</td><td>A559; ab hier fünfstreifig</td></tr>
+<tr><td>34</td><td>Flughafen</td><td>Flughafen Köln/Bonn</td></tr>
+<tr><td>35</td><td>Wahn</td><td></td></tr>
+<tr><td>36</td><td>Lind</td><td>B8</td></tr>
+<tr><td>37</td><td>Spich</td><td>Troisdorf</td></tr>
+<tr><td>38</td><td>Troisdorf</td><td></td></tr>
+<tr><td>39</td><td>Dreieck Sankt Augustin-West</td><td>A560</td></tr>
+<tr><td>40</td><td>Dreieck Bonn-Nordost</td><td>A565</td></tr>
+<tr><td>41</td><td>Bonn-Vilich</td><td>B56</td></tr>
+<tr><td>42</td><td>Bonn-Pützchen</td><td></td></tr>
+<tr><td>43</td><td>Kreuz Bonn-Ost</td><td>A562, B42</td></tr>
+</tbody></table></div>
+<p>Zwischen Dreieck Porz und der Ausfahrt Flughafen liegt an der A59 die Tankstelle Schloss Röttgen. Sie dient als Anhaltspunkt, wenn Sie nur wissen, dass Sie zwischen zwei Ausfahrten stehen.</p>
+<h2>Flughafen Köln/Bonn</h2>
+<p>Die Ausfahrt 34 führt zum Flughafen Köln/Bonn. Die Parkhäuser P1 bis P3 liegen direkt an den Terminals. Für das Parkhaus P2 nennen Parkportale eine maximale Fahrzeughöhe von 1,95 Metern. Verlässlich ist das Schild an der Einfahrt. Wer nach der Rückkehr aus dem Urlaub mit leerer Batterie im Parkhaus steht, braucht oft Starthilfe, keinen Transport. Wie Sie das angehen, steht im Ratgeber <a href="ratgeber-starthilfe-batterie.html">Starthilfe und leere Batterie</a>. Höhe und Rampen klärt <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Tiefgarage und Parkhaus</a>.</p>
+<h2>Viele Anschlüsse auf kurzer Strecke</h2>
+<p>Zwischen Heumar und Bonn-Ost folgen mehr als ein Dutzend Ausfahrten, Dreiecke und Kreuze. Dort wechseln viele Fahrzeuge die Spur. Bei einer Panne heißt das: Sagen Sie uns nicht nur "auf der A59", sondern die letzte Ausfahrt und die Richtung, Richtung Bonn oder Richtung Köln.</p>
+<h2>Was Sie am Telefon sagen sollten</h2>
+<ol>
+<li>A59 und Richtung Bonn oder Köln</li>
+<li>Letzte Ausfahrt oder Dreieck</li>
+<li>Ob Sie auf dem Seitenstreifen, auf einer Spur oder am Flughafen stehen</li>
+<li>Fahrzeug, Antrieb und ob es rollt</li>
+<li>Ob jemand verletzt ist</li>
+</ol>
+<p>Die Grundschritte bei einer Autobahnpanne stehen im Ratgeber <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>. Der Bezirk, in dem der größte Teil der A59 im Kölner Stadtgebiet liegt, ist <a href="koeln-porz.html">Köln-Porz</a>.</p>
+<h2>Nach der Reise: typische Lage am Flughafen</h2>
+<p>Viele Pannen am Flughafen sind Standzeit-Pannen: Wer sein Fahrzeug über Tage oder Wochen im Parkhaus stehen lässt, findet bei der Rückkehr manchmal eine leere Batterie vor, weil sich die Batterie auch im Stand entlädt. Dann reicht in der Regel Starthilfe. Bei Hybrid und Elektro sind die Anschlusspunkte vom Hersteller vorgegeben, dazu <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>. Wenn Sie nach einer Reise müde sind und Ihr Fahrzeug nicht anspringt, sagen Sie uns Parkhaus und Ebene, dann ersparen Sie sich das Suchen.</p>
+<h2>Wer fährt in Köln?</h2>
+<p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze im Kölner Raum übernehmen Partner vor Ort, wir koordinieren sie. Bei Einsätzen weiter Richtung Bonn klären wir am Telefon, ob und wie wir helfen können.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A59 bei Köln</h2>
+<details><summary>Wo beginnt die A59 bei Köln?</summary><div>Am Dreieck Köln-Heumar, wo A3 und A4 zusammenlaufen. Die erste Ausfahrt ist Rath (32).</div></details>
+<details><summary>Wie komme ich zum Flughafen?</summary><div>Über die Ausfahrt Flughafen (34) der A59. Die Parkhäuser P1 bis P3 liegen direkt an den Terminals.</div></details>
+<details><summary>Was ist das Dreieck Köln-Porz?</summary><div>Ein Autobahndreieck (33), an dem die A559 anschließt. Ab dort hat die A59 fünf Fahrstreifen.</div></details>
+<details><summary>Gibt es einen Anhaltspunkt zwischen Porz und Flughafen?</summary><div>Ja, die Tankstelle Schloss Röttgen an der A59.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="koeln-porz.html">Köln-Porz<small>Flughafen, Wahner Heide</small></a><a href="pannenhilfe-a4-koeln.html">Panne auf der A4<small>Frechen bis Bensberg</small></a><a href="koeln-a555.html">Panne auf der A555<small>Köln-Bonner Autobahn</small></a></div></div></section>
+@@CTA@@
+=== koeln-a555 | Panne auf der A555: Köln-Bonner Autobahn | Panne auf der A555 zwischen Kreuz Köln-Süd und Bonn: Ausfahrten 2 bis 7, Godorf, Wesseling, Bornheim, älteste deutsche Autobahn. | page ===
+<!--AREAS: Köln, Köln-Rodenkirchen, Wesseling, Bornheim, Bonn -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A555</p><h1>Panne auf der A555 zwischen Köln und Bonn</h1><p class="lead">Die A555 ist die älteste deutsche Autobahn. Sie verbindet Köln und Bonn seit 1932 und wird heute täglich von weit über 100.000 Fahrzeugen genutzt.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Die älteste Autobahn Deutschlands</h2>
+<p>Die A555 wurde am 6. August 1932 eingeweiht, vom damaligen Kölner Oberbürgermeister Konrad Adenauer. Der Bau hatte im Oktober 1928 begonnen. Als "kreuzungsfreie Kraftfahr-Straße" galt sie 1932 mit rund 3.000 Kraftwagen täglich als die verkehrsreichste Straße im Deutschen Reich. Zur Bundesautobahn erklärt wurde sie erst am 1. April 1958. Man nennt sie deshalb auch Köln-Bonner Autobahn. Diese Geschichte erklärt, warum sie auch heute noch als Verbindung zwischen zwei Städten genutzt wird, mit vielen kurzen Abständen zwischen den Ausfahrten.</p>
+<h2>Verkehr heute</h2>
+<p>Nach Angaben der Autobahn GmbH fahren am Kreuz Köln-Süd täglich über 120.000 Fahrzeuge auf der A555 und über 150.000 auf der A4. Rund 50.000 Fahrzeuge nutzen das Kreuz, um nach Köln hinein oder hinaus zu fahren. Das ist einer der Engpässe im Kölner Süden. Wer dort mit Panne stehen bleibt, steht oft im Stau.</p>
+<h2>Ausfahrten der A555</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Nr.</th><th>Name</th><th>Hinweis</th></tr></thead><tbody>
+<tr><td>2</td><td>Kreuz Köln-Süd</td><td>A4 (Kölner Autobahnring)</td></tr>
+<tr><td>3</td><td>Köln-Rodenkirchen</td><td></td></tr>
+<tr><td>4</td><td>Köln-Godorf</td><td>Raffineriezentrum in der Nähe</td></tr>
+<tr><td>5</td><td>Wesseling</td><td></td></tr>
+<tr><td>6</td><td>Bornheim</td><td></td></tr>
+<tr><td>7</td><td>Kreuz Bonn-Nord</td><td>A565</td></tr>
+</tbody></table></div>
+<p>Dazwischen ist ein weiterer Anschluss in Bonn-Rheindorf geplant. Im Kölner Stadtgebiet liegen die Ausfahrten Rodenkirchen und Godorf, ausführlich beschrieben unter <a href="koeln-rodenkirchen.html">Abschleppdienst Köln-Rodenkirchen</a>. Wesseling und Bornheim gehören nicht mehr zu Köln, es handelt sich um Städte im Rhein-Erft-Kreis und im Rhein-Sieg-Kreis.</p>
+<h2>Von der Landstraße 185 zur Bundesautobahn</h2>
+<p>Formal galt die Strecke 1932 als Kraftwagenstraße und hieß "Landstraße 185", als südliche Verlängerung der Bonner Straße in Köln. Die Baukosten lagen bei rund 8,6 Millionen Reichsmark, und der Bau war eine Arbeitsbeschaffungsmaßnahme, an der 5.540 Notstandsarbeiter beteiligt waren. Für Sie hat das eine praktische Folge: Die Trasse ist alt, die Ausfahrten folgen dicht aufeinander, und viele Abschnitte sind seit den Anfängen mehrfach ausgebaut worden. Wenn Sie stehen bleiben, ist die nächste Ausfahrt meist nicht weit, und Sie sollten sie uns nennen.</p>
+<h2>Was bei einer Panne anders ist</h2>
+<p>Auf einer stark befahrenen Pendlerstrecke ist der Seitenstreifen ein gefährlicher Ort. Wenn Ihr Fahrzeug Leistung verliert, versuchen Sie, bis zur nächsten Ausfahrt zu rollen. Auf der A555 folgen die Ausfahrten dicht aufeinander, das kann helfen. Warnblinker, Warnweste, aussteigen und hinter die Leitplanke, siehe <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>. Wenn ein Automobilclub oder die Polizei einen Vertragsdienst ruft, dürfen Sie Ihren Wunsch nennen. Eine Zusage ist das nicht.</p>
+<h2>Was Sie uns sagen sollten</h2>
+<ol>
+<li>A555, Richtung Bonn oder Richtung Köln</li>
+<li>Letzte Ausfahrt: Rodenkirchen (3), Godorf (4), Wesseling (5) oder Bornheim (6)</li>
+<li>Ob Sie vor dem Kreuz Köln-Süd oder danach stehen</li>
+<li>Fahrzeug, Antrieb und ob es rollt</li>
+<li>Ob jemand verletzt ist</li>
+</ol>
+<h2>Wer fährt in Köln?</h2>
+<p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze im Kölner Raum übernehmen Partner vor Ort, wir koordinieren sie. Für Einsätze in Wesseling, Bornheim oder Bonn klären wir am Telefon, ob und wie wir helfen können.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A555</h2>
+<details><summary>Seit wann gibt es die A555?</summary><div>Sie wurde am 6. August 1932 eingeweiht und ist die älteste deutsche Autobahn. Zur Bundesautobahn erklärt wurde sie am 1. April 1958.</div></details>
+<details><summary>Welche Ausfahrten hat sie?</summary><div>Kreuz Köln-Süd (2), Köln-Rodenkirchen (3), Köln-Godorf (4), Wesseling (5), Bornheim (6) und Kreuz Bonn-Nord (7).</div></details>
+<details><summary>Wo endet die A555?</summary><div>Am Kreuz Bonn-Nord, wo die A565 anschließt.</div></details>
+<details><summary>Was tun am Kreuz Köln-Süd?</summary><div>Sagen Sie uns, ob Sie auf der A4 oder A555 stehen und aus welcher Richtung Sie kamen. Dort gibt es viele Zu- und Abfahrten.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="koeln-rodenkirchen.html">Köln-Rodenkirchen<small>Godorf, Rodenkirchener Brücke</small></a><a href="pannenhilfe-a4-koeln.html">Panne auf der A4<small>Kreuz Köln-Süd</small></a><a href="koeln-a59.html">Panne auf der A59<small>Heumar bis Bonn-Ost</small></a></div></div></section>
+@@CTA@@
+=== koeln-leverkusener-bruecke | Leverkusener Brücke: Panne auf der A1 am Rhein | Panne auf der A1 an der Leverkusener Rheinbrücke: Kreuz Leverkusen, Hochstraßen, Köln-Niehl und was bei einer Panne auf der Brücke gilt. | page ===
+<!--AREAS: Köln, Leverkusen, Köln-Niehl -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A1</p><h1>Panne an der Leverkusener Brücke</h1><p class="lead">Die A1 überquert den Rhein zwischen Leverkusen und Köln-Niehl auf einer über einen Kilometer langen Schrägseilbrücke. Davor und dahinter liegen Hochstraßen und Kreuze. Ein Ort, an dem eine Panne schnell den Verkehr blockiert.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Die Strecke Stück für Stück</h2>
+<p>Von Norden kommend, führt die A1 in dieser Reihenfolge durch den Abschnitt:</p>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Stelle</th><th>Länge / Nr.</th><th>Hinweis</th></tr></thead><tbody>
+<tr><td>Kreuz Leverkusen</td><td>98</td><td>Anschluss A3</td></tr>
+<tr><td>Hochstraße B</td><td>928 m</td><td>Überquert unter anderem die Dhünn</td></tr>
+<tr><td>Kreuz Leverkusen-West</td><td>99</td><td>Anschluss A59 und L293</td></tr>
+<tr><td>Hochstraße</td><td>527 m</td><td>Vor der Rheinbrücke</td></tr>
+<tr><td>Rheinbrücke Leverkusen</td><td>1.057 m</td><td>Schrägseilbrücke über den Rhein</td></tr>
+<tr><td>Köln-Niehl</td><td>100</td><td>Erste Kölner Ausfahrt</td></tr>
+<tr><td>Kreuz Köln-Nord</td><td>101</td><td>A57, Kölner Autobahnring</td></tr>
+</tbody></table></div>
+<p>Zwischen Kreuz Leverkusen und Köln-Niehl liegt also eine Folge von Hochstraßen und Brücken, die zusammen rund 2,5 Kilometer lang sind, mit wenig Ausweichmöglichkeiten. Nach der Brücke führt die Strecke in Köln an Merkenich und einem großen Industriepark vorbei, bevor das Kreuz Köln-Nord bei Chorweiler folgt.</p>
+<h2>Ein Bauwerk im Umbruch</h2>
+<p>Wegen erheblicher Schäden an der Konstruktion wird die Leverkusener Rheinbrücke durch einen Neubau ersetzt, mit einer Brücke je Fahrtrichtung. Der erste Spatenstich war am 14. Dezember 2017, und der Landesbetrieb Straßenbau NRW plante die neue Brücke mit zehn Fahrstreifen. In der Zeit der Schäden galt für die alte Brücke zeitweise eine Sperrung für Fahrzeuge über 3,5 Tonnen, was Ausweichverkehr über andere Rheinbrücken auslöste. Wie der Stand heute ist, welche Spuren offen sind und ob Beschränkungen gelten, ändert sich. Prüfen Sie den aktuellen Stand vor der Fahrt in einer Verkehrsmeldung oder bei der Autobahn GmbH.</p>
+<h2>Was bei einer Panne auf einer Brücke oder Hochstraße gilt</h2>
+<ul class="ticks">
+<li><strong>Früh reagieren:</strong> Sobald Ihr Fahrzeug Leistung verliert, blinken und nach rechts, solange Sie noch lenken können.</li>
+<li><strong>Nicht mitten auf der Brücke halten,</strong> wenn Sie es vermeiden können. Ausrollen bis hinter die Brücke oder zur nächsten Ausfahrt.</li>
+<li><strong>Warnblinker, Warnweste, hinter die Leitplanke,</strong> wenn Sie den Rand erreicht haben. Bei Verletzten 112.</li>
+<li><strong>Wenn Sie den Rand nicht erreichen:</strong> angeschnallt bleiben und die 112 wählen. Aussteigen mitten auf der Fahrbahn ist lebensgefährlich.</li>
+</ul>
+<p>Die ausführlichen Schritte stehen im Ratgeber <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>. Für die Kölner Seite siehe <a href="pannenhilfe-a1-koeln.html">Panne auf der A1 bei Köln</a>, für den Bezirk <a href="koeln-nippes.html">Abschleppdienst Köln-Nippes</a>.</p>
+<h2>Was Sie uns sagen sollten</h2>
+<ol>
+<li>A1 und Richtung: Richtung Köln/Saarbrücken oder Richtung Leverkusen/Dortmund</li>
+<li>Letzte Ausfahrt oder Kreuz: Leverkusen, Leverkusen-West oder Köln-Niehl</li>
+<li>Ob Sie vor, auf oder hinter der Rheinbrücke stehen</li>
+<li>Fahrzeug, Antrieb und ob es rollt</li>
+<li>Ob jemand verletzt ist</li>
+</ol>
+<h2>Wer fährt in Köln?</h2>
+<p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze im Kölner Raum übernehmen Partner vor Ort, wir koordinieren sie. Für Einsätze auf der Leverkusener Seite klären wir am Telefon, ob und wie wir helfen können.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur Leverkusener Brücke</h2>
+<details><summary>Wie lang ist die Leverkusener Rheinbrücke?</summary><div>Sie ist 1.057 Meter lang und eine Schrägseilbrücke. Davor liegen die Hochstraßen von 928 und 527 Metern.</div></details>
+<details><summary>Was ist die erste Ausfahrt hinter der Brücke?</summary><div>Köln-Niehl (100), danach folgt das Kreuz Köln-Nord (101).</div></details>
+<details><summary>Ist die Brücke gesperrt?</summary><div>Das ändert sich. Prüfen Sie aktuelle Verkehrsmeldungen, wir kennen den heutigen Stand nicht.</div></details>
+<details><summary>Was tun, wenn ich auf der Brücke liegen bleibe?</summary><div>Warnblinker, wenn möglich nach rechts, Warnweste und hinter die Leitplanke. Bei Verletzten 112. Danach rufen Sie uns an und nennen die Richtung.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="pannenhilfe-a1-koeln.html">Panne auf der A1 bei Köln<small>Leverkusen bis Erfttal</small></a><a href="koeln-a57.html">Panne auf der A57<small>Kreuz Köln-Nord</small></a><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring<small>Alle Kreuze</small></a></div></div></section>
+@@CTA@@

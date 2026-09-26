@@ -1,0 +1,18 @@
+=== home | Abschleppdienst und Pannenhilfe: Köln und Karlsruhe | Abschleppdienst und Pannenhilfe in Köln sowie zwischen Karlsruhe und Offenburg. 24/7 per Telefon und WhatsApp erreichbar, Partner übernehmen vor Ort. | home ===
+<section class="hero"><div class="wrap hero-grid"><div>
+<p class="eyebrow">Abschleppdienst und Pannenhilfe</p>
+<h1>Abschleppdienst und Pannenhilfe in Köln und Mittelbaden</h1>
+<p class="lead">Sie stehen mit Ihrem Fahrzeug am Straßenrand und brauchen jemanden, der die Hilfe organisiert? Wählen Sie unten Ihre Region oder rufen Sie direkt an. Wir arbeiten in zwei Gebieten: rund um Köln und zwischen Karlsruhe und Offenburg.</p>
+<div class="actions"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a><a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993 anrufen</a></div>
+<ul class="proof"><li><strong>Rund um die Uhr</strong>am Telefon und per WhatsApp</li><li><strong>Zwei Regionen</strong>Köln und Karlsruhe bis Offenburg</li><li><strong>Vier Sprachen</strong>Deutsch, Niederländisch, Französisch, Englisch</li></ul>
+</div><div><img class="hero-img" src="assets/faster-road-transport.jpg" alt="Faster Abschleppwagen mit Fahrzeugen auf der Straße" width="1200" height="900" fetchpriority="high"></div></div></section>
+<section class="section"><div class="wrap"><h2>Wo brauchen Sie Hilfe?</h2><p class="sub">Wählen Sie Ihre Region. Dort finden Sie Ausfahrten, Straßen und Hinweise für Ihren Standort.</p>
+<div class="regions">
+<a class="region-card" href="index.html"><span class="eyebrow">Region 1</span><h3>Köln &amp; Umgebung</h3><p>Pannenhilfe und Abschleppen in Köln, mit Seiten zu den neun Stadtbezirken, dem Autobahnring und den Zubringern A1, A3, A4, A57, A59 und A555.</p><strong>Zur Kölner Seite →</strong></a>
+<a class="region-card" href="abschleppdienst-mittelbaden.html"><span class="eyebrow">Region 2</span><h3>Karlsruhe &amp; Mittelbaden</h3><p>Pannenhilfe zwischen Karlsruhe, Baden-Baden, Achern und Offenburg, mit allen Ausfahrten der A5 von Karlsruhe bis Lahr.</p><strong>Zur Seite Mittelbaden →</strong></a>
+</div></div></section>
+<section class="section grey"><div class="wrap narrow copy"><h2>So arbeiten wir</h2>
+<p>Faster hat seinen Sitz in Antwerpen (Belgien). In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Dasselbe gilt für Karlsruhe, Baden-Baden, Achern und Offenburg. Sie erreichen uns rund um die Uhr, wir koordinieren die Hilfe und bleiben Ihr Ansprechpartner am Telefon.</p>
+<p>Wenn Sie Zeit haben, lesen Sie unsere <a href="ratgeber.html">Ratgeber</a>: Sie erklären, was bei einer Panne zu tun ist, worauf es beim Abschleppen ankommt und wer nach einem Unfall zahlt.</p>
+</div></section>
+@@CTA@@

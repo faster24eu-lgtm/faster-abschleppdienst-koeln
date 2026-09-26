@@ -27,7 +27,7 @@
 <details><summary>Kann ich das Auto mit blockiertem Lenkrad abschleppen lassen?</summary><div>Am sichersten auf einer Ladefläche. Ein Fahrzeug mit blockierter Lenkung lässt sich am Seil nicht sicher ziehen.</div></details>
 </div></section>
 @@CTA@@
-=== ratgeber-bremsen-versagen | Bremsen versagen: Was Sie sofort tun können | Bremspedal tritt durch oder Bremse fällt aus: Pedal pumpen, Motorbremse, Handbremse dosiert einsetzen, Ursachen und wann das Auto transportiert werden muss. | page ===
+=== ratgeber-bremsen-versagen | Bremsen versagen: Was Sie sofort tun können | Bremspedal tritt durch oder Bremse fällt aus: Pedal pumpen, Motorbremse, Handbremse dosiert, Ursachen und wann das Auto transportiert werden muss. | page ===
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Bremsen versagen: Was Sie sofort tun können</h1><p class="lead">Das Bremspedal gibt nach oder tritt ins Leere. Ruhe bewahren: Es gibt mehrere Möglichkeiten, ein Auto zum Stehen zu bringen.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <div class="note"><p>Das ist eine kurze Übersicht und kein Ersatz für ein Fahrsicherheitstraining. Bei Lebensgefahr wählen Sie die 112.</p></div>
