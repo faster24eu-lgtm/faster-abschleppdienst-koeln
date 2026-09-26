@@ -96,7 +96,7 @@ Known small issues: the hub page (owner copy) has the yellow placeholders in its
 Each entry: topic, intent, unique angle, links in/out. Do not build unless the angle is real.
 
 1. **Panne A3 / A4 / A1 Köln as separate pages** – A3 done (cycle 5, exits 22–30a, verified on Wikipedia). A4 done cycle 6 (exits 9b–20, Rodenkirchener Brücke, Autohof Eifeltor, lane counts 8/5/4). A1 done cycle 7 (exits 98–107, Leverkusener Rheinbrücke, Lärmschutzeinhausung Lövenich 1,5 km, Autohof Frechen, Raststätte Ville). A57, A555 and A59 still open: research exits first, build only if the section is as distinct as the A1/A3/A4 ones (A555 and A59 are short, probably better as sections of the ring page).
-2. **A555 Köln–Bonn** – Zubringer, Kreuz Köln-Süd traffic figures already on the ring page. Needs additional facts (Bonn end, Wesseling, Flughafen link) before a page is justified.
+2. ~~A555 / A57 / A59~~ – handled as one section "Die Zubringer" on the ring page (cycle 11), exits from the Wikipedia sources. Separate pages rejected: each stretch is short and there is nothing distinct to say beyond the exit lists.
 3. ~~Motorschaden / Auto geht während der Fahrt aus~~ – done cycle 3.
 4. ~~Auto lässt sich nicht bewegen (Handbremse, blockiertes Rad)~~ – done cycle 3.
 5. ~~Transporter abschleppen (bis 3,5 t)~~ – done cycle 3. The Führerschein question (Abschleppen vs. Schleppen, Klasse E) is only hedged in the text; a lawyer/Straßenverkehrsamt source would be needed for firm statements.
@@ -156,3 +156,6 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 
 ### Cycle 10 (2026-09-26, cron) – Winterpanne Schwarzwald
 - Built `ratgeber-winterpanne-schwarzwald`, linked from the Baden-Baden and Achern pages, the Ratgeber index and related blocks. No claim about current closures; the reader is told to check the traffic situation.
+
+### Cycle 11 (2026-09-26, cron) – Zubringer section
+- Added a table for A57 (Dormagen–Ehrenfeld), A555 (Köln-Süd–Bonn-Nord) and A59 (Heumar–Troisdorf) to `pannenhilfe-koelner-autobahnring`. No new URL. Remaining backlog: Kehl–Straßburg (needs verified cross-border rules), A8/Pforzheim (needs service-area confirmation), Südtangente page (only if the Karlsruhe page cannot absorb it).
