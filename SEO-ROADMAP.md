@@ -204,3 +204,7 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 - `ratgeber-oelverlust-oelspur` (sources: bussgeldkatalog/ERGO-style consumer and legal sites: secure, call Feuerwehr/Polizei, do not wash into drains, transport rather than drive, Haftpflicht pays cleaning; the "mindestens 400 €" Feuerwehr figure is attributed to Ratgeberportale and not stated as our price).
 - `ratgeber-auto-festgefahren` (Schlamm/Schnee/Sand: do not spin the wheels, Traktionshilfen, Schaukeln, when to stop, Bergung vs. Abschleppen; no recovery prices quoted).
 - Site is at 45 pages.
+
+### Session 2, cycle at 13:55 – two more guides
+- `ratgeber-lenkradsperre-klemmt` (Lenkrad in Gegenrichtung drehen und Schlüssel drehen, nicht mit Gewalt; elektronische Sperre: Batterie; Werkstatt) and `ratgeber-bremsen-versagen` (Pedal pumpen, Motorbremse, Handbremse dosiert, Ursachen: Leitung, kochende Bremsflüssigkeit, Bremskraftverstärker; disclaimer that it does not replace driver training; do not tow with rope). Sources: consumer and ADAC-style articles; wording kept conservative because the brake page is safety-critical.
+- Site at 47 pages.

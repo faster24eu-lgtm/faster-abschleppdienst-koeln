@@ -1,0 +1,63 @@
+=== ratgeber-lenkradsperre-klemmt | Lenkradsperre klemmt: Schlüssel lässt sich nicht drehen | Schlüssel dreht sich nicht, Lenkrad blockiert: So lösen Sie die Lenkradsperre, wann die Batterie schuld ist und wann Sie die Werkstatt brauchen. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Lenkradsperre klemmt: Schlüssel lässt sich nicht drehen</h1><p class="lead">Das Auto springt nicht an, weil der Schlüssel sich nicht bewegt. Oft liegt es nicht am Zündschloss, sondern an der Lenkradsperre.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Was die Lenkradsperre macht</h2>
+<p>Das Lenkradschloss sichert das Auto gegen unbefugte Benutzung. Ist der Schlüssel abgezogen, blockiert ein Bolzen das Lenkrad. Wurde beim Abstellen das Lenkrad bewegt oder steht es unter Spannung, etwa weil ein Rad am Bordstein steht, kann der Bolzen unter Druck stehen. Dann lässt sich der Schlüssel nicht drehen.</p>
+<h2>So lösen Sie die Sperre</h2>
+<ol>
+<li><strong>Lenkrad leicht in die andere Richtung drehen</strong>, als Sie es beim Abstellen eingeschlagen haben.</li>
+<li><strong>Gleichzeitig am Schlüssel drehen.</strong> Der Bolzen löst sich, sobald der Druck weg ist.</li>
+<li><strong>Nicht ruckartig oder mit Gewalt</strong> vorgehen. Sonst brechen Schlüssel oder Bolzen ab, und dann steht das Auto erst recht.</li>
+<li><strong>Funktioniert das nicht:</strong> Lenkrad vorsichtig hin- und herbewegen und dabei den Schlüssel leicht gedrückt halten, ohne zu ruckeln.</li>
+</ol>
+<h2>Bei Autos mit elektronischer Lenkradsperre</h2>
+<p>Moderne Fahrzeuge sichern das Lenkrad elektronisch. Dann kann eine schwache oder leere Batterie der Grund sein. Wenn der Schlüssel sich nicht drehen lässt oder das Auto nicht auf Start reagiert, versuchen Sie Starthilfe, siehe <a href="ratgeber-starthilfe-batterie.html">Starthilfe und leere Batterie</a>. Bei Keyless-Go kann auch eine schwache Schlüsselbatterie schuld sein, siehe <a href="ratgeber-ausgesperrt.html">Ausgesperrt: Schlüssel im Auto</a>.</p>
+<h2>Wenn es weiterhin klemmt</h2>
+<p>Lässt sich die Sperre nicht lösen, liegt vielleicht ein mechanischer Schaden am Zündschloss oder an der Sperre vor. Auch ein abgenutzter Schlüssel kann die Ursache sein. Dann bleibt nur die Werkstatt. Das Fahrzeug wird auf einem Plateauwagen dorthin gebracht, bei blockierter Lenkung sowieso, denn ein Fahrzeug mit gesperrtem Lenkrad lässt sich nicht sicher schleppen. Weitere Diagnose unter <a href="ratgeber-auto-springt-nicht-an.html">Auto springt nicht an</a>.</p>
+<h2>Was Sie uns sagen sollten</h2>
+<ul class="ticks">
+<li>Ob das Lenkrad blockiert ist oder sich nur der Schlüssel nicht dreht</li>
+<li>Wo das Fahrzeug steht (Straße, Parkhaus, Bordstein)</li>
+<li>Marke, Modell, Schlüsselart (klassisch oder Keyless-Go)</li>
+<li>Manuell oder Automatik</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Warum klemmt die Lenkradsperre gerade jetzt?</summary><div>Meist steht das Lenkrad unter Spannung, weil es beim Abstellen eingeschlagen war oder ein Rad am Bordstein lehnt.</div></details>
+<details><summary>Kann ich das Auto mit blockiertem Lenkrad abschleppen lassen?</summary><div>Am sichersten auf einer Ladefläche. Ein Fahrzeug mit blockierter Lenkung lässt sich am Seil nicht sicher ziehen.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-bremsen-versagen | Bremsen versagen: Was Sie sofort tun können | Bremspedal tritt durch oder Bremse fällt aus: Pedal pumpen, Motorbremse, Handbremse dosiert einsetzen, Ursachen und wann das Auto transportiert werden muss. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Bremsen versagen: Was Sie sofort tun können</h1><p class="lead">Das Bremspedal gibt nach oder tritt ins Leere. Ruhe bewahren: Es gibt mehrere Möglichkeiten, ein Auto zum Stehen zu bringen.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p>Das ist eine kurze Übersicht und kein Ersatz für ein Fahrsicherheitstraining. Bei Lebensgefahr wählen Sie die 112.</p></div>
+<h2>Die Schritte im Notfall</h2>
+<ol>
+<li><strong>Fuß vom Gas, Warnblinker einschalten.</strong></li>
+<li><strong>Bremspedal mehrmals schnell hintereinander treten.</strong> Ist Luft im System, kann sich dadurch kurzzeitig wieder Druck aufbauen.</li>
+<li><strong>Motorbremse nutzen:</strong> Schalten Sie schrittweise in niedrigere Gänge, damit der Motor das Fahrzeug verzögert. Bei Automatik in niedrigere Fahrstufen wechseln, soweit vorhanden.</li>
+<li><strong>Handbremse dosiert anziehen.</strong> Langsam und kontrolliert, damit die Hinterräder nicht blockieren und das Fahrzeug nicht ausbricht.</li>
+<li><strong>Einen Ausweg suchen,</strong> etwa eine Auslaufzone, einen leeren Parkplatz oder eine Wiese, wenn es nicht anders geht. Nach Möglichkeit keinen Menschen gefährden.</li>
+<li><strong>Bei Überforderung Polizei rufen.</strong> Sie unterstützt Sie am Telefon.</li>
+</ol>
+<h2>Warum Bremsen versagen können</h2>
+<ul class="ticks">
+<li><strong>Bremsflüssigkeit fehlt,</strong> meist durch eine undichte Bremsleitung. Das Pedal tritt durch.</li>
+<li><strong>Überhitzung an langen Gefällestrecken:</strong> Wer dauernd auf dem Pedal steht, bringt die Bremsflüssigkeit zum Kochen. Es bilden sich Gasblasen, die sich nicht zusammendrücken lassen, und das Pedal geht ins Leere.</li>
+<li><strong>Bremskraftverstärker ohne Unterdruck,</strong> etwa wenn der Motor aus ist. Das Pedal wird hart, und es braucht mehr Kraft, siehe <a href="ratgeber-motor-geht-aus.html">Motor geht während der Fahrt aus</a>.</li>
+</ul>
+<h2>Nach dem Anhalten</h2>
+<p>Fahren Sie nicht weiter. Die rote Bremsleuchte, ein weiches Pedal oder Bremsflüssigkeit unter dem Auto sind Gründe, das Fahrzeug transportieren zu lassen, siehe <a href="ratgeber-warnleuchten-auto.html">Warnleuchten im Auto</a> und <a href="ratgeber-oelverlust-oelspur.html">Ölverlust und Ölspur</a>. Ein Auto mit defekter Bremse sollte nicht am Seil gezogen werden, denn beim Ziehen bremst im Wesentlichen nur das Zugfahrzeug. Es wird auf einem Plateauwagen zur Werkstatt gebracht. Auf Bergstrecken gilt das erst recht, siehe <a href="ratgeber-winterpanne-schwarzwald.html">Winterpanne und Bergstrecken</a>.</p>
+<h2>Was Sie uns sagen sollten</h2>
+<ul class="ticks">
+<li>Ob die Bremse ganz oder nur teilweise ausgefallen ist</li>
+<li>Ob Bremsflüssigkeit oder ein anderer Stoff austritt</li>
+<li>Wo das Fahrzeug steht, ob an einer Steigung oder einem Gefälle</li>
+<li>Marke, Modell, Antrieb</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich noch bis zur Werkstatt fahren, wenn die Bremse nur weich ist?</summary><div>Davon raten wir ab. Die Bremse kann jederzeit stärker nachlassen. Lassen Sie das Fahrzeug transportieren.</div></details>
+<details><summary>Warum wird das Pedal auf langem Gefälle weich?</summary><div>Die Bremsflüssigkeit kann heiß werden und Gasblasen bilden. Nutzen Sie bergab die Motorbremse, statt dauernd zu bremsen.</div></details>
+</div></section>
+@@CTA@@

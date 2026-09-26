@@ -3,6 +3,8 @@
 <section class="section"><div class="wrap"><h2>Wenn etwas passiert ist</h2><div class="cards3">
 <article class="card"><h3>Panne auf der Autobahn</h3><p>Warndreieck, Warnweste, Notrufsäule: die Schritte in der richtigen Reihenfolge.</p><a href="ratgeber-panne-autobahn.html">Lesen →</a></article>
 <article class="card"><h3>Abschleppkosten nach einem Unfall</h3><p>Wer zahlt, wer sucht den Abschleppdienst aus und wohin darf das Auto?</p><a href="ratgeber-unfall-abschleppkosten.html">Lesen →</a></article>
+<article class="card"><h3>Bremsen versagen</h3><p>Pedal pumpen, Motorbremse, Handbremse dosiert: die Schritte im Notfall.</p><a href="ratgeber-bremsen-versagen.html">Lesen →</a></article>
+<article class="card"><h3>Lenkradsperre klemmt</h3><p>Schlüssel lässt sich nicht drehen: So lösen Sie die Sperre ohne Gewalt.</p><a href="ratgeber-lenkradsperre-klemmt.html">Lesen →</a></article>
 <article class="card"><h3>Ölverlust und Ölspur</h3><p>Absichern, Feuerwehr informieren, Fahrzeug transportieren lassen und wer die Reinigung zahlt.</p><a href="ratgeber-oelverlust-oelspur.html">Lesen →</a></article>
 <article class="card"><h3>Auto festgefahren</h3><p>Schlamm, Schnee, Sand: was hilft und wann eine Bergung nötig ist.</p><a href="ratgeber-auto-festgefahren.html">Lesen →</a></article>
 <article class="card"><h3>Auto im Wasser stehen geblieben</h3><p>Wasserschlag erkennen, Motor nicht starten, Versicherung informieren.</p><a href="ratgeber-wasserschlag-ueberschwemmung.html">Lesen →</a></article>
