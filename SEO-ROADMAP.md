@@ -221,3 +221,6 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 
 ### Session 2, cycle at 15:55 – mobile navigation fix
 - Mobile check (375 px) found: the main menu was hidden below 900 px, so phone visitors could not reach Ratgeber/regions from the header; the header sub-line ran under the WhatsApp button. Fixed in `styles.css`: menu is now a swipeable row under the header on phones, logo and WhatsApp share the first row, the text next to the logo is hidden below 520 px, scrollbar hidden. No horizontal page overflow.
+
+### Session 2, cycle at 16:25 – Servolenkung
+- `ratgeber-servolenkung-ausgefallen` (hydraulic vs. electric Servo, Warnleuchte colours, slow down and stop, do not continue, transport). Card added to `extra_ratgeber.txt` (section "Panne unterwegs"). Site at 50 pages.

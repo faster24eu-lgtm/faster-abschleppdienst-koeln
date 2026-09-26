@@ -112,3 +112,8 @@ ratgeber-notlauf-auto	ratgeber-adblue-leer.html	AdBlue leer	Eine häufige Ursach
 ratgeber-notlauf-auto	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Wenn Sie zu langsam sind
 ratgeber-warnleuchten-auto	ratgeber-notlauf-auto.html	Auto im Notlauf	Wenn die Leistung wegbleibt
 ratgeber-motor-geht-aus	ratgeber-notlauf-auto.html	Auto im Notlauf	Wenn er nur noch drosselt
+ratgeber-servolenkung-ausgefallen	ratgeber-bremsen-versagen.html	Bremsen versagen	Wenn auch die Bremse betroffen ist
+ratgeber-servolenkung-ausgefallen	ratgeber-warnleuchten-auto.html	Warnleuchten im Auto	Lenkrad mit Ausrufezeichen
+ratgeber-servolenkung-ausgefallen	ratgeber-motor-geht-aus.html	Motor geht während der Fahrt aus	Ohne Motor keine Servo
+ratgeber-bremsen-versagen	ratgeber-servolenkung-ausgefallen.html	Servolenkung ausgefallen	Lenkung schwer
+ratgeber-motor-geht-aus	ratgeber-servolenkung-ausgefallen.html	Servolenkung ausgefallen	Wenn die Lenkung schwer wird
