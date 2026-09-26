@@ -32,7 +32,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
             └ kontakt, impressum, datenschutz, danke (danke = no sitemap)
 ```
 
-## 3. Page inventory (38 indexable-in-principle pages + danke)
+## 3. Page inventory (39 indexable-in-principle pages + danke)
 | URL | Primary topic | Search intent | Status |
 |-----|---------------|---------------|--------|
 | index | Abschleppdienst Köln | Local service, "Abschleppdienst Köln" | done |
@@ -69,6 +69,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | pannenhilfe-a4-koeln | Panne A4 bei Köln (Frechen bis Bensberg) | Situation on Autobahn | done (cycle 6) |
 | ratgeber-wohnmobil-gespann-panne | Wohnmobil/Gespann Panne, 3,5-t-Grenze | Practical | done (cycle 8) |
 | ratgeber-winterpanne-schwarzwald | Winterpanne Schwarzwaldhochstraße/Bergstrecken | Situation + legal basics | done (cycle 10) |
+| ratgeber-panne-kehl-strassburg | Panne Kehl/Straßburg, Regeln über die Grenze | Practical + legal | done (cycle 12) |
 | ratgeber-tiefgarage-parkhaus-liegengeblieben | Tiefgarage/Parkhaus, Durchfahrtshöhe, Rampen | Practical | done (cycle 5) |
 | kontakt, impressum, datenschutz | Utility | – | kontakt done; impressum/datenschutz drafts (B1) |
 
@@ -81,7 +82,7 @@ Start (index) ─ Köln: pannenhilfe-koeln, abschleppen-bergung-koeln, pannenhil
 | Canonical | added cycle 1 (based on `$BASE`, see B2) |
 | Open Graph | added cycle 1 (og:image = existing hero photo) |
 | Breadcrumbs (visible + JSON-LD) | added cycle 1 |
-| `sitemap.xml` | added cycle 1 (38 URLs after cycle 10). Not referenced from robots.txt while the preview blocks crawling |
+| `sitemap.xml` | added cycle 1 (39 URLs after cycle 12). Not referenced from robots.txt while the preview blocks crawling |
 | FAQPage schema | generated from the visible `<details>` FAQs |
 | Organization/business schema | AutomotiveBusiness with `areaServed` on region and Köln pages; no street address invented (home page uses the real Antwerp address) |
 | Internal links | related-block on all guides, footer with all clusters; every page has ≥ 2 inbound links |
@@ -103,7 +104,7 @@ Each entry: topic, intent, unique angle, links in/out. Do not build unless the a
 6. ~~Fahrzeug aus Tiefgarage bergen~~ – done cycle 5 (Muster-Garagenverordnung 2,00 m, Durchfahrtshöhe 1,90–2,10 m typical, Rampen 15/20 %).
 7. **Karlsruhe: Panne Südtangente/B10 in one place** – only if it adds beyond the Karlsruhe page; otherwise extend that page.
 8. ~~Baden-Baden / Schwarzwaldhochstraße im Winter~~ – done cycle 10 as a guide (situative Winterreifenpflicht § 2 Abs. 3a StVO, Alpine-Symbol since Oct 2024, 60/80 € fines, road 800–1.000 m, Kettenpflicht only exceptional for Pkw; sources: news reports and consumer sites, no current closure status claimed).
-9. **Kehl–Straßburg: Panne im Grenzgebiet** – cross-border transport, documents; needs verified rules.
+9. ~~Kehl–Straßburg~~ – done cycle 12 as a guide. Sources: ADAC (French motorways: private assistance not allowed, official tow after emergency call, Warnweste, no triangle on motorways) and Stadt Kehl (Crit'Air zone Strasbourg, German badges not recognised, dates). The text states we do NOT help on French motorways. The Crit'Air timeline changes: re-check before launch.
 10. **Improve `ratgeber-ausgesperrt`** with more scenarios (Keyless, Kofferraum) once facts are sourced.
 11. **Köln Stadtbezirke deep dives** (e.g. Deutz/Messe, Porz/Flughafen) – only with genuine road/access facts. No page per district by default.
 12. **Autohof/Rastanlagen Übersicht A5** – merge into the A5 page unless it grows beyond ~300 extra words.
@@ -159,3 +160,7 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 
 ### Cycle 11 (2026-09-26, cron) – Zubringer section
 - Added a table for A57 (Dormagen–Ehrenfeld), A555 (Köln-Süd–Bonn-Nord) and A59 (Heumar–Troisdorf) to `pannenhilfe-koelner-autobahnring`. No new URL. Remaining backlog: Kehl–Straßburg (needs verified cross-border rules), A8/Pforzheim (needs service-area confirmation), Südtangente page (only if the Karlsruhe page cannot absorb it).
+
+### Cycle 12 (2026-09-26, cron) – Kehl/Straßburg
+- New guide `ratgeber-panne-kehl-strassburg`, linked from the Offenburg page, Ratgeber index and related blocks. It is honest about scope (German side only) and includes a dated Crit'Air section attributed to the Stadt Kehl; needs a re-check before any launch.
+- Remaining backlog: A8/Pforzheim (service area), Südtangente (Karlsruhe page probably enough). Little left that can be built without owner input.

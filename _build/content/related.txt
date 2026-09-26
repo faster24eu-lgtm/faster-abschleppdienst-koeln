@@ -65,3 +65,6 @@ ratgeber-wohnmobil-gespann-panne	ratgeber-tiefgarage-parkhaus-liegengeblieben.ht
 ratgeber-winterpanne-schwarzwald	ratgeber-starthilfe-batterie.html	Starthilfe und leere Batterie	Kälte und Batterie
 ratgeber-winterpanne-schwarzwald	ratgeber-reifenpanne.html	Reifenpanne	Ersatzrad oder Pannenset
 ratgeber-winterpanne-schwarzwald	abschleppdienst-a5.html	Panne auf der A5	Rastanlagen und Ausfahrten
+ratgeber-panne-kehl-strassburg	abschleppdienst-offenburg.html	Abschleppdienst Offenburg	Kehl, Appenweier, Ortenau
+ratgeber-panne-kehl-strassburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Das deutsche Vorgehen
+ratgeber-panne-kehl-strassburg	abschleppdienst-a5.html	Panne auf der A5	Ausfahrt Appenweier

@@ -17,6 +17,7 @@
 <article class="card"><h3>Motor geht während der Fahrt aus</h3><p>Sicher ausrollen, was Sie prüfen können und welche Ursachen dahinterstecken.</p><a href="ratgeber-motor-geht-aus.html">Lesen →</a></article>
 <article class="card"><h3>Handbremse löst sich nicht</h3><p>Festgefroren oder festgerostet: was hilft und wann das Auto auf die Ladefläche muss.</p><a href="ratgeber-handbremse-loest-sich-nicht.html">Lesen →</a></article>
 <article class="card"><h3>Tiefgarage und Parkhaus</h3><p>Durchfahrtshöhe, Rampen und die Angaben, die für die Bergung aus einer Garage zählen.</p><a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Lesen →</a></article>
+<article class="card"><h3>Panne bei Kehl und Straßburg</h3><p>Was in Frankreich anders ist: Autobahn, Warnweste, Crit'Air-Umweltzone.</p><a href="ratgeber-panne-kehl-strassburg.html">Lesen →</a></article>
 <article class="card"><h3>Winterpanne im Schwarzwald</h3><p>Schwarzwaldhochstraße, Winterreifenpflicht und Verhalten, wenn Sie im Schnee festsitzen.</p><a href="ratgeber-winterpanne-schwarzwald.html">Lesen →</a></article>
 <article class="card"><h3>Wohnmobil und Gespann</h3><p>Gewichtsgrenze, Abkoppeln und die Angaben, die für Wohnmobil und Wohnwagen zählen.</p><a href="ratgeber-wohnmobil-gespann-panne.html">Lesen →</a></article>
 <article class="card"><h3>Transporter abschleppen</h3><p>Gewicht, Ladung, Höhe: die Angaben, die für Transporter bis 3,5 t zählen.</p><a href="ratgeber-transporter-abschleppen.html">Lesen →</a></article>
