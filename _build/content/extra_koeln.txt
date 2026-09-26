@@ -30,7 +30,7 @@
 <h2>Erst Sicherheit, dann Hilfe</h2>
 <p>Bringen Sie sich zuerst in Sicherheit, bevor Sie uns anrufen: Warnblinkanlage einschalten, Warnweste anziehen, Warndreieck aufstellen, wenn es sicher möglich ist, und wenn möglich hinter der Leitplanke warten. Bei Verletzten wählen Sie zuerst die 112. Um das Technische kümmern wir uns.</p>
 <h2>Wer fährt in Köln, und wer ist Ihr Ansprechpartner?</h2>
-<p>Faster Depannage Takeldienst hat seinen Sitz in Antwerpen (Belgien). In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Sie erreichen uns rund um die Uhr, wir koordinieren die Hilfe. Das sagen wir Ihnen ehrlich, bevor Sie sich entscheiden.</p>
+<p>Faster hat seinen Sitz in Antwerpen (Belgien). In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Sie erreichen uns rund um die Uhr, wir koordinieren die Hilfe. Das sagen wir Ihnen ehrlich, bevor Sie sich entscheiden.</p>
 </div></section>
 <section class="section"><div class="wrap narrow copy"><h2>Was Sie an uns haben</h2>
 <ul class="ticks">
@@ -56,7 +56,7 @@
 <details><summary>Wie schnell sind Sie da?</summary><div>Das hängt von Standort, Verkehr und Verfügbarkeit ab. Wir geben Ihnen beim Anruf eine realistische Einschätzung statt eines festen Versprechens.</div></details>
 <details><summary>Was kostet die Hilfe?</summary><div>Das hängt von Standort, Ziel, Fahrzeug und Situation ab und lässt sich nicht pauschal auf einer Website sagen. Rufen Sie an oder schreiben Sie uns, dann besprechen wir Ihren Fall persönlich.</div></details>
 <details><summary>Sind Sie nachts und am Wochenende erreichbar?</summary><div>Ja, per Telefon und WhatsApp sind wir 24/7 erreichbar.</div></details>
-<details><summary>Wo sitzt Faster, und wer fährt in Köln?</summary><div>Faster Depannage Takeldienst hat seinen Sitz in Antwerpen (Belgien). In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Sie erreichen uns rund um die Uhr; wir koordinieren die Hilfe.</div></details>
+<details><summary>Wo sitzt Faster, und wer fährt in Köln?</summary><div>Faster hat seinen Sitz in Antwerpen (Belgien). In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Sie erreichen uns rund um die Uhr; wir koordinieren die Hilfe.</div></details>
 <details><summary>Welche Sprachen sprechen Sie?</summary><div>Deutsch, Niederländisch, Französisch und Englisch.</div></details>
 <details><summary>Muss mein Auto wirklich abgeschleppt werden?</summary><div>Nicht immer. Bei leerer Batterie, plattem Reifen oder leerem Tank ist oft Hilfe vor Ort möglich. Bei roten Warnleuchten, Flüssigkeitsaustritt oder nach einem Unfall sollten Sie nicht weiterfahren. Orientierung geben <a href="ratgeber-warnleuchten-auto.html">Warnleuchten im Auto</a> und <a href="ratgeber-nach-unfall-fahrbereit.html">Nach dem Unfall: fahrbereit?</a></div></details>
 <details><summary>Ich weiß nicht genau, wo ich bin. Was tun?</summary><div>Schicken Sie uns Ihren Standort per WhatsApp. Ohne Handyempfang helfen Straßenschilder, Hausnummern, ein Geschäft in der Nähe oder auf der Autobahn die Kilometerangabe und die letzte Ausfahrt.</div></details>
@@ -167,7 +167,7 @@
 <h2>Abschleppen von der Autobahn</h2>
 <p>Beim Abschleppen eines auf der Autobahn liegen gebliebenen Fahrzeugs ist die Autobahn bei der nächsten Ausfahrt zu verlassen (§ 15a Abs. 1 StVO). Von dort geht es weiter zum Ziel. Kommt die Polizei oder nutzen Sie die Notrufsäule, wird oft ein Vertragsunternehmen beauftragt. Sie können Ihren Wunsch äußern, garantiert ist er nicht.</p>
 <h2>Wer fährt in Köln?</h2>
-<p>Faster Depannage Takeldienst hat seinen Sitz in Antwerpen. In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Wir koordinieren die Hilfe.</p>
+<p>Faster hat seinen Sitz in Antwerpen. In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Wir koordinieren die Hilfe.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
 <details><summary>Kann ich mir bei einer Panne auf der Autobahn den Abschleppdienst aussuchen?</summary><div>Bei einer einfachen Panne ohne Polizei ja. Kommt die Polizei oder nutzen Sie die Notrufsäule, wird oft ein Vertragsunternehmen beauftragt. Ihren Wunsch dürfen Sie äußern.</div></details>

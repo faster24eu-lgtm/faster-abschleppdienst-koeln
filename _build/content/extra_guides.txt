@@ -461,7 +461,7 @@
 <p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp schreiben</a></p>
 <p><a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993 anrufen</a></p>
 <p><strong>E-Mail:</strong> <a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a></p>
-<p><strong>Sitz:</strong><br>Faster Depannage Takeldienst<br>De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p>
+<p><strong>Sitz:</strong><br>Faster Abschleppdienst<br>De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p>
 <p><strong>Sprachen:</strong> Deutsch, Niederländisch, Französisch und Englisch.</p>
 <h2>Wann Anruf, wann Formular?</h2>
 <p><strong>Anrufen oder WhatsApp:</strong> bei einer Panne, einem Unfall oder wenn Sie irgendwo festsitzen. Am schnellsten ist ein WhatsApp-Standort.</p>

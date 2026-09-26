@@ -413,7 +413,7 @@
 <h2>Im Stau: Rettungsgasse</h2>
 <p>Bei stockendem Verkehr bilden alle eine Rettungsgasse: Auf der linken Spur nach links, auf allen anderen nach rechts. Ein liegengebliebenes Fahrzeug darf sie nicht blockieren.</p>
 <h2>Wer fährt in Köln?</h2>
-<p>Faster Depannage Takeldienst hat seinen Sitz in Antwerpen. In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Wir koordinieren die Hilfe.</p>
+<p>Faster hat seinen Sitz in Antwerpen. In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Wir koordinieren die Hilfe.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
 <details><summary>Kann ich mir bei einer Panne auf der Autobahn den Abschleppdienst aussuchen?</summary><div>Bei einer einfachen Panne ohne Polizei ja. Kommt die Polizei oder nutzen Sie die Notrufsäule, wird oft ein Vertragsunternehmen beauftragt. Ihren Wunsch dürfen Sie äußern.</div></details>

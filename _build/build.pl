@@ -5,29 +5,29 @@ my $WA  = 'https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20
 
 my $header = <<'EOT';
 <header class="site-header"><div class="wrap nav">
-  <a class="brand" href="index.html" aria-label="Faster Depannage Takeldienst - Startseite"><img src="assets/faster-logo-300.png" alt="Faster Depannage Takeldienst Logo" width="110" height="38"><span><strong>FASTER</strong><small>DEPANNAGE &amp; TAKELDIENST</small></span></a>
+  <a class="brand" href="index.html" aria-label="Faster Abschleppdienst - Startseite"><img src="assets/faster-logo-de-600.png" alt="Faster Abschleppdienst Logo" width="110" height="38"><span><strong>FASTER</strong><small>ABSCHLEPPDIENST &amp; PANNENHILFE</small></span></a>
   <nav class="menu" aria-label="Hauptnavigation"><a href="index.html">Köln</a><a href="abschleppdienst-mittelbaden.html">Karlsruhe &amp; Mittelbaden</a><a href="abschleppdienst-a5.html">A5</a><a href="ratgeber.html">Ratgeber</a><a href="kontakt.html">Kontakt</a></nav>
   <div class="nav-cta"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp</a><a class="btn btn-y hide-s" href="tel:+4917641956993">+49 176 41956993</a></div>
 </div></header>
 EOT
 my $footer = <<'EOT';
 <footer class="site-footer"><div class="wrap foot-grid">
-  <div><strong>Faster Depannage Takeldienst</strong><p>Abschleppdienst und Pannenhilfe in Köln sowie zwischen Karlsruhe und Offenburg. Persönlich und rund um die Uhr erreichbar.</p></div>
+  <div><strong>Faster Abschleppdienst</strong><p>Abschleppdienst und Pannenhilfe in Köln sowie zwischen Karlsruhe und Offenburg. Persönlich und rund um die Uhr erreichbar.</p></div>
   <div><strong>Kontakt</strong><p><a href="tel:+4917641956993">+49 176 41956993</a><br><a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a><br>Sitz: De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p></div>
   <div><strong>Köln</strong><p><a href="index.html">Abschleppdienst Köln</a><br><a href="pannenhilfe-koeln.html">Pannenhilfe Köln</a><br><a href="abschleppen-bergung-koeln.html">Abschleppen &amp; Bergung Köln</a><br><a href="abschleppdienst-koeln-stadtteile.html">Stadtbezirke und Rheinbrücken</a><br><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a><br><a href="pannenhilfe-a3-koeln.html">Panne auf der A3</a><br><a href="pannenhilfe-a4-koeln.html">Panne auf der A4</a><br><a href="pannenhilfe-a1-koeln.html">Panne auf der A1</a></p></div>
   <div><strong>Karlsruhe bis Offenburg</strong><p><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden</a><br><a href="abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="abschleppdienst-a5.html">Panne auf der A5</a></p></div>
   <div><strong>Ratgeber &amp; Rechtliches</strong><p><a href="ratgeber.html">Alle Ratgeber</a><br><a href="kontakt.html">Kontakt</a><br><a href="impressum.html">Impressum</a><br><a href="datenschutz.html">Datenschutz</a></p></div>
-</div><div class="wrap foot-bottom">© 2026 Faster Depannage Takeldienst</div></footer>
+</div><div class="wrap foot-bottom">© 2026 Faster Abschleppdienst</div></footer>
 EOT
 my $ld = <<'EOT';
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"Faster Depannage Takeldienst","description":"Abschleppdienst und Pannenhilfe für Köln und Umgebung.","email":"faster@takeldienstfaster.be","telephone":"+4917641956993","address":{"@type":"PostalAddress","streetAddress":"De Bosschaertstraat 248","postalCode":"2020","addressLocality":"Antwerpen","addressCountry":"BE"},"areaServed":{"@type":"City","name":"Köln"},"knowsLanguage":["de","nl","fr","en"]}
+{"@context":"https://schema.org","@type":"LocalBusiness","name":"Faster Abschleppdienst","description":"Abschleppdienst und Pannenhilfe für Köln und Umgebung.","email":"faster@takeldienstfaster.be","telephone":"+4917641956993","address":{"@type":"PostalAddress","streetAddress":"De Bosschaertstraat 248","postalCode":"2020","addressLocality":"Antwerpen","addressCountry":"BE"},"areaServed":{"@type":"City","name":"Köln"},"knowsLanguage":["de","nl","fr","en"]}
 </script>
 EOT
 my $cta = '<section class="cta"><div class="wrap cta-in"><div><h2>Liegengeblieben? Jetzt anrufen.</h2><p>24 Stunden erreichbar. Wir nennen Ihnen den Preis, bevor jemand losfährt.</p></div><div class="actions"><a class="btn btn-dark" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a><a class="btn btn-out" href="tel:+4917641956993">+49 176 41956993</a></div></div></section>';
 my (@order, %P); my $cur;
 while (my $l = <DATA>) {
-  if ($l =~ /^=== (\S+) \| (.*?\| Faster Depannage Takeldienst) \| (.*) \| (\w+) ===\s*$/) { $cur=$1; push @order,$cur; $P{$cur}={title=>$2,desc=>$3,flag=>$4,body=>''}; next }
+  if ($l =~ /^=== (\S+) \| (.*?\| Faster Abschleppdienst) \| (.*) \| (\w+) ===\s*$/) { $cur=$1; push @order,$cur; $P{$cur}={title=>$2,desc=>$3,flag=>$4,body=>''}; next }
   $P{$cur}{body} .= $l if defined $cur;
 }
 # extra page: Karlsruhe / Mittelbaden (body generated from the owner's copy by md2body.pl)
@@ -121,11 +121,11 @@ for my $slug (@order) {
   $json .= schema_for(\$body);
   my $suffix = ' | Faster Abschleppdienst';
   my $tt = $p->{title}; $tt =~ s/ \| Faster (Abschleppdienst|Depannage Takeldienst)$//;
-  if ($slug eq 'index') { $tt .= ' | Faster Depannage Takeldienst' if plainlen($tt.' | Faster Depannage Takeldienst') <= 75; }
+  if ($slug eq 'index') { $tt .= ' | Faster Abschleppdienst' if plainlen($tt.' | Faster Abschleppdienst') <= 75; }
   else { $tt .= $suffix if plainlen($tt.$suffix) <= 62; }
   my $curl  = $slug eq 'index' ? $BASE : "$BASE$slug.html";
   my $canon = qq{<link rel="canonical" href="$curl">\n};
-  my $og = qq{<meta property="og:type" content="website"><meta property="og:locale" content="de_DE"><meta property="og:site_name" content="Faster Depannage Takeldienst"><meta property="og:title" content="$tt"><meta property="og:description" content="$p->{desc}"><meta property="og:url" content="$curl"><meta property="og:image" content="${BASE}assets/faster-road-transport.jpg">\n};
+  my $og = qq{<meta property="og:type" content="website"><meta property="og:locale" content="de_DE"><meta property="og:site_name" content="Faster Abschleppdienst"><meta property="og:title" content="$tt"><meta property="og:description" content="$p->{desc}"><meta property="og:url" content="$curl"><meta property="og:image" content="${BASE}assets/faster-road-transport.jpg">\n};
   my $crumbs = ''; my $bcjson = '';
   if ($slug ne 'index' && $CRUMB_PARENT{$slug}) {
     my ($par,$lab) = @{$CRUMB_PARENT{$slug}}; my @chain = ([$slug,$lab]);
@@ -154,7 +154,7 @@ for my $slug (@order) {
 }
 
 __DATA__
-=== index | Abschleppdienst Köln – Pannenhilfe &amp; Abschleppen | Faster Depannage Takeldienst | Abschleppdienst und Pannenhilfe für Köln und Umgebung: Pkw, Transporter, Motorräder. 24/7 erreichbar per Telefon und WhatsApp. Faster Depannage Takeldienst. | index ===
+=== index | Abschleppdienst Köln – Pannenhilfe &amp; Abschleppen | Faster Abschleppdienst | Abschleppdienst und Pannenhilfe für Köln und Umgebung: Pkw, Transporter, Motorräder. 24/7 erreichbar per Telefon und WhatsApp. Faster Abschleppdienst. | index ===
 <section class="hero"><div class="wrap hero-grid"><div>
 <p class="eyebrow">Abschleppdienst Köln</p>
 <h1>Abschleppdienst Köln: Pannenhilfe und Abschleppen, 24/7 erreichbar</h1>
@@ -182,11 +182,11 @@ __DATA__
 <details><summary>Wie schnell sind Sie da?</summary><div>Das hängt von Standort, Verkehr und Verfügbarkeit ab. Wir geben Ihnen beim Anruf eine realistische Einschätzung statt eines festen Versprechens.</div></details>
 <details><summary>Was kostet die Hilfe?</summary><div>Das hängt von Standort, Ziel, Fahrzeug und Situation ab und lässt sich nicht pauschal auf einer Website sagen. Rufen Sie an oder schreiben Sie uns, dann besprechen wir Ihren Fall persönlich.</div></details>
 <details><summary>Sind Sie nachts und am Wochenende erreichbar?</summary><div>Ja, per Telefon und WhatsApp sind wir 24/7 erreichbar.</div></details>
-<details><summary>Wo sitzt Faster, und wer fährt in Köln?</summary><div>Faster Depannage Takeldienst hat seinen Sitz in Antwerpen (Belgien). In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Sie erreichen uns rund um die Uhr; wir koordinieren die Hilfe.</div></details>
+<details><summary>Wo sitzt Faster, und wer fährt in Köln?</summary><div>Faster hat seinen Sitz in Antwerpen (Belgien). In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Sie erreichen uns rund um die Uhr; wir koordinieren die Hilfe.</div></details>
 <details><summary>Welche Sprachen sprechen Sie?</summary><div>Deutsch, Niederländisch, Französisch und Englisch.</div></details>
 </div></section>
 <section class="cta"><div class="wrap cta-in"><div><h2>Panne in Köln?</h2><p>Rufen Sie an oder schreiben Sie per WhatsApp. Wir sind 24/7 erreichbar.</p></div><div class="actions"><a class="btn btn-dark" href="@@WA@@" target="_blank" rel="noopener">WhatsApp</a><a class="btn btn-out" href="tel:+4917641956993">+49 176 41956993</a></div></div></section>
-=== pannenhilfe-koeln | Pannenhilfe Köln | Faster Depannage Takeldienst | Pannenhilfe in Köln und Umgebung: Batterie, Reifen, Startprobleme, ausgesperrt, falsch getankt. 24/7 erreichbar per Telefon und WhatsApp. | page ===
+=== pannenhilfe-koeln | Pannenhilfe Köln | Faster Abschleppdienst | Pannenhilfe in Köln und Umgebung: Batterie, Reifen, Startprobleme, ausgesperrt, falsch getankt. 24/7 erreichbar per Telefon und WhatsApp. | page ===
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Pannenhilfe</p><h1>Pannenhilfe Köln</h1><p class="lead">Nicht jede Panne braucht einen Abschleppwagen. Oft lässt sich das Problem vor Ort lösen.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Wobei wir helfen</h2>
@@ -201,7 +201,7 @@ __DATA__
 <p>Rufen Sie an oder schreiben Sie per WhatsApp und senden Sie Ihren Standort. Wir besprechen, was nötig ist, und organisieren die Hilfe.</p>
 <p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p>
 </div></section>
-=== abschleppen-bergung-koeln | Abschleppen und Bergung Köln | Faster Depannage Takeldienst | Abschleppen und Bergung in Köln und Umgebung nach Panne, Unfall oder Schaden. Transport zur Werkstatt oder zum Wunschziel. | page ===
+=== abschleppen-bergung-koeln | Abschleppen und Bergung Köln | Faster Abschleppdienst | Abschleppen und Bergung in Köln und Umgebung nach Panne, Unfall oder Schaden. Transport zur Werkstatt oder zum Wunschziel. | page ===
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Abschleppen &amp; Bergung</p><h1>Abschleppen und Bergung Köln</h1><p class="lead">Wenn Weiterfahren nicht mehr geht, bringen wir Ihr Fahrzeug sicher an den vereinbarten Ort.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Abschleppen nach Panne oder Unfall</h2>
@@ -214,14 +214,14 @@ __DATA__
 <p>Die Kosten hängen von Standort, Ziel, Fahrzeugtyp und Dringlichkeit ab. Rufen Sie an oder schreiben Sie uns, dann besprechen wir Ihren Fall persönlich.</p>
 <p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p>
 </div></section>
-=== kontakt | Kontakt &amp; Anfrage | Faster Depannage Takeldienst | Abschleppdienst Köln kontaktieren: per Telefon, WhatsApp oder Formular. Faster Depannage Takeldienst. | page ===
+=== kontakt | Kontakt &amp; Anfrage | Faster Abschleppdienst | Abschleppdienst Köln kontaktieren: per Telefon, WhatsApp oder Formular. Faster Abschleppdienst. | page ===
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kontakt</p><h1>Hilfe anfordern</h1><p class="lead">Dringend? Rufen Sie an oder schreiben Sie per WhatsApp und senden Sie Ihren Standort.</p></div></section>
 <section class="section"><div class="wrap split">
 <div class="copy"><h2>So erreichen Sie uns</h2>
 <p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp schreiben</a></p>
 <p><a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993 anrufen</a></p>
 <p><strong>E-Mail:</strong> <a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a></p>
-<p><strong>Sitz:</strong><br>Faster Depannage Takeldienst<br>De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p>
+<p><strong>Sitz:</strong><br>Faster Abschleppdienst<br>De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p>
 <p><strong>Sprachen:</strong> Deutsch, Niederländisch, Französisch und Englisch.</p></div>
 <form class="formbox" action="https://formsubmit.co/faster24eu@gmail.com" method="POST">
 <input type="hidden" name="_subject" value="[DE-Köln Abschleppdienst] Neue Anfrage">
@@ -236,7 +236,7 @@ __DATA__
 <button class="btn btn-y" type="submit">Anfrage senden</button>
 <p class="fine">Mit dem Absenden stimmen Sie zu, dass Ihre Angaben zur Bearbeitung Ihrer Anfrage per E-Mail an Faster übermittelt werden. Mehr in der <a href="datenschutz.html">Datenschutzerklärung</a>.</p>
 </form></div></section>
-=== impressum | Impressum | Faster Depannage Takeldienst | Anbieterkennzeichnung von Faster Depannage Takeldienst. | noindex ===
+=== impressum | Impressum | Faster Abschleppdienst | Anbieterkennzeichnung von Faster Abschleppdienst. | noindex ===
 <section class="page-head"><div class="wrap narrow"><h1>Impressum</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
 <p><mark>ENTWURF: Die markierten Angaben müssen vor der Veröffentlichung ergänzt werden.</mark></p>
@@ -250,7 +250,7 @@ __DATA__
 <p><mark>[Name des Geschäftsführers ergänzen]</mark></p>
 <p class="fine">Hinweis: Bitte lassen Sie das Impressum vor der Veröffentlichung von einer fachkundigen Person prüfen.</p>
 </div></section>
-=== datenschutz | Datenschutzerklärung | Faster Depannage Takeldienst | Datenschutzerklärung dieser Website. | noindex ===
+=== datenschutz | Datenschutzerklärung | Faster Abschleppdienst | Datenschutzerklärung dieser Website. | noindex ===
 <section class="page-head"><div class="wrap narrow"><h1>Datenschutzerklärung</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
 <p><mark>ENTWURF: Bitte vor der Veröffentlichung von einer fachkundigen Person prüfen lassen und die markierten Angaben ergänzen.</mark></p>
@@ -267,5 +267,5 @@ __DATA__
 <h2>6. Ihre Rechte</h2>
 <p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren, in Belgien bei der Gegevensbeschermingsautoriteit (Autorité de protection des données).</p>
 </div></section>
-=== danke | Vielen Dank | Faster Depannage Takeldienst | Ihre Anfrage wurde gesendet. | noindex ===
+=== danke | Vielen Dank | Faster Abschleppdienst | Ihre Anfrage wurde gesendet. | noindex ===
 <section class="page-head"><div class="wrap narrow"><h1>Vielen Dank für Ihre Anfrage</h1><p class="lead">Wir melden uns so schnell wie möglich. Bei dringenden Fällen erreichen Sie uns jederzeit per Telefon oder WhatsApp.</p><p><a class="btn btn-y" href="index.html">Zur Startseite</a></p></div></section>
