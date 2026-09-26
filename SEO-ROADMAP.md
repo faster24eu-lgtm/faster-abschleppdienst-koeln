@@ -178,3 +178,9 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 
 ### Cycle 15 (2026-09-26, cron) – strengthen a short guide
 - `ratgeber-nach-unfall-fahrbereit` (was ~420 words) extended with "Polizei rufen oder nicht?" (no general legal duty; recommended cases; § 34 StVO duties) and "Bevor die Fahrzeuge bewegt werden" (photos, Europäischer Unfallbericht). Sources: ADAC and legal/consumer sites. The unfall-costs page keeps its own ordered checklist; overlap checked.
+
+### Cycle 16 (2026-09-26, cron) – full QA pass, no content change
+- Live crawl of all 41 sitemap URLs: all HTTP 200.
+- Checks passed: every page `noindex, nofollow`; no old (Belgian) phone number anywhere; exactly one H1 per page; no duplicate titles; every image has alt text; one canonical host; one phone number (+49 176 41956993) used consistently.
+- Only Köln-page mention of "Preis": one general sentence on the home page pointing to the cost guide ("Wie Preise für Abschleppdienste allgemein zustande kommen"), no promise or number.
+- Yellow placeholder marks remain only on `abschleppdienst-mittelbaden` (Anfahrtszeit, Zahlungsarten), `impressum` and `datenschutz` (blockers B1/B4).
