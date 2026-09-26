@@ -228,3 +228,7 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 ### Session 2, cycle at 16:55 – QA pass (no content change)
 - Live crawl of all 50 sitemap URLs: all HTTP 200. Every page `noindex, nofollow`; no old Belgian phone number or Dutch/French brand strings; every Ratgeber guide is linked from the index; no "€" on any Köln page; exactly one H1 per page (two pages were briefly flagged because the shell hit a transient fork failure; re-checked individually: fine).
 - No new page: remaining ideas (Reifendruck, Kühlmittel, Hagel/Sturm) are thin or not towing-related; not built.
+
+### Session 2, cycle at 17:25 – wording variety
+- The identical H2 "Was Sie uns sagen sollten" appeared on 10 pages. Six guides (AdBlue, Bremsen, Lenkradsperre, Notlauf, Servolenkung, Kupplung) now have their own heading; four keep it where it fits (A3, Automatik, E-Auto, Motorrad). No new page.
+- Competitor look (takeldirect.be): aggregator with ~484 URLs and template city pages (~85 % generic); traffic source unverified. Owner was given free traffic-estimator links (Ahrefs, Semrush, SpyFu, Similarweb, Ads Transparency).

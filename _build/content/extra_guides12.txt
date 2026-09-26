@@ -22,7 +22,7 @@
 <li>Der Motor startet, läuft aber nicht rund oder verliert Leistung</li>
 </ul>
 <p>Das Fahrzeug wird dann auf einem Plateauwagen zur Werkstatt gebracht. Was Sie sonst bei einem Diesel prüfen sollten, der nicht anspringt, steht unter <a href="ratgeber-auto-springt-nicht-an.html">Auto springt nicht an</a>. Wichtig: Wenn Sie versehentlich AdBlue in den Dieseltank gefüllt oder Diesel in den AdBlue-Tank gegeben haben, starten Sie den Motor nicht, siehe <a href="ratgeber-falsch-getankt.html">Falsch getankt</a>.</p>
-<h2>Was Sie uns sagen sollten</h2>
+<h2>Angaben für den Abschleppdienst</h2>
 <ul class="ticks">
 <li>Marke, Modell, Baujahr, Diesel mit AdBlue</li>
 <li>Welche Warnmeldungen im Display stehen und was die Restreichweite anzeigte</li>

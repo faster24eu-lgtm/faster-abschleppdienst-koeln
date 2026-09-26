@@ -14,7 +14,7 @@
 <p>Moderne Fahrzeuge sichern das Lenkrad elektronisch. Dann kann eine schwache oder leere Batterie der Grund sein. Wenn der Schlüssel sich nicht drehen lässt oder das Auto nicht auf Start reagiert, versuchen Sie Starthilfe, siehe <a href="ratgeber-starthilfe-batterie.html">Starthilfe und leere Batterie</a>. Bei Keyless-Go kann auch eine schwache Schlüsselbatterie schuld sein, siehe <a href="ratgeber-ausgesperrt.html">Ausgesperrt: Schlüssel im Auto</a>.</p>
 <h2>Wenn es weiterhin klemmt</h2>
 <p>Lässt sich die Sperre nicht lösen, liegt vielleicht ein mechanischer Schaden am Zündschloss oder an der Sperre vor. Auch ein abgenutzter Schlüssel kann die Ursache sein. Dann bleibt nur die Werkstatt. Das Fahrzeug wird auf einem Plateauwagen dorthin gebracht, bei blockierter Lenkung sowieso, denn ein Fahrzeug mit gesperrtem Lenkrad lässt sich nicht sicher schleppen. Weitere Diagnose unter <a href="ratgeber-auto-springt-nicht-an.html">Auto springt nicht an</a>.</p>
-<h2>Was Sie uns sagen sollten</h2>
+<h2>Hilfreiche Angaben am Telefon</h2>
 <ul class="ticks">
 <li>Ob das Lenkrad blockiert ist oder sich nur der Schlüssel nicht dreht</li>
 <li>Wo das Fahrzeug steht (Straße, Parkhaus, Bordstein)</li>
@@ -48,7 +48,7 @@
 </ul>
 <h2>Nach dem Anhalten</h2>
 <p>Fahren Sie nicht weiter. Die rote Bremsleuchte, ein weiches Pedal oder Bremsflüssigkeit unter dem Auto sind Gründe, das Fahrzeug transportieren zu lassen, siehe <a href="ratgeber-warnleuchten-auto.html">Warnleuchten im Auto</a> und <a href="ratgeber-oelverlust-oelspur.html">Ölverlust und Ölspur</a>. Ein Auto mit defekter Bremse sollte nicht am Seil gezogen werden, denn beim Ziehen bremst im Wesentlichen nur das Zugfahrzeug. Es wird auf einem Plateauwagen zur Werkstatt gebracht. Auf Bergstrecken gilt das erst recht, siehe <a href="ratgeber-winterpanne-schwarzwald.html">Winterpanne und Bergstrecken</a>.</p>
-<h2>Was Sie uns sagen sollten</h2>
+<h2>Das sollten Sie durchgeben</h2>
 <ul class="ticks">
 <li>Ob die Bremse ganz oder nur teilweise ausgefallen ist</li>
 <li>Ob Bremsflüssigkeit oder ein anderer Stoff austritt</li>
