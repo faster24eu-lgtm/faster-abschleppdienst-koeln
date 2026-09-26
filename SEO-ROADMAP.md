@@ -211,3 +211,6 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 
 ### Session 2, cycle at 14:25 – AdBlue
 - `ratgeber-adblue-leer`: warning stages and Startsperre described generally ("je nach Hersteller"), Nachfüllen may not lift the lock immediately, Reset in Werkstatt for some models. Sources are consumer/workshop blogs, so no kilometre thresholds are stated. Site at 48 pages.
+
+### Session 2, cycle at 14:55 – Notlauf
+- `ratgeber-notlauf-auto`: Notlaufprogramm as protective reaction, symptoms (drehzahlbegrenzt, träge), possible causes (Sensoren, Turbo, AGR/DPF, AdBlue), restart may lift it temporarily, Fehlerspeicher; own recommendation: no slow driving on Autobahn/Steigung, transport instead. Site at 49 pages.
