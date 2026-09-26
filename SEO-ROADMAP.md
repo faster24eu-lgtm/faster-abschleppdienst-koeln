@@ -175,3 +175,6 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 - Audit of pages/word counts/images: the only real problem was the oversized logo (287 KB on every page). Fixed: 96 % smaller. Logo dimensions in the markup now match the CSS (110×38) to avoid layout shift.
 - Content backlog is exhausted without owner input (Köln Einsatzgebiet, Autoentsorgung, Pforzheim, price/hotline confirmation). No new page written this cycle on purpose.
 - Small pages still under ~450 words: kontakt (utility, fine), impressum/datenschutz (drafts, blocked by B1), ratgeber-nach-unfall-fahrbereit (~420).
+
+### Cycle 15 (2026-09-26, cron) – strengthen a short guide
+- `ratgeber-nach-unfall-fahrbereit` (was ~420 words) extended with "Polizei rufen oder nicht?" (no general legal duty; recommended cases; § 34 StVO duties) and "Bevor die Fahrzeuge bewegt werden" (photos, Europäischer Unfallbericht). Sources: ADAC and legal/consumer sites. The unfall-costs page keeps its own ordered checklist; overlap checked.
