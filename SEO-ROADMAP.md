@@ -208,3 +208,6 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 ### Session 2, cycle at 13:55 – two more guides
 - `ratgeber-lenkradsperre-klemmt` (Lenkrad in Gegenrichtung drehen und Schlüssel drehen, nicht mit Gewalt; elektronische Sperre: Batterie; Werkstatt) and `ratgeber-bremsen-versagen` (Pedal pumpen, Motorbremse, Handbremse dosiert, Ursachen: Leitung, kochende Bremsflüssigkeit, Bremskraftverstärker; disclaimer that it does not replace driver training; do not tow with rope). Sources: consumer and ADAC-style articles; wording kept conservative because the brake page is safety-critical.
 - Site at 47 pages.
+
+### Session 2, cycle at 14:25 – AdBlue
+- `ratgeber-adblue-leer`: warning stages and Startsperre described generally ("je nach Hersteller"), Nachfüllen may not lift the lock immediately, Reset in Werkstatt for some models. Sources are consumer/workshop blogs, so no kilometre thresholds are stated. Site at 48 pages.

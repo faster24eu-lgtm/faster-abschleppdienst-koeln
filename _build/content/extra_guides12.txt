@@ -1,0 +1,37 @@
+=== ratgeber-adblue-leer | AdBlue leer: Warum der Diesel nicht mehr startet | AdBlue-Tank leer und der Motor startet nicht mehr: Warnstufen, Startsperre, Nachfüllen und wann das Fahrzeug in die Werkstatt transportiert werden muss. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>AdBlue leer: Warum der Diesel nicht mehr startet</h1><p class="lead">Der Tank ist noch halb voll, aber der Motor bleibt stumm. Bei vielen modernen Dieselfahrzeugen liegt das am AdBlue.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Was AdBlue macht</h2>
+<p>Neuere Dieselfahrzeuge mit SCR-Abgasreinigung spritzen AdBlue in den Abgasstrom, um Stickoxide zu verringern. Ist der AdBlue-Tank leer, darf das Fahrzeug die Abgasgrenzwerte nicht mehr einhalten. Deshalb greift die Elektronik ein.</p>
+<h2>Die Warnstufen</h2>
+<p>Die Reihenfolge ist je nach Hersteller etwas unterschiedlich, meist läuft es so ab:</p>
+<ol>
+<li><strong>Erste Warnung:</strong> Eine Leuchte oder Meldung im Cockpit, der Tank ist noch ausreichend gefüllt.</li>
+<li><strong>Zweite Warnung:</strong> Der Tank ist fast leer, das Display zeigt eine Restreichweite.</li>
+<li><strong>Dritte Warnung:</strong> Der Tank ist leer, die Motorleistung kann reduziert werden.</li>
+<li><strong>Startsperre:</strong> Wird der Motor bei null Kilometern Restreichweite abgestellt, startet er oft nicht mehr, auch wenn noch Diesel im Tank ist.</li>
+</ol>
+<div class="note"><p>Stellen Sie den Motor bei einer AdBlue-Warnung nicht unnötig ab, zum Beispiel an der Tankstelle oder im Stau, bevor Sie nachgefüllt haben. Fahren Sie besser gleich zu einer Tankstelle mit AdBlue-Zapfsäule oder kaufen Sie einen Kanister.</p></div>
+<h2>Nachfüllen: reicht das?</h2>
+<p>Ob das Nachfüllen die Startsperre aufhebt, hängt vom Fahrzeug ab. Manche Modelle erkennen den neuen Füllstand erst nach einiger Zeit, andere brauchen zusätzlich einen Reset durch die Werkstatt, wenn die Sperre bereits aktiv war. Auch ein defekter Füllstandssensor kann dazu führen, dass das Fahrzeug den Füllstand nicht erkennt, egal wie viel Sie nachfüllen. Lesen Sie die Betriebsanleitung: Dort steht, wie viel Sie einfüllen dürfen und wie lange das System zum Erkennen braucht.</p>
+<h2>Wann Sie Hilfe rufen sollten</h2>
+<ul class="ticks">
+<li>Der Motor startet nach dem Nachfüllen nicht</li>
+<li>Die Warnung bleibt, obwohl der Tank voll ist</li>
+<li>Sie stehen an einer Stelle, wo Sie nicht nachfüllen können, etwa auf der Autobahn, siehe <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a></li>
+<li>Der Motor startet, läuft aber nicht rund oder verliert Leistung</li>
+</ul>
+<p>Das Fahrzeug wird dann auf einem Plateauwagen zur Werkstatt gebracht. Was Sie sonst bei einem Diesel prüfen sollten, der nicht anspringt, steht unter <a href="ratgeber-auto-springt-nicht-an.html">Auto springt nicht an</a>. Wichtig: Wenn Sie versehentlich AdBlue in den Dieseltank gefüllt oder Diesel in den AdBlue-Tank gegeben haben, starten Sie den Motor nicht, siehe <a href="ratgeber-falsch-getankt.html">Falsch getankt</a>.</p>
+<h2>Was Sie uns sagen sollten</h2>
+<ul class="ticks">
+<li>Marke, Modell, Baujahr, Diesel mit AdBlue</li>
+<li>Welche Warnmeldungen im Display stehen und was die Restreichweite anzeigte</li>
+<li>Ob Sie nachgefüllt haben und wie viel</li>
+<li>Wo das Fahrzeug steht</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich ohne AdBlue weiterfahren?</summary><div>Kurz ja, aber irgendwann greift die Elektronik ein. Bei null Restreichweite verweigern viele Fahrzeuge nach dem Abstellen den Start.</div></details>
+<details><summary>Warum startet mein Auto nach dem Nachfüllen nicht?</summary><div>Manche Fahrzeuge brauchen etwas Zeit, bis sie den neuen Füllstand erkennen, andere einen Reset in der Werkstatt. Auch ein defekter Sensor kann schuld sein.</div></details>
+</div></section>
+@@CTA@@
