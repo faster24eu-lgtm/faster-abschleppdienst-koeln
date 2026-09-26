@@ -3,6 +3,8 @@
 <section class="section"><div class="wrap"><h2>Wenn etwas passiert ist</h2><div class="cards3">
 <article class="card"><h3>Panne auf der Autobahn</h3><p>Warndreieck, Warnweste, Notrufsäule: die Schritte in der richtigen Reihenfolge.</p><a href="ratgeber-panne-autobahn.html">Lesen →</a></article>
 <article class="card"><h3>Abschleppkosten nach einem Unfall</h3><p>Wer zahlt, wer sucht den Abschleppdienst aus und wohin darf das Auto?</p><a href="ratgeber-unfall-abschleppkosten.html">Lesen →</a></article>
+<article class="card"><h3>Ölverlust und Ölspur</h3><p>Absichern, Feuerwehr informieren, Fahrzeug transportieren lassen und wer die Reinigung zahlt.</p><a href="ratgeber-oelverlust-oelspur.html">Lesen →</a></article>
+<article class="card"><h3>Auto festgefahren</h3><p>Schlamm, Schnee, Sand: was hilft und wann eine Bergung nötig ist.</p><a href="ratgeber-auto-festgefahren.html">Lesen →</a></article>
 <article class="card"><h3>Auto im Wasser stehen geblieben</h3><p>Wasserschlag erkennen, Motor nicht starten, Versicherung informieren.</p><a href="ratgeber-wasserschlag-ueberschwemmung.html">Lesen →</a></article>
 <article class="card"><h3>Wildunfall</h3><p>Polizei, Wildunfallbescheinigung, Teilkasko und die Frage, ob das Auto noch fahren darf.</p><a href="ratgeber-wildunfall.html">Lesen →</a></article>
 <article class="card"><h3>Nach dem Unfall: fahrbereit?</h3><p>Woran Sie erkennen, ob das Auto noch verkehrssicher ist oder abgeschleppt werden sollte.</p><a href="ratgeber-nach-unfall-fahrbereit.html">Lesen →</a></article>

@@ -199,3 +199,8 @@ Explicitly NOT planned: pages for other cities (Bonn, Düsseldorf, …) without 
 - Header logo graphic said "TAKELDIENST"; replaced with a German version ("ABSCHLEPPDIENST FASTER", `assets/faster-logo-de-600.png`, 600 px, ~38 KB; the original artwork was edited by covering the Dutch word and setting the German word in a similar italic bold face; the owner may prefer a proper redraw by a designer). Header sub-line now "ABSCHLEPPDIENST & PANNENHILFE".
 - Brand shown to visitors is now "Faster Abschleppdienst" (titles, footer, og:site_name, schema name, alt text, © line). Sentences say "Faster hat seinen Sitz in Antwerpen (Belgien)".
 - **Open point for B1:** the legal entity name used in Belgium is "Faster Depannage Takeldienst". The Kontakt page and the Impressum/Datenschutz drafts must show the exact legal name once the owner confirms it; the display name "Faster Abschleppdienst" is a trade-name choice, not a verified company name.
+
+### Session 2, cycle at 13:25 – two more guides
+- `ratgeber-oelverlust-oelspur` (sources: bussgeldkatalog/ERGO-style consumer and legal sites: secure, call Feuerwehr/Polizei, do not wash into drains, transport rather than drive, Haftpflicht pays cleaning; the "mindestens 400 €" Feuerwehr figure is attributed to Ratgeberportale and not stated as our price).
+- `ratgeber-auto-festgefahren` (Schlamm/Schnee/Sand: do not spin the wheels, Traktionshilfen, Schaukeln, when to stop, Bergung vs. Abschleppen; no recovery prices quoted).
+- Site is at 45 pages.

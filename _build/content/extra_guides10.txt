@@ -1,0 +1,64 @@
+=== ratgeber-oelverlust-oelspur | Ölverlust am Auto: Ölspur sichern, melden, abschleppen | Öl läuft aus dem Auto oder hinterlässt eine Spur: Stelle absichern, Feuerwehr informieren, Fahrzeug transportieren lassen und wer die Reinigung zahlt. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Ölverlust: Was tun, wenn Öl aus dem Auto läuft</h1><p class="lead">Eine Ölspur ist nicht nur ein Schaden am Auto. Sie ist eine Gefahr für andere und ein Umweltschaden. Deshalb gehört sie nicht auf die Weiterfahrt, sondern auf die Meldung.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Woran Sie Ölverlust erkennen</h2>
+<ul class="ticks">
+<li>Ein dunkler Fleck unter dem Fahrzeug, wo es gestanden hat</li>
+<li>Die rote Öldruckleuchte oder eine Ölstandswarnung, siehe <a href="ratgeber-warnleuchten-auto.html">Warnleuchten im Auto</a></li>
+<li>Rauch oder Brandgeruch aus dem Motorraum</li>
+<li>Eine sichtbare Spur auf der Fahrbahn hinter Ihnen</li>
+</ul>
+<h2>Sofort tun</h2>
+<ol>
+<li><strong>Anhalten und Motor abstellen.</strong> Fahren Sie mit Ölverlust nicht weiter, das schädigt den Motor und verteilt Öl auf der Straße.</li>
+<li><strong>Warnblinker einschalten,</strong> Warnweste an, Stelle absichern. Auf schnellen Straßen hinter die Leitplanke, siehe <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</li>
+<li><strong>Feuerwehr informieren.</strong> Die 112 ist die übliche Nummer für ausgelaufene Betriebsstoffe, alternativ die Polizei über 110. Sagen Sie, wo Sie stehen und wie viel Öl ausgelaufen ist.</li>
+<li><strong>Nicht selbst abstreuen oder wegspülen,</strong> vor allem nicht in Gullys. Öl ist hochgiftig und kann Gewässer verschmutzen.</li>
+<li><strong>Abschleppdienst rufen.</strong> Das Fahrzeug sollte fachgerecht transportiert werden, damit unterwegs nicht mehr Öl verloren geht.</li>
+</ol>
+<h2>Warum Sie nicht weiterfahren sollten</h2>
+<p>Fahren Sie mit einem lecken Motor weiter, verteilen Sie Öl über mehrere Kilometer. Dadurch werden Straße und Fahrzeuge dahinter rutschig, und der Reinigungsaufwand steigt. Außerdem droht ein Motorschaden durch Ölmangel. Ein Transport auf der Ladefläche stoppt beides.</p>
+<h2>Wer zahlt die Reinigung?</h2>
+<p>Verursacht ein Fahrzeug die Verschmutzung, haftet in der Regel der Halter oder Fahrer, und die Kfz-Haftpflichtversicherung tritt ein, weil der Schaden durch den Betrieb des Fahrzeugs entstanden ist. Die Kosten für Feuerwehr und Reinigungsfirma können erheblich sein, Ratgeberportale nennen für den Feuerwehreinsatz mindestens 400 Euro und für eine Spezialfirma deutlich mehr. Melden Sie den Vorfall deshalb Ihrer Versicherung. Kommt es wegen der Ölspur zu einem Unfall, haftet der Verursacher der Spur.</p>
+<h2>Was Sie dem Abschleppdienst sagen sollten</h2>
+<ul class="ticks">
+<li>Wo Sie stehen, und ob eine Spur auf der Fahrbahn ist</li>
+<li>Wie viel Öl ausgelaufen ist und ob es noch tropft</li>
+<li>Ob die Feuerwehr bereits da ist</li>
+<li>Fahrzeug und Antrieb</li>
+</ul>
+<p>Ist die Feuerwehr im Einsatz, wird auf der Autobahn oft ein Vertragsunternehmen beauftragt, siehe <a href="abschleppdienst-a5.html">Panne auf der A5</a> oder <a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Muss ich eine Ölspur melden?</summary><div>Ja, ratsam ist es immer. Feuerwehr oder Polizei sichern die Stelle und veranlassen die Reinigung. So warnen Sie auch andere Verkehrsteilnehmer.</div></details>
+<details><summary>Kann ich mit wenig Ölverlust noch zur Werkstatt fahren?</summary><div>Davon raten wir ab. Auch kleine Verluste können sich schnell verstärken. Lassen Sie das Fahrzeug transportieren.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-auto-festgefahren | Auto festgefahren: was hilft und wann Bergung nötig ist | Auto steckt im Schlamm, Schnee oder Sand fest: nicht durchdrehen, Traktionshilfen, Schaukeln und wann ein Abschleppdienst die Bergung übernehmen sollte. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Auto festgefahren: Was hilft, und wann Bergung nötig ist</h1><p class="lead">Die Räder drehen durch, das Auto sinkt tiefer. Wer jetzt Gas gibt, macht es schlimmer.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Nicht durchdrehen lassen</h2>
+<p>Hohe Drehzahl an den Antriebsrädern macht den Untergrund glatter, gräbt die Räder ein und füllt die Radkästen mit Schlamm. Wenn sich das Fahrzeug nach ein bis zwei vorsichtigen Versuchen nicht bewegt, hören Sie auf.</p>
+<h2>Was Sie selbst versuchen können</h2>
+<ul class="ticks">
+<li><strong>Räder gerade stellen</strong> und vorsichtig anfahren, mit möglichst wenig Gas.</li>
+<li><strong>Traktion verbessern:</strong> Fußmatten, Decken, Bretter oder Anfahrmatten unter die Antriebsräder legen. Grober Sand oder Split in die Fahrrinne helfen ebenfalls.</li>
+<li><strong>Schaukeln:</strong> Wechseln Sie zwischen Vorwärts- und Rückwärtsgang mit kleinen Bewegungen, bis der Schwung reicht. Nicht bei Automatik ohne Wählhebelfreigabe erzwingen, siehe <a href="ratgeber-automatik-abschleppen.html">Automatikauto abschleppen</a>.</li>
+</ul>
+<h2>Wann Sie aufhören sollten</h2>
+<ul class="ticks">
+<li>Das Fahrzeug steht schief oder rutscht weiter in eine Böschung oder einen Graben</li>
+<li>Es steht im Wasser, siehe <a href="ratgeber-wasserschlag-ueberschwemmung.html">Auto im Wasser</a></li>
+<li>Es riecht verbrannt, oder ein Rad dreht plötzlich frei, die Kupplung rutscht, siehe <a href="ratgeber-kupplung-defekt.html">Kupplung defekt</a></li>
+<li>Sie stehen an einer Straße und blockieren sie</li>
+</ul>
+<h2>Bergung statt Abschleppen</h2>
+<p>Wenn ein Fahrzeug im Graben, an einer Böschung oder tief im Schlamm liegt, reicht das Aufladen nicht. Es muss geborgen werden, und das ist aufwendiger als ein normales Abschleppen. Sagen Sie uns, wie das Fahrzeug steht: welche Räder eingesunken sind, ob es gekippt ist, wie weit es von der befestigten Straße entfernt ist und ob ein Weg oder Boden für ein schweres Fahrzeug tragfähig ist. Nach Angaben von Ratgeberportalen ist eine Bergung teurer als ein normaler Abschleppeinsatz. Fragen Sie deshalb vorab nach den Bedingungen. Was bei Bergungen allgemein zählt, steht auch unter <a href="abschleppen-bergung-koeln.html">Abschleppen und Bergung in Köln</a>.</p>
+<h2>Im Winter</h2>
+<p>Im Schnee hilft ein Anfahrtsteppich oder Split, dazu ein Blick auf die Reifen: Winterreifen mit Alpine-Symbol sind bei Schnee vorgeschrieben, siehe <a href="ratgeber-winterpanne-schwarzwald.html">Winterpanne auf Bergstrecken</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ich ein festgefahrenes Auto mit Seil herausziehen lassen?</summary><div>Nur mit geeigneter Ausrüstung und einem Zugfahrzeug, das nicht selbst einsinkt. Ein Abschleppseil ist dafür nicht gedacht, es kann reißen. Regeln unter <a href="ratgeber-abschleppseil-oder-abschleppdienst.html">Abschleppseil oder Abschleppdienst?</a></div></details>
+<details><summary>Ist Festfahren ein Fall für die Teilkasko?</summary><div>Das hängt vom Vertrag und den Umständen ab. Prüfen Sie Ihren Schutzbrief oder Ihre Versicherung, bevor Sie zahlen.</div></details>
+</div></section>
+@@CTA@@
