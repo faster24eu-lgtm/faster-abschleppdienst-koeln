@@ -97,6 +97,8 @@
 <p>Die Bahnstrecke Magdeburg–Stendal–Wittenberge wurde 1849 eröffnet, der Stendaler Hauptbahnhof 1871. 1909 schied Stendal aus dem Kreis Stendal aus und bildete einen eigenen Stadtkreis. Wenn Sie am Hauptbahnhof liegen bleiben, nennen Sie uns Straße und Ausgang.</p>
 <h2>Sperlings-Ida und Altstadt</h2>
 <p>Auf dem Sperlingsberg steht ein 1906 errichteter Laufbrunnen, im Volksmund „Sperlings-Ida“ genannt, ein brauchbarer Orientierungspunkt in der Altstadt. Wenn Sie dort liegen bleiben, nennen Sie uns Straße und Hausnummer.</p>
+<h2>Stendaler Dom und Franziskanerkloster</h2>
+<p>Am Ort der 1215 noch bestehenden Stendaler Burg wurde 1423 mit dem Bau des Stendaler Doms begonnen. Das Refektorium des Franziskanerklosters am Mönchskirchhof aus dem 14. Jahrhundert beherbergt heute die Stadtbibliothek. Wenn Sie am Dom, am Mönchskirchhof oder in deren Nähe liegen bleiben, nennen Sie uns Straße und Hausnummer, denn die Altstadt hat teils enge Gassen.</p>
 <h2>So nennen Sie Ihren Standort in Stendal</h2>
 <ul class="ticks">
 <li>Ortschaft oder Ortsteil, Straße, Hausnummer.</li>
