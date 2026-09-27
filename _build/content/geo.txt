@@ -75,3 +75,11 @@ stadt-heidelberg	Heidelberg	Baden-Württemberg
 stadt-herne	Herne	Nordrhein-Westfalen	
 stadt-rostock	Rostock	Mecklenburg-Vorpommern	
 stadt-neuss	Neuss	Nordrhein-Westfalen	
+stadt-darmstadt	Darmstadt	Hessen	
+stadt-offenbach	Offenbach am Main	Hessen	
+stadt-ulm	Ulm	Baden-Württemberg	
+stadt-heilbronn	Heilbronn	Baden-Württemberg	
+stadt-pforzheim	Pforzheim	Baden-Württemberg	
+stadt-goettingen	Göttingen	Niedersachsen	
+stadt-bottrop	Bottrop	Nordrhein-Westfalen	
+stadt-trier	Trier	Rheinland-Pfalz	

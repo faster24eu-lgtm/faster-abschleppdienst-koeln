@@ -56,3 +56,11 @@ stadt-heidelberg	mannheim,ludwigshafen,karlsruhe,darmstadt,heilbronn,worms,speye
 stadt-herne	bochum,gelsenkirchen,recklinghausen,essen,dortmund,witten,castrop-rauxel,hagen	
 stadt-rostock	luebeck,schwerin,kiel,stralsund,greifswald,wismar,hamburg,berlin	
 stadt-neuss	duesseldorf,krefeld,moenchengladbach,leverkusen,index,duisburg,solingen,wuppertal	a3
+stadt-darmstadt	frankfurt,offenbach,mainz,wiesbaden,heidelberg,mannheim,worms,hanau	a5
+stadt-offenbach	frankfurt,hanau,darmstadt,wiesbaden,mainz,aschaffenburg,giessen,wuerzburg	a3
+stadt-ulm	augsburg,stuttgart,heilbronn,memmingen,ingolstadt,tuebingen,reutlingen,esslingen	a8,a7
+stadt-heilbronn	stuttgart,heidelberg,mannheim,ludwigsburg,wuerzburg,pforzheim,karlsruhe,ulm	a6,a81
+stadt-pforzheim	karlsruhe,stuttgart,baden-baden,heilbronn,ludwigsburg,tuebingen,freiburg,heidelberg	a8
+stadt-goettingen	kassel,hannover,braunschweig,hildesheim,erfurt,paderborn,salzgitter,wolfsburg	a7
+stadt-bottrop	essen,oberhausen,gelsenkirchen,gladbeck,duisburg,herne,recklinghausen,bochum	a2
+stadt-trier	saarbruecken,koblenz,mainz,kaiserslautern,luxemburg,bonn,mannheim,ludwigshafen	
