@@ -1,0 +1,82 @@
+=== autobahn-a71 | Pannenhilfe auf der A71: Thüringer-Wald-Autobahn, Tunnel Rennsteig | Panne auf der A71 zwischen Erfurt, Thüringer Wald und Schweinfurt: fünf Tunnel, Tunnel Rennsteig, Talbrücken mit Seitenwind, Dreieck Werntal. | page ===
+<!--AREAS: A71, Erfurt, Arnstadt, Ilmenau, Oberhof, Suhl, Meiningen, Bad Kissingen, Schweinfurt -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A71</h1><p class="lead">Die A71 verbindet Sangerhausen über Erfurt und den Thüringer Wald mit Schweinfurt. Nennen Sie uns Richtung, Anschlussstelle oder Tunnel, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>220 Kilometer durch den Thüringer Wald</h2>
+<p>Die A71 hat eine Länge von 220 Kilometern und verbindet Sangerhausen über Erfurt und den Thüringer Wald mit Schweinfurt. Zwischen den Anschlussstellen Arnstadt-Süd und Meiningen-Nord quert sie auf rund 60 Kilometern den Thüringer Wald an seiner schmalsten Stelle und heißt hier Thüringer-Wald-Autobahn. Weitere Orte an der Strecke sind Artern, Heldrungen, Arnstadt, Ilmenau, Geraberg, Oberhof, Zella-Mehlis, Suhl, Meiningen, Mellrichstadt, Bad Neustadt, Münnerstadt und Bad Kissingen. Wenn Sie auf der A71 liegen bleiben, sind die genannten Anschlussstellen die beste Landmarke. Mehr auf <a href="stadt-erfurt.html">Abschleppdienst Erfurt</a> und <a href="autobahn-a73.html">Panne auf der A73</a>.</p>
+<h2>Tunnel Rennsteig und fünf weitere Tunnel</h2>
+<p>Die eigentliche Kammquerung erfolgt auf 670 Metern Höhe im fast acht Kilometer langen Tunnel Rennsteig. Mit 7.916 Metern ist er der mit Abstand längste Straßentunnel Deutschlands. Fünf Straßentunnel mit über einem Kilometer Länge befinden sich an der A71. Zwischen den Tunneln Alte Burg und Berg Bock gilt über etwa 18 Kilometer eine mit Wechselverkehrszeichen angezeigte Geschwindigkeitsbeschränkung, üblicherweise 80 km/h, die mit festen Messstellen überwacht wird. Bei einer Panne im Tunnel: Warnblinker, Motor aus, Notrufnische nutzen, nicht im Tunnel stehen bleiben, mehr im <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>.</p>
+<h2>Talbrücken und Seitenwind</h2>
+<p>Auf den Talbrücken Reichenbach und Zahme Gera sind seit der Eröffnung 2003 schon mehrere Lkw oder Anhänger ohne Ladung durch starke Windböen umgerissen worden, obwohl Windsäcke auf diese Gefahr hinweisen. In den nach Norden abfallenden Tälern kommt es immer wieder zu starken Fallwinden vom Kamm des Thüringer Waldes. Die Talbrücke Wilde Gera hat mit 252 Metern Spannweite die größte Stahlbetonbogenbrücke Deutschlands. Wenn Sie mit Anhänger oder Wohnmobil an einer Talbrücke liegen bleiben, nennen Sie uns das ausdrücklich. Mehr im <a href="ratgeber-wohnmobil-gespann-panne.html">Ratgeber Wohnmobil und Gespann</a>.</p>
+<h2>Bau und Freigabe</h2>
+<p>Die Autobahn ist ein Neubau, der 1996 mit dem Hauptabschnitt Erfurt–Schweinfurt als Teil des Verkehrsprojekts Deutsche Einheit Nr. 16 begonnen wurde. Der erste, 26 Kilometer lange Abschnitt von Erfurt-Bindersleben bis zum provisorischen Anschluss Traßdorf wurde am 12. Dezember 1998 freigegeben, der letzte Abschnitt zwischen Etzleben und Sömmerda-Ost am 3. September 2015. Am 14. Oktober 2005 wurde vorab der Abschnitt zwischen dem Dreieck Werntal bei Schweinfurt, wo die A71 in die A70 mündet, und der Anschlussstelle Bad Kissingen/Oerlenbach freigegeben. Mit etwa zehn Millionen Euro pro Kilometer war der Thüringer-Wald-Abschnitt die teuerste zum Zeitpunkt der Fertigstellung in Deutschland gebaute Autobahn.</p>
+<h2>So nennen Sie Ihren Standort auf der A71</h2>
+<ul class="ticks">
+<li>Richtung: Erfurt/Sangerhausen oder Schweinfurt.</li>
+<li>Letzte oder nächste Anschlussstelle, Dreieck oder Tunnelname.</li>
+<li>Im Tunnel: Fahrtrichtung und Tunnel.</li>
+<li>Auf Talbrücken: bei Wind oder mit Anhänger.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A71</h2>
+<details><summary>Wie lang ist der Tunnel Rennsteig?</summary><div>7.916 Meter, der längste Straßentunnel Deutschlands.</div></details>
+<details><summary>Wie viele Tunnel über einem Kilometer hat die A71?</summary><div>Fünf.</div></details>
+<details><summary>Wo mündet die A71 in die A70?</summary><div>Am Dreieck Werntal bei Schweinfurt.</div></details>
+<details><summary>Warum ist Seitenwind auf der A71 ein Thema?</summary><div>Auf Talbrücken wie Reichenbach und Zahme Gera wurden Lkw und Anhänger von Böen umgerissen, dort kommen starke Fallwinde vom Kamm vor.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a72 | Pannenhilfe auf der A72: Vogtlandautobahn Hof, Plauen, Zwickau, Chemnitz | Panne auf der A72 vom Dreieck Bayerisches Vogtland über Plauen, Zwickau und Chemnitz bis Leipzig-Süd: Talbrücken, Geschichte, A9, A4 und A38. | page ===
+<!--AREAS: A72, Hof, Plauen, Zwickau, Chemnitz, Stollberg, Borna, Leipzig -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A72</h1><p class="lead">Die A72, die Vogtlandautobahn, führt von der A9 bei Hof über Chemnitz nach Leipzig. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Von Hof nach Leipzig</h2>
+<p>Die A72 verläuft von der A9 am Autobahndreieck Bayerisches Vogtland bei Hof zunächst als Europastraße 441 Richtung Osten bis zum Autobahnkreuz Chemnitz mit der A4 und weiter Richtung Norden bis zur A38 am Autobahnkreuz Leipzig-Süd. Sie wird Vogtlandautobahn genannt. Wenn Sie in der Nähe von Dreiecken oder Kreuzen liegen bleiben, sagen Sie uns die Autobahnnummer und die Fahrtrichtung. Mehr auf <a href="autobahn-a9.html">Panne auf der A9</a>, <a href="autobahn-a4.html">Panne auf der A4</a>, <a href="stadt-plauen.html">Abschleppdienst Plauen</a> und <a href="stadt-chemnitz.html">Abschleppdienst Chemnitz</a>.</p>
+<h2>Begonnen in den 1930er Jahren</h2>
+<p>Die Strecke wurde in den 1930er Jahren als Eckverbindung der Nord-Süd-Strecke Berlin–München und der Ost-West-Strecke Dresden–Bad Hersfeld begonnen, um Schlesien und Ostsachsen mit Bayern zu verbinden. Der erste Teilabschnitt zwischen den Anschlussstellen Pirk und Treuen wurde im Sommer 1934 zur Bauausführung freigegeben. Bei der Einstellung der Bauarbeiten im Mai 1942 waren von den 107,5 Kilometern 94 Prozent in Betrieb, davon 93 Prozent nur einbahnig. Von 1990 bis 1995 wurde die Autobahn zwischen dem Dreieck Bayerisches Vogtland und Zwickau für rund eine Milliarde DM fertiggestellt beziehungsweise erneuert, bis dahin war die Strecke einstreifig.</p>
+<h2>Sieben große Talbrücken</h2>
+<p>Die Topographie der parallel zum Erzgebirge verlaufenden Autobahn bedingte den Bau von sieben großen Talbrücken, von denen fünf in Stein als Gewölbereihenbrücken geplant wurden, etwa die Elstertalbrücke und die Göltzschtalbrücke bei der Bahnstrecke Leipzig–Hof. An der Landesgrenze zwischen Sachsen und Bayern wird mit 576,40 Metern über NN der höchste Punkt erreicht. Der westliche Abschnitt führt vor allem durch Wälder. Wenn Sie an einer Talbrücke oder in einem Waldabschnitt liegen bleiben, nennen Sie uns Brücke oder Kilometerstein, wenn erkennbar. Bei Nebel und Glätte im Höhenzug, siehe <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A72</h2>
+<ul class="ticks">
+<li>Richtung: Hof, Plauen, Zwickau, Chemnitz oder Leipzig.</li>
+<li>Letzte oder nächste Anschlussstelle, Dreieck Bayerisches Vogtland, Kreuz Chemnitz.</li>
+<li>Bundesland: Bayern oder Sachsen.</li>
+<li>Brücke oder Wald als Landmarke.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A72</h2>
+<details><summary>Warum heißt die A72 Vogtlandautobahn?</summary><div>Wegen ihres Verlaufs durch das Vogtland zwischen Hof und Chemnitz.</div></details>
+<details><summary>Wo beginnt und endet die A72?</summary><div>Am Dreieck Bayerisches Vogtland bei Hof an der A9 und am Kreuz Leipzig-Süd an der A38.</div></details>
+<details><summary>Welche europäische Route ist die A72?</summary><div>Sie ist zunächst als E441 geführt.</div></details>
+<details><summary>Wie viele große Talbrücken gibt es?</summary><div>Sieben, fünf davon als Gewölbereihenbrücken in Stein geplant.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a73 | Pannenhilfe auf der A73: Suhl, Coburg, Bamberg, Nürnberg | Panne auf der A73 von Suhl über Coburg und Bamberg nach Nürnberg und Feucht: 167 Kilometer, Frankenschnellweg, Baulücke in Nürnberg, Haseltalbrücke. | page ===
+<!--AREAS: A73, Suhl, Eisfeld, Coburg, Lichtenfels, Bamberg, Forchheim, Erlangen, Nürnberg, Feucht -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A73</h1><p class="lead">Die A73 führt 167 Kilometer von Suhl über Coburg, Bamberg und Nürnberg nach Feucht. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>167 Kilometer durch Thüringen und Bayern</h2>
+<p>Die A73 ist eine 167 Kilometer lange Autobahn, die von Suhl über Coburg, Bamberg und Nürnberg nach Feucht führt und dabei Thüringen und Bayern durchquert. Neben einer überregionalen Nord-Süd-Verbindung ist sie ein wichtiger Verkehrsweg im Ballungsraum Nürnberg. Wenn Sie auf der Strecke liegen bleiben, nennen Sie uns zuerst, ob Sie im Thüringer Wald, im Maintal oder im Raum Nürnberg stehen. Mehr auf <a href="stadt-nuernberg.html">Abschleppdienst Nürnberg</a> und <a href="stadt-bamberg.html">Abschleppdienst Bamberg</a>.</p>
+<h2>Frankenschnellweg und Baulücke in Nürnberg</h2>
+<p>Der südliche Teil zwischen Bamberg und Nürnberg ging größtenteils aus der Umwidmung der seit den 1960er Jahren autobahnähnlich ausgebauten B4 hervor und wird auch Frankenschnellweg genannt. Der Ausbau zur Autobahn folgte Ende der 1970er Jahre. Die nördliche Verlängerung von Bamberg bis zur Einmündung in die A71 bei Suhl wurde ab Ende der 1990er Jahre errichtet und 2008 fertiggestellt. Seitdem besteht lediglich im Stadtgebiet von Nürnberg eine Baulücke mit drei ampelgeregelten Kreuzungen, die Verbindung ist als Kreisstraße N4 gewidmet. Wenn Sie in diesem Abschnitt liegen bleiben, nennen Sie uns Kreuzung und Fahrtrichtung. Mehr auf <a href="stadt-fuerth.html">Abschleppdienst Fürth</a> und <a href="stadt-erlangen.html">Abschleppdienst Erlangen</a>.</p>
+<h2>Vom Thüringer Wald ins Maintal</h2>
+<p>Die A73 beginnt im Thüringer Wald am Dreieck Suhl, wo sie von der A71 nach Südosten abzweigt. Direkt nach Beginn wird auf der 82 Meter hohen Haseltalbrücke der gleichnamige Fluss gequert. Suhl wird südlich auf den Bergkämmen des Talkessels umfahren und mit zwei Anschlussstellen angebunden, danach geht es mit zahlreichen Brückenbauwerken nach Schleusingen und ins Werratal bei Eisfeld. Direkt hinter Eisfeld wird die Landesgrenze zu Bayern gequert, danach führt die Autobahn über die Langen Berge nach Coburg. Die Anschlussstelle Eisfeld-Süd wurde direkt auf dem ehemaligen Streifen der Grenzanlagen angelegt. Bei Lichtenfels mündet die B173 in die A73, dann folgt sie dem Maintal zwischen Haßbergen und Fränkischer Alb. Bei Steigungen und Gefällen siehe <a href="ratgeber-bremsen-versagen.html">Bremsen versagen</a>. Mehr auf <a href="autobahn-a71.html">Panne auf der A71</a> und <a href="autobahn-a9.html">Panne auf der A9</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A73</h2>
+<ul class="ticks">
+<li>Richtung: Suhl oder Nürnberg/Feucht.</li>
+<li>Letzte oder nächste Anschlussstelle, Dreieck Suhl, Coburg, Lichtenfels, Bamberg, Forchheim.</li>
+<li>In Nürnberg: Frankenschnellweg, Kreuzung, Fahrtrichtung.</li>
+<li>Bundesland: Thüringen oder Bayern.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A73</h2>
+<details><summary>Wie lang ist die A73?</summary><div>167 Kilometer, von Suhl bis Feucht.</div></details>
+<details><summary>Was ist der Frankenschnellweg?</summary><div>Der südliche Teil zwischen Bamberg und Nürnberg, der aus der autobahnähnlich ausgebauten B4 hervorging.</div></details>
+<details><summary>Gibt es eine Lücke in Nürnberg?</summary><div>Ja, im Stadtgebiet mit drei ampelgeregelten Kreuzungen, als Kreisstraße N4 gewidmet.</div></details>
+<details><summary>Wo beginnt die A73?</summary><div>Am Dreieck Suhl im Thüringer Wald, wo sie von der A71 abzweigt.</div></details>
+</div></section>
+@@CTA@@

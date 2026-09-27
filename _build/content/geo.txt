@@ -146,3 +146,6 @@ stadt-eisenach	Eisenach	Thüringen
 autobahn-a52	A52 Elmpt bis Essen	A52	
 autobahn-a57	A57 Goch bis Köln	A57	
 autobahn-a59	A59 Duisburg bis Bonn	A59	
+autobahn-a71	A71 Sangerhausen bis Schweinfurt	A71	
+autobahn-a72	A72 Hof bis Leipzig	A72	
+autobahn-a73	A73 Suhl bis Nürnberg	A73	
