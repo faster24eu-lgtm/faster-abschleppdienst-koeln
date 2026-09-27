@@ -1,6 +1,6 @@
 # COVERAGE – plan for Germany-wide pages
 
-Status is tracked in `_build/content/geo.txt` (what is published: 162 city/district pages, 68 Autobahn pages) and `PROGRESS.md` (what is next). A page is only published when it has real local facts from a source; no invented numbers.
+Status is tracked in `_build/content/geo.txt` (what is published: 169 city/district pages, 68 Autobahn pages) and `PROGRESS.md` (what is next). A page is only published when it has real local facts from a source; no invented numbers.
 
 ## Tier A – Großstädte (>100.000 Einwohner): complete
 All Großstädte listed in the brief are published (Berlin, Hamburg, München, Köln, Frankfurt, Stuttgart, Düsseldorf, Dortmund, Essen, Leipzig, Bremen, Dresden, Hannover, Nürnberg, Duisburg, Bochum, Wuppertal, Bielefeld, Bonn, Münster, Karlsruhe, Mannheim, Augsburg, Wiesbaden, Gelsenkirchen, Mönchengladbach, Braunschweig, Chemnitz, Kiel, Aachen, Halle, Magdeburg, Freiburg, Krefeld, Lübeck, Oberhausen, Erfurt, Mainz, Rostock, Kassel, Hagen, Hamm, Saarbrücken, Mülheim, Potsdam, Ludwigshafen, Oldenburg, Leverkusen, Osnabrück, Solingen, Heidelberg, Herne, Neuss, Darmstadt, Regensburg, Ingolstadt, Würzburg, Wolfsburg, Ulm, Heilbronn, Pforzheim, Göttingen, Bottrop, Offenbach, Trier, Recklinghausen, Reutlingen, Koblenz, Bergisch Gladbach, Bremerhaven, Erlangen, Jena, Remscheid, Salzgitter, Fürth, Paderborn, Hildesheim, Cottbus, Schwerin, Siegen, Gütersloh, Witten, Hanau). All done (Moers published).

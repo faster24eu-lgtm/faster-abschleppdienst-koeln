@@ -1,0 +1,204 @@
+=== stadt-viersen | Abschleppdienst Viersen: Pannenhilfe A61, Kreuz Mönchengladbach | Pannenhilfe und Abschleppen in Viersen: vier Stadtbezirke, A61 mit den Anschlussstellen Süchteln, Viersen und Mackenstein, Kreuz Mönchengladbach. | page ===
+<!--AREAS: Viersen, Alt-Viersen, Dülken, Süchteln, Boisheim, Mackenstein, Kreuz Mönchengladbach -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Viersen</p><h1>Abschleppdienst Viersen</h1><p class="lead">Viersen liegt am linken Niederrhein an der A61. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe mit Partnerbetrieben.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Drei ehemalige Städte, vier Stadtbezirke</h2>
+<p>Viersen ist Sitz des Kreises Viersen und eine große kreisangehörige Stadt am linken Niederrhein, der Stadtkern liegt etwa 28 Kilometer westnordwestlich von Düsseldorf. Die Stadt besteht aus den drei ehemals selbständigen Städten Viersen, Dülken und Süchteln, die sich 1970 zusammenschlossen, dazu kam 1968 die Gemeinde Boisheim. Das Stadtgebiet ist in vier Stadtbezirke gegliedert: Alt-Viersen (39.096 Einwohner nach dem Stand vom 31. März 2022), Dülken (20.566), Süchteln (16.074) und Boisheim (2.102). Bei einer Panne reicht „Viersen“ deshalb nicht: Nennen Sie uns Stadtbezirk oder Ortsteil und die Straße. Zu Alt-Viersen gehören zum Beispiel Beberich, Hamm, Heimer und Rahser, zu Dülken unter anderem Bistard und Schirick. Mehr auf <a href="stadt-moenchengladbach.html">Abschleppdienst Mönchengladbach</a>, <a href="stadt-krefeld.html">Abschleppdienst Krefeld</a> und <a href="stadt-neuss.html">Abschleppdienst Neuss</a>.</p>
+<h2>A61 mit drei Anschlussstellen</h2>
+<p>Viersen liegt an der A61 (Venlo–Mannheim) und hat dort drei Anschlussstellen: 6 Süchteln, 7 Viersen und 8 Mackenstein. Südlich davon, an der Grenze zu Mönchengladbach, liegt das Autobahnkreuz Mönchengladbach, an dem die A61 die A52 (Roermond–Düsseldorf) kreuzt. Wenn Sie auf der A61 stehen, sagen Sie uns Fahrtrichtung, Anschlussstelle oder die letzte, die Sie passiert haben, mehr auf <a href="autobahn-a61.html">Panne auf der A61</a> und <a href="autobahn-a52.html">Panne auf der A52</a>. Früher führten auch die Bundesstraßen 7 und 59 durch die Stadt, ältere Karten und Navigationsdaten können das noch zeigen.</p>
+<h2>Busbahnhof und Bahnstationen</h2>
+<p>Der zentral gelegene Busbahnhof verbindet mit sechzehn Buslinien, überwiegend im Stundentakt, die Stadtteile und das Umland, der Nahverkehr gehört zum Tarif des VRR. Der Bahnhof Viersen wird von Regional-Express- und Regionalbahn-Linien bedient, im Stadtgebiet liegen außerdem die Stationen Dülken und Boisheim an der Bahnstrecke Viersen–Venlo. Wenn Sie am Bahnhof oder Busbahnhof liegen bleiben, halten Sie Bushaltestellen frei und nennen Sie uns Straße und Zugang.</p>
+<h2>Fläche und Randlage</h2>
+<p>Das Stadtgebiet erstreckt sich über mehr als 91 Quadratkilometer, davon sind etwa 16 bebaut und etwa 45 landwirtschaftlich genutzt. Zwischen den Ortsteilen führen deshalb viele Straßen durch Felder. Nennen Sie uns dort den nächsten Ortsteil, Abzweig oder Hof, damit der Fahrer den Ort findet.</p>
+<h2>So nennen Sie Ihren Standort in Viersen</h2>
+<ul class="ticks">
+<li>Stadtbezirk oder Ortsteil, Straße, Hausnummer.</li>
+<li>Auf der A61: Richtung, Anschlussstelle Süchteln, Viersen oder Mackenstein.</li>
+<li>Am Kreuz Mönchengladbach: A61 oder A52, Richtung.</li>
+<li>Auf Feldwegen: nächster Ortsteil und Abzweig.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-duesseldorf.html">Düsseldorf</a> und <a href="stadt-neuss.html">Neuss</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Viersen</h2>
+<details><summary>Welche Anschlussstellen hat die A61 in Viersen?</summary><div>Süchteln (6), Viersen (7) und Mackenstein (8).</div></details>
+<details><summary>Wo kreuzen sich A61 und A52?</summary><div>Im Autobahnkreuz Mönchengladbach an der Grenze zu Viersen.</div></details>
+<details><summary>Aus welchen Stadtbezirken besteht Viersen?</summary><div>Alt-Viersen, Dülken, Süchteln und Boisheim.</div></details>
+<details><summary>Gehört Viersen zum VRR?</summary><div>Ja, der Nahverkehr ist im Tarif des VRR nutzbar.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-dormagen | Abschleppdienst Dormagen: Pannenhilfe A57, B9, Rhein | Pannenhilfe und Abschleppen in Dormagen: Stadt am Rhein zwischen Düsseldorf und Köln, A57 Anschlussstelle 25, B9-Umgehung, Chempark und Rheinfähre. | page ===
+<!--AREAS: Dormagen, Horrem, Nievenheim, Zons, Stürzelberg, Delrath, Hackenbroich, Chempark -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dormagen</p><h1>Abschleppdienst Dormagen</h1><p class="lead">Dormagen liegt links des Rheins zwischen Düsseldorf und Köln an der A57. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Rhein im Norden und Osten, Köln im Süden</h2>
+<p>Dormagen ist eine große kreisangehörige Stadt im Rhein-Kreis Neuss mit 65.170 Einwohnern (31. Dezember 2023). Im Norden und Osten grenzt sie unmittelbar an den Rhein, am anderen Ufer liegen Düsseldorf sowie Monheim am Rhein und Leverkusen. Im Süden grenzt Dormagen an Köln, die Stadtgrenze ist zugleich die Grenze zwischen den Regierungsbezirken Düsseldorf und Köln. Wer in Grenznähe liegen bleibt, nennt uns am besten Ortsteil und Straße, denn ein Straßenname kann in beiden Städten vorkommen. Zu Dormagen gehören unter anderem Horrem, Nievenheim, Zons, Stürzelberg, Delrath und Hackenbroich. Mehr auf <a href="stadt-neuss.html">Abschleppdienst Neuss</a>, <a href="stadt-leverkusen.html">Abschleppdienst Leverkusen</a> und <a href="index.html">Abschleppdienst Köln</a>.</p>
+<h2>A57, B9 und B477</h2>
+<p>Dormagen liegt an der A57 (Anschlussstelle 25), die nach Norden Richtung Neuss, Krefeld und Niederlande und nach Süden Richtung Köln-Zentrum verläuft. Außerdem liegt die Stadt an der B9, im Ortsteil Gohr verläuft die B477. Durch den historischen Stadtkern führt die zum Teil als Fußgängerzone genutzte Kölner Straße, eine ehemalige Römerstraße. Bis in die 1980er Jahre war sie Teil der B9, die nun als Umgehungsstraße östlich an Dormagen vorbeiführt. Bei einer Panne auf der A57 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a57.html">Panne auf der A57</a> und <a href="koeln-a57.html">Panne auf der A57 in Köln</a>.</p>
+<h2>Chempark, Hafen und Rheinfähren</h2>
+<p>Im rund 600 Hektar großen Chempark Dormagen arbeiten knapp 9.000 Menschen, er ist der größte Arbeitgeber im Rhein-Kreis Neuss. Für den Güterverkehr gibt es einen Containerhafen in Stürzelberg, der Chempark hat einen Umschlagplatz für überwiegend flüssige Güter und Salz. Wenn Ihr Lkw oder Transporter im Gewerbegebiet liegen bleibt, nennen Sie uns Firma, Straße, Tor und Gewicht, siehe <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>. Die Autofähre „Niederrhein“ verbindet Zons mit Düsseldorf-Urdenbach, an Wochenenden und Feiertagen fährt außerdem die Personenfähre „Piwipper Böötsche“ nach Monheim.</p>
+<h2>Bahnhof Horrem und Haltepunkt Chempark</h2>
+<p>Der Bahnhof Dormagen liegt im Stadtteil Horrem und wird von RE 6, RE 7 und der S-Bahn-Linie 11 der S-Bahn Köln bedient. Ein weiterer Haltepunkt liegt in Nievenheim. Der Haltepunkt „Dormagen Chempark“ befindet sich trotz seines Namens vollständig auf Kölner Stadtgebiet im Stadtteil Worringen. Für die Standortangabe heißt das: Sagen Sie uns, an welchem Bahnhof Sie stehen. In Nievenheim steht außerdem die Autobahnkapelle St. Raphael, ein brauchbarer Orientierungspunkt an der A57.</p>
+<h2>So nennen Sie Ihren Standort in Dormagen</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A57: Richtung, Anschlussstelle 25 oder Nachbarstelle.</li>
+<li>Auf B9 oder B477: Fahrtrichtung.</li>
+<li>Am Chempark oder Hafen: Tor, Straße, Fahrzeugart.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-duesseldorf.html">Düsseldorf</a> und <a href="stadt-bergisch-gladbach.html">Bergisch Gladbach</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Dormagen</h2>
+<details><summary>Welche Autobahn führt durch Dormagen?</summary><div>Die A57, mit der Anschlussstelle 25 in Dormagen.</div></details>
+<details><summary>Wo verläuft die B9?</summary><div>Als Umgehungsstraße östlich am Stadtkern vorbei, früher lief sie durch die Kölner Straße.</div></details>
+<details><summary>Liegt der Haltepunkt Chempark in Dormagen?</summary><div>Nein, er liegt trotz des Namens vollständig auf Kölner Stadtgebiet im Stadtteil Worringen.</div></details>
+<details><summary>Wie viele Einwohner hat Dormagen?</summary><div>65.170 am 31. Dezember 2023.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-bocholt | Abschleppdienst Bocholt: Pannenhilfe B67, B473, A3, A31 | Pannenhilfe und Abschleppen in Bocholt: Westmünsterland an der niederländischen Grenze, B473 zur A3, B67 als Südring, Westringtunnel. | page ===
+<!--AREAS: Bocholt, Barlo, Stenern, Biemenhorst, Mussum, Westringtunnel, Bocholter Aa -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bocholt</p><h1>Abschleppdienst Bocholt</h1><p class="lead">Bocholt liegt im Westmünsterland an der niederländischen Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Größte Stadt im Kreis Borken</h2>
+<p>Bocholt hat 73.048 Einwohner und ist die einzige große kreisangehörige Stadt und zugleich die größte Stadt des Kreises Borken. Nach Aachen ist sie die zweitgrößte deutsche Stadt an der deutsch-niederländischen Grenze, die Stadtgrenze im Norden ist zugleich die Staatsgrenze. Im Südwesten grenzt Bocholt an den Kreis Wesel und damit an den Regierungsbezirk Düsseldorf. Das Stadtgebiet umfasst rund 119 Quadratkilometer, mehr als 65 Prozent sind landwirtschaftlich genutzt, durch die Stadt fließt die Bocholter Aa. Nach der Hauptsatzung gibt es sieben Stadtbezirke: Mitte, Nordost, Ost, Südost, Südwest, West und Nordwest. Im Osten liegen Barlo, Stenern und Biemenhorst. Nennen Sie uns bei einer Panne Stadtbezirk oder Ortsteil und Straße. Mehr auf <a href="stadt-muenster.html">Abschleppdienst Münster</a> und <a href="stadt-rheine.html">Abschleppdienst Rheine</a>.</p>
+<h2>B473, B67 und die Ringe</h2>
+<p>Bocholt ist über die B473 an die A3 angebunden. Die B67 verbindet die A3 mit der A31 und führt seit 2006 als Umgehungsstraße südlich an der Stadt vorbei, sie ist Teil des geplanten „äußeren Rings“ aus Ostring, B67 als Südring, L602 als Westring und einem noch zu planenden Nordring. Den Verkehr Richtung Niederlande führt seit Sommer 2006 der Westringtunnel von der B473/L602 kommend an der Innenstadt vorbei. Wenn Sie im Tunnel liegen bleiben, gelten die Regeln aus <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>. Auf der Autobahn nennen Sie uns Nummer und Richtung, mehr auf <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="autobahn-a31.html">Panne auf der A31</a>.</p>
+<h2>Innenstadtring und Fußgängerzone</h2>
+<p>Die alte Siedlungsstruktur prägt bis heute die Straßenführung: In der Stadtmitte umschließt ein geschlossener Verkehrsring die Innenstadt, von dem mehrere Einfallstraßen sternförmig abgehen. Der Bereich innerhalb des Rings ist großteils Fußgängerzone, der Verkehr wird häufig durch Einbahnstraßen gelenkt. Wenn Sie innerhalb des Rings liegen bleiben, sagen Sie uns Straße und Einbahnrichtung.</p>
+<h2>Fahrradstadt und Industriepark</h2>
+<p>Bocholt gewann mehrfach den Titel „Fahrradfreundlichste Stadt Deutschlands“ in der Kategorie unter 100.000 Einwohnern, das Radwegenetz ist weitläufig. Halten Sie Radwege bei einer Panne frei und stellen Sie Warndreieck und Fahrzeug nicht auf dem Radweg ab. Der Industriepark zählt rund 300 Betriebe mit über 7.000 Beschäftigten und hat einen direkten Anschluss an die B67. Der Bahnhof liegt etwa 500 Meter südöstlich des Stadtzentrums, seit 1. Februar 2022 fährt der RE19 von dort durchgehend nach Düsseldorf.</p>
+<h2>So nennen Sie Ihren Standort in Bocholt</h2>
+<ul class="ticks">
+<li>Stadtbezirk oder Ortsteil, Straße, Hausnummer.</li>
+<li>Auf B67 oder B473: Fahrtrichtung, nächste Abfahrt.</li>
+<li>Im Westringtunnel: Fahrtrichtung, Portal.</li>
+<li>Innerhalb des Rings: Straße, Einbahnrichtung.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-oberhausen.html">Oberhausen</a> und <a href="stadt-moers.html">Moers</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Bocholt</h2>
+<details><summary>Wie komme ich von Bocholt zur A3?</summary><div>Über die B473, die Bocholt an die A3 anbindet.</div></details>
+<details><summary>Was verbindet die B67?</summary><div>Die A3 mit der A31, südlich an Bocholt vorbei seit 2006.</div></details>
+<details><summary>Gibt es einen Tunnel in Bocholt?</summary><div>Ja, den Westringtunnel für den Verkehr Richtung Niederlande, seit Sommer 2006.</div></details>
+<details><summary>Wie viele Stadtbezirke hat Bocholt?</summary><div>Sieben.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-herford | Abschleppdienst Herford: Pannenhilfe A2, A30, B239, B61 | Pannenhilfe und Abschleppen in Herford: Hansestadt in Ostwestfalen, A2 mit drei Anschlussstellen, A30 Kirchlengern, B239 und B61. | page ===
+<!--AREAS: Herford, Elverdissen, Schwarzenmoor, Stiftberg, Werre, Bad Salzuflen, Vlotho, Kirchlengern -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Herford</p><h1>Abschleppdienst Herford</h1><p class="lead">Herford liegt im Ravensberger Hügelland an der A2. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Hansestadt zwischen Teutoburger Wald und Wiehengebirge</h2>
+<p>Die Hansestadt Herford hat 67.074 Einwohner und ist Kreisstadt des Kreises Herford im Regierungsbezirk Detmold. Sie liegt im Ravensberger Hügelland zwischen Teutoburger Wald und Wiehengebirge, 15 Kilometer nordöstlich von Bielefeld und 46 Kilometer östlich von Osnabrück. Dortmund und Hannover sind über die A2 und die Bahnstrecke Hamm–Minden jeweils rund 100 Kilometer entfernt, entlang dieser Achse erstreckt sich das ostwestfälische Verdichtungsgebiet von Gütersloh bis Minden. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a>, <a href="stadt-minden.html">Abschleppdienst Minden</a> und <a href="stadt-guetersloh.html">Abschleppdienst Gütersloh</a>.</p>
+<h2>A2 streift den Osten</h2>
+<p>Die A2 streift seit 1938 das Stadtgebiet im Osten. Dort liegen die Anschlussstellen Herford Ost, Herford/Bad Salzuflen und Ostwestfalen-Lippe sowie je Fahrtrichtung ein Autobahnparkplatz. Die Autobahnmeisterei sitzt in der Nähe der Anschlussstelle Herford Ost, die Autobahnpolizei in der Nähe von Herford/Bad Salzuflen. Im Norden ist die A30 mit der Anschlussstelle Kirchlengern zu erreichen. Bei einer Panne auf der A2 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a2.html">Panne auf der A2</a> und <a href="autobahn-a30.html">Panne auf der A30</a>. Wenn Sie an einem der Parkplätze stehen, nennen Sie uns Fahrtrichtung und den nächsten Kilometer.</p>
+<h2>B239 und B61 als Umgehung</h2>
+<p>Die Bundesstraßen 239 und 61 dienen als Umgehungsstraße für den Fernverkehr. Sagen Sie uns bei einer Panne dort die Bundesstraße, die Fahrtrichtung und die nächste Querstraße. Hinter dem Umgehungsring liegen die Innenstadt und die Wohngebiete, zu denen kleinere Straßen führen.</p>
+<h2>Werre, Aa und die namenlosen Brücken</h2>
+<p>Die Herforder Brücken haben keine offiziellen Namen. Einige werden von der Bevölkerung nach der Straße oder nach den ehemaligen Stadttoren benannt, so die Lübbertorbrücke oder die zwei Bergertorbrücken über die Werre. Ein Standort „an der Brücke“ ist daher mehrdeutig. Sagen Sie uns Straße, Fahrtrichtung und einen Gebäudebezug, oder senden Sie Ihren Standort per WhatsApp. Die Stadtbefestigung mit fünf Stadttoren und 14 Türmen ist Teil der Geschichte, Werre, Aa und der Stadtgraben umgaben die Mauer.</p>
+<h2>Fabrikverkäufe und Outlet</h2>
+<p>Herford ist für die Fabrikverkäufe von Ahlers, Bugatti und Brax bekannt, die im Oktober 2019 etwa 400.000 Besucher jährlich anzogen. In Elverdissen gibt es in der Nähe der Ausfahrt Ostwestfalen-Lippe ein Outlet. An Einkaufstagen sind Parkplätze und Zufahrten voll, nennen Sie uns dort Parkplatz und Reihe.</p>
+<h2>So nennen Sie Ihren Standort in Herford</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A2: Richtung, Anschlussstelle Herford Ost, Herford/Bad Salzuflen oder Ostwestfalen-Lippe.</li>
+<li>Auf der A30: Richtung, Anschlussstelle Kirchlengern.</li>
+<li>An einer Brücke: Straße und Fahrtrichtung.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-paderborn.html">Paderborn</a> und <a href="stadt-hameln.html">Hameln</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Herford</h2>
+<details><summary>Welche Anschlussstellen hat die A2 bei Herford?</summary><div>Herford Ost, Herford/Bad Salzuflen und Ostwestfalen-Lippe.</div></details>
+<details><summary>Wo ist die A30 erreichbar?</summary><div>Im Norden über die Anschlussstelle Kirchlengern.</div></details>
+<details><summary>Welche Bundesstraßen umgehen Herford?</summary><div>Die B239 und die B61 dienen als Umgehungsstraße für den Fernverkehr.</div></details>
+<details><summary>Wie weit ist Bielefeld?</summary><div>Etwa 15 Kilometer südwestlich.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-unna | Abschleppdienst Unna: Pannenhilfe A1, A44, B1 | Pannenhilfe und Abschleppen in Unna: östlicher Rand des Ruhrgebiets am Hellweg, A1 und A44 direkt an der Stadt, B1 quer durchs Stadtgebiet. | page ===
+<!--AREAS: Unna, Königsborn, Massen, Hemmerde, Billmerich, Siddinghausen, Hellweg, Kamen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Unna</p><h1>Abschleppdienst Unna</h1><p class="lead">Unna liegt am östlichen Rand des Ruhrgebiets, A1 und A44 verlaufen direkt an der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisstadt am Hellweg</h2>
+<p>Unna ist eine große kreisangehörige Stadt und Kreisstadt des Kreises Unna im östlichen Ruhrgebiet, nach Lünen die zweitgrößte Stadt des Kreises. Sie liegt etwa 15 Kilometer östlich von Dortmund am Westfälischen Hellweg in der Hellwegbörde zwischen Ruhr und Lippe. Das Stadtgebiet reicht von 65 Metern über NN am Afferder Bach bis 225 Metern an der Hemmerder Schelk, es gibt also Steigungen und Gefälle. Der Stadtkern ist von gemischten Wohngebieten umgeben, im Übergang zum nördlichen Stadtteil Königsborn sowie an der Morgenstraße im Osten und um den Bornekamp im Süden stehen viele größere Einfamilienhäuser, größere Mehrfamilienhaussiedlungen liegen vor allem im äußeren Südwesten. Nennen Sie uns bei einer Panne Stadtteil, Straße und Hausnummer. Mehr auf <a href="stadt-dortmund.html">Abschleppdienst Dortmund</a>, <a href="stadt-hamm.html">Abschleppdienst Hamm</a> und <a href="stadt-luenen.html">Abschleppdienst Lünen</a>.</p>
+<h2>A1 und A44 direkt an der Stadt</h2>
+<p>Unna liegt direkt an den Bundesautobahnen A1 (Köln–Bremen) und A44 (Dortmund–Kassel). Die Bundesstraße 1 durchquert das Stadtgebiet in West-Ost-Richtung. Die B233 verlief ursprünglich von Werne über Unna Richtung Iserlohn, der Abschnitt von der Unnaer Stadtmitte bis zur Autobahnauffahrt Kamen wurde zur Landesstraße L678 zurückgestuft, ältere Karten führen ihn deshalb noch als Bundesstraße. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a1.html">Panne auf der A1</a> und <a href="autobahn-a44.html">Panne auf der A44</a>. Auf der B1 sagen Sie uns die Fahrtrichtung und den nächsten Ortsteil.</p>
+<h2>Flughafen Dortmund im Westen</h2>
+<p>Westlich von Unna liegt der Flughafen Dortmund. Wenn Sie auf der Zufahrt zum Flughafen liegen bleiben, sagen Sie uns Fahrtrichtung und Parkplatz oder Abfahrt.</p>
+<h2>Randlage zwischen Ruhrgebiet und Hellwegbörde</h2>
+<p>Die Randlage im Übergang vom Ruhrgebiet zur Hellwegbörde zeigt sich in der Stadtstruktur: Im Stadtkern dichte Bebauung, in den Ortsteilen wie Billmerich und Siddinghausen dörfliche Straßen. Wenn Sie in einem dieser Ortsteile liegen bleiben, sagen Sie uns Straße und Hausnummer oder den nächsten größeren Abzweig.</p>
+<h2>So nennen Sie Ihren Standort in Unna</h2>
+<ul class="ticks">
+<li>Stadtteil (Königsborn, Massen, Stadtmitte), Straße, Hausnummer.</li>
+<li>Auf A1 oder A44: Richtung, Anschlussstelle.</li>
+<li>Auf der B1: Fahrtrichtung, Ortsteil.</li>
+<li>Bei Steigung oder Gefälle: bergauf oder bergab.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-witten.html">Witten</a> und <a href="stadt-iserlohn.html">Iserlohn</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Unna</h2>
+<details><summary>Welche Autobahnen liegen bei Unna?</summary><div>Die A1 (Köln–Bremen) und die A44 (Dortmund–Kassel).</div></details>
+<details><summary>Wie verläuft die B1?</summary><div>In West-Ost-Richtung durch das Stadtgebiet.</div></details>
+<details><summary>Wie weit ist Dortmund?</summary><div>Etwa 15 Kilometer westlich.</div></details>
+<details><summary>Ist Unna die größte Stadt im Kreis Unna?</summary><div>Nein, Lünen hat mehr Einwohner, Unna ist die zweitgrößte Stadt des Kreises.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-luenen | Abschleppdienst Lünen: Pannenhilfe A2, B54, B236, Lippe | Pannenhilfe und Abschleppen in Lünen: Lippe durch die Innenstadt, Datteln-Hamm-Kanal, Anschluss über die A2, B54 und B236 im gemeinsamen Verlauf. | page ===
+<!--AREAS: Lünen, Altlünen, Horstmar, Beckinghausen, Lippe, Datteln-Hamm-Kanal, Seepark, Stadthafen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lünen</p><h1>Abschleppdienst Lünen</h1><p class="lead">Lünen liegt an der Lippe zwischen Münsterland und Hellwegregion. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Einwohnerreichste Stadt im Kreis Unna</h2>
+<p>Lünen ist mit rund 88.000 Einwohnern die einwohnerreichste Stadt des Kreises Unna und ein Mittelzentrum im nordöstlichen Ruhrgebiet am südlichen Rand des Münsterlandes. Im Süden schließt das Stadtgebiet unmittelbar an die nördlichen Vororte Dortmunds an, im Westen grenzt Lünen an Waltrop, im Norden an Selm und Werne, im Osten an Bergkamen und Kamen. Nennen Sie uns bei einer Panne Ortsteil und Straße und die Nachbarstadt, an deren Grenze Sie stehen. Die historisch gewachsenen Ortsteile wie Altlünen im Norden oder Horstmar decken sich wegen verschobener Grenzen oft nicht mehr mit den statistischen Bezirken. Mehr auf <a href="stadt-dortmund.html">Abschleppdienst Dortmund</a>, <a href="stadt-hamm.html">Abschleppdienst Hamm</a> und <a href="stadt-unna.html">Abschleppdienst Unna</a>.</p>
+<h2>A2, B54 und B236</h2>
+<p>An das überregionale Verkehrsnetz ist Lünen durch die A2 (Oberhausen–Hannover–Berlin) und den Datteln-Hamm-Kanal angeschlossen. Die B54 kommt von Münster über Werne nach Lünen, ab dort führt sie rund fünf Kilometer lang gemeinsam mit der B236 weiter Richtung Dortmund. Die B236 beginnt in Olfen, durchquert Selm und Lünen. Auf dem gemeinsamen Abschnitt sind beide Nummern gültig, nennen Sie uns deshalb Fahrtrichtung und Querstraße statt nur eine Nummer. Bei einer Panne auf der Autobahn sagen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a2.html">Panne auf der A2</a>.</p>
+<h2>Lippe, Kanal und Seseke</h2>
+<p>Der Datteln-Hamm-Kanal verläuft im Süden der Stadt, die Lippe fließt direkt durch die Innenstadt, die Seseke mündet südöstlich der Innenstadt in die Lippe. Im Lippepark an der Nordseite der Lippe liegt die Strecke zwischen den Brücken Graf-Adolf-Straße und Konrad-Adenauer-Straße. Wenn Sie an einer dieser Brücken liegen bleiben, sagen Sie uns Brücke, Fahrtrichtung und Uferseite.</p>
+<h2>Hafen, Industrie und Seepark</h2>
+<p>Lünen war im 19. Jahrhundert als „Hafenstadt“ für Dortmund bekannt, heute gibt es die Stadthafen Lünen GmbH, ein Steinkohlekraftwerk am Stummhafen und ein Biomassekraftwerk. Der Mohr-Kran am ehemaligen Preußenhafen ist ein Industriedenkmal. Im Seepark am Datteln-Hamm-Kanal fand 1996 die Landesgartenschau statt, nördlich davon liegen der Volkspark Schwansbell und die Kamener Straße. Wenn Ihr Lkw im Hafengebiet liegen bleibt, nennen Sie uns Tor, Straße und Fahrzeugart, siehe <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>.</p>
+<h2>So nennen Sie Ihren Standort in Lünen</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A2: Richtung, Anschlussstelle.</li>
+<li>Auf B54 oder B236: Fahrtrichtung und Querstraße.</li>
+<li>An Lippe oder Kanal: Brücke und Uferseite.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-recklinghausen.html">Recklinghausen</a> und <a href="stadt-castrop-rauxel.html">Castrop-Rauxel</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Lünen</h2>
+<details><summary>Welche Autobahn erschließt Lünen?</summary><div>Die A2 (Oberhausen–Hannover–Berlin).</div></details>
+<details><summary>Was ist mit B54 und B236?</summary><div>Beide verlaufen etwa fünf Kilometer lang gemeinsam von Lünen Richtung Dortmund.</div></details>
+<details><summary>Welcher Fluss fließt durch Lünen?</summary><div>Die Lippe, direkt durch die Innenstadt.</div></details>
+<details><summary>Wie viele Einwohner hat Lünen?</summary><div>Rund 88.000, die meisten im Kreis Unna.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-lingen | Abschleppdienst Lingen (Ems): Pannenhilfe A31, B70, B213 | Pannenhilfe und Abschleppen in Lingen (Ems): Emsland nahe der niederländischen Grenze, A31, B70, B213 und B214 als Umgehungen, Kanal. | page ===
+<!--AREAS: Lingen, Altenlingen, Baccum, Holthausen, Laxten, Schepsdorf, Darme, Lingener Höhe, Dortmund-Ems-Kanal -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lingen (Ems)</p><h1>Abschleppdienst Lingen (Ems)</h1><p class="lead">Lingen liegt an der Ems im Süden des Emslandes, nahe der A31. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Größte Stadt im Emsland</h2>
+<p>Lingen (Ems) ist eine Mittelstadt im Süden des Landkreises Emsland in Niedersachsen und mit 56.539 Einwohnern die mit Abstand größte Stadt des Landkreises. Sie liegt überwiegend am östlichen Ufer der Ems und grenznah zu den Niederlanden, ostsüdöstlich befindet sich die Lingener Höhe. Die Stadt besteht aus der historischen Kernstadt mit Altstadt und den Stadtteilen Reuschberge, Stroot, Damaschke, Heukamps-Tannen und Telgenkamp sowie aus zehn Ortschaften: Altenlingen, Baccum, Bramsche, Brockhausen, Brögbern, Clusorth-Bramhar, Darme, Holthausen, Laxten und Schepsdorf. Nennen Sie uns bei einer Panne Ortschaft oder Stadtteil und die Straße. Mehr auf <a href="stadt-rheine.html">Abschleppdienst Rheine</a>, <a href="stadt-osnabrueck.html">Abschleppdienst Osnabrück</a> und <a href="stadt-emden.html">Abschleppdienst Emden</a>.</p>
+<h2>A31 und drei Bundesstraßen</h2>
+<p>Lingen liegt in der Nähe der Emslandautobahn A31 und im Schnittpunkt der Bundesstraßen 70, 213 und 214. Diese führen seit Ende der 1970er Jahre als Umgehungsstraßen um die Stadt herum. Seit der Fertigstellung der A31 besuchen verstärkt Gäste aus dem Ruhrgebiet die Region. Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a31.html">Panne auf der A31</a>. Bei einer Panne auf einer der Umgehungen sagen Sie uns die Bundesstraße, die Fahrtrichtung und die nächste Abfahrt.</p>
+<h2>Dortmund-Ems-Kanal und Ems</h2>
+<p>Zu den wichtigsten Gewässern zählen die Ems, die Große Aa und der Dortmund-Ems-Kanal. Der Kanal verläuft im Innenstadtbereich, unmittelbar an ihm liegen drei Rudervereine, im Juni findet dort die Drachenboot-Regatta statt, am alten Hafen das Hafenfest. Wenn Sie an Kanal oder Ems liegen bleiben, sagen Sie uns Brücke oder Straße und Uferseite.</p>
+<h2>Radtouristen und Raffinerie</h2>
+<p>Das Radwegenetz umfasst über 220 Kilometer, besonders beliebt sind die Wege an Ems und Dortmund-Ems-Kanal. Halten Sie Radwege frei, wenn Sie liegen bleiben. Im Norden liegt die Erdöl-Raffinerie Emsland. Wenn Sie im Gewerbegebiet oder an der Raffinerie liegen bleiben, nennen Sie uns Straße, Tor und Fahrzeugart.</p>
+<h2>So nennen Sie Ihren Standort in Lingen</h2>
+<ul class="ticks">
+<li>Ortschaft oder Stadtteil, Straße, Hausnummer.</li>
+<li>Auf der A31: Richtung, Anschlussstelle.</li>
+<li>Auf B70, B213 oder B214: Fahrtrichtung, nächste Abfahrt.</li>
+<li>Am Kanal: Brücke und Uferseite.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-oldenburg.html">Oldenburg</a> und <a href="stadt-muenster.html">Münster</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Lingen</h2>
+<details><summary>Welche Autobahn führt bei Lingen vorbei?</summary><div>Die Emslandautobahn A31.</div></details>
+<details><summary>Welche Bundesstraßen kreuzen sich in Lingen?</summary><div>B70, B213 und B214, als Umgehungsstraßen seit Ende der 1970er Jahre.</div></details>
+<details><summary>Aus welchen Teilen besteht Lingen?</summary><div>Aus der Kernstadt und zehn Ortschaften.</div></details>
+<details><summary>Wie viele Einwohner hat Lingen?</summary><div>56.539 laut der genutzten Quelle, 55.092 nach dem Zensus vom 15. Mai 2022.</div></details>
+</div></section>
+@@CTA@@

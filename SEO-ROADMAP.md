@@ -303,3 +303,7 @@ Owner decision: expand to all of Germany (partners exist everywhere), organic on
 ## Cycle 31 (2026-09-27): 12 Tier B city pages
 Marl, Dorsten, Lippstadt, Castrop-Rauxel, Arnsberg, Rheine, Goslar, Wolfenbüttel, Hameln, Hof (Saale), Ansbach, Lutherstadt Wittenberg. Built 317 pages, audit 0 errors, similarity max 28.7 % (city pair). Sources: Wikipedia extracts, facts only.
 Owner check (time-sensitive): Lippstadt "ca. sechs ICE/IC pro Tag"; Arnsberg RE-Linien (RE17/RE57) and Schnellbuslinien; Dorsten RE14 30-Minuten-Takt; Einwohnerzahlen of Marl, Rheine, Goslar, Wolfenbüttel (Stand 31.12.2025 laut Quelle).
+
+## Cycle 32 (2026-09-27 ~05:50): 7 Tier B city pages
+Viersen, Dormagen, Bocholt, Herford, Unna, Lünen, Lingen (Ems). 324 pages built, audit 0 errors, similarity max 28.7 % (city). Sources: Wikipedia extracts.
+Owner check: Bocholt Westringtunnel / planned Nordring (plan status may change); Bocholt RE19 and planned Halt Mussum (Wikipedia: Q3 2026); Dormagen ferries (Autofähre Zons–Urdenbach, weekend Personenfähre); Herford/Bocholt/Lingen population figures; Lingen 56.539 vs Zensus 55.092.

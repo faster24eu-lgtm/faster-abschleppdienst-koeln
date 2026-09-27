@@ -163,3 +163,10 @@ stadt-hameln	hannover,hildesheim,minden,bielefeld,goettingen,paderborn	a2
 stadt-hof	bayreuth,plauen,weimar,erfurt	a9,a72,a93
 stadt-ansbach	nuernberg,fuerth,erlangen,wuerzburg,ingolstadt	a6
 stadt-wittenberg	dessau-rosslau,leipzig,potsdam,halle,magdeburg	a9
+stadt-viersen	moenchengladbach,krefeld,neuss,duesseldorf,roermond	a61,a52
+stadt-dormagen	neuss,leverkusen,duesseldorf,bergisch-gladbach	a57
+stadt-bocholt	muenster,rheine,oberhausen,moers	a3,a31
+stadt-herford	bielefeld,minden,guetersloh,paderborn,hameln	a2,a30
+stadt-unna	dortmund,hamm,luenen,witten,iserlohn	a1,a44
+stadt-luenen	dortmund,hamm,unna,recklinghausen,castrop-rauxel	a2
+stadt-lingen	rheine,osnabrueck,emden,oldenburg,muenster	a31

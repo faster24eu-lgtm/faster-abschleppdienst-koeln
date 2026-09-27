@@ -241,3 +241,10 @@ stadt-hameln	Hameln	Niedersachsen
 stadt-hof	Hof (Saale)	Bayern	
 stadt-ansbach	Ansbach	Bayern	
 stadt-wittenberg	Lutherstadt Wittenberg	Sachsen-Anhalt	
+stadt-viersen	Viersen	Nordrhein-Westfalen	
+stadt-dormagen	Dormagen	Nordrhein-Westfalen	
+stadt-bocholt	Bocholt	Nordrhein-Westfalen	
+stadt-herford	Herford	Nordrhein-Westfalen	
+stadt-unna	Unna	Nordrhein-Westfalen	
+stadt-luenen	Lünen	Nordrhein-Westfalen	
+stadt-lingen	Lingen (Ems)	Niedersachsen	
