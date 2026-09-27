@@ -326,3 +326,16 @@ autobahn-a565	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte i
 autobahn-a656	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a33	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Lärmschutztunnel Dissen
 autobahn-a33	ratgeber-bremsen-versagen.html	Bremsen versagen	Gefälle bei Dissen
+stadt-berlin-mitte	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-berlin-friedrichshain-kreuzberg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-berlin-pankow	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-berlin-charlottenburg-wilmersdorf	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-berlin-spandau	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-berlin-steglitz-zehlendorf	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-berlin-tempelhof-schoeneberg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-berlin-neukoelln	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-berlin-treptow-koepenick	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-berlin-marzahn-hellersdorf	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-berlin-lichtenberg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-berlin-reinickendorf	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-berlin-mitte	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Tiergarten Spreebogen

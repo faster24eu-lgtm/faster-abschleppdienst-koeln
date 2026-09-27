@@ -124,3 +124,15 @@ stadt-dessau-rosslau	halle,magdeburg,leipzig,potsdam,cottbus,wolfsburg	a9
 stadt-ratingen	duesseldorf,essen,muelheim,duisburg,wuppertal,neuss,krefeld,leverkusen	a3,a44,a52
 stadt-ruesselsheim	mainz,wiesbaden,frankfurt,darmstadt,offenbach,hanau	a60,a67,a3
 stadt-straubing	regensburg,landshut,passau,ingolstadt,muenchen,nuernberg	a3,a92
+stadt-berlin-mitte	berlin,berlin-pankow,berlin-friedrichshain-kreuzberg,berlin-charlottenburg-wilmersdorf,berlin-reinickendorf,berlin-spandau,potsdam	a10,a2
+stadt-berlin-friedrichshain-kreuzberg	berlin,berlin-mitte,berlin-neukoelln,berlin-lichtenberg,berlin-tempelhof-schoeneberg,berlin-treptow-koepenick	a10,a9
+stadt-berlin-pankow	berlin,berlin-reinickendorf,berlin-lichtenberg,berlin-mitte,berlin-friedrichshain-kreuzberg,potsdam	a10,a9
+stadt-berlin-charlottenburg-wilmersdorf	berlin,berlin-spandau,berlin-steglitz-zehlendorf,berlin-mitte,berlin-reinickendorf,potsdam	a10,a2
+stadt-berlin-spandau	berlin,berlin-charlottenburg-wilmersdorf,berlin-reinickendorf,berlin-steglitz-zehlendorf,potsdam,brandenburg-an-der-havel	a10,a2
+stadt-berlin-steglitz-zehlendorf	berlin,berlin-tempelhof-schoeneberg,berlin-charlottenburg-wilmersdorf,berlin-spandau,potsdam	a10,a9
+stadt-berlin-tempelhof-schoeneberg	berlin,berlin-neukoelln,berlin-steglitz-zehlendorf,berlin-friedrichshain-kreuzberg,berlin-mitte,potsdam	a10,a9
+stadt-berlin-neukoelln	berlin,berlin-tempelhof-schoeneberg,berlin-friedrichshain-kreuzberg,berlin-treptow-koepenick,cottbus	a10,a13
+stadt-berlin-treptow-koepenick	berlin,berlin-neukoelln,berlin-lichtenberg,berlin-marzahn-hellersdorf,cottbus,frankfurt-oder	a10,a13
+stadt-berlin-marzahn-hellersdorf	berlin,berlin-lichtenberg,berlin-treptow-koepenick,frankfurt-oder,berlin-pankow	a10
+stadt-berlin-lichtenberg	berlin,berlin-marzahn-hellersdorf,berlin-pankow,berlin-friedrichshain-kreuzberg,berlin-treptow-koepenick,frankfurt-oder	a10
+stadt-berlin-reinickendorf	berlin,berlin-pankow,berlin-spandau,berlin-charlottenburg-wilmersdorf,berlin-mitte,potsdam	a10,a24

@@ -1,0 +1,173 @@
+=== stadt-berlin-mitte | Abschleppdienst Berlin-Mitte: Pannenhilfe B1, B2, B5 | Pannenhilfe und Abschleppen im Bezirk Mitte in Berlin: B1, B2, B5 und B96, Tunnel Tiergarten Spreebogen, Wedding, Moabit und Tiergarten. | page ===
+<!--AREAS: Berlin-Mitte, Wedding, Moabit, Tiergarten, Gesundbrunnen, Hansaviertel, Alexanderplatz -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin · Bezirk Mitte</p><h1>Abschleppdienst Berlin-Mitte</h1><p class="lead">Der Bezirk Mitte umfasst Mitte, Moabit, Hansaviertel, Tiergarten, Wedding und Gesundbrunnen. Nennen Sie uns Ortsteil und Straße, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Sechs Ortsteile, ein Bezirk</h2>
+<p>Mitte ist der erste Verwaltungsbezirk von Berlin und hatte am 31. Dezember 2025 365.741 Einwohner. Er entstand 2001 mit der Verwaltungsreform durch Zusammenlegung der bis dahin eigenständigen Bezirke Wedding, Tiergarten und Mitte und unterteilt sich in sechs Ortsteile. Sowohl der Regierungssitz als auch die meisten Verfassungsorgane der Bundesrepublik befinden sich hier. Wenn im Alltag von „Mitte“ die Rede ist, ist meist der Ortsteil Mitte gemeint, nicht der ganze Bezirk. Für Ihre Standortangabe ist das wichtig: Nennen Sie den Ortsteil, etwa Wedding oder Moabit, und die Straße. Gesamtübersicht: <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
+<h2>B1, B2, B5 und B96</h2>
+<p>Durch den Bezirk führen die Bundesstraßen B1, B2, B5 und B96. Der Tunnel Tiergarten Spreebogen, 2006 fertiggestellt, ist mit einer Länge von 2.392 Metern der längste Straßentunnel Berlins. Wenn Ihr Fahrzeug im Tunnel liegen bleibt: Warnblinker, Motor aus, Notrufstation nutzen, siehe <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>. In den übrigen Straßen gilt: Nennen Sie uns die Querstraße und die Fahrtrichtung.</p>
+<h2>Prachtstraßen und enge Zufahrten</h2>
+<p>Die Straße Unter den Linden führt vom Zeughaus zum Pariser Platz mit dem Brandenburger Tor, die Leipziger Straße vom Molkenmarkt zum Potsdamer Platz, die Oranienburger Straße von den Hackeschen Höfen bis zum Oranienburger Tor, dort beginnt die Friedrichstraße, die nach Süden durch den gesamten Ortsteil verläuft. Wenn Sie in einer dieser Straßen liegen bleiben, kann eine Zufahrt für Abschleppfahrzeuge eingeschränkt sein, weil der Bereich stark genutzt wird. Sagen Sie uns Hausnummer und Querstraße.</p>
+<h2>Wenige Autos, viele Fahrzeuge zu Besuch</h2>
+<p>Im Bezirk kommen auf 100 Einwohner 18,2 gemeldete private Pkw (Berlin: 28,2), der Motorisierungsgrad ist einer der niedrigsten in ganz Berlin. Das heißt für Sie: Bei einer Panne stehen viele Fahrzeuge von Besuchern und Lieferanten dazwischen, nennen Sie uns deshalb Straße, Hausnummer und Farbe und Kennzeichen Ihres Fahrzeugs. Autobahnen: <a href="autobahn-a10.html">Berliner Ring A10</a>.</p>
+<h2>So nennen Sie Ihren Standort in Berlin-Mitte</h2>
+<ul class="ticks">
+<li>Ortsteil (Mitte, Moabit, Tiergarten, Wedding, Gesundbrunnen), Straße, Hausnummer.</li>
+<li>Bei B1, B2, B5 oder B96: Fahrtrichtung, Querstraße.</li>
+<li>Im Tunnel Tiergarten Spreebogen: Fahrtrichtung.</li>
+<li>Bei Baustellen: ob eine Spur gesperrt ist.</li>
+</ul>
+<p>Weitere Bezirke: <a href="stadt-berlin-friedrichshain-kreuzberg.html">Friedrichshain-Kreuzberg</a>, <a href="stadt-berlin-pankow.html">Pankow</a>, <a href="stadt-berlin-charlottenburg-wilmersdorf.html">Charlottenburg-Wilmersdorf</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Berlin-Mitte</h2>
+<details><summary>Wie viele Ortsteile hat der Bezirk Mitte?</summary><div>Sechs: Mitte, Moabit, Hansaviertel, Tiergarten, Wedding und Gesundbrunnen.</div></details>
+<details><summary>Wie lang ist der Tunnel Tiergarten Spreebogen?</summary><div>2.392 Meter, er wurde 2006 fertiggestellt und ist der längste Straßentunnel Berlins.</div></details>
+<details><summary>Welche Bundesstraßen führen durch Mitte?</summary><div>B1, B2, B5 und B96.</div></details>
+<details><summary>Ist Mitte dasselbe wie der Bezirk Mitte?</summary><div>Nicht ganz: Mitte ist ein Ortsteil, der Bezirk Mitte umfasst sechs Ortsteile.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-berlin-friedrichshain-kreuzberg | Abschleppdienst Friedrichshain-Kreuzberg: Pannenhilfe | Pannenhilfe und Abschleppen in Friedrichshain-Kreuzberg: kleinster Bezirk Berlins, Karl-Marx-Allee, Oberbaumbrücke, B1, B5, B96 und B96a. | page ===
+<!--AREAS: Friedrichshain, Kreuzberg, Ostkreuz, Karl-Marx-Allee, Oberbaumbrücke, Görlitzer Park -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin · Bezirk Friedrichshain-Kreuzberg</p><h1>Abschleppdienst Berlin Friedrichshain-Kreuzberg</h1><p class="lead">Friedrichshain-Kreuzberg ist der flächenkleinste und am dichtesten besiedelte Bezirk Berlins. Nennen Sie uns Ortsteil und Straße, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zwei Ortsteile an der Spree</h2>
+<p>Friedrichshain-Kreuzberg ist der zweite Berliner Bezirk und hatte am 31. Dezember 2025 267.258 Einwohner. Der flächenkleinste der zwölf Bezirke hat zugleich die höchste Bevölkerungsdichte und das geringste Durchschnittsalter. Er entstand 2001 durch Fusion der bis dahin durch die Spree getrennten Bezirke Friedrichshain und Kreuzberg. In der Nähe der Alexandrinenstraße 12 im Ortsteil Kreuzberg liegt der geometrische Schwerpunkt Berlins. Nennen Sie uns bei einer Panne, ob Sie in Friedrichshain oder Kreuzberg stehen. Gesamtübersicht: <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
+<h2>B1, B5, B96, B96a und die Karl-Marx-Allee</h2>
+<p>Die Bundesstraßen B1, B5, B96 und B96a führen durch Friedrichshain-Kreuzberg. Die Karl-Marx-Allee in Friedrichshain zählt mit einer Breite von über 60 Metern zu den breitesten Berliner Innenstadtstraßen. Zahlreiche Wohngebietsstraßen erschließen den Bezirk, oft sind sie eng bebaut. Wenn Sie in einer engen Straße liegen bleiben, sagen Sie uns Hausnummer und Querstraße, damit wir die Zufahrt für ein Abschleppfahrzeug prüfen können.</p>
+<h2>Wenige Pkw, viele Bahnen und Fahrräder</h2>
+<p>Die geringste Pkw-Dichte aller Bezirke gab es 2023 mit 171 Pkw pro 1.000 Einwohner in Friedrichshain-Kreuzberg (Berlin: 278, Deutschland: 580). Über 75 Prozent der Bevölkerung besitzen ein Fahrrad. Die Oberbaumbrücke, die Kreuzberg und Friedrichshain verbindet, zählt zu den am meisten von Radfahrern frequentierten Passagen Berlins. Wenn Sie mit einer Panne an der Oberbaumbrücke stehen, halten Sie Radweg und Gehweg frei. Der Bahnhof Ostkreuz hat täglich über 120.000 Bahnnutzer, der Ostbahnhof gilt als drittgrößter Bahnhof Berlins. Rund um Bahnhöfe ist es eng: Nennen Sie uns dort bitte die Straße und den Ausgang.</p>
+<h2>Was hilft bei der Standortangabe</h2>
+<p>Viele Straßen in Friedrichshain und Kreuzberg heißen ähnlich, Straßenabschnitte liegen auf beiden Seiten der Spree. Teilen Sie uns bitte den Ortsteil, die Straße, die Hausnummer und die Querstraße mit. Ein Foto der Umgebung oder die Standortfreigabe per WhatsApp verringert Rückfragen erheblich, mehr im <a href="ratgeber-panne-autobahn.html">Ratgeber</a>.</p>
+<h2>So nennen Sie Ihren Standort in Friedrichshain-Kreuzberg</h2>
+<ul class="ticks">
+<li>Ortsteil (Friedrichshain oder Kreuzberg), Straße, Hausnummer.</li>
+<li>Bei B1, B5, B96 oder B96a: Fahrtrichtung, Querstraße.</li>
+<li>An Brücken: Oberbaumbrücke und Uferseite.</li>
+<li>An Bahnhöfen: Ostkreuz oder Ostbahnhof, Ausgang.</li>
+</ul>
+<p>Weitere Bezirke: <a href="stadt-berlin-mitte.html">Mitte</a>, <a href="stadt-berlin-neukoelln.html">Neukölln</a>, <a href="stadt-berlin-lichtenberg.html">Lichtenberg</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Friedrichshain-Kreuzberg</h2>
+<details><summary>Welche Bundesstraßen führen durch den Bezirk?</summary><div>B1, B5, B96 und B96a.</div></details>
+<details><summary>Wie breit ist die Karl-Marx-Allee?</summary><div>Über 60 Meter, damit gehört sie zu den breitesten Berliner Innenstadtstraßen.</div></details>
+<details><summary>Warum den Ortsteil nennen?</summary><div>Friedrichshain und Kreuzberg liegen beiderseits der Spree, viele Straßen haben ähnliche Namen.</div></details>
+<details><summary>Wie hoch ist die Pkw-Dichte?</summary><div>171 Pkw je 1.000 Einwohner (2023), die niedrigste unter den Berliner Bezirken.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-berlin-pankow | Abschleppdienst Berlin-Pankow: Pannenhilfe A114, B2 | Pannenhilfe und Abschleppen im Bezirk Pankow in Berlin: dreizehn Ortsteile, B96a, B109, B2, A114 und Berliner Ring A10, von Prenzlauer Berg bis Buch. | page ===
+<!--AREAS: Pankow, Prenzlauer Berg, Weißensee, Buch, Karow, Heinersdorf, Rosenthal, Wilhelmsruh -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin · Bezirk Pankow</p><h1>Abschleppdienst Berlin-Pankow</h1><p class="lead">Pankow ist der bevölkerungsreichste Berliner Bezirk und reicht von Prenzlauer Berg bis zum Berliner Ring. Nennen Sie uns Ortsteil und Straße, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Dreizehn Ortsteile im Nordosten</h2>
+<p>Pankow ist der dritte Verwaltungsbezirk von Berlin. Am 31. Dezember 2025 hatte er 411.133 Einwohner. Die Verwaltungsreform von 2001 legte den innerstädtischen Bezirk Prenzlauer Berg und die äußeren Bezirke Pankow und Weißensee unter dem Namen Pankow zum bevölkerungsreichsten Berliner Bezirk zusammen. Flächenmäßig ist er der zweitgrößte. Es gibt 13 Ortsteile: Prenzlauer Berg, Weißensee, Blankenburg, Heinersdorf, Karow, Stadtrandsiedlung Malchow, Pankow, Blankenfelde, Buch, Französisch Buchholz, Niederschönhausen, Rosenthal und Wilhelmsruh. Der nördlichste Punkt liegt im Ortsteil Buch, dem nördlichsten Ortsteil Berlins. Nennen Sie uns bei einer Panne den Ortsteil und die Straße. Gesamtübersicht: <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
+<h2>Drei Bundesstraßen nach Norden</h2>
+<p>Der Straßenverkehr wird geprägt durch drei radial vom Stadtzentrum nach Norden beziehungsweise Nordosten verlaufende Bundesstraßen: die B96a (Schönhauser Allee/Berliner Straße), die B109 (Prenzlauer Allee/Prenzlauer Promenade), die am S-Bahnhof Pankow-Heinersdorf in die A114 mündet, und die B2 (Greifswalder Straße/Berliner Allee). Von Bedeutung sind außerdem die beiden Ringstraßen Danziger Straße (innerhalb des S-Bahn-Rings) und Ostseestraße – Wisbyer Straße – Bornholmer Straße (außerhalb). Wenn Sie an einer dieser Straßen liegen bleiben, nennen Sie uns Fahrtrichtung und Querstraße.</p>
+<h2>Berliner Ring und A114</h2>
+<p>Nach der genutzten Quelle ist Pankow der einzige Bezirk, der vom Berliner Ring, der A10, erschlossen wird. Das ist für Ausflügler wichtig: Wenn Sie zwischen Stadtrand und Ring liegen bleiben, nennen Sie uns die Anschlussstelle oder den Ortsteil. Mehr auf <a href="autobahn-a10.html">Panne auf dem Berliner Ring A10</a>.</p>
+<h2>Sehr unterschiedlich besiedelt</h2>
+<p>Zwei Drittel der Bevölkerung leben in den drei größten Ortsteilen Prenzlauer Berg, Pankow und Weißensee. Prenzlauer Berg ist der am fünftdichtesten besiedelte Ortsteil Berlins, Blankenfelde und die Stadtrandsiedlung Malchow sind die zwei am dünnsten besiedelten. Das bedeutet: In Prenzlauer Berg genügt oft eine Straße mit Hausnummer, am Stadtrand nennen Sie uns besser Straße, Ortsteil und nächsten Bahnhof. Der Ortsteil Weißensee hat einen fast kreisrunden See, den Weißen See. Die höchste Erhebung Berlins, die Arkenberge im Ortsteil Blankenfelde mit 121,9 Metern, entstand durch Bauschuttaufschüttungen.</p>
+<h2>So nennen Sie Ihren Standort in Pankow</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Bei B96a, B109 oder B2: Fahrtrichtung, Querstraße.</li>
+<li>Auf der A114 oder A10: Richtung, Anschlussstelle.</li>
+<li>Am Stadtrand: nächster Bahnhof oder Ortszentrum.</li>
+</ul>
+<p>Weitere Bezirke: <a href="stadt-berlin-reinickendorf.html">Reinickendorf</a>, <a href="stadt-berlin-lichtenberg.html">Lichtenberg</a>, <a href="stadt-berlin-mitte.html">Mitte</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Pankow</h2>
+<details><summary>Wie viele Ortsteile hat Pankow?</summary><div>13, darunter Prenzlauer Berg, Weißensee, Pankow, Buch und Karow.</div></details>
+<details><summary>Welche Bundesstraßen führen durch Pankow?</summary><div>B96a, B109 und B2 als radiale Straßen, die B109 mündet am S-Bahnhof Pankow-Heinersdorf in die A114.</div></details>
+<details><summary>Wie viele Einwohner hat Pankow?</summary><div>411.133 am 31. Dezember 2025, damit ist es der bevölkerungsreichste Bezirk.</div></details>
+<details><summary>Wo liegt der nördlichste Ortsteil Berlins?</summary><div>Buch, im Bezirk Pankow.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-berlin-charlottenburg-wilmersdorf | Abschleppdienst Charlottenburg-Wilmersdorf: Pannenhilfe | Pannenhilfe und Abschleppen in Charlottenburg-Wilmersdorf: sieben Ortsteile, A100, A111, AVUS A115, B2, B5 und City West am Kurfürstendamm. | page ===
+<!--AREAS: Charlottenburg, Wilmersdorf, Westend, Grunewald, Schmargendorf, Halensee, Charlottenburg-Nord, Kurfürstendamm -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin · Bezirk Charlottenburg-Wilmersdorf</p><h1>Abschleppdienst Berlin Charlottenburg-Wilmersdorf</h1><p class="lead">Charlottenburg-Wilmersdorf liegt im Westen Berlins mit der City West und drei Autobahnen. Nennen Sie uns Ortsteil und Straße, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Sieben Ortsteile</h2>
+<p>Der Bezirk Charlottenburg-Wilmersdorf unterteilt sich in sieben Ortsteile: Charlottenburg, Wilmersdorf, Schmargendorf, Grunewald, Westend, Charlottenburg-Nord und Halensee. Der Ortsteil Charlottenburg umfasst unter anderem die historische Altstadt Charlottenburg mit dem Schloss und das ehemalige Zooviertel, heute City West. Die Gegend um den Bahnhof Zoo mit dem Boulevard Kurfürstendamm nimmt eine Zentrumsfunktion für große Teile des Berliner Westens ein. Nennen Sie uns bei einer Panne Ortsteil und Straße. Gesamtübersicht: <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
+<h2>A100, A111, A115, B2 und B5</h2>
+<p>Die Autobahnen A100, A111 und A115 sowie die Bundesstraßen B2 und B5 führen durch den Bezirk. Bei einer Panne auf der Stadtautobahn nennen Sie uns Autobahn, Fahrtrichtung und Anschlussstelle, siehe <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>. Die A115 im Norden ist als AVUS bekannt, mehr auf <a href="autobahn-a10.html">Berliner Ring A10</a>.</p>
+<h2>Historische Garagen</h2>
+<p>Für den Individualverkehr bemerkenswert sind zwei historische Garagen: die Kant-Garagen in Charlottenburg, die älteste erhaltene Hochgarage Europas, und die Holtzendorff-Garage in Halensee. Wenn Ihr Fahrzeug in einer Hochgarage nicht startet, nennen Sie uns Garage, Ebene und Zufahrt, siehe <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Panne im Parkhaus</a>.</p>
+<h2>Halensee und Grunewald</h2>
+<p>Der Ortsteil Halensee ist nach dem im angrenzenden Grunewald gelegenen Halensee benannt und wurde als Villen- und Mietshaussiedlung für gehobenes Wohnen geplant. Das heißt für Sie: In Wohnstraßen mit Mietshäusern nennen Sie uns Straße und Hausnummer, am Grunewald zusätzlich die nächste Kreuzung oder den Parkplatz. Radwanderwege wie der Spreeradweg und der Europaradweg R1 führen durch den Bezirk.</p>
+<h2>So nennen Sie Ihren Standort in Charlottenburg-Wilmersdorf</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf A100, A111 oder A115: Richtung, Anschlussstelle.</li>
+<li>Auf B2 oder B5: Fahrtrichtung.</li>
+<li>In Garagen: Name und Ebene.</li>
+</ul>
+<p>Weitere Bezirke: <a href="stadt-berlin-spandau.html">Spandau</a>, <a href="stadt-berlin-steglitz-zehlendorf.html">Steglitz-Zehlendorf</a>, <a href="stadt-berlin-mitte.html">Mitte</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Charlottenburg-Wilmersdorf</h2>
+<details><summary>Welche Autobahnen führen durch den Bezirk?</summary><div>Die A100, A111 und A115.</div></details>
+<details><summary>Wie viele Ortsteile hat der Bezirk?</summary><div>Sieben.</div></details>
+<details><summary>Was sind die Kant-Garagen?</summary><div>Die älteste erhaltene Hochgarage Europas, in Charlottenburg.</div></details>
+<details><summary>Was ist die City West?</summary><div>Das ehemalige Zooviertel in Charlottenburg um den Bahnhof Zoo mit dem Kurfürstendamm.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-berlin-spandau | Abschleppdienst Berlin-Spandau: Pannenhilfe B2, B5 | Pannenhilfe und Abschleppen im Bezirk Spandau in Berlin: neun Ortsteile, B2 und B5, Berliner Ring A10 rund 15 Kilometer westlich, Havel. | page ===
+<!--AREAS: Spandau, Haselhorst, Siemensstadt, Staaken, Gatow, Kladow, Hakenfelde, Falkenhagener Feld, Wilhelmstadt -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin · Bezirk Spandau</p><h1>Abschleppdienst Berlin-Spandau</h1><p class="lead">Spandau liegt im Westen Berlins an Havel und Spree, die A10 verläuft etwa 15 Kilometer westlich. Nennen Sie uns Ortsteil und Straße, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Neun Ortsteile im Westen</h2>
+<p>Der Bezirk Spandau unterteilt sich in neun Ortsteile: Spandau, Haselhorst, Siemensstadt, Staaken, Gatow, Kladow, Hakenfelde, Falkenhagener Feld und Wilhelmstadt. Die Havel prägt den Bezirk, in Hakenfelde liegt die Flussinsel Großer Wall, die kurioserweise dem Bezirksamt Friedrichshain-Kreuzberg unterstellt ist. Nennen Sie uns bei einer Panne Ortsteil und Straße. Gesamtübersicht: <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
+<h2>B2, B5 und der Berliner Ring</h2>
+<p>Durch Spandau verlaufen die Bundesstraßen B2 und B5, über letztere ist der rund 15 Kilometer westlich liegende Berliner Ring (A10) zu erreichen. Wenn Sie auf der B5 Richtung Ring liegen bleiben, sagen Sie uns Fahrtrichtung, Ortsteil und Querstraße, mehr auf <a href="autobahn-a10.html">Berliner Ring A10</a> und <a href="stadt-potsdam.html">Abschleppdienst Potsdam</a>.</p>
+<h2>Bahnhof und Busknoten Spandau</h2>
+<p>Wichtigster Verkehrsknoten des Bezirks ist der Bahnhof Spandau, an dem die Bahnstrecke Berlin–Hamburg und die Schnellfahrstrecke Hannover–Berlin halten. Der Busknoten S+U Rathaus Spandau gilt nach dem Bahnhof Zoo als der zweitstärkste Busknoten Berlins, er wird von 15 Buslinien tagsüber und drei Nachtbuslinien angefahren. Wenn Ihr Fahrzeug am Rathaus oder am Bahnhof liegen bleibt, halten Sie Bushaltestellen frei und nennen Sie uns Straße und Hausnummer.</p>
+<h2>Zukunftspläne, keine Auswirkung auf Ihre Panne</h2>
+<p>Langfristig wird die Wiederanbindung an das Straßenbahnnetz erwogen, konkrete Planungen sehen eine Strecke vom Rathaus Spandau zum Urban Tech Republic, dem ehemaligen Flughafen Tegel, vor. Das sind Planungen. Ihre Standortangabe braucht dafür nichts anderes als bisher: Ortsteil, Straße, Hausnummer.</p>
+<h2>So nennen Sie Ihren Standort in Spandau</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf B2 oder B5: Fahrtrichtung.</li>
+<li>Am Bahnhof oder Rathaus: Ausgang, Haltestelle.</li>
+<li>An der Havel: nächste Brücke oder Ufer.</li>
+</ul>
+<p>Weitere Bezirke: <a href="stadt-berlin-charlottenburg-wilmersdorf.html">Charlottenburg-Wilmersdorf</a>, <a href="stadt-berlin-reinickendorf.html">Reinickendorf</a>, <a href="stadt-berlin-steglitz-zehlendorf.html">Steglitz-Zehlendorf</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Spandau</h2>
+<details><summary>Wie viele Ortsteile hat Spandau?</summary><div>Neun.</div></details>
+<details><summary>Welche Bundesstraßen führen durch Spandau?</summary><div>B2 und B5.</div></details>
+<details><summary>Wie weit ist der Berliner Ring entfernt?</summary><div>Rund 15 Kilometer westlich, erreichbar über die B5.</div></details>
+<details><summary>Wie viele Buslinien halten am Rathaus Spandau?</summary><div>15 tagsüber und drei Nachtbuslinien.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-berlin-steglitz-zehlendorf | Abschleppdienst Steglitz-Zehlendorf: Pannenhilfe A100 | Pannenhilfe und Abschleppen in Steglitz-Zehlendorf: acht Ortsteile, A100, A103, A115, B1 und Glienicker Brücke nach Potsdam. | page ===
+<!--AREAS: Steglitz, Lichterfelde, Lankwitz, Zehlendorf, Dahlem, Nikolassee, Wannsee, Schlachtensee, Glienicker Brücke -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin · Bezirk Steglitz-Zehlendorf</p><h1>Abschleppdienst Berlin Steglitz-Zehlendorf</h1><p class="lead">Steglitz-Zehlendorf liegt im Südwesten Berlins mit drei Autobahnen und der Glienicker Brücke. Nennen Sie uns Ortsteil und Straße, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Acht Ortsteile im Südwesten</h2>
+<p>Steglitz-Zehlendorf ist der sechste Verwaltungsbezirk von Berlin und hatte am 31. Dezember 2025 295.082 Einwohner. Er entstand 2001 durch die Zusammenlegung der Bezirke Steglitz und Zehlendorf und unterteilt sich in acht Ortsteile: Steglitz, Lichterfelde, Lankwitz, Zehlendorf, Dahlem, Nikolassee, Wannsee und Schlachtensee. In Steglitz und Lichterfelde lebt die Hälfte der Bevölkerung. Wannsee ist der größte Ortsteil. Die Hochschul- und Forschungslandschaft ist international renommiert. Nennen Sie uns bei einer Panne Ortsteil und Straße. Gesamtübersicht: <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
+<h2>A100, A103, A115 und B1</h2>
+<p>Die Autobahnen A100, A103, A115 und die B1 führen durch den Bezirk. Bei einer Panne auf der Autobahn nennen Sie uns Autobahn, Richtung und Anschlussstelle, mehr im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a> und <a href="autobahn-a10.html">Berliner Ring A10</a>.</p>
+<h2>Glienicker Brücke nach Potsdam</h2>
+<p>Die Glienicker Brücke ist Teil der B1 und verbindet Berlin mit Potsdam. Wenn Sie an der Brücke liegen bleiben, sagen Sie uns die Fahrtrichtung, Richtung Potsdam oder Richtung Berlin. Mehr auf <a href="stadt-potsdam.html">Abschleppdienst Potsdam</a>. Bei einer Panne an einer Brücke gilt: Warnblinker, Abstand, nicht auf der Fahrbahn stehen.</p>
+<h2>Seen, Wald und Universitätsviertel</h2>
+<p>Wannsee, Nikolassee und Schlachtensee liegen an Seen und Wald, Dahlem ist Universitäts- und Institutsviertel. Wenn Sie in Waldnähe oder am Seeufer liegen bleiben, nennen Sie uns die nächste Straße, den Parkplatz oder Bahnhof, denn Waldstraßen haben oft keine Hausnummern.</p>
+<h2>So nennen Sie Ihren Standort in Steglitz-Zehlendorf</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf A100, A103 oder A115: Richtung, Anschlussstelle.</li>
+<li>Auf der B1: Fahrtrichtung, Glienicker Brücke.</li>
+<li>Am Wald oder See: nächster Parkplatz oder Bahnhof.</li>
+</ul>
+<p>Weitere Bezirke: <a href="stadt-berlin-tempelhof-schoeneberg.html">Tempelhof-Schöneberg</a>, <a href="stadt-berlin-charlottenburg-wilmersdorf.html">Charlottenburg-Wilmersdorf</a>, <a href="stadt-berlin-spandau.html">Spandau</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Steglitz-Zehlendorf</h2>
+<details><summary>Welche Autobahnen führen durch den Bezirk?</summary><div>Die A100, A103 und A115, dazu die B1.</div></details>
+<details><summary>Welcher Ortsteil ist der größte?</summary><div>Wannsee ist der größte Ortsteil des Bezirks.</div></details>
+<details><summary>Was verbindet die Glienicker Brücke?</summary><div>Berlin und Potsdam, sie ist Teil der B1.</div></details>
+<details><summary>Wie viele Ortsteile gibt es?</summary><div>Acht.</div></details>
+</div></section>
+@@CTA@@
