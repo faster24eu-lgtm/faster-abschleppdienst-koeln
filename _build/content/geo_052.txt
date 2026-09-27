@@ -1,0 +1,113 @@
+=== autobahn-a66 | Pannenhilfe auf der A66: Wiesbaden, Frankfurt, Hanau, Fulda | Panne auf der A66 von Wiesbaden über Frankfurt und Hanau nach Fulda: Rhein-Main-Schnellweg, Kinzigtalautobahn, Salzbachtalbrücke, Baulücke in Frankfurt. | page ===
+<!--AREAS: A66, Wiesbaden, Hofheim, Frankfurt, Maintal, Hanau, Gelnhausen, Schlüchtern, Fulda -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A66</h1><p class="lead">Die A66 führt von Wiesbaden über Frankfurt und Hanau nach Fulda, mit einer Baulücke im Frankfurter Stadtgebiet. Nennen Sie uns Teilstück, Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Rhein-Main-Schnellweg und Kinzigtalautobahn</h2>
+<p>Die A66 ist eine Autobahn in Hessen und führt von Wiesbaden über Frankfurt am Main und Hanau nach Fulda, im Frankfurter Stadtgebiet besteht eine Baulücke. Das westliche Teilstück ist eine wichtige Verbindung innerhalb des Rhein-Main-Gebiets und nimmt in erster Linie Lokalverkehr auf, das östliche bildet eine Alternativroute zur A5 zwischen Süd- und Osthessen und erschließt die Region um Fulda. Abschnitte heißen Rhein-Main-Schnellweg (Wiesbaden–Frankfurt) und Kinzigtalautobahn (Hanau–Fulda), umgangssprachlich auch „Route 66“. Nennen Sie uns bei einer Panne zuerst, ob Sie westlich oder östlich der Frankfurter Baulücke stehen. Mehr auf <a href="stadt-frankfurt.html">Abschleppdienst Frankfurt</a> und <a href="stadt-wiesbaden.html">Abschleppdienst Wiesbaden</a>.</p>
+<h2>Salzbachtalbrücke in Wiesbaden</h2>
+<p>Vom 18. Juni 2021 bis zum 17. Dezember 2023 war die A66 zwischen den Anschlussstellen Wiesbaden-Biebrich und Wiesbaden-Mainzer Straße wegen des Neubaus der Salzbachtalbrücke gesperrt, eine Umfahrung war über A60, A67 und A643 möglich. Der Neubau des südlichen Teils der im November 2021 abgerissenen Brücke wurde am 18. Dezember 2023 eröffnet, der Nordteil folgte am 1. August 2025. Die Strecke beginnt in Höhe der Anschlussstelle Wiesbaden-Frauenstein als Fortführung der vierstreifigen B42, am Schiersteiner Kreuz wird die A643 gekreuzt, bei Hofheim-Wallau am Wiesbadener Kreuz die A3. Mehr auf <a href="autobahn-a3.html">Panne auf der A3</a>, <a href="autobahn-a60.html">Panne auf der A60</a> und <a href="autobahn-a67.html">Panne auf der A67</a>.</p>
+<h2>Von Höchst bis zur Miquelallee</h2>
+<p>Im Main-Taunus-Kreis werden in erster Linie die westlichen Vororte Frankfurts angebunden. Am Krifteler Dreieck zweigt die autobahnähnliche B40 zum Industriepark Höchst und zum Frankfurter Flughafen ab. Die Anschlussstelle Frankfurt-Höchst erschließt den gleichnamigen Stadtteil, die Taunusvororte und das Main-Taunus-Zentrum, ein großes Einkaufszentrum unmittelbar an der Autobahn. Am Eschborner Dreieck beginnt die A648 ins Stadtzentrum, auch als Zubringer zum Messegelände. Am Nordwestkreuz Frankfurt kreuzt die A66 die A5, östlich davon ist sie sechsstreifig und bildet einen Zubringer ins nördliche Stadtgebiet, durchquert den Niddapark und mündet an der Anschlussstelle Frankfurt-Miquelallee in die B8, den nördlichen Abschnitt des Frankfurter Alleenrings. Mehr auf <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>.</p>
+<h2>Bergen-Enkheim bis Fulda</h2>
+<p>Im Frankfurter Stadtteil Bergen-Enkheim beginnt die A66 wieder an einer provisorischen Anschlussstelle, die in Höhe des Einkaufszentrums Hessen-Center von der Borsigallee abzweigt. Sie führt an Maintal vorbei und umgeht Hanau nördlich, am Hanauer Kreuz trifft sie auf die A45 und die B43a. Auf einigen Kilometern führt sie zusammen mit der A45 auf einer achtstreifigen Trasse nach Nordosten, ehe am Langenselbolder Dreieck die A66 nach Osten abzweigt. Die Kinzigtalautobahn folgt dem Verlauf der Kinzig an Langenselbold, Gründau und Gelnhausen vorbei, quert hinter Schlüchtern den Hessischen Landrücken und folgt dem Fliedetal bis Eichenzell, im Bereich Neuhof verläuft sie in einem Lärmschutztunnel. Die Anschlussstelle Fulda-Süd bindet über die B27 das Fuldaer Zentrum an, am Dreieck Fulda mündet die A66 in die A7. Der vollständige Lückenschluss zur A7 wurde 2014 fertiggestellt. Mehr auf <a href="stadt-hanau.html">Abschleppdienst Hanau</a>, <a href="stadt-fulda.html">Abschleppdienst Fulda</a> und <a href="autobahn-a45.html">Panne auf der A45</a>. Im Tunnel: <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A66</h2>
+<ul class="ticks">
+<li>Teilstück: Wiesbaden–Frankfurt oder Frankfurt–Fulda.</li>
+<li>Fahrtrichtung, Anschlussstelle oder Kreuz (Schiersteiner, Wiesbadener, Nordwestkreuz, Hanauer Kreuz, Langenselbolder Dreieck).</li>
+<li>Brücke, Tunnel oder Rastanlage.</li>
+<li>Ob Sie sechs-, vier- oder achtstreifig unterwegs sind.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A66</h2>
+<details><summary>Ist die A66 durchgehend?</summary><div>Nein, im Frankfurter Stadtgebiet besteht eine Baulücke.</div></details>
+<details><summary>Wie heißt der Abschnitt Hanau–Fulda?</summary><div>Kinzigtalautobahn, sie folgt der Kinzig.</div></details>
+<details><summary>Was war mit der Salzbachtalbrücke?</summary><div>Sie war von Juni 2021 bis Dezember 2023 gesperrt, der Neubau des Südteils wurde am 18. Dezember 2023 eröffnet, der Nordteil am 1. August 2025.</div></details>
+<details><summary>Wo endet die A66?</summary><div>Am Dreieck Fulda an der A7.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a63 | Pannenhilfe auf der A63: Mainz, Alzey, Kaiserslautern | Panne auf der A63 von Mainz über Alzey, Kreuz Alzey und Donnersberg nach Kaiserslautern: Rheinhessisches Hügelland, Kaiserstraßensenke, Anschluss an A6. | page ===
+<!--AREAS: A63, Mainz, Nieder-Olm, Wörrstadt, Alzey, Donnersberg, Winnweiler, Kaiserslautern -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A63</h1><p class="lead">Die A63 verbindet Mainz über Alzey mit Kaiserslautern und dem Großraum Saarbrücken. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Vom Rhein-Main-Gebiet in die Pfalz</h2>
+<p>Die A63 führt von Mainz nach Kaiserslautern und verbindet das Rhein-Main-Gebiet mit dem Großraum Saarbrücken, von wo aus über die A6 eine grenzüberschreitende Anbindung nach Frankreich besteht. Zwischen Mainz und Alzey wurde sie in den 1970er Jahren gebaut, die Errichtung des Ausweichsitzes der Landesregierung Rheinland-Pfalz in Alzey war für die Fertigstellung dieses Teilstücks mit ausschlaggebend. Die Fortsetzung bis Kaiserslautern wurde im letzten Abschnitt im Oktober 2004 eröffnet. Nennen Sie uns bei einer Panne Richtung und Anschlussstelle. Mehr auf <a href="stadt-mainz.html">Abschleppdienst Mainz</a> und <a href="stadt-kaiserslautern.html">Abschleppdienst Kaiserslautern</a>.</p>
+<h2>Kreuz Mainz-Süd bis Alzey</h2>
+<p>Die A63 beginnt im Kreuz Mainz-Süd, wo sie aus der Trasse der vierstreifigen, richtungsgetrennten B40 aus der Mainzer Innenstadt hervorgeht, kreuzt die A60 und führt in südwestliche Richtung durch das Rheinhessische Hügelland, größtenteils dem Verlauf der alten B40 folgend, über Nieder-Olm, Saulheim und Wörrstadt, wo sich ein Autohof befindet. Im Kreuz Alzey wird die A61 gekreuzt, die Verbindungen von der A63 aus Richtung Mainz auf die A61 in Richtung Ludwigshafen und umgekehrt sind zweistreifig als Direktverbindung ausgeführt. Mehr auf <a href="autobahn-a60.html">Panne auf der A60</a> und <a href="autobahn-a61.html">Panne auf der A61</a>.</p>
+<h2>Donnersberg und Kaiserstraßensenke</h2>
+<p>Der Donnersberg, der höchste Berg der gesamten Pfalz, liegt unmittelbar an der Strecke. Bis Winnweiler folgt die Autobahn einer Senke, die wegen der früheren Kaiserstraße Paris–Mainz auch Kaiserstraßensenke heißt. Danach durchquert sie die nördlichen Ausläufer des Pfälzerwalds und führt in einer relativ steilen Kurvenkombination hinab nach Kaiserslautern. Noch vor der Einmündung in die A6, die als Direktverbindung nur von und aus Richtung Saarbrücken ausgeführt ist, besteht eine Anschlussstelle, die auf die L395 ins Stadtzentrum führt, über sie ist auch die Verbindung zur A6 in Richtung Mannheim möglich. Bei der steilen Kurvenkombination nennen Sie uns bei einer Panne, ob Sie bergab stehen, siehe <a href="ratgeber-bremsen-versagen.html">Bremsen versagen</a>.</p>
+<h2>Von der Napoleonstraße zur Autobahn</h2>
+<p>Die A63 folgt zwischen Mainz und Kaiserslautern größtenteils einem Teilstück der B40, die im westlichen Abschnitt auf die 1806 bis 1811 unter Napoleon Bonaparte gebaute Grande Route Impériale zurückgeht, die Paris mit Mainz verband. Ältere Ortsangaben nennen daher oft die B40. Nennen Sie uns bei einer Panne die A63 mit Anschlussstelle.</p>
+<h2>So nennen Sie Ihren Standort auf der A63</h2>
+<ul class="ticks">
+<li>Richtung: Mainz oder Kaiserslautern.</li>
+<li>Letzte oder nächste Anschlussstelle, Kreuz Mainz-Süd, Kreuz Alzey, Winnweiler.</li>
+<li>Autohof Wörrstadt oder Donnersberg als Landmarke.</li>
+<li>Bei Gefälle: vor Kaiserslautern.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A63</h2>
+<details><summary>Wo beginnt die A63?</summary><div>Im Kreuz Mainz-Süd, wo sie aus der B40 hervorgeht.</div></details>
+<details><summary>Wo kreuzt die A63 die A61?</summary><div>Im Kreuz Alzey.</div></details>
+<details><summary>Wann wurde die A63 fertiggestellt?</summary><div>Der letzte Abschnitt bis Kaiserslautern wurde im Oktober 2004 eröffnet.</div></details>
+<details><summary>Wo liegt der Donnersberg?</summary><div>Unmittelbar an der Strecke, er ist der höchste Berg der Pfalz.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a65 | Pannenhilfe auf der A65: Ludwigshafen, Neustadt, Landau, Wörth | Panne auf der A65 von Ludwigshafen entlang der Haardt über Neustadt und Landau nach Wörth am Rhein: Kreuz Mutterstadt, B9, B10 nach Karlsruhe. | page ===
+<!--AREAS: A65, Ludwigshafen, Mutterstadt, Neustadt an der Weinstraße, Landau, Kandel, Wörth, Karlsruhe -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A65</h1><p class="lead">Die A65 führt von Ludwigshafen am Rand des Pfälzerwalds über Neustadt und Landau nach Wörth am Rhein. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Am Rand des Pfälzerwalds</h2>
+<p>Die A65 führt von Ludwigshafen über Neustadt an der Weinstraße und Landau nach Wörth am Rhein, wo sie in die B10 übergeht, die über den Rhein weiter nach Karlsruhe führt. Anders als die autobahnähnlich ausgebaute B9, die beide Städte entlang des Rheins direkter verbindet, führt die A65 bogenförmig weiter westlich am Rand des Pfälzerwalds entlang. Eine geplante Verlängerung von Kandel durch den Bienwald zur französischen Grenze bei Lauterbourg mit Anschluss an die Autoroute A35 Richtung Straßburg wurde aus Naturschutzgründen verworfen. Nennen Sie uns bei einer Panne Richtung und Anschlussstelle. Mehr auf <a href="stadt-ludwigshafen.html">Abschleppdienst Ludwigshafen</a> und <a href="stadt-speyer.html">Abschleppdienst Speyer</a>.</p>
+<h2>Dreieck Ludwigshafen-Süd bis Neustadt</h2>
+<p>Sie beginnt am Dreieck Ludwigshafen-Süd, an dem sie von der autobahnähnlichen B9 abzweigt, die dort eine westliche Umgehung von Ludwigshafen bildet. In wenigen Kilometern folgt am Kreuz Mutterstadt die einzige direkte Anbindung zum restlichen Autobahnnetz, zur A61. Die A65 führt in südwestlicher Richtung in einem weiten Bogen nach Neustadt an der Weinstraße, wo die Haardt, der steile östliche Abstieg des Pfälzerwalds in die Oberrheinische Tiefebene, erreicht wird, und weiter nach Landau, das mit mehreren Anschlussstellen angebunden wird. Auf längeren Abschnitten hat sie keinen Standstreifen und einen sehr schmalen Mittelstreifen. Das ist für Pannen wichtig: Nennen Sie uns, ob ein Standstreifen vorhanden war. Mehr auf <a href="autobahn-a61.html">Panne auf der A61</a>.</p>
+<h2>Kandel, Bienwald und Wörther Kreuz</h2>
+<p>Das Haardtgebiet wird verlassen, die Strecke wendet sich nach Südosten an Kandel vorbei, wo die B9 zur französischen Grenze abzweigt, die von dort als Autoroute A35 nach Straßburg weiterführt. Weiter geradeaus geht es durch den Bienwald nach Wörth. Am Wörther Kreuz führt die B9 autobahnähnlich nach Norden Richtung Germersheim. Die A65 endet hier und führt als autobahnähnlich ausgebaute B10 an Maximiliansau vorbei, quert den Rhein und erreicht das Stadtgebiet von Karlsruhe, über die Südtangente besteht eine durchgehend vierstreifige Verbindung zur A5 und zur A8 nach Stuttgart. Mehr auf <a href="abschleppdienst-karlsruhe.html">Abschleppdienst Karlsruhe</a> und <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>.</p>
+<h2>Aus der B10 entstanden</h2>
+<p>Die heutige A65 ist das Produkt eines Bundesstraßen-Neubaus der B10 zwischen Landau und Karlsruhe, zusammen mit dem Neubau einer Autobahnanbindung des südpfälzischen Raums von der linksrheinischen A61. Die zunächst geplante Erschließung sollte durch eine linksrheinische Autobahn zwischen der niederländischen und der französischen Grenze erfolgen, in den 1970er Jahren wurde sie auf mehrere Strecken aufgeteilt. Nennen Sie uns bei einer Panne die Nummer A65 oder B10, denn beide gehen nahtlos ineinander über.</p>
+<h2>So nennen Sie Ihren Standort auf der A65</h2>
+<ul class="ticks">
+<li>Richtung: Ludwigshafen oder Wörth/Karlsruhe.</li>
+<li>Anschlussstelle, Kreuz Mutterstadt, Neustadt, Landau, Kandel, Wörther Kreuz.</li>
+<li>Ob Standstreifen vorhanden ist.</li>
+<li>Bei Wörth: A65 oder B10.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A65</h2>
+<details><summary>Wo beginnt und endet die A65?</summary><div>Am Dreieck Ludwigshafen-Süd und bei Wörth am Rhein, wo sie in die B10 übergeht.</div></details>
+<details><summary>Wo kreuzt die A65 die A61?</summary><div>Am Kreuz Mutterstadt.</div></details>
+<details><summary>Warum ist die Verlängerung nach Frankreich nicht gebaut?</summary><div>Die Verlängerung durch den Bienwald wurde aus Naturschutzgründen verworfen.</div></details>
+<details><summary>Hat die A65 immer einen Standstreifen?</summary><div>Nein, auf längeren Abschnitten fehlt er.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a64 | Pannenhilfe auf der A64: Luxemburg, Trier, Meulenwald | Panne auf der A64 zwischen Wasserbillig an der luxemburgischen Grenze und Trier: 14 Kilometer, Sauertalbrücke, Biewerbachtalbrücke, Übergang zur A64a. | page ===
+<!--AREAS: A64, Wasserbillig, Trier, Meulenwald, Biewerbachtal, A64a, Trier-Ehrang -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A64</h1><p class="lead">Die A64 verbindet als rund 14 Kilometer langes Stück das luxemburgische Autobahnnetz mit der Region Trier. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kurze Verbindung nach Luxemburg</h2>
+<p>Die A64 ist eine Autobahn in Rheinland-Pfalz und Teil der Europastraße 44. Sie stellt ein rund 14 Kilometer langes Verbindungsstück zwischen dem luxemburgischen Autobahnnetz und der Region um Trier her. Das östliche Ende geht nahtlos in die A64a über, die bei der Anschlussstelle Trier-Ehrang an die A602 anschließt. Geplant war die Fortführung in Höhe des Parkplatzes Dicke Buche durch den Meulenwald zur A1 bei Schweich als Meulenwaldautobahn. Sie entstand in den 1980er Jahren als westliches Ende der A48, die von Trier über Daun, Koblenz, Wetzlar und Gießen zum Hattenbacher Dreieck führen sollte. Bei der Einführung der Anschlussstellen-Nummern 1992 wurde der westlichste Teil der A48 in A64 umbenannt. Mehr auf <a href="stadt-trier.html">Abschleppdienst Trier</a> und <a href="autobahn-a48.html">Panne auf der A48</a>.</p>
+<h2>Von Wasserbillig zur Sauertalbrücke</h2>
+<p>Die Autobahn beginnt am deutsch-luxemburgischen Grenzübergang Wasserbillig als Fortsetzung der luxemburgischen Autoroute 1 und überquert das Tal der Sauer auf der 98 Meter hohen Sauertalbrücke, der Fluss bildet die Grenze zwischen beiden Staaten. Auf den Höhen über dem westlichen Moselufer führt die Strecke nordöstlich nach Trier. Es folgt die einzige Anschlussstelle der gesamten Autobahn, sie schließt an die B51 an, die ins Trierer Stadtzentrum und nach Norden Richtung Bitburg führt. Aus Richtung Köln kommend werden Autofahrer ab dem Ende der A1 bei Blankenheim über diese Bundesstraße nach Trier geleitet. Bei einer Panne nahe der Grenze nennen Sie uns, ob Sie auf deutscher oder luxemburgischer Seite stehen.</p>
+<h2>Meulenwald und Biewerbachtalbrücke</h2>
+<p>Hinter der Anschlussstelle Trier erreicht die Autobahn den Meulenwald und endet nach wenigen Kilometern als Kraftfahrstraße vor der nur für eine Fahrbahn ausgelegten, 91 Meter hohen Biewerbachtalbrücke. Hinter der Brücke folgt ein rund zwei Kilometer langes Teilstück mit zwei Richtungsfahrbahnen, das aber ebenfalls als Kraftfahrstraße beschildert ist. Beim Parkplatz „Dicke Buche“ endet der als A64 gewidmete Abschnitt, die Straße führt seit 2021 als A64a weiter in östlicher Richtung hinab zur Mosel. Bei einer Panne auf einer nur einbahnigen Brücke nennen Sie uns bitte die Brücke und Richtung. Die Nummerierung erfolgte im Zuge der Eingliederung in die Autobahn GmbH des Bundes.</p>
+<h2>So nennen Sie Ihren Standort auf der A64</h2>
+<ul class="ticks">
+<li>Richtung: Luxemburg oder Trier.</li>
+<li>Anschlussstelle Trier, Parkplatz Dicke Buche, Sauertalbrücke oder Biewerbachtalbrücke.</li>
+<li>Ob Sie auf A64 oder A64a stehen.</li>
+<li>Bei Grenznähe: deutsche oder luxemburgische Seite.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A64</h2>
+<details><summary>Wie lang ist die A64?</summary><div>Rund 14 Kilometer.</div></details>
+<details><summary>Wie hoch ist die Sauertalbrücke?</summary><div>98 Meter, die Sauer bildet dort die Grenze zu Luxemburg.</div></details>
+<details><summary>Wie viele Anschlussstellen hat die A64?</summary><div>Nur eine, sie schließt an die B51 an.</div></details>
+<details><summary>Was ist die A64a?</summary><div>Die Fortsetzung der A64 seit 2021 östlich des Parkplatzes Dicke Buche zur A602 bei Trier-Ehrang.</div></details>
+</div></section>
+@@CTA@@

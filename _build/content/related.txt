@@ -363,3 +363,8 @@ autobahn-a60	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im
 autobahn-a62	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a60	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Hechtsheim
 autobahn-a48	ratgeber-bremsen-versagen.html	Bremsen versagen	Gefälle in Eifel und Westerwald
+autobahn-a66	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a63	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a65	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a64	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a66	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Lärmschutztunnel bei Neuhof

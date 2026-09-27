@@ -208,3 +208,7 @@ autobahn-a48	A48 Daun bis Dernbach	A48
 autobahn-a49	A49 Kassel bis Ohmtal	A49	
 autobahn-a60	A60 Eifel und Mainz	A60	
 autobahn-a62	A62 Nonnweiler bis Pirmasens	A62	
+autobahn-a66	A66 Wiesbaden bis Fulda	A66	
+autobahn-a63	A63 Mainz bis Kaiserslautern	A63	
+autobahn-a65	A65 Ludwigshafen bis Wörth	A65	
+autobahn-a64	A64 Luxemburg bis Trier	A64	
