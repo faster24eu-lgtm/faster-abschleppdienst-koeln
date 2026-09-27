@@ -1,0 +1,351 @@
+=== en-stadt-berlin | Towing Service Berlin: Breakdowns 24/7, City Ring A100 | Roadside assistance and towing in Berlin: the A100 city ring with tunnels, the A111, the A115, and the low-emission zone inside the S-Bahn ring. | page ===
+<!--AREAS: Berlin, Berlin-Mitte, Charlottenburg-Wilmersdorf, Tempelhof-Schöneberg, Neukölln, Treptow-Köpenick -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin</p><h1>Towing Service Berlin</h1><p class="lead">Break down in Berlin and you're on a city ring full of tunnels, a former racetrack, or in one of 97 localities. One call or a WhatsApp with your location is enough, we'll organise the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Twelve boroughs, 97 localities</h2>
+<p>Berlin is divided into twelve boroughs: Mitte, Friedrichshain-Kreuzberg, Pankow, Charlottenburg-Wilmersdorf, Spandau, Steglitz-Zehlendorf, Tempelhof-Schöneberg, Neukölln, Treptow-Köpenick, Marzahn-Hellersdorf, Lichtenberg and Reinickendorf, containing 97 localities between them. For your location, the locality helps more than the borough: "Charlottenburg-Wilmersdorf" says little, "Westend" or "Halensee" says a lot. Also give us the street and the nearest cross street or an S-Bahn station, so a driver can find you without follow-up questions.</p>
+<h2>The A100, Berlin's city ring</h2>
+<p>The A100 motorway links the boroughs of Mitte, Charlottenburg-Wilmersdorf, Tempelhof-Schöneberg, Neukölln and Treptow-Köpenick in an arc. For long stretches it follows the route of the Ringbahn, the inner S-Bahn ring. In the north-west it begins as an extension of Seestraße and reaches the Charlottenburg interchange, where the A111 branches off towards Tegel and Oranienburg. At the Funkturm triangle, right by the exhibition grounds, the A115 branches off towards Potsdam. Next come a 212-metre tunnel at Rathenauplatz, the Schöneberg interchange with the A103, and, in the Britz locality, the route's longest tunnel. At the Neukölln triangle, the A113 branches south, and the A100 itself currently ends at the Am Treptower Park exit. If you break down on this stretch, the best landmark is the triangle, interchange or exit, plus your direction of travel. Special rules apply in tunnels, see <a href="en-ratgeber-panne-im-tunnel.html">Breakdown in a tunnel</a>.</p>
+<h2>The A111 and A115: approach roads with history</h2>
+<p>The A111 runs from the Charlottenburg triangle via the former Reinickendorf interchange to the Oranienburg interchange, connecting the city ring with the Berlin ring (A10). Along it are the Kurt-Schumacher-Damm exit and a tunnel at Tegel Airport. The A115 connects the Funkturm triangle with the Nuthetal triangle and partly follows the route of the former AVUS racetrack. The old grandstand at its northern end and today's service-station building both survive and serve as useful landmarks. If you're at the service station or the Zehlendorf interchange, either one works as a reference point.</p>
+<h2>The low-emission zone inside the S-Bahn ring</h2>
+<p>Since 1 January 2008, Berlin has had a low-emission zone covering about 88 square kilometres inside the S-Bahn ring, and since 1 January 2010 a green sticker has been required there. The southern section of the city motorway that runs inside the ring doesn't belong to the zone. This mainly matters if your destination or location is inside the zone. The exact boundary is on the State of Berlin's website; we make no guarantees about it.</p>
+<h2>What we do in Berlin</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Berlin and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Berlin</h2>
+<p>On the A100, A111 or A115: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. In one of the tunnels, for example at Rathenauplatz or in Britz, don't turn around or reverse; drive to the next emergency bay if your vehicle still allows it, otherwise hazard lights on and raise the alarm via the emergency phone or 112. In a car park, hazard lights are usually enough, and if you're blocking a ramp, briefly warn other drivers.</p>
+<h2>Where it often happens in Berlin</h2>
+<p>The short gaps between triangles and interchanges on the A100 cause sudden braking in heavy traffic, especially before the tunnels at Rathenauplatz and in Britz. At the Funkturm triangle and the Schöneberg interchange, several lanes converge in quick succession. Inside the low-emission zone within the S-Bahn ring, a vehicle without the right sticker can raise extra questions about continuing the journey, so mention that on the phone.</p>
+<h2>How to describe your location in Berlin</h2>
+<ul class="ticks">
+<li>Locality and street, plus the nearest cross street or an S-Bahn or U-Bahn station.</li>
+<li>On the A100, A111 or A115: the triangle, interchange or exit, and your direction of travel.</li>
+<li>In tunnels: the tunnel's name or the last exit before it.</li>
+<li>In car parks or underground garages: the level and the entrance height, see <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Underground garage and car park</a>.</li>
+</ul>
+<p>Along the major routes, the closest large cities are <a href="en-stadt-hamburg.html">Hamburg</a> via the A24 and <a href="en-stadt-muenchen.html">Munich</a> via the A9. All cities are listed at <a href="staedte.html">Towing service in your city</a> (German).</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Berlin</h2>
+<details><summary>Can you take my car from Berlin to my garage in another borough or outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Berlin. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>My electric car has broken down. Can you help with that too?</summary><div>Yes, electric cars are transported on a flatbed. Tell us it's an electric car and we'll arrange the right transport.</div></details>
+<details><summary>I'm on the A100. What do I say?</summary><div>Tell us your direction of travel and the last exit, or the nearest triangle or interchange, such as Funkturm, Schöneberg or Neukölln. Sharing your location on WhatsApp helps too.</div></details>
+<details><summary>Does a low-emission zone apply in Berlin?</summary><div>Yes, inside the S-Bahn ring, requiring a green sticker since 2010. The southern section of the city motorway within the ring isn't included. Check the exact rules with the State of Berlin.</div></details>
+<details><summary>Can you give me an arrival time?</summary><div>No. It depends on location, traffic and time of day. We'll tell you what we know on the phone.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-hamburg | Towing Service Hamburg: Roadside Assistance, Elbe Tunnel, A7 | Roadside assistance and towing in Hamburg: seven boroughs, the A7 with the Elbe Tunnel and noise-protection tunnels, the port, and the Köhlbrand Bridge. | page ===
+<!--AREAS: Hamburg, Hamburg-Altona, Hamburg-Harburg, Hamburg-Wandsbek, Hamburg-Bergedorf, Hamburg-Eimsbüttel, Hamburg-Nord, Hamburg-Mitte -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hamburg</p><h1>Towing Service Hamburg</h1><p class="lead">Hamburg sits on the Elbe, and breaking down here often means standing near a tunnel, a bridge, or the port. Tell us where you are, and we'll coordinate roadside assistance and towing.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Seven boroughs and 104 districts</h2>
+<p>Hamburg is divided into seven boroughs: Hamburg-Mitte, Altona, Eimsbüttel, Hamburg-Nord, Wandsbek, Bergedorf and Harburg, with 104 districts between them. For your location, that means: tell us the district, not the borough, plus the street. "Hamburg-Mitte" alone is too vague for a driver.</p>
+<h2>The A7 across the city</h2>
+<p>The A7 reaches Hamburg's city limits at the Schnelsen district. Via the semicircular Ring 3 it connects to Hamburg Airport (Fuhlsbüttel). Next comes a noise-protection tunnel about 500 metres long, and at the Hamburg-Nordwest interchange the A23 joins. After a second noise-protection tunnel of about 900 metres, the motorway crosses the railway tracks to Altona station on the Langenfelde bridge and passes the Altona Volkspark. The eight-lane section currently ends there; the stretch to the Elbe Tunnel is due to be widened by around 2028, including a third noise-protection tunnel of 2.3 kilometres. If you break down here, tell us your direction and the nearest tunnel or the Nordwest interchange.</p>
+<h2>The Elbe Tunnel: four tubes, one bottleneck</h2>
+<p>The New Elbe Tunnel carries the A7 under the Elbe in four tubes, two per direction. At 3,325 metres total length, it's one of the longest four-tube underwater road tunnels in the world. A tunnel control centre above the north portal is staffed around the clock and can watch drivers via camera and address them directly. In a tunnel breakdown: hazard lights on, move as far to the side as possible, use the emergency equipment, more in our guide <a href="en-ratgeber-panne-im-tunnel.html">Breakdown in a tunnel</a>. The Old Elbe Tunnel between St. Pauli and Steinwerder, by contrast, only serves local city traffic and has nothing to do with the motorway. Don't mix the two up when telling us your location.</p>
+<h2>The Elbmarsch elevated road, the Köhlbrand Bridge, and the port</h2>
+<p>South of the Elbe begins the Elbmarsch elevated road, at over four kilometres Germany's longest road bridge. It passes near the Burchardkai and Eurogate container terminals, crosses a harbour basin and the western approach to the Köhlbrand Bridge, reachable directly via its own exit. Near Moorburg the motorway climbs into the Harburg hills. At the Hamburg-Südwest triangle, the short A261 connects the A7 with the A1. The port area has sections with company premises and heavy truck traffic; there, tell us the terminal, street or gate so a vehicle can find the right access.</p>
+<h2>What we do in Hamburg</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Hamburg and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Hamburg</h2>
+<p>On the A7: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. In the Elbe Tunnel or a noise-protection tunnel: don't turn around or reverse, drive to the next emergency bay if you can, otherwise hazard lights on and raise the alarm via the emergency equipment or 112, the tunnel control centre watches the tubes by camera. On the Köhlbrand Bridge or the Elbmarsch elevated road, hazard lights are usually enough, and move as far to the side as you can, since there's no continuous hard shoulder there.</p>
+<h2>Where it often happens in Hamburg</h2>
+<p>At the transition from the city stretch into the Elbe Tunnel, traffic often brakes abruptly, as it does before the noise-protection tunnels near Schnelsen. In the roadworks zone between the Volkspark and the Elbe Tunnel, lanes narrow in places. In the port area, terminal approach roads are often tight and heavily used by trucks; there, the terminal name and gate help us most.</p>
+<h2>How to describe your location in Hamburg</h2>
+<ul class="ticks">
+<li>District and street, plus a station or a junction.</li>
+<li>On the A7: direction, last exit, the Nordwest interchange, the Volkspark, or the Elbe Tunnel.</li>
+<li>In the port: terminal, gate or street, and whether it's company premises.</li>
+<li>In water or a storm: see our guide (German) <a href="ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</li>
+</ul>
+<p>Other major cities are <a href="en-stadt-berlin.html">Berlin</a> and <a href="en-stadt-muenchen.html">Munich</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German).</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Hamburg</h2>
+<details><summary>Can you take my car from Hamburg to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Hamburg. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>I'm in the Elbe Tunnel. What do I do?</summary><div>Switch on hazard lights, move well to the side, use the emergency equipment, then call us. The tunnel control centre is staffed around the clock.</div></details>
+<details><summary>Is the Old Elbe Tunnel a motorway tunnel?</summary><div>No. The Old Elbe Tunnel from 1911 serves local city traffic. The A7 uses the New Elbe Tunnel.</div></details>
+<details><summary>Do you come into the port?</summary><div>We arrange callouts across the city. For company premises in the port, we need the terminal, gate and street, then we'll check whether access is possible.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-muenchen | Towing Service Munich: Roadside Assistance, Mittlerer Ring | Roadside assistance and towing in Munich: 25 boroughs, the Mittlerer Ring, the A8, A9, A95, A96, A99, and the low-emission zone. | page ===
+<!--AREAS: München, München-Schwabing, München-Freimann, München-Laim, München-Sendling -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Munich</p><h1>Towing Service Munich</h1><p class="lead">Break down in Munich and you're usually on the Mittlerer Ring, a motorway approach road, or in one of 25 boroughs. Tell us where, and we'll take care of the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>25 boroughs, but neighbourhoods in everyday life</h2>
+<p>Munich is divided into 25 boroughs, but day to day, locals refer to neighbourhoods and districts like Schwabing, Sendling or Haidhausen rather than a borough number. For your location, that means: tell us the neighbourhood, the street, and a U-Bahn or S-Bahn station. The borough number alone rarely helps.</p>
+<h2>The Mittlerer Ring</h2>
+<p>The Mittlerer Ring, officially the B 2 R, is about 29 kilometres long and runs entirely within the city. It's the backbone of Munich's road traffic and the fastest link to the city's main routes. Of the motorways leading into Munich, the A8 towards Salzburg, the A9 towards Nuremberg and Berlin, and the A96 towards Lindau connect directly to the ring; the A94 towards Passau reaches it via a short stretch of Einsteinstraße, and the A95 towards Garmisch-Partenkirchen via the B2. The A8 towards Stuttgart has a roughly seven-kilometre link via Verdi- and Arnulfstraße. In a breakdown on the ring, tell us your direction of travel, a tunnel or junction, for example the Richard-Strauss-Tunnel, and the nearest exit.</p>
+<h2>The A99 motorway ring</h2>
+<p>Further out, the A99, Munich's motorway ring, connects several motorways a few kilometres outside the city and lets through-traffic bypass it. It runs from the A96 in the south-west via the A8 in the north-west and the A92 to the A9 in the north, continuing to the A94 in the east and the A8 and A995 in the south. The ring still isn't fully closed today, which explains why drivers on Munich's outskirts easily get lost. If you're at an interchange or triangle on the A99, tell us its name, for example the Munich-West interchange, Munich-Nord, or the Feldmoching triangle.</p>
+<h2>The A9 ends in Schwabing</h2>
+<p>The A9, which connects Berlin and Munich, ends at the München-Schwabing exit (76) and continues from there into the Mittlerer Ring and the city street network. If you break down here, tell us your direction of travel and the exit.</p>
+<h2>Munich's low-emission zone</h2>
+<p>Munich has a low-emission zone requiring a green sticker. As far as we know, it lies within the Mittlerer Ring, and since 1 February 2023 includes the ring itself, with an exception around the Brudermühlbrücke up to the B11. The exact boundary, and what applies to your vehicle, should be checked with the city of Munich; we make no guarantees about it. If your destination is in the zone, it helps to tell us which sticker your vehicle has.</p>
+<h2>What we do in Munich</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Munich and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Munich</h2>
+<p>On the Mittlerer Ring or the approach motorways: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. In a tunnel like the Richard-Strauss-Tunnel: don't turn around or reverse, drive to the next emergency bay if you can, otherwise hazard lights on and raise the alarm via the emergency phone or 112. In a car park, hazard lights are usually enough, and if you're blocking a ramp, briefly warn other drivers.</p>
+<h2>Where it often happens in Munich</h2>
+<p>On the Mittlerer Ring, traffic is dense because of the many merges and exits, and it often brakes abruptly before tunnels. On the incomplete A99 motorway ring, unfamiliar drivers easily get lost where the ring is interrupted. Where the A9 transitions into the Mittlerer Ring near Schwabing, the road switches from motorway to city-street level, and traffic frequently slows there.</p>
+<h2>How to describe your location in Munich</h2>
+<ul class="ticks">
+<li>Neighbourhood and street, plus a U-Bahn or S-Bahn station or a junction.</li>
+<li>On the Mittlerer Ring: direction of travel, tunnel, or the nearest junction.</li>
+<li>On motorways: number, direction, exit, or interchange.</li>
+<li>In a car park: level, entrance and height, see <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Underground garage and car park</a>.</li>
+</ul>
+<p>Major connections run to <a href="en-stadt-berlin.html">Berlin</a> via the A9 and to <a href="en-stadt-hamburg.html">Hamburg</a>. General advice for a breakdown is in our guide <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German).</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Munich</h2>
+<details><summary>Can you take my car from Munich to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Munich. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>I'm on the Mittlerer Ring. What do I say?</summary><div>Your direction of travel, a tunnel or junction, and the nearest exit, plus a location shared on WhatsApp.</div></details>
+<details><summary>Does a low-emission zone apply in Munich?</summary><div>Yes, requiring a green sticker within the Mittlerer Ring. Check the exact boundary and exceptions with the city of Munich.</div></details>
+<details><summary>Where does the A9 end in Munich?</summary><div>At the München-Schwabing exit (76). After that it continues into the city street network.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-frankfurt | Towing Service Frankfurt am Main: Roadside Assistance 24/7 | Roadside assistance and towing in Frankfurt am Main: 46 districts, the Frankfurt interchange, the A5, A661, A648 and A66. | page ===
+<!--AREAS: Frankfurt am Main, Frankfurt-Flughafen, Frankfurt-Rödelheim, Frankfurt-Niederrad -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Frankfurt am Main</p><h1>Towing Service Frankfurt am Main</h1><p class="lead">Frankfurt sits at one of Europe's busiest road junctions. If you break down here, you need to know exactly whether you're on the A5, on the ring, or in one of 46 districts.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>46 districts, 16 boroughs</h2>
+<p>For statistical purposes, the city is divided into 46 districts. By name there are only 43, since the populous districts of Nordend, Sachsenhausen and Westend are each split into East/West or North/South. In everyday life, Frankfurt residents identify more with their district than with one of the 16 larger boroughs. So tell us the district, for example Bockenheim, Niederrad or Rödelheim, plus the street.</p>
+<h2>The Frankfurt interchange</h2>
+<p>South-west of the city, right next to the airport, lies the Frankfurter Kreuz, a heavily used clover-leaf motorway interchange where the A5 and A3 meet, along with the B43. The A5 has ten lanes here, and the high-speed rail tunnel for the Cologne–Rhine/Main line runs underneath the interchange. For your location, that means: tell us whether you're in the interchange, before it, or past it, and on which of the two motorways. The clover-leaf's loops all look similar from inside the vehicle, so your direction of travel is decisive.</p>
+<h2>The ring around the city: A5, A661 and A3</h2>
+<p>The A661, together with the A5 and A3, forms a motorway ring around Frankfurt. It runs from Oberursel via Bad Homburg, Frankfurt and Offenbach to Egelsbach. Its name Osttangente describes the eastern section; in the north it's called Taunusschnellweg or Feldbergzubringer. The eastern section remains only a provisional build to this day. In a breakdown there, the exit and direction of travel are the most useful details.</p>
+<h2>The A648 and the trade fair</h2>
+<p>The A648, also called the Messeautobahn, serves as an approach road from the A66 and A5 into the city centre and ends just short of the Messe Frankfurt trade-fair grounds. It starts at the Eschborn triangle, runs via the Frankfurt-Rödelheim exit to the Westkreuz Frankfurt, where it crosses the A5. If you break down during a trade fair, expect heavy traffic on the approach roads and tell us your direction.</p>
+<h2>The A66 and the Rhein-Main-Schnellweg</h2>
+<p>The A66 runs from Wiesbaden via Frankfurt and Hanau to Fulda. The Wiesbaden–Frankfurt section is called the Rhein-Main-Schnellweg, and further east it's the Kinzigtalautobahn. Near Wiesbaden, bridge works can cause closures; check current diversions via traffic radio. In a breakdown, tell us your direction of travel and the section.</p>
+<h2>Waiting safely in Frankfurt</h2>
+<p>At the Frankfurter Kreuz or on the A5, A661, A648 and A66: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. In the tunnel under the Frankfurter Kreuz or in an underground garage at the airport: don't turn around or reverse, drive to the next emergency bay or a free parking space if you can, otherwise hazard lights on and raise the alarm via the emergency phone or 112.</p>
+<h2>Where it often happens in Frankfurt</h2>
+<p>At the Frankfurter Kreuz, the clover-leaf layout creates tight curve radii, where traffic often brakes abruptly. On the A661's eastern section, the provisional layout regularly causes tailbacks. During trade-fair events, the A648 approach to the Messe is heavily used; expect slow-moving traffic there.</p>
+<h2>What we do in Frankfurt</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Frankfurt and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>How to describe your location in Frankfurt</h2>
+<ul class="ticks">
+<li>District and street, plus a junction or an S-Bahn station.</li>
+<li>On motorways: number, direction, exit, interchange, or triangle.</li>
+<li>At the airport: terminal, car park, and level.</li>
+<li>On the trade-fair approach road: the A648, towards the Messe or away from it.</li>
+</ul>
+<p>More large cities are listed at <a href="staedte.html">Towing service in your city</a> (German), for example <a href="en-stadt-stuttgart.html">Stuttgart</a> and <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne</a>, connected to Frankfurt via the A3.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Frankfurt</h2>
+<details><summary>Can you take my car from Frankfurt to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Frankfurt. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>I'm at the Frankfurter Kreuz. What do I say?</summary><div>Tell us the motorway, your direction of travel, and whether you're in the interchange, before it, or past it. A location shared on WhatsApp helps.</div></details>
+<details><summary>What is the A648?</summary><div>The Messeautobahn, an approach road from the A66 and A5 into the city centre, ending just short of the trade-fair grounds.</div></details>
+<details><summary>Do you come to the airport too?</summary><div>We arrange callouts across the city including the approach roads. Tell us the terminal or car park and level, and we'll check access.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-stuttgart | Towing Service Stuttgart: Roadside Assistance in the Valley Basin | Roadside assistance and towing in Stuttgart: 23 boroughs, tunnels like the Heslach and Wagenburg tunnels, the A8, A81, A831, and the valley-basin setting. | page ===
+<!--AREAS: Stuttgart, Stuttgart-Mitte, Stuttgart-Vaihingen, Stuttgart-Bad Cannstatt, Stuttgart-Degerloch -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stuttgart</p><h1>Towing Service Stuttgart</h1><p class="lead">Stuttgart sits in a valley basin and is a city of tunnels and gradients. If you break down here, you're rarely on level ground. Tell us where you are, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Between forest and vineyards: the basin</h2>
+<p>The city centre lies in the Stuttgart basin, a valley shaped by the Nesenbach stream and its tributaries. The city area spans an elevation difference of almost 350 metres, from 207 metres at the Neckar lock in Hofen to 549 metres at the Bernhartshöhe near the motorway interchange. For a breakdown, this terrain matters: much depends on whether you're on an incline or a descent. A stranded car on a slope is a different job from one on level ground. Tell us whether you're on a hill and which way the vehicle might roll, and if you have brake trouble, see our guide <a href="en-ratgeber-bremsen-versagen.html">Brakes failing</a>.</p>
+<h2>23 boroughs, 152 districts</h2>
+<p>Administratively, the city is split into five inner and 18 outer boroughs, 23 in total, with 152 districts. Tell us the district and street, for example Vaihingen, Bad Cannstatt or Degerloch, plus a tram stop. A house number and cross street are especially useful in a hilly city, since parallel streets can sit at different elevations.</p>
+<h2>A city of tunnels</h2>
+<p>Because of the hilly terrain, Stuttgart is also a city of tunnels, for roads, railways, S-Bahn and trams. Road tunnels include the Wagenburgtunnel with an 824-metre southern tube, the 2,300-metre Heslacher Tunnel, on the B14 the Viereichenhau tunnel (290 metres) and the Gäubahn tunnel (450 metres), the 124-metre Schwabtunnel, the B10's Pragsattel tunnel (720 metres), and the 1,300-metre Rosenstein tunnel under the Wilhelma zoo. The A831 in Vaihingen also has the roughly 200-metre Johannesgraben tunnel. If you break down in a tunnel: hazard lights on, move well to the side, use the emergency equipment, more in our guide <a href="en-ratgeber-panne-im-tunnel.html">Breakdown in a tunnel</a>. Tell us the tunnel's name and your direction.</p>
+<h2>A8, A81 and A831</h2>
+<p>At the Stuttgart interchange, the shared route of the A8 and A81 ends. From there the A81 continues south, while the short A831 branches off towards central Stuttgart and runs to Vaihingen. The A8 widens back to six lanes and leads out of the Glemswald forest onto the Filder, a plateau south of the city. The state capital is bypassed to the west on a large scale by the A81, and the motorway-standard B10 provides access into the city centre. In a breakdown on any of these routes, tell us the motorway, direction, and exit or interchange, for example the Leonberg triangle or the Stuttgart interchange.</p>
+<h2>What we do in Stuttgart</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Stuttgart and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Stuttgart</h2>
+<p>On the A8, A81 or A831: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. In one of the tunnels: don't turn around or reverse, drive to the next emergency bay if you can, otherwise hazard lights on and raise the alarm via the emergency equipment or 112. On a slope in the basin: apply the handbrake and engage a gear, hazard lights on before you get out.</p>
+<h2>Where it often happens in Stuttgart</h2>
+<p>On the climbs out of the basin, driving badly can overheat brakes and the clutch, especially in summer traffic jams. In the tunnels, such as the Heslacher Tunnel, traffic often slows before junctions. At the Stuttgart interchange, where the A8 and A81 meet, traffic is denser than on the open stretches because of the lane changes towards the A831.</p>
+<h2>How to describe your location in Stuttgart</h2>
+<ul class="ticks">
+<li>District, street, and house number or cross street, plus a tram stop.</li>
+<li>On a slope: whether you're facing uphill or downhill.</li>
+<li>In tunnels: name and direction of travel.</li>
+<li>On motorways: number, direction, exit or interchange.</li>
+</ul>
+<p>Other cities include <a href="en-stadt-frankfurt.html">Frankfurt am Main</a> and, via the A8, <a href="en-abschleppdienst-karlsruhe.html">Karlsruhe</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German).</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Stuttgart</h2>
+<details><summary>Can you take my car from Stuttgart to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Stuttgart. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>I'm in the Heslacher Tunnel. What do I do?</summary><div>Switch on hazard lights, move well to the side, use the emergency equipment, then call us. Tell us the tunnel's name and direction of travel.</div></details>
+<details><summary>Why is Stuttgart special in a breakdown?</summary><div>Because of the valley-basin setting with gradients, descents and many tunnels. Telling us whether you're on a slope and the tunnel's name helps the driver.</div></details>
+<details><summary>What are the A81 and A831?</summary><div>The A81 runs south from the Stuttgart interchange; the short A831 heads towards the city centre and Vaihingen.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-duesseldorf | Towing Service Düsseldorf: Roadside Assistance, Rhine Bridges | Roadside assistance and towing in Düsseldorf: ten boroughs, Rhine bridges, the riverside tunnel, the A44, A46, A52, and the airport. | page ===
+<!--AREAS: Düsseldorf, Düsseldorf-Bilk, Düsseldorf-Oberkassel, Düsseldorf-Heerdt, Düsseldorf-Flughafen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Düsseldorf</p><h1>Towing Service Düsseldorf</h1><p class="lead">Düsseldorf sits on the Rhine, shaped by bridges, tunnels and a motorway ring. If you break down here, you should know which side of the Rhine you're on.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ten unnamed boroughs</h2>
+<p>Unlike other big cities in North Rhine-Westphalia, Düsseldorf's ten boroughs have no names of their own, just numbers 1 to 10. Together they cover 50 districts. Borough 3, for example, includes Bilk, Flehe, Friedrichstadt, Hafen, Hamm, Oberbilk, Unterbilk and Volmerswerth. Hardly anyone can place a borough number, so tell us the district, the street, and which side of the Rhine, left or right bank.</p>
+<h2>The "bridge family" on the Rhine</h2>
+<p>Düsseldorf's "bridge family" is a collective name for three central cable-stayed bridges: the Theodor-Heuss-Brücke, the Oberkasseler Brücke, and the Rheinkniebrücke. The Theodor-Heuss-Brücke connects Golzheim and Niederkassel; the Oberkasseler Brücke links the city centre with Oberkassel. In a breakdown on a bridge: crossing the Rhine can't be rerouted arbitrarily, so tell us the bridge, your direction of travel, and which bank you're on, so a driver can choose the right route.</p>
+<h2>The riverside tunnel</h2>
+<p>The Rheinufertunnel carries road traffic underground past the old town, with the Rhine promenade running above ground along the water. If you break down in the tunnel: hazard lights on, move well to the side, use the emergency equipment, more in our guide <a href="en-ratgeber-panne-im-tunnel.html">Breakdown in a tunnel</a>. Tell us the tunnel's name and your direction of travel.</p>
+<h2>Motorways and the city motorway</h2>
+<p>The A44 passes Düsseldorf Airport, with the airport exit partly running through a tunnel, and meets the A52 at the Düsseldorf-Nord interchange. It forms the northern part of Düsseldorf's motorway ring. The A46 crosses the Rhine near Neuss on the Flehe bridge, runs through two tunnels in the south of the city, under the university campus and in the Wersten district, and reaches the Düsseldorf-Süd triangle. Between Meerbusch-Büderich and Düsseldorf-Rath, the A52 isn't built as a continuous motorway: the B7 and B1 close the gap as a city motorway. It crosses the Rhine on the Theodor-Heuss-Brücke. At the Heerdt triangle, also called the Rheinkniebrücke junction, the B7 forks in Heerdt at the border with Oberkassel. In such cases, the name of the junction and your direction matter most.</p>
+<h2>What we do in Düsseldorf</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Düsseldorf and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Düsseldorf</h2>
+<p>On a Rhine bridge: hazard lights on, move well to the side if you can, since bridges often have no wide hard shoulder, set up a warning triangle if it's safe to do so. In the riverside tunnel or a motorway tunnel: don't turn around or reverse, drive to the next emergency bay if you can, otherwise hazard lights on and raise the alarm via the emergency equipment or 112.</p>
+<h2>Where it often happens in Düsseldorf</h2>
+<p>On the Rhine bridges, lane changes at the bridgeheads often cause heavy traffic. At the Düsseldorf-Nord interchange, where the A44 and A52 meet, traffic is denser because of the airport nearby. In the riverside tunnel, traffic frequently brakes before the entrances and exits near the old town.</p>
+<h2>How to describe your location in Düsseldorf</h2>
+<ul class="ticks">
+<li>District and street, plus which side of the Rhine (left or right bank).</li>
+<li>On bridges: name, direction of travel, whether you're before or past it.</li>
+<li>On motorways: A44, A46, A52, direction, exit, interchange or triangle.</li>
+<li>At the airport: terminal, car park, level, access road.</li>
+</ul>
+<p>Other large cities: <a href="en-stadt-frankfurt.html">Frankfurt am Main</a> and <a href="en-stadt-stuttgart.html">Stuttgart</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German). General advice: <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Düsseldorf</h2>
+<details><summary>Can you take my car from Düsseldorf to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Düsseldorf. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>I'm on a Rhine bridge. What do I say?</summary><div>Tell us the bridge, your direction of travel, and which side of the Rhine. A location shared on WhatsApp helps.</div></details>
+<details><summary>What is the Heerdter Dreieck?</summary><div>A junction in Heerdt where the B7 forks. It's also called the Rheinkniebrücke junction.</div></details>
+<details><summary>Do you come to the airport too?</summary><div>We arrange callouts across the city including the approach roads. Tell us the terminal or car park and level, and we'll check access.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-dortmund | Towing Service Dortmund: Roadside Assistance A40, A45, A2 | Roadside assistance and towing in Dortmund: twelve boroughs, the A40 Ruhrschnellweg, the Westfalendamm, the A45, A2, and motorway ring. | page ===
+<!--AREAS: Dortmund, Dortmund-Hörde, Dortmund-Eving, Dortmund-Brackel, Dortmund-Aplerbeck -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dortmund</p><h1>Towing Service Dortmund</h1><p class="lead">Dortmund sits in the eastern Ruhr area on a dense network of the A40, A45 and A2. If you break down here, you're often in traffic. Tell us where, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Twelve boroughs around the city centre</h2>
+<p>Dortmund is divided into twelve boroughs: the three city-centre boroughs West, Nord and Ost, and a ring of nine further boroughs, clockwise from the north: Eving, Scharnhorst, Brackel, Aplerbeck, Hörde, Hombruch, Lütgendortmund, Huckarde and Mengede. The borough alone rarely helps with your location. Tell us the district and street, for example Wickede, Kirchlinde or Hombruch.</p>
+<h2>The A40: Ruhrschnellweg and traffic-jam champion</h2>
+<p>The A40 runs almost exactly west to east through Duisburg, Mülheim, Essen and Bochum to Dortmund. This stretch is called the Ruhrschnellweg. Several sections carry over 100,000 vehicles a day, and the stretch between Essen and Dortmund is especially prone to jams. For you, that means: if you break down here, expect slow-moving traffic, and a driver needs time to reach you. We don't give a fixed arrival time because of this.</p>
+<h2>The Westfalendamm in the city</h2>
+<p>In Dortmund, the B1 runs as a city street via the Rheinlanddamm and Westfalendamm, one of the city's most important main roads. The Westfalendamm lies in the Innenstadt-Ost borough. Tram line U47 runs along its central reservation, above ground, for almost the entire stretch built as a city street. If your vehicle breaks down there, don't push it onto the tram tracks in the central reservation. Tell us the street, your direction of travel, and the nearest stop.</p>
+<h2>The A45, A2 and the motorway ring</h2>
+<p>The A45 starts at the Dortmund-Nordwest interchange, where it connects to the A2. The junction is still designed so the A45 could later be extended north to Olfen. Further south it reaches the A1 at the Westhofen interchange near Schwerte, leaving Dortmund's motorway ring behind. From the Dortmund-Nordwest interchange, the A2 forms the northern part of the ring. The A2 also has exit 14, originally built only as access to the landfill site in Dortmund-Lanstrop. In a motorway breakdown, tell us the number, direction, and exit or interchange.</p>
+<h2>Airport and port</h2>
+<p>Dortmund has an airport in the east of the city and a large canal port. In a breakdown in the port area, the same applies as on other company premises: tell us the street, gate or quay, so a vehicle finds the right access.</p>
+<h2>What we do in Dortmund</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Dortmund and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Dortmund</h2>
+<p>On the A40, A45 or A2: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. On the Westfalendamm: don't push the vehicle onto the tram tracks, hazard lights on, wait on the hard shoulder or the edge of the carriageway. In the port or airport area, hazard lights are usually enough, and briefly warn others if you're blocking an access road.</p>
+<h2>Where it often happens in Dortmund</h2>
+<p>Between Essen and Dortmund, the A40 is especially prone to jams, with more frequent rear-end collisions when traffic suddenly stops. At the Dortmund-Nordwest interchange, where the A45 and A2 meet, traffic is denser because of lane changes. On the Westfalendamm, traffic lights before tram stops often cause slow-moving traffic.</p>
+<h2>How to describe your location in Dortmund</h2>
+<ul class="ticks">
+<li>District and street, plus house number, cross street, or a tram stop.</li>
+<li>On the A40, A45 or A2: motorway, direction, exit, interchange or triangle.</li>
+<li>On the Westfalendamm: direction of travel and whether you're on the carriageway or next to the tram tracks.</li>
+<li>In the port or at the airport: street, gate, terminal, car park and level.</li>
+</ul>
+<p>Other Ruhr-area cities on this page: <a href="en-stadt-essen.html">Essen</a> lies on the A40 west of Dortmund, and <a href="en-stadt-duesseldorf.html">Düsseldorf</a> on the Rhine. All cities: <a href="staedte.html">Towing service in your city</a> (German).</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Dortmund</h2>
+<details><summary>Can you take my car from Dortmund to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Dortmund. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>I'm on the A40. What do I say?</summary><div>Tell us your direction of travel and the last or next exit. A location shared on WhatsApp helps too.</div></details>
+<details><summary>Why don't you give a fixed arrival time?</summary><div>The A40 between Essen and Dortmund is especially prone to jams, so travel time varies a lot. We give you a realistic estimate on the phone rather than a fixed promise.</div></details>
+<details><summary>Do you come to the airport or the port too?</summary><div>We arrange callouts across the city. Tell us the gate, terminal or car park, and we'll check access.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-essen | Towing Service Essen: Roadside Assistance A40, A52, A42 | Roadside assistance and towing in Essen: nine boroughs, the Ruhrschnellweg, the A52 with the Mintard Ruhr valley bridge, the A42, and Lake Baldeney. | page ===
+<!--AREAS: Essen, Essen-Werden, Essen-Rüttenscheid, Essen-Karnap, Essen-Kupferdreh -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Essen</p><h1>Towing Service Essen</h1><p class="lead">Essen sits at the centre of the Ruhr area, split between a dense north and a green south along the Ruhr river. If you break down here, it helps to know which part of the city you're in.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Nine boroughs, 50 districts</h2>
+<p>The city is made up of nine boroughs, identified by Roman numerals and a name, split into 50 districts in total. For your location, the district name and street help more than the borough number, for example Rüttenscheid, Karnap, Werden or Kupferdreh.</p>
+<h2>Split in two: north and south</h2>
+<p>The city is clearly split between densely populated northern districts around the city centre and a southern area shaped by green space and smaller-scale development. In the south, the Ruhr dams up between Kupferdreh, Heisingen, Fischlaken and Werden to form Lake Baldeney. For you, that has a practical consequence: the south has sloped terrain and narrow streets, the north has dense development with commercial and industrial land. Both affect which vehicle can reach you.</p>
+<h2>The Ruhrschnellweg and its tunnel</h2>
+<p>The A40, called the Ruhrschnellweg in the Essen section, runs centrally through the city and through the Ruhrschnellweg tunnel. If you break down in the tunnel: hazard lights on, move well to the side, use the emergency equipment, more in our guide <a href="en-ratgeber-panne-im-tunnel.html">Breakdown in a tunnel</a>. Between Essen and Dortmund the A40 is especially prone to jams, so expect slow-moving traffic there.</p>
+<h2>A52: the Mintard Ruhr valley bridge and the Huttrop tunnel</h2>
+<p>Coming from Düsseldorf, the A52 reaches Essen via the roughly 1,830-metre Mintard Ruhr valley bridge in Mülheim's Mintard district. Next comes the 340-metre Huttrop tunnel. This section ends at the A40 at the Essen-Ost triangle. Between the Essen-Ost triangle and the Essen-Nord exit on the A42, there's no properly built connecting gap: near the Essen-Nord exit, the B224 is already built to motorway standard and designated a motor road, and further towards Gladbeck it has four lanes. If you're between these points, tell us the road and direction of travel, since motorway and federal road alternate there.</p>
+<h2>A42: the Emscherschnellweg in the north</h2>
+<p>The A42 runs as the Emscherschnellweg through Bottrop, northern Essen, Gelsenkirchen, Herne and Castrop-Rauxel to Dortmund. If you're on the A42 in northern Essen, tell us the Essen-Nord interchange, the exit, and your direction.</p>
+<h2>What we do in Essen</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Essen and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Essen</h2>
+<p>On the A40, A52 or A42: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. In the Ruhrschnellweg tunnel or the Huttrop tunnel: don't turn around or reverse, drive to the next emergency bay if you can, otherwise hazard lights on and raise the alarm via the emergency equipment or 112. At Lake Baldeney: hazard lights on and, if possible, pull into a car park rather than stopping by the shore.</p>
+<h2>Where it often happens in Essen</h2>
+<p>Between Essen and Dortmund, the A40 is especially prone to jams, with more frequent sudden stops. On the Mintard Ruhr valley bridge and in the Huttrop tunnel, traffic narrows in places. Between the Essen-Ost triangle and the Essen-Nord exit, motorway and federal road alternate, causing unfamiliar lane changes.</p>
+<h2>How to describe your location in Essen</h2>
+<ul class="ticks">
+<li>District and street, plus house number or cross street.</li>
+<li>On the A40, A52 or A42: motorway, direction, exit, interchange or triangle.</li>
+<li>At Lake Baldeney: street, car park or jetty.</li>
+<li>In a tunnel: name, direction of travel, nearest exit.</li>
+</ul>
+<p>Neighbouring cities in the Ruhr area are <a href="en-stadt-dortmund.html">Dortmund</a> and <a href="en-stadt-duesseldorf.html">Düsseldorf</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German).</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Essen</h2>
+<details><summary>Can you take my car from Essen to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Essen. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>I'm in the Ruhrschnellweg tunnel. What do I do?</summary><div>Switch on hazard lights, move well to the side, use the emergency equipment, then call us. Tell us your direction of travel and the nearest exit.</div></details>
+<details><summary>I'm on the Mintard Ruhr valley bridge. What now?</summary><div>Hazard lights on, move well to the side if you can, then call and tell us your direction and the bridge.</div></details>
+<details><summary>What is the Emscherschnellweg?</summary><div>The nickname for the A42, which runs through Bottrop, northern Essen, Gelsenkirchen, Herne and Castrop-Rauxel to Dortmund.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-leipzig | Towing Service Leipzig: Roadside Assistance, A14, A38, Ring | Roadside assistance and towing in Leipzig: ten boroughs, 63 localities, the A14, A38 southern bypass, the Mitteldeutsche Schleife, and the Mittlerer Ring. | page ===
+<!--AREAS: Leipzig, Leipzig-Gohlis, Leipzig-Wahren, Leipzig-Stötteritz, Leipzig-Wiederitzsch -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Leipzig</p><h1>Towing Service Leipzig</h1><p class="lead">Leipzig is Saxony's most populous city, sitting between the A14, A38, and the outer motorway ring. Tell us where you are, and we'll coordinate roadside assistance and towing.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Boroughs, localities and districts</h2>
+<p>Leipzig is administratively divided into ten boroughs containing 63 localities. Districts, by contrast, are areas formed by the incorporation of previously independent villages, so district and locality boundaries don't always match. For your location: tell us the name the place is known by, for example Gohlis, Wahren or Stötteritz, plus the street.</p>
+<h2>Three rings around the city centre</h2>
+<p>Leipzig's Mittlerer Ring is meant to carry federal-road traffic between the outer districts, sitting between the outer motorway ring (the Mitteldeutsche Schleife) and, further in, the Tangentenviereck and the city-centre ring. It's only partly finished: in the north, only part of the full route between Gohlis (Landsberger Straße) and Wahren (Pittlerstraße) is built, and in the south a larger gap remains between Stötteritz and Knautkleeberg. This matters to you because a road on the ring can suddenly end or turn into a city street. Tell us your direction of travel and the cross street.</p>
+<h2>The A14 and northern Leipzig</h2>
+<p>The A14 runs through northern Leipzig. At the Parthenaue triangle it connects with the A38, offering an alternative route towards Erfurt, Munich and Dresden meant to relieve the A14 through northern Leipzig. If you break down there, tell us the motorway, direction, and exit or triangle.</p>
+<h2>The A38 as a southern bypass</h2>
+<p>The A38, the Südharzautobahn, branches off the A7 south of Göttingen and runs via Heiligenstadt, Nordhausen and Sangerhausen to Leipzig. Between the Rippachtal interchange and the Parthenaue triangle it forms Leipzig's southern bypass, also called the Südtangente. When describing your location, the name of the junction helps.</p>
+<h2>The trade fair and lignite lakes</h2>
+<p>Around Leipzig, several lakes have formed from flooded former lignite open-pit mines. Car parks by the lakes and at the trade-fair grounds often have no house number. Tell us the name of the car park, the lake, or the hall instead.</p>
+<h2>What we do in Leipzig</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Leipzig and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Leipzig</h2>
+<p>On the A14 or A38: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. On the Mittlerer Ring, where roads can end abruptly or turn into a city street: hazard lights on and, if possible, pull onto a hard shoulder or car park. By a lake or at the trade-fair grounds: hazard lights on and move the vehicle as far from the carriageway as possible.</p>
+<h2>Where it often happens in Leipzig</h2>
+<p>On the incomplete Mittlerer Ring, unfamiliar drivers easily get lost where a road ends. At the Parthenaue triangle, where the A14 and A38 meet, traffic is denser because of lane changes. At car parks with no address around the lakes and the trade-fair grounds, pinpointing the exact location takes longer, so a WhatsApp location helps especially here.</p>
+<h2>How to describe your location in Leipzig</h2>
+<ul class="ticks">
+<li>District or locality and street, plus house number or cross street.</li>
+<li>On the A14 or A38: number, direction, exit, interchange or triangle.</li>
+<li>On the Mittlerer Ring: direction of travel and cross street.</li>
+<li>By lakes or at the trade-fair grounds: car park, hall or access road.</li>
+</ul>
+<p>Other major cities to the north and east: <a href="en-stadt-berlin.html">Berlin</a> and <a href="en-stadt-hamburg.html">Hamburg</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German).</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Leipzig</h2>
+<details><summary>Can you take my car from Leipzig to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Leipzig. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>What is the Mitteldeutsche Schleife?</summary><div>The outer motorway ring around Leipzig, carrying traffic between the federal roads and the Mittlerer Ring.</div></details>
+<details><summary>What is the Parthenaue triangle?</summary><div>The junction connecting the A14 to the A38. It's meant to relieve the A14 through northern Leipzig.</div></details>
+<details><summary>I'm at a lake with no address. What do I say?</summary><div>Tell us the name of the lake and the car park, and send your location on WhatsApp.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-bremen | Towing Service Bremen: Roadside Assistance, A1, A27, A281 | Roadside assistance and towing in Bremen: five boroughs, the A1, A27 with the Bremen interchange, the A281, and the Weser tunnel plan. | page ===
+<!--AREAS: Bremen, Bremen-Vahr, Bremen-Arsten, Bremen-Hemelingen, Bremen-Gröpelingen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bremen</p><h1>Towing Service Bremen</h1><p class="lead">Bremen is entirely surrounded by Lower Saxony, bypassed by the A1 to the south while the A27 passes to the east. Tell us where you are, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Five boroughs, 88 localities</h2>
+<p>The city is divided into five boroughs with 88 localities in total, most of them grouped into 18 districts. For your location, the district and street help, since the borough number is barely known day to day.</p>
+<h2>A city entirely surrounded by Lower Saxony</h2>
+<p>Bremen is completely enclosed by the state of Lower Saxony. For a breakdown, that means: if you break down on the motorway around Bremen, you're often already in Lower Saxony. The A1 bypasses Bremen to the south, and only a few kilometres actually lie within the free Hanseatic city itself. Between the Hemelingen and Arsten districts it crosses the Weser. So tell us the exit and direction of travel, not just the place name.</p>
+<h2>The A27 and the Bremen interchange</h2>
+<p>The A27 runs as an eastern bypass past Bremerhaven and Bremen to the Bremen interchange with the A1. Because it connects to the ports, the A27 carries heavy volumes of freight traffic, including via the Bremen-Vahr, Bremen-Sebaldsbrück, Überseestadt, and Horn-Lehe exits. In a breakdown there, the exit is your most important landmark.</p>
+<h2>The A281 and the missing link</h2>
+<p>The A281 in Bremen currently runs for eleven kilometres in two separate sections. Once complete, together with the planned Weser tunnel it's meant to close a ring around Bremen north of the city's own ports and Gröpelingen, connecting the A27 at the Bremen-Industriehäfen triangle via Woltmershausen to the Bremen/Arsten exit of the A1. Closing the gap needs a new Weser tunnel, so the ring remains unclosed for now. Check traffic radio for the current state of the roadworks; we make no statements about it.</p>
+<h2>What we do in Bremen</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Bremen and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Bremen</h2>
+<p>On the A1, A27 or A281: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. Since the A1 and A281 often run close to the border with Lower Saxony here, just tell us the motorway, direction and exit regardless, that's enough for recovery. In the port area, hazard lights are usually enough, and briefly warn others if you're blocking an access road.</p>
+<h2>Where it often happens in Bremen</h2>
+<p>At the Bremen interchange, where the A1 and A27 meet, traffic is denser due to heavy freight traffic to the ports. On the incomplete A281, a journey can suddenly switch to an ordinary road since the ring isn't closed yet. In the port areas, access roads are often narrow and heavily used by trucks.</p>
+<h2>How to describe your location in Bremen</h2>
+<ul class="ticks">
+<li>District and street, plus house number or cross street.</li>
+<li>On the A1, A27 or A281: number, direction, exit, interchange or triangle.</li>
+<li>In the port area: street, gate or quay, plus the Überseestadt exit.</li>
+<li>In wind or rain: see our guide (German) <a href="ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</li>
+</ul>
+<p>The neighbouring city to the north is <a href="en-stadt-hamburg.html">Hamburg</a>; other major cities are <a href="en-stadt-dortmund.html">Dortmund</a> and <a href="en-stadt-essen.html">Essen</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German).</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Bremen</h2>
+<details><summary>Can you take my car from Bremen to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Bremen. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>Is the A1 in Bremen?</summary><div>It bypasses Bremen to the south, with only a few kilometres inside the free Hanseatic city. Between Hemelingen and Arsten it crosses the Weser.</div></details>
+<details><summary>What is the A281?</summary><div>An eleven-kilometre motorway in Bremen built in two sections, meant to close a ring north of the ports together with a planned Weser tunnel.</div></details>
+<details><summary>Do you come to the port area too?</summary><div>We arrange callouts across the city. Tell us the street, gate or quay, and we'll check access.</div></details>
+</div></section>
+@@CTA@@
