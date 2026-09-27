@@ -114,17 +114,17 @@ stadt-bamberg	Bamberg	Bayern
 stadt-bayreuth	Bayreuth	Bayern	
 stadt-ludwigsburg	Ludwigsburg	Baden-Württemberg	
 stadt-landshut	Landshut	Bayern	
-autobahn-a10	A10 Berliner Ring	A10	
-autobahn-a14	A14 Wismar bis Nossen	A14	
-autobahn-a20	A20 Uckermark bis Lübeck	A20	
-autobahn-a24	A24 Hamburg bis Berlin	A24	
-autobahn-a31	A31 Emden bis Bottrop	A31	
-autobahn-a27	A27 Cuxhaven bis Walsrode	A27	
-autobahn-a28	A28 Leer bis Stuhr	A28	
-autobahn-a29	A29 Wilhelmshaven bis Ahlhorner Heide	A29	
-autobahn-a30	A30 Bad Bentheim bis Bad Oeynhausen	A30	
-autobahn-a42	A42 Kamp-Lintfort bis Dortmund	A42	
-autobahn-a43	A43 Münster bis Wuppertal	A43	
+autobahn-a10	A10 Berliner Ring	A10	ab
+autobahn-a14	A14 Wismar bis Nossen	A14	ab
+autobahn-a20	A20 Uckermark bis Lübeck	A20	ab
+autobahn-a24	A24 Hamburg bis Berlin	A24	ab
+autobahn-a31	A31 Emden bis Bottrop	A31	ab
+autobahn-a27	A27 Cuxhaven bis Walsrode	A27	ab
+autobahn-a28	A28 Leer bis Stuhr	A28	ab
+autobahn-a29	A29 Wilhelmshaven bis Ahlhorner Heide	A29	ab
+autobahn-a30	A30 Bad Bentheim bis Bad Oeynhausen	A30	ab
+autobahn-a42	A42 Kamp-Lintfort bis Dortmund	A42	ab
+autobahn-a43	A43 Münster bis Wuppertal	A43	ab
 stadt-wilhelmshaven	Wilhelmshaven	Niedersachsen	
 stadt-emden	Emden	Niedersachsen	
 stadt-lueneburg	Lüneburg	Niedersachsen	
@@ -143,20 +143,20 @@ stadt-frankfurt-oder	Frankfurt (Oder)	Brandenburg
 stadt-plauen	Plauen	Sachsen	
 stadt-weimar	Weimar	Thüringen	
 stadt-eisenach	Eisenach	Thüringen	
-autobahn-a52	A52 Elmpt bis Essen	A52	
-autobahn-a57	A57 Goch bis Köln	A57	
-autobahn-a59	A59 Duisburg bis Bonn	A59	
-autobahn-a71	A71 Sangerhausen bis Schweinfurt	A71	
-autobahn-a72	A72 Hof bis Leipzig	A72	
-autobahn-a73	A73 Suhl bis Nürnberg	A73	
-autobahn-a92	A92 München bis Deggendorf	A92	
-autobahn-a93	A93 Hof bis Kiefersfelden	A93	
-autobahn-a94	A94 München bis Burghausen	A94	
-autobahn-a96	A96 Lindau bis München	A96	
-autobahn-a13	A13 Schönefeld bis Dresden	A13	
-autobahn-a17	A17 Dresden bis Tschechien	A17	
-autobahn-a38	A38 Göttingen bis Leipzig	A38	
-autobahn-a67	A67 Rüsselsheim bis Viernheim	A67	
+autobahn-a52	A52 Elmpt bis Essen	A52	ab
+autobahn-a57	A57 Goch bis Köln	A57	ab
+autobahn-a59	A59 Duisburg bis Bonn	A59	ab
+autobahn-a71	A71 Sangerhausen bis Schweinfurt	A71	ab
+autobahn-a72	A72 Hof bis Leipzig	A72	ab
+autobahn-a73	A73 Suhl bis Nürnberg	A73	ab
+autobahn-a92	A92 München bis Deggendorf	A92	ab
+autobahn-a93	A93 Hof bis Kiefersfelden	A93	ab
+autobahn-a94	A94 München bis Burghausen	A94	ab
+autobahn-a96	A96 Lindau bis München	A96	ab
+autobahn-a13	A13 Schönefeld bis Dresden	A13	ab
+autobahn-a17	A17 Dresden bis Tschechien	A17	ab
+autobahn-a38	A38 Göttingen bis Leipzig	A38	ab
+autobahn-a67	A67 Rüsselsheim bis Viernheim	A67	ab
 stadt-zwickau	Zwickau	Sachsen	
 stadt-gera	Gera	Thüringen	
 stadt-esslingen	Esslingen am Neckar	Baden-Württemberg	
@@ -173,10 +173,10 @@ stadt-dessau-rosslau	Dessau-Roßlau	Sachsen-Anhalt
 stadt-ratingen	Ratingen	Nordrhein-Westfalen	
 stadt-ruesselsheim	Rüsselsheim am Main	Hessen	
 stadt-straubing	Straubing	Bayern	
-autobahn-a33	A33 Osnabrück bis Paderborn	A33	
-autobahn-a95	A95 München bis Eschenlohe	A95	
-autobahn-a565	A565 Bonn	A565	
-autobahn-a656	A656 Mannheim bis Heidelberg	A656	
+autobahn-a33	A33 Osnabrück bis Paderborn	A33	ab
+autobahn-a95	A95 München bis Eschenlohe	A95	ab
+autobahn-a565	A565 Bonn	A565	ab
+autobahn-a656	A656 Mannheim bis Heidelberg	A656	ab
 stadt-berlin-mitte	Berlin-Mitte	Berlin	
 stadt-berlin-friedrichshain-kreuzberg	Berlin Friedrichshain-Kreuzberg	Berlin	
 stadt-berlin-pankow	Berlin-Pankow	Berlin	
@@ -202,30 +202,30 @@ stadt-minden	Minden	Nordrhein-Westfalen
 stadt-gladbeck	Gladbeck	Nordrhein-Westfalen	
 stadt-memmingen	Memmingen	Bayern	
 stadt-iserlohn	Iserlohn	Nordrhein-Westfalen	
-autobahn-a46	A46 Heinsberg bis Olsberg	A46	
-autobahn-a39	A39 Hamburg bis Salzgitter	A39	
-autobahn-a48	A48 Daun bis Dernbach	A48	
-autobahn-a49	A49 Kassel bis Ohmtal	A49	
-autobahn-a60	A60 Eifel und Mainz	A60	
-autobahn-a62	A62 Nonnweiler bis Pirmasens	A62	
-autobahn-a66	A66 Wiesbaden bis Fulda	A66	
-autobahn-a63	A63 Mainz bis Kaiserslautern	A63	
-autobahn-a65	A65 Ludwigshafen bis Wörth	A65	
-autobahn-a64	A64 Luxemburg bis Trier	A64	
-autobahn-a100	A100 Berlin Stadtring	A100	
-autobahn-a99	A99 München Ring	A99	
-autobahn-a70	A70 Schweinfurt bis Bayreuth	A70	
-autobahn-a11	A11 Pomellen bis Berlin	A11	
-autobahn-a12	A12 Berlin bis Frankfurt (Oder)	A12	
-autobahn-a15	A15 Spreewald bis Forst	A15	
-autobahn-a19	A19 Rostock bis Wittstock	A19	
-autobahn-a23	A23 Hamburg bis Heide	A23	
-autobahn-a25	A25 Hamburg bis Geesthacht	A25	
-autobahn-a36	A36 Braunschweig bis Bernburg	A36	
-autobahn-a98	A98 Weil am Rhein bis Stockach	A98	
-autobahn-a111	A111 Berlin Zubringer Oranienburg	A111	
-autobahn-a115	A115 Berlin AVUS	A115	
-autobahn-a113	A113 Berlin Zubringer Schönefeld	A113	
-autobahn-a620	A620 Saarlouis bis Saarbrücken	A620	
+autobahn-a46	A46 Heinsberg bis Olsberg	A46	ab
+autobahn-a39	A39 Hamburg bis Salzgitter	A39	ab
+autobahn-a48	A48 Daun bis Dernbach	A48	ab
+autobahn-a49	A49 Kassel bis Ohmtal	A49	ab
+autobahn-a60	A60 Eifel und Mainz	A60	ab
+autobahn-a62	A62 Nonnweiler bis Pirmasens	A62	ab
+autobahn-a66	A66 Wiesbaden bis Fulda	A66	ab
+autobahn-a63	A63 Mainz bis Kaiserslautern	A63	ab
+autobahn-a65	A65 Ludwigshafen bis Wörth	A65	ab
+autobahn-a64	A64 Luxemburg bis Trier	A64	ab
+autobahn-a100	A100 Berlin Stadtring	A100	ab
+autobahn-a99	A99 München Ring	A99	ab
+autobahn-a70	A70 Schweinfurt bis Bayreuth	A70	ab
+autobahn-a11	A11 Pomellen bis Berlin	A11	ab
+autobahn-a12	A12 Berlin bis Frankfurt (Oder)	A12	ab
+autobahn-a15	A15 Spreewald bis Forst	A15	ab
+autobahn-a19	A19 Rostock bis Wittstock	A19	ab
+autobahn-a23	A23 Hamburg bis Heide	A23	ab
+autobahn-a25	A25 Hamburg bis Geesthacht	A25	ab
+autobahn-a36	A36 Braunschweig bis Bernburg	A36	ab
+autobahn-a98	A98 Weil am Rhein bis Stockach	A98	ab
+autobahn-a111	A111 Berlin Zubringer Oranienburg	A111	ab
+autobahn-a115	A115 Berlin AVUS	A115	ab
+autobahn-a113	A113 Berlin Zubringer Schönefeld	A113	ab
+autobahn-a620	A620 Saarlouis bis Saarbrücken	A620	ab
 stadt-neumuenster	Neumünster	Schleswig-Holstein	
 stadt-wismar	Wismar	Mecklenburg-Vorpommern	
