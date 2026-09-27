@@ -210,3 +210,11 @@ stadt-hattingen	bochum,wuppertal,witten,essen
 a43,a40
 stadt-ravensburg	friedrichshafen,konstanz,ulm
 a96
+stadt-neustadt-weinstrasse	landau,ludwigshafen,mannheim,speyer,worms
+a65
+stadt-landau	neustadt-weinstrasse,karlsruhe,pirmasens,speyer,worms
+a65
+stadt-frankenthal	ludwigshafen,worms,mannheim,speyer
+a6
+stadt-neunkirchen-saar	saarbruecken,saarlouis,zweibruecken,kaiserslautern
+a8

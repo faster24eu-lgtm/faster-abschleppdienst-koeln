@@ -327,3 +327,7 @@ Owner check: Lüdenscheid A45 status (bridge closures/Bauarbeiten not mentioned 
 ## Cycle 37 (2026-09-27 ~08:55): 8 pages (Rhein-Sieg, Ruhr, Hessen, BW)
 Bergheim, Troisdorf, Siegburg, Ahlen, Gummersbach, Bad Homburg vor der Höhe, Hattingen, Ravensburg. 356 pages, audit 0 errors, similarity max 29.7% (Ahlen/Hof, added a distinguishing Werse section to fix an earlier 31.1%).
 Owner check: Siegburg A560 (no dedicated Autobahn page yet, referenced only by name); Hattingen has no own Autobahn anschluss (confirmed from source, all access via neighbouring cities); Bad Homburg population (31.12.2025 per source); Troisdorf Kaiserbauruine demolished 2001 (historical, no longer exists).
+
+## Cycle 38 (2026-09-27 ~09:05): 4 Pfalz/Saarland pages
+Neustadt an der Weinstraße, Landau in der Pfalz, Frankenthal (Pfalz), Neunkirchen (Saar). 359 pages, audit 0 errors, similarity max 29.7% (unchanged top pair).
+Owner check: Frankenthal tiefster Punkt der Pfalz (87,3 m, Mörsch); Neunkirchen Saarpark-Center visitor figures (up to 25,000/50,000, per source); Landau B10 Godramstein Roman-fort find (2022, may affect roadworks status).

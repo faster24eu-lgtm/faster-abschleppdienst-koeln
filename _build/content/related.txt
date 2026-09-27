@@ -444,3 +444,7 @@ stadt-gummersbach	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schrit
 stadt-bad-homburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-hattingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-ravensburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-neustadt-weinstrasse	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-landau	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-frankenthal	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-neunkirchen-saar	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick

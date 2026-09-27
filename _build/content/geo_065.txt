@@ -1,0 +1,115 @@
+=== stadt-neustadt-weinstrasse | Abschleppdienst Neustadt an der Weinstraße: A65 | Pannenhilfe und Abschleppen in Neustadt an der Weinstraße: zwei Anschlussstellen der A65, Hauptbahnhof als Knotenpunkt der Südpfalz. | page ===
+<!--AREAS: Neustadt an der Weinstraße, Hambach, Gimmeldingen, Haardt, Mußbach, Königsbach, Winzingen, Deutsche Weinstraße -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neustadt an der Weinstraße</p><h1>Abschleppdienst Neustadt an der Weinstraße</h1><p class="lead">Neustadt an der Weinstraße liegt an der Haardt in der Pfalz, zwei Anschlussstellen führen zur A65. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisfreie Stadt an der Deutschen Weinstraße</h2>
+<p>Neustadt an der Weinstraße ist eine kreisfreie Stadt in Rheinland-Pfalz und Teil der Metropolregion Rhein-Neckar, eines der Zentren des deutschen Weinbaus. 1969 wurden die bis dahin eigenständigen Gemeinden Diedesfeld, Geinsheim, Gimmeldingen, Haardt, Hambach, Königsbach, Lachen-Speyerdorf und Mußbach eingemeindet, 1974 folgte Duttweiler, sie liegen zwischen einem und zehn Kilometern von der Kernstadt entfernt. Winzingen, heute ein Stadtviertel, wurde bereits 774 urkundlich erwähnt. Der höchste Punkt liegt bei 614 Metern am Hohe-Loog-Haus in der Haardt, der tiefste bei 108 Metern im Südosten. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-landau.html">Abschleppdienst Landau</a>, <a href="stadt-ludwigshafen.html">Abschleppdienst Ludwigshafen</a> und <a href="stadt-mannheim.html">Abschleppdienst Mannheim</a>.</p>
+<h2>A65 mit zwei Anschlussstellen</h2>
+<p>Neustadt hat zwei Anschlussstellen an die A65. Bei freier Strecke erreicht man in etwa 30 Minuten Ludwigshafen und Mannheim, Karlsruhe und Kaiserslautern in 40 Minuten. Bei einer Panne auf der A65 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a65.html">Panne auf der A65</a>.</p>
+<h2>Hauptbahnhof als Knotenpunkt der Südpfalz</h2>
+<p>Der Hauptbahnhof ist der größte Schienenverkehrsknotenpunkt im Süden von Rheinland-Pfalz und liegt etwa auf halbem Weg zwischen Mannheim und Kaiserslautern an der 1847 bis 1849 als Pfälzische Ludwigsbahn errichteten Strecke. Wenn Sie am Bahnhof liegen bleiben, nennen Sie uns Straße und Ausgang und halten Sie Zufahrten für Taxis und Busse frei.</p>
+<h2>Weinberge und die Haardt</h2>
+<p>Der Westen der Stadt einschließlich mehrerer Stadtteile liegt an der Weinstraße am Fuß der Haardt, ausgedehnte Weinbau- und Waldflächen prägen das Landschaftsbild. Wenn Sie auf einem Weinbergsweg oder in der Haardt liegen bleiben, nennen Sie uns Ortsteil und den nächsten Wingert oder Parkplatz, denn viele Wege dort haben keine Hausnummer.</p>
+<h2>So nennen Sie Ihren Standort in Neustadt an der Weinstraße</h2>
+<ul class="ticks">
+<li>Stadtteil (Hambach, Gimmeldingen, Haardt …), Straße, Hausnummer.</li>
+<li>Auf der A65: Richtung, Anschlussstelle.</li>
+<li>Am Hauptbahnhof: Straße und Ausgang.</li>
+<li>In den Weinbergen: Ortsteil, nächster Parkplatz.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-speyer.html">Speyer</a> und <a href="stadt-worms.html">Worms</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Neustadt an der Weinstraße</h2>
+<details><summary>Welche Autobahn führt nach Neustadt?</summary><div>Die A65, mit zwei Anschlussstellen im Stadtgebiet.</div></details>
+<details><summary>Wie lange dauert es nach Mannheim?</summary><div>Etwa 30 Minuten bei freier Strecke.</div></details>
+<details><summary>Was ist der Hauptbahnhof für die Region?</summary><div>Der größte Schienenverkehrsknotenpunkt im Süden von Rheinland-Pfalz.</div></details>
+<details><summary>Seit wann gehören die Stadtteile dazu?</summary><div>Die meisten seit 1969, Duttweiler seit 1974.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-landau | Abschleppdienst Landau in der Pfalz: A65, B10, B38 | Pannenhilfe und Abschleppen in Landau in der Pfalz: A65 mit drei Anschlussstellen, B10 und B38, Queichtalbahn, Deutsche Weinstraße am Pfälzerwald. | page ===
+<!--AREAS: Landau in der Pfalz, Arzheim, Godramstein, Queichtal, Pfälzerwald, Südliche Weinstraße -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Landau in der Pfalz</p><h1>Abschleppdienst Landau in der Pfalz</h1><p class="lead">Landau liegt an der Südlichen Weinstraße am Pfälzerwald, drei Anschlussstellen führen zur A65. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Sechstgrößte Stadt der Pfalz</h2>
+<p>Landau in der Pfalz ist Verwaltungssitz des Landkreises Südliche Weinstraße, dem sie selbst nicht angehört, und nach Einwohnerzahl die sechstgrößte Stadt der Pfalz. Der Osten der Stadt liegt in der Oberrheinischen Tiefebene, der Westen mit der Kernstadt gehört zur Weinstraße, dazu kommen ausgedehnte Waldgebiete des Pfälzerwaldes. Die Stadtwald-Exklave Taubensuhl/Fassendeich liegt über zwei Kilometer entfernt bei Eusserthal. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-neustadt-weinstrasse.html">Abschleppdienst Neustadt an der Weinstraße</a>, <a href="abschleppdienst-karlsruhe.html">Abschleppdienst Karlsruhe</a> und <a href="stadt-pirmasens.html">Abschleppdienst Pirmasens</a>.</p>
+<h2>A65 mit drei Anschlussstellen, B10 und B38</h2>
+<p>Die wichtigsten Fernstraßen sind die A65 mit den drei Anschlussstellen Landau-Nord, Landau-Zentrum und Landau-Süd, dazu die B10 und die B38. Die L509 führt über Ilbesheim nach Eschbach, die L510 nach Heuchelheim-Klingen und die L512 nach Neustadt an der Weinstraße. Bei einer Panne auf der A65 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a65.html">Panne auf der A65</a>. Im März 2022 stießen Bauarbeiter an der B10-Ausfahrt bei Landau-Godramstein auf Überreste eines spätantiken römischen Kastells, dort kann es Baustellen geben.</p>
+<h2>Hauptbahnhof und Queichtalbahn</h2>
+<p>Dreh- und Angelpunkt des Nahverkehrs ist der Hauptbahnhof, von dort bestehen regelmäßige Verbindungen nach Neustadt an der Weinstraße, Karlsruhe und Pirmasens. Während die Maximiliansbahn im Stadtgebiet keine weiteren Halte hat, hält die Queichtalbahn durch die Südpfalz zusätzlich in Landau West und Landau Süd. Wenn Sie an einem dieser Bahnhöfe liegen bleiben, nennen Sie uns den genauen Namen, denn es gibt mehrere Stationen im Stadtgebiet.</p>
+<h2>Zoo, Parks und Weinstraße</h2>
+<p>Im Stadtgebiet liegen zahlreiche Grünanlagen wie Goethepark, Kreuzgarten, Luitpoldpark und Ostpark mit Schwanenweiher, dazu der 1904 gegründete Zoo. Die touristische Deutsche Weinstraße verläuft in unmittelbarer Nähe der Kernstadt und kurz über die Gemarkung des Stadtteils Arzheim. Wenn Sie an einem Park oder am Zoo liegen bleiben, nennen Sie uns Straße und Zufahrt.</p>
+<h2>So nennen Sie Ihren Standort in Landau</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A65: Richtung, Anschlussstelle Nord, Zentrum oder Süd.</li>
+<li>Auf B10 oder B38: Fahrtrichtung.</li>
+<li>Am Bahnhof: genauer Name (Hauptbahnhof, West oder Süd).</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-speyer.html">Speyer</a> und <a href="stadt-worms.html">Worms</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Landau</h2>
+<details><summary>Welche Anschlussstellen hat Landau an der A65?</summary><div>Landau-Nord, Landau-Zentrum und Landau-Süd.</div></details>
+<details><summary>Welche Bundesstraßen führen durch Landau?</summary><div>B10 und B38.</div></details>
+<details><summary>Wie viele Bahnstationen gibt es?</summary><div>Den Hauptbahnhof sowie Landau West und Landau Süd an der Queichtalbahn.</div></details>
+<details><summary>Wo liegt der Zoo?</summary><div>Im Stadtgebiet, gegründet am 24. Juli 1904.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-frankenthal | Abschleppdienst Frankenthal (Pfalz): A6, B9 | Pannenhilfe und Abschleppen in Frankenthal (Pfalz): Anschlussstelle Frankenthal-Nord der A6, B9 aus Speyer und Worms, tiefster Punkt der Pfalz. | page ===
+<!--AREAS: Frankenthal, Mörsch, Studernheim, Flomersheim, Eppstein, Isenach, Rhein -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Frankenthal (Pfalz)</p><h1>Abschleppdienst Frankenthal (Pfalz)</h1><p class="lead">Frankenthal liegt in der Oberrheinischen Tiefebene zwischen Pfälzerwald und Rhein, die A6 verläuft direkt nördlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zwischen Pfälzerwald und Rhein</h2>
+<p>Frankenthal (Pfalz) liegt in der Oberrheinischen Tiefebene zwischen dem Pfälzerwald im Westen und dem Rhein im Osten. Durch die Stadt fließt die Isenach, die sechs Kilometer weiter in den Rhein mündet, ihr früherer Zufluss Fuchsbach ist im Stadtgebiet verrohrt. Auf der Gemarkung, nur wenige hundert Meter vom Rhein entfernt im nordöstlichen Vorort Mörsch, liegt mit 87,3 Metern über NHN der tiefste Punkt der Pfalz. 1919 wurden die drei nahe der Stadt liegenden Dörfer Flomersheim, Mörsch und Studernheim eingemeindet. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-ludwigshafen.html">Abschleppdienst Ludwigshafen</a>, <a href="stadt-worms.html">Abschleppdienst Worms</a> und <a href="stadt-mannheim.html">Abschleppdienst Mannheim</a>.</p>
+<h2>A6 im Norden, B9 aus dem Süden</h2>
+<p>Unmittelbar nördlich von Frankenthal liegt die Anschlussstelle Frankenthal-Nord der A6 (Saarbrücken–Mannheim). Von Süden her wird die Stadt über die B9 (Speyer–Worms) erreicht. Bei einer Panne auf der A6 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a6.html">Panne auf der A6</a>. Auf der B9 sagen Sie uns Fahrtrichtung und den nächsten Ort.</p>
+<h2>Alte Festung und Maschinenfabrik</h2>
+<p>Ende des 16. und Anfang des 17. Jahrhunderts wurde Frankenthal zur stärksten linksrheinischen Festung der Kurpfalz ausgebaut, geriet aber schnell in die Wirren des Dreißigjährigen Kriegs. Die im 18. Jahrhundert errichtete Stadtmauer wurde um 1900 bis auf geringe Reste beseitigt. Mit der Industriellen Revolution entstand 1845 die Maschinenfabrik Hamm & Co. aus einer alten Glockengießerei, die schon 1774 in Betrieb gegangen war. Wenn Sie in der dicht bebauten Innenstadt liegen bleiben, sagen Sie uns Straße und ob die Zufahrt eng ist.</p>
+<h2>Mörsch am tiefsten Punkt der Pfalz</h2>
+<p>Wenn Sie im Vorort Mörsch oder in Rheinnähe liegen bleiben, nennen Sie uns Straße und ob Sie in der Ebene oder am Deich stehen, da das Gelände dort besonders flach ist.</p>
+<h2>So nennen Sie Ihren Standort in Frankenthal</h2>
+<ul class="ticks">
+<li>Stadtteil (Mörsch, Flomersheim, Studernheim), Straße, Hausnummer.</li>
+<li>Auf der A6: Richtung, Anschlussstelle Frankenthal-Nord.</li>
+<li>Auf der B9: Fahrtrichtung, nächster Ort.</li>
+<li>In der Innenstadt: Straße, enge Zufahrt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-speyer.html">Speyer</a> und <a href="stadt-mannheim.html">Mannheim</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Frankenthal</h2>
+<details><summary>Welche Autobahn liegt bei Frankenthal?</summary><div>Die A6, mit der Anschlussstelle Frankenthal-Nord unmittelbar nördlich der Stadt.</div></details>
+<details><summary>Welche Bundesstraße kommt aus Süden?</summary><div>Die B9 (Speyer–Worms).</div></details>
+<details><summary>Wo liegt der tiefste Punkt der Pfalz?</summary><div>Im Vorort Mörsch, auf 87,3 Metern über NHN.</div></details>
+<details><summary>Seit wann gehören Flomersheim, Mörsch und Studernheim dazu?</summary><div>Seit 1919.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-neunkirchen-saar | Abschleppdienst Neunkirchen (Saar): A8, Eisenwerk | Pannenhilfe und Abschleppen in Neunkirchen (Saar): A8 bei Furpach, Saarpark-Center auf dem Gelände des ehemaligen Eisenwerks. | page ===
+<!--AREAS: Neunkirchen, Furpach, Wiebelskirchen, Wellesweiler, Hangard, Münchwies, Bliestal, Eisenwerk -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neunkirchen (Saar)</p><h1>Abschleppdienst Neunkirchen (Saar)</h1><p class="lead">Neunkirchen liegt im Bliestal an der A8, das ehemalige Eisenwerk prägt bis heute die Innenstadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ehemalige Eisenwerksstadt im Bliestal</h2>
+<p>Neunkirchen im Saarland wurde durch das 1593 im Bliestal errichtete Neunkircher Eisenwerk geprägt, das die Geschicke des Ortes über Jahrhunderte bestimmte. 1922 wurden die Gemeinden Kohlhof mit Furpach, Niederneunkirchen und Wellesweiler eingegliedert, am 1. Januar 1974 folgten Hangard, Münchwies und Wiebelskirchen. Das Eisenwerk schloss 1982 bis auf die Walzstraße, Teile sind als Industriedenkmal „Altes Hüttenareal“ erhalten. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-saarbruecken.html">Abschleppdienst Saarbrücken</a> und <a href="stadt-saarlouis.html">Abschleppdienst Saarlouis</a>.</p>
+<h2>A8 bei Furpach</h2>
+<p>Der Stadtteil Furpach, ein Wohn- und Naherholungsgebiet rund dreieinhalb Kilometer südöstlich der Innenstadt, liegt an der A8. Bei einer Panne auf der A8 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a8.html">Panne auf der A8</a>. Wenn Sie zwischen Innenstadt und Furpach unterwegs sind, sagen Sie uns, welchen der beiden Orte Sie zuletzt passiert haben.</p>
+<h2>Saarpark-Center auf der Industriebrache</h2>
+<p>Ende der 1980er Jahre wurde auf der Industriebrache des Eisenwerks das Saarpark-Center gebaut, die Einweihung fand 1989 statt. Es zieht an normalen Tagen bis zu 25.000 und zur Weihnachtszeit bis zu 50.000 Besucher an, dadurch ist die Innenstadt an solchen Tagen stark befahren. Wenn Sie dort liegen bleiben, nennen Sie uns Parkebene oder Straße und Zufahrt.</p>
+<h2>Wiebelskirchen und Wellesweiler</h2>
+<p>Die 1974 eingemeindeten Stadtteile Wiebelskirchen, Hangard und Münchwies liegen abseits der Innenstadt, ebenso Wellesweiler seit 1922. Nennen Sie uns bei einer Panne dort den Stadtteil, da Straßennamen sich wiederholen können.</p>
+<h2>So nennen Sie Ihren Standort in Neunkirchen</h2>
+<ul class="ticks">
+<li>Stadtteil (Furpach, Wiebelskirchen, Wellesweiler …), Straße, Hausnummer.</li>
+<li>Auf der A8: Richtung, Anschlussstelle bei Furpach.</li>
+<li>Am Saarpark-Center: Parkebene, Straße.</li>
+<li>Am Alten Hüttenareal: Straße, Zufahrt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-zweibruecken.html">Zweibrücken</a> und <a href="stadt-kaiserslautern.html">Kaiserslautern</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Neunkirchen</h2>
+<details><summary>Welche Autobahn führt an Neunkirchen vorbei?</summary><div>Die A8, beim Stadtteil Furpach.</div></details>
+<details><summary>Was ist das Saarpark-Center?</summary><div>Ein 1989 eröffnetes Einkaufszentrum auf der ehemaligen Industriebrache des Eisenwerks.</div></details>
+<details><summary>Wann schloss das Eisenwerk?</summary><div>1982, bis auf die Walzstraße, die weiter betrieben wurde.</div></details>
+<details><summary>Seit wann gehören Hangard, Münchwies und Wiebelskirchen dazu?</summary><div>Seit dem 1. Januar 1974.</div></details>
+</div></section>
+@@CTA@@

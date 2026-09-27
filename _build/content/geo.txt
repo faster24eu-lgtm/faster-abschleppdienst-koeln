@@ -280,3 +280,7 @@ stadt-gummersbach	Gummersbach	Nordrhein-Westfalen
 stadt-bad-homburg	Bad Homburg vor der Höhe	Hessen	
 stadt-hattingen	Hattingen	Nordrhein-Westfalen	
 stadt-ravensburg	Ravensburg	Baden-Württemberg	
+stadt-neustadt-weinstrasse	Neustadt an der Weinstraße	Rheinland-Pfalz	
+stadt-landau	Landau in der Pfalz	Rheinland-Pfalz	
+stadt-frankenthal	Frankenthal (Pfalz)	Rheinland-Pfalz	
+stadt-neunkirchen-saar	Neunkirchen (Saar)	Saarland	
