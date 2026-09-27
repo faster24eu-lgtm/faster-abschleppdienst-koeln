@@ -170,3 +170,7 @@ stadt-herford	bielefeld,minden,guetersloh,paderborn,hameln	a2,a30
 stadt-unna	dortmund,hamm,luenen,witten,iserlohn	a1,a44
 stadt-luenen	dortmund,hamm,unna,recklinghausen,castrop-rauxel	a2
 stadt-lingen	rheine,osnabrueck,emden,oldenburg,muenster	a31
+stadt-dueren	aachen,bonn,leverkusen,bergisch-gladbach,euskirchen	a4
+stadt-euskirchen	bonn,dueren,koblenz,trier	a1,a61
+stadt-kerpen	frechen,dueren,leverkusen,bergisch-gladbach,bonn	a4,a61
+stadt-frechen	kerpen,leverkusen,bonn,bergisch-gladbach,dueren	a1,a4

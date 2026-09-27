@@ -307,3 +307,7 @@ Owner check (time-sensitive): Lippstadt "ca. sechs ICE/IC pro Tag"; Arnsberg RE-
 ## Cycle 32 (2026-09-27 ~05:50): 7 Tier B city pages
 Viersen, Dormagen, Bocholt, Herford, Unna, Lünen, Lingen (Ems). 324 pages built, audit 0 errors, similarity max 28.7 % (city). Sources: Wikipedia extracts.
 Owner check: Bocholt Westringtunnel / planned Nordring (plan status may change); Bocholt RE19 and planned Halt Mussum (Wikipedia: Q3 2026); Dormagen ferries (Autofähre Zons–Urdenbach, weekend Personenfähre); Herford/Bocholt/Lingen population figures; Lingen 56.539 vs Zensus 55.092.
+
+## Cycle 33 (2026-09-27 ~06:10): 4 Tier B pages near Köln/Aachen corridor
+Düren, Euskirchen, Kerpen, Frechen. 328 pages, audit 0 errors, similarity max 28.7 %.
+Owner check: Frechen Nord Teilanschluss (Wikipedia: Anschluss Richtung Köln "in Planung"); Kerpen Manheim renaming 2025; Euskirchen post-flood 2021 station status; Düren RE1/RE9 hourly.

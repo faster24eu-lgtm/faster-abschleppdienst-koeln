@@ -1,0 +1,115 @@
+=== stadt-dueren | Abschleppdienst Düren: Pannenhilfe A4, B56, B264, B399 | Pannenhilfe und Abschleppen in Düren: Tor zur Nordeifel an der Rur, A4-Abfahrt im Norden, B56, B264 und B399, Friedrich-Ebert-Platz als zentraler Knoten. | page ===
+<!--AREAS: Düren, Birkesdorf, Arnoldsweiler, Gürzenich, Lendersdorf, Niederau, Merken, Rölsdorf, Distelrath, Rur -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Düren</p><h1>Abschleppdienst Düren</h1><p class="lead">Düren liegt an der Rur zwischen Aachen und Köln am Nordrand der Eifel. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisstadt zwischen Börde und Rureifel</h2>
+<p>Düren hat über 94.000 Einwohner, ist Kreisstadt des gleichnamigen Kreises und Mitglied der Euregio Maas-Rhein und nennt sich „Das Tor zur Nordeifel“. Nach Norden erstreckt sich die fruchtbare Jülich-Zülpicher Börde, im Südwesten liegt die Rureifel mit der Rurtalsperre. Das alte Stadtgebiet umfasst die inneren Stadtbezirke Düren-Nord, Düren-Ost (mit der Satellitenstadt und Distelrath), Düren-Süd und Rölsdorf sowie das Siedlungsgebiet Grüngürtel, dazu kommen Stadtteile, die aus 15 ehemals selbstständigen Orten entstanden sind, etwa Arnoldsweiler, Birkesdorf, Gürzenich, Lendersdorf, Merken und Niederau. Nennen Sie uns bei einer Panne Stadtteil und Straße, nicht nur „Düren“. Mehr auf <a href="stadt-aachen.html">Abschleppdienst Aachen</a>, <a href="stadt-bergisch-gladbach.html">Abschleppdienst Bergisch Gladbach</a> und <a href="index.html">Abschleppdienst Köln</a>.</p>
+<h2>A4 im Norden, B56, B264 und B399</h2>
+<p>Düren ist von Aachen und Köln über die A4 zu erreichen, die Abfahrt liegt im Norden des Stadtgebiets. Drei Bundesstraßen führen nach Düren: Die B56 kreuzt im Norden die A4 und verlässt das Stadtgebiet östlich von Niederau. Von Langerwehe oder Merzenich kommt man über die B264, die B399 führt von Gey über Birgel und Rölsdorf und mündet bei Gürzenich in die B264. Bei einer Panne auf der A4 nennen Sie uns Fahrtrichtung und Anschlussstelle, mehr auf <a href="autobahn-a4.html">Panne auf der A4</a>. Das Gewerbegebiet „Im Großen Tal“ nördlich von Birkesdorf hat direkten Anschluss an A4 und B56.</p>
+<h2>Friedrich-Ebert-Platz und Bahnhof</h2>
+<p>Der große, mehrspurige Kreisverkehr Friedrich-Ebert-Platz ist der zentrale Verkehrsknotenpunkt der Stadt. Wenn Sie dort oder in der Nähe liegen bleiben, sagen Sie uns die Ausfahrt oder Straße, in der Sie stehen. Der zentrale Omnibusbahnhof liegt direkt neben dem Bahnhof, dort halten stündlich die Regional-Express-Züge RE1 und RE9 auf der Bahnstrecke Köln–Aachen, in Richtung Aachen zusätzlich die Euregiobahn RB20. Den Busverkehr betreibt seit 1. Januar 2020 Rurtalbus.</p>
+<h2>Rur und Radwege</h2>
+<p>Der 180 Kilometer lange RurUfer-Radweg vom Hohen Venn bis Roermond erreicht das Stadtgebiet im Süden zwischen Niederau und Lendersdorf und verlässt es im Norden bei Merken. Wenn Sie an einem Radweg liegen bleiben, halten Sie ihn frei und nennen Sie uns den nächsten Ortsteil.</p>
+<h2>So nennen Sie Ihren Standort in Düren</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A4: Richtung, Anschlussstelle Düren oder Nachbarstelle.</li>
+<li>Auf B56, B264 oder B399: Fahrtrichtung, nächster Ort.</li>
+<li>Am Friedrich-Ebert-Platz: Ausfahrt und Straße.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-leverkusen.html">Leverkusen</a> und <a href="stadt-bonn.html">Bonn</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Düren</h2>
+<details><summary>Welche Autobahn führt nach Düren?</summary><div>Die A4, die Abfahrt liegt im Norden des Stadtgebiets.</div></details>
+<details><summary>Welche Bundesstraßen führen nach Düren?</summary><div>B56, B264 und B399.</div></details>
+<details><summary>Was ist der Friedrich-Ebert-Platz?</summary><div>Der große, mehrspurige Kreisverkehr, zentraler Verkehrsknoten der Stadt.</div></details>
+<details><summary>Welche Regionalzüge halten in Düren?</summary><div>RE1 und RE9 stündlich, dazu die Euregiobahn RB20 Richtung Aachen.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-euskirchen | Abschleppdienst Euskirchen: Pannenhilfe A1, A61, B56, B51 | Pannenhilfe und Abschleppen in Euskirchen: Kreisstadt am Nordrand der Eifel, A1 und A61 nahe Kreuz Bliesheim, B56, B51, B266, Ringstraße. | page ===
+<!--AREAS: Euskirchen, Kuchenheim, Stotzheim, Kreuzweingarten, Großbüllesheim, Flamersheim, Kreuz Bliesheim, Erft -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Euskirchen</p><h1>Abschleppdienst Euskirchen</h1><p class="lead">Euskirchen liegt südwestlich von Bonn und Köln an der A1. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisstadt mit 22 Stadtteilen</h2>
+<p>Euskirchen ist seit 1827 Sitz des gleichnamigen Kreises im Südwesten Nordrhein-Westfalens und hat knapp 60.000 Einwohner. Neben der Kernstadt mit den inoffiziellen Stadtvierteln Altstadt, Ost-, West-, Nord- und Südstadt gibt es 22 weitere statistische Stadtteile, darunter Billig, Dom-Esch, Flamersheim, Kuchenheim, Stotzheim, Kreuzweingarten und Großbüllesheim. Im Nordwesten und Westen verläuft die Grenze zu Zülpich entlang der A1, nur Oberwichterich und Frauenberg liegen westlich der Autobahn. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-bonn.html">Abschleppdienst Bonn</a>, <a href="stadt-dueren.html">Abschleppdienst Düren</a> und <a href="index.html">Abschleppdienst Köln</a>.</p>
+<h2>A1, A61 und Kreuz Bliesheim</h2>
+<p>Durch den Kreis Euskirchen verläuft die A1, die nördlich über das Kreuz Bliesheim zur A61 führt. Der Industriepark am Silberberg (IPAS) mit über zwei Millionen Quadratmetern ist wegen der Lage zu A1 und A61 das größte zusammenhängende Gewerbe- und Industriegebiet des Kreises. Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a1.html">Panne auf der A1</a> und <a href="autobahn-a61.html">Panne auf der A61</a>. Bei einer Panne im Industriepark sagen Sie uns Firma, Tor und Fahrzeugart.</p>
+<h2>B56, B51, B266 und Ringstraße</h2>
+<p>Die B56 verbindet Euskirchen mit Bonn und führt nach Westen nach Zülpich und Düren. Die B51, die heute teilweise auf der A1 verläuft, verbindet Euskirchen mit Köln und der Eifel, die B266 führt von Simmerath nach Linz am Rhein durch Euskirchen. Den Stadtkern umschließt eine Ringstraße, die bereits 1904 geplant und erst 2003 vollständig geschlossen wurde. Vierspurige Straßen führen zur B56 nach Bonn, zur B51 nach Köln und Bad Münstereifel und zur A1. Innerhalb des mittelalterlichen Mauerrings liegt die Fußgängerzone, sagen Sie uns dort die Zufahrt, über die ein Fahrzeug erreichbar ist.</p>
+<h2>Bahnknoten und Busnetz</h2>
+<p>Der Bahnhof ist ein Knotenpunkt der Eifelstrecke Köln–Euskirchen–Gerolstein–Trier, von der die Voreifelbahn nach Bonn, die Erfttalbahn nach Bad Münstereifel und die Bördebahn nach Düren abzweigen. Das Stadtbusnetz besteht aus 13 Linien und fährt tagsüber alle 20 Minuten. Der Haltepunkt Zuckerfabrik wurde durch das Hochwasser im Juli 2021 zerstört und aufgegeben.</p>
+<h2>So nennen Sie Ihren Standort in Euskirchen</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A1 oder A61: Richtung, Anschlussstelle.</li>
+<li>Auf B56, B51 oder B266: Fahrtrichtung, Ort.</li>
+<li>Auf der Ringstraße: Fahrtrichtung, Querstraße.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-koblenz.html">Koblenz</a> und <a href="stadt-trier.html">Trier</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Euskirchen</h2>
+<details><summary>Welche Autobahnen liegen bei Euskirchen?</summary><div>Die A1, die nördlich über das Kreuz Bliesheim zur A61 führt.</div></details>
+<details><summary>Wohin führt die B56?</summary><div>Nach Bonn und in Gegenrichtung nach Zülpich und Düren.</div></details>
+<details><summary>Gibt es eine Ringstraße?</summary><div>Ja, sie umschließt den Stadtkern und wurde 2003 vollständig geschlossen.</div></details>
+<details><summary>Wie viele Stadtteile hat Euskirchen?</summary><div>22 statistische Stadtteile neben der Kernstadt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-kerpen | Abschleppdienst Kerpen: Pannenhilfe A4, A61, Kreuz Kerpen | Pannenhilfe und Abschleppen in Kerpen: Kolpingstadt westlich von Köln, Autobahnkreuz Kerpen von A4 und A61, drei Anschlussstellen auf dem Stadtgebiet. | page ===
+<!--AREAS: Kerpen, Horrem, Sindorf, Türnich, Buir, Blatzheim, Manheim, Mödrath, Kreuz Kerpen, Erft -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kerpen</p><h1>Abschleppdienst Kerpen</h1><p class="lead">Kerpen liegt wenige Kilometer westlich von Köln, hier kreuzen sich A4 und A61. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kolpingstadt im Rheinischen Braunkohlerevier</h2>
+<p>Kerpen ist mit 66.377 Einwohnern (31. Dezember 2025) die bevölkerungsreichste Stadt des Rhein-Erft-Kreises und trägt seit dem 19. März 2012 den offiziellen Zusatz Kolpingstadt. Sie liegt im Rheinischen Braunkohlerevier und in der Kölner Bucht wenige Kilometer westlich von Köln. Östlich des Stadtzentrums verläuft die Erft mit den Erftauen, weiter östlich liegt die Ville. Das heutige Kerpen entstand am 1. Januar 1975 aus der damaligen Stadt und sieben eigenständigen Gemeinden, die Stadtteile sind überwiegend durch große freie Flächen voneinander getrennt und haben sich deshalb eine gewisse Eigenständigkeit erhalten. Nennen Sie uns bei einer Panne den Stadtteil, etwa Horrem, Sindorf, Türnich, Buir, Blatzheim oder Manheim, und die Straße. Mehr auf <a href="index.html">Abschleppdienst Köln</a>, <a href="stadt-frechen.html">Abschleppdienst Frechen</a> und <a href="stadt-dueren.html">Abschleppdienst Düren</a>.</p>
+<h2>Autobahnkreuz Kerpen: A4 und A61</h2>
+<p>Das Autobahnkreuz Kerpen liegt auf dem Stadtgebiet, hier kreuzen sich die A4 (Aachen–Eisenach–Görlitz) und die A61 (Mönchengladbach–Koblenz–Hockenheim). Auf dem Stadtgebiet liegen drei Anschlussstellen: 7b Elsdorf und 8 Kerpen an der A4 sowie 21 Türnich an der A61. In unmittelbarer Nachbarschaft liegen 7a Merzenich (A4), 22 Gymnich (A61) und 106 Hürth (A1), über die weite Teile des Stadtgebiets ebenfalls erschlossen werden. Bei einer Panne nennen Sie uns deshalb Nummer, Richtung und die letzte Anschlussstelle, am Kreuz auch, ob Sie auf der A4 oder A61 stehen. Mehr auf <a href="autobahn-a4.html">Panne auf der A4</a> und <a href="autobahn-a61.html">Panne auf der A61</a>.</p>
+<h2>Umgesiedelte Ortsteile</h2>
+<p>Mödrath und Bottenbroich wurden wegen des Tagebaus Frechen in den 1950er Jahren umgesiedelt, Mödrath ins Baugebiet im Nordosten Kerpens, Bottenbroich in den Osten Horrems, das Präfix „Neu-“ im Namen Neu-Bottenbroich erinnert daran. Der Ortsteil Manheim wurde wegen des Tagebaus Hambach nach Kerpen-Dickbusch umgesiedelt, der neue Standort hieß Manheim-neu und heißt seit 2025 wieder Manheim. Navigationsdaten und Karten können abweichen, nennen Sie uns deshalb Straße und Umgebung, oder senden Sie Ihren Standort per WhatsApp.</p>
+<h2>Motorsport-Stadt</h2>
+<p>In Kerpen erinnern die „Welt der Schumachers“ als Rennsportmuseum an den Motorsport, in Horrem gab es das Museum in der Villa Trips. Bei Veranstaltungen sind Zufahrten voll, nennen Sie uns Parkplatz und Tor.</p>
+<h2>So nennen Sie Ihren Standort in Kerpen</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf A4 oder A61: Nummer, Richtung, Anschlussstelle, Kreuz Kerpen.</li>
+<li>Auf Landstraßen zwischen den Ortsteilen: nächster Ortsteil.</li>
+<li>Im Tagebauumfeld: Straße und Umleitung.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-bergisch-gladbach.html">Bergisch Gladbach</a> und <a href="stadt-leverkusen.html">Leverkusen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Kerpen</h2>
+<details><summary>Wo kreuzen sich A4 und A61?</summary><div>Im Autobahnkreuz Kerpen auf dem Stadtgebiet.</div></details>
+<details><summary>Welche Anschlussstellen liegen auf dem Stadtgebiet?</summary><div>7b Elsdorf und 8 Kerpen (A4) sowie 21 Türnich (A61).</div></details>
+<details><summary>Wie viele Einwohner hat Kerpen?</summary><div>66.377 am 31. Dezember 2025.</div></details>
+<details><summary>Was ist mit Manheim?</summary><div>Der Ort wurde wegen des Tagebaus Hambach umgesiedelt, der Neuort heißt seit 2025 wieder Manheim.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-frechen | Abschleppdienst Frechen: Pannenhilfe A1, A4, B264, L277 | Pannenhilfe und Abschleppen in Frechen: Nachbarstadt von Köln, Anschlussstelle Frechen an der A1, Frechen Nord an der A4, B264, Stadtbahn 7. | page ===
+<!--AREAS: Frechen, Königsdorf, Buschbell, Hücheln, Bachem, Habbelrath, Grefrath, Benzelrath, Kreuz Köln-West -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Frechen</p><h1>Abschleppdienst Frechen</h1><p class="lead">Frechen grenzt westlich an Köln, die A1 verläuft am Autobahnkreuz Köln-West. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Mittelstadt an der Ville</h2>
+<p>Frechen ist eine Mittelstadt des Rheinischen Braunkohlereviers im Rhein-Erft-Kreis und grenzt westlich an Köln. Der ursprüngliche Siedlungskern liegt als langgestrecktes Straßendorf am Nordostabhang der Ville. Zur Stadt gehören unter anderem Königsdorf, Buschbell, Hücheln, Bachem, Habbelrath und Grefrath, Buschbell und Hücheln sind weitgehend zu einem Doppelort zusammengewachsen. Seit den 1970er Jahren hat sich Frechen von der Braunkohle, dem Quarzsand und dem Ton zu einer Stadt des Handels, des Verkehrs und der Dienstleistungen entwickelt. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="index.html">Abschleppdienst Köln</a> und <a href="stadt-kerpen.html">Abschleppdienst Kerpen</a>.</p>
+<h2>A1 und A4</h2>
+<p>Frechen ist über die Anschlussstelle Frechen südlich vom Autobahnkreuz Köln-West an die A1 angebunden. An der Bonnstraße wurde die Teilanschlussstelle Frechen Nord für die A4 errichtet, sie ist nur einseitig, also für den Verkehr von und nach Aachen benutzbar. Ein Anschluss von und nach Köln ist in Planung. Wenn Sie auf der A4 oder A1 liegen bleiben, nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a1.html">Panne auf der A1</a> und <a href="autobahn-a4.html">Panne auf der A4</a>.</p>
+<h2>Kölner Straße, L277 und B264</h2>
+<p>Die frühere Hauptverkehrsachse, die Kölner Straße, ist in der Innenstadt Fußgängerzone, durch die nur die Stadtbahnlinie 7 fährt. Der Erschließungsverkehr wird von der Dürener/Kölner Straße als Landesstraße 277 weiter und ab Bahnhof Frechen nördlich um die Innenstadt herumgeführt. Der überörtliche Verkehr fährt als B264 südlich um die Kernstadt. Seit November 2016 gibt es eine 3.000 Meter lange Umgehungsstraße um den Stadtteil Buschbell. Wenn Sie auf einer dieser Straßen liegen bleiben, nennen Sie uns Straße und Fahrtrichtung.</p>
+<h2>Stadtbahn, S-Bahn und Bus</h2>
+<p>Frechen ist mit der Stadtbahnlinie 7 an Köln angeschlossen (Haltestellen Benzelrath, Mühlengasse, Rathaus, Kirche, Bahnhof). In Königsdorf halten die S-Bahn-Linien S12 und S19. Zentraler Umsteigepunkt ist der Busbahnhof „Frechen Rathaus“. Halten Sie Gleise und Haltestellen bei einer Panne frei.</p>
+<h2>So nennen Sie Ihren Standort in Frechen</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A1 oder A4: Richtung, Anschlussstelle Frechen oder Frechen Nord.</li>
+<li>Auf B264 oder L277: Fahrtrichtung.</li>
+<li>An der Stadtgrenze: ob Frechen oder Köln.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-leverkusen.html">Leverkusen</a> und <a href="stadt-bonn.html">Bonn</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Frechen</h2>
+<details><summary>Wo ist die Anschlussstelle an die A1?</summary><div>Die Anschlussstelle Frechen liegt südlich vom Autobahnkreuz Köln-West.</div></details>
+<details><summary>Ist Frechen Nord voll nutzbar?</summary><div>Nein, die Teilanschlussstelle an der A4 ist nur für den Verkehr von und nach Aachen benutzbar.</div></details>
+<details><summary>Wie fährt die Stadtbahn?</summary><div>Die Linie 7 verbindet Frechen mit Köln.</div></details>
+<details><summary>Welche Bundesstraße führt südlich um Frechen?</summary><div>Die B264.</div></details>
+</div></section>
+@@CTA@@

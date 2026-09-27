@@ -248,3 +248,7 @@ stadt-herford	Herford	Nordrhein-Westfalen
 stadt-unna	Unna	Nordrhein-Westfalen	
 stadt-luenen	Lünen	Nordrhein-Westfalen	
 stadt-lingen	Lingen (Ems)	Niedersachsen	
+stadt-dueren	Düren	Nordrhein-Westfalen	
+stadt-euskirchen	Euskirchen	Nordrhein-Westfalen	
+stadt-kerpen	Kerpen	Nordrhein-Westfalen	
+stadt-frechen	Frechen	Nordrhein-Westfalen	

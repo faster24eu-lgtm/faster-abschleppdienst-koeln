@@ -11,8 +11,8 @@ Session goal: cover all of Germany with unique, factual pages (see COVERAGE.md).
 - Site remains noindex / Disallow. Impressum and Datenschutz untouched.
 
 ## Status (2026-09-27, latest batch: Marl, Dorsten, Lippstadt, Castrop-Rauxel, Arnsberg, Rheine, Goslar, Wolfenbüttel, Hameln, Hof, Ansbach, Wittenberg)
-- 324 built pages (audit: 0 errors, 0 broken links, click depth ≤ 3; similarity: 0 pairs above 30 %, max ~29 % city/city, ~13 % Autobahn/Autobahn).
-- Breakdown: 169 city/district pages (incl. 12 Berlin Bezirke), 68 Autobahn pages, 16 Bundesland hubs + index, 36 Ratgeber guides (8 expanded to 800–950 words), 21 Köln pages, 6 Karlsruhe pages, plus home, hubs, Kontakt, Danke, Impressum, Datenschutz.
+- 328 built pages (audit: 0 errors, 0 broken links, click depth ≤ 3; similarity: 0 pairs above 30 %, max ~29 % city/city, ~13 % Autobahn/Autobahn).
+- Breakdown: 173 city/district pages (incl. 12 Berlin Bezirke), 68 Autobahn pages, 16 Bundesland hubs + index, 36 Ratgeber guides (8 expanded to 800–950 words), 21 Köln pages, 6 Karlsruhe pages, plus home, hubs, Kontakt, Danke, Impressum, Datenschutz.
 - Correction: until 06:00 the geo.txt rows of 54 newer Autobahn pages lacked the kind column `ab`, so the builder also generated 54 thin `/bundeslaender/aNN/` hub pages and listed the Autobahnen under `/staedte/`. Fixed (commit "Fix: mark Autobahn rows…"); earlier page totals in this log (e.g. 301, 359) included those 54 junk hubs. Rule: every `autobahn-*` row in geo.txt must end with a tab and `ab`.
 - Main-text length: median about 670 words on city and Autobahn pages, minimum about 490 (new city pages 514–680) (target in STYLE.md: 650–950).
 

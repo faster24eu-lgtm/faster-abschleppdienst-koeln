@@ -412,3 +412,7 @@ stadt-herford	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte i
 stadt-unna	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-luenen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-lingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-dueren	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-euskirchen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-kerpen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-frechen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
