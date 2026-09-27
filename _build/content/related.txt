@@ -151,3 +151,9 @@ stadt-hannover	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte 
 stadt-nuernberg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-duisburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-dresden	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel der A17
+stadt-bochum	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-wuppertal	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-bielefeld	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-bonn	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-wuppertal	ratgeber-panne-im-tunnel.html	Panne im Tunnel	L418-Tunnel
+stadt-bielefeld	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Ostwestfalentunnel

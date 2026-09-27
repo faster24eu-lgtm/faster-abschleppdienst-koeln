@@ -30,3 +30,7 @@ stadt-dresden	Dresden	Sachsen
 stadt-hannover	Hannover	Niedersachsen	
 stadt-nuernberg	Nürnberg	Bayern	
 stadt-duisburg	Duisburg	Nordrhein-Westfalen	
+stadt-bochum	Bochum	Nordrhein-Westfalen	
+stadt-wuppertal	Wuppertal	Nordrhein-Westfalen	
+stadt-bielefeld	Bielefeld	Nordrhein-Westfalen	
+stadt-bonn	Bonn	Nordrhein-Westfalen	
