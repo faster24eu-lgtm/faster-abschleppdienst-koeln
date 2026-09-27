@@ -128,3 +128,10 @@ autobahn-a43	A43 Münster bis Wuppertal	A43
 stadt-wilhelmshaven	Wilhelmshaven	Niedersachsen	
 stadt-emden	Emden	Niedersachsen	
 stadt-lueneburg	Lüneburg	Niedersachsen	
+stadt-rosenheim	Rosenheim	Bayern	
+stadt-passau	Passau	Bayern	
+stadt-goerlitz	Görlitz	Sachsen	
+stadt-greifswald	Greifswald	Mecklenburg-Vorpommern	
+stadt-stralsund	Stralsund	Mecklenburg-Vorpommern	
+stadt-celle	Celle	Niedersachsen	
+stadt-giessen	Gießen	Hessen	

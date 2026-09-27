@@ -93,3 +93,10 @@ stadt-landshut	muenchen,regensburg,ingolstadt,passau,freising,erding,rosenheim,a
 stadt-wilhelmshaven	oldenburg,bremerhaven,bremen,emden,osnabrueck,hannover,kiel,hamburg	a29,a28,a27
 stadt-emden	oldenburg,wilhelmshaven,bremen,osnabrueck,bremerhaven,muenster	a31,a28
 stadt-lueneburg	hamburg,luebeck,schwerin,hannover,braunschweig,wolfsburg,kiel,bremen	a7,a1
+stadt-rosenheim	muenchen,landshut,ingolstadt,augsburg,passau,regensburg	a8,a93
+stadt-passau	regensburg,landshut,rosenheim,ingolstadt,muenchen,nuernberg	a3,a94
+stadt-goerlitz	dresden,cottbus,chemnitz,leipzig,berlin	a4
+stadt-greifswald	rostock,stralsund,schwerin,luebeck,potsdam,berlin	a20
+stadt-stralsund	rostock,greifswald,schwerin,luebeck,berlin	a20
+stadt-celle	hannover,braunschweig,wolfsburg,lueneburg,hildesheim,salzgitter	a7,a2
+stadt-giessen	siegen,darmstadt,frankfurt,kassel,offenbach,hanau,mainz,wiesbaden	a5,a45

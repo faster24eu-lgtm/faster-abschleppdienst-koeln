@@ -1,0 +1,200 @@
+=== stadt-rosenheim | Abschleppdienst Rosenheim: Pannenhilfe A8, A93, B15 | Pannenhilfe und Abschleppen in Rosenheim: Inntal zwischen München und Salzburg, A8, A93, B15 und Umgehung Panorama-Schwaig. | page ===
+<!--AREAS: Rosenheim, Kolbermoor, Bad Aibling, Stephanskirchen, Autobahndreieck Inntal -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rosenheim</p><h1>Abschleppdienst Rosenheim</h1><p class="lead">Rosenheim liegt im Inntal zwischen München, Salzburg und Innsbruck an der A8 und A93. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Verkehrsknoten im Inntal</h2>
+<p>Die kreisfreie Stadt Rosenheim liegt in Oberbayern im Alpenvorland am Zusammenfluss von Mangfall und Inn, auf 446 Metern Höhe, mit über 65.000 Einwohnern. Sie ist ein wichtiger Verkehrsknotenpunkt zwischen München (etwa 60 Kilometer nordwestlich), Salzburg (etwa 80 Kilometer östlich) und Innsbruck (etwa 110 Kilometer südwestlich) sowie dem Brennerpass nach Italien (etwa 130 Kilometer). Im Umkreis von etwa 25 Kilometern liegen Chiemsee und Alpen. Für Ihre Standortangabe heißt das: Wer in Richtung Berge fährt, sollte uns Ortsteil, Straße oder Anschlussstelle nennen, nicht nur „vor dem Brenner“.</p>
+<h2>A8, A93 und Dreieck Inntal</h2>
+<p>An das überregionale Straßennetz ist Rosenheim über die A8 München–Salzburg und die A93 Rosenheim–Kufstein sowie die B15 angebunden. Nahe der Stadt liegt das Autobahndreieck Inntal, an dem die Inntal-Autobahn von der A8 abzweigt. Bei einer Panne nennen Sie uns Fahrtrichtung, Anschlussstelle und ob Sie Richtung Salzburg, München oder Kufstein fahren. Mehr auf <a href="autobahn-a8.html">Panne auf der A8</a> und <a href="stadt-muenchen.html">Abschleppdienst München</a>.</p>
+<h2>B15 und die Umgehung</h2>
+<p>Die B15 wurde im Sommer 2005 zwischen Autobahn und „Panorama-Kreuzung“ auf vier Fahrstreifen ausgebaut. Langfristig ist ein autobahnähnlicher Neubau, die B15neu, zwischen Regensburg, Landshut und Rosenheim geplant. Die südliche Umgehung Panorama-Schwaig wurde nach einem Volksentscheid im Jahr 2003 gebaut und im Mai 2007 fertiggestellt. Weitere Projekte sind die Westtangente und die dritte Innbrücke bei Langenpfunzen. Wenn Sie in der Nähe von Umgehungsstraßen liegen bleiben, nennen Sie uns die Kreuzung oder den Ortsteil. Mehr auf <a href="stadt-landshut.html">Abschleppdienst Landshut</a>.</p>
+<h2>Innbrücke und Altstadt</h2>
+<p>Das Stadtzentrum liegt nicht direkt am Flussufer, weil das Gelände an der Innbrücke wegen des sumpfigen Bodens im Zuge der Mangfallmündung lange nicht bebaut werden konnte. Der Max-Josefs-Platz ist seit 1984 Fußgängerzone und von Bürgerhäusern im Inn-Salzach-Stil umgeben. Wenn Sie in der Innenstadt liegen bleiben, sagen Sie uns die Straße und die nächste Querstraße außerhalb der Fußgängerzone.</p>
+<h2>So nennen Sie Ihren Standort in Rosenheim</h2>
+<ul class="ticks">
+<li>Ortsteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf A8 oder A93: Richtung, Anschlussstelle, Dreieck Inntal.</li>
+<li>Auf B15: Fahrtrichtung und Kreuzung.</li>
+<li>Bei Steigungen im Alpenvorland: Richtung und ob es bergab geht.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-augsburg.html">Augsburg</a> und <a href="stadt-ingolstadt.html">Ingolstadt</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Rosenheim</h2>
+<details><summary>Welche Autobahnen führen nach Rosenheim?</summary><div>Die A8 München–Salzburg und die A93 Rosenheim–Kufstein.</div></details>
+<details><summary>Wo liegt das Dreieck Inntal?</summary><div>Nahe der Stadt, dort zweigt die Inntal-Autobahn von der A8 ab.</div></details>
+<details><summary>Wie viele Fahrstreifen hat die B15 bei Rosenheim?</summary><div>Vier zwischen Autobahn und Panorama-Kreuzung, seit dem Ausbau im Sommer 2005.</div></details>
+<details><summary>Kommen Sie auch nach Kolbermoor und Bad Aibling?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-passau | Abschleppdienst Passau: Pannenhilfe A3, Donaubrücke Schalding | Pannenhilfe und Abschleppen in Passau: Dreiflüssestadt, A3 mit der längsten deutschen Donaubrücke, Innkreisautobahn, Grenzverkehr. | page ===
+<!--AREAS: Passau, Passau-Innstadt, Passau-Hacklberg, Passau-Grubweg, Schalding, Suben -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Passau</p><h1>Abschleppdienst Passau</h1><p class="lead">Passau liegt an der Grenze zu Österreich am Zusammenfluss von Donau, Inn und Ilz, an der A3. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Dreiflüssestadt an der Grenze</h2>
+<p>Passau ist eine kreisfreie Universitätsstadt in Niederbayern mit rund 53.000 Einwohnern, die nach Landshut zweitgrößte Stadt des Regierungsbezirks. Die Altstadt liegt auf einer langgestreckten Halbinsel zwischen Donau und Inn, nördlich der Donau läuft der Bayerische Wald aus. Offizielle oder politische Stadtteile gibt es nicht, die Aufteilung in Stadtteile ist eher statistischer Natur. Nennen Sie uns bei einer Panne deshalb die Straße und den Ortsteil, etwa Hacklberg, Grubweg oder die Innstadt. Bedingt durch die wasserreichen Flüsse kommt es in den Flussniederungen häufig zu Nebel, sagen Sie uns, wenn die Sicht schlecht ist.</p>
+<h2>A3, Donaubrücke Schalding und Innkreisautobahn</h2>
+<p>Durch die A3 ist Passau mit Regensburg und durch die Innkreisautobahn mit Wels in Oberösterreich verbunden. Westlich des Stadtgebietes verläuft die A3 über die Donaubrücke Schalding, mit 1,02 Kilometern die längste Brücke der A3 und die längste deutsche Donaubrücke. Bei einer Panne auf der Brücke: Warnblinker, Warnweste, Fahrzeug nicht überqueren. Mehr auf <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="stadt-regensburg.html">Abschleppdienst Regensburg</a>.</p>
+<h2>Grenzverkehr bei Suben</h2>
+<p>Am Grenzübergang Suben wurden 2018 mehr als 3,5 Millionen Lkw gezählt. Passauer Bürger, die nahe der A3 wohnen, fordern seit längerer Zeit einen besseren Lärmschutz. Wenn Sie im Stau liegen bleiben, sagen Sie uns die Länge des Staus und die Richtung. Südlich von Passau bei Pocking soll die A94 nach München in ihrem Endausbau in die A3 münden, bisher sind lediglich Teilstrecken fertiggestellt worden.</p>
+<h2>Bundesstraßen und Achleiten</h2>
+<p>Mit den Bundesstraßen B8, B12, B85 und B388 ist Passau an das weitere Fernstraßennetz angebunden. Die im Stadtgebiet verlaufende Staatsstraße 2125 verbindet über den ehemaligen Grenzübergang Achleiten mit der österreichischen Nibelungenstraße B130. Wenn Sie an diesen Straßen liegen bleiben, sagen Sie uns Straße, Ortsteil und Richtung.</p>
+<h2>Hochwasser und Altstadt</h2>
+<p>Das Hochwasser vom Juli 1954 war die größte Flutkatastrophe in Passau im 20. Jahrhundert, die Donau erreichte am 10. Juli 1954 einen Höchststand von 12,2 Metern. Für Ihre Standortangabe heißt das: Die Altstadt liegt zwischen Flüssen und Zufahrten sind eng, nennen Sie uns Straße und nächste Brücke. Bei Starkregen, siehe <a href="ratgeber-wasserschlag-ueberschwemmung.html">Wasserschlag und Überschwemmung</a>.</p>
+<h2>So nennen Sie Ihren Standort in Passau</h2>
+<ul class="ticks">
+<li>Ortsteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf der A3: Richtung, Anschlussstelle, Donaubrücke Schalding.</li>
+<li>Bei Grenzstau: Suben oder Grenzübergang, Länge des Staus.</li>
+<li>In der Altstadt: Straße, nächste Brücke.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-landshut.html">Landshut</a> und <a href="stadt-regensburg.html">Regensburg</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Passau</h2>
+<details><summary>Warum heißt Passau Dreiflüssestadt?</summary><div>Weil hier Donau, Inn und Ilz zusammenfließen.</div></details>
+<details><summary>Wie lang ist die Donaubrücke Schalding?</summary><div>1,02 Kilometer, die längste Brücke der A3 und die längste deutsche Donaubrücke.</div></details>
+<details><summary>Welche Autobahn führt nach Österreich?</summary><div>Die A3, die dort mit der Innkreisautobahn in Richtung Wels verbunden ist.</div></details>
+<details><summary>Gibt es offizielle Stadtteile?</summary><div>Nein, die Aufteilung ist statistischer Natur.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-goerlitz | Abschleppdienst Görlitz: Pannenhilfe A4, B6, B99, Neiße | Pannenhilfe und Abschleppen in Görlitz: östlichste Stadt Deutschlands, A4 mit Grenzübergang Ludwigsdorf, B6, B99 und Altstadt. | page ===
+<!--AREAS: Görlitz, Görlitz-Königshufen, Görlitz-Hagenwerder, Görlitz-Weinhübel, Zgorzelec, Ludwigsdorf -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Görlitz</p><h1>Abschleppdienst Görlitz</h1><p class="lead">Görlitz liegt an der Lausitzer Neiße an der Grenze zu Polen, am Ende der A4. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Östlichste Stadt Deutschlands</h2>
+<p>Görlitz ist die östlichste Stadt Deutschlands, Kreisstadt des Landkreises Görlitz in Sachsen und die größte Stadt der Oberlausitz. Sie liegt am westlichen Ufer der Lausitzer Neiße, die seit 1945 die Grenze zu Polen bildet. Die östlichen Stadtteile jenseits des Flusses bilden die eigenständige polnische Stadt Zgorzelec. Seit 1998 bilden beide zusammen eine Europastadt. Die historische Altstadt blieb im Zweiten Weltkrieg fast völlig verschont, mit über 4.000 Kultur- und Baudenkmalen ist Görlitz das flächengrößte zusammenhängende Denkmalgebiet Deutschlands. Nennen Sie uns bei einer Panne Ortsteil und Straße und ob Sie auf deutscher Seite stehen.</p>
+<h2>A4 und Grenzübergang Ludwigsdorf</h2>
+<p>Das Straßennetz hat eine Gesamtlänge von rund 217 Kilometern, davon sind 3,7 Kilometer Autobahn. Durch das nördliche Stadtgebiet führt die A4 Erfurt–Dresden–Görlitz, die jenseits der Neiße als polnische A4 über Breslau zur ukrainischen Grenze weiterführt. Nach Polen bestehen drei Grenzübergänge für den Straßenverkehr: der Autobahngrenzübergang Ludwigsdorf, der Grenzübergang Stadtbrücke und der Grenzübergang Hagenwerder–Radomierzyce. Zwischen Königshufen und der A4 liegt ein weiteres Gewerbegebiet. Mehr auf <a href="autobahn-a4.html">Panne auf der A4</a> und <a href="stadt-dresden.html">Abschleppdienst Dresden</a>. Wenn Sie kurz vor der Grenze liegen bleiben, sagen Sie uns Fahrtrichtung und Anschlussstelle.</p>
+<h2>B6, B99 und B115</h2>
+<p>Die B6 umgeht das Stadtzentrum im Nordwesten in Richtung Bautzen und geht am nordwestlichen Stadtrand in die B115 nach Forst (Lausitz) über. Die B99 führt durch das Stadtgebiet nach Zittau. Wenn Sie an einer dieser Straßen liegen bleiben, nennen Sie uns Straße, Ortsteil und Fahrtrichtung. Mehr auf <a href="stadt-cottbus.html">Abschleppdienst Cottbus</a>.</p>
+<h2>Altstadt: enge Gassen und Parkplätze</h2>
+<p>Das Stadtzentrum wird stark vom motorisierten Individualverkehr in Anspruch genommen, selbst engste Gassen werden von Autos befahren und als Parkplatz verwendet. Seit 2006 werden zunehmend verkehrsberuhigte Bereiche eingerichtet, der Untermarkt ist weitgehend gesperrt. Am Bahnhof und am City Center Frauentor wurden Parkhäuser errichtet, in der Kernstadt werden rund 1800 von insgesamt etwa 3200 Stellplätzen bewirtschaftet. Die einzige große Fußgängerzone befindet sich in der Berliner Straße. Wenn Ihr Fahrzeug in einem engen Gässchen oder Parkhaus nicht anspringt, nennen Sie uns die Gasse oder das Parkhaus und Ebene. Mehr auf <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Panne im Parkhaus</a>.</p>
+<h2>So nennen Sie Ihren Standort in Görlitz</h2>
+<ul class="ticks">
+<li>Ortsteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf der A4: Richtung, Anschlussstelle, Ludwigsdorf.</li>
+<li>Auf B6, B99 oder B115: Fahrtrichtung und Querstraße.</li>
+<li>In der Altstadt: Gasse, Platz oder Parkhaus mit Ebene.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-dresden.html">Dresden</a> und <a href="stadt-cottbus.html">Cottbus</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Görlitz</h2>
+<details><summary>Wie viele Grenzübergänge gibt es nach Polen?</summary><div>Drei für den Straßenverkehr: Ludwigsdorf (Autobahn), Stadtbrücke und Hagenwerder–Radomierzyce.</div></details>
+<details><summary>Welche Autobahn endet in Görlitz?</summary><div>Die A4 von Erfurt über Dresden, die dahinter als polnische A4 weiterführt.</div></details>
+<details><summary>Wie lang ist das Straßennetz in Görlitz?</summary><div>Rund 217 Kilometer, davon 3,7 Kilometer Autobahn.</div></details>
+<details><summary>Kommen Sie auch nach Zgorzelec?</summary><div>Das ist eine Frage des Einzelfalls. Nennen Sie uns Ort und Straße, dann klären wir, ob eine Anfahrt möglich ist.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-greifswald | Abschleppdienst Greifswald: Pannenhilfe A20, B105, B109 | Pannenhilfe und Abschleppen in Greifswald: Hansestadt an der Ostsee, A20 mit Anschlussstelle Greifswald, B105, B109 und Zufahrten nach Usedom und Rügen. | page ===
+<!--AREAS: Greifswald, Greifswald-Eldena, Greifswald-Schönwalde, Wieck, Ostseeviertel, Jarmen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Greifswald</p><h1>Abschleppdienst Greifswald</h1><p class="lead">Greifswald liegt in Vorpommern, südwestlich der Stadt verläuft die A20. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Hansestadt in Vorpommern</h2>
+<p>Greifswald ist eine Hansestadt in Mecklenburg-Vorpommern an der Ostsee und Universitätsstadt. Für Reisende ist sie Ausgangspunkt zu den Inseln: Von Greifswald aus kommt man mit dem Pkw in etwa 30 Minuten zur Insel Usedom oder zur Insel Rügen. Wenn Ihr Fahrzeug bei einem Ausflug ausfällt, nennen Sie uns Straße, Ortsteil und Fahrtrichtung.</p>
+<h2>A20 und Bundesstraßen</h2>
+<p>Südwestlich von Greifswald verläuft die A20 mit der Anschlussstelle Greifswald, durch die die Stadt per Fahrzeug an Hamburg und Berlin angeschlossen ist. Durch die Stadt führen die B105 und die B109. Zur Fahrtstrecke der A20 lesen Sie <a href="autobahn-a20.html">Panne auf der A20</a>. Bei einer Panne nennen Sie uns Fahrtrichtung, Anschlussstelle und ob Sie vor oder hinter dem Kreuz Gützkow stehen. Mehr auf <a href="stadt-rostock.html">Abschleppdienst Rostock</a> und <a href="stadt-stralsund.html">Abschleppdienst Stralsund</a>.</p>
+<h2>Fernbus und Nahverkehr</h2>
+<p>Greifswald ist durch Fernbuslinien zu erreichen, die am Greifswalder ZOB halten. Die Stadtwerke Greifswald betreiben drei Buslinien, die Wohngebiete mit der Innenstadt verbinden. Wenn Sie in der Nähe von Haltestellen liegen bleiben, sagen Sie uns die Haltestelle als Landmarke, halten Sie Bushaltebuchten frei.</p>
+<h2>So nennen Sie Ihren Standort in Greifswald</h2>
+<ul class="ticks">
+<li>Ortsteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf der A20: Richtung, Anschlussstelle Greifswald.</li>
+<li>Auf B105 oder B109: Fahrtrichtung und Querstraße.</li>
+<li>Auf dem Weg zu Usedom oder Rügen: Straße und nächster Ort.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-schwerin.html">Schwerin</a> und <a href="stadt-luebeck.html">Lübeck</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Greifswald</h2>
+<details><summary>Welche Autobahn führt nach Greifswald?</summary><div>Die A20 mit der Anschlussstelle Greifswald südwestlich der Stadt.</div></details>
+<details><summary>Welche Bundesstraßen führen durch die Stadt?</summary><div>Die B105 und die B109.</div></details>
+<details><summary>Wie weit ist es nach Usedom oder Rügen?</summary><div>Mit dem Pkw etwa 30 Minuten.</div></details>
+<details><summary>Kommen Sie auch nach Wieck?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-stralsund | Abschleppdienst Stralsund: Pannenhilfe A20, Rügenbrücke, B96, B105 | Pannenhilfe und Abschleppen in Stralsund: Tor zur Insel Rügen, Zubringer zur A20, Rügenbrücke von 2007, Rügendamm, B96, B105 und B194. | page ===
+<!--AREAS: Stralsund, Stralsund-Grünhufe, Stralsund-Knieper, Dänholm, Altefähr, Rügen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stralsund</p><h1>Abschleppdienst Stralsund</h1><p class="lead">Stralsund liegt am Strelasund und gilt als Tor zur Insel Rügen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Altstadtinsel am Strelasund</h2>
+<p>Stralsund ist die Kreisstadt des Landkreises Vorpommern-Rügen und wird wegen ihrer Lage am Strelasund, einer Meerenge der Ostsee zwischen Festland und der Insel Rügen, „Tor zur Insel Rügen“ genannt. Die Altstadt gehört seit 2002 zusammen mit Wismar zum UNESCO-Weltkulturerbe. Sie ist vom Strelasund und den drei Stadtteichen Knieperteich, Frankenteich und Moorteich umgeben und liegt dadurch nahezu rundum von Wasser begrenzt als Altstadtinsel. Für Ihre Standortangabe heißt das: Zufahrten zur Altstadt laufen über wenige Dämme und Brücken, nennen Sie uns Straße und Zufahrt.</p>
+<h2>Rügenbrücke und Rügendamm</h2>
+<p>Es gibt sowohl einen Damm mit Brücke zur Verbindung zwischen der Stadt und der Insel, den Rügendamm über die Insel Dänholm nach Altefähr, als auch die Rügenbrücke. Beide Verbindungen bilden die einzigen festen Strelasundquerungen. Die 2007 als Hochbrücke errichtete neue Rügenbrücke ist das bedeutendste Verkehrsbauwerk der Stadt und entlastet den alten Rügendamm vom Autoverkehr. Wenn Sie vor einer der beiden Querungen liegen bleiben, nennen Sie uns, auf welcher Seite und in welche Richtung Sie fahren. Bei einer Panne auf einer Brücke gilt: Warnblinker, Warnweste, dahinter Abstand, mehr im <a href="ratgeber-panne-autobahn.html">Ratgeber</a>.</p>
+<h2>A20-Zubringer und Bundesstraßen</h2>
+<p>Stralsund hat einen Zubringer zur A20 und liegt an den Bundesstraßen B105 aus Richtung Rostock beziehungsweise Greifswald und Neubrandenburg, B194 aus Richtung Grimmen und B96 aus Richtung Bergen auf Rügen. Mehr auf <a href="autobahn-a20.html">Panne auf der A20</a>, <a href="stadt-greifswald.html">Abschleppdienst Greifswald</a> und <a href="stadt-rostock.html">Abschleppdienst Rostock</a>. Bei einer Panne im Sommer, wenn viele Urlauber auf dem Weg nach Rügen sind, nennen Sie uns bitte auch, ob Sie im Stau stehen.</p>
+<h2>So nennen Sie Ihren Standort in Stralsund</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf der A20 oder am Zubringer: Richtung und Anschlussstelle.</li>
+<li>Auf Rügenbrücke oder Rügendamm: Fahrtrichtung, Festland oder Insel.</li>
+<li>Auf B96, B105 oder B194: Fahrtrichtung und nächster Ort.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-rostock.html">Rostock</a> und <a href="stadt-schwerin.html">Schwerin</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Stralsund</h2>
+<details><summary>Wie kommt man von Stralsund nach Rügen?</summary><div>Über die 2007 eröffnete Rügenbrücke oder über den Rügendamm, beides sind die einzigen festen Strelasundquerungen.</div></details>
+<details><summary>Welche Bundesstraßen führen nach Stralsund?</summary><div>B105, B194 und B96.</div></details>
+<details><summary>Warum ist die Altstadt eine Insel?</summary><div>Sie ist vom Strelasund und drei Stadtteichen fast rundum von Wasser umgeben.</div></details>
+<details><summary>Kommen Sie auch nach Altefähr?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-celle | Abschleppdienst Celle: Pannenhilfe A7, B3, B214, B191 | Pannenhilfe und Abschleppen in Celle: Tor zur Lüneburger Heide, Fachwerk-Altstadt, B3, B214, B191 und Landesstraßen zur A7. | page ===
+<!--AREAS: Celle, Celle-Altencelle, Celle-Garßen, Celle-Groß Hehlen, Celle-Vorwerk, Celle-Wietzenbruch -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Celle</p><h1>Abschleppdienst Celle</h1><p class="lead">Celle liegt im Urstromtal der Aller, das Netz der Bundesstraßen führt in alle Richtungen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Südliches Tor zur Lüneburger Heide</h2>
+<p>Celle ist eine große selbständige Stadt in Niedersachsen mit 66.930 Einwohnern (31. Dezember 2025) und Kreisstadt des Landkreises Celle. Sie gilt als südliches Tor zur Lüneburger Heide und hat eine Altstadt mit über 400 Fachwerkhäusern und ein Renaissance- und Barockschloss. Celle liegt im Urstromtal der Aller, zur Landeshauptstadt Hannover sind es rund 40 Kilometer, Braunschweig liegt 55 Kilometer südöstlich, nach Hamburg sind es 120 Kilometer. Nach Lüneburg ist Celle die zweitgrößte Stadt zwischen Hannover und Hamburg. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-hannover.html">Abschleppdienst Hannover</a> und <a href="stadt-lueneburg.html">Abschleppdienst Lüneburg</a>.</p>
+<h2>B3, B214 und B191</h2>
+<p>Wichtige Anbindungen sind die B3 in Nord-Süd-Richtung, nach Norden Richtung Soltau und Hamburg, nach Süden Richtung Hannover, die B214 nach Südosten Richtung Braunschweig und nach Westen Richtung Nienburg sowie die B191 nach Nordosten Richtung Uelzen, Lüneburg und Ludwigslust. Wenn Sie an einer dieser Straßen liegen bleiben, sagen Sie uns Straße, Fahrtrichtung und nächsten Ort.</p>
+<h2>Der Weg zur A7</h2>
+<p>Zur A7 führen Landesstraßen: Die Landesstraße L310 führt über Fuhrberg nach Südwesten zur Anschlussstelle Mellendorf an der A7, die L180 über Winsen (Aller) nach Westnordwesten zur Anschlussstelle Raststätte Allertal an der A7, die L282 nach Ostnordosten über Beedenbostel, Eldingen und Steinhorst nach Wittingen. Wenn Sie zwischen Celle und der A7 liegen bleiben, sagen Sie uns die Landesstraße. Mehr auf <a href="autobahn-a7.html">Panne auf der A7</a>.</p>
+<h2>Altstadt mit Fachwerk</h2>
+<p>Die Altstadt hat eine enge, historische Bebauung, die Zufahrten sind schmal. Wenn Ihr Fahrzeug im Fachwerkviertel nicht startet oder blockiert steht, nennen Sie uns Straße und Hausnummer, damit ein Abschleppfahrzeug die Zufahrt planen kann. Mehr im <a href="ratgeber-auto-springt-nicht-an.html">Ratgeber Auto springt nicht an</a>.</p>
+<h2>So nennen Sie Ihren Standort in Celle</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf B3, B214 oder B191: Fahrtrichtung, nächster Ort.</li>
+<li>Auf den Landesstraßen zur A7: L310, L180 oder L282.</li>
+<li>In der Altstadt: Straße und Hinweis auf enge Zufahrt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-braunschweig.html">Braunschweig</a> und <a href="stadt-wolfsburg.html">Wolfsburg</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Celle</h2>
+<details><summary>Wie viele Einwohner hat Celle?</summary><div>66.930 am 31. Dezember 2025.</div></details>
+<details><summary>Welche Bundesstraßen führen nach Celle?</summary><div>B3, B214 und B191.</div></details>
+<details><summary>Wie erreiche ich die A7 von Celle?</summary><div>Über Landesstraßen, zum Beispiel die L310 nach Mellendorf oder die L180 zur Raststätte Allertal.</div></details>
+<details><summary>Wie weit ist es nach Hannover?</summary><div>Rund 40 Kilometer.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-giessen | Abschleppdienst Gießen: Pannenhilfe A5, A45, A485, B49 | Pannenhilfe und Abschleppen in Gießen: Universitätsstadt in Mittelhessen, Gießener Ring mit A480 und A485, A5, A45 und B49 Richtung Wetzlar. | page ===
+<!--AREAS: Gießen, Gießen-Wieseck, Gießen-Kleinlinden, Gießen-Lützellinden, Wettenberg, Lich -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gießen</p><h1>Abschleppdienst Gießen</h1><p class="lead">Gießen liegt in Mittelhessen an einem Teil-Autobahnnetz, dem Gießener Ring, zwischen A5 und A45. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Verwaltungszentrum Mittelhessens</h2>
+<p>Gießen ist eine Universitätsstadt im gleichnamigen Landkreis in Mittelhessen mit 88.544 Einwohnern (31. Dezember 2025), die siebtgrößte Stadt des Landes Hessen und eine der sechs Sonderstatusstädte des Landes. Als Sitz des Regierungsbezirks Gießen und des Landkreises ist sie Verwaltungszentrum Mittelhessens und bedeutender Verkehrsknotenpunkt. Mit dem zwölf Kilometer westlich gelegenen Wetzlar bildet sie einen Agglomerationsraum mit etwa 200.000 Einwohnern. Marburg liegt 30 Kilometer nördlich, Fulda 80 Kilometer östlich, Frankfurt 65 Kilometer südlich. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
+<h2>Gießener Ring: A480, A485, B429, B49</h2>
+<p>Gießen ist von einem Teil-Autobahnnetz umgeben, dem Gießener Ring. Er besteht aus den regionalen Autobahnen A480 (von Wettenberg zum Reiskirchener Dreieck) und A485, der im Westteil des Rings verlaufenden B429 sowie der überregionalen B49 (Trier–Wetzlar–Alsfeld). Die A485 ersetzt im Gießener Raum die B3, die früher mitten durch Gießen verlief. Wenn Sie auf dem Ring liegen bleiben, sagen Sie uns die Autobahnnummer und die Richtung, denn die Zahlen A480 und A485 unterscheiden sich nur in einer Ziffer.</p>
+<h2>A5 und A45</h2>
+<p>Komplettiert wird das Netz mit den überregionalen Autobahnen A5 von Frankfurt nach Kassel und A45 von Dortmund nach Aschaffenburg. In südöstliche Richtung nach Lich und Hungen verläuft außerdem die B457. Bei einer Panne auf der A5 oder A45 nennen Sie uns Fahrtrichtung und Kreuz, mehr auf <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>, <a href="autobahn-a45.html">Panne auf der A45</a>, <a href="stadt-frankfurt.html">Abschleppdienst Frankfurt</a> und <a href="stadt-kassel.html">Abschleppdienst Kassel</a>.</p>
+<h2>Gießen und Wetzlar als Doppelraum</h2>
+<p>Gießen und Wetzlar liegen etwa zwölf Kilometer auseinander, die B49 (Trier–Wetzlar–Alsfeld) gehört zum Gießener Ring. Wenn Sie zwischen den beiden Städten liegen bleiben, sagen Sie uns, welche Stadt Sie zuletzt passiert haben und in welche Richtung Sie fahren.</p>
+<h2>So nennen Sie Ihren Standort in Gießen</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf A5, A45, A480 oder A485: Nummer, Richtung, Anschlussstelle.</li>
+<li>Auf B49 oder B429: Fahrtrichtung, Querstraße.</li>
+<li>Bei Baustellen: ob Sie im Baustellenbereich stehen.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-siegen.html">Siegen</a> und <a href="stadt-darmstadt.html">Darmstadt</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Gießen</h2>
+<details><summary>Was ist der Gießener Ring?</summary><div>Ein Teil-Autobahnnetz aus A480, A485, B429 und B49 rund um die Stadt.</div></details>
+<details><summary>Welche Autobahnen führen bei Gießen vorbei?</summary><div>Die A5 von Frankfurt nach Kassel und die A45 von Dortmund nach Aschaffenburg.</div></details>
+<details><summary>Welche Straße ersetzte die B3?</summary><div>Im Gießener Raum ersetzt die A485 die frühere B3.</div></details>
+<details><summary>Wie weit ist Wetzlar entfernt?</summary><div>Zwölf Kilometer westlich, beide Städte bilden einen Agglomerationsraum.</div></details>
+</div></section>
+@@CTA@@
