@@ -345,3 +345,6 @@ Owner note: always check `grep "^stadt-<slug>" geo.txt` before assuming a city i
 ## Cycle 41 (2026-09-27 ~09:20): 4 pages closing the last COVERAGE.md Tier B gaps
 Soest, Nordhorn, Nienburg/Weser, Verden (Aller). 370 pages, audit 0 errors, similarity max 29.3%.
 This closes essentially all of the open Tier B candidates listed in COVERAGE.md. Owner check: Nienburg "nächste Autobahn ~40 km" and unrealised A32/A35 (historical planning fact, not current); Nordhorn 2019 Nordumgehung; Soest has no Autobahn in the sourced extract, deliberately left the geo_nb.txt autobahn field empty rather than guessing.
+
+## Cycle 42 (2026-09-27 ~09:25): Hürth + quality expansions on shortest pages
+Added Hürth (Rhein-Erft-Kreis, A1/A553/B265, Bahnhof Hürth-Kalscheuren). Expanded the shortest existing pages to bring them nearer the 650-950 word target: A23 (speed limits), Wolfenbüttel (Stadtteile, Herzog August Bibliothek), Hameln (Ortsteile), Gladbeck (Zeche/Strukturwandel history), A49 (Dannenröder Forst protests). 371 pages, audit 0 errors, similarity max 29.3%.

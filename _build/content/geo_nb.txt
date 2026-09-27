@@ -217,3 +217,4 @@ stadt-soest	unna,hamm,arnsberg,luenen,castrop-rauxel
 stadt-nordhorn	lingen,rheine,emden	a30,a31
 stadt-nienburg	verden,hannover,osnabrueck,celle	a27
 stadt-verden	nienburg,bremen,celle,lueneburg	a27
+stadt-huerth	bergheim,kerpen,frechen,bonn	a1,a61

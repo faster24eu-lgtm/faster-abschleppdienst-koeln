@@ -295,3 +295,4 @@ stadt-soest	Soest	Nordrhein-Westfalen
 stadt-nordhorn	Nordhorn	Niedersachsen
 stadt-nienburg	Nienburg/Weser	Niedersachsen
 stadt-verden	Verden (Aller)	Niedersachsen
+stadt-huerth	Hürth	Nordrhein-Westfalen	

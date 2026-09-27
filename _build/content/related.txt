@@ -459,3 +459,4 @@ stadt-soest	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im 
 stadt-nordhorn	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-nienburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-verden	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-huerth	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick

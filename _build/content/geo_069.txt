@@ -1,0 +1,28 @@
+=== stadt-huerth | Abschleppdienst Hürth: A1, A553, B265 | Pannenhilfe und Abschleppen in Hürth: Anschlussstellen Gleuel und Hürth an der A1, A553 ab Brühl, B265 als Luxemburger Straße. | page ===
+<!--AREAS: Hürth, Alt-Hürth, Knapsack, Gleuel, Efferen, Hermülheim, Kalscheuren, Fischenich, Ville -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hürth</p><h1>Abschleppdienst Hürth</h1><p class="lead">Hürth grenzt südwestlich direkt an Köln und liegt am Nordost-Hang der Ville. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zwölf Stadtteile in neun Stadtbezirken</h2>
+<p>Hürth ist eine mittlere kreisangehörige Stadt im Rhein-Erft-Kreis im Regierungsbezirk Köln. Der Ort verdankt seine Entstehung der industriellen Entwicklung durch die Erschließung der Braunkohlevorkommen im Rheinischen Braunkohlerevier. Das Stadtgebiet gliedert sich in drei Landschaftsräume, die zwölf Stadtteile werden in neun Stadtbezirke zusammengefasst, darunter Alt-Hürth, Knapsack, Gleuel, Efferen, Hermülheim, Kalscheuren und Fischenich. Nennen Sie uns bei einer Panne den Stadtteil und die Straße. Mehr auf <a href="index.html">Abschleppdienst Köln</a>, <a href="stadt-frechen.html">Abschleppdienst Frechen</a> und <a href="stadt-kerpen.html">Abschleppdienst Kerpen</a>.</p>
+<h2>A1, A553 und B265</h2>
+<p>Über die Anschlussstellen Gleuel und Hürth (früher Knapsack) ist die Stadt direkt an die A1 angebunden. Die östlichen Stadtteile und das Industriegebiet Kalscheuren nutzen auch die A553 ab Brühl für die Auffahrt zur A1/A61 oder alternativ die B265. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a1.html">Panne auf der A1</a> und <a href="autobahn-a61.html">Panne auf der A61</a>. Die B265, die Luxemburger Straße von Trier nach Köln, bildet zusammen mit der am Vorgebirge entlangführenden Bonnstraße das Verkehrskreuz für den Hürther Nah- und Regionalverkehr. Seit Jahren ist eine Umgehungsstraße für die Stadtteile Efferen und Hermülheim geplant, das kann künftig zu neuen Streckenführungen führen.</p>
+<h2>Bahnhof Hürth-Kalscheuren</h2>
+<p>Im Stadtteil Kalscheuren liegt der Bahnhof Hürth-Kalscheuren, an dem die Eifelstrecke von der linken Rheinstrecke Köln–Bonn–Koblenz abzweigt. Dort halten die Eifel-Bahn RB24, die Mittelrheinbahn RB26 und seit Dezember 2015 die Rhein-Wupper-Bahn RB48. Hürth ist außerdem an die frühere Vorgebirgsbahn angeschlossen, die heute als Stadtbahnlinie 18 der Kölner Verkehrs-Betriebe fährt, mit den Haltepunkten Efferen und Kiebitzweg sowie den Bahnhöfen Hürth-Hermülheim und Fischenich. Wenn Sie an einem dieser Bahnhöfe liegen bleiben, nennen Sie uns den genauen Namen und den Ausgang.</p>
+<h2>Chemiepark Knapsack und Güterverkehr</h2>
+<p>Für den Güterverkehr zum Chemiepark Knapsack mit Containerterminal ist die frühere Vorgebirgsbahn-Trasse über den Güterbahnhof Kendenich weiterhin in Betrieb. Wenn Ihr Lkw im Bereich des Chemieparks liegen bleibt, nennen Sie uns Tor, Straße und Fahrzeugart, siehe <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>.</p>
+<h2>So nennen Sie Ihren Standort in Hürth</h2>
+<ul class="ticks">
+<li>Stadtteil (Alt-Hürth, Knapsack, Gleuel, Efferen, Hermülheim …), Straße, Hausnummer.</li>
+<li>Auf A1 oder A553: Richtung, Anschlussstelle Gleuel oder Hürth.</li>
+<li>Auf der B265: Fahrtrichtung.</li>
+<li>Am Bahnhof: genauer Name (Kalscheuren, Hermülheim, Fischenich).</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-bergheim.html">Bergheim</a> und <a href="stadt-bonn.html">Bonn</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Hürth</h2>
+<details><summary>Welche Autobahnen führen nach Hürth?</summary><div>Die A1 über die Anschlussstellen Gleuel und Hürth, sowie die A553 ab Brühl.</div></details>
+<details><summary>Welche Bundesstraße durchquert Hürth?</summary><div>Die B265, die Luxemburger Straße von Trier nach Köln.</div></details>
+<details><summary>Wie viele Stadtteile hat Hürth?</summary><div>Zwölf, zusammengefasst in neun Stadtbezirke.</div></details>
+<details><summary>Welche Bahnlinien halten in Hürth-Kalscheuren?</summary><div>Die RB24, die RB26 und seit Dezember 2015 die RB48.</div></details>
+</div></section>
+@@CTA@@
