@@ -55,4 +55,15 @@ details{border:1px solid var(--line);padding:16px 18px;margin:0 0 10px;backgroun
 
 .citysearch{width:100%;max-width:420px;padding:12px;border:1px solid #ccc;font:inherit;border-radius:2px;margin-top:6px}.cityblock h2{font-size:20px;margin:26px 0 8px}.citylist{list-style:none;padding:0;margin:0 0 8px;columns:3;column-gap:24px}.citylist li{break-inside:avoid;margin:0 0 6px}
 @media(max-width:900px){.citylist{columns:2}}
+
+.cookie-banner{position:fixed;left:0;right:0;bottom:0;z-index:200;background:#fff;border-top:1px solid var(--line);box-shadow:0 -2px 14px rgba(0,0,0,.12)}
+.cookie-banner[hidden]{display:none}
+.cookie-in{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px 24px;padding:16px 0}
+.cookie-banner p{margin:0;font-size:14px;line-height:1.5;color:var(--ink);max-width:640px;flex:1 1 320px}
+.cookie-banner a{text-decoration:underline}
+.cookie-actions{display:flex;gap:10px;flex:0 0 auto}
+.cookie-btn{font-family:inherit;font-size:14px;font-weight:800;padding:12px 20px;border-radius:4px;cursor:pointer;border:1px solid #111;line-height:1.2}
+.cookie-accept{background:var(--yellow);border-color:var(--yellow);color:#111}.cookie-accept:hover{background:var(--yellow2)}
+.cookie-decline{background:#fff;color:#111}.cookie-decline:hover{background:var(--paper)}
+@media(max-width:520px){.cookie-in{flex-direction:column;align-items:stretch;padding:14px 0}.cookie-banner p{max-width:none}.cookie-actions{width:100%}.cookie-btn{flex:1}}
 @media(max-width:520px){.citylist{columns:1}}

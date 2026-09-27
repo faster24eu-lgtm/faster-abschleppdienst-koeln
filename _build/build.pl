@@ -16,8 +16,74 @@ my $footer = <<'EOT';
   <div><strong>Kontakt</strong><p><a href="tel:+4917641956993">+49 176 41956993</a><br><a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a><br>Sitz: De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p></div>
   <div><strong>Köln</strong><p><a href="index.html">Abschleppdienst Köln</a><br><a href="pannenhilfe-koeln.html">Pannenhilfe Köln</a><br><a href="abschleppen-bergung-koeln.html">Abschleppen &amp; Bergung Köln</a><br><a href="abschleppdienst-koeln-stadtteile.html">Stadtbezirke und Rheinbrücken</a><br><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a><br><a href="pannenhilfe-a3-koeln.html">Panne auf der A3</a><br><a href="pannenhilfe-a4-koeln.html">Panne auf der A4</a><br><a href="pannenhilfe-a1-koeln.html">Panne auf der A1</a></p></div>
   <div><strong>Karlsruhe bis Offenburg</strong><p><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden</a><br><a href="abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="abschleppdienst-a5.html">Panne auf der A5</a></p></div>
-  <div><strong>Ratgeber &amp; Rechtliches</strong><p><a href="staedte.html">Alle Städte</a><br><a href="bundeslaender.html">Bundesländer</a><br><a href="autobahnen.html">Autobahnen</a><br><a href="ratgeber.html">Alle Ratgeber</a><br><a href="kontakt.html">Kontakt</a><br><a href="impressum.html">Impressum</a><br><a href="datenschutz.html">Datenschutz</a></p></div>
+  <div><strong>Ratgeber &amp; Rechtliches</strong><p><a href="staedte.html">Alle Städte</a><br><a href="bundeslaender.html">Bundesländer</a><br><a href="autobahnen.html">Autobahnen</a><br><a href="ratgeber.html">Alle Ratgeber</a><br><a href="kontakt.html">Kontakt</a><br><a href="impressum.html">Impressum</a><br><a href="datenschutz.html">Datenschutz</a><br><a href="#" onclick="return window.openCookieBanner &amp;&amp; window.openCookieBanner(event)">Cookie-Einstellungen</a></p></div>
 </div><div class="wrap foot-bottom">© 2026 Faster Abschleppdienst</div></footer>
+EOT
+# Consent Mode default: must be present before the gtag.js loader on every page.
+my $consent_default = <<'EOT';
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {
+  'ad_storage': 'denied', 'ad_user_data': 'denied', 'ad_personalization': 'denied',
+  'analytics_storage': 'denied', 'wait_for_update': 500
+});
+</script>
+EOT
+# Google tag (Google Ads AW-10963026341) with call conversion / phone-swap config.
+# Phone number below must match the visible text exactly ("+49 176 41956993") for the number-swap to work.
+my $gtag_script = <<'EOT';
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10963026341"></script>
+<script>
+gtag('js', new Date());
+gtag('config', 'AW-10963026341');
+gtag('config', 'AW-10963026341/6YcCCJqizocdEKWDyuso', {
+  'phone_conversion_number': '+49 176 41956993'
+});
+</script>
+EOT
+# Reporting-only click events for phone and WhatsApp links (event delegation, no send_to/conversion label).
+my $click_script = <<'EOT';
+<script>
+document.addEventListener('click', function(e){
+  var a = e.target.closest('a[href]'); if (!a) return;
+  if (/^tel:/i.test(a.getAttribute('href'))) { gtag('event', 'phone_click', {'event_category': 'contact'}); }
+  else if (a.href.indexOf('wa.me') !== -1) { gtag('event', 'whatsapp_click', {'event_category': 'contact'}); }
+});
+</script>
+EOT
+# Cookie consent banner (vanilla JS, no libraries). Shown until the visitor accepts or declines; choice is
+# stored in localStorage and re-applied silently on later visits. "Cookie-Einstellungen" in the footer reopens it.
+my $cookie_banner = <<'EOT';
+<div class="cookie-banner" id="cookie-banner" hidden>
+  <div class="wrap cookie-in">
+    <p>Wir verwenden Cookies von Google, um zu messen, ob unsere Anzeigen zu Anrufen führen. Sie können zustimmen oder ablehnen. Mehr dazu in der <a href="datenschutz.html">Datenschutzerklärung</a>.</p>
+    <div class="cookie-actions">
+      <button type="button" class="cookie-btn cookie-decline" id="cookie-decline">Ablehnen</button>
+      <button type="button" class="cookie-btn cookie-accept" id="cookie-accept">Akzeptieren</button>
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+  var KEY = 'faster_cookie_consent';
+  var banner = document.getElementById('cookie-banner');
+  function apply(choice){
+    if (choice === 'granted') {
+      gtag('consent', 'update', {'ad_storage':'granted','ad_user_data':'granted','ad_personalization':'granted','analytics_storage':'granted'});
+    } else if (choice === 'denied') {
+      gtag('consent', 'update', {'ad_storage':'denied','ad_user_data':'denied','ad_personalization':'denied','analytics_storage':'denied'});
+    }
+  }
+  function stored(){ try { return localStorage.getItem(KEY); } catch(e){ return null; } }
+  function store(v){ try { localStorage.setItem(KEY, v); } catch(e){} }
+  var choice = stored();
+  if (choice) { apply(choice); } else if (banner) { banner.hidden = false; }
+  var acc = document.getElementById('cookie-accept'); if (acc) acc.addEventListener('click', function(){ store('granted'); apply('granted'); if (banner) banner.hidden = true; });
+  var dec = document.getElementById('cookie-decline'); if (dec) dec.addEventListener('click', function(){ store('denied'); apply('denied'); if (banner) banner.hidden = true; });
+  window.openCookieBanner = function(e){ if (e) e.preventDefault(); if (banner) banner.hidden = false; return false; };
+})();
+</script>
 EOT
 my $ld = <<'EOT';
 <script type="application/ld+json">
@@ -358,7 +424,7 @@ for my $slug (@order) {
   push @SITEMAP, [$curl,$slug] unless $slug eq 'danke';
   warn "TITLE>60 ($slug): ".plainlen($tt)." $tt\n" if plainlen($tt) > 60;
   warn "DESC>155 ($slug): ".plainlen($p->{desc})."\n" if plainlen($p->{desc}) > 155;
-  my $html = qq{<!doctype html>\n<html lang="de">\n<head>\n<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">\n<title>$tt</title>\n<meta name="description" content="$p->{desc}">\n$robots$canon$og<meta name="theme-color" content="#121212">\n<link rel="icon" href="assets/favicon.ico" sizes="any"><link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">\n<link rel="stylesheet" href="styles.css">\n$json</head>\n<body>\n$hd<main>\n$crumbs$body</main>\n$footer</body>\n</html>\n};
+  my $html = qq{<!doctype html>\n<html lang="de">\n<head>\n<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">\n<title>$tt</title>\n<meta name="description" content="$p->{desc}">\n$robots$canon$og<meta name="theme-color" content="#121212">\n<link rel="icon" href="assets/favicon.ico" sizes="any"><link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">\n<link rel="stylesheet" href="styles.css">\n$consent_default$gtag_script$click_script$json</head>\n<body>\n$hd<main>\n$crumbs$body</main>\n$footer$cookie_banner</body>\n</html>\n};
   $html =~ s/<\/head>/<!-- GSC-VERIFICATION -->\n<\/head>/ if $slug eq 'home';
   $html = fix_links($html,$path);
   my $dir = $path eq '' ? $OUT : "$OUT/$path";
@@ -468,6 +534,8 @@ __DATA__
 <p>Unternehmensnummer (KBO/BCE): <mark>[ergänzen]</mark><br>Umsatzsteuer-Identifikationsnummer (BTW): <mark>[ergänzen]</mark></p>
 <h2>Vertretungsberechtigt</h2>
 <p><mark>[Name des Geschäftsführers ergänzen]</mark></p>
+<h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2>
+<p><mark>[Name des Geschäftsführers ergänzen]</mark><br>De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p>
 <p class="fine">Hinweis: Bitte lassen Sie das Impressum vor der Veröffentlichung von einer fachkundigen Person prüfen.</p>
 </div></section>
 === datenschutz | Datenschutzerklärung | Faster Abschleppdienst | Datenschutzerklärung dieser Website. | noindex ===
@@ -477,15 +545,17 @@ __DATA__
 <h2>1. Verantwortlicher</h2>
 <p><mark>[Firmenname]</mark>, De Bosschaertstraat 248, 2020 Antwerpen, Belgien. E-Mail: <a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a>, Telefon: +49 176 41956993.</p>
 <h2>2. Hosting</h2>
-<p>Diese Website wird <mark>[Hosting-Anbieter eintragen, z. B. GitHub Pages]</mark> bereitgestellt. Beim Aufruf der Seiten verarbeitet der Anbieter technisch notwendige Daten, insbesondere Ihre IP-Adresse, in Server-Logdateien. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO.</p>
+<p>Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. Beim Aufruf der Seiten verarbeitet GitHub technisch notwendige Daten, insbesondere Ihre IP-Adresse, Datum und Uhrzeit des Zugriffs sowie den verwendeten Browser, in Server-Logdateien. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer funktionsfähigen und sicheren Website). Dabei ist eine Übermittlung personenbezogener Daten in die USA nicht ausgeschlossen; GitHub, Inc. ist unter dem EU-US Data Privacy Framework zertifiziert, das ein angemessenes Datenschutzniveau vorsieht. Weitere Informationen finden Sie in der <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">Datenschutzerklärung von GitHub</a>.</p>
 <h2>3. Kontaktformular</h2>
 <p>Wenn Sie das Formular nutzen, werden Ihre Angaben über den Dienst FormSubmit.co per E-Mail an uns übermittelt und ausschließlich zur Bearbeitung Ihrer Anfrage verwendet. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b bzw. lit. f DSGVO. FormSubmit.co hat seinen Sitz außerhalb der EU.</p>
 <h2>4. Kontakt per Telefon, E-Mail und WhatsApp</h2>
-<p>Wenn Sie uns anrufen, schreiben oder den WhatsApp-Link nutzen, verarbeiten wir die mitgeteilten Daten (bei WhatsApp auch Ihren Standort, wenn Sie ihn senden) zur Bearbeitung Ihrer Anfrage. Für WhatsApp gelten zusätzlich deren Datenschutzbestimmungen.</p>
-<h2>5. Cookies und Tracking</h2>
-<p>Diese Website verwendet keine Cookies zu Analyse- oder Werbezwecken und bindet keine Tracking-Dienste ein.</p>
+<p>Wenn Sie uns anrufen, eine E-Mail schreiben oder den WhatsApp-Link nutzen, verarbeiten wir die dabei mitgeteilten Daten (bei WhatsApp auch Ihren Standort, wenn Sie ihn senden) ausschließlich zur Bearbeitung Ihrer Anfrage. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (vorvertragliche Maßnahme bzw. Vertragserfüllung). WhatsApp wird von der Meta Platforms Ireland Limited betrieben; für die Nutzung von WhatsApp gelten zusätzlich dessen eigene Datenschutzbestimmungen, auf deren Inhalt wir keinen Einfluss haben.</p>
+<h2>5. Google Ads: Conversion- und Anruf-Tracking</h2>
+<p>Auf dieser Website ist der Google-Tag von Google Ads eingebunden (Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland). Damit messen wir, ob der Besuch einer Google-Anzeige zu einem Telefonanruf führt: Die im Text sichtbare Telefonnummer wird dazu im Browser durch eine Google-Rufnummer ersetzt, über die der Anruf weiterhin bei uns ankommt; zusätzlich erfassen wir anonym, ob auf die Telefonnummer oder den WhatsApp-Button geklickt wurde. Diese Verarbeitungen finden nur statt, wenn Sie zuvor über den Cookie-Banner zugestimmt haben; ohne Ihre Einwilligung bleibt das Tracking deaktiviert. Rechtsgrundlage ist Ihre Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO in Verbindung mit § 25 Abs. 1 TDDDG. Dabei kann es zu einer Datenübermittlung an Google in die USA kommen. Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft über den Link „Cookie-Einstellungen“ im Footer dieser Seite widerrufen oder ändern.</p>
 <h2>6. Ihre Rechte</h2>
 <p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren, in Belgien bei der Gegevensbeschermingsautoriteit (Autorité de protection des données).</p>
+<h2>7. Speicherdauer</h2>
+<p>Wir speichern personenbezogene Daten aus Ihrer Anfrage nur so lange, wie es zu deren Bearbeitung erforderlich ist, und löschen sie anschließend, soweit keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Ihre Cookie-Entscheidung wird ausschließlich in Ihrem eigenen Browser (localStorage) gespeichert, nicht auf unseren Servern.</p>
 </div></section>
 === danke | Vielen Dank | Faster Abschleppdienst | Ihre Anfrage wurde gesendet. | noindex ===
 <section class="page-head"><div class="wrap narrow"><h1>Vielen Dank für Ihre Anfrage</h1><p class="lead">Wir melden uns so schnell wie möglich. Bei dringenden Fällen erreichen Sie uns jederzeit per Telefon oder WhatsApp.</p><p><a class="btn btn-y" href="index.html">Zur Startseite</a></p></div></section>
