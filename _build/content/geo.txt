@@ -34,3 +34,7 @@ stadt-bochum	Bochum	Nordrhein-Westfalen
 stadt-wuppertal	Wuppertal	Nordrhein-Westfalen	
 stadt-bielefeld	Bielefeld	Nordrhein-Westfalen	
 stadt-bonn	Bonn	Nordrhein-Westfalen	
+autobahn-a2	A2 Oberhausen bis Berlin	A2	ab
+autobahn-a6	A6 Saarbrücken bis Tschechien	A6	ab
+stadt-mannheim	Mannheim	Baden-Württemberg	
+stadt-muenster	Münster	Nordrhein-Westfalen	
