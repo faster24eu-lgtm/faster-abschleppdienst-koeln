@@ -3,15 +3,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Augsburg</p><h1>Abschleppdienst Augsburg</h1><p class="lead">Augsburg liegt an der A8 zwischen München und Stuttgart und hat eine Westtangente, die wie eine Autobahn gebaut ist. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Großstadt im Südwesten Bayerns</h2>
-<p>Augsburg ist eine kreisfreie Großstadt im Südwesten Bayerns, Universitätsstadt und Sitz der Regierung des Bezirks Schwaben. Sie wurde 1909 Großstadt und hat rund 301.000 Einwohner. Das Stadtgebiet besteht aus 42 Stadtbezirken, die 17 Planungsräume bilden, diese Gliederung gibt es seit 1938. Die Fläche beträgt 147 Quadratkilometer. 1972 wurden Göggingen, Bergheim, Inningen und Haunstetten eingemeindet. Wenn Sie in einem dieser Stadtteile liegen bleiben, nennen Sie uns den Namen und die Straße, denn "Augsburg" allein sagt einem Fahrer wenig.</p>
+<p>Augsburg ist eine kreisfreie Großstadt im Südwesten Bayerns mit mehreren größeren eingemeindeten Stadtteilen wie Göggingen, Bergheim, Inningen und Haunstetten. Wenn Sie in einem dieser Stadtteile liegen bleiben, nennen Sie uns den Namen und die Straße, denn "Augsburg" allein sagt einem Fahrer wenig.</p>
 <h2>A8: die wichtigste Fernverkehrsstraße</h2>
 <p>Die A8 Richtung München und Stuttgart ist die wichtigste Fernverkehrsstraße im Stadtgebiet. Augsburg ist mit zwei direkten Anschlussstellen in Kleeblattform angebunden, Augsburg-Ost und Augsburg-West, dazu kommen weitere Anschlussstellen. Im nördlichen Stadtgebiet überquert die A8 den Lech, hinter Augsburg wird die Landschaft wieder hügeliger. Bei einer Panne auf der A8 nennen Sie uns Fahrtrichtung und Anschlussstelle. Mehr zur ganzen Strecke auf der Seite <a href="autobahn-a8.html">Panne auf der A8</a>.</p>
 <h2>Gelbe Autobahn, Westtangente, Schleifenstraße</h2>
-<p>Die "Gelbe Autobahn" B2 erreicht Augsburg von Norden und geht an der nördlichen Stadtgrenze in die autobahnähnliche B17 über, die Westtangente. Sie ist im Stadtgebiet mehrspurig ausgebaut, teilweise tiefer gelegt und ausschließlich kreuzungsfrei. Mit der Schleifenstraße wurde von 1993 bis 2004, nach Planungen, die bis in die 1930er Jahre zurückgehen, eine Süd-Ost-Verbindung von der Blücherstraße in Lechhausen bis zur B300 (Haunstetter Straße im Hochfeld) geschaffen. Das gibt Ihnen drei Angaben für die Standortbeschreibung: Auf der Westtangente sind Fahrtrichtung und Anschlussstelle entscheidend, auf der Schleifenstraße Stadtteil und Kreuzung.</p>
+<p>Die "Gelbe Autobahn" B2 erreicht Augsburg von Norden und geht an der nördlichen Stadtgrenze in die autobahnähnliche B17 über, die Westtangente. Sie ist im Stadtgebiet mehrspurig ausgebaut, teilweise tiefer gelegt und ausschließlich kreuzungsfrei. Die Schleifenstraße verbindet als Süd-Ost-Verbindung die Blücherstraße in Lechhausen mit der B300 (Haunstetter Straße im Hochfeld). Das gibt Ihnen drei Angaben für die Standortbeschreibung: Auf der Westtangente sind Fahrtrichtung und Anschlussstelle entscheidend, auf der Schleifenstraße Stadtteil und Kreuzung.</p>
 <h2>Güterverkehrszentrum und Lech</h2>
-<p>Im Städtedreieck Augsburg, Gersthofen und Neusäß wurde 2017 ein Güterverkehrszentrum eröffnet, das den Rangierbahnhof ersetzt. Dort und an den Zufahrten fahren viele Lkw. Wenn Sie in diesem Bereich liegen bleiben, nennen Sie uns Straße oder Tor, damit das richtige Fahrzeug kommt. Der Lech durchquert das Stadtgebiet und wird an mehreren Stellen überbrückt, geben Sie also an, ob Sie östlich oder westlich des Flusses stehen.</p>
+<p>Im Städtedreieck Augsburg, Gersthofen und Neusäß liegt ein Güterverkehrszentrum, an dem und dessen Zufahrten viele Lkw unterwegs sind. Wenn Sie in diesem Bereich liegen bleiben, nennen Sie uns Straße oder Tor, damit das richtige Fahrzeug kommt. Der Lech durchquert das Stadtgebiet und wird an mehreren Stellen überbrückt, geben Sie also an, ob Sie östlich oder westlich des Flusses stehen.</p>
 <h2>Was wir in Augsburg tun</h2>
-<p>Wir nehmen Ihren Anruf oder Ihre WhatsApp entgegen, klären Fahrzeug, Zustand und Ziel und organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Augsburg fahren Partner vor Ort. Die Ankunftszeit hängt von Verkehr und Standort ab, weshalb wir sie nicht vorab zusagen.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Augsburg</h2>
+<p>Auf der A8: Schalten Sie die Warnblinkanlage ein, bringen Sie alle Mitfahrer hinter die Leitplanke in Sicherheit und stellen Sie, wenn es gefahrlos geht, das Warndreieck auf. Auf der Westtangente in einem tiefer gelegten Abschnitt: möglichst bis zur nächsten Rampe weiterrollen, dort ist es sicherer als mitten im Trog zu halten. Am Güterverkehrszentrum: Warnblinker an und auf Lkw-Verkehr an Ein- und Ausfahrten achten.</p>
+<h2>Wo es in Augsburg oft passiert</h2>
+<p>An den Anschlussstellen Augsburg-Ost und Augsburg-West wird es durch den Ein- und Ausfädelverkehr eng. Auf der Westtangente in den tiefer gelegten, kreuzungsfreien Abschnitten ist wenig Platz zum Ausweichen. Rund um das Güterverkehrszentrum ist wegen des Lkw-Aufkommens mehr Verkehr als anderswo im Stadtgebiet.</p>
 <h2>So nennen Sie Ihren Standort in Augsburg</h2>
 <ul class="ticks">
 <li>Stadtteil oder Stadtbezirk und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -22,10 +26,11 @@
 <p>Weitere Städte: <a href="stadt-muenchen.html">München</a> und <a href="stadt-stuttgart.html">Stuttgart</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Augsburg</h2>
-<details><summary>Wie viele Stadtbezirke hat Augsburg?</summary><div>42 Stadtbezirke, die 17 Planungsräume bilden.</div></details>
-<details><summary>Was ist die Gelbe Autobahn?</summary><div>Der Beiname der B2, die von Norden nach Augsburg führt und an der Stadtgrenze in die autobahnähnliche B17 (Westtangente) übergeht.</div></details>
-<details><summary>Ich stehe auf der Westtangente. Was sage ich?</summary><div>Fahrtrichtung und die letzte Anschlussstelle. Die B17 ist kreuzungsfrei und teilweise tiefer gelegt.</div></details>
-<details><summary>Welche Anschlussstellen hat die A8 bei Augsburg?</summary><div>Augsburg-Ost und Augsburg-West in Kleeblattform sowie weitere Anschlussstellen.</div></details>
+<details><summary>Ich stehe auf der A8 zwischen Augsburg-Ost und Augsburg-West. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und die nähere Anschlussstelle.</div></details>
+<details><summary>Können Sie mein Auto von Augsburg zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Augsburg liegt oder etwa in München oder Stuttgart.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Augsburg?</summary><div>Der Preis richtet sich nach Entfernung und Ziel und wird Ihnen am Telefon genannt, bevor ein Fahrzeug losfährt.</div></details>
+<details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, Telefon und WhatsApp sind auch nachts und am Wochenende besetzt, ein Partner vor Ort wird dann ebenso organisiert.</div></details>
+<details><summary>Ich habe ein E-Auto, das liegen geblieben ist. Geht das auch?</summary><div>Ja, ein E-Auto wird auf einem Plateauwagen verladen, damit sich keine Antriebsachse mitdreht. Erwähnen Sie am Telefon einfach, dass es ein Elektrofahrzeug ist.</div></details>
 </div></section>
 @@CTA@@
 
@@ -33,18 +38,22 @@
 <!--AREAS: Wiesbaden, Wiesbaden-Biebrich, Wiesbaden-Schierstein, Wiesbaden-Erbenheim, Wiesbaden-Mainz-Kastel -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wiesbaden</p><h1>Abschleppdienst Wiesbaden</h1><p class="lead">Wiesbaden liegt in einer Talmulde am Taunus, gegenüber von Mainz am Rhein. Autobahnen laufen im Süden und Osten vorbei. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Landeshauptstadt und Kurbad</h2>
-<p>Wiesbaden ist die Landeshauptstadt Hessens und mit 15 Thermal- und Mineralquellen eines der ältesten Kurbäder Europas. Am 31. Dezember 2025 hatte die kreisfreie Stadt 288.584 Einwohner, nach Frankfurt am Main ist sie die zweitgrößte Stadt Hessens. Sie bildet mit der benachbarten rheinland-pfälzischen Landeshauptstadt Mainz einen gemeinsamen Ballungsraum. Für Ihre Standortangabe heißt das: Ob Sie in Wiesbaden oder auf der anderen Rheinseite in Mainz stehen, macht für die Anfahrt einen Unterschied, denn der Rhein ist nur über Brücken passierbar.</p>
-<h2>26 Ortsbezirke und die Talmulde</h2>
-<p>Das Stadtgebiet ist in 26 Ortsbezirke aufgeteilt, jeder mit einem Ortsbeirat. Sechs davon zählen zur Kernstadt Wiesbaden-Alt, die übrigen 20 kamen später als eingemeindete Orte hinzu. Die Innenstadt liegt fünf Kilometer vom Rhein entfernt in einer weiten Talmulde zwischen den Taunushöhen im Norden, der Bierstadter Höhe und dem Hainerberg im Osten, dem Mosbacher Berg im Süden und dem Schiersteiner Berg im Westen. Hanglagen sind also häufig. Nennen Sie uns bei einer Panne, ob Sie bergauf oder bergab stehen. Die Industriegebiete liegen in den südlichen Stadtteilen am Rhein, etwa in Schierstein und Biebrich.</p>
+<h2>Landeshauptstadt am Taunus</h2>
+<p>Wiesbaden ist die Landeshauptstadt Hessens und bildet mit der benachbarten rheinland-pfälzischen Landeshauptstadt Mainz einen gemeinsamen Ballungsraum. Für Ihre Standortangabe heißt das: Ob Sie in Wiesbaden oder auf der anderen Rheinseite in Mainz stehen, macht für die Anfahrt einen Unterschied, denn der Rhein ist nur über Brücken passierbar.</p>
+<h2>Ortsbezirke und die Talmulde</h2>
+<p>Das Stadtgebiet gliedert sich in mehrere Ortsbezirke, sechs davon zur Kernstadt Wiesbaden-Alt. Die Innenstadt liegt einige Kilometer vom Rhein entfernt in einer weiten Talmulde zwischen den Taunushöhen im Norden, der Bierstadter Höhe und dem Hainerberg im Osten, dem Mosbacher Berg im Süden und dem Schiersteiner Berg im Westen. Hanglagen sind also häufig. Nennen Sie uns bei einer Panne, ob Sie bergauf oder bergab stehen. Die Industriegebiete liegen in den südlichen Stadtteilen am Rhein, etwa in Schierstein und Biebrich.</p>
 <h2>A66, A643 und A671</h2>
-<p>Durch das südliche Stadtgebiet führt in West-Ost-Richtung die A66 aus dem Rheingau nach Frankfurt am Main. Am Schiersteiner Kreuz zweigt die A643 nach Mainz ab, an der Anschlussstelle Mainzer Straße die A671 nach Hochheim am Main. Zwischen Wiesbaden-Biebrich und Wiesbaden-Mainzer Straße war die A66 vom 18. Juni 2021 bis zum 17. Dezember 2023 wegen des Neubaus der Salzbachtalbrücke gesperrt, der Nordteil der neuen Brücke folgte am 1. August 2025. Eine Umfahrung war über A60, A67 und A643 möglich. Aktuelle Sperrungen erfahren Sie im Verkehrsfunk, wir machen dazu keine Angaben. Mehr zur A66 auf der Seite <a href="stadt-frankfurt.html">Abschleppdienst Frankfurt</a>.</p>
+<p>Durch das südliche Stadtgebiet führt in West-Ost-Richtung die A66 aus dem Rheingau nach Frankfurt am Main. Am Schiersteiner Kreuz zweigt die A643 nach Mainz ab, an der Anschlussstelle Mainzer Straße die A671 nach Hochheim am Main. Zwischen Wiesbaden-Biebrich und Wiesbaden-Mainzer Straße überquert die neu gebaute Salzbachtalbrücke das Tal; achten Sie in diesem Abschnitt auf ausgeschilderte Umleitungen, falls dort noch gebaut wird. Mehr zur A66 auf der Seite <a href="stadt-frankfurt.html">Abschleppdienst Frankfurt</a>.</p>
 <h2>A3 und das Wiesbadener Kreuz</h2>
 <p>Im Osten berührt die A3 das Stadtgebiet. Über das Wiesbadener Kreuz sind Köln und der Frankfurter Flughafen erreichbar. Zu den Bundesstraßen im Stadtgebiet zählen die B40, B43, B54, B262, B263, B417 und B455. Die Strecke der A3 lesen Sie auf der Seite <a href="autobahn-a3.html">Panne auf der A3</a>.</p>
 <h2>Flugplatz Erbenheim und Frankfurt</h2>
 <p>Wiesbaden liegt etwa 25 Kilometer vom Frankfurter Flughafen entfernt. Im Stadtteil Erbenheim liegt der Flugplatz, ein Militärflugplatz der US Army. Auf Militärgelände gelten besondere Zugangsregeln. Wenn Ihr Fahrzeug dort oder in der Nähe steht, sagen Sie es uns, damit wir den Zugang klären.</p>
 <h2>Was wir in Wiesbaden tun</h2>
-<p>Sie beschreiben Standort, Fahrzeug und Problem, wir organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), die Einsätze in Wiesbaden übernehmen Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr und Standort abhängt.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Wiesbaden</h2>
+<p>Auf A66, A643, A671 oder A3: Warnblinklicht an, alle aus dem Fahrzeug und hinter die Schutzplanke, danach das Warndreieck sichern, wenn es die Verkehrslage erlaubt. In der Talmulde an einer Steigung: Fahrzeug nach Möglichkeit dort abstellen, wo Sie für andere gut sichtbar sind, gerade bergauf vor Kuppen. Am Schiersteiner Kreuz oder Wiesbadener Kreuz: nicht auf dem Verflechtungsstreifen stehen bleiben, wenn das Fahrzeug noch rollt.</p>
+<h2>Wo es in Wiesbaden oft passiert</h2>
+<p>Am Schiersteiner Kreuz und am Wiesbadener Kreuz ist der Verkehr durch mehrere zusammenlaufende Autobahnen dichter. An der Salzbachtalbrücke kann es durch Bauarbeiten oder Fahrstreifenverengungen eng werden. In der Talmulde der Innenstadt sind die Hanglagen bei Nässe oder Glätte tückischer als in der Ebene.</p>
 <h2>So nennen Sie Ihren Standort in Wiesbaden</h2>
 <ul class="ticks">
 <li>Ortsbezirk und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -55,10 +64,11 @@
 <p>Weitere Städte in der Nähe: <a href="stadt-frankfurt.html">Frankfurt am Main</a> und <a href="stadt-mannheim.html">Mannheim</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Wiesbaden</h2>
-<details><summary>Wie viele Ortsbezirke hat Wiesbaden?</summary><div>26 Ortsbezirke, davon sechs in der Kernstadt Wiesbaden-Alt.</div></details>
-<details><summary>Was ist das Schiersteiner Kreuz?</summary><div>Der Knoten, an dem die A643 nach Mainz von der A66 abzweigt.</div></details>
-<details><summary>Ist die A66 bei Wiesbaden gesperrt?</summary><div>Wegen der Salzbachtalbrücke war sie 2021 bis 2023 gesperrt, der Nordteil der neuen Brücke wurde am 1. August 2025 eröffnet. Aktuelle Regelungen erfahren Sie im Verkehrsfunk.</div></details>
-<details><summary>Kommen Sie auch nach Mainz?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie Stadtteil und Straße, dann klären wir die Anfahrt über die Rheinbrücke.</div></details>
+<details><summary>Ich stehe auf der A66 an der Salzbachtalbrücke. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und ob Sie vor oder hinter der Brücke stehen.</div></details>
+<details><summary>Kommen Sie auch nach Mainz?</summary><div>Ja, wir organisieren Einsätze in der ganzen Region. Nennen Sie Stadtteil und Straße, dann klären wir die Anfahrt über die Rheinbrücke.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Wiesbaden?</summary><div>Das kommt auf Standort und Ziel an. Am Telefon nennen wir Ihnen den Preis, bevor überhaupt jemand losfährt.</div></details>
+<details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, das gilt rund um die Uhr, auch nachts und am Wochenende erreichen Sie uns und wir organisieren einen Partner vor Ort.</div></details>
+<details><summary>Ich habe ein E-Auto, das liegen geblieben ist. Geht das auch?</summary><div>Ja, für E-Autos nutzen wir einen Plateauwagen, damit keine Antriebsachse sich dreht. Weisen Sie am Telefon einfach darauf hin, dass es ein E-Auto ist.</div></details>
 </div></section>
 @@CTA@@
 
@@ -67,15 +77,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gelsenkirchen</p><h1>Abschleppdienst Gelsenkirchen</h1><p class="lead">Gelsenkirchen liegt im Zentrum des Ruhrgebiets an A2, A42 und A52. Der Rhein-Herne-Kanal und die Emscher teilen die Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Fünf Stadtbezirke, geteilt von der Emscher</h2>
-<p>Gelsenkirchen ist eine kreisfreie Großstadt im Regierungsbezirk Münster und im zentralen Ruhrgebiet gelegen. Das Stadtgebiet besteht aus fünf Stadtbezirken mit je einer Bezirksvertretung, die sich in Stadtteile unterteilen. Die drei nördlich der Emscher gelegenen Stadtbezirke Nord, West und Ost entsprechen weitgehend dem alten Amt Buer im Vest Recklinghausen. Gelsenkirchen hat 1.500 Straßen mit einer Gesamtlänge von 763,93 Kilometern einschließlich Autobahnen. Für Ihre Standortangabe brauchen wir den Stadtteil, etwa Buer, Horst, Schalke oder Scholven, und die Straße.</p>
+<p>Gelsenkirchen liegt im zentralen Ruhrgebiet, das Stadtgebiet besteht aus fünf Stadtbezirken, die drei nördlich der Emscher heißen Nord, West und Ost. Für Ihre Standortangabe brauchen wir den Stadtteil, etwa Buer, Horst, Schalke oder Scholven, und die Straße, dazu ob Sie nördlich oder südlich der Emscher stehen.</p>
 <h2>A2, A42 und A52</h2>
 <p>Gelsenkirchen liegt an den Autobahnen 2, 42 und 52 sowie den Bundesstraßen 224, 226 und 227. Die A2 führt im Stadtgebiet unmittelbar an der Veltins-Arena vorbei und durch eine Lärmschutzeinhausung, siehe <a href="autobahn-a2.html">Panne auf der A2</a>. Die A42 ist der Emscherschnellweg, mehr auf der Seite <a href="stadt-essen.html">Abschleppdienst Essen</a>. Die A52 führt östlich der Raffinerie Gelsenkirchen in Scholven entlang nach Norden und geht im Norden von Essen in die B224 über. Bei Veranstaltungen in der Arena sind die Zufahrten stark belastet, sagen Sie uns dann bitte, wo genau Sie stehen.</p>
 <h2>Der Kanalhafen</h2>
-<p>Gelsenkirchen liegt am Rhein-Herne-Kanal, an dem der Hafen Gelsenkirchen besteht. Er ist als Industrie- und Handelshafen mit einem Jahresumschlag von 4,9 Millionen Tonnen (Stand 2022) und einer Wasserfläche von rund 120 Hektar einer der größten und wichtigsten Kanalhäfen Deutschlands. Der Hafen ist an das Schienennetz angebunden. Bei Fahrzeugen im Hafengebiet brauchen wir Straße, Kai oder Tor.</p>
+<p>Gelsenkirchen liegt am Rhein-Herne-Kanal, an dem der Hafen Gelsenkirchen als Industrie- und Handelshafen besteht. Bei Fahrzeugen im Hafengebiet brauchen wir Straße, Kai oder Tor.</p>
 <h2>Nordsternpark und Horst</h2>
-<p>Der Nordsternpark in Gelsenkirchen-Horst nördlich des Rhein-Herne-Kanals und der Landschaftspark Heßler südlich davon waren 1997 Ausstellungsgelände der Bundesgartenschau. Parks und Kanalufer haben Parkplätze ohne klare Adressen. Nennen Sie uns den Namen des Parkplatzes oder des Zugangs und die nächste größere Straße.</p>
+<p>Der Nordsternpark in Gelsenkirchen-Horst liegt nördlich des Rhein-Herne-Kanals, der Landschaftspark Heßler südlich davon. Parks und Kanalufer haben Parkplätze ohne klare Adressen. Nennen Sie uns den Namen des Parkplatzes oder des Zugangs und die nächste größere Straße.</p>
 <h2>Was wir in Gelsenkirchen tun</h2>
-<p>Sie beschreiben Standort, Fahrzeug und Problem, wir organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Gelsenkirchen fahren Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil Verkehr und Veranstaltungen sie beeinflussen.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Gelsenkirchen</h2>
+<p>Auf A2, A42 oder A52: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. An der Veltins-Arena bei einer Veranstaltung: Warnblinker an und im dichten Verkehr besonders auf Fußgänger achten. Am Kanalhafen: Warnblinker an, nicht direkt am Kai halten.</p>
+<h2>Wo es in Gelsenkirchen oft passiert</h2>
+<p>An der Veltins-Arena wird es bei Veranstaltungen durch den Zu- und Abfahrtsverkehr eng. Auf der A42, dem Emscherschnellweg, ist im Berufsverkehr oft mehr los als auf den anderen Autobahnen der Stadt. Rund um den Kanalhafen fahren viele Lkw, seien Sie dort an Kreuzungen besonders vorsichtig.</p>
 <h2>So nennen Sie Ihren Standort in Gelsenkirchen</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße, und ob Sie nördlich oder südlich der Emscher stehen.</li>
@@ -86,9 +100,11 @@
 <p>Nachbarstädte: <a href="stadt-essen.html">Essen</a>, <a href="stadt-bochum.html">Bochum</a> und <a href="stadt-dortmund.html">Dortmund</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Gelsenkirchen</h2>
-<details><summary>Wie viele Stadtbezirke hat Gelsenkirchen?</summary><div>Fünf Stadtbezirke, drei nördlich der Emscher (Nord, West, Ost).</div></details>
-<details><summary>Welche Autobahnen führen durch Gelsenkirchen?</summary><div>Die A2, die A42 und die A52.</div></details>
-<details><summary>Kommen Sie zur Veltins-Arena?</summary><div>Wir organisieren Einsätze im Stadtgebiet. Nennen Sie uns Parkplatz oder Tor und Ihre Fahrtrichtung, dann klären wir den Zugang.</div></details>
+<details><summary>Ich stehe auf der A2 bei der Veltins-Arena. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung, gerade bei einer Veranstaltung ist der Verkehr dort dicht.</div></details>
+<details><summary>Können Sie mein Auto von Gelsenkirchen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Gelsenkirchen liegt oder etwa in Essen oder Bochum.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Gelsenkirchen?</summary><div>Das hängt von Standort und Ziel ab. Wir nennen Ihnen den Preis am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, wir sind rund um die Uhr per Telefon und WhatsApp erreichbar und vermitteln auch nachts einen Partner vor Ort.</div></details>
+<details><summary>Ich habe ein E-Auto, das liegen geblieben ist. Geht das auch?</summary><div>Ja, E-Autos werden auf einem Plateauwagen transportiert, damit keine Antriebsachse dreht. Sagen Sie uns am Telefon, dass es ein E-Auto ist.</div></details>
 <details><summary>Wie groß ist der Hafen Gelsenkirchen?</summary><div>Rund 120 Hektar Wasserfläche und 4,9 Millionen Tonnen Jahresumschlag (Stand 2022).</div></details>
 </div></section>
 @@CTA@@
@@ -97,18 +113,22 @@
 <!--AREAS: Mönchengladbach, Mönchengladbach-Rheydt, Mönchengladbach-Wanlo, Mönchengladbach-Hardt, Mönchengladbach-Odenkirchen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Mönchengladbach</p><h1>Abschleppdienst Mönchengladbach</h1><p class="lead">Mönchengladbach wird von vier Autobahnen berührt: A44, A46, A52 und A61. Im Süden ist die A61 wegen des Tagebaus unterbrochen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Vier Stadtbezirke, 44 Stadtteile</h2>
-<p>Mönchengladbach ist eine kreisfreie Großstadt im Westen Nordrhein-Westfalens und ein Oberzentrum im Regierungsbezirk Düsseldorf. Das Stadtzentrum liegt rund 25 Kilometer westlich der Landeshauptstadt. Das Stadtgebiet besteht seit 2009 aus vier Stadtbezirken (vorher zehn), die in 44 Stadtteile unterteilt sind. Jeder Bezirk hat eine Bezirksvertretung unter Vorsitz eines Bezirksvorstehers. Mit den Stadtnamen Gladbach und Rheydt sind zwei Zentren gemeint, die 1815 mit den Gemeinden der heutigen Stadtteile zu Preußen kamen. Nennen Sie uns deshalb Gladbach oder Rheydt und dazu den Stadtteil, etwa Odenkirchen oder Hardt.</p>
+<h2>Zwei Zentren, viele Stadtteile</h2>
+<p>Mönchengladbach liegt im Westen Nordrhein-Westfalens, rund 25 Kilometer westlich von Düsseldorf. Mit den Stadtnamen Gladbach und Rheydt sind zwei Zentren gemeint. Nennen Sie uns deshalb Gladbach oder Rheydt und dazu den Stadtteil, etwa Odenkirchen oder Hardt.</p>
 <h2>Vier Autobahnen</h2>
 <p>Mit dem Auto ist die Stadt über die A44 (Aachen–Kassel), die A46 (Heinsberg–Bestwig), die A52 (Roermond–Essen-Marl) und die A61 (Venlo–Hockenheim) zu erreichen. Das Autobahnkreuz Mönchengladbach liegt im Nordwesten, dort kreuzt die A61 die A52 und bildet nach Süden die westliche Umgehung der Stadt. Wenn Sie an einem dieser Knoten liegen bleiben, nennen Sie uns Autobahn, Richtung und Kreuz. Mehr zur A61 auf der Seite <a href="autobahn-a61.html">Panne auf der A61</a>.</p>
 <h2>Borussia-Park und die Zufahrten</h2>
 <p>Der Borussia-Park liegt direkt westlich der A61 und ist an diese angebunden. Bei Spielen kann von einigen Parkplätzen eine zusätzliche Auffahrtrampe in Richtung Süden geöffnet werden. Das bedeutet dichten Verkehr und gesperrte oder abweichend geführte Zufahrten. Wenn Ihr Fahrzeug dort liegen bleibt, nennen Sie uns Parkplatz oder Zufahrt und ob gerade eine Veranstaltung läuft.</p>
 <h2>Die A61 im Süden: Unterbrechung Garzweiler</h2>
-<p>Am Dreieck Mönchengladbach-Wanlo kreuzt die A46. Die A61 ist seit dem Sommer 2018 bis zum nächsten Knotenpunkt unterbrochen und abgerissen, weil das Gebiet in der Abbauzone des Tagebaus Garzweiler liegt. Über die A46 und die A44 besteht eine Umgehung unmittelbar östlich. Sowohl in Wanlo als auch in Jackerath führt eine kurze Zufahrtsstrecke über den Knotenpunkt hinaus zu einer Anschlussstelle. Wenn Sie im Süden der Stadt unterwegs sind und die Route nicht kennen, nutzen Sie den Verkehrsfunk. Wir nennen zur aktuellen Verkehrsführung nichts.</p>
+<p>Am Dreieck Mönchengladbach-Wanlo kreuzt die A46. Die A61 ist bis zum nächsten Knotenpunkt unterbrochen, weil das Gebiet in der Abbauzone des Tagebaus Garzweiler liegt. Über die A46 und die A44 besteht eine Umgehung unmittelbar östlich. Sowohl in Wanlo als auch in Jackerath führt eine kurze Zufahrtsstrecke über den Knotenpunkt hinaus zu einer Anschlussstelle. Wenn Sie im Süden der Stadt unterwegs sind und die Route nicht kennen, nutzen Sie den Verkehrsfunk. Wir nennen zur aktuellen Verkehrsführung nichts.</p>
 <h2>Flugplatz und Flughafen Düsseldorf</h2>
 <p>Der Verkehrslandeplatz Mönchengladbach wird hauptsächlich von der privaten und gewerblichen Allgemeinen Luftfahrt genutzt, Linienverkehr findet nicht statt. Der internationale Flughafen Düsseldorf liegt unweit der Stadt. Für Fahrzeuge an Flugplätzen brauchen wir Zufahrt und Tor.</p>
 <h2>Was wir in Mönchengladbach tun</h2>
-<p>Wir nehmen Ihren Anruf oder Ihre WhatsApp entgegen und organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Mönchengladbach fahren Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr und Standort abhängt.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Mönchengladbach</h2>
+<p>Auf A44, A46, A52 oder A61: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Am Borussia-Park bei einer Veranstaltung: Warnblinker an und im dichten Verkehr besonders auf Fußgänger achten. Bei Wanlo oder Jackerath: sagen Sie uns, ob Sie schon von der A61 abgefahren sind, das erleichtert das Auffinden.</p>
+<h2>Wo es in Mönchengladbach oft passiert</h2>
+<p>Am Autobahnkreuz Mönchengladbach im Nordwesten ist der Verkehr durch den Fahrstreifenwechsel dichter. Am Borussia-Park wird es bei Spielen mit zusätzlicher Auffahrtrampe eng. Im Bereich der A61-Unterbrechung bei Wanlo ist die Umgehung ungewohnt für Ortsfremde.</p>
 <h2>So nennen Sie Ihren Standort in Mönchengladbach</h2>
 <ul class="ticks">
 <li>Gladbach oder Rheydt, dazu Stadtteil und Straße.</li>
@@ -119,27 +139,31 @@
 <p>Weitere Städte in der Nähe: <a href="stadt-duesseldorf.html">Düsseldorf</a> und <a href="abschleppdienst-koeln-stadtteile.html">Köln</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Mönchengladbach</h2>
-<details><summary>Wie viele Stadtbezirke hat Mönchengladbach?</summary><div>Vier seit 2009, zuvor zehn, mit zusammen 44 Stadtteilen.</div></details>
-<details><summary>Warum ist die A61 im Süden unterbrochen?</summary><div>Seit dem Sommer 2018 zwischen Wanlo und Jackerath, weil das Gebiet in der Abbauzone des Tagebaus Garzweiler liegt.</div></details>
-<details><summary>Welche Autobahnen führen nach Mönchengladbach?</summary><div>A44, A46, A52 und A61.</div></details>
-<details><summary>Kommen Sie zum Borussia-Park?</summary><div>Wir organisieren Einsätze im Stadtgebiet. Nennen Sie uns Parkplatz oder Zufahrt und Ihre Fahrtrichtung.</div></details>
+<details><summary>Ich stehe auf der A61 bei Wanlo, wo die Autobahn unterbrochen ist. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns, ob Sie schon von der A61 abgefahren sind, das erleichtert das Auffinden.</div></details>
+<details><summary>Können Sie mein Auto von Mönchengladbach zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Mönchengladbach liegt oder etwa in Düsseldorf oder Köln.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Mönchengladbach?</summary><div>Das hängt von Standort und Ziel ab. Wir nennen Ihnen den Preis am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, wir sind rund um die Uhr per Telefon und WhatsApp erreichbar und vermitteln auch nachts einen Partner vor Ort.</div></details>
 </div></section>
 @@CTA@@
 
 === stadt-braunschweig | Abschleppdienst Braunschweig: Pannenhilfe A2, A39, A36 | Pannenhilfe und Abschleppen in Braunschweig: 21 Stadtbezirke, Oker, A2 mit Kreuz Braunschweig-Nord, A39, A36, Hafen und Flughafen. Standort richtig nennen. | page ===
 <!--AREAS: Braunschweig, Braunschweig-Waggum, Braunschweig-Lehndorf, Braunschweig-Querum -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Braunschweig</p><h1>Abschleppdienst Braunschweig</h1><p class="lead">Braunschweig liegt seit dem Mittelalter am Kreuzungspunkt mehrerer Fernhandelsstraßen. Heute führen A2, A39 und A36 zur Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Braunschweig</p><h1>Abschleppdienst Braunschweig</h1><p class="lead">Braunschweig liegt im Südosten Niedersachsens, A2, A39 und A36 führen zur Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Zweitgrößte Stadt Niedersachsens</h2>
-<p>Braunschweig ist eine kreisfreie Großstadt im Südosten Niedersachsens. Mit 252.811 Einwohnern am 31. Dezember 2025 ist sie die zweitgrößte Stadt des Landes nach Hannover. Das Stadtgebiet wurde ab November 1981 in 22 Stadtbezirke eingeteilt, deren Zahl nach zehn Jahren durch eine Zusammenlegung auf 21 sank. Für Städte mit mehr als 100.000 Einwohnern sieht das niedersächsische Kommunalverfassungsgesetz die Möglichkeit von Stadtbezirken und Stadtbezirksräten vor. Im Alltag helfen Ihnen der Stadtteilname und die Straße, etwa Querum, Lehndorf oder Waggum.</p>
+<h2>Stadtbezirke im Südosten Niedersachsens</h2>
+<p>Braunschweig ist eine kreisfreie Großstadt im Südosten Niedersachsens, das Stadtgebiet gliedert sich in 21 Stadtbezirke. Im Alltag helfen Ihnen der Stadtteilname und die Straße, etwa Querum, Lehndorf oder Waggum.</p>
 <h2>Die Autobahnen A2, A39 und A36</h2>
 <p>Mehrere Autobahnen führen nach Braunschweig, direkt durch die Stadt führen die Bundesstraßen B1, B4, B79, B214 und B248. Die A2 verläuft nördlich der Stadt. Am Kreuz Braunschweig-Nord ist die A391 angebunden, kurz dahinter liegt der Flughafen Braunschweig-Wolfsburg unmittelbar nördlich der Autobahn. Am Kreuz Wolfsburg/Königslutter kreuzt die A39. Kurz vor Braunschweig wird zum zweiten Mal der Mittellandkanal überquert. Mehr zur A2 auf der Seite <a href="autobahn-a2.html">Panne auf der A2</a>. Wer auf der A2 liegen bleibt, nennt uns Richtung und Kreuz.</p>
 <h2>Oker, Mittellandkanal und Hafen</h2>
-<p>Die die Stadt durch- und umfließende Oker war bis in die Neuzeit schiffbar. Braunschweig hat einen Hafen mit Anbindung an den Mittellandkanal, der die Binnenschifffahrt mit Berlin, Hamburg und dem Ruhrgebiet verbindet. Der Kanal und die Oker bilden Barrieren im Stadtgebiet, an denen Brücken die einzigen Übergänge sind. Nennen Sie uns deshalb bei einer Panne an einer Brücke Richtung und Brücke.</p>
+<p>Die Stadt durch- und umfließende Oker sowie der Hafen mit Anbindung an den Mittellandkanal verbinden Braunschweig mit Berlin, Hamburg und dem Ruhrgebiet. Der Kanal und die Oker bilden Barrieren im Stadtgebiet, an denen Brücken die einzigen Übergänge sind. Nennen Sie uns deshalb bei einer Panne an einer Brücke Richtung und Brücke.</p>
 <h2>Flughafen Waggum</h2>
-<p>Seit 1935 hat Braunschweig einen eigenen Flughafen im Stadtteil Waggum, den Flughafen Braunschweig-Wolfsburg. Für Fahrzeuge in der Nähe des Flughafens brauchen wir Zufahrt, Tor oder Parkplatz.</p>
+<p>Braunschweig hat einen eigenen Flughafen im Stadtteil Waggum, den Flughafen Braunschweig-Wolfsburg. Für Fahrzeuge in der Nähe des Flughafens brauchen wir Zufahrt, Tor oder Parkplatz.</p>
 <h2>Was wir in Braunschweig tun</h2>
-<p>Sie beschreiben Standort, Fahrzeug und Problem, wir organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Braunschweig fahren Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr und Standort abhängt.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Braunschweig</h2>
+<p>Auf A2, A39 oder A36: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. An einer Brücke über Oker oder Kanal: Warnblinker an und nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt. Am Flughafen Waggum: Warnblinker an und auf Zufahrtsverkehr achten.</p>
+<h2>Wo es in Braunschweig oft passiert</h2>
+<p>Am Kreuz Braunschweig-Nord und am Kreuz Wolfsburg/Königslutter ist der Verkehr durch den Fahrstreifenwechsel dichter. An den Brücken über Oker und Mittellandkanal ist die Fahrbahn oft schmaler als auf freier Strecke. Rund um den Flughafen Waggum ist mit Zubringerverkehr zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Braunschweig</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -150,27 +174,32 @@
 <p>Weitere Städte: <a href="stadt-hannover.html">Hannover</a> und <a href="stadt-leipzig.html">Leipzig</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Braunschweig</h2>
-<details><summary>Wie viele Stadtbezirke hat Braunschweig?</summary><div>21 Stadtbezirke. Ursprünglich waren es ab 1981 22, nach zehn Jahren wurden zwei zusammengelegt.</div></details>
-<details><summary>Welche Autobahnen führen nach Braunschweig?</summary><div>Die A2, die A39 und die A36.</div></details>
-<details><summary>Ich stehe an der A2 beim Flughafen. Was sage ich?</summary><div>Richtung, Kreuz Braunschweig-Nord und die nächste Anschlussstelle.</div></details>
-<details><summary>Wo liegt der Hafen?</summary><div>Am Mittellandkanal, der die Binnenschifffahrt mit Berlin, Hamburg und dem Ruhrgebiet verbindet.</div></details>
+<details><summary>Ich stehe auf der A2 beim Kreuz Braunschweig-Nord. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und die nächste Anschlussstelle.</div></details>
+<details><summary>Können Sie mein Auto von Braunschweig zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Braunschweig liegt oder etwa in Hannover oder Wolfsburg.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Braunschweig?</summary><div>Das hängt von Standort und Ziel ab. Wir nennen Ihnen den Preis am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, wir sind rund um die Uhr per Telefon und WhatsApp erreichbar und vermitteln auch nachts einen Partner vor Ort.</div></details>
+<details><summary>Ich habe ein E-Auto, das liegen geblieben ist. Geht das auch?</summary><div>Ja, E-Autos werden auf einem Plateauwagen transportiert, damit keine Antriebsachse dreht. Sagen Sie uns am Telefon, dass es ein E-Auto ist.</div></details>
 </div></section>
 @@CTA@@
 
 === stadt-chemnitz | Abschleppdienst Chemnitz: Pannenhilfe A4, A72, Cityring | Pannenhilfe und Abschleppen in Chemnitz: 39 Stadtteile, A4, A72 mit Kreuz Chemnitz, Cityring und die B95, B107, B169, B173, B174. Standort nennen. | page ===
 <!--AREAS: Chemnitz, Chemnitz-Zentrum, Chemnitz-Rabenstein, Chemnitz-Kappel, Chemnitz-Hilbersdorf -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Chemnitz</p><h1>Abschleppdienst Chemnitz</h1><p class="lead">Chemnitz ist die drittgrößte Stadt Sachsens und wird von A4 und A72 durchzogen. Ein Cityring umschließt das Zentrum. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Chemnitz</p><h1>Abschleppdienst Chemnitz</h1><p class="lead">Chemnitz wird von A4 und A72 durchzogen, ein Cityring umschließt das Zentrum. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Drittgrößte Stadt Sachsens</h2>
-<p>Chemnitz ist eine kreisfreie Stadt im Südwesten des Freistaates Sachsen und nach Leipzig und Dresden dessen drittgrößte Großstadt. Von 1953 bis 1990 hieß sie Karl-Marx-Stadt. Aufgrund der bedeutenden Textil- und Maschinenbauindustrie während der Industrialisierung war sie einst als "sächsisches Manchester" bekannt. Die Stadt besteht aus 39 Stadtteilen, die nach städtebaulichen, stadtplanerischen, siedlungsstrukturellen, statistischen und administrativen Gesichtspunkten festgelegt wurden. Die nördlichen und nordwestlichen Stadtteile liegen auf dem Sächsischen Granulitgebirge. Nennen Sie uns bei einer Panne den Stadtteil und die Straße, denn bei einer Stadt dieser Größe sagt der Name allein wenig.</p>
+<h2>39 Stadtteile im Südwesten Sachsens</h2>
+<p>Chemnitz ist eine kreisfreie Stadt im Südwesten des Freistaates Sachsen mit 39 Stadtteilen. Nennen Sie uns bei einer Panne den Stadtteil und die Straße, denn bei einer Stadt dieser Größe sagt der Name allein wenig.</p>
 <h2>A4 und A72 am Kreuz Chemnitz</h2>
 <p>Chemnitz wird von zwei Autobahnen durchzogen. Durch das nordwestliche Stadtgebiet führt als Ost-West-Achse die A4 Kirchheim–Görlitz. Diese trifft am Kreuz Chemnitz auf die A72, die von Hof nach Leipzig führt und die westlichen Stadtteile erschließt. Im Stadtgebiet gibt es acht Anschlussstellen zu den beiden Autobahnen. Wenn Sie hier liegen bleiben, nennen Sie uns Autobahn, Richtung und Anschlussstelle. Zur A4 in Richtung Dresden lesen Sie <a href="stadt-dresden.html">Abschleppdienst Dresden</a>.</p>
 <h2>Der Cityring und die Bundesstraßen</h2>
-<p>Durch das Chemnitzer Stadtgebiet führen die Bundesstraßen B95, B107, B169, B173 und B174. Sie bilden den südöstlichen Teil des sogenannten Cityrings, der das Stadtzentrum vollständig umschließt. Der Südring soll in nordöstlicher und nordwestlicher Richtung verlängert werden. Die B174 zwischen Chemnitz und Komotau in Tschechien ist teilweise vierstreifig ausgebaut, der Ausbau innerhalb der Stadt steht bevor. Wenn Sie auf dem Cityring liegen bleiben, sagen Sie uns die Querstraße und die Fahrtrichtung, weil Zufahrten und Abbiegungen dort dicht aufeinander folgen.</p>
+<p>Durch das Chemnitzer Stadtgebiet führen die Bundesstraßen B95, B107, B169, B173 und B174. Sie bilden den südöstlichen Teil des sogenannten Cityrings, der das Stadtzentrum vollständig umschließt. Die B174 zwischen Chemnitz und Komotau in Tschechien ist teilweise vierstreifig ausgebaut. Wenn Sie auf dem Cityring liegen bleiben, sagen Sie uns die Querstraße und die Fahrtrichtung, weil Zufahrten und Abbiegungen dort dicht aufeinander folgen.</p>
 <h2>Flugplatz Jahnsdorf und die Flughäfen der Region</h2>
-<p>Der Flugplatz Chemnitz-Jahnsdorf ist nicht der erste Chemnitzer Flughafen: Die ersten Luftfahrt-Veranstaltungen fanden im Mai 1911 auf dem alten Flugplatz an der Zschopauer Straße statt. Die nächstgelegenen internationalen Flughäfen sind Dresden in 80 Kilometern, Leipzig/Halle in 90 Kilometern und Prag in 145 Kilometern Entfernung. Wenn Sie nach einer Reise am Flughafen liegen bleiben, nennen Sie uns den Flughafen, dann klären wir die Entfernung ehrlich, statt eine Zeit zu versprechen.</p>
+<p>Chemnitz hat mit dem Flugplatz Chemnitz-Jahnsdorf einen eigenen kleinen Flugplatz. Die nächstgelegenen internationalen Flughäfen sind Dresden, Leipzig/Halle und Prag. Wenn Sie nach einer Reise am Flughafen liegen bleiben, nennen Sie uns den Flughafen, dann klären wir die Entfernung ehrlich, statt eine Zeit zu versprechen.</p>
 <h2>Was wir in Chemnitz tun</h2>
-<p>Wir nehmen Ihren Anruf oder Ihre WhatsApp entgegen und organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Chemnitz fahren Partner vor Ort. Wie schnell jemand bei Ihnen ist, hängt von Verkehr und Standort ab, deshalb geben wir keine Zeit an.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Chemnitz</h2>
+<p>Auf A4 oder A72: Zuerst Warnblinker, dann alle aussteigen und sich hinter die Leitplanke stellen; das Warndreieck folgt, sofern der Verkehr das zulässt. Auf dem Cityring: Warnblinker an, weil Zufahrten und Abbiegungen dort dicht aufeinander folgen und andere Fahrer wenig Reaktionszeit haben. Am Flugplatz Jahnsdorf: Warnblinker an und auf Zufahrtsverkehr achten.</p>
+<h2>Wo es in Chemnitz oft passiert</h2>
+<p>Am Kreuz Chemnitz, wo A4 und A72 aufeinandertreffen, ist der Verkehr durch den Fahrstreifenwechsel dichter. Auf dem Cityring sorgen die dicht aufeinanderfolgenden Zufahrten für unübersichtliche Situationen. Auf der B174 Richtung Zschopau ist der Ausbauzustand streckenweise unterschiedlich.</p>
 <h2>So nennen Sie Ihren Standort in Chemnitz</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -181,10 +210,11 @@
 <p>Weitere Städte in Sachsen: <a href="stadt-leipzig.html">Leipzig</a> und <a href="stadt-dresden.html">Dresden</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Chemnitz</h2>
-<details><summary>Wie viele Stadtteile hat Chemnitz?</summary><div>39 Stadtteile.</div></details>
-<details><summary>Wo trifft die A4 auf die A72?</summary><div>Am Kreuz Chemnitz im nordwestlichen Stadtgebiet.</div></details>
-<details><summary>Was ist der Cityring?</summary><div>Ein Straßenzug, der das Stadtzentrum vollständig umschließt. Der südöstliche Teil wird von den Bundesstraßen 95, 107, 169, 173 und 174 gebildet.</div></details>
-<details><summary>Wie viele Anschlussstellen gibt es in Chemnitz?</summary><div>Im Stadtgebiet acht zu den beiden Autobahnen A4 und A72.</div></details>
+<details><summary>Ich stehe auf der A4 kurz vor dem Kreuz Chemnitz. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und die Entfernung zum Kreuz.</div></details>
+<details><summary>Können Sie mein Auto von Chemnitz zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Chemnitz liegt oder etwa in Dresden oder Leipzig.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Chemnitz?</summary><div>Pauschal lässt sich das nicht sagen, es hängt von Strecke und Ziel ab. Sie erfahren den Preis am Telefon, bevor der Auftrag losgeht.</div></details>
+<details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, auch außerhalb der üblichen Geschäftszeiten erreichen Sie uns telefonisch oder per WhatsApp und wir vermitteln einen Partner.</div></details>
+<details><summary>Ich habe ein E-Auto, das liegen geblieben ist. Geht das auch?</summary><div>Ja, das ist kein Problem, E-Autos kommen auf einen Plateauwagen, damit keine Achse dreht. Sagen Sie uns das am Telefon vorab.</div></details>
 </div></section>
 @@CTA@@
 
@@ -193,15 +223,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kiel</p><h1>Abschleppdienst Kiel</h1><p class="lead">Kiel ist die nördlichste Großstadt Deutschlands, an der Förde und am Nord-Ostsee-Kanal. Zwei Autobahnen führen auf die A7. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Nördlichste Großstadt Deutschlands</h2>
-<p>Kiel ist die Landeshauptstadt Schleswig-Holsteins und mit 251.842 Einwohnern am 31. Dezember 2025 dessen bevölkerungsreichste Stadt. Als Holstenstadt tom Kyle im 13. Jahrhundert gegründet, wurde sie im Jahr 1900 zur Großstadt. Heute ist Kiel die nördlichste Großstadt Deutschlands. Das Stadtgebiet ist in 30 Stadtteile eingeteilt, meist bilden ein oder mehrere Stadtteile einen der insgesamt 18 Ortsteile mit je einem Ortsbeirat. Wenn Sie in Kiel liegen bleiben, nennen Sie uns den Stadtteil und die Straße, zum Beispiel Gaarden, Wik oder Holtenau, und ob Sie westlich oder östlich der Förde stehen.</p>
+<p>Kiel ist die Landeshauptstadt Schleswig-Holsteins. Das Stadtgebiet ist in 30 Stadtteile eingeteilt. Wenn Sie in Kiel liegen bleiben, nennen Sie uns den Stadtteil und die Straße, zum Beispiel Gaarden, Wik oder Holtenau, und ob Sie westlich oder östlich der Förde stehen.</p>
 <h2>A210 und A215: die Wege zur A7</h2>
 <p>Von Kiel führen die beiden Autobahnen A210 und A215 auf die A7 Hamburg–Flensburg, zum Kreuz Rendsburg und zum Dreieck Bordesholm. Die A215 mündet am Dreieck Bordesholm nur von und in südliche Richtung in die A7. Ausführlich zur Strecke lesen Sie <a href="autobahn-a7.html">Panne auf der A7</a>. Wenn Sie auf einer der beiden Zubringer stehen, nennen Sie uns Nummer, Richtung und Anschlussstelle.</p>
 <h2>B76, B202 und die Stadtautobahn</h2>
-<p>Die Bundesstraßen B76 und B202 führen durch das Stadtgebiet und bilden eine wichtige und vielbefahrene Stadtautobahn. Ab dem Kreuz Kiel-Mitte ist die B76 als autobahnähnliche Straße ausgebaut. Weiter beginnen oder enden auf Kieler Gebiet die B404, die zur A21 ausgebaut wird, sowie die B502 und die B503. Kiel war einer der beiden Endpunkte der B4, der andere ist Nürnberg, bis der Abschnitt Kiel–Bad Bramstedt wegen der parallelen A7 zur Landesstraße herabgestuft wurde. Für Sie zählt: Auf der Stadtautobahn haben Sie oft keinen Standstreifen. Sagen Sie uns Richtung und Anschlussstelle.</p>
+<p>Die Bundesstraßen B76 und B202 führen durch das Stadtgebiet und bilden eine wichtige und vielbefahrene Stadtautobahn. Ab dem Kreuz Kiel-Mitte ist die B76 als autobahnähnliche Straße ausgebaut. Weiter beginnen oder enden auf Kieler Gebiet die B404, die zur A21 ausgebaut wird, sowie die B502 und die B503. Für Sie zählt: Auf der Stadtautobahn haben Sie oft keinen Standstreifen. Sagen Sie uns Richtung und Anschlussstelle.</p>
 <h2>Förde, Hafen und Kanal</h2>
-<p>Das Gebiet an der Kieler Förde gehörte seit der Unterwerfung der Sachsen durch Karl den Großen zunächst zum Frankenreich und dann zu Holstein. Am 20. Juni 1895 wurde der Kaiser-Wilhelm-Kanal eröffnet, heute Nord-Ostsee-Kanal. Er wurde bald der meistbefahrene Kanal der Welt, und Kiel wurde zum Haupthafen der deutschen Kriegsflotte. Heute prägen Fähr- und Kreuzfahrtverkehr die Hafenzonen. Bei einer Panne im Hafenbereich nennen Sie uns Kai oder Zufahrt. Die Deutsche Fährstraße von Kiel bis Bremervörde verbindet rund 50 Fähren, Brücken, Schleusen und Sperrwerke.</p>
+<p>Kiel liegt am Nord-Ostsee-Kanal, der die Nordsee mit der Ostsee verbindet, und an der Kieler Förde. Fähr- und Kreuzfahrtverkehr prägen die Hafenzonen. Bei einer Panne im Hafenbereich nennen Sie uns Kai oder Zufahrt.</p>
 <h2>Was wir in Kiel tun</h2>
-<p>Sie beschreiben Standort, Fahrzeug und Problem, wir organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Kiel fahren Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr, Wetter und Standort abhängt.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Kiel</h2>
+<p>Auf A210, A215, B76 oder B202: Warnblinker an, alle Insassen hinter die Leitplanke. Auf der Stadtautobahn ohne Standstreifen: möglichst bis zur nächsten Anschlussstelle weiterfahren, wenn das Fahrzeug das noch zulässt, statt mitten auf der Fahrbahn zu halten. Im Hafenbereich: Warnblinker an und auf Kranarbeiten und Lkw-Verkehr achten.</p>
+<h2>Wo es in Kiel oft passiert</h2>
+<p>Am Kreuz Kiel-Mitte, wo die B76 auf das übrige Stadtstraßennetz trifft, ist der Verkehr dichter. Auf der Stadtautobahn ohne Standstreifen ist eine Panne besonders heikel, weil kein Platz zum sicheren Halten bleibt. Im Hafenbereich bei Fähranlegern ist es zu den Abfahrtszeiten voller als sonst.</p>
 <h2>So nennen Sie Ihren Standort in Kiel</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße und die Seite der Förde.</li>
@@ -212,9 +246,10 @@
 <p>Weitere norddeutsche Städte: <a href="stadt-hamburg.html">Hamburg</a> und <a href="stadt-bremen.html">Bremen</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Kiel</h2>
-<details><summary>Wie viele Stadtteile hat Kiel?</summary><div>30 Stadtteile, die meist zu 18 Ortsteilen mit Ortsbeirat zusammengefasst sind.</div></details>
-<details><summary>Welche Autobahnen führen nach Kiel?</summary><div>Die A210 und die A215, die auf die A7 führen. Die B76 ist ab dem Kreuz Kiel-Mitte autobahnähnlich ausgebaut.</div></details>
-<details><summary>Seit wann gibt es den Nord-Ostsee-Kanal?</summary><div>Seit dem 20. Juni 1895, damals als Kaiser-Wilhelm-Kanal eröffnet.</div></details>
+<details><summary>Ich stehe auf der Stadtautobahn B76 ohne Standstreifen. Was mache ich?</summary><div>Warnblinker an. Wenn das Fahrzeug es zulässt, möglichst bis zur nächsten Anschlussstelle weiterfahren, statt mitten auf der Fahrbahn zu halten, und uns Fahrtrichtung und Anschlussstelle nennen.</div></details>
+<details><summary>Können Sie mein Auto von Kiel zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Kiel liegt oder etwa in Hamburg oder Lübeck.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Kiel?</summary><div>Das hängt von Standort und Ziel ab. Wir nennen Ihnen den Preis am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, wir sind rund um die Uhr per Telefon und WhatsApp erreichbar und vermitteln auch nachts einen Partner vor Ort.</div></details>
 <details><summary>Ich stehe im Hafenbereich. Was sage ich?</summary><div>Kai, Terminal oder Zufahrt und ob Sie westlich oder östlich der Förde stehen.</div></details>
 </div></section>
 @@CTA@@
@@ -224,13 +259,17 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Aachen</p><h1>Abschleppdienst Aachen</h1><p class="lead">Aachen liegt im Dreiländereck mit den Niederlanden und Belgien. Am Kreuz Aachen treffen sich drei Autobahnen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Kreisfreie Großstadt an der Grenze</h2>
-<p>Aachen ist eine kreisfreie Großstadt im nordrhein-westfälischen Regierungsbezirk Köln. Die Aachener Pfalz war die bedeutendste Pfalz Karls des Großen und wurde seine Grablege, später war Aachen Reichsstadt. Die Stadt beherbergt die RWTH, die FH Aachen, Theater und Museen, im Alltag bedeutet das viele Studierende und viel Autoverkehr rund um die Hochschulen. Das Stadtgebiet gliedert sich in sieben Stadtbezirke: Aachen-Mitte, Brand, Eilendorf, Haaren, Kornelimünster/Walheim, Laurensberg und Richterich. Daneben gibt es zahlreiche weitere Ortsbezeichnungen für Stadtteile und Viertel, die allgemein als Ortsteile Aachens gelten. Nennen Sie uns deshalb den Namen, unter dem der Ort bekannt ist, und die Straße.</p>
+<p>Aachen ist eine kreisfreie Großstadt im äußersten Westen Nordrhein-Westfalens. Die Stadt beherbergt die RWTH und die FH Aachen, im Alltag bedeutet das viele Studierende und viel Autoverkehr rund um die Hochschulen. Das Stadtgebiet gliedert sich in sieben Stadtbezirke: Aachen-Mitte, Brand, Eilendorf, Haaren, Kornelimünster/Walheim, Laurensberg und Richterich. Daneben gibt es zahlreiche weitere Ortsbezeichnungen für Stadtteile und Viertel, die allgemein als Ortsteile Aachens gelten. Nennen Sie uns deshalb den Namen, unter dem der Ort bekannt ist, und die Straße.</p>
 <h2>Kreuz Aachen: A4, A44 und A544</h2>
 <p>Am Autobahnkreuz Aachen treffen sich die A4, die A44 und die A544. Die A4 führt nach Köln sowie über den Grenzübergang Vetschau in die Niederlande, die A44 nach Düsseldorf sowie nach Belgien. Die A544 verbindet das Kreuz Aachen mit dem Europaplatz. Wenn Sie an dem Kreuz liegen bleiben, nennen Sie uns Autobahn, Richtung und ob Sie noch vor oder schon hinter dem Kreuz stehen. Zur A4 in Richtung Köln lesen Sie <a href="pannenhilfe-a4-koeln.html">Panne auf der A4 bei Köln</a>, zur A44 in Richtung Düsseldorf <a href="stadt-duesseldorf.html">Abschleppdienst Düsseldorf</a>.</p>
 <h2>Dreiländereck: Grenzverkehr</h2>
 <p>Rund 30 Kilometer vom Stadtzentrum entfernt liegt in den Niederlanden der internationale Maastricht Aachen Airport. Wer im Grenzgebiet liegen bleibt, muss uns sagen, auf welcher Seite der Grenze er steht. Unsere Einsätze betreffen Deutschland. Bei Fragen zur Weiterfahrt oder zur Panne im Ausland gelten andere Regeln, etwa bei Autobahnen in Nachbarländern, mehr dazu im <a href="ratgeber-panne-kehl-strassburg.html">Ratgeber Panne im Grenzgebiet</a>, der am Beispiel Kehl und Straßburg viele Grundsätze erklärt.</p>
 <h2>Was wir in Aachen tun</h2>
-<p>Wir nehmen Ihren Anruf oder Ihre WhatsApp entgegen, klären Fahrzeug, Zustand und Ziel und organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Aachen fahren Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr und Standort abhängt.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Aachen</h2>
+<p>Auf A4, A44 oder A544: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Am Kreuz Aachen: sagen Sie uns genau, ob Sie noch vor oder schon hinter dem Kreuz stehen, dort wechseln viele Fahrzeuge die Spur. In Hochschulnähe mit enger Zufahrt: Warnblinker an und Rad- und Buswege möglichst freihalten.</p>
+<h2>Wo es in Aachen oft passiert</h2>
+<p>Am Kreuz Aachen ist der Verkehr durch drei zusammenlaufende Autobahnen dichter. Rund um RWTH und FH ist es zu Vorlesungszeiten eng und unübersichtlich. Im Grenzgebiet zu den Niederlanden und Belgien ist mit Pendlerverkehr zu bestimmten Tageszeiten zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Aachen</h2>
 <ul class="ticks">
 <li>Stadtbezirk oder bekannter Ortsname und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -241,9 +280,10 @@
 <p>Nachbarstädte: <a href="abschleppdienst-koeln-stadtteile.html">Köln</a> und <a href="stadt-moenchengladbach.html">Mönchengladbach</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Aachen</h2>
-<details><summary>Wie viele Stadtbezirke hat Aachen?</summary><div>Sieben: Aachen-Mitte, Brand, Eilendorf, Haaren, Kornelimünster/Walheim, Laurensberg und Richterich.</div></details>
-<details><summary>Welche Autobahnen treffen sich am Kreuz Aachen?</summary><div>A4, A44 und A544.</div></details>
-<details><summary>Wohin führt die A4 von Aachen aus?</summary><div>Nach Köln und über den Grenzübergang Vetschau in die Niederlande.</div></details>
+<details><summary>Ich stehe am Kreuz Aachen kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn, Fahrtrichtung und ob Sie vor oder hinter dem Kreuz stehen.</div></details>
+<details><summary>Können Sie mein Auto von Aachen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Aachen liegt oder etwa in Köln oder Düsseldorf.</div></details>
 <details><summary>Kommen Sie auch nach Belgien oder in die Niederlande?</summary><div>Unsere Einsätze betreffen Deutschland. Für Fahrzeuge im Ausland gelten andere Regeln, sagen Sie uns Ihren Standort, dann klären wir, was möglich ist.</div></details>
+<details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, wir sind rund um die Uhr per Telefon und WhatsApp erreichbar und vermitteln auch nachts einen Partner vor Ort.</div></details>
+<details><summary>Ich habe ein E-Auto, das liegen geblieben ist. Geht das auch?</summary><div>Ja, E-Autos werden auf einem Plateauwagen transportiert, damit keine Antriebsachse dreht. Sagen Sie uns am Telefon, dass es ein E-Auto ist.</div></details>
 </div></section>
 @@CTA@@

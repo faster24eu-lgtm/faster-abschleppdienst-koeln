@@ -3,15 +3,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Halle (Saale)</p><h1>Abschleppdienst Halle (Saale)</h1><p class="lead">Halle wird auf drei Seiten von einem Autobahnring umgeben, der Teil der Mitteldeutschen Schleife ist. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Großstadt an der Saale</h2>
-<p>Halle (Saale) ist eine kreisfreie Großstadt im Süden von Sachsen-Anhalt mit 226.186 Einwohnern. Das Stadtgebiet ist in die fünf Stadtbezirke Mitte, Nord, Ost, Süd und West gegliedert, die in Stadtteile und diese wiederum in Stadtviertel unterteilt sind. Auf 27 Kilometern Länge fließt die Saale durch Halle und überwindet dabei einen Höhenunterschied von 9 Metern, fünf Wehre mit Schleusen machen sie schiffbar. Das gibt Ihnen einen Hinweis für die Standortangabe: Nennen Sie uns die Seite der Saale und die Brücke, an der Sie stehen.</p>
+<p>Halle (Saale) ist eine kreisfreie Großstadt im Süden von Sachsen-Anhalt. Das Stadtgebiet ist in die fünf Stadtbezirke Mitte, Nord, Ost, Süd und West gegliedert, die in Stadtteile und diese wiederum in Stadtviertel unterteilt sind. Die Saale fließt durch Halle und ist mit mehreren Wehren und Schleusen schiffbar. Das gibt Ihnen einen Hinweis für die Standortangabe: Nennen Sie uns die Seite der Saale und die Brücke, an der Sie stehen.</p>
 <h2>Der Autobahnring und seine Belastung</h2>
 <p>Halle wird auf drei Seiten von einem Autobahnring umgeben, der Teil der Mitteldeutschen Schleife ist, die auch Leipzig umschließt. Die A14 und die A9 sind dabei der weitaus am stärksten befahrene Teil des Ringes. Am Schkeuditzer Kreuz trifft die A9 auf die A14, mehr zur Strecke auf den Seiten <a href="autobahn-a9.html">Panne auf der A9</a> und <a href="stadt-leipzig.html">Abschleppdienst Leipzig</a>. Wenn Sie auf dem Ring liegen bleiben, nennen Sie uns Autobahn, Richtung und Anschlussstelle.</p>
 <h2>Kleinteilige Straßen und Neustadt</h2>
-<p>Wegen der geringen Zerstörung im Zweiten Weltkrieg hat Halle noch ein kleinteiliges Straßennetz, das den heutigen Anforderungen oft nicht gerecht wird. Im Zuge der Errichtung von Halle-Neustadt wurden neue Schnellstraßen gebaut. Für Ihre Panne bedeutet das: In der Altstadt und in den Gründerzeitvierteln sind die Straßen eng und parkende Fahrzeuge stehen dicht. Sagen Sie uns Straße und Hausnummer und ob es eng ist, damit das passende Fahrzeug kommt.</p>
+<p>Halle hat in der Altstadt und in den Gründerzeitvierteln noch ein kleinteiliges Straßennetz, im Stadtteil Halle-Neustadt dagegen breitere Schnellstraßen. Für Ihre Panne bedeutet das: In der Altstadt und in den Gründerzeitvierteln sind die Straßen eng und parkende Fahrzeuge stehen dicht. Sagen Sie uns Straße und Hausnummer und ob es eng ist, damit das passende Fahrzeug kommt.</p>
 <h2>Star Park und Hafen</h2>
-<p>Das Industriegebiet Star Park mit 230 Hektar liegt nahe der Autobahnabfahrt Halle-Ost der A14, teils auf Gebiet der Gemeinde Kabelsketal und der Stadt Landsberg. Halle hat zwei Hafenbecken, darunter den nördlichen Hafen Halle-Trotha mit Verladetechnik für Bahn, Straße und Schiff. Auf Gewerbegebieten und im Hafen nennen Sie uns Tor oder Straße.</p>
+<p>Das Industriegebiet Star Park liegt nahe der Autobahnabfahrt Halle-Ost der A14, teils auf Gebiet der Gemeinde Kabelsketal und der Stadt Landsberg. Halle hat zwei Hafenbecken, darunter den nördlichen Hafen Halle-Trotha mit Verladetechnik für Bahn, Straße und Schiff. Auf Gewerbegebieten und im Hafen nennen Sie uns Tor oder Straße.</p>
 <h2>Was wir in Halle tun</h2>
-<p>Sie beschreiben Standort, Fahrzeug und Problem, wir organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Halle fahren Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr und Standort abhängt.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Halle</h2>
+<p>Auf A14, A9 oder A38: Warnblinker sofort einschalten, alle Insassen steigen aus und gehen hinter die Leitplanke, das Warndreieck folgt, wenn die Verkehrslage es zulässt. An einer Saalebrücke: Warnblinker an und nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt. In den engen Altstadtstraßen: Warnblinker an und, wenn möglich, so weit wie möglich an den Rand fahren.</p>
+<h2>Wo es in Halle oft passiert</h2>
+<p>Am Schkeuditzer Kreuz, wo A9 und A14 aufeinandertreffen, ist der Verkehr durch den Fahrstreifenwechsel dichter. In der Altstadt und den Gründerzeitvierteln ist es wegen des kleinteiligen Straßennetzes und dicht parkender Fahrzeuge eng. Rund um den Star Park und den Hafen fahren viele Lkw.</p>
 <h2>So nennen Sie Ihren Standort in Halle</h2>
 <ul class="ticks">
 <li>Stadtviertel und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -22,10 +26,11 @@
 <p>Weitere Städte: <a href="stadt-leipzig.html">Leipzig</a> und <a href="stadt-magdeburg.html">Magdeburg</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Halle</h2>
-<details><summary>Wie viele Stadtbezirke hat Halle?</summary><div>Fünf: Mitte, Nord, Ost, Süd und West.</div></details>
-<details><summary>Welche Autobahnen umgeben Halle?</summary><div>Ein Autobahnring, der Teil der Mitteldeutschen Schleife ist, mit A14 und A9 als am stärksten befahrenem Teil.</div></details>
-<details><summary>Was ist der Star Park?</summary><div>Ein Industriegebiet mit 230 Hektar nahe der Autobahnabfahrt Halle-Ost der A14.</div></details>
-<details><summary>Kommen Sie in den Hafen Trotha?</summary><div>Wir organisieren Einsätze im Stadtgebiet. Für Betriebsgelände brauchen wir Tor oder Straße, dann klären wir den Zugang.</div></details>
+<details><summary>Ich stehe auf dem Autobahnring kurz vor dem Schkeuditzer Kreuz. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Autobahn, Fahrtrichtung und die Entfernung zum Kreuz.</div></details>
+<details><summary>Können Sie mein Auto von Halle zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Halle liegt oder etwa in Leipzig oder Magdeburg.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Halle?</summary><div>Der Preis hängt von Ihrem Standort und dem Zielort ab und wird vorab am Telefon genannt, damit Sie vor der Fahrt Bescheid wissen.</div></details>
+<details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, wir sind Tag und Nacht sowie am Wochenende erreichbar und vermitteln auch dann zuverlässig einen Partner vor Ort.</div></details>
+<details><summary>Ich habe ein E-Auto, das liegen geblieben ist. Geht das auch?</summary><div>Ja, auch E-Autos holen wir ab, transportiert auf einem Plateauwagen, damit keine Antriebsachse mitdreht. Erwähnen Sie es einfach am Telefon.</div></details>
 </div></section>
 @@CTA@@
 
