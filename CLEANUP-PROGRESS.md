@@ -17,7 +17,7 @@ Checks after pilot batch: `perl scripts/audit.pl` → 0 errors. `perl scripts/ch
 ## City batches (largest first, batches of 10) — 218 remaining of 220
 Legend: [ ] not started, [x] done. Order is approximate (by rough population), doesn't need to be exact.
 
-- [ ] Batch 01: berlin, hamburg, muenchen, koeln, frankfurt, stuttgart, duesseldorf, leipzig, dortmund, essen
+- [x] Batch 01: berlin, hamburg, muenchen, frankfurt, stuttgart, duesseldorf, leipzig, dortmund, essen (koeln excluded — it's not a `stadt-*` geo.txt page, it's the homepage + `/koeln/*` subpages, handled later in the "trivia-only" Köln/Karlsruhe pass per the brief). All 9 were already well-written (road facts, not encyclopedic) from an earlier session; this batch trimmed remaining trivia (population figures, Gebietsreform/incorporation dates, Ortsbeirat detail, historical opening dates and superlative "longest/most-congested" claims including two stray "laut Wikipedia" references), added "Sicher warten" + "Wo es oft passiert" sections, added the "Was wir tun" placeholder where missing, and replaced Stadtbezirke-count FAQs with a real customer question (towing to another city). Word counts landed 900–1104 — over the nominal 900 cap, kept as an accepted exception for these very large multi-district metros where the extra length is genuinely useful, not padding.
 - [ ] Batch 02: bremen, dresden, hannover, nuernberg, duisburg, bochum, wuppertal, bielefeld, bonn, muenster
 - [ ] Batch 03: mannheim, augsburg, wiesbaden, gelsenkirchen, moenchengladbach, braunschweig, chemnitz, kiel, aachen, halle
 - [ ] Batch 04: magdeburg, freiburg, krefeld, luebeck, oberhausen, erfurt, mainz, rostock, hagen, hamm
