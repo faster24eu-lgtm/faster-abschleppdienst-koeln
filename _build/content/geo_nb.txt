@@ -218,3 +218,7 @@ stadt-nordhorn	lingen,rheine,emden	a30,a31
 stadt-nienburg	verden,hannover,osnabrueck,celle	a27
 stadt-verden	nienburg,bremen,celle,lueneburg	a27
 stadt-huerth	bergheim,kerpen,frechen,bonn	a1,a61
+stadt-sankt-augustin	bonn,siegburg,troisdorf,koeln	a3,a59,a560
+stadt-meerbusch	duesseldorf,krefeld,neuss,moenchengladbach,viersen	a44,a52,a57
+stadt-rastatt	karlsruhe,baden-baden,bruchsal,heidelberg	a5-hessen-baden
+stadt-schwaebisch-gmuend	aalen,heidenheim,waiblingen,goeppingen,esslingen	a7

@@ -1,0 +1,115 @@
+=== stadt-sankt-augustin | Abschleppdienst Sankt Augustin: A560, A3, A59, B56 | Pannenhilfe und Abschleppen in Sankt Augustin: A560 seit 1988 zwischen A3 und A59, Kreuz Bonn/Siegburg, B56 nach Bonn und Siegburg. | page ===
+<!--AREAS: Sankt Augustin, Hangelar, Menden, Niederpleis, Mülldorf, Buisdorf, Birlinghoven, Meindorf -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Sankt Augustin</p><h1>Abschleppdienst Sankt Augustin</h1><p class="lead">Sankt Augustin liegt im Verdichtungsraum Bonn zwischen A3, A59 und A560. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Entstanden 1969 aus dem Amt Menden</h2>
+<p>Sankt Augustin im Rhein-Sieg-Kreis entstand bei der nordrhein-westfälischen Gebietsreform 1969 durch die Auflösung des Amtes Menden und liegt im Verdichtungsraum Bonn. Die Ortsteile Hangelar, Sankt Augustin-Ort, Niederpleis und Mülldorf liegen entlang der Verbindungslinie Bonn–Siegburg und bilden den durchgängig bebauten Hauptteil der Stadt, während Menden und Meindorf im Norden, Buisdorf im Osten und Birlinghoven im Süden noch von größeren Freiflächen umgeben sind. Nennen Sie uns bei einer Panne den Ortsteil und die Straße. Mehr auf <a href="stadt-bonn.html">Abschleppdienst Bonn</a>, <a href="stadt-siegburg.html">Abschleppdienst Siegburg</a> und <a href="stadt-troisdorf.html">Abschleppdienst Troisdorf</a>.</p>
+<h2>A560 seit 1988, A3 und A59</h2>
+<p>Mitte der 1980er Jahre entstand die A560 entlang des alten Siegdammes, sie verbindet seit 1988 die A3 mit der A59. Drei Autobahnanbindungen an die A560 gibt es in Menden, Mülldorf und Niederpleis, eine an die A59 liegt nahe Hangelar in Richtung Bonn. Im Osten tangiert die A3 die Stadt und ist über die Anschlussstelle zur A560 in Niederpleis sowie das Autobahnkreuz Bonn/Siegburg unmittelbar angebunden. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="autobahn-a59.html">Panne auf der A59</a>. Die B56 verbindet die Stadt mit Bonn und Siegburg, sagen Sie uns dort Fahrtrichtung und Ortsteil.</p>
+<h2>Siegauen-Tunnel und ICE-Bahnhof in der Nachbarschaft</h2>
+<p>Die Schnellfahrstrecke Köln–Rhein/Main wird auf dem Stadtgebiet in Niederpleis größtenteils durch den Siegauen-Tunnel geführt, in Birlinghoven verläuft sie parallel zur A3. In unmittelbarer Nachbarschaft, über die Stadtbahn angeschlossen, liegt der ICE-Bahnhof Siegburg/Bonn. Über das Stadtgebiet selbst führt die rechte Rheinstrecke mit dem Haltepunkt Menden (Rheinland). Wenn Sie am Haltepunkt Menden liegen bleiben, nennen Sie uns Straße und Ausgang.</p>
+<h2>Weitere Bahnpläne bei Menden</h2>
+<p>Diskutiert wird der Bau eines Tunnels zwischen Sankt Augustin und Mainz-Bischofsheim als Teil einer neuen Güterzugstrecke, die in Menden von der rechten Rheinstrecke abzweigen würde. Das ist ein reines Planungsprojekt, für die Anfahrt heute ändert sich dadurch nichts, nennen Sie uns wie gewohnt Ortsteil und Straße.</p>
+<h2>So nennen Sie Ihren Standort in Sankt Augustin</h2>
+<ul class="ticks">
+<li>Ortsteil (Hangelar, Menden, Niederpleis, Mülldorf, Buisdorf, Birlinghoven …), Straße, Hausnummer.</li>
+<li>Auf A3, A59 oder A560: Nummer, Richtung, Anschlussstelle.</li>
+<li>Auf der B56: Fahrtrichtung.</li>
+<li>Am Haltepunkt Menden: Straße, Ausgang.</li>
+</ul>
+<p>Weitere Städte: <a href="index.html">Köln</a> und <a href="stadt-siegburg.html">Siegburg</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Sankt Augustin</h2>
+<details><summary>Wann wurde die A560 gebaut?</summary><div>Mitte der 1980er Jahre, seit 1988 verbindet sie die A3 mit der A59.</div></details>
+<details><summary>Welche Bundesstraße führt nach Bonn?</summary><div>Die B56, sie verbindet Sankt Augustin mit Bonn und Siegburg.</div></details>
+<details><summary>Wo liegt der nächste ICE-Bahnhof?</summary><div>In der Nachbarschaft: Siegburg/Bonn, über die Stadtbahn angeschlossen.</div></details>
+<details><summary>Wie viele Autobahnanbindungen hat Sankt Augustin an die A560?</summary><div>Drei: Menden, Mülldorf und Niederpleis.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-meerbusch | Abschleppdienst Meerbusch: A44, A52, A57, Kreuz Meerbusch | Pannenhilfe und Abschleppen in Meerbusch: acht Stadtteile am linken Niederrhein, Autobahnkreuz Meerbusch von A44 und A57, Anschluss an die A52. | page ===
+<!--AREAS: Meerbusch, Büderich, Osterath, Lank-Latum, Ossum-Bösinghoven, Strümp, Langst-Kierst, Nierst, Ilverich, Kreuz Meerbusch -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Meerbusch</p><h1>Abschleppdienst Meerbusch</h1><p class="lead">Meerbusch liegt am linken Niederrhein zwischen Krefeld und Düsseldorf, hier kreuzen sich A44 und A57. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Acht Stadtteile aus ehemals selbstständigen Gemeinden</h2>
+<p>Meerbusch ist eine kreisangehörige Stadt im Rhein-Kreis Neuss und Mittelzentrum am linken Niederrhein zwischen Krefeld und Düsseldorf, geprägt von einem ländlichen Charakter. Die acht ehemals selbstständigen Gemeinden Büderich, Osterath, Lank-Latum, Ossum-Bösinghoven, Strümp, Langst-Kierst, Nierst und Ilverich bilden die heutigen Stadtteile. Das größte Meerbuscher Schützenfest findet jährlich am Pfingstwochenende in Büderich statt. Nennen Sie uns bei einer Panne den Stadtteil und die Straße. Mehr auf <a href="stadt-duesseldorf.html">Abschleppdienst Düsseldorf</a>, <a href="stadt-krefeld.html">Abschleppdienst Krefeld</a> und <a href="stadt-neuss.html">Abschleppdienst Neuss</a>.</p>
+<h2>Drei Autobahnen und das Kreuz Meerbusch</h2>
+<p>Meerbusch ist an drei Autobahnen angeschlossen: die A52 (Roermond–Essen) mit den Anschlussstellen Büderich (14) und Kaarst Nord/Osterath (12), die A57 (Nimwegen–Köln) mit der Anschlussstelle Bovert (16, früher Meerbusch) und die A44 (Lüttich–Kassel) mit den Anschlussstellen Lank-Latum (28) und Osterath (26). Die A44 und die A57 kreuzen sich im Stadtgebiet und bilden das nach der Stadt benannte Autobahnkreuz Meerbusch. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a44.html">Panne auf der A44</a>, <a href="autobahn-a57.html">Panne auf der A57</a> und <a href="autobahn-a52.html">Panne auf der A52</a>.</p>
+<h2>A44-Rheinquerung</h2>
+<p>Nachdem das Oberverwaltungsgericht den Sofortvollzug der A44-Rheinquerung genehmigt hatte, begannen weitere Bauarbeiten im Stadtgebiet. Das kann örtlich zu Baustellen und Umleitungen führen, nennen Sie uns in diesem Bereich die aktuelle Beschilderung.</p>
+<h2>Ortskernsanierung und Kulturzentren</h2>
+<p>1994 wurden die Kulturzentren „Forum Wasserturm“ und die Teloy-Mühle in Lank eröffnet, die Ortskernsanierung Osterath begann 1997 an der Hochstraße. Wenn Sie in einem dieser sanierten Ortskerne liegen bleiben, nennen Sie uns Straße und ob die Zufahrt eng ist.</p>
+<h2>So nennen Sie Ihren Standort in Meerbusch</h2>
+<ul class="ticks">
+<li>Stadtteil (Büderich, Osterath, Lank-Latum …), Straße, Hausnummer.</li>
+<li>Auf A44, A52 oder A57: Nummer, Richtung, Anschlussstelle.</li>
+<li>Am Kreuz Meerbusch: A44 oder A57, Fahrtrichtung.</li>
+<li>Im Ortskern: Straße, enge Zufahrt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-moenchengladbach.html">Mönchengladbach</a> und <a href="stadt-viersen.html">Viersen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Meerbusch</h2>
+<details><summary>Welche Autobahnen führen durch Meerbusch?</summary><div>A44, A52 und A57.</div></details>
+<details><summary>Wo kreuzen sich A44 und A57?</summary><div>Im Autobahnkreuz Meerbusch auf dem Stadtgebiet.</div></details>
+<details><summary>Wie viele Stadtteile hat Meerbusch?</summary><div>Acht, aus ehemals selbstständigen Gemeinden.</div></details>
+<details><summary>Wo findet das größte Schützenfest statt?</summary><div>In Büderich, jährlich am Pfingstwochenende.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-rastatt | Abschleppdienst Rastatt: A5, B3, B36, Tunnel Rastatt | Pannenhilfe und Abschleppen in Rastatt: zwei Anschlüsse an die A5, B3 und B36, Rheingrenze zu Frankreich, Bahntunnel Rastatt mit Gleisabsenkung 2017. | page ===
+<!--AREAS: Rastatt, Niederbühl, Ottersdorf, Plittersdorf, Rauental, Wintersdorf, Ried, Rhein -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rastatt</p><h1>Abschleppdienst Rastatt</h1><p class="lead">Rastatt liegt in der Oberrheinischen Tiefebene zwischen Karlsruhe und Baden-Baden mit zwei Anschlüssen an die A5. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Barocke Residenzstadt am Rhein</h2>
+<p>Rastatt ist Kreisstadt und größte Stadt des Landkreises Rastatt, rund 22 Kilometer südwestlich von Karlsruhe und 12 Kilometer nördlich von Baden-Baden. Die Stadt liegt in der Oberrheinischen Tiefebene, im Westen bildet der Rhein die Stadtgrenze und die Grenze zu Frankreich. Das Stadtgebiet besteht aus der Kernstadt und den erst in den 1970er Jahren eingemeindeten Ortsteilen Niederbühl, Ottersdorf, Plittersdorf, Rauental und Wintersdorf, die rheinnahen Ortsteile Ottersdorf, Plittersdorf und Wintersdorf bilden das sogenannte Ried. Nennen Sie uns bei einer Panne Ortsteil und Straße, dazu ob Sie im Ried oder in der Kernstadt stehen. Mehr auf <a href="abschleppdienst-karlsruhe.html">Abschleppdienst Karlsruhe</a>, <a href="stadt-baden-baden.html">Abschleppdienst Baden-Baden</a> und <a href="stadt-bruchsal.html">Abschleppdienst Bruchsal</a>.</p>
+<h2>Zwei Anschlüsse an die A5, B3 und B36</h2>
+<p>Rastatt hat zwei direkte Anschlüsse an die A5 (Basel–Karlsruhe), außerdem führen die B3 und die B36 durch die Stadt. Bei einer Panne auf der A5 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>. Auf B3 oder B36 sagen Sie uns Fahrtrichtung und Querstraße.</p>
+<h2>Tunnel Rastatt und Gleisabsenkung 2017</h2>
+<p>Den Durchgangsverkehr auf der Rheintalstrecke soll künftig der 4.270 Meter lange Tunnel Rastatt aufnehmen, der Anstich zum Bau der zwei Röhren erfolgte 2016. Am 12. August 2017 senkte sich das Gleisbett über dem bereits fertiggestellten östlichen Tunnel ab, was zu einer mehrwöchigen Streckensperrung führte. Das betrifft in erster Linie den Bahnverkehr, für Straßenpannen in Tunnelnähe gelten trotzdem die Regeln aus <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>.</p>
+<h2>Rheinnahe Ortsteile im Ried</h2>
+<p>Zum Stadtteil Niederbühl gehören auch die Dörfer Niederbühl und Förch sowie Schloss Favorite, zu Plittersdorf gehört das gleichnamige Dorf. Wenn Sie in einem dieser kleinen Ortsteile liegen bleiben, nennen Sie uns den genauen Namen und die Straße, da mehrere kleine Dörfer zu einem Stadtteil zusammengefasst sind.</p>
+<h2>So nennen Sie Ihren Standort in Rastatt</h2>
+<ul class="ticks">
+<li>Ortsteil (Niederbühl, Ottersdorf, Plittersdorf, Rauental, Wintersdorf), Straße, Hausnummer.</li>
+<li>Auf der A5: Richtung, Anschlussstelle.</li>
+<li>Auf B3 oder B36: Fahrtrichtung.</li>
+<li>Im Ried oder in der Kernstadt: welcher Bereich.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-heidelberg.html">Heidelberg</a> und <a href="abschleppdienst-offenburg.html">Offenburg</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Rastatt</h2>
+<details><summary>Wie viele Anschlüsse hat Rastatt an die A5?</summary><div>Zwei direkte Anschlüsse.</div></details>
+<details><summary>Welche Bundesstraßen führen durch Rastatt?</summary><div>B3 und B36.</div></details>
+<details><summary>Was ist das Ried?</summary><div>Die rheinnahen Stadtteile Ottersdorf, Plittersdorf und Wintersdorf.</div></details>
+<details><summary>Was ist mit dem Tunnel Rastatt?</summary><div>2017 senkte sich das Gleisbett über dem fertigen Tunnelteil ab, mit mehrwöchiger Streckensperrung.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-schwaebisch-gmuend | Abschleppdienst Schwäbisch Gmünd: A7, B29, Einhorn-Tunnel | Pannenhilfe und Abschleppen in Schwäbisch Gmünd: B29 als Kraftfahrstraße durch den Einhorn-Tunnel, nächste A7-Anschlüsse bei Aalen. | page ===
+<!--AREAS: Schwäbisch Gmünd, Bettringen, Straßdorf, Wetzgau, Herlikofen, Rechberg, Weiler, Remstal -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Schwäbisch Gmünd</p><h1>Abschleppdienst Schwäbisch Gmünd</h1><p class="lead">Schwäbisch Gmünd liegt im Remstal, die B29 führt als Kraftfahrstraße durch den Gmünder Einhorn-Tunnel. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Größte Stadt im Remstal</h2>
+<p>Schwäbisch Gmünd liegt rund 50 Kilometer östlich von Stuttgart in Ostwürttemberg und ist sowohl einwohner- als auch flächenmäßig die größte Stadt im Remstal. Die frühere Reichsstadt gehört zur Randzone der Metropolregion Stuttgart. Das Stadtgebiet umfasst die Kernstadt, den 1938 eingemeindeten Wohnplatz Wetzgau, die 1959 eingegliederte Gemeinde Bettringen sowie acht in den 1970er Jahren eingegliederte Gemeinden, darunter Bargau, Herlikofen, Rechberg, Straßdorf und Weiler. Der Ortsteil Zimmern wurde bereits im Jahr 839 urkundlich erwähnt. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-aalen.html">Abschleppdienst Aalen</a>, <a href="stadt-heidenheim.html">Abschleppdienst Heidenheim</a> und <a href="stadt-waiblingen.html">Abschleppdienst Waiblingen</a>.</p>
+<h2>B29 als Kraftfahrstraße durch den Einhorn-Tunnel</h2>
+<p>Durch das Stadtgebiet führt west-östlich im Remstal die B29 (Waiblingen–Aalen–Nördlingen), die von Waiblingen bis Schwäbisch Gmünd vierspurig zur autobahnähnlichen Kraftfahrstraße ausgebaut ist. Seit dem 25. November 2013 verläuft die neue Ortsumfahrung als 2,2 Kilometer langer Gmünder Einhorn-Tunnel. Die nächsten Autobahnanschlüsse sind Aalen/Westhausen und Aalen-Süd/Oberkochen an der A7. Bei einer Panne im Einhorn-Tunnel gelten die Regeln aus <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>. Bei einer Panne auf der A7 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a7.html">Panne auf der A7</a>.</p>
+<h2>Umweltzone 2023 aufgehoben</h2>
+<p>In der Kernstadt galt seit dem 1. März 2008 die Feinstaubplakettenpflicht, ab 2012 auch ein Fahrverbot für Fahrzeuge ohne ausreichende Schadstoffgruppe, die B29 eingeschlossen. Zum 1. Mai 2023 hob das Regierungspräsidium Stuttgart die Umweltzone in Schwäbisch Gmünd auf, da sich die Luftqualität verbessert hatte und die Grenzwerte eingehalten wurden. Für die Anfahrt heute spielt das keine Rolle mehr, ältere Kartenangaben können die frühere Umweltzone aber noch zeigen.</p>
+<h2>Landesgartenschau und Stadtjubiläum</h2>
+<p>Nach dem Stadtumbau zum Stadtjubiläum 2012 und zur Landesgartenschau 2014, die erst nach der Fertigstellung des Einhorn-Tunnels möglich wurde, erhielt die Stadt 2016 den Sonderpreis des Otto-Borst-Preises für Stadterneuerung. Wenn Sie im sanierten Innenstadtbereich liegen bleiben, nennen Sie uns Straße und Hausnummer.</p>
+<h2>So nennen Sie Ihren Standort in Schwäbisch Gmünd</h2>
+<ul class="ticks">
+<li>Ortsteil (Bettringen, Straßdorf, Herlikofen, Rechberg …), Straße, Hausnummer.</li>
+<li>Auf der B29: Fahrtrichtung, Einhorn-Tunnel oder freie Strecke.</li>
+<li>Zur A7: Anschluss Aalen/Westhausen oder Aalen-Süd/Oberkochen.</li>
+<li>In der Kernstadt: Straße, enge Zufahrt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-goeppingen.html">Göppingen</a> und <a href="stadt-esslingen.html">Esslingen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Schwäbisch Gmünd</h2>
+<details><summary>Was ist der Gmünder Einhorn-Tunnel?</summary><div>Eine seit 25. November 2013 bestehende Ortsumfahrung der B29 im Remstal.</div></details>
+<details><summary>Wo sind die nächsten Autobahnanschlüsse?</summary><div>Aalen/Westhausen und Aalen-Süd/Oberkochen an der A7.</div></details>
+<details><summary>Gibt es noch eine Umweltzone?</summary><div>Nein, sie wurde zum 1. Mai 2023 aufgehoben.</div></details>
+<details><summary>Wann wurde Zimmern erstmals erwähnt?</summary><div>Bereits im Jahr 839.</div></details>
+</div></section>
+@@CTA@@

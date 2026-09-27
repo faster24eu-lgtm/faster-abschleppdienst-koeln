@@ -1,8 +1,8 @@
 # LAUNCH-CHECKLIST
 
 ## Session status (2026-09-27, overnight expansion cycle finished ~09:20)
-- **371 built pages**, audit 0 errors, 0 broken links, click depth ≤ 3; similarity check 0 pairs above 30 % on both `staedte/*` (max ~29.3 %) and `autobahnen/*` (max ~13.5 %).
-- Breakdown: 217 city/district pages (incl. 12 Berlin Bezirke), 68 Autobahn pages, 16 Bundesland hubs + index, 36 Ratgeber guides, 21 Köln pages, 6 Karlsruhe pages, plus home, hubs, Kontakt, Danke, Impressum, Datenschutz.
+- **375 built pages**, audit 0 errors, 0 broken links, click depth ≤ 3; similarity check 0 pairs above 30 % on both `staedte/*` (max ~29.3 %) and `autobahnen/*` (max ~13.5 %).
+- Breakdown: 221 city/district pages (incl. 12 Berlin Bezirke), 68 Autobahn pages, 16 Bundesland hubs + index, 36 Ratgeber guides, 21 Köln pages, 6 Karlsruhe pages, plus home, hubs, Kontakt, Danke, Impressum, Datenschutz.
 - Coverage now spans all 16 Bundesländer with genuinely local Tier A/B city pages plus Autobahn pages; the Tier B candidate list from the original brief is exhausted (see COVERAGE.md). Hamburg's 7 Bezirke, and München/Frankfurt/Stuttgart/Düsseldorf district pages, are **not** built — the readily available Wikipedia extracts for those districts lacked usable traffic/orientation facts; would need a better source before writing them.
 - Site remains `noindex, nofollow` and `robots.txt` is `Disallow: /` — confirmed still in place as of this cycle. Nothing here has gone live in search yet; that switch is still the owner's call (item 4 below).
 - All facts came from Wikipedia extracts read during this session; anything uncertain or time-sensitive is logged under "Owner check" entries throughout SEO-ROADMAP.md (construction/opening dates, planned-but-unrealised roads, population figures tied to a stated date). Nothing was invented: no prices, ratings, review counts, years in business, response times, or claims of local offices/own drivers.

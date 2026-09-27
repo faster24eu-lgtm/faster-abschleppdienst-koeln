@@ -296,3 +296,7 @@ stadt-nordhorn	Nordhorn	Niedersachsen
 stadt-nienburg	Nienburg/Weser	Niedersachsen
 stadt-verden	Verden (Aller)	Niedersachsen
 stadt-huerth	Hürth	Nordrhein-Westfalen	
+stadt-sankt-augustin	Sankt Augustin	Nordrhein-Westfalen
+stadt-meerbusch	Meerbusch	Nordrhein-Westfalen
+stadt-rastatt	Rastatt	Baden-Württemberg
+stadt-schwaebisch-gmuend	Schwäbisch Gmünd	Baden-Württemberg

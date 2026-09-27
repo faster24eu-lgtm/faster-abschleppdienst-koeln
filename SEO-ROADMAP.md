@@ -348,3 +348,7 @@ This closes essentially all of the open Tier B candidates listed in COVERAGE.md.
 
 ## Cycle 42 (2026-09-27 ~09:25): Hürth + quality expansions on shortest pages
 Added Hürth (Rhein-Erft-Kreis, A1/A553/B265, Bahnhof Hürth-Kalscheuren). Expanded the shortest existing pages to bring them nearer the 650-950 word target: A23 (speed limits), Wolfenbüttel (Stadtteile, Herzog August Bibliothek), Hameln (Ortsteile), Gladbeck (Zeche/Strukturwandel history), A49 (Dannenröder Forst protests). 371 pages, audit 0 errors, similarity max 29.3%.
+
+## Cycle 43 (2026-09-27 ~09:35): 4 more Mittelstädte beyond the original brief list
+Sankt Augustin, Meerbusch, Rastatt, Schwäbisch Gmünd. 375 pages, audit 0 errors, similarity max 29.9% (Kleve/Meerbusch, under threshold, no action needed).
+Owner check: Schwäbisch Gmünd Umweltzone was lifted 2023-05-01 (mentioned as historical fact, not a current restriction — verified from source, not invented); Rastatt Tunnel Rastatt 2017 gleisabsenkung affects rail, not road, traffic; Sankt Augustin A560 predates 1988 opening date confirmed from source.
