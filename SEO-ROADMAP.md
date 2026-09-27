@@ -304,18 +304,18 @@ Owner decision: expand to all of Germany (partners exist everywhere), organic on
 Marl, Dorsten, Lippstadt, Castrop-Rauxel, Arnsberg, Rheine, Goslar, Wolfenbüttel, Hameln, Hof (Saale), Ansbach, Lutherstadt Wittenberg. Built 317 pages, audit 0 errors, similarity max 28.7 % (city pair). Sources: Wikipedia extracts, facts only.
 Owner check (time-sensitive): Lippstadt "ca. sechs ICE/IC pro Tag"; Arnsberg RE-Linien (RE17/RE57) and Schnellbuslinien; Dorsten RE14 30-Minuten-Takt; Einwohnerzahlen of Marl, Rheine, Goslar, Wolfenbüttel (Stand 31.12.2025 laut Quelle).
 
-## Cycle 32 (2026-09-27 ~05:50): 7 Tier B city pages
+## Cycle 32 (2026-09-27): 7 Tier B city pages
 Viersen, Dormagen, Bocholt, Herford, Unna, Lünen, Lingen (Ems). 324 pages built, audit 0 errors, similarity max 28.7 % (city). Sources: Wikipedia extracts.
 Owner check: Bocholt Westringtunnel / planned Nordring (plan status may change); Bocholt RE19 and planned Halt Mussum (Wikipedia: Q3 2026); Dormagen ferries (Autofähre Zons–Urdenbach, weekend Personenfähre); Herford/Bocholt/Lingen population figures; Lingen 56.539 vs Zensus 55.092.
 
-## Cycle 33 (2026-09-27 ~06:10): 4 Tier B pages near Köln/Aachen corridor
+## Cycle 33 (2026-09-27): 4 Tier B pages near Köln/Aachen corridor
 Düren, Euskirchen, Kerpen, Frechen. 328 pages, audit 0 errors, similarity max 28.7 %.
 Owner check: Frechen Nord Teilanschluss (Wikipedia: Anschluss Richtung Köln "in Planung"); Kerpen Manheim renaming 2025; Euskirchen post-flood 2021 station status; Düren RE1/RE9 hourly.
 
-## Cycle 34 (2026-09-27 ~06:30): 4 Niederrhein pages
+## Cycle 34 (2026-09-27): 4 Niederrhein pages
 Dinslaken, Wesel, Kleve, Kamp-Lintfort. 332 pages, audit 0 errors, similarity max 28.7 %.
 Owner check: Kamp-Lintfort "Kamp-Lintfort-Süd" Abfahrt/B528 extension status; Wesel Niederrheinbrücke (only Rhine bridge in Kreis Wesel, per Wikipedia); Wesel/Dinslaken population.
 
-## Cycle 35 (2026-09-27 ~06:50): 8 Baden-Württemberg pages
+## Cycle 35 (2026-09-27): 8 Baden-Württemberg pages
 Friedrichshafen, Aalen, Heidenheim an der Brenz, Böblingen, Waiblingen, Lörrach, Baden-Baden, Bruchsal. 340 pages, audit 0 errors, similarity max 28.7 %. Also shortened the A19 title (was 66 chars).
 Owner check: Aalen B29a (opened 2021-12-03, "zum 1.1.2022 umgewidmet"); Lörrach zollfreie Straße B317 through Swiss territory (since 2013) and Zoll-/Grenzregeln; Friedrichshafen: A96/A98 not on the Stadtgebiet (only B31/B30); Baden-Baden B500 Michaelstunnel length (2.544 m) and Schwarzwaldhochstraße; population figures Böblingen, Waiblingen, Baden-Baden (31.12.2025 per source).

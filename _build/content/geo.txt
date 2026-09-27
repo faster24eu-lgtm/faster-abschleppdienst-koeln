@@ -264,3 +264,11 @@ stadt-waiblingen	Waiblingen	Baden-Württemberg
 stadt-loerrach	Lörrach	Baden-Württemberg	
 stadt-baden-baden	Baden-Baden	Baden-Württemberg	
 stadt-bruchsal	Bruchsal	Baden-Württemberg	
+stadt-luedenscheid	Lüdenscheid	Nordrhein-Westfalen	
+stadt-coburg	Coburg	Bayern	
+stadt-freising	Freising	Bayern	
+stadt-dachau	Dachau	Bayern	
+stadt-detmold	Detmold	Nordrhein-Westfalen	
+stadt-bad-salzuflen	Bad Salzuflen	Nordrhein-Westfalen	
+stadt-amberg	Amberg	Bayern	
+stadt-weiden	Weiden in der Oberpfalz	Bayern	

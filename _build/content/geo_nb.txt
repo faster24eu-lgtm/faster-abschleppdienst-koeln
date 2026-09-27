@@ -186,3 +186,11 @@ stadt-waiblingen	stuttgart,esslingen,ludwigsburg,goeppingen,heilbronn	a81,a8
 stadt-loerrach	freiburg,konstanz,villingen-schwenningen,offenburg	a98,a5
 stadt-baden-baden	karlsruhe,pforzheim,offenburg,heidelberg,freiburg	a5
 stadt-bruchsal	karlsruhe,heidelberg,pforzheim,mannheim,heilbronn	a5
+stadt-luedenscheid	hagen,iserlohn,arnsberg,siegen,wuppertal,remscheid	a45
+stadt-coburg	bamberg,bayreuth,schweinfurt,weimar,erfurt	a73
+stadt-freising	ingolstadt,landshut,augsburg,regensburg,rosenheim	a92,a9
+stadt-dachau	augsburg,ingolstadt,freising,rosenheim	a8,a92
+stadt-detmold	bielefeld,paderborn,herford,guetersloh,minden	a2,a44
+stadt-bad-salzuflen	herford,bielefeld,detmold,minden,guetersloh	a2
+stadt-amberg	nuernberg,regensburg,weiden,bayreuth,ansbach	a6
+stadt-weiden	amberg,regensburg,bayreuth,hof,plauen	a93

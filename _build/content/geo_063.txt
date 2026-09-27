@@ -1,0 +1,223 @@
+=== stadt-luedenscheid | Abschleppdienst Lüdenscheid: Pannenhilfe A45, B54, B229 | Pannenhilfe und Abschleppen in Lüdenscheid: Bergstadt im Sauerland, drei Anschlussstellen der A45, B54, B229, Nordtangente und zwei Tunnel. | page ===
+<!--AREAS: Lüdenscheid, Brügge, Volmetal, Rahmedetal, Versetal, Nordtangente, Sauerfeld, Wilhelmstraße -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lüdenscheid</p><h1>Abschleppdienst Lüdenscheid</h1><p class="lead">Lüdenscheid liegt als Bergstadt im nordwestlichen Sauerland, die A45 führt im Halbkreis östlich um die Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Bergstadt in der Lüdenscheider Mulde</h2>
+<p>Lüdenscheid ist Kreisstadt des Märkischen Kreises und zählt 70.810 Einwohner (31. Dezember 2025). Die Stadt liegt im nordwestlichen Sauerland auf 232 bis 539 Metern Höhe in der Lüdenscheider Mulde mit dem Kernbereich in der Quellmulde der Rahmede. Als Bergstadt wirkt sie, wenn man sich aus den umliegenden Tälern nähert, etwa aus dem Rahmedetal Richtung Altena, dem Versetal Richtung Werdohl oder dem Volmetal bei Brügge. Bei einer Panne in einem Tal oder an einem Anstieg sagen Sie uns, ob Sie bergauf oder bergab stehen. Das Straßennetz besteht laut Quelle aus 13,9 Kilometern Autobahn, 20,3 Kilometern Bundesstraßen, 62,4 Kilometern Landstraßen und 265,2 Kilometern Gemeindestraßen. Mehr auf <a href="stadt-hagen.html">Abschleppdienst Hagen</a>, <a href="stadt-iserlohn.html">Abschleppdienst Iserlohn</a> und <a href="stadt-arnsberg.html">Abschleppdienst Arnsberg</a>.</p>
+<h2>A45, B54 und B229</h2>
+<p>Lüdenscheid ist durch drei Anschlussstellen an die A45 (Dortmund–Aschaffenburg) und mit der B54 sowie der B229 an das Fernstraßennetz angebunden. Die Autobahn führt im Osten im Halbkreis um die Stadt herum, die B54 leitet den Verkehr westlich durch das Volmetal und den Vorort Brügge, die B229 verläuft in einem Bogen durch die Täler östlich und südlich um die Innenstadt. In den 1980er Jahren wurde die Nordtangente gebaut, in Verbindung mit Lösenbacher Landstraße, Rahmedestraße, Lennestraße und Werdohler Landstraße entstand so eine ringförmige Umgehungsmöglichkeit der Kernstadt. Bei einer Panne nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a45.html">Panne auf der A45</a>. Die Parkplätze Schwiendahl und Brenscheid an der A45 wurden 2013 erweitert.</p>
+<h2>Tunnel und Fußgängerzone</h2>
+<p>Die Wilhelmstraße, die obere Altenaer Straße sowie der Rathaus- und der Sternplatz sind Fußgängerzone, auch die Altstadt ist großteils für den Verkehr gesperrt, nur wenige der engen Gassen sind für Pkw freigegeben. Der Durchgangsverkehr wird durch zwei Tunnel geleitet, den Rathaus- und den Oberstadt-Tunnel. Wenn Sie in einem der Tunnel liegen bleiben, gelten die Regeln aus <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>. In der Altstadt sagen Sie uns Straße und ob die Zufahrt eng ist. Der Zentrale Omnibusbahnhof Sauerfeld wurde neu gestaltet, halten Sie Bushaltestellen frei.</p>
+<h2>So nennen Sie Ihren Standort in Lüdenscheid</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A45: Richtung, Anschlussstelle.</li>
+<li>Auf B54 oder B229: Fahrtrichtung, Tal (Volmetal, Rahmedetal).</li>
+<li>Bei Steigung oder Gefälle: bergauf oder bergab.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-siegen.html">Siegen</a> und <a href="stadt-wuppertal.html">Wuppertal</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Lüdenscheid</h2>
+<details><summary>Wie viele Anschlussstellen hat die A45 bei Lüdenscheid?</summary><div>Drei.</div></details>
+<details><summary>Wo verläuft die A45?</summary><div>Im Osten im Halbkreis um die Stadt.</div></details>
+<details><summary>Welche Tunnel gibt es?</summary><div>Den Rathaus-Tunnel und den Oberstadt-Tunnel für den Durchgangsverkehr.</div></details>
+<details><summary>Was ist die Nordtangente?</summary><div>Eine in den 1980er Jahren gebaute Umgehung, die mit anderen Straßen und B54/B229 einen Ring um die Kernstadt bildet.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-coburg | Abschleppdienst Coburg: Pannenhilfe A73, B4, B303 | Pannenhilfe und Abschleppen in Coburg: Oberfranken an der thüringischen Grenze, A73 seit 2008, B4 durch die Stadt, B303 am Stadtkern, Itz-Brücken. | page ===
+<!--AREAS: Coburg, Ketschendorf, Cortendorf, Creidlitz, Scheuerfeld, Neuses, Bertelsdorf, Itz, Veste Coburg -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Coburg</p><h1>Abschleppdienst Coburg</h1><p class="lead">Coburg liegt im Norden der Metropolregion Nürnberg unweit der thüringischen Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Residenzstadt im Itztal</h2>
+<p>Coburg ist eine kreisfreie Mittelstadt in Oberfranken und war vom 16./17. Jahrhundert bis 1918 Residenzstadt der Herzöge von Sachsen-Coburg. Sie liegt zwischen dem südlichen Vorland des Thüringer Waldes, den Langen Bergen und dem Maintal und wird von der Itz durchflossen, in die bei der Heiligkreuzkirche die Lauter mündet. Coburg besteht aus der Kernstadt und zwölf weiteren Stadtteilen, zwei Drittel der Bevölkerung wohnen in der Kernstadt im Itztal, die äußeren Stadtteile Rögen sowie Neu- und Neershof haben noch einen stark dörflichen Charakter. Die Veste Coburg erhebt sich 170 Meter über der Stadt. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-bamberg.html">Abschleppdienst Bamberg</a>, <a href="stadt-bayreuth.html">Abschleppdienst Bayreuth</a> und <a href="stadt-schweinfurt.html">Abschleppdienst Schweinfurt</a>.</p>
+<h2>A73, B4 und B303</h2>
+<p>Den Fernstraßenverkehr prägen die B4, die als Nord-Süd-Achse den Nürnberger Raum mit Thüringen verbindet, die B303 als West-Ost-Achse von Schweinfurt nach Tschechien und die A73. Während die B4 die Stadt durchquert, tangiert die B303 nur den Stadtkern. Erst die deutsche Einheit brachte Coburg einen Autobahnanschluss: Die Verlängerung der A73 Nürnberg–Bamberg über Lichtenfels und Coburg nach Suhl bildet den östlichen Ast der Thüringer-Wald-Autobahn A71 und ist seit dem 5. September 2008 durchgehend befahrbar. Bei einer Panne auf der A73 nennen Sie uns Fahrtrichtung und Anschlussstelle, mehr auf <a href="autobahn-a73.html">Panne auf der A73</a>. Im Norden der Stadt an der A73 liegt ein erschlossenes Gewerbegebiet.</p>
+<h2>Zwanzig Brücken über die Itz</h2>
+<p>20 Brücken überspannen die Itz im Stadtgebiet. Ein Standort „an der Brücke“ ist deshalb nicht eindeutig, sagen Sie uns Straße und Fahrtrichtung. Bis zur Errichtung des Hochwasserrückhaltebeckens Froschgrundsee 1986 kam es öfter zu großen Hochwassern der Itz. Bei Hochwasser oder Überschwemmung siehe <a href="ratgeber-wasserschlag-ueberschwemmung.html">Wasserschlag und Überschwemmung</a>.</p>
+<h2>HUK-Coburg und Bertelsdorfer Höhe</h2>
+<p>Größter Arbeitgeber ist die HUK-Coburg mit über 5.700 Beschäftigten, ein Verwaltungskomplex liegt in der Innenstadt am Bahnhof, ein größerer auf der Bertelsdorfer Höhe an der Anschlussstelle. Wenn Sie dort liegen bleiben, nennen Sie uns Parkplatz oder Straße.</p>
+<h2>So nennen Sie Ihren Standort in Coburg</h2>
+<ul class="ticks">
+<li>Stadtteil (Ketschendorf, Cortendorf, Creidlitz …), Straße, Hausnummer.</li>
+<li>Auf der A73: Richtung, Anschlussstelle.</li>
+<li>Auf B4 oder B303: Fahrtrichtung.</li>
+<li>An der Itz: Straße und Fahrtrichtung statt „Brücke“.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-weimar.html">Weimar</a> und <a href="stadt-erfurt.html">Erfurt</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Coburg</h2>
+<details><summary>Seit wann hat Coburg einen Autobahnanschluss?</summary><div>Die A73 nach Suhl ist seit dem 5. September 2008 durchgehend befahrbar.</div></details>
+<details><summary>Welche Bundesstraßen gibt es?</summary><div>B4 als Nord-Süd-Achse durch die Stadt, B303 als West-Ost-Achse am Stadtkern.</div></details>
+<details><summary>Wie viele Brücken führen über die Itz?</summary><div>20 im Stadtgebiet.</div></details>
+<details><summary>Wie viele Stadtteile hat Coburg?</summary><div>Die Kernstadt und zwölf weitere Stadtteile.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-freising | Abschleppdienst Freising: Pannenhilfe A92, B301, Flughafen München | Pannenhilfe und Abschleppen in Freising: Isarstadt nördlich von München, A92 im Süden, B301 durch die Hallertau, Flughafen München, Luitpoldbrücke. | page ===
+<!--AREAS: Freising, Weihenstephan, Lerchenfeld, Attaching, Vötting, Achering, Freisinger Moos, Flughafen München -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Freising</p><h1>Abschleppdienst Freising</h1><p class="lead">Freising liegt an der Isar etwa 30 Kilometer nördlich von München, die A92 durchquert den Süden. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Universitätsstadt am Flughafen</h2>
+<p>Freising ist Große Kreisstadt und Universitätsstadt in Oberbayern und Oberzentrum in der Region München. Rund um das ehemalige Kloster Weihenstephan liegen das Wissenschaftszentrum der Technischen Universität München und die Hochschule Weihenstephan-Triesdorf. Die Bevölkerungszahl stieg von etwa 38.500 im Jahr 1991 auf etwa 50.000 im Jahr 2016, auch wegen des 1992 unmittelbar vor der Stadt eröffneten Flughafens München und des Wissenschaftszentrums. Freising ist nach München die zweitgrößte Stadt der Planungsregion München. Zum Stadtgebiet gehören unter anderem Lerchenfeld, Attaching, Vötting und Achering. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-ingolstadt.html">Abschleppdienst Ingolstadt</a> und <a href="stadt-landshut.html">Abschleppdienst Landshut</a>.</p>
+<h2>A92, A9 und die Bundesstraße B301</h2>
+<p>Den Süden des Stadtgebietes durchquert die A92, die Freising an München und Niederbayern anbindet. Wenige Kilometer westlich bei Allershausen verläuft die A9. Von Freising durch die Hallertau nach Abensberg verläuft die B301. Die frühere B11 wurde zur Staatsstraße 2350 herabgestuft und verläuft zwischen München und Landshut parallel zur A92, östlich von Freising aber auf der anderen Isarseite, sie ist trotzdem stark befahren. Bei Achering trifft die St 2350 an der Anschlussstelle Freising Süd auf die A92. Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a92.html">Panne auf der A92</a> und <a href="autobahn-a9.html">Panne auf der A9</a>.</p>
+<h2>Isarbrücken und Umgehungen</h2>
+<p>Die älteste Isarquerung ist die Korbinianbrücke, die nur noch für Stadtbusse, Fußgänger und Radfahrer freigegeben ist. Der Großteil des Verkehrs läuft über die wenige hundert Meter entfernte Luitpoldbrücke, weitere Brücken liegen an der Südumgehung (Schlüterbrücke) und im Osten. Stark befahren ist die Kreisstraße FS 44, sie führt von der St 2350 im Süden über die Schlüterbrücke bis zur Anschlussstelle Freising Mitte der A92, von wo sie als B301 weiterführt. Im Osten führt der Autobahnzubringer (B301) zur Ausfahrt Freising Ost. Wenn Sie an einer der Brücken liegen bleiben, nennen Sie uns Brücke, Uferseite und Fahrtrichtung, denn die Korbinianbrücke ist für Fahrzeuge gesperrt.</p>
+<h2>Flughafen München und Freisinger Moos</h2>
+<p>Der Flughafen München liegt nur zu einem Teil auf dem Gebiet der Stadt Freising. Im südwestlichen Gemeindegebiet liegt das Freisinger Moos, eines der größten noch erhaltenen Niedermoorgebiete Bayerns. Wenn Sie an Flughafen-Zufahrten oder im Moos liegen bleiben, nennen Sie uns Straße und nächste Kreuzung.</p>
+<h2>So nennen Sie Ihren Standort in Freising</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A92: Richtung, Anschlussstelle Freising Süd, Mitte oder Ost.</li>
+<li>Auf B301, FS 44 oder St 2350: Fahrtrichtung.</li>
+<li>An der Isar: Brücke, Uferseite.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-augsburg.html">Augsburg</a> und <a href="stadt-regensburg.html">Regensburg</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Freising</h2>
+<details><summary>Welche Autobahn führt durch Freising?</summary><div>Die A92 im Süden des Stadtgebiets, wenige Kilometer westlich verläuft die A9.</div></details>
+<details><summary>Welche Anschlussstellen hat die A92 in Freising?</summary><div>Freising Süd, Freising Mitte und Freising Ost.</div></details>
+<details><summary>Welche Isarbrücke nimmt den meisten Verkehr auf?</summary><div>Die Luitpoldbrücke, die Korbinianbrücke ist nur für Busse, Fußgänger und Radfahrer frei.</div></details>
+<details><summary>Wohin führt die B301?</summary><div>Durch die Hallertau nach Abensberg.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-dachau | Abschleppdienst Dachau: Pannenhilfe B304, B471, A8, A92 | Pannenhilfe und Abschleppen in Dachau: Amper nordwestlich von München, B304 nach München, B471 am Südrand mit Anschluss an A8 und A92. | page ===
+<!--AREAS: Dachau, Dachau-Ost, Dachau-Süd, Dachauer Moos, Amper, Prittlbach, Mitterndorf, Karlsfeld -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dachau</p><h1>Abschleppdienst Dachau</h1><p class="lead">Dachau liegt an der Amper nordwestlich von München, am Südrand verläuft die B471. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Stadt an der Amper zwischen Moos und Hügelland</h2>
+<p>Dachau ist Große Kreisstadt im gleichnamigen oberbayerischen Landkreis und liegt nordwestlich von München in der Metropolregion München. Die Stadt liegt an der Amper an der Nahtstelle zwischen der Münchner Schotterebene mit dem Dachauer Moos und dem nördlich angrenzenden tertiären Donau-Isar-Hügelland. Die Amper strömt von Westen kommend südlich der Altstadt vorbei, ändert ihren Lauf ab der ehemaligen Papierfabrik Richtung Nordost und tritt bei Prittlbach kurz hinter der Würmmühle in die Gemeinde Hebertshausen über. Zahlreiche Bäche wie Prittlbach, Webelsbach, Ascherbach und Gröbenbach münden in die Amper. Die Würm durchquert von Karlsfeld kommend Dachau-Ost und streift die KZ-Gedenkstätte. Nennen Sie uns bei einer Panne Stadtteil, Straße und ob Sie in der Altstadt am Hügel oder in der Ebene stehen. Mehr auf <a href="stadt-augsburg.html">Abschleppdienst Augsburg</a> und <a href="stadt-ingolstadt.html">Abschleppdienst Ingolstadt</a>.</p>
+<h2>B304, B471, A8 und A92</h2>
+<p>Im Süden Dachaus geht die Münchner Straße über in die B304 nach München. Am Südrand des gesamten Stadtgebiets verläuft die B471, sie führt im Westen zur A8 (München–Stuttgart) und nach Fürstenfeldbruck und im Osten zur A92 Richtung Flughafen München und Deggendorf. Für die Standortangabe sind deshalb Bundesstraße und Fahrtrichtung entscheidend, mehr auf <a href="autobahn-a8.html">Panne auf der A8</a> und <a href="autobahn-a92.html">Panne auf der A92</a>. Wenn Sie zwischen Dachau und der Autobahn auf der B471 liegen bleiben, sagen Sie uns, ob Sie Richtung A8 oder Richtung A92 fahren.</p>
+<h2>Schlossberg, Hofgarten und Aussicht</h2>
+<p>Die Altstadt liegt am Hügelrand mit Schlossberg, Hofgarten und Park, von der Terrasse am Rathaus geht der Blick über die Schotterebene, München und bei Föhn auf die Alpenkette. Wenn Sie an Schlossberg oder Altstadt liegen bleiben, sagen Sie uns Straße und Steigung. Entlang der Amper liegt seit 2001 ein Vogelschutz- und FFH-Gebiet, im Moos nennen Sie uns am besten die nächste Kreuzung.</p>
+<h2>So nennen Sie Ihren Standort in Dachau</h2>
+<ul class="ticks">
+<li>Stadtteil (Dachau-Ost, Dachau-Süd …), Straße, Hausnummer.</li>
+<li>Auf B304 oder B471: Fahrtrichtung, Richtung A8 oder A92.</li>
+<li>In der Altstadt: Straße, Steigung.</li>
+<li>Im Moos: nächste Kreuzung oder Ortsteil.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-freising.html">Freising</a> und <a href="stadt-rosenheim.html">Rosenheim</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Dachau</h2>
+<details><summary>Wie komme ich von Dachau zur A8?</summary><div>Über die B471 am Südrand der Stadt nach Westen.</div></details>
+<details><summary>Wie komme ich zur A92?</summary><div>Über die B471 nach Osten Richtung Flughafen München und Deggendorf.</div></details>
+<details><summary>Wohin führt die B304?</summary><div>Im Süden der Stadt nach München.</div></details>
+<details><summary>An welchem Fluss liegt Dachau?</summary><div>An der Amper.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-detmold | Abschleppdienst Detmold: Pannenhilfe B239, B238, Teutoburger Wald | Pannenhilfe und Abschleppen in Detmold am Teutoburger Wald: B239 und B238, nächste A2-Anschlussstelle etwa 22 Kilometer entfernt, 27 Ortsteile. | page ===
+<!--AREAS: Detmold, Hiddesen, Hermannsdenkmal, Teutoburger Wald, Osning, Lippe, Externsteine -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Detmold</p><h1>Abschleppdienst Detmold</h1><p class="lead">Detmold liegt am Teutoburger Wald in Ostwestfalen-Lippe, die nächste Autobahnanschlussstelle ist etwa 22 Kilometer entfernt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Größte Stadt im Kreis Lippe</h2>
+<p>Detmold hat 74.438 Einwohner (31. Dezember 2025) und ist die größte Stadt im Kreis Lippe. Sie liegt im Zentrum der Region Ostwestfalen-Lippe am Rande des Naturparks Teutoburger Wald/Eggegebirge, der Süden des Stadtgebiets wird vom Teutoburger Wald bedeckt, die eigentliche Stadt liegt nördlich davon. Von 1468 bis 1918 war Detmold Residenzstadt der Herren, Grafen und Fürsten zur Lippe. Nach der Hauptsatzung gliedert sich die Stadt in 27 Ortsteile. Das Hermannsdenkmal, die höchste Statue Deutschlands, steht im Teutoburger Wald bei Detmold-Hiddesen. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a>, <a href="stadt-paderborn.html">Abschleppdienst Paderborn</a> und <a href="stadt-herford.html">Abschleppdienst Herford</a>.</p>
+<h2>Keine Autobahn und keine vierspurige Straße</h2>
+<p>Durch Detmold verläuft die B239, die Stadt ist Ausgangspunkt der B238. Die nächste Anschlussstelle einer Autobahn, der A2 (Dortmund–Hannover), ist etwa 22 Kilometer entfernt. Die L828 führt über Altenbeken und Willebadessen zur A44 als Verbindung nach Süden. Bemerkenswert für eine Stadt dieser Größe: Im Stadtgebiet gibt es keine vierspurig geführte Straße, die Planungen einer Autobahn in unmittelbarer Nähe wurden Ende der 1970er Jahre verworfen. Wenn Sie auf einer der Bundesstraßen liegen bleiben, sichern Sie Ihr Fahrzeug, wie in <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a> beschrieben, und nennen Sie uns Fahrtrichtung und nächsten Ort. Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a2.html">Panne auf der A2</a> und <a href="autobahn-a44.html">Panne auf der A44</a>.</p>
+<h2>Teutoburger Wald und Flughafen</h2>
+<p>Südlich der Innenstadt verläuft der Kamm des Osning, der zusammen mit dem Eggegebirge den Teutoburger Wald bildet. Auf Straßen im Wald und an Steigungen sagen Sie uns, ob Sie bergauf oder bergab stehen. Der nächstgelegene internationale Flughafen ist der Flughafen Paderborn/Lippstadt, rund 60 Kilometer südwestlich, über die A33 erreichbar.</p>
+<h2>So nennen Sie Ihren Standort in Detmold</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf B239 oder B238: Fahrtrichtung, nächster Ort.</li>
+<li>Im Wald: Parkplatz, Abzweig, Steigung.</li>
+<li>Am Hermannsdenkmal: Parkplatz, Zufahrt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-guetersloh.html">Gütersloh</a> und <a href="stadt-minden.html">Minden</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Detmold</h2>
+<details><summary>Gibt es eine Autobahn in Detmold?</summary><div>Nein, die nächste Anschlussstelle der A2 ist etwa 22 Kilometer entfernt.</div></details>
+<details><summary>Welche Bundesstraßen gibt es?</summary><div>Die B239 verläuft durch die Stadt, sie ist Ausgangspunkt der B238.</div></details>
+<details><summary>Wie viele Ortsteile hat Detmold?</summary><div>27 nach der Hauptsatzung.</div></details>
+<details><summary>Wo steht das Hermannsdenkmal?</summary><div>Im Teutoburger Wald bei Detmold-Hiddesen.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-bad-salzuflen | Abschleppdienst Bad Salzuflen: Pannenhilfe A2, B239 | Pannenhilfe und Abschleppen in Bad Salzuflen: Heilbad an der A2, Anschlussstellen Ostwestfalen-Lippe und Herford/Bad Salzuflen, B239 als Umgehung. | page ===
+<!--AREAS: Bad Salzuflen, Schötmar, Werl-Aspe, Wüsten, Lockhausen, Salze, Bega, Werre, Kurpark -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bad Salzuflen</p><h1>Abschleppdienst Bad Salzuflen</h1><p class="lead">Bad Salzuflen liegt im Kreis Lippe direkt an der A2. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Thermal-Heilbad mit zwölf Ortsteilen</h2>
+<p>Bad Salzuflen ist ein Thermal-Heilbad im Kreis Lippe, seit 2015 gilt die Stadt als „allergikerfreundliche Kommune“ und seit Juni 2024 ist das Staatsbad als Kneippheilbad zertifiziert. Sie liegt am östlichen Rand der Ravensberger Mulde am Zusammenfluss von Salze und Bega mit der Werre, dörflich geprägte Ortsteile umgeben die Kernstadt. Die Stadt gliedert sich in zwölf Ortsteile, darunter Lockhausen, Schötmar, Werl-Aspe und Wüsten. Die bevölkerungsreichsten sind Bad Salzuflen selbst mit etwa 19.500 Einwohnern, Schötmar mit 8.700, Werl-Aspe mit 7.400 und Wüsten mit 3.800 (Stand 31. Dezember 2013). Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-herford.html">Abschleppdienst Herford</a>, <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a> und <a href="stadt-detmold.html">Abschleppdienst Detmold</a>.</p>
+<h2>A2 und B239</h2>
+<p>Bad Salzuflen liegt an der A2 und ist über die Anschlussstellen Ostwestfalen-Lippe und Herford/Bad Salzuflen angebunden. Die B239 führt als Umgehungsstraße östlich um die Innenstadt und verbindet sie mit Herford und Lage. Bei einer Panne auf der Autobahn nennen Sie uns Fahrtrichtung und Anschlussstelle, mehr auf <a href="autobahn-a2.html">Panne auf der A2</a>. Auf der B239 sagen Sie uns Fahrtrichtung und Abfahrt. Die Anschlussstelle Herford/Bad Salzuflen trägt beide Städtenamen, sagen Sie uns deshalb Anschlussstelle und Richtung, nicht nur die Stadt (siehe auch <a href="stadt-herford.html">Herford</a>).</p>
+<h2>Ringmauer und Tore der Altstadt</h2>
+<p>Nach der Zerstörung 1447 im Zuge der Soester Fehde erhielt Salzuflen um 1450 eine Ringmauer mit vier Toren, darunter das Schliepsteiner Tor nach Norden. Die Altstadt liegt innerhalb des ehemaligen Rings, wenn Sie in der Altstadt oder am Kurpark liegen bleiben, nennen Sie uns Straße und Zufahrt und halten Sie Zufahrten für Rettungsfahrzeuge frei.</p>
+<h2>Schötmar, Werl-Aspe und Wüsten</h2>
+<p>Die Ortsteile Schötmar, Werl-Aspe und Wüsten sind größere Siedlungen, die Ortsteile Lockhausen und andere sind dörflich. Nennen Sie uns zur Straße immer den Ortsteil.</p>
+<h2>So nennen Sie Ihren Standort in Bad Salzuflen</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A2: Richtung, Anschlussstelle Ostwestfalen-Lippe oder Herford/Bad Salzuflen.</li>
+<li>Auf der B239: Fahrtrichtung.</li>
+<li>Am Kurpark: Straße und Zufahrt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-minden.html">Minden</a> und <a href="stadt-guetersloh.html">Gütersloh</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Bad Salzuflen</h2>
+<details><summary>Welche Anschlussstellen gibt es?</summary><div>Ostwestfalen-Lippe und Herford/Bad Salzuflen an der A2.</div></details>
+<details><summary>Was ist die B239 hier?</summary><div>Die Umgehungsstraße östlich um die Innenstadt, sie verbindet Bad Salzuflen mit Herford und Lage.</div></details>
+<details><summary>Wie viele Ortsteile hat Bad Salzuflen?</summary><div>Zwölf.</div></details>
+<details><summary>Seit wann ist Salzuflen Kneippheilbad?</summary><div>Seit Juni 2024 ist das Staatsbad als Kneippheilbad zertifiziert.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-amberg | Abschleppdienst Amberg: Pannenhilfe A6, B85, B299, Vils | Pannenhilfe und Abschleppen in Amberg: Oberpfalz östlich von Nürnberg, A6 mit den Anschlussstellen Amberg-West, -Süd und -Ost, B85, B299. | page ===
+<!--AREAS: Amberg, Amberg-West, Amberg-Süd, Amberg-Ost, Vils, Stadtbrille, Bayerische Eisenstraße, Waidhaus -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Amberg</p><h1>Abschleppdienst Amberg</h1><p class="lead">Amberg liegt an der Vils in der mittleren Oberpfalz an der A6. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Oberzentrum der mittleren Oberpfalz</h2>
+<p>Amberg ist eine kreisfreie Stadt im Regierungsbezirk Oberpfalz in Ostbayern und gehört zur Metropolregion Nürnberg. Sie liegt an der Bayerischen Eisenstraße und rund 55 Kilometer östlich von Nürnberg und 50 Kilometer nördlich von Regensburg an der Vils. Die Hochschulstadt ist Oberzentrum der mittleren Oberpfalz. Die Altstadt ist von einer fast vollständig erhaltenen mittelalterlichen Ringmauer mit vier Toren umgeben: Nabburger Tor, Ziegeltor, Vilstor und Wingershofer Tor. Eine Besonderheit ist die Stadtbrille, ein fünftes Tor über die Vils, dessen Mauer den Fluss in zwei Bögen überspannt. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-nuernberg.html">Abschleppdienst Nürnberg</a>, <a href="stadt-regensburg.html">Abschleppdienst Regensburg</a> und <a href="stadt-weiden.html">Abschleppdienst Weiden</a>.</p>
+<h2>A6 mit drei Anschlussstellen</h2>
+<p>Amberg liegt an der A6 (Saarbrücken–Kaiserslautern–Mannheim–Heilbronn–Nürnberg–Amberg–Waidhaus), die drei Anschlussstellen sind 65 Amberg-West, 66 Amberg-Süd und 67 Amberg-Ost. Bei einer Panne auf der A6 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a6.html">Panne auf der A6</a>. Durch Amberg führen außerdem die Bundesstraßen B85 (Berga am Südharz–Bayreuth–Amberg–Schwandorf–Cham–Passau) und B299 (Grafenwöhr–Amberg–Neumarkt–Landshut–Altötting). Sagen Sie uns bei einer Panne auf einer Bundesstraße die Nummer und die Fahrtrichtung.</p>
+<h2>Altstadt, Vils und Plättenfahrten</h2>
+<p>Die Vils fließt durch die Altstadt, von Mai bis Oktober gibt es ab der Schiffbrücke Plättenfahrten. Wenn Sie in der Altstadt oder an der Vils liegen bleiben, nennen Sie uns Straße, Tor oder Brücke und die Uferseite.</p>
+<h2>Garnison, Konversion und Campus</h2>
+<p>Amberg war jahrhundertelang eine bedeutende Garnisonsstadt mit Kasernen seit 1716. Von 1952 bis 1992 bestand der US-Stützpunkt Pond Barracks in der ehemaligen Möhl-Kaserne, aus dem Gelände wurde das zivile Wohngebiet Sebastian im Südwesten der Stadt. Das Areal der früheren Kaiser-Wilhelm-Kaserne bildet seit 1995 vor allem den Campus der Ostbayerischen Technischen Hochschule Amberg-Weiden. Nennen Sie uns bei einer Panne auf einem dieser Areale Straße, Parkplatz und Zufahrt. Am 1. Juli 1972 kamen im Zuge der Gebietsreform mehrere Gemeinden zur Stadt, sagen Sie uns deshalb Straße und Wohngebiet, nicht nur die Stadt. Durch den Zustrom von Flüchtlingen nach 1945 stieg die Einwohnerzahl von 32.000 auf 44.000.</p>
+<h2>So nennen Sie Ihren Standort in Amberg</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A6: Richtung, Anschlussstelle 65, 66 oder 67.</li>
+<li>Auf B85 oder B299: Fahrtrichtung, nächster Ort.</li>
+<li>In der Altstadt: Tor oder Brücke, Straße.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-bayreuth.html">Bayreuth</a> und <a href="stadt-ansbach.html">Ansbach</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Amberg</h2>
+<details><summary>Welche Anschlussstellen hat Amberg an der A6?</summary><div>65 Amberg-West, 66 Amberg-Süd und 67 Amberg-Ost.</div></details>
+<details><summary>Welche Bundesstraßen führen durch Amberg?</summary><div>B85 und B299.</div></details>
+<details><summary>Wie weit ist Nürnberg?</summary><div>Rund 55 Kilometer westlich.</div></details>
+<details><summary>Was ist die Stadtbrille?</summary><div>Ein fünftes Tor über die Vils, dessen Stadtmauer den Fluss in zwei Bögen überspannt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-weiden | Abschleppdienst Weiden i. d. OPf.: Pannenhilfe A93, B22, B470 | Pannenhilfe und Abschleppen in Weiden in der Oberpfalz: Waldnaab, 100 km östlich von Nürnberg, A93 Hof–Regensburg, B22, B470 und Staatsstraße 2657. | page ===
+<!--AREAS: Weiden in der Oberpfalz, Muglhof, Rothenstadt, Ullersricht, Waldnaab, Oberpfälzer Wald -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Weiden in der Oberpfalz</p><h1>Abschleppdienst Weiden i. d. OPf.</h1><p class="lead">Weiden liegt 100 Kilometer östlich von Nürnberg an der Waldnaab, die A93 verbindet Hof und Regensburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisfreie Stadt am Oberpfälzer Wald</h2>
+<p>Weiden in der Oberpfalz ist eine kreisfreie Stadt im ostbayerischen Regierungsbezirk Oberpfalz, 100 Kilometer östlich von Nürnberg und 35 Kilometer westlich der tschechischen Grenze am Fluss Waldnaab und am Westrand des Oberpfälzer Waldes. Mit rund 43.000 Einwohnern ist sie nach Regensburg und Amberg die drittgrößte Stadt der Oberpfalz. Sie liegt an der Schnittstelle von Oberpfälzer Hügelland und Vorderem Oberpfälzer Wald, im Stadtgebiet liegen weitläufige Waldgebiete. Es gibt 15 Stadtteile, die in insgesamt 83 statistische Bezirke untergliedert sind, dazu gehören durch Eingemeindungen unter anderem Muglhof (mit Matzlesrieth, Mitterhöll, Unterhöll, Oedenthal und Trauschendorf) und Rothenstadt (mit Maierhof, Mallersricht, Neubau und Ullersricht, seit 1978). Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-amberg.html">Abschleppdienst Amberg</a>, <a href="stadt-bayreuth.html">Abschleppdienst Bayreuth</a> und <a href="stadt-hof.html">Abschleppdienst Hof</a>.</p>
+<h2>A93, B22 und B470</h2>
+<p>Die A93 führt von Hof über Weiden und Schwandorf nach Regensburg, im Norden setzt sie sich zum Autobahndreieck Hochfranken fort. Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a93.html">Panne auf der A93</a>. Als Bundesstraßen führen die B22 (Würzburg–Bayreuth–Weiden–Cham) und die B470 (Bad Windsheim–Forchheim–Auerbach–Weiden) in die Stadt. Vor dem Bau der Autobahn war die B15 die Hauptverbindung nach Regensburg, sie verlief in Nord-Süd-Richtung durch Weiden und ist heute im Abschnitt zwischen Altenstadt und Schwandorf herabgestuft.</p>
+<h2>Staatsstraße 2657 durch die Stadt</h2>
+<p>Die Staatsstraße 2657 verläuft von Nord nach Süd durch die Stadt, sie ist im Verlauf der früheren B15 entstanden. Die St 2166 führt nach Westen Richtung Freihung und zur A93 und nach Osten nach Vohenstrauß, die St 2238 nach Südwesten über Hirschau nach Amberg. Ältere Karten zeigen deshalb noch die B15. Wenn Sie auf einer Staatsstraße liegen bleiben, sagen Sie uns die Nummer, Fahrtrichtung und nächsten Ort.</p>
+<h2>So nennen Sie Ihren Standort in Weiden</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A93: Richtung, Anschlussstelle.</li>
+<li>Auf B22, B470 oder St 2657: Fahrtrichtung, nächster Ort.</li>
+<li>Im Wald: Parkplatz, Waldweg, Kreuzung.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-regensburg.html">Regensburg</a> und <a href="stadt-plauen.html">Plauen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Weiden</h2>
+<details><summary>Welche Autobahn führt bei Weiden vorbei?</summary><div>Die A93 von Hof über Weiden und Schwandorf nach Regensburg.</div></details>
+<details><summary>Was ist mit der B15?</summary><div>Sie war vor dem Autobahnbau die Hauptverbindung nach Regensburg und ist heute als Staatsstraße 2657 durch die Stadt herabgestuft.</div></details>
+<details><summary>Welche Bundesstraßen führen nach Weiden?</summary><div>B22 und B470.</div></details>
+<details><summary>Wie viele Stadtteile hat Weiden?</summary><div>15 Stadtteile mit 83 statistischen Bezirken.</div></details>
+</div></section>
+@@CTA@@
