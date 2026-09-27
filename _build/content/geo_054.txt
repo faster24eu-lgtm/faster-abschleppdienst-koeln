@@ -83,7 +83,7 @@
 </div></section>
 @@CTA@@
 
-=== autobahn-a19 | Pannenhilfe auf der A19: Rostock, Warnowtunnel, Müritz, Wittstock | Panne auf der A19 von Rostock über die Mecklenburgische Seenplatte zum Dreieck Wittstock/Dosse: Überseehafen, Warnowtunnel, Ferienverkehr zur Ostsee. | page ===
+=== autobahn-a19 | Pannenhilfe A19: Rostock, Warnowtunnel, Müritz | Panne auf der A19 von Rostock über die Mecklenburgische Seenplatte zum Dreieck Wittstock/Dosse: Überseehafen, Warnowtunnel, Ferienverkehr zur Ostsee. | page ===
 <!--AREAS: A19, Rostock, Warnowtunnel, Kavelstorf, Krakow am See, Röbel, Wittstock, Überseehafen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A19</h1><p class="lead">Die A19 verbindet Rostock mit der A24 bei Wittstock/Dosse. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">

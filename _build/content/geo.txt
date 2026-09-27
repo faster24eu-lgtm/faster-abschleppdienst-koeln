@@ -256,3 +256,11 @@ stadt-dinslaken	Dinslaken	Nordrhein-Westfalen
 stadt-wesel	Wesel	Nordrhein-Westfalen	
 stadt-kleve	Kleve	Nordrhein-Westfalen	
 stadt-kamp-lintfort	Kamp-Lintfort	Nordrhein-Westfalen	
+stadt-friedrichshafen	Friedrichshafen	Baden-Württemberg	
+stadt-aalen	Aalen	Baden-Württemberg	
+stadt-heidenheim	Heidenheim an der Brenz	Baden-Württemberg	
+stadt-boeblingen	Böblingen	Baden-Württemberg	
+stadt-waiblingen	Waiblingen	Baden-Württemberg	
+stadt-loerrach	Lörrach	Baden-Württemberg	
+stadt-baden-baden	Baden-Baden	Baden-Württemberg	
+stadt-bruchsal	Bruchsal	Baden-Württemberg	

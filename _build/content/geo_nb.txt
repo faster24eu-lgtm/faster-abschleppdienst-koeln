@@ -178,3 +178,11 @@ stadt-dinslaken	oberhausen,duisburg,wesel,moers,bottrop	a3,a59
 stadt-wesel	moers,dinslaken,oberhausen,bocholt,duisburg	a3,a57
 stadt-kleve	wesel,moers,krefeld,oberhausen	a57,a3
 stadt-kamp-lintfort	moers,duisburg,krefeld,wesel,oberhausen	a42,a57
+stadt-friedrichshafen	konstanz,ulm,freiburg,kempten	a96
+stadt-aalen	heidenheim,goeppingen,ulm,heilbronn,ingolstadt	a7
+stadt-heidenheim	aalen,ulm,goeppingen,reutlingen,esslingen	a7
+stadt-boeblingen	sindelfingen,stuttgart,reutlingen,ludwigsburg,pforzheim	a81,a8
+stadt-waiblingen	stuttgart,esslingen,ludwigsburg,goeppingen,heilbronn	a81,a8
+stadt-loerrach	freiburg,konstanz,villingen-schwenningen,offenburg	a98,a5
+stadt-baden-baden	karlsruhe,pforzheim,offenburg,heidelberg,freiburg	a5
+stadt-bruchsal	karlsruhe,heidelberg,pforzheim,mannheim,heilbronn	a5

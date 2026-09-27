@@ -1,0 +1,229 @@
+=== stadt-friedrichshafen | Abschleppdienst Friedrichshafen: Pannenhilfe B31, B30, Bodensee | Pannenhilfe und Abschleppen in Friedrichshafen: Nordufer des Bodensees, B31 am Ufer entlang, B30 Richtung Ravensburg und Ulm, Flughafen und Messe. | page ===
+<!--AREAS: Friedrichshafen, Ailingen, Ettenkirch, Kluftern, Raderach, Fischbach, Messe Friedrichshafen, Bodensee -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Friedrichshafen</p><h1>Abschleppdienst Friedrichshafen</h1><p class="lead">Friedrichshafen liegt am Nordufer des Bodensees, ohne Autobahn auf dem Stadtgebiet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zweitgrößte Stadt am Bodensee</h2>
+<p>Friedrichshafen ist eine große Mittelstadt am nördlichen Ufer des Bodensees, Kreisstadt des Bodenseekreises und nach Konstanz die zweitgrößte Stadt am Bodensee. Gemeinsam mit Ravensburg und Weingarten bildet sie ein Oberzentrum in Funktionsergänzung. Die Stadt liegt an einer sanft geschwungenen Bucht und am Südwestrand des Schussenbeckens, die Höhe reicht von 395,2 Metern am Seeufer bis 501,6 Meter in Ailingen. Sie besteht aus der Kernstadt und den 1970er Jahren eingegliederten Ortschaften Ailingen, Ettenkirch, Kluftern und Raderach. Nennen Sie uns bei einer Panne Ortschaft oder Stadtteil und die Straße. Mehr auf <a href="stadt-konstanz.html">Abschleppdienst Konstanz</a> und <a href="stadt-ulm.html">Abschleppdienst Ulm</a>.</p>
+<h2>B31 und B30</h2>
+<p>Friedrichshafen liegt an der B31 (Freiburg im Breisgau–Sigmarszell), die am nördlichen Bodenseeufer entlangführt, und ist durch die B30 Richtung Ravensburg und Ulm angebunden, es gab einmal Pläne, die B30 zur A89 auszubauen. Eine Autobahn führt nicht durch das Stadtgebiet. Nennen Sie uns deshalb Bundesstraße, Fahrtrichtung und den nächsten Ort. Zwischen der B31 und dem Ufer liegen naturgeschützte Zonen, bei Uferparkplätzen sagen Sie uns Parkplatz und Zufahrt. Bei Fahrten über die Autobahn sagen Sie uns die Nummer und Richtung, mehr auf <a href="autobahn-a96.html">Panne auf der A96</a>.</p>
+<h2>Innenstadt, Parkhäuser und Messe</h2>
+<p>Die Innenstadt ist verkehrsberuhigt, es gibt vier Parkhäuser: See, Altstadt, Stadtbahnhof und Graf-Zeppelin-Haus. Bei Messeveranstaltungen fahren zusätzlich ein Messeexpress zwischen Hafenbahnhof, Stadtbahnhof und Messe und ein Messeshuttle vom Flughafen. Im Nordosten Richtung Meckenbeuren liegt der Flughafen Friedrichshafen. Wenn Sie an Messe, Flughafen oder in einem Parkhaus liegen bleiben, nennen Sie uns Halle oder Parkhaus, Ebene und Zufahrt.</p>
+<h2>Frühere Landesgrenze bei Fischbach</h2>
+<p>Die Grenzlinie zwischen den ehemaligen Ländern Baden und Württemberg verlief am Grenzbach zwischen Fischbach und Immenstaad. Das ist für die Standortangabe wichtig, weil die B31 in der Nähe der Ortsgrenze zu Immenstaad liegt: Sagen Sie uns, ob Sie in Fischbach oder schon in Immenstaad stehen.</p>
+<h2>So nennen Sie Ihren Standort in Friedrichshafen</h2>
+<ul class="ticks">
+<li>Ortschaft oder Stadtteil, Straße, Hausnummer.</li>
+<li>Auf B31 oder B30: Fahrtrichtung, nächster Ort.</li>
+<li>Am Flughafen oder Messegelände: Halle, Parkplatz, Zufahrt.</li>
+<li>Am Seeufer: Parkplatz, Uferabschnitt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-freiburg.html">Freiburg</a> und <a href="stadt-kempten.html">Kempten</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Friedrichshafen</h2>
+<details><summary>Gibt es eine Autobahn in Friedrichshafen?</summary><div>Nein, die Stadt liegt an der B31 und ist über die B30 Richtung Ravensburg und Ulm angebunden.</div></details>
+<details><summary>Welche Ortschaften gehören zur Stadt?</summary><div>Ailingen, Ettenkirch, Kluftern und Raderach sowie die Kernstadt.</div></details>
+<details><summary>Wie viele Parkhäuser gibt es in der Innenstadt?</summary><div>Vier: See, Altstadt, Stadtbahnhof und Graf-Zeppelin-Haus.</div></details>
+<details><summary>Wo liegt der Flughafen?</summary><div>Im Nordosten der Stadt Richtung Meckenbeuren.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-aalen | Abschleppdienst Aalen: Pannenhilfe A7, B19, B29, Kocher | Pannenhilfe und Abschleppen in Aalen: Ostwürttemberg am Kocher, A7 mit den Anschlüssen Westhausen und Oberkochen, B19, B29 als Westumfahrung, B290. | page ===
+<!--AREAS: Aalen, Unterkochen, Wasseralfingen, Ebnat, Hofen, Oberkochen, Westhausen, Kocher -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Aalen</p><h1>Abschleppdienst Aalen</h1><p class="lead">Aalen liegt im Tal des oberen Kocher am Rand der Schwäbischen Alb an der A7. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ostwürttemberg im Tal des oberen Kocher</h2>
+<p>Aalen ist eine mittelgroße Stadt im Osten Baden-Württembergs, etwa 70 Kilometer östlich von Stuttgart und 50 Kilometer nördlich von Ulm. Sie liegt im Tal des oberen Kocher in der Aalener Bucht am nordöstlichen Rand der Schwäbischen Alb und gehört zur Region Ostwürttemberg. Der Kocher fließt von Oberkochen im Süden in das Stadtgebiet, durchfließt den Stadtbezirk Unterkochen, die Kernstadt, in der die Aal mündet, und den Stadtbezirk Wasseralfingen und verlässt es im Norden Richtung Hüttlingen. Das Stadtgebiet besteht aus der Kernstadt und zwischen 1938 (Unterrombach) und 1975 (Wasseralfingen) eingegliederten Gemeinden. Nennen Sie uns bei einer Panne Stadtbezirk und Straße. Mehr auf <a href="stadt-heidenheim.html">Abschleppdienst Heidenheim</a>, <a href="stadt-goeppingen.html">Abschleppdienst Göppingen</a> und <a href="stadt-ulm.html">Abschleppdienst Ulm</a>.</p>
+<h2>A7 mit zwei Anschlüssen</h2>
+<p>Über die Anschlüsse Aalen/Westhausen und Aalen/Oberkochen gelangt man auf die A7 (Würzburg–Füssen). Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a7.html">Panne auf der A7</a>. Die Nordumfahrung Ebnat wurde am 3. Dezember 2021 eröffnet, sie ist Teil des Autobahnzubringers von der Anschlussstelle Unterkochen (B19) über Ebnat-West und Ebnat-Ost zur Anschlussstelle Aalen/Oberkochen (A7) und wurde zum 1. Januar 2022 zur B29a umgewidmet. Ältere Karten führen diese Strecke deshalb noch als Landesstraße L1084.</p>
+<h2>B19, B29 und B290</h2>
+<p>Aalen ist über die B19 (Würzburg–Ulm), B29 (Waiblingen–Nördlingen) und B290 (Tauberbischofsheim–Westhausen) an das Bundesstraßennetz angeschlossen. Die B29 führt, teilweise zusammen mit der B19, westlich der Stadt als zweistreifige Ortsumgehung vorbei. Wegen des hohen Verkehrsaufkommens zu Stoßzeiten ist die Strecke häufig stark überlastet. Wenn Sie im Berufsverkehr liegen bleiben, nennen Sie uns Fahrtrichtung und Abfahrt, damit wir eine sichere Bergung planen können.</p>
+<h2>Eisenbahnknoten Aalen</h2>
+<p>Die Verlängerung der Remsbahn nach Nördlingen 1863, die Eröffnung der Brenzbahn 1864 und der Oberen Jagstbahn 1866 machten den Bahnhof zu einem Eisenbahnknoten. Wenn Sie am Bahnhof liegen bleiben, sagen Sie uns Straße und Ausgang und halten Sie Zufahrten frei.</p>
+<h2>So nennen Sie Ihren Standort in Aalen</h2>
+<ul class="ticks">
+<li>Stadtbezirk (Unterkochen, Wasseralfingen, Ebnat …), Straße, Hausnummer.</li>
+<li>Auf der A7: Richtung, Anschlussstelle Westhausen oder Oberkochen.</li>
+<li>Auf B19, B29 oder B290: Fahrtrichtung, Abfahrt.</li>
+<li>Auf der Alb: bergauf oder bergab.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-ingolstadt.html">Ingolstadt</a> und <a href="stadt-heilbronn.html">Heilbronn</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Aalen</h2>
+<details><summary>Welche Anschlüsse hat Aalen an die A7?</summary><div>Aalen/Westhausen und Aalen/Oberkochen.</div></details>
+<details><summary>Was ist die B29a?</summary><div>Die Nordumfahrung Ebnat als Teil des Autobahnzubringers, eröffnet am 3. Dezember 2021 und zum 1. Januar 2022 umgewidmet.</div></details>
+<details><summary>Welche Bundesstraßen führen nach Aalen?</summary><div>B19, B29 und B290.</div></details>
+<details><summary>Wie weit ist Stuttgart?</summary><div>Etwa 70 Kilometer westlich.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-heidenheim | Abschleppdienst Heidenheim: Pannenhilfe A7, B19, B466 | Pannenhilfe und Abschleppen in Heidenheim an der Brenz: Ostalb an der Grenze zu Bayern, A7 mit eigener Ausfahrt, B19 und B466, Hellenstein. | page ===
+<!--AREAS: Heidenheim, Schnaitheim, Mergelstetten, Oggenhausen, Großkuchen, Brenz, Hellenstein, Albuch, Härtsfeld -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Heidenheim an der Brenz</p><h1>Abschleppdienst Heidenheim an der Brenz</h1><p class="lead">Heidenheim liegt an der Brenz im Osten Baden-Württembergs, die A7 verläuft in der Nähe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zwischen Albuch und Härtsfeld</h2>
+<p>Heidenheim an der Brenz liegt im Osten Baden-Württembergs an der Grenze zu Bayern, etwa 17 Kilometer südlich von Aalen und 33 Kilometer nördlich von Ulm. Sie ist Kreisstadt und größte Stadt des Landkreises Heidenheim und nach Aalen und Schwäbisch Gmünd die drittgrößte Stadt der Region Ostwürttemberg. Die Stadt liegt auf 478 bis 645 Metern Höhe zwischen Albuch und Härtsfeld am nordöstlichen Ende der Schwäbischen Alb in einer Talweitung der Brenz bei der Einmündung des Stubentals am Fuß des Hellensteins. Wegen der Höhenunterschiede kann Ihr Standort bergauf oder bergab liegen, sagen Sie uns das. Mehr auf <a href="stadt-aalen.html">Abschleppdienst Aalen</a>, <a href="stadt-ulm.html">Abschleppdienst Ulm</a> und <a href="stadt-goeppingen.html">Abschleppdienst Göppingen</a>.</p>
+<h2>A7, B19 und B466</h2>
+<p>Durch die nahegelegene A7 mit eigener Ausfahrt sowie die durch Heidenheim führenden B19 und B466 besteht eine Anbindung an das deutsche Fernstraßennetz. Bei einer Panne auf der Autobahn nennen Sie uns Fahrtrichtung und Ausfahrt, mehr auf <a href="autobahn-a7.html">Panne auf der A7</a>. Auf der B19 oder B466 sagen Sie uns Fahrtrichtung und nächsten Ort, denn beide führen durch die Stadt und in die Ortschaften.</p>
+<h2>Kernstadt und eingegliederte Gemeinden</h2>
+<p>Das Stadtgebiet besteht aus der Kernstadt und den von 1910 bis 1974 eingegliederten Gemeinden Schnaitheim, Mergelstetten, Oggenhausen und Großkuchen. Oggenhausen und Großkuchen sind seit der Gebietsreform 1971 beziehungsweise 1974 Ortschaften im Sinne der Gemeindeordnung. Dass die Stadt an der Grenze zu Bayern liegt, ist für die Anfahrt relevant: In Richtung Syrgenstein oder Giengen nennen Sie uns, in welchem Bundesland Sie stehen.</p>
+<h2>Härtsfeld, Albuch und Waldwege</h2>
+<p>Auf dem Härtsfeld und dem Albuch gibt es Köhlerplatten, an denen seit 1833 Holzkohle hergestellt wird, dort liegen Waldwege abseits der Ortschaften. Wenn Sie auf einem Waldweg liegen bleiben, nennen Sie uns Abzweig, Ortschaft und nächstgelegene Kreuzung.</p>
+<h2>So nennen Sie Ihren Standort in Heidenheim</h2>
+<ul class="ticks">
+<li>Stadtteil oder Ortschaft, Straße, Hausnummer.</li>
+<li>Auf der A7: Richtung, Ausfahrt Heidenheim.</li>
+<li>Auf B19 oder B466: Fahrtrichtung, nächster Ort.</li>
+<li>Bei Steigung oder Gefälle: bergauf oder bergab.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-reutlingen.html">Reutlingen</a> und <a href="stadt-esslingen.html">Esslingen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Heidenheim</h2>
+<details><summary>Welche Autobahn führt zu Heidenheim?</summary><div>Die nahegelegene A7 mit eigener Ausfahrt.</div></details>
+<details><summary>Welche Bundesstraßen führen durch die Stadt?</summary><div>B19 und B466.</div></details>
+<details><summary>Wie weit sind Aalen und Ulm?</summary><div>Etwa 17 Kilometer bis Aalen und 33 Kilometer bis Ulm.</div></details>
+<details><summary>Wo liegt Heidenheim landschaftlich?</summary><div>In einer Talweitung der Brenz zwischen Albuch und Härtsfeld am Fuß des Hellensteins.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-boeblingen | Abschleppdienst Böblingen: Pannenhilfe A81, A8, Kreuz Stuttgart | Pannenhilfe und Abschleppen in Böblingen: vier Anschlussstellen der A81, Kreuzungspunkt von A8 und A81 nahe der Stadt, B464 und Flugfeld. | page ===
+<!--AREAS: Böblingen, Dagersheim, Flugfeld, Böblingen-Hulb, Ehningen, Schönbuch, Sindelfingen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Böblingen</p><h1>Abschleppdienst Böblingen</h1><p class="lead">Böblingen liegt etwa 20 Kilometer südwestlich von Stuttgart, die A81 führt im Norden vorbei. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisstadt am Schönbuch</h2>
+<p>Böblingen hat 51.204 Einwohner (31. Dezember 2025), ist Kreisstadt des gleichnamigen Landkreises und nach der Bevölkerungszahl die zweitgrößte Stadt des Landkreises. Zusammen mit Sindelfingen bildet Böblingen ein Mittelzentrum. Die Stadt liegt am Nordostrand des Oberen Gäus auf und an einem steilen Hügel, der ein Ausläufer des Schönbuchs ist. Sie besteht aus der Kernstadt und dem am 1. September 1971 eingegliederten Stadtteil Dagersheim, dazu kommt das Gebiet Flugfeld an der Grenze zu Sindelfingen, das als interkommunaler Stadtteil entwickelt wird. Wegen des Hügels gibt es Steigungen, sagen Sie uns bei einer Panne, ob Sie bergauf oder bergab stehen. Mehr auf <a href="stadt-sindelfingen.html">Abschleppdienst Sindelfingen</a>, <a href="stadt-stuttgart.html">Abschleppdienst Stuttgart</a> und <a href="stadt-reutlingen.html">Abschleppdienst Reutlingen</a>.</p>
+<h2>A81, A8 und die vier Anschlussstellen</h2>
+<p>Der Kreuzungspunkt der A8 (Karlsruhe–München) und der A81 (Singen–Heilbronn) liegt unweit nordöstlich von Böblingen, im Norden des Stadtgebiets führt die A81 vorbei. Die Stadt ist über die vier Anschlussstellen Böblingen-Ost, Böblingen/Sindelfingen, Böblingen-Hulb und Ehningen zu erreichen. Die B464 (Renningen–Reutlingen) und die ehemalige B14 führen an Böblingen vorbei. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und die letzte Anschlussstelle, mehr auf <a href="autobahn-a81.html">Panne auf der A81</a> und <a href="autobahn-a8.html">Panne auf der A8</a>.</p>
+<h2>Ehemaliger Flughafen und Motorworld</h2>
+<p>Im nördlichen Bereich der Stadt, an der Grenze zu Sindelfingen, befand sich früher der Flughafen Böblingen, der später von US-Streitkräften genutzt wurde. Ein Teil der ehemaligen Gebäude wird von der Motorworld Region Stuttgart genutzt. Wenn Sie am Flugfeld oder an der Motorworld liegen bleiben, nennen Sie uns Parkplatz und Straße und ob Sie schon in Sindelfingen stehen.</p>
+<h2>Schönbuch, Gäu und Schwarzwald</h2>
+<p>Der nördliche Schwarzwald ist von Böblingen aus in etwa einer halben Stunde erreichbar, die Schwäbische Alb in 40 Minuten. Für Ausflugsfahrten in den Schönbuch nennen Sie uns bei einer Panne den Waldparkplatz oder die Kreuzung.</p>
+<h2>So nennen Sie Ihren Standort in Böblingen</h2>
+<ul class="ticks">
+<li>Kernstadt, Dagersheim oder Flugfeld, Straße, Hausnummer.</li>
+<li>Auf der A81 oder A8: Richtung, Anschlussstelle.</li>
+<li>Auf der B464: Fahrtrichtung.</li>
+<li>Am Hügel: bergauf oder bergab.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-ludwigsburg.html">Ludwigsburg</a> und <a href="stadt-pforzheim.html">Pforzheim</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Böblingen</h2>
+<details><summary>Welche Anschlussstellen hat Böblingen?</summary><div>Böblingen-Ost, Böblingen/Sindelfingen, Böblingen-Hulb und Ehningen.</div></details>
+<details><summary>Wo kreuzen sich A8 und A81?</summary><div>Unweit nordöstlich von Böblingen.</div></details>
+<details><summary>Wie viele Einwohner hat Böblingen?</summary><div>51.204 am 31. Dezember 2025.</div></details>
+<details><summary>Was ist das Flugfeld?</summary><div>Das Gebiet des ehemaligen Flughafens an der Grenze zu Sindelfingen, das als interkommunaler Stadtteil entwickelt wird.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-waiblingen | Abschleppdienst Waiblingen: Pannenhilfe B14, B29, Remstal | Pannenhilfe und Abschleppen in Waiblingen: Kreisstadt an der Rems nordöstlich von Stuttgart, B14 Richtung Nürnberg, B29 nach Aalen, fünf Stadtteile. | page ===
+<!--AREAS: Waiblingen, Beinstein, Bittenfeld, Hegnach, Hohenacker, Neustadt, Rems, Fellbach, Remstal -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Waiblingen</p><h1>Abschleppdienst Waiblingen</h1><p class="lead">Waiblingen liegt etwa zehn Kilometer nordöstlich von Stuttgart im Remstal. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisstadt des Rems-Murr-Kreises</h2>
+<p>Waiblingen hat 57.186 Einwohner (31. Dezember 2025) und ist Kreisstadt und bevölkerungsreichste Stadt des Rems-Murr-Kreises. Sie gehört zur Region Stuttgart und bildet zusammen mit der westlichen Nachbarstadt Fellbach ein Mittelzentrum. Die Stadt liegt zu beiden Seiten der Rems, die im Südosten beim Stadtteil Beinstein das Stadtgebiet erreicht und danach die Talaue und die Kernstadt durchfließt. Das Stadtgebiet besteht aus der Kernstadt und den in den 1970er Jahren eingegliederten Stadtteilen Beinstein, Bittenfeld, Hegnach, Hohenacker und Neustadt, die jeweils eine Ortschaft bilden. Umgrenzt von Winnenden, Remshalden, Weinstadt und Korb gibt es eine unbewohnte Exklave auf der Buocher Höhe, dort haben Sie meist keine Adresse. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-stuttgart.html">Abschleppdienst Stuttgart</a>, <a href="stadt-esslingen.html">Abschleppdienst Esslingen</a> und <a href="stadt-ludwigsburg.html">Abschleppdienst Ludwigsburg</a>.</p>
+<h2>B14 und B29</h2>
+<p>Durch das Stadtgebiet führt die B14 (Stuttgart–Nürnberg), als Abzweig der B14 beginnt am Ortsrand die B29 (Waiblingen–Aalen). Es gibt auf dem Stadtgebiet keine Autobahn, für Fahrten auf Autobahnen nennen Sie uns Nummer und Richtung, mehr auf <a href="autobahn-a81.html">Panne auf der A81</a> und <a href="autobahn-a8.html">Panne auf der A8</a>. Auf B14 und B29 sagen Sie uns Fahrtrichtung und Abfahrt. Entlang der B29 verläuft außerdem eine Radnetz-Route, die Fellbach mit Beinstein verbindet, halten Sie sie bei einer Panne frei.</p>
+<h2>Rems und Remstal</h2>
+<p>Die Rems hat sich nach der Kernstadt tief in den Muschelkalk eingegraben. Wenn Sie im Remstal liegen bleiben, nennen Sie uns Ortschaft, Straße und Uferseite. Zu den einzelnen Stadtteilen gehören noch separat gelegene Wohnplätze mit besonderem Namen, etwa Geheime Mühle in Beinstein, Böllenbodenhof in Bittenfeld, Hegnacher Mühle in Hegnach oder Remsmühle und Zillhardtshof in Hohenacker. Einzelne Höfe und Mühlen tauchen in Navigationssystemen nicht immer auf, senden Sie in solchen Fällen Ihren Standort per WhatsApp.</p>
+<h2>So nennen Sie Ihren Standort in Waiblingen</h2>
+<ul class="ticks">
+<li>Stadtteil (Beinstein, Bittenfeld, Hegnach, Hohenacker, Neustadt), Straße, Hausnummer.</li>
+<li>Auf B14 oder B29: Fahrtrichtung, Abfahrt.</li>
+<li>Bei Höfen und Mühlen: Name des Wohnplatzes.</li>
+<li>An der Stadtgrenze: Waiblingen, Fellbach oder Korb.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-goeppingen.html">Göppingen</a> und <a href="stadt-heilbronn.html">Heilbronn</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Waiblingen</h2>
+<details><summary>Welche Bundesstraßen führen durch Waiblingen?</summary><div>Die B14 (Stuttgart–Nürnberg) und die B29 (Waiblingen–Aalen), die am Ortsrand beginnt.</div></details>
+<details><summary>Wie viele Stadtteile hat Waiblingen?</summary><div>Fünf neben der Kernstadt: Beinstein, Bittenfeld, Hegnach, Hohenacker und Neustadt.</div></details>
+<details><summary>Wie viele Einwohner hat Waiblingen?</summary><div>57.186 am 31. Dezember 2025.</div></details>
+<details><summary>Wie weit ist Stuttgart?</summary><div>Etwa zehn Kilometer südwestlich.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-loerrach | Abschleppdienst Lörrach: Pannenhilfe A98, B317, Dreiländereck | Pannenhilfe und Abschleppen in Lörrach: Wiesental an der Schweizer Grenze, A98 mit Wiesentalbrücke, B317 als Hauptverkehrsader, Dreiländereck. | page ===
+<!--AREAS: Lörrach, Brombach, Haagen, Hauingen, Tumringen, Stetten, Wiesentalbrücke, Weil am Rhein, Basel, Wiese -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lörrach</p><h1>Abschleppdienst Lörrach</h1><p class="lead">Lörrach liegt im Wiesental im äußersten Südwesten Deutschlands an der Schweizer Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Doppelzentrum mit Weil am Rhein</h2>
+<p>Lörrach ist Kreisstadt und größte Stadt des gleichnamigen Landkreises und seit dem 1. April 1956 Große Kreisstadt. Mit der westlich gelegenen Nachbarstadt Weil am Rhein bildet Lörrach ein Doppelzentrum. Die Stadt liegt weniger als fünf Kilometer vom Dreiländereck Deutschland–Frankreich–Schweiz entfernt, die Gemarkungsfläche grenzt unmittelbar an die Schweiz, im Wiesental an Riehen im Kanton Basel-Stadt. Lörrach gehört zum Trinationalen Eurodistrict Basel. Zu den Stadtteilen zählen Brombach, Haagen, Hauingen, Tumringen und Stetten. Nennen Sie uns bei einer Panne Stadtteil und Straße und ob Sie in Deutschland stehen. Mehr auf <a href="stadt-freiburg.html">Abschleppdienst Freiburg</a> und <a href="abschleppdienst-offenburg.html">Abschleppdienst Offenburg</a>.</p>
+<h2>A98 mit der Wiesentalbrücke</h2>
+<p>Die A98 verläuft direkt durch Lörrach, über das Autobahndreieck Weil am Rhein sind die A5, die französische A35 sowie die A2 und A3 auf Schweizer Seite angebunden. Die A98 wurde am 12. April 1983 mit der Inbetriebnahme der 1.201 Meter langen Wiesentalbrücke eröffnet, seit März 2006 ist über die A98 eine durchgängige Fahrt von Lörrach bis Rheinfelden möglich. Zwischen den Anschlussstellen Lörrach-Mitte (5) und Lörrach-Ost (6) gehört sie nach einer Zählung von 2005 mit rund 20.800 Fahrzeugen zu den bundesweit am schwächsten befahrenen Autobahnabschnitten. Bei einer Panne nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a98.html">Panne auf der A98</a>.</p>
+<h2>B317 im Tal, Wiese und Brücken</h2>
+<p>Die B317 von Titisee-Neustadt über den Feldberg-Pass ist die Hauptverkehrsader der Stadt und folgt der Talachse. Sie führt seit 2013 über die zollfreie Straße durch Schweizer Staatsgebiet weiter nach Weil am Rhein. Alternativ gibt es einen rein auf deutschem Staatsgebiet liegenden, rund 5 Prozent steilen Pass. Wenn Sie auf der zollfreien Straße liegen bleiben, sagen Sie uns dies unbedingt, denn dann stehen Sie auf Schweizer Staatsgebiet. Die Wiese durchquert das Stadtgebiet in Nord-Süd-Richtung, mehr als ein Dutzend Brücken verbinden die Stadt, dazu kommen Stege und Rad- und Fußgängerbrücken. Nennen Sie uns die Brücke oder Straße und die Uferseite.</p>
+<h2>Kessellage und Zollgrenzbezirk</h2>
+<p>Wegen der Kessellage im Wiesental und der umliegenden Hügel ist Lörrach auch über kleinere Passstraßen mit den Nachbarorten verbunden, zum Beispiel über L141 und B316 über den Waidhof-Pass nach Rheinfelden. Lörrach liegt in einem Zollgrenzbezirk. Nach dem Schengen-Beitritt der Schweiz entfielen am 12. Dezember 2008 die Personengrenzkontrollen, die Zollkontrollen bleiben aber bestehen.</p>
+<h2>So nennen Sie Ihren Standort in Lörrach</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A98: Richtung, Anschlussstelle Lörrach-Mitte oder Lörrach-Ost.</li>
+<li>Auf der B317: Fahrtrichtung, ob deutsches oder Schweizer Staatsgebiet.</li>
+<li>An der Wiese: Brücke, Uferseite.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-konstanz.html">Konstanz</a> und <a href="stadt-villingen-schwenningen.html">Villingen-Schwenningen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Lörrach</h2>
+<details><summary>Welche Autobahn führt durch Lörrach?</summary><div>Die A98, mit der 1.201 Meter langen Wiesentalbrücke.</div></details>
+<details><summary>Was ist die Hauptverkehrsader?</summary><div>Die B317, die der Talachse folgt und seit 2013 über die zollfreie Straße durch Schweizer Gebiet nach Weil am Rhein führt.</div></details>
+<details><summary>Wie weit ist das Dreiländereck?</summary><div>Weniger als fünf Kilometer.</div></details>
+<details><summary>Gibt es Grenzkontrollen?</summary><div>Personengrenzkontrollen entfielen am 12. Dezember 2008, Zollkontrollen bleiben bestehen.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-baden-baden | Abschleppdienst Baden-Baden: Pannenhilfe A5, B500, Michaelstunnel | Pannenhilfe und Abschleppen in Baden-Baden: A5 mit den Anschlussstellen Baden-Baden und Bühl, B500 durch den Michaelstunnel, Schwarzwaldhochstraße. | page ===
+<!--AREAS: Baden-Baden, Lichtental, Oos, Balg, Sandweier, Haueneberstein, Ebersteinburg, Steinbach, Neuweier, Varnhalt, Schwarzwaldhochstraße -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Baden-Baden</p><h1>Abschleppdienst Baden-Baden</h1><p class="lead">Baden-Baden liegt am Westrand des nördlichen Schwarzwaldes im Tal der Oos an der A5. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kurstadt im Tal der Oos</h2>
+<p>Baden-Baden hat 56.952 Einwohner (31. Dezember 2025) und ist damit der bevölkerungsärmste Stadtkreis des Landes. Die Stadt liegt am Westrand des nördlichen Schwarzwaldes im Tal der Oos, die östlichen Stadtteile schmiegen sich in die Hänge. Sie gliedert sich in elf Stadtteile: Balg, Ebersteinburg, Haueneberstein, Innenstadt, Lichtental (mit Oberbeuern und Geroldsau), Neuweier, Oos, Sandweier, Steinbach, Varnhalt und Weststadt. Dazu kommen zahlreiche kleine Wohnplätze wie Gaisbach, Hungerberg, Malschbach oder Seelach. Ebersteinburg, Haueneberstein und Sandweier haben eine eigene Ortsverwaltung, Steinbach, Neuweier und Varnhalt gemeinsam die Ortsverwaltung Rebland. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="abschleppdienst-karlsruhe.html">Abschleppdienst Karlsruhe</a>, <a href="stadt-pforzheim.html">Abschleppdienst Pforzheim</a> und <a href="abschleppdienst-offenburg.html">Abschleppdienst Offenburg</a>.</p>
+<h2>A5 mit den Anschlussstellen Baden-Baden und Bühl</h2>
+<p>Baden-Baden liegt an der A5 (Karlsruhe–Basel) und ist über die Anschlussstellen Baden-Baden und Bühl zu erreichen. Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>. Der Stadtteil Oos liegt am Bahnhof der Rheintalbahn, ein weiterer Anhaltspunkt für die Standortangabe.</p>
+<h2>B500, Michaelstunnel und Schlossbergtangente</h2>
+<p>Um die Innenstadt vom Durchgangsverkehr zu entlasten, entstanden die Schlossbergtangente nördlich und der Michaelstunnel westlich des Stadtzentrums. Durch den mit 2.544 Metern zweitlängsten Straßentunnel in Baden-Württemberg führt seit 1989 die B500, der zentrale Leopoldsplatz ist seitdem für den Durchgangsverkehr entlastet. Wenn Sie im Tunnel liegen bleiben, gelten die Regeln aus <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>: Warnblinker, Fahrzeug verlassen, hinter die Leitplanke, Notruf über die Notrufnische. In Baden-Baden beginnt außerdem die Panorama- und Touristenstraße Schwarzwaldhochstraße (B500), die in Freudenstadt endet.</p>
+<h2>Schwarzwaldhochstraße und Nationalpark</h2>
+<p>Zwischen Badener Höhe und Schwarzwaldhochstraße hat Baden-Baden Anteil am Nationalpark Schwarzwald. Wenn Sie auf der Höhenstraße liegen bleiben, nennen Sie uns Fahrtrichtung, Parkplatz und ob Sie bergauf oder bergab stehen. Für Winterfahrten siehe <a href="ratgeber-winterpanne-schwarzwald.html">Winterpanne im Schwarzwald</a>.</p>
+<h2>So nennen Sie Ihren Standort in Baden-Baden</h2>
+<ul class="ticks">
+<li>Stadtteil (Lichtental, Oos, Balg …), Straße, Hausnummer.</li>
+<li>Auf der A5: Richtung, Anschlussstelle Baden-Baden oder Bühl.</li>
+<li>Auf der B500: Tunnel oder Höhenstraße, Fahrtrichtung.</li>
+<li>Im Rebland: Ortsteil, Weinberg, Abzweig.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-heidelberg.html">Heidelberg</a> und <a href="stadt-freiburg.html">Freiburg</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Baden-Baden</h2>
+<details><summary>Welche Autobahn führt nach Baden-Baden?</summary><div>Die A5, über die Anschlussstellen Baden-Baden und Bühl.</div></details>
+<details><summary>Wie lang ist der Michaelstunnel?</summary><div>2.544 Meter, der zweitlängste Straßentunnel in Baden-Württemberg, mit der B500 seit 1989.</div></details>
+<details><summary>Wo beginnt die Schwarzwaldhochstraße?</summary><div>In Baden-Baden, sie endet in Freudenstadt.</div></details>
+<details><summary>Wie viele Stadtteile hat Baden-Baden?</summary><div>Elf.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-bruchsal | Abschleppdienst Bruchsal: Pannenhilfe A5, B3, B35, Rheintalbahn | Pannenhilfe und Abschleppen in Bruchsal: Kraichgau nördlich von Karlsruhe, A5 Anschlussstelle Bruchsal, B3 und B35, Kernstadt und fünf Stadtteile. | page ===
+<!--AREAS: Bruchsal, Büchenau, Heidelsheim, Helmsheim, Obergrombach, Untergrombach, Kraichgau, Forst -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bruchsal</p><h1>Abschleppdienst Bruchsal</h1><p class="lead">Bruchsal liegt am westlichen Rand des Kraichgaus etwa 20 Kilometer nördlich von Karlsruhe an der A5. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Mittelzentrum am Kraichgau</h2>
+<p>Bruchsal ist die bevölkerungsreichste Stadt des Landkreises Karlsruhe und ein Mittelzentrum für die umliegenden Gemeinden, bis 1972 war sie Sitz des gleichnamigen Landkreises. Um 1955 überschritt die Einwohnerzahl 20.000, deshalb wurde Bruchsal am 1. April 1956 zur Großen Kreisstadt erhoben. Das Stadtgebiet gliedert sich in die Kernstadt und die Stadtteile Büchenau, Heidelsheim, Helmsheim, Obergrombach und Untergrombach. Innerhalb der Kernstadt werden Wohngebiete mit eigenem Namen unterschieden, zum Beispiel Silberhölle, Weiherberg, Augsteiner, Südstadt und Reserve, deren Grenzen aber nicht genau festgelegt sind. Nennen Sie uns deshalb Straße und Hausnummer, nicht nur den Wohngebietsnamen. Mehr auf <a href="abschleppdienst-karlsruhe.html">Abschleppdienst Karlsruhe</a>, <a href="stadt-heidelberg.html">Abschleppdienst Heidelberg</a> und <a href="stadt-pforzheim.html">Abschleppdienst Pforzheim</a>.</p>
+<h2>A5, B3 und B35</h2>
+<p>Bruchsal ist über die A5 (Karlsruhe–Frankfurt) mit der Anschlussstelle Bruchsal zu erreichen. Ferner führen die Bundesstraßen B3 (Karlsruhe–Heidelberg) und B35 (Bretten–Germersheim) durch das Stadtgebiet. Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>. Auf B3 und B35 sagen Sie uns Fahrtrichtung und Abfahrt.</p>
+<h2>Bahnknoten und S-Bahn</h2>
+<p>Der Bahnhof Bruchsal liegt am Schnittpunkt der Rheintalbahn Mannheim–Basel, der Westbahn und der Bruhrainbahn und ist über eine Verbindungskurve an die Schnellfahrstrecke Mannheim–Stuttgart angeschlossen. Im Regionalverkehr bedienen mehrere S-Bahn- und Stadtbahnlinien den Bahnhof, darunter S 3, S 33 und S 4 der S-Bahn RheinNeckar. Wenn Sie am Bahnhof liegen bleiben, nennen Sie uns Ausgang und Zufahrt.</p>
+<h2>Ortschaften mit eigenem Gremium</h2>
+<p>Für die in den 1970er Jahren eingegliederten Stadtteile gilt die Ortschaftsverfassung, sie wählen einen eigenen Ortschaftsrat. Für Ihre Panne heißt das nur: Ein Straßenname kann in Kernstadt und Stadtteil gleich sein, sagen Sie uns daher den Stadtteil dazu. Nachbargemeinden sind unter anderem Forst, Ubstadt-Weiher, Kraichtal, Bretten und Stutensee.</p>
+<h2>So nennen Sie Ihren Standort in Bruchsal</h2>
+<ul class="ticks">
+<li>Kernstadt oder Stadtteil, Straße, Hausnummer.</li>
+<li>Auf der A5: Richtung, Anschlussstelle Bruchsal.</li>
+<li>Auf B3 oder B35: Fahrtrichtung.</li>
+<li>Am Bahnhof: Ausgang und Straße.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-mannheim.html">Mannheim</a> und <a href="stadt-heilbronn.html">Heilbronn</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Bruchsal</h2>
+<details><summary>Welche Autobahn führt nach Bruchsal?</summary><div>Die A5 (Karlsruhe–Frankfurt) mit der Anschlussstelle Bruchsal.</div></details>
+<details><summary>Welche Bundesstraßen gibt es?</summary><div>B3 (Karlsruhe–Heidelberg) und B35 (Bretten–Germersheim).</div></details>
+<details><summary>Aus welchen Stadtteilen besteht Bruchsal?</summary><div>Aus der Kernstadt und Büchenau, Heidelsheim, Helmsheim, Obergrombach und Untergrombach.</div></details>
+<details><summary>Wie weit ist Karlsruhe?</summary><div>Etwa 20 Kilometer südlich.</div></details>
+</div></section>
+@@CTA@@
