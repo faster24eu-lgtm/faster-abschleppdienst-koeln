@@ -212,3 +212,6 @@ autobahn-a66	A66 Wiesbaden bis Fulda	A66
 autobahn-a63	A63 Mainz bis Kaiserslautern	A63	
 autobahn-a65	A65 Ludwigshafen bis Wörth	A65	
 autobahn-a64	A64 Luxemburg bis Trier	A64	
+autobahn-a100	A100 Berlin Stadtring	A100	
+autobahn-a99	A99 München Ring	A99	
+autobahn-a70	A70 Schweinfurt bis Bayreuth	A70	

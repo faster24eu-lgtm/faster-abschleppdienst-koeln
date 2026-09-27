@@ -368,3 +368,9 @@ autobahn-a63	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im
 autobahn-a65	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a64	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a66	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Lärmschutztunnel bei Neuhof
+autobahn-a100	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a99	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a70	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a100	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel am Rathenauplatz und Innsbrucker Platz
+autobahn-a99	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Allach und Aubing
+autobahn-a70	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Schwarzer Berg

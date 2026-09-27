@@ -1,0 +1,86 @@
+=== autobahn-a100 | Pannenhilfe auf der A100 Berlin: Stadtring und Tunnel | Panne auf der A100 in Berlin: Stadtring von Charlottenburg über Funkturm, Schöneberg und Neukölln bis Treptower Park, Tunnel, Rudolf-Wissell-Brücke. | page ===
+<!--AREAS: A100, Berlin, Charlottenburg, Westkreuz, Funkturm, Schöneberg, Neukölln, Treptower Park -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A100 in Berlin</h1><p class="lead">Die A100, der Berliner Stadtring, verbindet in einem Bogen fünf Bezirke. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Stadtring in einem Halbbogen</h2>
+<p>Die A100 verläuft in Berlin und verbindet in einem Bogen die Bezirke Mitte, Charlottenburg-Wilmersdorf, Tempelhof-Schöneberg, Neukölln und Treptow-Köpenick. Sie wurde ursprünglich als Ringautobahn konzipiert, nach den Planungen bleibt der Ring nordöstlich der Innenstadt durch normale innerstädtische Straßen ergänzt. Dennoch trägt sie den Beinamen Berliner Stadtring. In weiten Teilen folgt sie der Trasse der Ringbahn, dem inneren Berliner S-Bahn- und Eisenbahnring. Nennen Sie uns bei einer Panne Fahrtrichtung und Anschlussstelle. Mehr auf <a href="stadt-berlin.html">Abschleppdienst Berlin</a> und <a href="autobahn-a10.html">Berliner Ring A10</a>.</p>
+<h2>Von Charlottenburg bis zum Funkturm</h2>
+<p>Die A100 beginnt im nordwestlichen Teil Berlins als Verlängerung der Seestraße und verläuft entlang des Westhafenkanals bis zum Dreieck Charlottenburg, wo die A111 nach Norden abzweigt. Sie überquert die Spree mit der Rudolf-Wissell-Brücke, die zwischen 1959 und 1962 errichtet wurde, über 930 Meter die Gleise der Berlin-Hamburger und der Berlin-Lehrter Bahn sowie die Charlottenburger Spree überspannt und die längste Brücke Berlins ist. Einige Aus- und Auffahrten des Dreiecks liegen auf der Brücke selbst, die Ausfahrt Siemensdamm und die Abfahrt Jakob-Kaiser-Platz liegen ungewöhnlich für Autobahnen linksseitig. Ab dem Bahnhof Westend bis zum Westkreuz liegt die Bahntrasse zwischen den Fahrstreifen. Am Dreieck Funkturm zweigt die A115 (AVUS) Richtung Potsdam ab, direkt an der Autobahn liegt das Messegelände. Bei einer Panne in diesem dichten Bereich nennen Sie uns die Anschlussstelle, denn Brücken, Tunnel und Ausfahrten folgen auf wenigen hundert Metern. Mehr auf <a href="stadt-berlin-charlottenburg-wilmersdorf.html">Charlottenburg-Wilmersdorf</a>.</p>
+<h2>Tunnel, Schöneberg und Neukölln</h2>
+<p>Die Fahrbahnen verlaufen am Rathenauplatz in einem 212 Meter langen Tunnel, der im November 1958 eröffnet wurde. Am Innsbrucker Platz führt die Strecke im nächsten Tunnelbauwerk unter der Hauptstraße und dem S-Bahn-Ring hindurch und erreicht kurz danach das Kreuz Schöneberg, wo die A103 beginnt. Die A100 führt an der Südseite des Tempelhofer Feldes vorbei und im Ortsteil Britz in den längsten Tunnel der Strecke, der mehrere Parkanlagen unterquert. Am Dreieck Neukölln zweigt in einer 90-Grad-Kurve die A113 nach Süden ab, danach unterquert die A100 Grenzallee und Neuköllnische Allee, führt über die Anschlussstelle Sonnenallee und endet vorläufig an der Anschlussstelle Am Treptower Park. Bei Tunnelpannen: Warnblinker, Notruf, siehe <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>. Mehr auf <a href="stadt-berlin-tempelhof-schoeneberg.html">Tempelhof-Schöneberg</a> und <a href="stadt-berlin-neukoelln.html">Neukölln</a>.</p>
+<h2>Enger gebaut als eine Autobahn</h2>
+<p>Der Baubeginn war am 1. April 1956, die Widmung als Autobahn erfolgte 1962. Durch die Planung als städtische Schnellstraße wurden die Fahrbahnen anfänglich enger (27 Meter Querschnitt mit 3,50 Meter breiten Fahrstreifen) und die Anschlüsse dichter errichtet als für eine Autobahn üblich. Der letzte geplante Teilabschnitt ist die Strecke zwischen Am Treptower Park und Storkower Straße (17. Bauabschnitt), eine darüber hinausgehende Schließung des Rings wurde aus der Flächennutzungsplanung gestrichen. Vor 1975 war für die Strecke zeitweise die Nummer A53 vorgesehen, danach A10, die nach der Wiedervereinigung auf den Berliner Ring übertragen wurde. Wenn Sie an einer engen Auffahrt liegen bleiben, nennen Sie uns Auffahrt und Richtung.</p>
+<h2>So nennen Sie Ihren Standort auf der A100</h2>
+<ul class="ticks">
+<li>Fahrtrichtung: Wedding/Charlottenburg oder Neukölln/Treptow.</li>
+<li>Anschlussstelle, Dreieck Charlottenburg, Dreieck Funkturm, Kreuz Schöneberg, Dreieck Neukölln.</li>
+<li>Tunnel (Rathenauplatz, Innsbrucker Platz, Britz) oder Rudolf-Wissell-Brücke.</li>
+<li>Bei linksseitigen Ausfahrten: ob Sie links stehen.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A100</h2>
+<details><summary>Wie lang ist die Rudolf-Wissell-Brücke?</summary><div>Über 930 Meter, sie ist die längste Brücke Berlins.</div></details>
+<details><summary>Wo zweigt die A115 von der A100 ab?</summary><div>Am Dreieck Funkturm nahe dem Messegelände.</div></details>
+<details><summary>Wo endet die A100?</summary><div>Vorläufig an der Anschlussstelle Am Treptower Park.</div></details>
+<details><summary>Wo beginnt die A103?</summary><div>Am Kreuz Schöneberg.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a99 | Pannenhilfe auf dem Münchner Ring A99: Kreuze, Tunnel, Stau | Panne auf der A99 rund um München: verkehrsreichste Autobahn Bayerns, Kreuze München-Nord und -Süd, Tunnel Allach und Aubing, Ausbau. | page ===
+<!--AREAS: A99, München, Feldmoching, Allach, Aubing, Haar, Garching, Unterhaching, Autobahnring -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf dem Münchner Ring A99</h1><p class="lead">Die A99 verbindet die nach München führenden Autobahnen einige Kilometer außerhalb der Stadt. Nennen Sie uns Richtung und Kreuz, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ring, der nicht geschlossen ist</h2>
+<p>Die A99, auch Autobahnring München, verbindet mehrere nach München führende Autobahnen einige Kilometer außerhalb der Stadt und ermöglicht dem Fernverkehr die Umfahrung Münchens. Sie wurde bereits in den 1930er Jahren als vollständiger Ring projektiert, ist aber bis heute nicht geschlossen. Sie führt von der A96 im Südwesten über die A8 im Nordwesten und die A92 im Nord-Nordwesten zur A9 im Norden (Autobahnring München-Nord) und weiter zur A94 im Osten und zur A8 beziehungsweise A995 im Süden (Autobahnring München-Ost). Ein Ringschluss im Süden von der A96 zur A95 wurde 2003 in den Bundesverkehrswegeplan aufgenommen, ob er kommt, ist offen. Nennen Sie uns bei einer Panne, ob Sie im Westen, Norden oder Osten des Rings stehen. Mehr auf <a href="stadt-muenchen.html">Abschleppdienst München</a>.</p>
+<h2>Verkehrsreichste Autobahn Bayerns</h2>
+<p>Die A99 gilt mit bis zu 120.000 Fahrzeugen pro Tag (Stand 2010) als verkehrsreichste Autobahn in Bayern, 2015 waren es schon 160.000 Fahrzeuge pro Tag. Stauungen gibt es insbesondere vor den Kreuzen München-Nord und München-Süd, am Dreieck Feldmoching und am Kreuz Eschenried. Die A99 wurde ursprünglich sechsstreifig gebaut, der Ostring vom Kreuz München-Nord bis Kreuz München-Süd hat von Anfang an einen überbreiten Mittelstreifen für einen späteren Ausbau auf acht Streifen. Bei einer Panne im dichten Verkehr: Warnblinker, Warnweste, hinter die Schutzplanke, siehe <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>. Nennen Sie uns das Kreuz und die Fahrtrichtung.</p>
+<h2>Bau in Etappen</h2>
+<p>Wegen des Zweiten Weltkriegs wurde nur stellenweise begonnen. Nach dem Krieg wurde zuerst der Abschnitt zwischen dem Kreuz München-Nord und dem Kreuz München-Süd Mitte der 1970er Jahre gebaut, die A8 München–Stuttgart wurde vorläufig ab Garching über die B471 an die A9 angeschlossen. Das Dreieck München-Feldmoching wurde 1978 übergeben. Die Ausfahrt München-Ludwigsfeld diente viele Jahre als provisorischer Zubringer, erst 1998 wurde die Weiterführung durch den Tunnel Allach und über die Eschenrieder Spange der Anschluss an die A8 fertiggestellt. Der Weiterbau über das Kreuz München-West nach München-Lochhausen konnte zwei Jahre später fertiggestellt werden. Mehr auf <a href="autobahn-a9.html">Panne auf der A9</a>, <a href="autobahn-a8.html">Panne auf der A8</a>, <a href="autobahn-a92.html">Panne auf der A92</a> und <a href="autobahn-a96.html">Panne auf der A96</a>.</p>
+<h2>Tunnel Allach und Aubing, Ausbau im Westen</h2>
+<p>Zwischen dem Dreieck München-Südwest und dem Kreuz München-West soll die Autobahn von vier auf sechs Fahrstreifen erweitert und der Lärmschutz verbessert werden, für den ersten Abschnitt bis zum Südportal des Tunnels Aubing läuft das Planfeststellungsverfahren. Ab 2027 soll der Tunnel Allach saniert werden, um im Abschnitt zwischen den Dreiecken München-Allach und München-Feldmoching die Seitenstreifen temporär freigeben zu können, die Arbeiten sollen frühestens 2035 abgeschlossen sein. Der Ausbau des Ostrings zwischen Kreuz München-Nord und Anschlussstelle Haar ist in drei Planungsabschnitte gegliedert und in Teilen umgesetzt. Bei Tunnelpannen: <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>. Die Angaben sind Planungsstände, nennen Sie uns nur Anschlussstelle und Richtung.</p>
+<h2>So nennen Sie Ihren Standort auf der A99</h2>
+<ul class="ticks">
+<li>Ringabschnitt: West, Nord oder Ost.</li>
+<li>Fahrtrichtung, Kreuz oder Dreieck (München-Nord, -Süd, -West, Feldmoching, Allach, Südwest).</li>
+<li>Tunnel Allach oder Tunnel Aubing.</li>
+<li>Ob Sie im Stau oder im Baustellenbereich stehen.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A99</h2>
+<details><summary>Ist der Münchner Autobahnring geschlossen?</summary><div>Nein, er wurde in den 1930er Jahren als Ring projektiert, ist aber bis heute nicht geschlossen.</div></details>
+<details><summary>Wie viele Fahrzeuge fahren auf der A99?</summary><div>Bis zu 120.000 pro Tag (Stand 2010), 2015 schon 160.000, damit ist sie die verkehrsreichste Autobahn Bayerns.</div></details>
+<details><summary>Wann wurde das Dreieck Feldmoching übergeben?</summary><div>1978.</div></details>
+<details><summary>Welche Autobahnen verbindet die A99?</summary><div>A96, A8, A92, A9, A94 und A995.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a70 | Pannenhilfe auf der A70: Schweinfurt bis Bayreuth | Panne auf der A70 zwischen Kreuz Schweinfurt/Werneck und Dreieck Bayreuth/Kulmbach: 120 Kilometer im Maintal, Tunnel Schwarzer Berg, Alternative zur A3. | page ===
+<!--AREAS: A70, Schweinfurt, Haßfurt, Eltmann, Bamberg, Thurnau, Kulmbach, Bayreuth -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A70</h1><p class="lead">Die A70, die Maintalautobahn, verläuft 120 Kilometer von Schweinfurt über Bamberg und Kulmbach nach Bayreuth. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>120 Kilometer im Maintal</h2>
+<p>Die A70, auch Maintalautobahn genannt, ist eine 120 Kilometer lange Autobahn im Norden Bayerns. Sie verläuft in Ost-West-Richtung vom Kreuz Schweinfurt/Werneck über Schweinfurt, Bamberg und Kulmbach zum Dreieck Bayreuth/Kulmbach und ist Bestandteil der Europastraße 48. Sie entstand in großen Teilen aus den in den 1960er Jahren angelegten Neubauten der B26 und B505, der in den 1980er Jahren begonnene Ausbau zur Autobahn durch eine zweite Richtungsfahrbahn wurde 2006 abgeschlossen. Für den von Norden kommenden Verkehr dient sie als Alternative zur stark befahrenen A3 zwischen Würzburg und Nürnberg. Nennen Sie uns bei einer Panne Richtung und Anschlussstelle. Mehr auf <a href="stadt-schweinfurt.html">Abschleppdienst Schweinfurt</a>, <a href="stadt-bamberg.html">Abschleppdienst Bamberg</a> und <a href="stadt-bayreuth.html">Abschleppdienst Bayreuth</a>.</p>
+<h2>Von Schweinfurt bis Bamberg</h2>
+<p>Die A70 beginnt am Kreuz Schweinfurt/Werneck, wo sie von der A7 abzweigt, gleichzeitig mündet die B26a in das Kreuz. Kurz vor Schweinfurt mündet am Dreieck Werntal die A71 von Norden ein. Im Schweinfurter Stadtteil Oberndorf wird zum ersten Mal der Main überquert, danach verläuft die Autobahn durch den von Industriegebieten geprägten Süden der Stadt, bei Gochsheim fällt sie zum Main hinab. Die bei Schonungen angeschlossene B303 erschließt das nordöstliche Unterfranken. Von Schonungen über Haßfurt bis kurz hinter Knetzgau führt die Autobahn parallel zum Main, ehe sie am Nordrand des Steigerwalds im 700 Meter langen Tunnel Schwarzer Berg den Berg unterquert. Direkt danach folgt bei Eltmann die zweite Mainquerung auf einer über 1.000 Meter langen Brücke. Bei Oberhaid an der Regnitzmündung wird der Main zum dritten und letzten Mal überquert, an Bamberg geht es nördlich vorbei. Bei Tunnelpannen: <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>. Mehr auf <a href="autobahn-a71.html">Panne auf der A71</a> und <a href="autobahn-a7.html">Panne auf der A7</a>.</p>
+<h2>Von Bamberg nach Bayreuth</h2>
+<p>Bei Thurnau folgt der Abstieg von der Alb hinunter zum Tal des Roten Mains und das niedrigere Obermainische Hügelland. Nach der südlichen Umfahrung von Thurnau wird der Rote Main, einer der beiden Main-Quellflüsse, überquert. Über die B85 besteht eine Verbindung nach Kulmbach und zum westlichen Stadtgebiet von Bayreuth. Auf dem letzten Stück führt die Autobahn durch das Tal der Trebgast, steigt bei Harsdorf auf die Nenntmannsreuther Höhe hinauf und mündet am Dreieck Bayreuth/Kulmbach in die A9. Bei klarem Wetter zeigt sich in östlicher Richtung das Fichtelgebirge mit seinen über 1.000 Meter hohen Gipfeln. Mehr auf <a href="autobahn-a9.html">Panne auf der A9</a> und <a href="autobahn-a73.html">Panne auf der A73</a>.</p>
+<h2>Aus dem Reichsautobahn-Plan</h2>
+<p>Pläne für eine leistungsfähige Straßenverbindung zwischen Bamberg und Bayreuth existierten seit den frühen 1930er Jahren. Im November 1937 begann der Bau des ersten Teilstücks von der bereits fertiggestellten Reichsautobahn Berlin–München bis zur Reichsstraße 85 südlich von Kulmbach. Nach dem Krieg entstand die Autobahn schrittweise aus Bundesstraßen. Nennen Sie uns bei einer Panne die Anschlussstelle und die Fahrtrichtung.</p>
+<h2>So nennen Sie Ihren Standort auf der A70</h2>
+<ul class="ticks">
+<li>Richtung: Schweinfurt oder Bayreuth.</li>
+<li>Letzte oder nächste Anschlussstelle, Kreuz Schweinfurt/Werneck, Dreieck Werntal, Dreieck Bayreuth/Kulmbach.</li>
+<li>Tunnel Schwarzer Berg oder Mainbrücke bei Eltmann.</li>
+<li>Bei Steigung und Gefälle: Thurnau oder Steigerwald.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A70</h2>
+<details><summary>Wie lang ist die A70?</summary><div>120 Kilometer, vom Kreuz Schweinfurt/Werneck bis zum Dreieck Bayreuth/Kulmbach.</div></details>
+<details><summary>Wie lang ist der Tunnel Schwarzer Berg?</summary><div>700 Meter, am Nordrand des Steigerwalds.</div></details>
+<details><summary>Warum heißt sie Maintalautobahn?</summary><div>Weil sie über weite Strecken dem Main folgt und ihn dreimal überquert.</div></details>
+<details><summary>Welche Europastraße ist die A70?</summary><div>Die E48.</div></details>
+</div></section>
+@@CTA@@
