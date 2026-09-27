@@ -196,3 +196,4 @@ stadt-bad-kreuznach	Bad Kreuznach	Rheinland-Pfalz
 stadt-zweibruecken	Zweibrücken	Rheinland-Pfalz	
 stadt-saarlouis	Saarlouis	Saarland	
 stadt-neunkirchen-saar	Neunkirchen (Saar)	Saarland	
+stadt-moers	Moers	Nordrhein-Westfalen	

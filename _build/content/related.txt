@@ -346,3 +346,4 @@ stadt-bad-kreuznach	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schr
 stadt-zweibruecken	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-saarlouis	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-neunkirchen-saar	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-moers	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick

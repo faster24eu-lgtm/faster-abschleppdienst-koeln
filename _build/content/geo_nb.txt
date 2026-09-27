@@ -143,3 +143,4 @@ stadt-bad-kreuznach	mainz,wiesbaden,koblenz,kaiserslautern,worms,darmstadt	a61
 stadt-zweibruecken	pirmasens,saarbruecken,kaiserslautern,trier,karlsruhe	a8,a6
 stadt-saarlouis	saarbruecken,trier,zweibruecken,neunkirchen-saar,kaiserslautern	a8,a620
 stadt-neunkirchen-saar	saarbruecken,saarlouis,zweibruecken,kaiserslautern,pirmasens	a6,a8
+stadt-moers	duisburg,krefeld,oberhausen,neuss,muelheim,essen,duesseldorf,dortmund	a40,a42,a57
