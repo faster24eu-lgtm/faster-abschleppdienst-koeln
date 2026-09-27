@@ -1,0 +1,490 @@
+=== en-koeln-innenstadt | Towing Service Cologne City Centre: Roadside Assistance 24/7 | Roadside assistance and towing in Cologne's city centre and Deutz: ring roads, Rhine bridges, car parks and how to describe your location. | page ===
+<!--AREAS: Köln, Köln-Innenstadt, Köln-Deutz -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">District 1</p><h1>Towing Service Cologne City Centre</h1><p class="lead">The cathedral, the ring roads, the riverfront, and Deutz on the other side of the Rhine: the city-centre district is narrow, densely built, and shaped by one-way streets, car parks and roadworks. Here's what matters in a breakdown.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us which part of the city centre you're in, and whether you're on the left bank or in Deutz on the right bank. We'll tell you the price on the phone and send a partner who also knows the narrow lanes and car parks.</p>
+<h2>Where we help here</h2>
+<p>The city-centre district covers Altstadt-Nord, Altstadt-Süd, Neustadt-Nord, Neustadt-Süd and Deutz. It sits on both banks of the Rhine, which is unusual among Cologne's nine districts. If your vehicle breaks down here, we coordinate the help: a jump-start, a tyre change, or, if there's no other way, transport to a garage. The jobs on the ground are carried out by our partners in Cologne; Faster itself is based in Antwerp.</p>
+<h2>Ring roads, Kanalstraße and Rhine bridges</h2>
+<p>The city centre is enclosed by several ring roads. Closest in are the Ringe and the Innere Kanalstraße. Beyond that, the Rhine connects the two halves of the centre at only a few points: for motor vehicles that means the Severinsbrücke and the Deutzer Brücke, and further north the Zoobrücke. The Hohenzollernbrücke carries rail traffic. If you're in Deutz and your garage is on the left bank, one of these bridges is part of the journey, so tell us your location and destination.</p>
+<h2>Nord-Süd-Fahrt and the riverside tunnel</h2>
+<p>The Nord-Süd-Fahrt is one of the key through-routes. The riverside tunnel (Rheinufertunnel) is, according to media reports, fully closed on some weekends of the year, with traffic diverted onto the Nord-Süd-Fahrt. Check the city of Cologne's website for current closures. If your vehicle breaks down in a tunnel, different rules apply than on an open road, see our guide (German) <a href="ratgeber-panne-im-tunnel.html">Breakdown in a tunnel: what to do</a>.</p>
+<h2>Car parks and underground garages</h2>
+<p>Many vehicles in the city centre break down not on the street but inside a car park. There, the clearance height decides whether a tow truck fits in. According to parking portals, the Am Dom underground garage lists a clearance of about 1.90 metres, Am Gürzenich about 1.80 metres, and the Wolfsstraße car park about 2.00 metres. These figures come from third parties and can change; the sign at the entrance is what counts. How height and ramps affect recovery is covered in our guide (German) <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Underground garage and car park</a>.</p>
+<h2>Deutz: the trade fair, the arena and the station</h2>
+<p>On the right bank are the Koelnmesse trade fair, the LANXESS arena and Köln Messe/Deutz station. Coming from Leverkusen, many drivers take the A3 to the Cologne-Ost interchange and continue on the B55 towards the centre to the LANXESS-arena exit; from Aachen, the A4 to the Gremberg interchange and the A559 into Deutz. During events, the approach roads are heavily loaded. Near the trade fair and arena there are underground garages and open lots, for example the MesseCity garage. Tell us exactly where you are.</p>
+<h2>Low-emission zone</h2>
+<p>Large parts of the city, including the centre, are within Cologne's low-emission zone. Since 1 July 2014, only vehicles with a green sticker may drive there; a violation carries a €100 fine. What that means for towing and breakdown vehicles is explained in our guide (German) <a href="ratgeber-umweltzone-koeln.html">Cologne's low-emission zone: what applies when towing?</a></p>
+<h2>How to describe your location in the city centre</h2>
+<ul class="ticks">
+<li>District, street and house number, or the nearest junction. Many street names occur in several districts.</li>
+<li>In Deutz, tell us if you're on the Deutz side of the Rhine.</li>
+<li>For car parks: the name of the building, the level, and the clearance height.</li>
+<li>Whether your vehicle is blocking a tram line, an exit, or a one-way street.</li>
+<li>Your vehicle: make, model, drivetrain.</li>
+</ul>
+<p>Other districts: <a href="en-koeln-rodenkirchen.html">Rodenkirchen</a> to the south and <a href="en-koeln-kalk.html">Kalk</a> on the right bank. An overview of all districts is at <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne: Districts &amp; Rhine Bridges</a>, and the Cologne homepage is <a href="en-index.html">Towing Service Cologne</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About the City Centre</h2>
+<details><summary>Do you come into the pedestrian zone?</summary><div>Pedestrian zones are usually closed to vehicles. Tell us where your vehicle is, and we'll work out whether and how a tow truck can reach it.</div></details>
+<details><summary>What if I break down in a car park in the city centre?</summary><div>Tell us the car park, the level, and the clearance height from the sign. Not every vehicle fits everywhere.</div></details>
+<details><summary>My car is on the Deutz side. Is that a problem?</summary><div>No. Tell us which side of the Rhine you're on and your destination, and we'll work out the route over the Rhine bridges.</div></details>
+<details><summary>Do I need a low-emission sticker for you to tow my car?</summary><div>Your vehicle is transported on a flatbed. For questions about the low-emission zone itself, the city of Cologne can help, along with our zone guide.</div></details>
+</div></section>
+@@CTA@@
+=== en-koeln-ehrenfeld | Towing Service Cologne-Ehrenfeld: Roadside Assistance 24/7 | Roadside assistance and towing in Cologne's Ehrenfeld district: Venloer Straße, the Gürtel, Butzweilerhof, the A57 end and the A1 at Bocklemünd. | page ===
+<!--AREAS: Köln, Köln-Ehrenfeld, Köln-Bickendorf, Köln-Ossendorf -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">District 4</p><h1>Towing Service Cologne-Ehrenfeld</h1><p class="lead">From Venloer Straße to the former Butzweilerhof airfield: Ehrenfeld is a district of shopping streets, industrial heritage sites, and villages that grew into the city. Here's how to describe where you are, clearly, in an emergency.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us the street and neighbourhood, for example Venloer Straße or Butzweilerhof, plus your vehicle. We'll tell you the price on the phone and send a partner who knows Ehrenfeld.</p>
+<h2>What belongs to Ehrenfeld</h2>
+<p>The Ehrenfeld district covers six neighbourhoods: Bickendorf, Bocklemünd/Mengenich, Ehrenfeld, Neuehrenfeld, Ossendorf and Vogelsang. The district town hall stands on Venloer Straße, which forms the district's centre. Neighbourhoods like Bickendorf and Ossendorf were villages until well into the 19th century, which their architecture still partly reflects, and TV broadcasters have since settled in Ossendorf. For you, this mix means short distances between very different streetscapes.</p>
+<h2>What we do here for you</h2>
+<p>We take your call or WhatsApp message and coordinate the help: a jump-start, a tyre change, unlocking your vehicle, or transport to a garage. The jobs on the ground are carried out by our partners in Cologne. Faster is based in Antwerp, Belgium, which we mention here so you know who you're speaking with.</p>
+<h2>Venloer Straße, the Gürtel and the tram</h2>
+<p>Venloer Straße connects Ehrenfeld with the city centre. Where it crosses the Gürtel is the Venloer Straße/Gürtel stop by Ehrenfeld station: tram lines 3 and 4 run underground there, while line 13 runs above ground along the Ehrenfeldgürtel. Subbelrather Straße also crosses the Gürtel at a stop. Breaking down here often means standing in a zone with heavy junction, bus and tram traffic. Hazard lights, hi-vis vest and a phone call are enough: don't stay on the tracks, and don't push your vehicle into traffic.</p>
+<h2>Butzweilerhof and the west</h2>
+<p>In the north-west is the former Butzweilerhof airfield with a large retail park, served by tram line 5 as its terminus. Car parks and commercial lots surround it. If your vehicle breaks down there in a large car park, we'll need the name of the store or company and the section of the car park.</p>
+<h2>Where the A57 ends, and the A1</h2>
+<p>The A57 ends in Ehrenfeld. It reaches Cologne via the Köln-Longerich (28), Köln-Bickendorf (29) and Köln-Ehrenfeld (30) exits, after which the motorway ends and the road continues as the K 4 to the Innere Kanalstraße and the B55a. At the end of the motorway, traffic switches from motorway to city street, and you should tell us whether you're still before or already past the exit. To the west, the A1 passes the district at the Köln-Bocklemünd exit (102, B59). More on the motorways: <a href="en-koeln-a57.html">Breakdown on the A57</a> and <a href="en-pannenhilfe-a1-koeln.html">Breakdown on the A1 near Cologne</a>.</p>
+<h2>How to describe your location in Ehrenfeld</h2>
+<ul class="ticks">
+<li>Name the neighbourhood: Ehrenfeld, Neuehrenfeld, Bickendorf, Vogelsang, Ossendorf or Bocklemünd/Mengenich.</li>
+<li>On main roads, the junction, for example Venloer Straße/Gürtel.</li>
+<li>On the motorway: the exit (29 or 30) and direction.</li>
+<li>In large car parks: the name of the store and the section.</li>
+</ul>
+<p>Neighbouring districts are <a href="en-koeln-nippes.html">Nippes</a> and <a href="en-koeln-lindenthal.html">Lindenthal</a>. If your car shouldn't be driven after an accident, see our guide (German) <a href="ratgeber-nach-unfall-fahrbereit.html">After the accident: still roadworthy?</a> All districts are listed at <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne: Districts</a>, and the Cologne homepage is <a href="en-index.html">Towing Service Cologne</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Ehrenfeld</h2>
+<details><summary>I'm on Venloer Straße. What do you need?</summary><div>The junction or house number, your vehicle, and whether it's blocking tram tracks or a stop.</div></details>
+<details><summary>Where does the A57 end?</summary><div>In Köln-Ehrenfeld. After exit 30 the motorway ends and the route continues as the K 4 to the Innere Kanalstraße.</div></details>
+<details><summary>Is Ossendorf part of Ehrenfeld?</summary><div>Yes. Ossendorf is one of the six neighbourhoods of the Ehrenfeld district, along with Bickendorf, Vogelsang, Neuehrenfeld, Bocklemünd/Mengenich and Ehrenfeld itself.</div></details>
+<details><summary>Can I send my location on WhatsApp?</summary><div>Yes. On your phone you can share your current location in a few taps. That helps when several similarly named streets are possible.</div></details>
+</div></section>
+@@CTA@@
+=== en-koeln-nippes | Towing Service Cologne-Nippes: Roadside Assistance 24/7 | Roadside assistance and towing in Cologne's Nippes district with Niehl, Riehl and Longerich: Neusser Straße, the A1, A57 and Cologne-Nord interchange. | page ===
+<!--AREAS: Köln, Köln-Nippes, Köln-Niehl, Köln-Riehl, Köln-Longerich -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">District 5</p><h1>Towing Service Cologne-Nippes</h1><p class="lead">Nippes lies on the left bank of the Rhine north of the city centre and reaches as far as the Cologne-Nord interchange. Between Neusser Straße, the Niehl harbour area and the motorways, breakdowns here happen in very different settings.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us whether you're in Nippes, Niehl, Riehl or Longerich, plus the street. We'll tell you the price on the phone and send a partner who also knows the area near the Cologne-Nord interchange.</p>
+<h2>What belongs to the Nippes district</h2>
+<p>District 5 lies on the left bank of the Rhine north of central Cologne and covers the neighbourhoods Bilderstöckchen, Longerich, Mauenheim, Niehl, Nippes, Riehl and Weidenpesch. It was formed on 1 January 1975 as part of the municipal reorganisation and is named after its most populous neighbourhood. To the south it borders Neustadt-Nord, to the west Neuehrenfeld, and to the east lies the Rhine.</p>
+<h2>Neusser Straße and the neighbourhood</h2>
+<p>At the centre of the Nippes neighbourhood is Neusser Straße with many shops. Around it are two areas with their own history: the Eisenbahn-Quartier, also called the Sechzigviertel, which grew out of a former railway repair works' housing estate and is now partly car-free, and the Clouth Quartier on the site of the former Clouth rubber works, where a new residential area has been developing since 2013. Both areas have narrow streets, traffic-calmed zones and lots of parked cars. A tow truck needs room to manoeuvre there, so tell us how tight it is at your spot.</p>
+<h2>Niehl, Riehl and the Rhine</h2>
+<p>Niehl lies in the north on the Rhine, and Riehl is home to Cologne Zoo. Niehler Straße, formerly the Niehler Weg, is considered the oldest street in Nippes and was likely already a Roman through-route. The Köln-Niehl exit (100) of the A1 gives direct motorway access, beyond which lies the Cologne-Nord interchange, where the A1 and A57 meet. If you break down there, tell us the direction and whether you're before or past the interchange. More information: <a href="en-pannenhilfe-a1-koeln.html">Breakdown on the A1 near Cologne</a> and <a href="en-koeln-a57.html">Breakdown on the A57</a>.</p>
+<h2>Tram line to the north</h2>
+<p>Tram line 15 runs from Ubierring through Nippes, Weidenpesch and Longerich to Chorweiler. On the approach roads to these stops, cars are often parked in a second row. If your vehicle is blocking a stop or a tram lane, please tell us right away and also inform the transit operator.</p>
+<h2>What we do here</h2>
+<p>We coordinate roadside assistance and towing in Nippes, from a jump-start to transport after an accident or breakdown. Faster is based in Antwerp, Belgium; the jobs in Cologne are carried out by partners on the ground.</p>
+<h2>Longerich and Weidenpesch: close to the motorway in the north</h2>
+<p>In the north of the district lie Longerich and Weidenpesch. The Köln-Longerich exit (28) of the A57 gives motorway access, and tram line 15 connects both neighbourhoods with Nippes and Chorweiler. In a breakdown there, the exit is the best landmark: tell us whether you're before or past it, and whether you're heading towards the city centre or towards the Cologne-Nord interchange.</p>
+<h2>How to describe your location in Nippes</h2>
+<ul class="ticks">
+<li>Name the neighbourhood: Nippes, Niehl, Riehl, Longerich, Mauenheim, Weidenpesch or Bilderstöckchen.</li>
+<li>On Neusser Straße, the cross street or house number.</li>
+<li>In the Sechzigviertel or Clouth Quartier: the street and whether you're in a traffic-calmed zone.</li>
+<li>On the motorway: the Köln-Niehl exit (100) or the Cologne-Nord interchange, direction and which side of the carriageway.</li>
+</ul>
+<p>Neighbouring districts are <a href="en-koeln-ehrenfeld.html">Ehrenfeld</a> and the <a href="en-koeln-innenstadt.html">city centre</a>, and across the Rhine <a href="en-koeln-muelheim.html">Mülheim</a>. For an oil leak, see our guide (German) <a href="ratgeber-oelverlust-oelspur.html">Oil leak and oil trail</a>. All districts are listed at <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne: Districts</a>, and the Cologne homepage is <a href="en-index.html">Towing Service Cologne</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Nippes</h2>
+<details><summary>Which neighbourhoods belong to the Nippes district?</summary><div>Bilderstöckchen, Longerich, Mauenheim, Niehl, Nippes, Riehl and Weidenpesch.</div></details>
+<details><summary>I'm at the Cologne-Nord interchange. What do I say?</summary><div>The motorway and direction, whether you're on the A1 or A57, and whether you're before or past the interchange. Best of all, send your location on WhatsApp.</div></details>
+<details><summary>Do you come into the Clouth Quartier or the Sechzigviertel?</summary><div>That depends on access. Tell us the street and how tight it is, and we'll work out which vehicle fits.</div></details>
+<details><summary>Is Riehl still part of Nippes?</summary><div>Yes, Riehl is one of the neighbourhoods of the Nippes district.</div></details>
+</div></section>
+@@CTA@@
+=== en-koeln-lindenthal | Towing Service Cologne-Lindenthal: Roadside Assistance 24/7 | Roadside assistance in Cologne's largest district, Lindenthal: the university, the Lövenich tunnel, the Cologne-West interchange and the A4. | page ===
+<!--AREAS: Köln, Köln-Lindenthal, Köln-Sülz, Köln-Müngersdorf, Köln-Lövenich -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">District 3</p><h1>Towing Service Cologne-Lindenthal</h1><p class="lead">With more than 150,000 residents, Lindenthal is the most populous of Cologne's nine districts. Here the university, residential neighbourhoods, major arterial roads, and the A1 and A4 motorways all meet.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us which neighbourhood in Lindenthal, for example Sülz, Müngersdorf or Lövenich, plus the street. We'll tell you the price on the phone and send a partner who also knows the Lövenich tunnel and the Cologne-West interchange.</p>
+<h2>A district of nine neighbourhoods</h2>
+<p>The Lindenthal district covers Braunsfeld, Junkersdorf, Klettenberg, Lindenthal, Lövenich, Müngersdorf, Sülz, Weiden and Widdersdorf. Braunsfeld, Klettenberg, Lindenthal, Müngersdorf and Sülz were incorporated into Cologne in 1888, the remaining neighbourhoods in 1975. Lindenthal is home to the University of Cologne and the Melaten cemetery. Breaking down in this district often happens somewhere between campus, residential streets, and shopping streets.</p>
+<h2>Main roads in the district</h2>
+<p>Among the most important and largest roads are Aachener Straße and Dürener Straße in the Lindenthal neighbourhood, and Berrenrather Straße and Luxemburger Straße in Sülz. Many shops, businesses and schools line these roads. Bus stops, delivery traffic and cyclists are dense there, and a stranded car quickly holds everyone up. Hazard lights on, hi-vis vest, and roll out of traffic if you can.</p>
+<h2>The university and the stadium</h2>
+<p>Lindenthal is home to the university and, in the Müngersdorf neighbourhood, the RheinEnergieStadion. During events and at the start of term, the approach roads are heavily used. If your vehicle breaks down in a car park or underground garage nearby, tell us the name of the car park and the level, see our guide (German) <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Underground garage and car park</a>.</p>
+<h2>The A1, the noise-protection tunnel and the Cologne-West interchange</h2>
+<p>The A1 runs through the district in the west. Near Köln-Lövenich (exit 103, B55) it runs for about 1.5 kilometres in a noise-protection enclosure, effectively a tunnel. Right after it comes the Cologne-West interchange, where the A1 crosses the A4. What applies in a tunnel breakdown is covered in our guide (German) <a href="ratgeber-panne-im-tunnel.html">Breakdown in a tunnel</a>. In the south of the district, on the A4, is the Köln-Klettenberg exit (11a, B265).</p>
+<h2>What we do here</h2>
+<p>We coordinate roadside assistance and towing across the whole district: jump-starting a flat battery, tyre changes, transport to a garage, or recovery after an accident. Faster is based in Antwerp, Belgium; the jobs in Cologne are carried out by partners on the ground.</p>
+<h2>City forest, green belt and allotment gardens</h2>
+<p>The neighbourhood's history includes the laying-out of the city forest, plus allotment gardens and the Grüngürtel, a ring of green space around the city centre. The Kitschburg manor is also among Lindenthal's older buildings. For a breakdown, that means: at the edges of the city forest and green belt there are car parks and access roads without street names, and the allotment areas have narrow paths. In that case, tell us the name of the car park, the allotment area, or the nearest larger road, so a tow truck finds the right access without you having to search for a street name that exists three times over in Cologne.</p>
+<h2>How to describe your location in Lindenthal</h2>
+<ul class="ticks">
+<li>Name the neighbourhood: many street names occur more than once in Cologne.</li>
+<li>Near the university or the stadium: the car park or entrance.</li>
+<li>On the motorway: the exit (103 Köln-Lövenich, 11a Köln-Klettenberg) and direction.</li>
+<li>Whether you're in the tunnel or before the Cologne-West interchange.</li>
+</ul>
+<p>Neighbouring districts are <a href="en-koeln-ehrenfeld.html">Ehrenfeld</a> and <a href="en-koeln-rodenkirchen.html">Rodenkirchen</a>. All districts are listed at <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne: Districts</a>, and the Cologne homepage is <a href="en-index.html">Towing Service Cologne</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Lindenthal</h2>
+<details><summary>Which neighbourhoods belong to Lindenthal?</summary><div>Braunsfeld, Junkersdorf, Klettenberg, Lindenthal, Lövenich, Müngersdorf, Sülz, Weiden and Widdersdorf.</div></details>
+<details><summary>What do I do in a breakdown in the noise-protection tunnel near Lövenich?</summary><div>Hazard lights on, engine off, and if it's safe, head to the nearest emergency point. If anyone is injured, call 112. Then call us.</div></details>
+<details><summary>Is the university in Lindenthal?</summary><div>Yes, the University of Cologne is in the Lindenthal neighbourhood.</div></details>
+<details><summary>How fast are you in Lindenthal?</summary><div>That depends on availability, traffic and your location. We give you a realistic estimate on the phone rather than a fixed promise.</div></details>
+</div></section>
+@@CTA@@
+=== en-koeln-rodenkirchen | Towing Service Cologne-Rodenkirchen: Roadside Assistance 24/7 | Roadside assistance in southern Cologne: the Rodenkirchen bridge, the A555 at Godorf and Rodenkirchen, and the refinery. | page ===
+<!--AREAS: Köln, Köln-Rodenkirchen, Köln-Sürth, Köln-Godorf, Köln-Zollstock -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">District 2</p><h1>Towing Service Cologne-Rodenkirchen</h1><p class="lead">Southern Cologne sits in the bend of the Rhine and reaches as far as Wesseling. Villa districts, woodland, the Rodenkirchen bridge and the A555 make a breakdown here a different situation from one in the city centre.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us the neighbourhood and street, for example Rodenkirchen, Sürth or Godorf, and whether you're at the Rodenkirchen bridge or the Cologne-Süd interchange. We'll tell you the price on the phone and send a partner into southern Cologne.</p>
+<h2>The southernmost district on the left bank</h2>
+<p>Rodenkirchen is the second of Cologne's nine districts and lies on the west bank of the Rhine in its bend. It borders the city centre to the north, Porz across the Rhine to the east, Wesseling to the south, Brühl to the south-west, Hürth to the west, and Lindenthal to the north-west. The district covers Bayenthal, Godorf, Hahnwald, Immendorf, Marienburg, Meschenich, Raderberg, Raderthal, Rodenkirchen, Sürth, Rondorf, Weiß and Zollstock.</p>
+<h2>Southern Cologne: villas, parks and woodland</h2>
+<p>The neighbourhoods in the river bend, namely Bayenthal, Marienburg, Rodenkirchen, Weiß and Sürth, are often grouped together as "southern Cologne". Typical here are grand villa districts from the Gründerzeit era, large gardens, avenues of old trees, and extensive parks and forests, from the green belt along the Militärringstraße to the woodland in the Weiß river bend. For you that means: some streets are lined with trees, and park and forest areas have few street signs. Describe a park, a wooded area, or a car park by name.</p>
+<h2>Raderberg, Raderthal and Zollstock</h2>
+<p>The north-western neighbourhoods of Raderberg, Raderthal and Zollstock were, in part until the 1980s, industrial sites and are now densely built working-class areas. Cars are parked close together here, and a stranded vehicle on a side street quickly blocks the way through. Tell us how wide the street is and whether you're blocking a driveway.</p>
+<h2>Godorf and Hahnwald: the refinery and close to the motorway</h2>
+<p>In the southern part of the district lie the northern works of the Rheinland refinery in Godorf and several commercial and business areas in Godorf and Hahnwald. They're well connected via the Cologne-Bonn motorway. The A555 has the Köln-Rodenkirchen (3) and Köln-Godorf (4) exits here, after which comes Wesseling and Bornheim. The A555 is Germany's oldest motorway, opened in 1932. More at <a href="en-koeln-a555.html">Breakdown on the A555</a>.</p>
+<h2>The Rodenkirchen bridge and the Cologne-Süd interchange</h2>
+<p>The A4 crosses the Rhine on the Rodenkirchen bridge, about 570 metres long. At the Cologne-Süd interchange it meets the A555. Both are bottlenecks in Cologne's traffic network, with heavy traffic. If you break down there, tell us whether you're before, on, or past the bridge. More information: <a href="en-pannenhilfe-a4-koeln.html">Breakdown on the A4 near Cologne</a> and our guide (German) <a href="ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+<h2>What we do here</h2>
+<p>We coordinate roadside assistance and towing across all of Rodenkirchen: jump-starts, tyre changes, transport to a garage. Faster is based in Antwerp, Belgium; the jobs in Cologne are carried out by partners on the ground.</p>
+<h2>How to describe your location in Rodenkirchen</h2>
+<ul class="ticks">
+<li>Name the neighbourhood, for example Sürth, Weiß, Marienburg or Rondorf.</li>
+<li>On streets in the river bend: the cross street and, if there is one, the nearest park or square.</li>
+<li>On the A555: exit 3 (Rodenkirchen) or 4 (Godorf), towards Bonn or towards Cologne.</li>
+<li>On the A4: whether you're before, on, or past the Rodenkirchen bridge.</li>
+</ul>
+<p>Neighbouring areas are the <a href="en-koeln-innenstadt.html">city centre</a>, <a href="en-koeln-lindenthal.html">Lindenthal</a>, and across the Rhine <a href="en-koeln-porz.html">Porz</a>. All districts are listed at <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne: Districts</a>, and the Cologne homepage is <a href="en-index.html">Towing Service Cologne</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Rodenkirchen</h2>
+<details><summary>Is Sürth part of Rodenkirchen?</summary><div>Yes. Sürth is one of the district's neighbourhoods, along with Weiß, Marienburg, Bayenthal and Rodenkirchen itself.</div></details>
+<details><summary>Which A555 exits are in the district?</summary><div>Köln-Rodenkirchen (3) and Köln-Godorf (4), with Wesseling following shortly after.</div></details>
+<details><summary>I'm on the Rodenkirchen bridge. What do I do?</summary><div>Hazard lights on; if it's safe, hi-vis vest and behind the crash barrier. If anyone is injured, call 112. If you can't get out safely, stay belted in and call the emergency number.</div></details>
+<details><summary>Do you help in Rondorf and Meschenich too?</summary><div>We coordinate help across the Cologne area. Tell us the neighbourhood and we'll work out how we can help.</div></details>
+</div></section>
+@@CTA@@
+=== en-koeln-porz | Towing Service Cologne-Porz: Roadside Assistance 24/7 | Roadside assistance in Cologne's largest district by area, Porz: the A59 airport approach, the Porz interchange, the Wahner Heide and the Rhine bend. | page ===
+<!--AREAS: Köln, Köln-Porz, Köln-Wahn, Köln-Zündorf, Köln-Poll -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">District 7</p><h1>Towing Service Cologne-Porz</h1><p class="lead">Porz is Cologne's largest district by area and lies on the right bank in the south-east. The Rhine, the Wahner Heide nature reserve, and the road to the airport all shape how a breakdown plays out here.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us the neighbourhood, for example Wahn, Lind, Zündorf or Poll, plus the street. We'll tell you the price on the phone and send a partner who knows the long distances in Porz and the proximity to the airport.</p>
+<h2>The largest district by area</h2>
+<p>Porz lies on the right bank in the south-east of the city. At the end of 2025 it had around 117,500 residents across 78.78 square kilometres, making it Cologne's largest district by area. It has belonged to the city since 1 January 1975; before that, Porz am Rhein was an independent town. It covers the neighbourhoods Eil, Elsdorf, Ensen, Finkenberg, Gremberghoven, Grengel, Langel, Libur, Lind, Poll, Porz, Urbach, Wahn, Wahnheide, Westhoven and Zündorf. Poll is the only long-established Cologne neighbourhood in the district, having belonged to the city since 1888.</p>
+<h2>Large area, long distances</h2>
+<p>Because Porz is so large, many kilometres can lie between two points in the district. Always tell us the neighbourhood: Zündorf, Langel and Libur lie by the Rhine in the south, Wahn and Lind in the east, Poll in the north. The Wahner Heide, a large nature reserve, lies in the east of the district. If your vehicle breaks down there in a forest car park or on a side road, there are often few landmarks. Name a car park, a track, or a village entrance.</p>
+<h2>The A59, the Porz interchange and the airport</h2>
+<p>The A59 runs from Cologne to Bonn. After the Cologne-Heumar triangle come the Rath exit (32), the Cologne-Porz interchange (33), where the A559 joins, the Airport exit (34), Wahn (35) and Lind (36). The A59 also has the Schloss Röttgen petrol station. If you're at the airport with a flat battery or tyre damage after a trip, it helps to know your car park's clearance height, see our guide (German) <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Underground garage and car park</a>. More on the motorway: <a href="en-koeln-a59.html">Breakdown on the A59</a>.</p>
+<h2>The A4 and A559 at Poll and Gremberghoven</h2>
+<p>Past the Rodenkirchen bridge, the A4 reaches the Poll neighbourhood, with the Köln-Poll exit (13). Then comes the Cologne-Gremberg interchange, where the A559 branches off to Deutz and the airport. Both spots are important links between the two banks of the Rhine and therefore heavily loaded.</p>
+<h2>What we do here</h2>
+<p>We coordinate roadside assistance and towing in Porz: jump-starts, tyre changes, transport to a garage. Faster is based in Antwerp, Belgium; the jobs in Cologne are carried out by partners on the ground.</p>
+<h2>Why names matter: a look at the history</h2>
+<p>Porz was an independent town on the Rhine until 1975 and was granted town rights in 1951. Its name likely comes from the Latin porta (gate) or portus (harbour), as the river bend once suited a natural harbour. That's why the district still has several distinct centres today: Porz-Zentrum, Wahn, Zündorf and others. Since 2007, Finkenberg has been Cologne's 86th neighbourhood. For you, this means: saying "in Porz" might mean the district, the Porz neighbourhood, or the centre of Porz. Name the neighbourhood and a street, for example Wahn or Zündorf, so a vehicle doesn't end up at the wrong end of the district.</p>
+<h2>How to describe your location in Porz</h2>
+<ul class="ticks">
+<li>Name the neighbourhood: Porz, Wahn, Lind, Zündorf, Poll, Eil, Urbach, and so on.</li>
+<li>On the A59: the exit (32 Rath, 34 Airport, 35 Wahn, 36 Lind) and direction, towards Bonn or Cologne.</li>
+<li>At the airport: the car park, level and clearance height.</li>
+<li>In the Wahner Heide: a car park, track, or the nearest village.</li>
+</ul>
+<p>Neighbouring districts are <a href="en-koeln-kalk.html">Kalk</a> and, across the Rhine, <a href="en-koeln-rodenkirchen.html">Rodenkirchen</a>. All districts are listed at <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne: Districts</a>, and the Cologne homepage is <a href="en-index.html">Towing Service Cologne</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Porz</h2>
+<details><summary>Is Poll part of Porz?</summary><div>Yes. Poll has belonged to the Porz district since the 1975 reorganisation, even though it has been part of Cologne since 1888.</div></details>
+<details><summary>Do you help at Cologne/Bonn Airport?</summary><div>We coordinate help across the Cologne area. Tell us the car park, level and vehicle, and we'll work out how we can help.</div></details>
+<details><summary>How do I describe my location in the Wahner Heide?</summary><div>A car park, track or village entrance is enough. Best of all, send your location on WhatsApp.</div></details>
+<details><summary>Which A59 exits are near Porz?</summary><div>Rath (32), the Cologne-Porz interchange (33), Airport (34), Wahn (35) and Lind (36).</div></details>
+</div></section>
+@@CTA@@
+=== en-koeln-kalk | Towing Service Cologne-Kalk: Roadside Assistance 24/7 | Roadside assistance in Cologne's Kalk district with Merheim, Rath and Höhenberg: the A3, A4, the Cologne-Ost interchange and the Heumar triangle. | page ===
+<!--AREAS: Köln, Köln-Kalk, Köln-Merheim, Köln-Rath/Heumar, Köln-Ostheim -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">District 8</p><h1>Towing Service Cologne-Kalk</h1><p class="lead">Kalk lies on the right bank between Deutz and the Bergisches Land. At its edges, the A3, A4 and A59 all meet, including what a 2015 count found to be the busiest motorway section in Germany.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us the neighbourhood, for example Kalk, Merheim, Rath or Höhenberg, plus the street. We'll tell you the price on the phone and send a partner who also knows the Cologne-Ost interchange and the Heumar triangle.</p>
+<h2>Nine neighbourhoods in the east</h2>
+<p>District 8 consists of the neighbourhoods Brück, Höhenberg, Humboldt/Gremberg, Kalk, Merheim, Neubrück, Ostheim, Rath/Heumar and Vingst. It was formed on 1 January 1975 and is named after its most populous neighbourhood. It borders Mülheim to the north, Bergisch Gladbach and Rösrath to the east, Porz to the south, and the city centre (via Deutz) to the west. The district town hall was built in 1992 by architect Gottfried Böhm, and the Kalk Karree shopping centre opened in 2003.</p>
+<h2>Industrial history and dense streets</h2>
+<p>Kalk was an industrial site. The Chemische Fabrik Kalk has roots in an ammonia plant in Nippes, and the neighbourhoods around Kalker Hauptstraße remain densely built to this day, with commercial land, former factory sites and residential streets packed close together. For you that means: breaking down on a side street here often puts you between delivery traffic and parked cars. Describe the street and house number, so a vehicle can find you precisely.</p>
+<h2>The A3, A4 and A59: Kalk's motorway hub</h2>
+<p>Several motorways converge at Kalk's edge: at the Cologne-Heumar triangle, the A3, A4 and A59 meet; at the Cologne-Ost interchange (16), the A3, A4 and B55a. Between the two lies the stretch that a 2015 count found to be the busiest motorway section in Germany. The Rath exit (32) of the A59 is in Rath/Heumar. On the A4, past Köln-Ost comes the Köln-Merheim exit (17), then Bergisch Gladbach-Refrath (18). If you break down here, follow the safety steps immediately and tell us the exit. More at <a href="en-pannenhilfe-a3-koeln.html">Breakdown on the A3 near Cologne</a> and <a href="en-pannenhilfe-a4-koeln.html">Breakdown on the A4 near Cologne</a>.</p>
+<h2>Merheim, Brück and the Königsforst</h2>
+<p>East of Köln-Ost, the A4 passes Merheim and Brück and through the northern part of the Königsforst forest. There the motorway narrows to five lanes, then four from Refrath onward, meaning less room for manoeuvring. The Lustheide and Röttgesberg rest areas serve as landmarks on the A4.</p>
+<h2>What we do here</h2>
+<p>We coordinate roadside assistance and towing in Kalk: jump-starts, tyre changes, transport to a garage, recovery after an accident. Faster is based in Antwerp, Belgium; the jobs in Cologne are carried out by partners on the ground.</p>
+<h2>Landmarks in Kalk</h2>
+<p>The district town hall by Gottfried Böhm, opened in 1992, and the Kalk Karree from 2003 with mostly municipal offices, are well-known landmarks in the Kalk neighbourhood. Deutz, which borders directly across the river, belongs to the city-centre district, not Kalk. For your location, that means: you're in Kalk if you're on Kalker Hauptstraße or in the Vingst, Höhenberg or Ostheim neighbourhoods, and in Deutz if you're near the trade fair, the station, or the Rhine. If in doubt, tell us both, and we'll work out the right access route.</p>
+<h2>How to describe your location in Kalk</h2>
+<ul class="ticks">
+<li>Name the neighbourhood: Kalk, Vingst, Höhenberg, Ostheim, Merheim, Brück, Neubrück, Rath/Heumar or Humboldt/Gremberg.</li>
+<li>On the motorway: A3, A4 or A59, exit and direction.</li>
+<li>At the Heumar triangle or Cologne-Ost interchange: which direction you came from and where you were heading.</li>
+<li>On factory or commercial land: the company name and gate.</li>
+</ul>
+<p>Neighbouring districts are <a href="en-koeln-muelheim.html">Mülheim</a>, <a href="en-koeln-porz.html">Porz</a> and the <a href="en-koeln-innenstadt.html">city centre</a>. For breakdowns on the motorways at the district's edge, see our guide (German) <a href="ratgeber-panne-autobahn.html">Breaking down on the motorway</a>. All districts are listed at <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne: Districts</a>, and the Cologne homepage is <a href="en-index.html">Towing Service Cologne</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Kalk</h2>
+<details><summary>Is Merheim part of Kalk?</summary><div>Yes. Merheim is one of the district's nine neighbourhoods.</div></details>
+<details><summary>I'm at the Heumar triangle. What do I say?</summary><div>Whether you're on the A3, A4 or A59, which direction you came from, and where you were heading.</div></details>
+<details><summary>Are there landmarks on the A4 east of Köln-Ost?</summary><div>Yes, the Köln-Merheim (17) and Refrath (18) exits, and the Lustheide and Röttgesberg rest areas.</div></details>
+<details><summary>What if I break down on factory grounds?</summary><div>Tell us the company and gate. We'll work out who can open access and whether the vehicle fits.</div></details>
+</div></section>
+@@CTA@@
+=== en-koeln-muelheim | Towing Service Cologne-Mülheim: Roadside Assistance 24/7 | Roadside assistance in Cologne's Mülheim district with Holweide, Dellbrück and Flittard: the Mülheim bridge, the A3 and the border with Leverkusen. | page ===
+<!--AREAS: Köln, Köln-Mülheim, Köln-Dellbrück, Köln-Holweide, Köln-Flittard -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">District 9</p><h1>Towing Service Cologne-Mülheim</h1><p class="lead">Mülheim lies on the right bank in the north of Cologne, bordering Leverkusen and Bergisch Gladbach. The Mülheim bridge and the A3 are the two main routes into the district.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us the neighbourhood, for example Mülheim, Holweide, Dellbrück or Flittard, plus the street. We'll tell you the price on the phone and send a partner who also knows the Mülheim bridge and the border with Leverkusen.</p>
+<h2>Nine neighbourhoods between the Rhine and the Bergisches Land</h2>
+<p>District 9 covers Buchforst, Buchheim, Dellbrück, Dünnwald, Flittard, Höhenhaus, Holweide, Mülheim and Stammheim. It borders Leverkusen to the north, Bergisch Gladbach to the east, the Kalk and city-centre districts to the south, and the Rhine forms the border with the Nippes district to the west. The northern neighbourhoods, Flittard and Stammheim, lie by the Rhine near the city boundary; Dellbrück and Holweide are further east towards Bergisch Gladbach.</p>
+<h2>The Mülheim bridge</h2>
+<p>Today's Mülheim bridge opened in 1951 and is the third bridge on this spot. The first was a pontoon bridge opened in 1888, followed in 1929 by a suspension bridge destroyed in the Second World War. It connects Mülheim with the left bank of the Rhine, specifically Nippes. Breaking down on the bridge blocks a key link. Tell us which side you're on and which direction you were heading.</p>
+<h2>The A3 with three interchanges</h2>
+<p>The A3 serves the district with the Köln-Mülheim (25, B51) and Köln-Dellbrück (26, B506) exits, preceded by Leverkusen-Zentrum (24). Between Leverkusen and Köln-Mülheim, the A3 was widened to eight lanes in June 2017. These sections carry heavy traffic, see <a href="en-pannenhilfe-a3-koeln.html">Breakdown on the A3 near Cologne</a>. If you break down there, tell us the exit, the direction, and whether you're on the carriageway or the hard shoulder.</p>
+<h2>Tram lines to the east</h2>
+<p>Tram lines 3 and 4 connect Holweide, Dellbrück and Höhenhaus with Mülheim and the city centre. There's little room at stops on the approach roads. If your vehicle is blocking tracks or a stop, tell us right away and inform the transit operator.</p>
+<h2>What we do here</h2>
+<p>We coordinate roadside assistance and towing across the whole district: jump-starts, tyre changes, transport to a garage. Faster is based in Antwerp, Belgium; the jobs in Cologne are carried out by partners on the ground. If you're at the city boundary in Flittard or Stammheim, we'll work out on the phone whether and how we can help.</p>
+<h2>Mülheim on the Rhine, not the Ruhr</h2>
+<p>Mülheim was an independent town on the Rhine with its own mayor until 1914, when it was incorporated into Cologne. Because there's also a Mülheim an der Ruhr, it helps to say "Köln-Mülheim". The neighbourhood was heavily bombed on 28 October 1944 during the Second World War, destroying large churches, the rail line between Mülheim and Kalk, and much else. That explains why the streetscape combines different eras: old churches next to post-war buildings and densely built streets with limited room to manoeuvre.</p>
+<h2>How to describe your location in Mülheim</h2>
+<ul class="ticks">
+<li>Name the neighbourhood: Mülheim, Buchheim, Buchforst, Dellbrück, Holweide, Höhenhaus, Dünnwald, Flittard or Stammheim.</li>
+<li>At the Mülheim bridge: your direction of travel and which side of the Rhine.</li>
+<li>On the A3: exit 25 or 26, towards Frankfurt or towards Oberhausen.</li>
+<li>At the city boundary: whether you're still in Cologne or already in Leverkusen.</li>
+</ul>
+<p>Neighbouring districts are <a href="en-koeln-kalk.html">Kalk</a>, <a href="en-koeln-nippes.html">Nippes</a> across the Rhine, and the <a href="en-koeln-innenstadt.html">city centre</a>. After an accident, see our guide (German) <a href="ratgeber-nach-unfall-fahrbereit.html">After the accident: still roadworthy?</a> All districts are listed at <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne: Districts</a>, and the Cologne homepage is <a href="en-index.html">Towing Service Cologne</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Mülheim</h2>
+<details><summary>Which neighbourhoods belong to Mülheim?</summary><div>Buchforst, Buchheim, Dellbrück, Dünnwald, Flittard, Höhenhaus, Holweide, Mülheim and Stammheim.</div></details>
+<details><summary>I'm on the Mülheim bridge. What do I do?</summary><div>Hazard lights on; if it's safe, hi-vis vest and get out of traffic to the side. If anyone is injured, call 112. Then call us and tell us your direction.</div></details>
+<details><summary>Which A3 exits are in Mülheim?</summary><div>Köln-Mülheim (25) and Köln-Dellbrück (26), preceded by Leverkusen-Zentrum (24).</div></details>
+<details><summary>Do you come to Leverkusen too?</summary><div>We work that out case by case on the phone. Tell us your location and destination.</div></details>
+</div></section>
+@@CTA@@
+=== en-koeln-chorweiler | Towing Service Cologne-Chorweiler: Roadside Assistance 24/7 | Roadside assistance in northern Cologne: Chorweiler, Worringen, Merkenich and Fühlingen with the A57, A1 and Cologne-Nord interchange. | page ===
+<!--AREAS: Köln, Köln-Chorweiler, Köln-Worringen, Köln-Merkenich -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">District 6</p><h1>Towing Service Cologne-Chorweiler</h1><p class="lead">Chorweiler is Cologne's northernmost district, and the only outer district that doesn't border the city centre. The A57 and A1 connect it to the rest of the city.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us the neighbourhood, for example Chorweiler, Worringen, Merkenich or Fühlingen, plus the street. We'll tell you the price on the phone and send a partner who also knows the A57, A1 and the Cologne-Nord interchange.</p>
+<h2>A district on the edge of the city</h2>
+<p>The district covers Blumenberg, Chorweiler, Esch/Auweiler, Fühlingen, Heimersdorf, Lindweiler, Merkenich (with Rheinkassel, Langel and Kasselberg), Pesch, Roggendorf/Thenhoven, Seeberg, Volkhoven/Weiler and Worringen. The Chorweiler neighbourhood itself lies about 14 kilometres north of the city centre. Forest and farmland surround the district to the north and west, and the Rhine meadows border it to the east. Because of this outlying position, distances to the city centre are long, and the connecting roads matter.</p>
+<h2>The "New Town"</h2>
+<p>The Chorweiler neighbourhood was built from 1966 onward as a large housing estate, the "Neue Stadt". It's considered the largest high-rise housing estate in North Rhine-Westphalia, with buildings up to 24 storeys. Traffic there is partly routed underground, with tunnel stations for the S-Bahn and tram. For you that means: breakdowns in the New Town often happen in car parks between high-rises and in underground garages. Tell us the street or house number and, for underground garages, the level and clearance height. Details at our guide (German) <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Underground garage and car park</a>.</p>
+<h2>Fühlinger See and green spaces</h2>
+<p>To the east, parkland extends to the Fühlinger See recreation area, and to the south it merges, after crossing the motorway, into the outer green belt. On excursion days, car parks and access roads fill up. It matters to us which car park or entrance you're at.</p>
+<h2>The A57, A1 and Cologne-Nord interchange</h2>
+<p>The A57 has the Köln-Worringen (26) and Köln-Chorweiler (27) exits in the district, followed by the Cologne-Nord interchange (28) with the A1. In Merkenich, the route passes a large industrial park. On the A57 between Worringen and Chorweiler is the Esch/Weiler rest area as a landmark. If you break down, tell us the exit, direction (towards Cologne or Neuss), and whether you're before or past the interchange. More at <a href="en-koeln-a57.html">Breakdown on the A57</a> and <a href="en-pannenhilfe-a1-koeln.html">Breakdown on the A1 near Cologne</a>.</p>
+<h2>S-Bahn and tram</h2>
+<p>Chorweiler is connected via S-Bahn line 11 and tram line 15, which terminates at Chorweiler station. A stranded vehicle still needs transport, so tell us the street and house number.</p>
+<h2>What we do here</h2>
+<p>We coordinate roadside assistance and towing in northern Cologne. Faster is based in Antwerp, Belgium; the jobs in Cologne are carried out by partners on the ground. For very long distances, we'll tell you on the phone what's realistic.</p>
+<h2>How to describe your location in Chorweiler</h2>
+<ul class="ticks">
+<li>Name the neighbourhood: Chorweiler, Heimersdorf, Seeberg, Fühlingen, Merkenich, Worringen, and so on.</li>
+<li>In the New Town: street, house number, or car park, and for underground garages the level.</li>
+<li>On the A57: exit 26 or 27, towards Cologne or Neuss.</li>
+<li>At the Fühlinger See: the car park or entrance.</li>
+</ul>
+<p>Also in northern Cologne are <a href="en-koeln-nippes.html">Nippes</a> and <a href="en-koeln-ehrenfeld.html">Ehrenfeld</a>, connected to Chorweiler via the A57 and A1. All districts are listed at <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne: Districts</a>, and the Cologne homepage is <a href="en-index.html">Towing Service Cologne</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Chorweiler</h2>
+<details><summary>Does Chorweiler border the city centre?</summary><div>No. Chorweiler is the only outer Cologne district that doesn't border the city-centre district.</div></details>
+<details><summary>Which A57 exits are in Chorweiler?</summary><div>Köln-Worringen (26) and Köln-Chorweiler (27), followed by the Cologne-Nord interchange (28).</div></details>
+<details><summary>I'm in an underground garage in the New Town. What do I say?</summary><div>The street, level, and clearance height from the sign. Not every tow truck fits into every underground garage.</div></details>
+<details><summary>Do you help in Worringen too?</summary><div>Worringen is part of the district. We coordinate help across the Cologne area and work out on the phone how we can help with longer distances.</div></details>
+</div></section>
+@@CTA@@
+=== en-koeln-a57 | Breakdown on the A57 near Cologne: Exits and Where It Ends | Breakdown on the A57 between Dormagen and Köln-Ehrenfeld: exits 25 to 30, the Cologne-Nord interchange, where it ends. | page ===
+<!--AREAS: Köln, Dormagen, Köln-Chorweiler, Köln-Ehrenfeld -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne · A57</p><h1>Breakdown on the A57 Near Cologne</h1><p class="lead">The A57 comes from the Lower Rhine and Neuss, crosses the A1 near Chorweiler, and ends in the middle of Köln-Ehrenfeld. Along this stretch, the number of lanes and the surroundings change several times, and that affects how you should behave in a breakdown.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us your direction of travel and the last exit, for example Köln-Worringen or the Cologne-Nord interchange. We'll tell you the price right away and send a partner who'll drive to you on the A57.</p>
+<h2>A57 exits in the Cologne area</h2>
+<p>The A57 runs from the Dutch border near Goch, parallel to the Rhine via Krefeld and Neuss, to Cologne. It's part of European route E31, which runs from Rotterdam to Hockenheim. In Cologne, from north to south, you pass these points:</p>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>No.</th><th>Name</th><th>Notes</th></tr></thead><tbody>
+<tr><td>24</td><td>Neuss-Süd triangle</td><td>connects to A46</td></tr>
+<tr><td>25</td><td>Dormagen (north and south sections)</td><td>Rhein-Kreis Neuss, north of the Cologne city boundary</td></tr>
+<tr><td>26</td><td>Köln-Worringen</td><td>followed by the Esch/Weiler rest area</td></tr>
+<tr><td>27</td><td>Köln-Chorweiler</td><td></td></tr>
+<tr><td>28</td><td>Cologne-Nord interchange</td><td>A1, E37, the Cologne motorway ring</td></tr>
+<tr><td>28</td><td>Köln-Longerich</td><td>five lanes from here</td></tr>
+<tr><td>29</td><td>Köln-Bickendorf</td><td>six lanes from here</td></tr>
+<tr><td>30</td><td>Köln-Ehrenfeld</td><td>the motorway ends after this</td></tr>
+</tbody></table></div>
+<h2>Where the motorway ends, in Ehrenfeld</h2>
+<p>After the Köln-Ehrenfeld exit, the A57 ends. From there the route continues as the K 4 to the Innere Kanalstraße and the B55a. If you break down in this area, you're suddenly no longer on a motorway but on a city street with traffic lights, junctions and pedestrians. It matters to us whether you're still on the motorway or already on the K 4. We'll then work out which rules apply; see also <a href="en-koeln-ehrenfeld.html">Towing Service Cologne-Ehrenfeld</a>.</p>
+<h2>Lanes and traffic management</h2>
+<p>Between Dormagen and Köln-Worringen there's a traffic-management system. Past the Cologne-Nord interchange, the A57 has five lanes, and six from Longerich onward. Six lanes means the right-hand edge is far from the middle. If your vehicle loses power, move right early and roll to a stop rather than stopping in a middle lane. If you can't reach the edge, switch on your hazard lights, stay belted in, and call 112.</p>
+<h2>The Cologne-Nord interchange</h2>
+<p>At the Cologne-Nord interchange near Chorweiler, the A57 meets the A1 and the Cologne motorway ring. Interchanges have many entry and exit ramps, so in a breakdown there we always ask two things: which direction did you come from, and which direction were you heading? More on the surroundings: <a href="en-pannenhilfe-a1-koeln.html">Breakdown on the A1 near Cologne</a> and <a href="en-koeln-chorweiler.html">Towing Service Cologne-Chorweiler</a>.</p>
+<h2>What to tell us on the phone</h2>
+<ol>
+<li>Motorway (A57) and direction: towards Cologne or towards Neuss</li>
+<li>Last exit or rest area (Esch/Weiler)</li>
+<li>Whether you're on the hard shoulder, in a lane, or already past the end of the motorway</li>
+<li>Vehicle and drivetrain</li>
+<li>Whether anyone is injured</li>
+</ol>
+<p>The first steps to take are covered in our guide (German) <a href="ratgeber-panne-autobahn.html">Breaking down on the motorway</a>. Once you've reached the edge: hi-vis vest on, get out, and go behind the crash barrier. If the police attend or you've used an emergency phone, a contracted company is often assigned; you may still state your preference.</p>
+<h2>Who actually comes in Cologne?</h2>
+<p>Faster is based in Antwerp, Belgium. Jobs in the Cologne area are carried out by partners on the ground, we coordinate them. For jobs north of the city boundary, for example in Dormagen, we'll work out on the phone whether and how we can help.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About the A57 Near Cologne</h2>
+<details><summary>Where does the A57 end?</summary><div>In Köln-Ehrenfeld, after exit 30. From there the route continues as the K 4 to the Innere Kanalstraße.</div></details>
+<details><summary>Which exits does the A57 have in Cologne?</summary><div>Köln-Worringen (26), Köln-Chorweiler (27), the Cologne-Nord interchange (28), Köln-Longerich (28), Köln-Bickendorf (29) and Köln-Ehrenfeld (30).</div></details>
+<details><summary>Are there rest areas on the A57 in northern Cologne?</summary><div>Yes, the Esch/Weiler rest area between Worringen and Chorweiler.</div></details>
+<details><summary>What if I break down past the end of the motorway?</summary><div>Tell us that you're already on the K 4 or the Innere Kanalstraße. City rules apply there, not motorway rules.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="en-koeln-ehrenfeld.html">Cologne-Ehrenfeld<small>A57 end, Venloer Straße</small></a><a href="en-pannenhilfe-koelner-autobahnring.html">Cologne Motorway Ring<small>A1, A3, A4 overview</small></a><a href="ratgeber-panne-autobahn.html">Breaking down on the motorway<small>The steps (German)</small></a></div></div></section>
+@@CTA@@
+=== en-koeln-a59 | Breakdown on the A59 near Cologne: Heumar to Troisdorf | Breakdown on the A59 between the Cologne-Heumar triangle, the airport and Bonn: exits 31 to 43, the Porz interchange, connections and what to do. | page ===
+<!--AREAS: Köln, Köln-Porz, Troisdorf, Bonn -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne · A59</p><h1>Breakdown on the A59 Near Cologne</h1><p class="lead">The A59 between Cologne and Bonn is the right-bank link that serves the airport. It starts at the Cologne-Heumar triangle and runs through south-eastern Cologne to Bonn-Beuel.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us your direction of travel (Cologne or Bonn) and the last exit, for example the Cologne-Porz interchange or Airport. We'll tell you the price right away and send a partner who'll drive to you on the A59.</p>
+<h2>Three separate A59 sections</h2>
+<p>The A59 exists as three unconnected sections. The northernmost is in Duisburg, another runs from Düsseldorf to Leverkusen, and finally the A59 connects Cologne with Bonn-Beuel. This third section is what this page covers. It starts at the Cologne-Heumar triangle, where the A3 and A4 converge.</p>
+<h2>Exits and interchanges</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>No.</th><th>Name</th><th>Connects to / notes</th></tr></thead><tbody>
+<tr><td>31</td><td>Cologne-Heumar triangle</td><td>A3, A4</td></tr>
+<tr><td>32</td><td>Rath</td><td>after a 480 m elevated section</td></tr>
+<tr><td>33</td><td>Cologne-Porz interchange</td><td>A559; five lanes from here</td></tr>
+<tr><td>34</td><td>Airport</td><td>Cologne/Bonn Airport</td></tr>
+<tr><td>35</td><td>Wahn</td><td></td></tr>
+<tr><td>36</td><td>Lind</td><td>B8</td></tr>
+<tr><td>37</td><td>Spich</td><td>Troisdorf</td></tr>
+<tr><td>38</td><td>Troisdorf</td><td></td></tr>
+<tr><td>39</td><td>Sankt Augustin-West triangle</td><td>A560</td></tr>
+<tr><td>40</td><td>Bonn-Nordost triangle</td><td>A565</td></tr>
+<tr><td>41</td><td>Bonn-Vilich</td><td>B56</td></tr>
+<tr><td>42</td><td>Bonn-Pützchen</td><td></td></tr>
+<tr><td>43</td><td>Bonn-Ost interchange</td><td>A562, B42</td></tr>
+</tbody></table></div>
+<p>Between the Porz triangle and the Airport exit, the A59 has the Schloss Röttgen petrol station. It's a useful landmark if you only know you're somewhere between two exits.</p>
+<h2>Cologne/Bonn Airport</h2>
+<p>Exit 34 leads to Cologne/Bonn Airport. Car parks P1 to P3 sit right by the terminals. For car park P2, parking portals list a maximum vehicle height of 1.95 metres; the sign at the entrance is what's reliable. If you return from holiday to a flat battery in the car park, you usually just need a jump-start, not transport. How to go about that is in our guide (German) <a href="ratgeber-starthilfe-batterie.html">Jump-starting and a flat battery</a>. Height and ramps are covered in our guide (German) <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Underground garage and car park</a>.</p>
+<h2>Many connections over a short distance</h2>
+<p>Between Heumar and Bonn-Ost, more than a dozen exits, triangles and interchanges follow one another. Many vehicles change lanes there. In a breakdown that means: don't just say "on the A59", tell us the last exit and the direction, towards Bonn or towards Cologne.</p>
+<h2>What to tell us on the phone</h2>
+<ol>
+<li>A59 and direction, towards Bonn or Cologne</li>
+<li>Last exit or triangle</li>
+<li>Whether you're on the hard shoulder, in a lane, or at the airport</li>
+<li>Vehicle, drivetrain, and whether it still rolls</li>
+<li>Whether anyone is injured</li>
+</ol>
+<p>The basic steps for a motorway breakdown are in our guide (German) <a href="ratgeber-panne-autobahn.html">Breaking down on the motorway</a>. The district where most of the A59 runs within Cologne's city limits is <a href="en-koeln-porz.html">Cologne-Porz</a>.</p>
+<h2>After the trip: a typical situation at the airport</h2>
+<p>Many breakdowns at the airport are "standing-time" breakdowns: leave your vehicle in the car park for days or weeks, and you can come back to a flat battery, since batteries discharge even while parked. A jump-start is usually enough. For hybrid and electric vehicles, the connection points are set by the manufacturer; see our guide (German) <a href="ratgeber-e-auto-abschleppen.html">Towing an electric car</a>. If you're tired after a trip and your car won't start, tell us the car park and level, and save yourself the search.</p>
+<h2>Who actually comes in Cologne?</h2>
+<p>Faster is based in Antwerp, Belgium. Jobs in the Cologne area are carried out by partners on the ground, we coordinate them. For jobs further towards Bonn, we'll work out on the phone whether and how we can help.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About the A59 Near Cologne</h2>
+<details><summary>Where does the A59 start near Cologne?</summary><div>At the Cologne-Heumar triangle, where the A3 and A4 converge. The first exit is Rath (32).</div></details>
+<details><summary>How do I get to the airport?</summary><div>Via the Airport exit (34) of the A59. Car parks P1 to P3 sit right by the terminals.</div></details>
+<details><summary>What is the Cologne-Porz interchange?</summary><div>A motorway interchange (33) where the A559 joins. From there the A59 has five lanes.</div></details>
+<details><summary>Is there a landmark between Porz and the airport?</summary><div>Yes, the Schloss Röttgen petrol station on the A59.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="en-koeln-porz.html">Cologne-Porz<small>Airport, Wahner Heide</small></a><a href="en-pannenhilfe-a4-koeln.html">Breakdown on the A4<small>Frechen to Bensberg</small></a><a href="en-koeln-a555.html">Breakdown on the A555<small>The Cologne-Bonn motorway</small></a></div></div></section>
+@@CTA@@
+=== en-koeln-a555 | Breakdown on the A555: The Cologne-Bonn Motorway | Breakdown on the A555 between the Cologne-Süd interchange and Bonn: exits 2 to 7, Godorf, Wesseling, Bornheim, Germany's oldest motorway. | page ===
+<!--AREAS: Köln, Köln-Rodenkirchen, Wesseling, Bornheim, Bonn -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne · A555</p><h1>Breakdown on the A555 Between Cologne and Bonn</h1><p class="lead">The A555 is Germany's oldest motorway. It has connected Cologne and Bonn since 1932 and today carries well over 100,000 vehicles a day.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us your direction of travel (Cologne or Bonn) and the last exit, for example Rodenkirchen or Godorf. We'll tell you the price right away and send a partner who'll drive to you on the A555.</p>
+<h2>Germany's oldest motorway</h2>
+<p>The A555 was opened on 6 August 1932 by then Cologne mayor Konrad Adenauer. Construction had begun in October 1928. Described in 1932 as a "junction-free motor road", it was, with around 3,000 vehicles a day, the busiest road in the German Reich at the time. It wasn't formally declared a federal motorway (Autobahn) until 1 April 1958, which is why it's also called the Cologne-Bonn motorway. This history explains why it's still used today as a direct link between two cities, with many short gaps between exits.</p>
+<h2>Traffic today</h2>
+<p>According to Autobahn GmbH, over 120,000 vehicles a day use the A555 at the Cologne-Süd interchange, and over 150,000 use the A4 there. Around 50,000 vehicles use the interchange to get into or out of Cologne. It's one of the bottlenecks in southern Cologne. Breaking down there often means ending up in a traffic jam.</p>
+<h2>A555 exits</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>No.</th><th>Name</th><th>Notes</th></tr></thead><tbody>
+<tr><td>2</td><td>Cologne-Süd interchange</td><td>A4 (Cologne motorway ring)</td></tr>
+<tr><td>3</td><td>Köln-Rodenkirchen</td><td></td></tr>
+<tr><td>4</td><td>Köln-Godorf</td><td>near the refinery complex</td></tr>
+<tr><td>5</td><td>Wesseling</td><td></td></tr>
+<tr><td>6</td><td>Bornheim</td><td></td></tr>
+<tr><td>7</td><td>Bonn-Nord interchange</td><td>A565</td></tr>
+</tbody></table></div>
+<p>A further junction is planned in between, at Bonn-Rheindorf. Within Cologne's city limits are the Rodenkirchen and Godorf exits, described in detail at <a href="en-koeln-rodenkirchen.html">Towing Service Cologne-Rodenkirchen</a>. Wesseling and Bornheim are no longer part of Cologne; they're towns in the Rhein-Erft and Rhein-Sieg districts.</p>
+<h2>From country road 185 to federal motorway</h2>
+<p>Formally, the route was classed in 1932 as a motor road called "Landstraße 185", a southward extension of Bonner Straße in Cologne. Construction cost around 8.6 million Reichsmark, and the project was a job-creation scheme employing 5,540 unemployment relief workers. This has a practical consequence for you: the route is old, its exits follow close together, and many stretches have been widened repeatedly since the start. If you break down, the next exit usually isn't far, and you should tell us which one.</p>
+<h2>What's different in a breakdown here</h2>
+<p>On a heavily used commuter route, the hard shoulder is a dangerous place. If your vehicle loses power, try to roll to the next exit; on the A555, exits follow close together, which can help. Hazard lights, hi-vis vest, get out and go behind the crash barrier, see our guide (German) <a href="ratgeber-panne-autobahn.html">Breaking down on the motorway</a>. If an automobile club or the police call in a contracted service, you may still state your preference, though it isn't a guarantee.</p>
+<h2>What to tell us</h2>
+<ol>
+<li>A555, towards Bonn or towards Cologne</li>
+<li>Last exit: Rodenkirchen (3), Godorf (4), Wesseling (5) or Bornheim (6)</li>
+<li>Whether you're before or past the Cologne-Süd interchange</li>
+<li>Vehicle, drivetrain, and whether it still rolls</li>
+<li>Whether anyone is injured</li>
+</ol>
+<h2>Who actually comes in Cologne?</h2>
+<p>Faster is based in Antwerp, Belgium. Jobs in the Cologne area are carried out by partners on the ground, we coordinate them. For jobs in Wesseling, Bornheim or Bonn, we'll work out on the phone whether and how we can help.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About the A555</h2>
+<details><summary>Since when has the A555 existed?</summary><div>It opened on 6 August 1932 and is Germany's oldest motorway. It was formally declared a federal motorway on 1 April 1958.</div></details>
+<details><summary>Which exits does it have?</summary><div>Cologne-Süd interchange (2), Köln-Rodenkirchen (3), Köln-Godorf (4), Wesseling (5), Bornheim (6) and Bonn-Nord interchange (7).</div></details>
+<details><summary>Where does the A555 end?</summary><div>At the Bonn-Nord interchange, where the A565 joins.</div></details>
+<details><summary>What do I do at the Cologne-Süd interchange?</summary><div>Tell us whether you're on the A4 or A555 and which direction you came from. There are many entry and exit ramps there.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="en-koeln-rodenkirchen.html">Cologne-Rodenkirchen<small>Godorf, Rodenkirchen bridge</small></a><a href="en-pannenhilfe-a4-koeln.html">Breakdown on the A4<small>Cologne-Süd interchange</small></a><a href="en-koeln-a59.html">Breakdown on the A59<small>Heumar to Bonn-Ost</small></a></div></div></section>
+@@CTA@@
+=== en-koeln-leverkusener-bruecke | Leverkusen Bridge: Breakdown on the A1 Over the Rhine | Breakdown on the A1 at the Leverkusen Rhine bridge: the Leverkusen interchange, elevated sections and Köln-Niehl. | page ===
+<!--AREAS: Köln, Leverkusen, Köln-Niehl -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne · A1</p><h1>Breakdown at the Leverkusen Bridge</h1><p class="lead">The A1 crosses the Rhine between Leverkusen and Köln-Niehl on a cable-stayed bridge over a kilometre long. Elevated sections and interchanges lie before and after it: a spot where a breakdown blocks traffic fast.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, one call is enough.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What happens after you call?</h2>
+<p>Tell us whether you're before, on, or past the Rhine bridge, and your direction of travel. We'll tell you the price right away and send a partner who knows the elevated sections and the bridge.</p>
+<h2>The route, section by section</h2>
+<p>Coming from the north, the A1 passes through this section in this order:</p>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Location</th><th>Length / No.</th><th>Notes</th></tr></thead><tbody>
+<tr><td>Leverkusen interchange</td><td>98</td><td>connects to A3</td></tr>
+<tr><td>Elevated section B</td><td>928 m</td><td>crosses the Dhünn, among other things</td></tr>
+<tr><td>Leverkusen-West interchange</td><td>99</td><td>connects to A59 and L293</td></tr>
+<tr><td>Elevated section</td><td>527 m</td><td>before the Rhine bridge</td></tr>
+<tr><td>Leverkusen Rhine bridge</td><td>1,057 m</td><td>cable-stayed bridge over the Rhine</td></tr>
+<tr><td>Köln-Niehl</td><td>100</td><td>first Cologne exit</td></tr>
+<tr><td>Cologne-Nord interchange</td><td>101</td><td>A57, Cologne motorway ring</td></tr>
+</tbody></table></div>
+<p>Between the Leverkusen interchange and Köln-Niehl, then, is a sequence of elevated sections and bridges together about 2.5 kilometres long, with few places to pull over. After the bridge, the route passes Merkenich and a large industrial park in Cologne before reaching the Cologne-Nord interchange near Chorweiler.</p>
+<h2>A structure under renewal</h2>
+<p>Because of significant structural damage, the Leverkusen Rhine bridge is being replaced with a new bridge, one per direction. The first ground was broken on 14 December 2017, and the regional roads authority (Landesbetrieb Straßenbau NRW) planned the new bridge with ten lanes. While the damage persisted, the old bridge was at times restricted to vehicles under 3.5 tonnes, which diverted traffic onto other Rhine bridges. The current status, which lanes are open, and whether restrictions apply can change. Check a traffic report before you drive.</p>
+<h2>What applies in a breakdown on a bridge or elevated section</h2>
+<ul class="ticks">
+<li><strong>React early:</strong> as soon as your vehicle loses power, indicate and move right, while you can still steer.</li>
+<li><strong>Avoid stopping in the middle of the bridge</strong> if you can help it. Coast past the bridge or to the next exit.</li>
+<li><strong>Hazard lights, hi-vis vest, behind the crash barrier,</strong> once you've reached the edge. If anyone is injured, call 112.</li>
+<li><strong>If you can't reach the edge:</strong> stay belted in and call 112. Getting out in the middle of the carriageway is life-threatening.</li>
+</ul>
+<p>The detailed steps are in our guide (German) <a href="ratgeber-panne-autobahn.html">Breaking down on the motorway</a>. For the Cologne side, see <a href="en-pannenhilfe-a1-koeln.html">Breakdown on the A1 near Cologne</a>, and for the district, <a href="en-koeln-nippes.html">Towing Service Cologne-Nippes</a>.</p>
+<h2>What to tell us</h2>
+<ol>
+<li>A1 and direction: towards Cologne/Saarbrücken or towards Leverkusen/Dortmund</li>
+<li>Last exit or interchange: Leverkusen, Leverkusen-West, or Köln-Niehl</li>
+<li>Whether you're before, on, or past the Rhine bridge</li>
+<li>Vehicle, drivetrain, and whether it still rolls</li>
+<li>Whether anyone is injured</li>
+</ol>
+<h2>Who actually comes in Cologne?</h2>
+<p>Faster is based in Antwerp, Belgium. Jobs in the Cologne area are carried out by partners on the ground, we coordinate them. For jobs on the Leverkusen side, we'll work out on the phone whether and how we can help.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About the Leverkusen Bridge</h2>
+<details><summary>How long is the Leverkusen Rhine bridge?</summary><div>It's 1,057 metres long and a cable-stayed bridge. Before it lie elevated sections of 928 and 527 metres.</div></details>
+<details><summary>What's the first exit after the bridge?</summary><div>Köln-Niehl (100), followed by the Cologne-Nord interchange (101).</div></details>
+<details><summary>Is the bridge closed?</summary><div>That changes. Check current traffic reports; we don't know today's status.</div></details>
+<details><summary>What do I do if I break down on the bridge?</summary><div>Hazard lights, move right if possible, hi-vis vest, and behind the crash barrier. If anyone is injured, call 112. Then call us and tell us the direction.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="en-pannenhilfe-a1-koeln.html">Breakdown on the A1 Near Cologne<small>Leverkusen to Erfttal</small></a><a href="en-koeln-a57.html">Breakdown on the A57<small>Cologne-Nord interchange</small></a><a href="en-pannenhilfe-koelner-autobahnring.html">Cologne Motorway Ring<small>All interchanges</small></a></div></div></section>
+@@CTA@@

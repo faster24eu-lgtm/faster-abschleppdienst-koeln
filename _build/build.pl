@@ -174,7 +174,7 @@ sub schema_for {
 # extra pages: marker "=== slug | title | description | flag ===", optional body comment <!--AREAS: a, b -->. Later files override earlier slugs.
 {
   my $dir = "$Bin/content";
-  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_guides14.txt extra_koeln5.txt extra_koeln6.txt extra_guides15.txt extra_home.txt), (map { s{.*/}{}r } sort glob("$Bin/content/geo_*.txt")), qw(extra_ratgeber.txt en_home.txt en_koeln.txt en_region.txt)) {
+  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_guides14.txt extra_koeln5.txt extra_koeln6.txt extra_guides15.txt extra_home.txt), (map { s{.*/}{}r } sort glob("$Bin/content/geo_*.txt")), qw(extra_ratgeber.txt en_home.txt en_koeln.txt en_region.txt en_koeln2.txt)) {
     open(my $ex,"<:raw","$dir/$name") or next; my $c;
     while (my $l=<$ex>) {
       if ($l =~ /^=== (\S+) \| (.*?) \| (.*) \| (\w+) ===\s*$/) { $c=$1; push @order,$c unless $P{$c}; $P{$c}={title=>"$2 | Faster Abschleppdienst",desc=>$3,flag=>$4,body=>""}; next }
@@ -255,6 +255,7 @@ $PATH{'en-pannenhilfe-koelner-autobahnring'} = 'en/koeln/autobahnring'; $PATH{'e
 $PATH{'en-abschleppdienst-koeln-stadtteile'} = 'en/koeln/stadtteile';
 $PATH{'en-abschleppdienst-mittelbaden'} = 'en/karlsruhe'; $PATH{'en-abschleppdienst-karlsruhe'} = 'en/karlsruhe/stadt'; $PATH{'en-abschleppdienst-baden-baden'} = 'en/karlsruhe/baden-baden';
 $PATH{'en-abschleppdienst-achern'} = 'en/karlsruhe/achern'; $PATH{'en-abschleppdienst-offenburg'} = 'en/karlsruhe/offenburg'; $PATH{'en-abschleppdienst-a5'} = 'en/karlsruhe/a5';
+$PATH{"en-koeln-$_"} = "en/koeln/$_" for qw(innenstadt ehrenfeld nippes lindenthal rodenkirchen porz kalk muelheim chorweiler a57 a59 a555 leverkusener-bruecke);
 sub path_for { my $s=shift; return $PATH{$s} if exists $PATH{$s}; return "ratgeber/$1" if $s =~ /^ratgeber-(.+)$/; return $s; }
 sub region_for { my $pa=shift; $pa =~ s{^en/}{}; return 'koeln' if $pa =~ m{^koeln}; return 'karlsruhe' if $pa =~ m{^karlsruhe}; return 'shared'; }
 sub depth_of { my $pa=shift; return $pa eq '' ? 0 : scalar(split m{/}, $pa); }
@@ -301,6 +302,12 @@ $CRUMB_PARENT{'koeln-a57'} = ['pannenhilfe-koelner-autobahnring','Panne auf der 
 $CRUMB_PARENT{'koeln-a59'} = ['pannenhilfe-koelner-autobahnring','Panne auf der A59'];
 $CRUMB_PARENT{'koeln-a555'} = ['pannenhilfe-koelner-autobahnring','Panne auf der A555'];
 $CRUMB_PARENT{'koeln-leverkusener-bruecke'} = ['pannenhilfe-koelner-autobahnring','Leverkusener Brücke'];
+my %DISTRICT_EN = (innenstadt=>'City Centre', ehrenfeld=>'Ehrenfeld', nippes=>'Nippes', lindenthal=>'Lindenthal', rodenkirchen=>'Rodenkirchen', porz=>'Porz', kalk=>'Kalk', muelheim=>'Mülheim', chorweiler=>'Chorweiler');
+$CRUMB_PARENT{"en-koeln-$_"} = ['en-abschleppdienst-koeln-stadtteile', "Cologne-$DISTRICT_EN{$_}"] for keys %DISTRICT_EN;
+$CRUMB_PARENT{'en-koeln-a57'} = ['en-pannenhilfe-koelner-autobahnring','A57 Breakdown'];
+$CRUMB_PARENT{'en-koeln-a59'} = ['en-pannenhilfe-koelner-autobahnring','A59 Breakdown'];
+$CRUMB_PARENT{'en-koeln-a555'} = ['en-pannenhilfe-koelner-autobahnring','A555 Breakdown'];
+$CRUMB_PARENT{'en-koeln-leverkusener-bruecke'} = ['en-pannenhilfe-koelner-autobahnring','Leverkusen Bridge'];
 $CRUMB_PARENT{'ratgeber-panne-im-tunnel'} = ['ratgeber','Panne im Tunnel'];
 $CRUMB_PARENT{'ratgeber-umweltzone-koeln'} = ['ratgeber','Umweltzone Köln'];
 $CRUMB_PARENT{'ratgeber-abschleppen-koeln-kosten'} = ['ratgeber','Kosten in Köln'];
