@@ -1,0 +1,113 @@
+=== autobahn-a48 | Pannenhilfe auf der A48: Vulkaneifel, Koblenz, Westerwald | Panne auf der A48 vom Dreieck Vulkaneifel bei Daun über Mayen und Koblenz zum Dreieck Dernbach: Elztalbrücke, Bendorfer Brücke, Kreuz Koblenz. | page ===
+<!--AREAS: A48, Daun, Ulmen, Kaisersesch, Mayen, Koblenz, Bendorf, Höhr-Grenzhausen, Dernbach -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A48</h1><p class="lead">Die A48 führt von der A1 bei Daun in der Vulkaneifel über Koblenz zur A3 im Westerwald. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Von der Eifel in den Westerwald</h2>
+<p>Die A48 ist eine Autobahn in Rheinland-Pfalz, die am Autobahndreieck Vulkaneifel bei Daun von der A1 abzweigt und über Koblenz zum Dreieck Dernbach im Westerwald führt, wo sie in die A3 mündet. Sie erschließt große Teile der Eifel und die Region um Trier mit dem Rheinland und ist auf der gesamten Länge Bestandteil der Europastraße 44. Da die A1 nur einige Kilometer nördlich des Dreiecks bei Kelberg endet und eine rund 20 Kilometer lange Baulücke in Richtung Köln besteht, wird der Verkehr aus Richtung Trier weiter in Richtung Köln über die A48 und später die A61 geleitet. Wenn Sie hier liegen bleiben, nennen Sie uns, ob Sie in Richtung Trier oder Koblenz unterwegs sind. Mehr auf <a href="autobahn-a1.html">Panne auf der A1</a> und <a href="stadt-trier.html">Abschleppdienst Trier</a>.</p>
+<h2>Vulkaneifel und Maifeld</h2>
+<p>Nach dem Dreieck folgt ein hügeliger Verlauf mit Steigungs- und Gefällestrecken durch die waldreiche Vulkaneifel, unmittelbar am Ulmener Maar vorbei. Charakteristisch ist die aus langen Geraden und vereinzelten, relativ engen Kurven bestehende Trasse. Bei Kaisersesch wird der hügelige Eifelabschnitt verlassen und die Ebene des Maifelds erreicht. Kurz vor Mayen überquert die Autobahn das tief eingeschnittene Tal des Elzbachs, unmittelbar nördlich der 97 Meter hohen Elztalbrücke befindet sich eine Rastanlage mit Tankstelle. Über die Anschlussstelle Mayen kann durch das Befahren der B262 der Weg zur A61 (Anschlussstelle Mendig) abgekürzt werden, wodurch der Umweg über das Kreuz Koblenz entfällt. Hinter Mayen folgt ein kurvenreicher Abschnitt, hinter Ochtendung wird in einer Gefällestrecke das Mittelrheinische Becken erreicht. Bei Gefälle nennen Sie uns, ob die Bremsen betroffen sind, siehe <a href="ratgeber-bremsen-versagen.html">Bremsen versagen</a>.</p>
+<h2>Kreuz Koblenz und Bendorfer Brücke</h2>
+<p>Am Autobahnkreuz Koblenz kreuzt die A48 die A61 (Venlo–Ludwigshafen). Einige Kilometer weiter stellt die Anschlussstelle Koblenz-Nord die Verbindung zur B9 her, die als Hauptverkehrsader des Mittelrheintals das Stadtzentrum von Koblenz und die linksrheinischen Vororte anbindet. Anschließend überquert die Autobahn auf der Bendorfer Brücke den Rhein und stellt über die Anschlussstelle Bendorf/Neuwied eine Verbindung zu den rechtsrheinischen Koblenzer Stadtteilen und Vororten her. Wegen des Platzmangels ist diese Anschlussstelle ungewöhnlich aufgebaut, als Kombination aus halbem Kleeblatt und zwei Trompeten. Direkt danach folgt eine enge Kurvenkombination, die Autobahn führt parallel zum Rhein auf die Höhen des Westerwalds hinauf. Bei Höhr-Grenzhausen befindet sich in östlicher Richtung eine kleine Raststätte ohne Tankmöglichkeit. Mehr auf <a href="stadt-koblenz.html">Abschleppdienst Koblenz</a>, <a href="stadt-neuwied.html">Abschleppdienst Neuwied</a>, <a href="autobahn-a61.html">Panne auf der A61</a> und <a href="autobahn-a3.html">Panne auf der A3</a>.</p>
+<h2>Nur der Rest der geplanten A48</h2>
+<p>Der heutige Verlauf war schon im Spitzennetz der Fernstraßenplanungen der Weimarer Republik und der NS-Zeit als Teil einer Autobahn aus dem Gießener Raum über Koblenz nach Trier vorhanden. Die heutige Trasse entstand in den 1960er Jahren zunächst als einbahniger Bundesstraßen-Neubau, später als zweibahnige Autobahn. Mit der neuen Nummerierung 1975 umfasste die A48 die größtenteils noch lückenhafte Verbindung luxemburgische Grenze–Trier–Koblenz–Gießen–Hattenbacher Dreieck. Nachdem der Bau der Strecke Koblenz–Gießen in den 1980er Jahren nicht weiter verfolgt und 1992 die Anschlussstellen-Nummerierung eingeführt wurde, beschränkte sich die Bezeichnung A48 auf den heutigen Abschnitt zwischen Daun und Dernbach. Die restlichen gebauten Teilstücke erhielten neue Nummern, ein Beispiel ist die A480 bei Wetzlar in <a href="stadt-wetzlar.html">Abschleppdienst Wetzlar</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A48</h2>
+<ul class="ticks">
+<li>Richtung: Trier/Daun oder Koblenz/Westerwald.</li>
+<li>Letzte oder nächste Anschlussstelle, Dreieck Vulkaneifel, Mayen, Kreuz Koblenz, Bendorf/Neuwied, Dreieck Dernbach.</li>
+<li>Elztalbrücke oder Bendorfer Brücke.</li>
+<li>Bei Steigung oder Gefälle: Eifel oder Westerwald.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A48</h2>
+<details><summary>Wo beginnt und endet die A48?</summary><div>Am Dreieck Vulkaneifel bei Daun an der A1 und am Dreieck Dernbach im Westerwald an der A3.</div></details>
+<details><summary>Warum wird Verkehr Richtung Köln über die A48 geleitet?</summary><div>Weil die A1 bei Kelberg endet und eine rund 20 Kilometer lange Baulücke Richtung Köln besteht.</div></details>
+<details><summary>Wie hoch ist die Elztalbrücke?</summary><div>97 Meter.</div></details>
+<details><summary>Welche Europastraße ist die A48?</summary><div>Auf der gesamten Länge die E44.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a49 | Pannenhilfe auf der A49: Kassel, Schwalmstadt, Ohmtal | Panne auf der A49 von Kassel über Fritzlar und Stadtallendorf zum Dreieck Ohmtal an der A5: Talbrücken, Stadtautobahn Kassel, Alternative zur A7. | page ===
+<!--AREAS: A49, Kassel, Baunatal, Fritzlar, Borken, Schwalmstadt, Stadtallendorf, Homberg (Ohm), Ohmtal -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A49</h1><p class="lead">Die A49 verbindet Kassel durch Nord- und Mittelhessen mit der A5. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kürzere Alternative zur A7</h2>
+<p>Die A49 ist eine durch Nord- und Mittelhessen verlaufende Autobahn. Sie verbindet Kassel über Fritzlar, Schwalmstadt, Stadtallendorf und Homberg (Ohm) mit der A5 und stellt eine etwas kürzere Alternativroute zur viel befahrenen Strecke der A7 über das Hattenbacher Dreieck dar. Der nördliche Abschnitt von Kassel bis Borken wurde ab Ende der 1960er Jahre Schritt für Schritt erbaut, die südliche Fortsetzung von Neuental bis an die A5 konnte nach der genutzten Quelle erst in den 2020er Jahren vollständig verwirklicht werden und war lange umstritten. Für Ihre Standortangabe heißt das: Ältere Navigationskarten zeigen die Lücke noch. Nennen Sie uns Anschlussstelle und Fahrtrichtung. Mehr auf <a href="stadt-kassel.html">Abschleppdienst Kassel</a>, <a href="autobahn-a7.html">Panne auf der A7</a> und <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>.</p>
+<h2>Stadtautobahn Kassel und Baunatal</h2>
+<p>Die A49 zweigt am Kreuz Kassel-Mitte von der A7 ab und wird im Bereich der Städte Kassel, wo sie die Fulda überquert, und Baunatal als Stadtautobahn geführt. Über das Kreuz Kassel-West ist sie mit der A44 verbunden. Ab hier verläuft sie nach Süden und durchquert die Gebiete der Gemeinden Edermünde, Gudensberg, Fritzlar, Wabern, Borken, Neuental und Schwalmstadt. Bei einer Panne in der Stadtautobahn nennen Sie uns Anschlussstelle, Fahrtrichtung und ob Sie vor oder hinter der Fuldabrücke stehen. Mehr auf <a href="autobahn-a44.html">Panne auf der A44</a>.</p>
+<h2>Talbrücken und kurvigerer Südteil</h2>
+<p>Ab Gudensberg werden die Flüsse Ems, Eder und Schwalm durch zahlreiche Talbrücken überquert, die Schwalm wird gleich zweimal überbrückt. Der südliche Streckenabschnitt schließt die Städte Neustadt (Hessen), Stadtallendorf und Homberg (Ohm) in einem etwas kurvigeren Verlauf an. Die Autobahn endet am Dreieck Ohmtal an der A5. Bei einer Panne auf einer Talbrücke: Warnblinker, Warnweste, hinter die Schutzplanke, siehe <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>. Nennen Sie uns die Brücke oder die Anschlussstelle.</p>
+<h2>Frühere Pläne bis Frankfurt</h2>
+<p>Ursprünglich sollte die Strecke nach Gießen und weiter über Butzbach, Bad Nauheim und Friedberg nach Frankfurt verlaufen und ab dem heutigen Preungesheimer Dreieck auf der Trasse der jetzigen A661 über Offenbach und Egelsbach nach Darmstadt führen. Die Planung änderte sich mehrfach, zuletzt wurde die Verbindung Kirchhain–Lumda für die A49 aufgegriffen, die Verbindung Marburg–Gießen wurde als A485 bezeichnet. Mehr auf <a href="stadt-marburg.html">Abschleppdienst Marburg</a> und <a href="stadt-giessen.html">Abschleppdienst Gießen</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A49</h2>
+<ul class="ticks">
+<li>Richtung: Kassel oder Ohmtal/A5.</li>
+<li>Letzte oder nächste Anschlussstelle, Kreuz Kassel-Mitte oder Kassel-West.</li>
+<li>Talbrücke oder Fulda-Querung.</li>
+<li>Ob Sie im Nordabschnitt (Kassel–Borken) oder Südabschnitt stehen.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A49</h2>
+<details><summary>Wo beginnt und endet die A49?</summary><div>Am Kreuz Kassel-Mitte an der A7 und am Dreieck Ohmtal an der A5.</div></details>
+<details><summary>Welche Städte liegen an der A49?</summary><div>Kassel, Baunatal, Fritzlar, Borken, Schwalmstadt, Neustadt (Hessen), Stadtallendorf und Homberg (Ohm).</div></details>
+<details><summary>Ist die A49 eine Alternative zur A7?</summary><div>Ja, eine etwas kürzere Alternativroute über die A5 statt über das Hattenbacher Dreieck.</div></details>
+<details><summary>Wo kreuzt die A49 die A44?</summary><div>Am Kreuz Kassel-West.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a60 | Pannenhilfe auf der A60: Eifel, Bingen, Mainz, Rüsselsheim | Panne auf der A60 in zwei Teilstrecken: Eifel von Steinebrück bis Wittlich und Bingen–Mainz–Rüsselsheim mit Mainzer Ring und Weisenauer Brücke. | page ===
+<!--AREAS: A60, Prüm, Bitburg, Wittlich, Bingen, Ingelheim, Mainz, Rüsselsheim, Weisenauer Brücke -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A60</h1><p class="lead">Die A60 besteht aus zwei getrennten Teilstrecken: Belgien–Wittlich und Bingen–Mainz–Rüsselsheim. Nennen Sie uns Teilstück, Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zwei Teilstrecken, E42 und Mainzer Ring</h2>
+<p>Die A60 führt in zwei nicht miteinander verbundenen Teilstrecken von der belgischen Grenze bei Steinebrück über Wittlich, Bingen und Mainz nach Rüsselsheim. Der westliche Abschnitt ist eine von zwei grenzüberschreitenden Autobahnstrecken nach Belgien, der östliche bildet mit einem Teilstück des Mainzer Rings eine regionale Strecke im Rhein-Main-Gebiet. Die gesamte Strecke ist Teil der Europastraße 42. Als kreuzungsfreie Verbindung zwischen beiden Teilstücken wird die B50 ausgebaut, nachdem der ehemals geplante Lückenschluss als Autobahn durch den südlichen Hunsrück verworfen wurde. Nennen Sie uns zuerst, ob Sie im Westen (Eifel) oder im Osten (Rhein-Main) stehen. Mehr auf <a href="stadt-trier.html">Abschleppdienst Trier</a> und <a href="stadt-mainz.html">Abschleppdienst Mainz</a>.</p>
+<h2>Der Westen: Steinebrück, Prüm, Bitburg</h2>
+<p>Die A60 beginnt am Grenzübergang Steinebrück in der Eifel als Fortsetzung der belgischen A27. Nur wenige Kilometer hinter der Staatsgrenze endet der als Autobahn ausgebaute Teil, auf etwa 15 Kilometern besteht ein 2+1-System und nur die nördliche Richtungsfahrbahn ist fertig. Sie führt durch die hügelige, stark bewaldete Schnee-Eifel, hinter Prüm beginnt wieder der Autobahnteil mit beiden Fahrbahnen, der nach Süden bis Bitburg führt. Die Anschlussstelle Bitburg schließt die B51 an, über die Luxemburg und Trier auf kürzestem Wege erreicht werden. Zur Querung der eingeschnittenen Flusstäler waren viele Brücken nötig. Bei einer Panne im Bereich des 2+1-Systems nennen Sie uns bitte, ob Sie auf der Fahrbahn mit Gegenverkehr stehen. Die Strecke endet bei einem Kreuz mit der A1 bei Wittlich, die Fahrbahnen führen nahtlos zum vierstreifigen Hochmoselübergang der B50.</p>
+<h2>Der Osten: Bingen, Ingelheim und Mainzer Ring</h2>
+<p>Das zweite Teilstück beginnt am Dreieck Nahetal mit der A61 und führt vierstreifig an Bingen und Ingelheim vorbei, der Rhein verläuft dort abschnittsweise unmittelbar nördlich der Fahrbahn. Bei Heidesheim steigt die Autobahn zum Lenneberg hinauf, ehe die A643 nach Wiesbaden abzweigt, sie bildet den westlichen Teil des Autobahnrings um Mainz, die A60 den südlichen. Der Abschnitt vom Dreieck Mainz bis zum Kreuz Mainz-Süd, wo die A63 nach Kaiserslautern beginnt, ist nur vierstreifig und ohne Standstreifen. Hinter dem Kreuz beginnt der sechsstreifige Abschnitt, der bei Hechtsheim aus Lärmschutzgründen in einem 350 Meter langen Tunnel verläuft. Nach dem Anschluss der B9 überquert die A60 auf der Weisenauer Brücke den Rhein und erreicht Hessen. Unmittelbar dahinter zweigt die A671 ab, die A60 führt vierstreifig als Süd-Main-Schnellweg weiter, südlich an Rüsselsheim vorbei bis zum Rüsselsheimer Dreieck an der A67. Mehr auf <a href="stadt-wiesbaden.html">Abschleppdienst Wiesbaden</a>, <a href="stadt-ruesselsheim.html">Abschleppdienst Rüsselsheim</a> und <a href="autobahn-a67.html">Panne auf der A67</a>. Im Tunnel gilt: <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A60</h2>
+<ul class="ticks">
+<li>Teilstück: Eifel (Steinebrück–Wittlich) oder Rhein-Main (Bingen–Rüsselsheim).</li>
+<li>Fahrtrichtung, Anschlussstelle, Dreieck Nahetal, Dreieck Mainz, Kreuz Mainz-Süd.</li>
+<li>Tunnel Hechtsheim oder Weisenauer Brücke.</li>
+<li>Ohne Standstreifen: Dreieck Mainz–Kreuz Mainz-Süd.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A60</h2>
+<details><summary>Ist die A60 durchgehend?</summary><div>Nein, sie besteht aus zwei nicht verbundenen Teilstrecken, dazwischen wird die B50 ausgebaut.</div></details>
+<details><summary>Welche Europastraße ist die A60?</summary><div>Die E42, im Westen abschnittsweise auch die E29.</div></details>
+<details><summary>Wie lang ist der Tunnel bei Hechtsheim?</summary><div>350 Meter, aus Lärmschutzgründen.</div></details>
+<details><summary>Wo überquert die A60 den Rhein?</summary><div>Auf der Weisenauer Brücke bei Mainz.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a62 | Pannenhilfe auf der A62: Nonnweiler, Landstuhl, Pirmasens | Panne auf der A62 vom Dreieck Nonnweiler über Kreuz Landstuhl-West nach Pirmasens: einbahniger Abschnitt als Kraftfahrstraße, Schwarzbachtalbrücke. | page ===
+<!--AREAS: A62, Nonnweiler, Birkenfeld, Glan-Münchweiler, Landstuhl, Höheinöd, Pirmasens, Pirmasens-Winzeln -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A62</h1><p class="lead">Die A62 führt vom Dreieck Nonnweiler nach Pirmasens und umgeht den Großraum Saarbrücken. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Umgehung von Saarbrücken</h2>
+<p>Die A62 führt vom Dreieck Nonnweiler nach Pirmasens und umgeht weiträumig den Großraum Saarbrücken. Sie stellt eine direkte Verbindung zwischen der Eifelregion um Trier und den südwestdeutschen Ballungszentren dar. Da der ehemals geplante Abschnitt Saarbrücken–Karlsruhe der A8 durch den Pfälzerwald nie gebaut wurde, kann sie diese Aufgabe nur teilweise erfüllen, weshalb die Strecke größtenteils ein geringes Verkehrsaufkommen hat. Der Bau begann in den 1960er Jahren, die Fertigstellung zog sich abschnittsweise bis 1991 hin. Nennen Sie uns bei einer Panne Anschlussstelle, Kilometerstein oder nächsten Ort. Mehr auf <a href="stadt-saarbruecken.html">Abschleppdienst Saarbrücken</a> und <a href="stadt-pirmasens.html">Abschleppdienst Pirmasens</a>.</p>
+<h2>Dreieck Nonnweiler und das Umsteigen</h2>
+<p>Die A62 beginnt als Fortsetzung der von Trier kommenden Fahrbahn der A1 am Dreieck Nonnweiler. Will man die A1 weiter in Richtung Saarbrücken befahren, muss man dort die Fahrbahn verlassen. Da das Dreieck nur über Rampen von und in westliche beziehungsweise nördliche Richtung (Trier) verfügt, dient als Ersatz für die Relation A62–Saarbrücken die benachbarte Anschlussstelle Nonnweiler-Otzenhausen, über die man nach ein paar hundert Metern auf der Landesstraße wieder auf die A1 in südliche Richtung gelangt. Nennen Sie uns an diesem Dreieck Ihre Fahrtrichtung. Mehr auf <a href="autobahn-a1.html">Panne auf der A1</a>.</p>
+<h2>Landstuhl und die Westricher Hochfläche</h2>
+<p>Die ersten Kilometer führen durch das Saarland am südlichen Rand des Schwarzwälder Hochwalds entlang, dann durch das Nordpfälzer Bergland. Am Kreuz Landstuhl-West wird die A6 (Saarbrücken–Mannheim–Nürnberg–Waidhaus) gekreuzt. Südlich des Kreuzes steigt die Strecke steil an und führt mit einem Tunnelbauwerk auf die Westricher Hochfläche. Nach der Anschlussstelle Bann endet der zweibahnige Ausbau, ab hier ist die A62 nur auf der östlichen Richtungsfahrbahn fertiggestellt, die einstreifig im Gegenverkehr betrieben wird. Ein Vollausbau ist wegen des sehr geringen Verkehrsaufkommens sehr unwahrscheinlich. Der Abschnitt ist als Kraftfahrstraße mit gelben Wegweisern beschildert. Bei einer Panne auf einer Fahrbahn mit Gegenverkehr ist besondere Vorsicht geboten: Warnblinker, Warnweste, weit vom Fahrzeug weg. Mehr auf <a href="autobahn-a6.html">Panne auf der A6</a>.</p>
+<h2>Schwarzbachtalbrücke und Pirmasens-Winzeln</h2>
+<p>Auf einem wenige Kilometer langen Abschnitt bei Höheinöd wurde die zweite Richtungsfahrbahn gebaut, um ein Überholen zu ermöglichen. Kurz vor Pirmasens wird auf der 100 Meter hohen Schwarzbachtalbrücke, dem höchsten Brückenbauwerk der Strecke, ein tief eingeschnittenes Tal überquert. Über die Anschlussstelle Pirmasens besteht ein Anschluss an die B10 in Richtung Landau. Der kurze Abschnitt zwischen den Anschlussstellen Pirmasens und Pirmasens-Winzeln ist wieder zweibahnig auf Autobahnstandard ausgebaut. Pirmasens-Winzeln wurde ursprünglich als Vorleistung für ein Dreieck mit der A8 Richtung Karlsruhe gebaut, nach Aufgabe der Planungen wurde in den 2000er Jahren eine Anschlussstelle integriert, südwestlich führt die Strecke als A8 weiter nach Neunkirchen und Zweibrücken. Mehr auf <a href="autobahn-a8.html">Panne auf der A8</a> und <a href="stadt-zweibruecken.html">Abschleppdienst Zweibrücken</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A62</h2>
+<ul class="ticks">
+<li>Richtung: Nonnweiler/Trier oder Pirmasens.</li>
+<li>Anschlussstelle, Kreuz Landstuhl-West, Bann, Pirmasens.</li>
+<li>Ob Sie auf dem einbahnigen Abschnitt mit Gegenverkehr stehen.</li>
+<li>Schwarzbachtalbrücke oder Tunnel als Landmarke.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A62</h2>
+<details><summary>Ist die A62 durchgehend zweibahnig?</summary><div>Nein, ab der Anschlussstelle Bann ist sie bis kurz vor Pirmasens nur auf einer Fahrbahn mit Gegenverkehr fertig und als Kraftfahrstraße beschildert.</div></details>
+<details><summary>Warum ist der Verkehr auf der A62 gering?</summary><div>Weil der geplante Abschnitt Saarbrücken–Karlsruhe der A8 durch den Pfälzerwald nie gebaut wurde.</div></details>
+<details><summary>Wie hoch ist die Schwarzbachtalbrücke?</summary><div>100 Meter, das höchste Brückenbauwerk der Strecke.</div></details>
+<details><summary>Wo beginnt die A62?</summary><div>Am Dreieck Nonnweiler als Fortsetzung der A1 von Trier.</div></details>
+</div></section>
+@@CTA@@

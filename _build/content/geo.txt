@@ -204,3 +204,7 @@ stadt-memmingen	Memmingen	Bayern
 stadt-iserlohn	Iserlohn	Nordrhein-Westfalen	
 autobahn-a46	A46 Heinsberg bis Olsberg	A46	
 autobahn-a39	A39 Hamburg bis Salzgitter	A39	
+autobahn-a48	A48 Daun bis Dernbach	A48	
+autobahn-a49	A49 Kassel bis Ohmtal	A49	
+autobahn-a60	A60 Eifel und Mainz	A60	
+autobahn-a62	A62 Nonnweiler bis Pirmasens	A62	

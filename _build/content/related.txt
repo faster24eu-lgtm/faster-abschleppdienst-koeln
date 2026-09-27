@@ -357,3 +357,9 @@ stadt-minden	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Weserauentunnel
 autobahn-a46	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a39	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a46	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel bei Arnsberg
+autobahn-a48	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a49	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a60	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a62	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a60	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Hechtsheim
+autobahn-a48	ratgeber-bremsen-versagen.html	Bremsen versagen	Gefälle in Eifel und Westerwald
