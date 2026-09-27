@@ -1,0 +1,109 @@
+=== autobahn-a13 | Pannenhilfe auf der A13: Berlin, Spreewald, Dresden | Panne auf der A13 zwischen Schönefelder Kreuz und Dreieck Dresden-Nord: Spreewald, A15 nach Cottbus, Anschlussstellen, Geschichte der Strecke. | page ===
+<!--AREAS: A13, Berlin, Schönefeld, Lübbenau, Spreewald, Ruhland, Ortrand, Dresden -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A13</h1><p class="lead">Die A13 verbindet Berlin und Dresden vom Schönefelder Kreuz bis zum Dreieck Dresden-Nord. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Vom Berliner Ring zum Dreieck Dresden-Nord</h2>
+<p>Die A13 ist eine Bundesfernstraße im Osten Deutschlands, die Berlin und Dresden miteinander verbindet. Sie beginnt am Schönefelder Kreuz am südlichen Berliner Ring (A10) und endet am Autobahndreieck Dresden-Nord (A4). Durch die am Autobahndreieck Spreewald abzweigende A15 ist auch Cottbus an diese Strecke angebunden. Wichtige Anschlussstellen sind Bestensee (B246), Mittenwalde, Teupitz, Lübbenau/Spreewald, Freienhufen (B96), Ruhland (B169), Ortrand und Radeburg. Wenn Sie auf der A13 liegen bleiben, nennen Sie uns die letzte Anschlussstelle und die Fahrtrichtung. Mehr auf <a href="autobahn-a10.html">Panne auf dem Berliner Ring A10</a>, <a href="stadt-cottbus.html">Abschleppdienst Cottbus</a> und <a href="stadt-dresden.html">Abschleppdienst Dresden</a>.</p>
+<h2>Warum verläuft die A13 so?</h2>
+<p>In den frühen 1930er Jahren wurde der Verlauf zunächst anders geplant: Die Trasse sollte etwa 30 Kilometer weiter westlich zwischen Golßen und Ortrand entlang der Bahnstrecke Berlin–Dresden verlaufen und Doberlug-Kirchhain, Finsterwalde, Luckau und Schlieben tangieren. Damit wäre das Dreieck zur A15 entfallen. Die Abschnitte vom Kreuz Schönefeld bis zum Anschluss Teupitz und vom Dreieck Dresden-Nord bis zum Anschluss Ortrand wurden 1938 zweibahnig fertiggestellt, der Abschnitt Ortrand–Ruhland einbahnig, die zweite Fahrbahn folgte 1939. Wenn Sie navigieren, verlassen Sie sich deshalb auf Anschlussstellen und Nummern, nicht auf Ortsnamen von Bahnstrecken.</p>
+<h2>Dreieck Spreewald und Gegenverkehr</h2>
+<p>Das Kreuzungsbauwerk im Autobahndreieck Spreewald blieb zunächst unvollendet, sodass Fahrzeuge von und nach Dresden die südlichen Rampen im Gegenverkehr befahren mussten. Ab 1962 wurde auch dieser Abschnitt zweibahnig ausgebaut. Das ist ein Hinweis dafür, dass sich die Strecke über Jahrzehnte verändert hat und ältere Erinnerungen nicht mehr passen. Mehr im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A13</h2>
+<ul class="ticks">
+<li>Richtung: Berlin/Schönefeld oder Dresden.</li>
+<li>Letzte oder nächste Anschlussstelle (Bestensee, Teupitz, Lübbenau/Spreewald, Freienhufen, Ruhland, Ortrand, Radeburg).</li>
+<li>Dreieck Spreewald oder Dreieck Dresden-Nord.</li>
+<li>Raststätte oder Parkplatz mit Name.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A13</h2>
+<details><summary>Wo beginnt und endet die A13?</summary><div>Am Schönefelder Kreuz am Berliner Ring und am Dreieck Dresden-Nord an der A4.</div></details>
+<details><summary>Wie komme ich von der A13 nach Cottbus?</summary><div>Über die A15, die am Dreieck Spreewald abzweigt.</div></details>
+<details><summary>Welche Anschlussstellen hat die A13?</summary><div>Unter anderem Bestensee, Mittenwalde, Teupitz, Lübbenau/Spreewald, Freienhufen, Ruhland, Ortrand und Radeburg.</div></details>
+<details><summary>Wann wurde die A13 gebaut?</summary><div>Erste Abschnitte 1938, die zweite Fahrbahn zwischen Ortrand und Ruhland 1939.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a17 | Pannenhilfe auf der A17: Dresden, Pirna, Erzgebirge, Prag | Panne auf der A17 von Dresden über Pirna und das Erzgebirge nach Tschechien: Lockwitztalbrücke, sieben große Brücken, Nollendorfer Pass. | page ===
+<!--AREAS: A17, Dresden, Heidenau, Pirna, Bad Gottleuba, Erzgebirge, Nollendorfer Pass, Prag -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A17</h1><p class="lead">Die A17 zweigt bei Wilsdruff von der A4 ab, umgeht Dresden im Süden und führt über das Erzgebirge nach Tschechien. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Südlicher Rand des Dresdner Elbtals</h2>
+<p>Die A17 zweigt östlich von Wilsdruff von der A4 ab und verläuft in südöstlicher Richtung am Südrand der Dresdner Elbtalweitung. Dabei quert sie auf sieben jeweils über 100 Meter langen Brücken einige der vom Osterzgebirgsvorland verlaufenden Flüsse in ihren Kerbtälern. Die längste dieser Brücken ist die 723 Meter lange und 64 Meter hohe Lockwitztalbrücke. Durch die stadtnahe Lage am Rand von Dresden wirkt die A17 im Abschnitt bis Pirna als Umgehung von Dresden und Heidenau und dient stark dem regionalen, auf Dresden ausgerichteten Verkehr. Bei einer Panne auf einer der Brücken gilt: Warnblinker, Warnweste, hinter die Leitplanke, mehr im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>. Mehr auf <a href="stadt-dresden.html">Abschleppdienst Dresden</a> und <a href="autobahn-a4.html">Panne auf der A4</a>.</p>
+<h2>Über das Erzgebirge nach Tschechien</h2>
+<p>Ab Pirna schwenkt die Trasse nach Süden und folgt auf der Hochfläche zwischen Seidewitztal und Bahretal den historischen Verkehrsführungen des Kulmer Steigs und der Alten Dresden-Teplitzer Poststraße. Die A17 quert das Erzgebirge an seiner niedrigsten Stelle am (bereits im tschechischen Teil liegenden) Nollendorfer Pass. Auf deutscher Seite erreicht sie ihren höchsten Punkt mit rund 590 Metern an der Grenzbrücke über den Schönwalder Bach. Auf dieser Höhe sind Wetterwechsel möglich, das sollten Sie bei einer Panne im Winter berücksichtigen, mehr im <a href="ratgeber-winterpanne-schwarzwald.html">Ratgeber Winterpanne</a>.</p>
+<h2>Vierstreifig mit Standstreifen</h2>
+<p>Die Autobahn ist durchgehend wenigstens vierstreifig plus Standstreifen und hat einen Regelquerschnitt von 29,5 Metern, auf Großbrücken von 29,0 Metern. Das heißt für Sie: In der Regel ist ein Standstreifen vorhanden, auf dem Sie sich sichern können. Die Planung der Verbindung nach Prag reicht weit zurück, ab Ende der 1960er Jahre wurde sie in der DDR wieder ins Auge gefasst, Ende der 1970er Jahre wurde am Stadtrand von Dresden eine südliche Trassenführung, ähnlich der heutigen, beschlossen. Der Name A17 war Anfang der 1990er Jahre ursprünglich für eine andere Autobahn von Bautzen nach Zittau vorgesehen.</p>
+<h2>So nennen Sie Ihren Standort auf der A17</h2>
+<ul class="ticks">
+<li>Richtung: Dresden/Wilsdruff oder Tschechien/Prag.</li>
+<li>Letzte oder nächste Anschlussstelle, Pirna, Heidenau oder Bad Gottleuba.</li>
+<li>Brücke: Lockwitztalbrücke oder andere Talbrücke.</li>
+<li>Bei Grenznähe: ob Sie noch auf deutscher Seite stehen.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A17</h2>
+<details><summary>Wo zweigt die A17 von der A4 ab?</summary><div>Östlich von Wilsdruff.</div></details>
+<details><summary>Wie lang ist die Lockwitztalbrücke?</summary><div>723 Meter lang und 64 Meter hoch.</div></details>
+<details><summary>Wo überquert die A17 das Erzgebirge?</summary><div>An seiner niedrigsten Stelle am Nollendorfer Pass, auf deutscher Seite mit dem höchsten Punkt von rund 590 Metern.</div></details>
+<details><summary>Hat die A17 einen Standstreifen?</summary><div>Sie ist durchgehend mindestens vierstreifig plus Standstreifen.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a38 | Pannenhilfe auf der A38: Südharzautobahn Göttingen bis Leipzig | Panne auf der A38 zwischen Göttingen, Nordhausen, Halle und Leipzig: Heidkopftunnel, Eichsfeldautobahn, Südharzautobahn, Dreieck Parthenaue. | page ===
+<!--AREAS: A38, Göttingen, Heiligenstadt, Nordhausen, Sangerhausen, Eisleben, Halle, Leipzig -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A38</h1><p class="lead">Die A38, die Südharzautobahn, führt von der A7 bei Göttingen nach Halle und Leipzig. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Südharzautobahn</h2>
+<p>Die A38 zweigt von der A7 südlich von Göttingen ab und führt als Südharzautobahn (Südharztangente) über Heiligenstadt, Leinefelde-Worbis, Nordhausen, Sangerhausen und Lutherstadt Eisleben in den Raum Halle und Leipzig. Dort kreuzt sie die A9 und mündet am Dreieck Parthenaue bei Naunhof in die A14, sie ist damit Teil der Mitteldeutschen Schleife. Die A38 ist das Verkehrsprojekt Deutsche Einheit Nr. 13 und ist seit dem 22. Dezember 2009 vollständig befahrbar. Sie soll gemeinsam mit der A7 und der A44 eine weitere Verbindung Leipzig/Halle–Ruhrgebiet bilden und damit die A2 teilweise entlasten. Die Gesamtlänge beläuft sich auf rund 219 Kilometer. Mehr auf <a href="stadt-goettingen.html">Abschleppdienst Göttingen</a>, <a href="stadt-halle.html">Abschleppdienst Halle</a> und <a href="stadt-leipzig.html">Abschleppdienst Leipzig</a>.</p>
+<h2>Viele Namen für dieselbe Autobahn</h2>
+<p>Im Volksmund haben sich für die A38 viele Bezeichnungen etabliert: Zubringer Friedland für den Abschnitt vom Dreieck Drammetal bis zur Anschlussstelle Friedland, Eichsfeldautobahn für den Abschnitt zwischen Heidkopftunnel und Höllbergtunnel, Südharzautobahn oder Südharztangente ab der Anschlussstelle Bleicherode, Südumfahrung Halle für den Abschnitt zwischen Dreieck Halle-Süd und Kreuz Rippachtal. Wenn Sie uns Ihren Standort nennen, hilft die Nummer A38 zusammen mit der Anschlussstelle, denn Radio oder Verkehrsmeldungen verwenden oft die Volksnamen.</p>
+<h2>Heidkopftunnel an der Landesgrenze</h2>
+<p>Der 1.724 Meter lange Heidkopftunnel, benannt „Tunnel der Deutschen Einheit“, ist der längste Tunnel der Strecke und unterquert die Grenze zwischen Thüringen und Niedersachsen. Bei einer Panne im Tunnel gilt: Warnblinker, Notrufeinrichtung nutzen, mehr im <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>. Mehr auf <a href="autobahn-a7.html">Panne auf der A7</a>, <a href="autobahn-a14.html">Panne auf der A14</a> und <a href="autobahn-a9.html">Panne auf der A9</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A38</h2>
+<ul class="ticks">
+<li>Richtung: Göttingen oder Leipzig/Halle.</li>
+<li>Bundesland: Niedersachsen, Thüringen, Sachsen-Anhalt oder Sachsen.</li>
+<li>Letzte oder nächste Anschlussstelle, Dreieck Drammetal, Kreuz Rippachtal oder Dreieck Parthenaue.</li>
+<li>Im Heidkopftunnel: Fahrtrichtung.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A38</h2>
+<details><summary>Wo beginnt und endet die A38?</summary><div>Südlich von Göttingen an der A7 und am Dreieck Parthenaue bei Naunhof an der A14.</div></details>
+<details><summary>Seit wann ist die A38 durchgehend befahrbar?</summary><div>Seit dem 22. Dezember 2009.</div></details>
+<details><summary>Wie lang ist der Heidkopftunnel?</summary><div>1.724 Meter, er unterquert die Grenze zwischen Thüringen und Niedersachsen.</div></details>
+<details><summary>Was ist die Südharztangente?</summary><div>Ein anderer Name für die Südharzautobahn, teils für die ganze A38 verwendet.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a67 | Pannenhilfe auf der A67: Rüsselsheim, Darmstadt, Viernheim | Panne auf der A67 zwischen Mönchhof-Dreieck, Darmstadt und Viernheimer Dreieck: 58 Kilometer parallel zur A5, Darmstädter Kreuz, A672, Geschichte. | page ===
+<!--AREAS: A67, Rüsselsheim, Groß-Gerau, Darmstadt, Pfungstadt, Gernsheim, Lorsch, Viernheim -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A67</h1><p class="lead">Die A67 verläuft 58 Kilometer parallel zur A5 vom Mönchhof-Dreieck über Darmstadt zum Viernheimer Dreieck. Nennen Sie uns Richtung und Kreuz, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Alternative zur A5</h2>
+<p>Die A67 ist 58 Kilometer lang und führt vom Mönchhof-Dreieck bei Rüsselsheim über Darmstadt zum Viernheimer Dreieck bei Mannheim. Im Wesentlichen verläuft sie parallel zur A5 und dient als alternative Route zwischen dem Rhein-Main- und dem Rhein-Neckar-Gebiet. Bis auf das Teilstück südlich von Lorsch mit sechs Fahrstreifen ist sie größtenteils vierstreifig befahrbar. Wenn Sie an der A67 liegen bleiben, nennen Sie uns die Autobahn, weil die A5 nur wenige Kilometer entfernt liegt und Verwechslungen möglich sind. Mehr auf <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>, <a href="stadt-darmstadt.html">Abschleppdienst Darmstadt</a> und <a href="stadt-mannheim.html">Abschleppdienst Mannheim</a>.</p>
+<h2>Von Rüsselsheim nach Darmstadt</h2>
+<p>Die A67 zweigt am Mönchhof-Dreieck westlich des Frankfurter Flughafens von der A3 in südliche Richtung ab und führt durch den Mönchbruch östlich an Rüsselsheim vorbei. Am Rüsselsheimer Dreieck mündet die A60 aus Richtung Mainz ein, die A67 führt in südöstlicher Richtung über Groß-Gerau und Büttelborn in Richtung Darmstadt. Am Griesheimer Dreieck zweigt die nur rund 2,5 Kilometer lange A672 ab, die auf die B26 führt und einen Anschluss ins Darmstädter Stadtgebiet bildet. Direkt danach folgt das Darmstädter Kreuz mit der A5. Mehr auf <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="stadt-mainz.html">Abschleppdienst Mainz</a>.</p>
+<h2>Südlich von Darmstadt: lange Geraden</h2>
+<p>Südlich von Darmstadt ist die Streckenführung durch lange Geraden gekennzeichnet. Die A5 verläuft nur einige Kilometer weiter östlich am Rand der Bergstraße, die A67 bindet die westlich gelegenen Städte am Rhein an. An Pfungstadt, Gernsheim und Lorsch vorbei geht es größtenteils durch Waldgebiete, ehe die Autobahn am Viernheimer Dreieck in die A6 übergeht: Die aus Richtung Saarbrücken kommende Strecke mündet in die Trasse der A67 ein und führt auf dieser weiter nach Süden an Mannheim vorbei. Auf Waldabschnitten mit langen Geraden nennen Sie uns bitte Kilometerstein oder Parkplatz. Mehr auf <a href="autobahn-a6.html">Panne auf der A6</a>.</p>
+<h2>Älteste Reichsautobahn</h2>
+<p>Der südliche Teil zwischen Darmstadt und Mannheim wurde 1935 eröffnet und war Bestandteil der ältesten Reichsautobahn in Deutschland. Er geht auf eine Planung des Vereins HaFraBa zurück, der ab Ende 1926 eine Fernstraßenverbindung von den Hansestädten über Frankfurt nach Basel entwarf. Der nördliche Teil zwischen Mönchhof-Dreieck und Darmstadt entstand in den 1960er Jahren als Eckverbindung zur A3 in Richtung Köln unter Umgehung des Frankfurter Kreuzes.</p>
+<h2>So nennen Sie Ihren Standort auf der A67</h2>
+<ul class="ticks">
+<li>Richtung: Rüsselsheim/Frankfurt oder Viernheim/Mannheim.</li>
+<li>Kreuz oder Dreieck: Mönchhof, Rüsselsheim, Griesheim, Darmstädter Kreuz, Viernheim.</li>
+<li>Ob Sie auf der A67 oder der A5 stehen.</li>
+<li>Parkplatz oder Kilometerstein.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A67</h2>
+<details><summary>Wie lang ist die A67?</summary><div>58 Kilometer, vom Mönchhof-Dreieck bis zum Viernheimer Dreieck.</div></details>
+<details><summary>Welche Autobahn verläuft parallel?</summary><div>Die A5, die A67 dient als alternative Route.</div></details>
+<details><summary>Was ist die A672?</summary><div>Eine rund 2,5 Kilometer lange Zufahrt am Griesheimer Dreieck, die auf die B26 führt.</div></details>
+<details><summary>Wann wurde der südliche Teil eröffnet?</summary><div>1935, als Bestandteil der ältesten Reichsautobahn Deutschlands.</div></details>
+</div></section>
+@@CTA@@

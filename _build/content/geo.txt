@@ -153,3 +153,7 @@ autobahn-a92	A92 München bis Deggendorf	A92
 autobahn-a93	A93 Hof bis Kiefersfelden	A93	
 autobahn-a94	A94 München bis Burghausen	A94	
 autobahn-a96	A96 Lindau bis München	A96	
+autobahn-a13	A13 Schönefeld bis Dresden	A13	
+autobahn-a17	A17 Dresden bis Tschechien	A17	
+autobahn-a38	A38 Göttingen bis Leipzig	A38	
+autobahn-a67	A67 Rüsselsheim bis Viernheim	A67	

@@ -298,3 +298,8 @@ autobahn-a93	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im
 autobahn-a94	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a96	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a96	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Kohlbergtunnel
+autobahn-a13	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a17	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a38	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a67	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a38	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Heidkopftunnel
