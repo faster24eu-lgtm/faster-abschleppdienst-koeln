@@ -208,6 +208,10 @@
 <p>Wolfenbüttel ist mit vier Anschlussstellen der A36 an das deutsche Autobahnnetz angeschlossen, außerdem verläuft die B79 durch die Stadt. Die B4 führte ursprünglich durch Wolfenbüttel, wurde aber beim Bau der A395, der heutigen A36, in diesem Bereich aufgehoben, abschnittsweise zur B79 umgewidmet oder heruntergestuft und im Okertal auf Landstraßenniveau zurückgebaut. Ältere Karten zeigen daher noch die B4. Bei einer Panne auf der A36 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a36.html">Panne auf der A36</a>.</p>
 <h2>Wald und Ortschaften</h2>
 <p>Mit 1.191 Hektar haben Waldflächen den größten Flächenanteil im Stadtgebiet. Wenn Sie an einer Straße im Wald oder zwischen Ortschaften liegen bleiben, nennen Sie uns den nächsten Ort und die Straße.</p>
+<h2>Sieben Stadtteile der Kernstadt</h2>
+<p>Die Kernstadt ist in sieben Stadtteile oder städtische Bezirke untergliedert. Im Bereich der Altstadt liegen die Auguststadt im Westen, die Heinrichstadt im Zentrum und die Juliusstadt im Osten, dazu kommen Kurzes Holz im Nordosten und Rote Schanze im Südosten. Die Auguststadt ließ Herzog August der Jüngere 1652 als Handwerker- und Soldatensiedlung errichten. Nennen Sie uns bei einer Panne, in welchem dieser Stadtteile Sie stehen, denn Straßennamen können sich wiederholen.</p>
+<h2>Herzog August Bibliothek und Lessingstadt</h2>
+<p>Als Bibliothekare der Herzog August Bibliothek wirkten Gottfried Wilhelm Leibniz und Gotthold Ephraim Lessing, der hier das Drama „Nathan der Weise“ verfasste, weshalb die Stadt auch als Lessingstadt bezeichnet wird. Die Altstadt liegt auf einer mittleren Höhe von 77 Metern über NHN, gemessen am Bahnhof. Wenn Sie an der Bibliothek oder in der Altstadt liegen bleiben, nennen Sie uns Straße und Hausnummer.</p>
 <h2>So nennen Sie Ihren Standort in Wolfenbüttel</h2>
 <ul class="ticks">
 <li>Ortschaft, Straße, Hausnummer oder Querstraße.</li>
