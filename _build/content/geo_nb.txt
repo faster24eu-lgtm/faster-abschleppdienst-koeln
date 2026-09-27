@@ -48,3 +48,11 @@ stadt-saarbruecken	kaiserslautern,trier,mannheim,ludwigshafen,heidelberg,koblenz
 stadt-muelheim	essen,duisburg,oberhausen,bochum,duesseldorf,gelsenkirchen,bottrop,wuppertal	a3
 stadt-potsdam	berlin,brandenburg-an-der-havel,cottbus,magdeburg,leipzig,dresden,frankfurt-oder	a9,a2
 stadt-ludwigshafen	mannheim,heidelberg,worms,speyer,kaiserslautern,darmstadt,mainz,karlsruhe	a6,a61,a5
+stadt-oldenburg	bremen,wilhelmshaven,emden,osnabrueck,delmenhorst,bremerhaven,leer,cloppenburg	
+stadt-leverkusen	index,duesseldorf,bergisch-gladbach,solingen,wuppertal,monheim,neuss,bonn	a3
+stadt-osnabrueck	muenster,bielefeld,bremen,oldenburg,rheine,guetersloh,hannover,paderborn	a3
+stadt-solingen	wuppertal,remscheid,leverkusen,duesseldorf,hilden,langenfeld,index,haan	a3
+stadt-heidelberg	mannheim,ludwigshafen,karlsruhe,darmstadt,heilbronn,worms,speyer,frankfurt	a5,a6
+stadt-herne	bochum,gelsenkirchen,recklinghausen,essen,dortmund,witten,castrop-rauxel,hagen	
+stadt-rostock	luebeck,schwerin,kiel,stralsund,greifswald,wismar,hamburg,berlin	
+stadt-neuss	duesseldorf,krefeld,moenchengladbach,leverkusen,index,duisburg,solingen,wuppertal	a3

@@ -67,3 +67,11 @@ stadt-saarbruecken	Saarbrücken	Saarland
 stadt-muelheim	Mülheim an der Ruhr	Nordrhein-Westfalen	
 stadt-potsdam	Potsdam	Brandenburg	
 stadt-ludwigshafen	Ludwigshafen am Rhein	Rheinland-Pfalz	
+stadt-oldenburg	Oldenburg	Niedersachsen	
+stadt-leverkusen	Leverkusen	Nordrhein-Westfalen	
+stadt-osnabrueck	Osnabrück	Niedersachsen	
+stadt-solingen	Solingen	Nordrhein-Westfalen	
+stadt-heidelberg	Heidelberg	Baden-Württemberg	
+stadt-herne	Herne	Nordrhein-Westfalen	
+stadt-rostock	Rostock	Mecklenburg-Vorpommern	
+stadt-neuss	Neuss	Nordrhein-Westfalen	
