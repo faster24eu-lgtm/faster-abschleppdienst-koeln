@@ -108,3 +108,7 @@ stadt-frankfurt-oder	berlin,potsdam,cottbus,brandenburg-an-der-havel,goerlitz	a1
 stadt-plauen	chemnitz,jena,erfurt,gera,nuernberg,bayreuth,dresden	a9,a4
 stadt-weimar	erfurt,jena,halle,eisenach,leipzig,magdeburg	a4,a9
 stadt-eisenach	erfurt,weimar,kassel,jena,fulda,goettingen	a4,a7
+stadt-zwickau	chemnitz,plauen,gera,leipzig,jena,dresden,erfurt	a4,a72
+stadt-gera	jena,leipzig,zwickau,erfurt,chemnitz,plauen,weimar,halle	a4,a9
+stadt-esslingen	stuttgart,reutlingen,ludwigsburg,tuebingen,ulm,heilbronn,pforzheim	a8,a81
+stadt-tuebingen	reutlingen,stuttgart,esslingen,ulm,pforzheim,freiburg,ludwigsburg	a81,a8

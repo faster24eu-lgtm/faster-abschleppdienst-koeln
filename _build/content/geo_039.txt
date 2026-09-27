@@ -1,0 +1,113 @@
+=== stadt-zwickau | Abschleppdienst Zwickau: Pannenhilfe A4, A72, B93, B173 | Pannenhilfe und Abschleppen in Zwickau: fünf Stadtbezirke, A4-Anschlussstelle Zwickau-Nord, A72 Zwickau-West und -Ost, Schnellstraße B93 und B173. | page ===
+<!--AREAS: Zwickau, Zwickau-Cainsdorf, Zwickau-Planitz, Zwickau-Eckersbach, Zwickau-Oberhohndorf, Zwickau-Crossen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Zwickau</p><h1>Abschleppdienst Zwickau</h1><p class="lead">Zwickau liegt in Südwestsachsen zwischen der A4 im Norden und der A72 im Süden. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Viertgrößte Stadt Sachsens</h2>
+<p>Zwickau ist mit über 87.000 Einwohnern die viertgrößte Stadt in Sachsen und ein Oberzentrum im südwestlichen Teil des Landes. Fast 800 Jahre lang wurde hier und in der umliegenden Region Steinkohle abgebaut. Heute ist das Stadtgebiet in fünf Stadtbezirke eingeteilt, jeder besteht aus bis zu neun Stadtteilen, insgesamt sind es 35. Die in den 1990er Jahren eingegliederten Stadtteile Rottmannsdorf, Cainsdorf, Mosel, Oberrothenbach und Schlunzig sind zugleich Ortschaften. Nennen Sie uns bei einer Panne Stadtteil und Straße, zum Beispiel Cainsdorf oder Crossen.</p>
+<h2>A4 und B93: Anschlussstelle Meerane/Zwickau-Nord</h2>
+<p>Aus Richtung Norden verlässt man an der Anschlussstelle 62 (Meerane/Zwickau-Nord) die A4. Aus dieser Richtung ist die Stadt über die B93 zu erreichen. Direkt nach der Ausfahrt folgt die B93-Anschlussstelle zum Volkswagenwerk Zwickau. Die zwischen der Anschlussstelle 62 der A4 und der Anschlussstelle 11 der A72 (Zwickau-Ost) durch die Stadt verlaufende B93-Querverbindung ist eine Schnellstraße. Nennen Sie uns Ihre Ausfahrt und die Fahrtrichtung. Mehr auf <a href="autobahn-a4.html">Panne auf der A4</a> und <a href="stadt-chemnitz.html">Abschleppdienst Chemnitz</a>.</p>
+<h2>A72 und Bundesstraßen</h2>
+<p>Vom Süden her gelangt man über die Anschlussstellen 10 (Zwickau-West) und 11 (Zwickau-Ost) der A72 ins Stadtzentrum, das über die ausgebauten Neubaustrecken der B173 und der B93 in wenigen Minuten erreichbar ist. Durch Zwickau verlaufen drei Bundesstraßen, darunter die B173 Hof–Plauen–Zwickau–Chemnitz–Dresden. Wenn Sie an einer dieser Straßen liegen bleiben, sagen Sie uns Straße, Fahrtrichtung und Querstraße. Mehr auf <a href="autobahn-a72.html">Panne auf der A72</a> und <a href="stadt-plauen.html">Abschleppdienst Plauen</a>.</p>
+<h2>Automobilstadt</h2>
+<p>Zwickau hat eine lange Automobilgeschichte: Von 1934 bis 1940 wurden im Werk Horch die Auto-Union-Rennwagen entwickelt. Wenn Ihr Auto ein Oldtimer oder ein Fahrzeug mit besonderem Wert ist, sagen Sie uns das bitte, weil die Art des Abschleppens dann angepasst werden muss.</p>
+<h2>So nennen Sie Ihren Standort in Zwickau</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf A4 oder A72: Richtung und Anschlussstelle (62, 10 oder 11).</li>
+<li>Auf B93 oder B173: Fahrtrichtung, Querstraße.</li>
+<li>Am Volkswagenwerk: Zufahrt oder Anschlussstelle.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-gera.html">Gera</a> und <a href="stadt-jena.html">Jena</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Zwickau</h2>
+<details><summary>Wie viele Stadtbezirke hat Zwickau?</summary><div>Fünf Stadtbezirke mit insgesamt 35 Stadtteilen.</div></details>
+<details><summary>Welche Anschlussstellen führen nach Zwickau?</summary><div>Von der A4 die Anschlussstelle 62 (Meerane/Zwickau-Nord), von der A72 die Anschlussstellen 10 (Zwickau-West) und 11 (Zwickau-Ost).</div></details>
+<details><summary>Was ist die B93-Querverbindung?</summary><div>Eine Schnellstraße zwischen der Anschlussstelle 62 der A4 und der Anschlussstelle 11 der A72.</div></details>
+<details><summary>Wie viele Einwohner hat Zwickau?</summary><div>Über 87.000.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-gera | Abschleppdienst Gera: Pannenhilfe A4, B2, B7, B92 | Pannenhilfe und Abschleppen in Gera: 28 Ortsteile, Weiße Elster, A4 mit Gera-Langenberg, Geraer Kreuz und Gera-Leumnitz, B2, B7, B92 und Umfahrung. | page ===
+<!--AREAS: Gera, Gera-Langenberg, Gera-Leumnitz, Gera-Untermhaus, Gera-Lusan, Gera-Cretzschwitz -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gera</p><h1>Abschleppdienst Gera</h1><p class="lead">Gera liegt an der Weißen Elster in Ostthüringen, die A4 verläuft durch das nördliche Stadtgebiet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Dritte Stadt Thüringens</h2>
+<p>Gera ist eine kreisfreie Hochschulstadt im Osten Thüringens. Hinter Erfurt und Jena steht sie mit 95.608 Einwohnern (31. Dezember 2024) an dritter Stelle im Freistaat und ist eines der Oberzentren. Gera liegt im Norden des Vogtlands an der Weißen Elster in etwa 200 Metern Höhe, Leipzig liegt etwa 60 Kilometer nördlich, Erfurt 80 Kilometer westlich. Das Stadtgebiet umfasst 28 Ortsteile mit jeweils einem Ortsteilrat und einem Ortsteilbürgermeister, zudem ist es in 72 Gemeindeteile unterteilt, die zu zwölf Statistischen Bezirken zusammengefasst sind. Nennen Sie uns bei einer Panne Ortsteil und Straße. Die Innenstadt umfasst die Altstadt und das Ostviertel und wird im Westen von der Weißen Elster und im Nordwesten vom Hauptbahnhof begrenzt.</p>
+<h2>A4: drei Anschlussstellen</h2>
+<p>Durch das nördliche Stadtgebiet führt in West-Ost-Richtung die A4 (Aachen–Görlitz) mit den Anschlussstellen Gera-Langenberg und Gera-Leumnitz. Die dazwischen liegende Anschlussstelle Geraer Kreuz wurde am 21. April 2007 für den Verkehr freigegeben. Nach der Wende entstand im Norden an der Autobahn ein neues Industriegebiet. Wenn Sie an der A4 liegen bleiben, nennen Sie uns Fahrtrichtung und die Ausfahrt. Mehr auf <a href="autobahn-a4.html">Panne auf der A4</a>, <a href="stadt-jena.html">Abschleppdienst Jena</a> und <a href="stadt-erfurt.html">Abschleppdienst Erfurt</a>.</p>
+<h2>B2, B7, B92 und die östliche Umfahrung</h2>
+<p>Ferner führen die Bundesstraßen B2, B7 und B92 durch Gera. Die östliche Umfahrung der Stadt zweigt im Norden beim Stadtteil Cretzschwitz von der B2 ab, quert die A4 bei der neuen Anschlussstelle Gera und mündet beim Stadtteil Leumnitz in die Südosttangente. Sie wurde 2007 zusammen mit dem Geraer Kreuz übergeben. Weitere Straßenneubauten entstanden im Zusammenhang mit der Bundesgartenschau 2007 im Stadtzentrum. Wenn Sie auf der Umfahrung liegen bleiben, sagen Sie uns Ortsteil und Fahrtrichtung. Mehr auf <a href="stadt-zwickau.html">Abschleppdienst Zwickau</a> und <a href="stadt-plauen.html">Abschleppdienst Plauen</a>.</p>
+<h2>So nennen Sie Ihren Standort in Gera</h2>
+<ul class="ticks">
+<li>Ortsteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf der A4: Richtung, Anschlussstelle (Langenberg, Geraer Kreuz, Leumnitz).</li>
+<li>Auf B2, B7 oder B92: Fahrtrichtung.</li>
+<li>Bei Umfahrung: Ortsteil Cretzschwitz oder Leumnitz.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-leipzig.html">Leipzig</a> und <a href="stadt-chemnitz.html">Chemnitz</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Gera</h2>
+<details><summary>Wie viele Ortsteile hat Gera?</summary><div>28 Ortsteile, dazu 72 Gemeindeteile in zwölf Statistischen Bezirken.</div></details>
+<details><summary>Welche A4-Anschlussstellen hat Gera?</summary><div>Gera-Langenberg, Geraer Kreuz und Gera-Leumnitz.</div></details>
+<details><summary>Wann wurde das Geraer Kreuz eröffnet?</summary><div>Am 21. April 2007.</div></details>
+<details><summary>Welche Bundesstraßen führen durch Gera?</summary><div>B2, B7 und B92.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-esslingen | Abschleppdienst Esslingen am Neckar: Pannenhilfe A8, B10 | Pannenhilfe und Abschleppen in Esslingen am Neckar: 24 Stadtteile, Neckartal, B10 vierspurig, A8-Anschlussstelle Esslingen und Nähe zu Stuttgart. | page ===
+<!--AREAS: Esslingen am Neckar, Esslingen-Zell, Esslingen-Mettingen, Esslingen-Oberesslingen, Esslingen-Berkheim, Plochingen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Esslingen am Neckar</p><h1>Abschleppdienst Esslingen am Neckar</h1><p class="lead">Esslingen liegt etwa zehn Kilometer südöstlich von Stuttgart im Neckartal an der B10 und der A8. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Große Kreisstadt in der Region Stuttgart</h2>
+<p>Esslingen am Neckar ist eine Große Kreisstadt mit 95.419 Einwohnern (31. Dezember 2025) im Landkreis Esslingen und hinsichtlich der Bevölkerung die zehntgrößte Stadt Baden-Württembergs. Sie liegt mitten in der Region Stuttgart etwa zehn Kilometer südöstlich der Stadt Stuttgart. Sie besteht aus 24 Stadtteilen, darunter Berkheim, Brühl, Hegensberg, Hohenkreuz, Innenstadt, Kennenburg, Mettingen, Oberesslingen, Obertal, Pliensauvorstadt, Rüdern, Serach, Sirnau, Sulzgries, Wäldenbronn, Weil, Wiflingshausen, Zell und Zollberg. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-stuttgart.html">Abschleppdienst Stuttgart</a>.</p>
+<h2>Enge im Neckartal</h2>
+<p>Esslingen am Neckar liegt an einer Engstelle des Neckartals südöstlich von Stuttgart. Der Fluss durchquert das Stadtgebiet von Südosten nach Nordwesten, wobei die Altstadt nördlich davon liegt. Hier befindet sich auch die Staustufe Esslingen. Die Stadt greift im Osten in den Schurwald aus, dort liegen die Stadtteile an Hängen. Für Ihre Standortangabe heißt das: Nennen Sie uns Stadtteil, Straße und ob es bergauf oder bergab geht.</p>
+<h2>B10 und A8</h2>
+<p>Esslingen liegt direkt an der B10, die von Stuttgart bis Süßen im Landkreis Göppingen vierspurig ausgebaut ist und weiter nach Ulm verläuft. An der A8 von Karlsruhe nach München gibt es die Anschlussstelle Esslingen. Bei einer Panne auf der B10 nennen Sie uns Fahrtrichtung und Querstraße, auf der A8 Richtung und Anschlussstelle. Mehr auf <a href="autobahn-a8.html">Panne auf der A8</a>, <a href="stadt-ulm.html">Abschleppdienst Ulm</a> und <a href="stadt-reutlingen.html">Abschleppdienst Reutlingen</a>.</p>
+<h2>Alltag mit Rad und Carsharing</h2>
+<p>Seit 1994 gibt es in Esslingen die Möglichkeit zum Teilen von Kraftfahrzeugen. Über eine Alltagsradroute aus dem Radnetz Baden-Württemberg ist die Stadt über Mettingen mit Stuttgart und über Oberesslingen und Zell mit Plochingen verbunden. Wenn Sie ein Leihfahrzeug fahren, das liegen geblieben ist, nennen Sie uns das bitte, weil Sie den Vermieter oder Anbieter zusätzlich informieren sollten.</p>
+<h2>So nennen Sie Ihren Standort in Esslingen</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf der A8: Richtung und Anschlussstelle Esslingen.</li>
+<li>Auf der B10: Fahrtrichtung und Querstraße.</li>
+<li>Am Hang: bergauf oder bergab.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-ludwigsburg.html">Ludwigsburg</a> und <a href="stadt-reutlingen.html">Reutlingen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Esslingen</h2>
+<details><summary>Wie viele Stadtteile hat Esslingen?</summary><div>24.</div></details>
+<details><summary>Welche Straße führt nach Ulm?</summary><div>Die B10, die von Stuttgart bis Süßen vierspurig ausgebaut ist und weiter nach Ulm verläuft.</div></details>
+<details><summary>Gibt es einen A8-Anschluss?</summary><div>Ja, die Anschlussstelle Esslingen an der A8 Karlsruhe–München.</div></details>
+<details><summary>Wie weit ist es nach Stuttgart?</summary><div>Etwa zehn Kilometer.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-tuebingen | Abschleppdienst Tübingen: Pannenhilfe B27, B28, Schlossbergtunnel | Pannenhilfe und Abschleppen in Tübingen: Universitätsstadt am Neckar ohne Autobahnanschluss, B27 und B28, Schlossbergtunnel. | page ===
+<!--AREAS: Tübingen, Tübingen-Derendingen, Tübingen-Lustnau, Tübingen-Hirschau, Tübingen-Weilheim, Dußlingen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Tübingen</p><h1>Abschleppdienst Tübingen</h1><p class="lead">Tübingen liegt am Neckar rund 30 Kilometer südlich von Stuttgart, ohne unmittelbaren Autobahnanschluss. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Universitätsstadt am Neckar</h2>
+<p>Tübingen ist eine Universitätsstadt im Zentrum Baden-Württembergs, am Neckar rund 30 Kilometer südlich der Landeshauptstadt Stuttgart. Sie ist Sitz des Landkreises Tübingen sowie des gleichnamigen Regierungsbezirks und war von 1947 bis 1952 Landeshauptstadt von Württemberg-Hohenzollern. Die Stadt ist in 23 Stadtteile eingeteilt, darunter zehn äußere Stadtteile, von denen acht bei der Gemeindereform der 1970er Jahre eingegliedert wurden. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-stuttgart.html">Abschleppdienst Stuttgart</a> und <a href="stadt-reutlingen.html">Abschleppdienst Reutlingen</a>.</p>
+<h2>Keine Autobahn, aber zwei wichtige Bundesstraßen</h2>
+<p>Die Stadt hat keinen unmittelbaren Autobahnanschluss. In Tübingen kreuzen sich jedoch die B27 (Schaffhausen–Villingen-Schwenningen–Tübingen–Stuttgart–Heilbronn) und die B28 (Straßburg–Freudenstadt–Tübingen–Reutlingen–Ulm). Die B27 ist in Richtung Norden autobahnähnlich ausgebaut, sodass die A8 bei Stuttgart schnell erreicht werden kann, der vierspurige Ausbau von Derendingen bis Dußlingen wurde im Herbst 2006 fertiggestellt. Zur Entlastung der Südstadt fehlt der Schindhaubasistunnel. Geplant ist, die B28a in Richtung Rottenburg bis zur Anschlussstelle der A81 durchgehend vierspurig auszubauen, das Stück bis zum Hirschauer Knoten wurde im Herbst 2007 vierspurig fertiggestellt. Bei einer Panne auf der B27 oder B28 nennen Sie uns Fahrtrichtung und nächste Ausfahrt. Mehr auf <a href="autobahn-a8.html">Panne auf der A8</a> und <a href="autobahn-a81.html">Panne auf der A81</a>.</p>
+<h2>Schlossbergtunnel und Mühlstraße</h2>
+<p>Wegen der topographischen Verhältnisse gibt es in Tübingen erhebliche Kapazitätsprobleme im innerstädtischen Nord-Süd-Verkehr. Zur westlichen Umgehung der Innenstadt wurde 1979 der vierspurige Schlossbergtunnel im Zuge der B28 in Betrieb genommen. Zur Entlastung der Mühlstraße wurde 1992 eine halbseitige Sperrung für den motorisierten Individualverkehr in Fahrtrichtung Süden eingerichtet. Wenn Sie im Tunnel liegen bleiben: Warnblinker, Notrufeinrichtung, mehr im <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>. In der Mühlstraße und Altstadt nennen Sie uns bitte Straße und Fahrtrichtung.</p>
+<h2>Schnee auf den Höhen</h2>
+<p>Das Stadtklima ist stark durch Erhebungen geprägt: Im Winter ist es keine Seltenheit, dass die am Neckar gelegenen Stadtteile völlig schneefrei sind, während die Höhenlagen eine geschlossene Schneedecke aufweisen. Wenn Sie in den Höhenlagen im Schnee liegen bleiben, nennen Sie uns Stadtteil und ob die Straße geräumt ist, siehe <a href="ratgeber-auto-festgefahren.html">Auto festgefahren</a>.</p>
+<h2>So nennen Sie Ihren Standort in Tübingen</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf B27 oder B28: Fahrtrichtung, nächste Ausfahrt.</li>
+<li>Im Schlossbergtunnel: Fahrtrichtung.</li>
+<li>Am Hang: bergauf oder bergab, Schneelage.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-reutlingen.html">Reutlingen</a> und <a href="stadt-esslingen.html">Esslingen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Tübingen</h2>
+<details><summary>Hat Tübingen einen Autobahnanschluss?</summary><div>Nein, die Stadt liegt an der B27 und B28. Die A8 bei Stuttgart wird über die autobahnähnliche B27 erreicht.</div></details>
+<details><summary>Wie viele Stadtteile hat Tübingen?</summary><div>23, darunter zehn äußere Stadtteile.</div></details>
+<details><summary>Wann wurde der Schlossbergtunnel eröffnet?</summary><div>1979, vierspurig im Zuge der B28.</div></details>
+<details><summary>Kommen Sie auch nach Rottenburg?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@

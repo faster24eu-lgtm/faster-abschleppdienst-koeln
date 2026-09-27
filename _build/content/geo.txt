@@ -157,3 +157,7 @@ autobahn-a13	A13 Schönefeld bis Dresden	A13
 autobahn-a17	A17 Dresden bis Tschechien	A17	
 autobahn-a38	A38 Göttingen bis Leipzig	A38	
 autobahn-a67	A67 Rüsselsheim bis Viernheim	A67	
+stadt-zwickau	Zwickau	Sachsen	
+stadt-gera	Gera	Thüringen	
+stadt-esslingen	Esslingen am Neckar	Baden-Württemberg	
+stadt-tuebingen	Tübingen	Baden-Württemberg	
