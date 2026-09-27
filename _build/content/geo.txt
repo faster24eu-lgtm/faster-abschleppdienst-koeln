@@ -21,3 +21,8 @@ stadt-dortmund	Dortmund	Nordrhein-Westfalen
 stadt-essen	Essen	Nordrhein-Westfalen	
 stadt-leipzig	Leipzig	Sachsen	
 stadt-bremen	Bremen	Bremen	
+autobahn-a7	A7 Flensburg bis Allgäu	A7	ab
+autobahn-a9	A9 Berlin bis München	A9	ab
+autobahn-a3	A3 Niederrhein bis Nürnberg	A3	ab
+autobahn-a5-hessen-baden	A5 Hattenbach bis Basel	A5	ab
+autobahn-a8	A8 Saarland bis Salzburg	A8	ab

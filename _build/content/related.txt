@@ -141,3 +141,8 @@ stadt-dortmund	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte 
 stadt-essen	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Ruhrschnellweg-Tunnel
 stadt-leipzig	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-bremen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a7	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a9	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a3	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a5-hessen-baden	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a8	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
