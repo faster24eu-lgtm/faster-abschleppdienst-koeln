@@ -197,3 +197,8 @@ stadt-zweibruecken	Zweibrücken	Rheinland-Pfalz
 stadt-saarlouis	Saarlouis	Saarland	
 stadt-neunkirchen-saar	Neunkirchen (Saar)	Saarland	
 stadt-moers	Moers	Nordrhein-Westfalen	
+stadt-velbert	Velbert	Nordrhein-Westfalen	
+stadt-minden	Minden	Nordrhein-Westfalen	
+stadt-gladbeck	Gladbeck	Nordrhein-Westfalen	
+stadt-memmingen	Memmingen	Bayern	
+stadt-iserlohn	Iserlohn	Nordrhein-Westfalen	
