@@ -1,0 +1,172 @@
+=== en-stadt-bochum | Towing Service Bochum: Roadside Assistance A40, A43, A448 | Roadside assistance and towing in Bochum: six boroughs, the A40 Ruhrschnellweg with metering lights, the A448 southern bypass, and the A43. | page ===
+<!--AREAS: Bochum, Bochum-Wattenscheid, Bochum-Weitmar, Bochum-Werne, Bochum-Stahlhausen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bochum</p><h1>Towing Service Bochum</h1><p class="lead">Bochum sits at the geographic centre of the Ruhr area, between the A40, A43, and the newer A448 southern bypass. Tell us which route you're on, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>An independent city at the heart of the Ruhr area</h2>
+<p>Bochum lies at the geographic centre of the Ruhr area, on mostly flat ground north of the Ruhr river. The city is divided into six boroughs, split further into districts. In a breakdown, the district name and street help more than the borough, for example Werne, Weitmar, Wattenscheid or Stahlhausen.</p>
+<h2>The A40: once federal road 1</h2>
+<p>The A40 runs as the Ruhrschnellweg centrally through the major Ruhr-area cities. At every exit between Mülheim-Winkhausen and Bochum-Werne, traffic-management systems, so-called "metering lights", control the flow of traffic onto the motorway. Several sections of the A40 in the Ruhr area carry over 100,000 vehicles a day. More at <a href="en-stadt-essen.html">Towing Service Essen</a> and <a href="en-stadt-dortmund.html">Towing Service Dortmund</a>.</p>
+<h2>A448: the southern bypass</h2>
+<p>The A448, commonly called the Bochum southern bypass, is a city motorway connecting the A40 at the Bochum-West triangle with the A45 at the Dortmund/Witten triangle, relieving the parallel A40 as part of the "Bochum solution" project. Sections of the former Bochum outer ring were renamed as the A448. Its exits include Bochum-West (formerly Wattenscheider Straße), Bochum-Stahlhausen (formerly Kohlenstraße), Bochum-Eppendorf (formerly Schützenstraße), Bochum-Weitmar (formerly Wasserstraße), Bochum-Süd (formerly Königsallee), and Bochum-Wiemelhausen. Because the names have changed, many drivers still know the old street names. If in doubt, tell us both.</p>
+<h2>A43: Münster–Wuppertal</h2>
+<p>The A43 starts at the Münster-Süd interchange and runs via Recklinghausen to the Wuppertal-Nord interchange, crossing the western Münsterland and the Ruhr area, serving as a relief route for the A1. Because of bridge damage on the Emschertal bridge near Herne, the A43 between the Recklinghausen and Herne interchanges currently only allows vehicles up to a 3.5-tonne gross weight limit. Heavier vehicles must divert via the A2, A45 and A42. If you're in a van or truck, tell us the gross weight limit so the callout can be planned accordingly. More in our guide <a href="en-ratgeber-transporter-abschleppen.html">Towing a van</a>.</p>
+<h2>What we do in Bochum</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Bochum and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Bochum</h2>
+<p>On the A40, A43 or A448: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. At an A40 metering light: hazard lights on and, if possible, wait on the hard shoulder before the light rather than in the middle of the queue. With a van or truck on the A43: have the gross weight ready in case a diversion is needed.</p>
+<h2>Where it often happens in Bochum</h2>
+<p>At the A40's metering lights, traffic regularly backs up onto the feeder roads. At the Bochum-West triangle, where the A448 meets the A40, traffic is denser because of lane changes. On the A43 between the Recklinghausen and Herne interchanges, the weight restriction often causes short-notice diversions for heavier vehicles.</p>
+<h2>How to describe your location in Bochum</h2>
+<ul class="ticks">
+<li>District and street, plus house number or cross street.</li>
+<li>On the A40, A43 or A448: motorway, direction, exit, triangle or interchange (old and new name, if known).</li>
+<li>For vans and trucks: gross weight limit, because of the A43 restriction.</li>
+<li>At A40 metering lights: exit and direction of travel.</li>
+</ul>
+<p>Neighbouring cities in the Ruhr area: <a href="en-stadt-dortmund.html">Dortmund</a>, <a href="en-stadt-essen.html">Essen</a> and <a href="en-stadt-duisburg.html">Duisburg</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German). General steps: <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Bochum</h2>
+<details><summary>Can you take my car from Bochum to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Bochum. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>What is the A448?</summary><div>The Bochum southern bypass, a city motorway between the Bochum-West triangle on the A40 and the Dortmund/Witten triangle on the A45. It relieves the A40.</div></details>
+<details><summary>What are metering lights?</summary><div>Traffic-management systems at A40 exits between Mülheim-Winkhausen and Bochum-Werne that control the flow of traffic onto the motorway.</div></details>
+<details><summary>Is there a weight restriction on the A43?</summary><div>Between the Recklinghausen and Herne interchanges, a 3.5-tonne gross weight limit applies because of damage to the Emschertal bridge. Check traffic radio for current rules.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-wuppertal | Towing Service Wuppertal: Roadside Assistance A46, A1, Tunnel | Roadside assistance and towing in Wuppertal: ten boroughs, the suspension railway, the A46, A1, A43, and the L418 with its tunnel. | page ===
+<!--AREAS: Wuppertal, Wuppertal-Elberfeld, Wuppertal-Barmen, Wuppertal-Vohwinkel, Wuppertal-Ronsdorf -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wuppertal</p><h1>Towing Service Wuppertal</h1><p class="lead">Wuppertal stretches along a valley on the Wupper river, with motorways to the north, gradients, and tunnels. Tell us which district and street you're on, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ten boroughs and two old town centres</h2>
+<p>The city is divided into ten boroughs. Its two historic centres are Elberfeld and Barmen, linked by the B7, the city's main traffic axis. Tell us the district, for example Elberfeld, Barmen, Vohwinkel, Ronsdorf or Langerfeld, plus the street. Streets follow the hillside, so parallel streets can sit at different elevations.</p>
+<h2>The suspension railway: a landmark, not a route</h2>
+<p>The Wuppertal Schwebebahn is an elevated railway with 20 stations, a landmark and an important point of reference. If you break down near a station, tell us the station's name. Don't drive under the railway's supports into areas not meant for cars. The road follows the Wupper river and the railway, so the street beneath the Schwebebahn is often narrow.</p>
+<h2>The A46, A1 and A43 to the north and east</h2>
+<p>Coming from Düsseldorf, the A46 runs through the northern part of the city, meeting the A1 between Cologne and Dortmund at the Wuppertal-Nord interchange in the east. The A43 to Recklinghausen and Münster also starts at that interchange. In the west of the city, the A535 branches off the A46 at the Sonnborn interchange towards Velbert. The A1 east of Wuppertal has an elaborate layout: after crossing the valley in the Langerfeld district, it crosses the Wupper on the Ehrenberg hillside, then follows a winding route, now six lanes throughout. Breaking down here typically means gradients, bends, and valley bridges. For securing the scene, see our guide (German) <a href="ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+<h2>The L418 and a very long road tunnel</h2>
+<p>On the southern edge of the city, the L418 runs as a continuous four-lane expressway from the Sonnborn interchange to Ronsdorf. It includes a road tunnel about 1.8 kilometres long, one of the longest in North Rhine-Westphalia. Near Lichtscheid, the L418 becomes the L419. If you break down in this tunnel: hazard lights on, move well to the side, use the emergency equipment, more in our guide <a href="en-ratgeber-panne-im-tunnel.html">Breakdown in a tunnel</a>. Tell us your direction of travel and the nearest exit.</p>
+<h2>What we do in Wuppertal</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Wuppertal and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Wuppertal</h2>
+<p>On the A1, A46 or A43: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. In the L418 tunnel: don't turn around or reverse, drive to the next emergency bay if you can, otherwise hazard lights on and raise the alarm via the emergency equipment or 112. On a slope: apply the handbrake and engage a gear, hazard lights on before you get out.</p>
+<h2>Where it often happens in Wuppertal</h2>
+<p>At the Sonnborn interchange, where the A46 and A535 meet, traffic is denser because of lane changes. The winding, hilly route of the A1 east of the city can overwhelm brakes if driven badly; use a low gear on descents. In the L418 tunnel, its length means longer waits in a breakdown, so stick to the emergency equipment.</p>
+<h2>How to describe your location in Wuppertal</h2>
+<ul class="ticks">
+<li>District and street, plus house number, cross street, or Schwebebahn station.</li>
+<li>On a slope: uphill or downhill.</li>
+<li>On the A1, A46, A43 or L418: number, direction, exit or interchange.</li>
+<li>In the tunnel: name and direction of travel.</li>
+</ul>
+<p>Neighbouring cities: <a href="en-stadt-essen.html">Essen</a>, <a href="en-stadt-duesseldorf.html">Düsseldorf</a>, and <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German).</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Wuppertal</h2>
+<details><summary>Can you take my car from Wuppertal to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Wuppertal. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>Where does the A46 meet the A1?</summary><div>At the Wuppertal-Nord interchange in the east of the city. The A43 to Münster also starts there.</div></details>
+<details><summary>What's special about the L418?</summary><div>It's a four-lane expressway from the Sonnborn interchange to Ronsdorf with a road tunnel about 1.8 kilometres long, one of the longest road tunnels in North Rhine-Westphalia.</div></details>
+<details><summary>How long is the Schwebebahn?</summary><div>About 13 kilometres with 20 stations, opened in 1901.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-bielefeld | Towing Service Bielefeld: Roadside Assistance A2, A33, OWD | Roadside assistance and towing in Bielefeld: the Teutoburg Forest, the Ostwestfalendamm with its tunnel, and the A2 and A33 with their gradients. | page ===
+<!--AREAS: Bielefeld, Bielefeld-Brackwede, Bielefeld-Sennestadt, Bielefeld-Jöllenbeck, Bielefeld-Dornberg -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bielefeld</p><h1>Towing Service Bielefeld</h1><p class="lead">Bielefeld sits on the watershed between the Weser and Ems rivers, with the Teutoburg Forest running through the city. Tell us where you are, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>The largest city in East Westphalia-Lippe</h2>
+<p>Bielefeld sits on the watershed between the Weser and Ems rivers. The north and north-east, including the city centre, lie in the hilly Ravensberg basin, immediately south of which the Teutoburg Forest runs from west-north-west to east-south-east through the city. For your location, position relative to the Teutoburg Forest matters: districts like Brackwede and Sennestadt lie behind the ridge, separated from the centre by gradients.</p>
+<h2>The Ostwestfalendamm</h2>
+<p>The Ostwestfalendamm is an inner-city expressway from the Südring in Brackwede to the A33 (Bielefeld-Zentrum exit). In the centre lies the 535-metre Ostwestfalen tunnel, with one tube per direction. It runs from the Eckendorfer Straße/Walther-Rathenau-Straße junction under the Hannover–Ruhr area rail line to the start of the Ostwestfalendamm near the Ernst-Rein-Straße slip road. A 60 km/h limit applies in the tunnel, enforced by fixed speed cameras in both directions. If you break down in the tunnel, see our guide <a href="en-ratgeber-panne-im-tunnel.html">Breakdown in a tunnel</a> and tell us your direction and the nearest slip road.</p>
+<h2>A33: Osnabrück, Bielefeld, Paderborn</h2>
+<p>The A33 connects Osnabrück, Bielefeld, Paderborn and, together with the A44, also Kassel. It starts north-east of Osnabrück in Belm, passes east of Osnabrück, crosses the A30 at the Osnabrück-Süd interchange, and runs along Georgsmarienhütte, Hilter am Teutoburger Wald, Bad Rothenfelde and Dissen. Towards Bielefeld there are notable climbs near Borgloh/Kloster Oesede and shortly before Hilter, and a steep descent before Dissen. In a breakdown on a climb: hazard lights on, move well to the side, see <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+<h2>The A2 north of the city</h2>
+<p>The A2 runs from Oberhausen via Dortmund, Bielefeld, Hannover, Braunschweig and Magdeburg to the Werder triangle on the Berlin ring. For Bielefeld, that means: the A2 runs north of the city, not through the centre. If you break down there, tell us the exit and direction.</p>
+<h2>What we do in Bielefeld</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Bielefeld and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Bielefeld</h2>
+<p>On the A2 or A33: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. In the Ostwestfalen tunnel: don't turn around or reverse, drive to the next emergency bay if you can, otherwise hazard lights on and raise the alarm via the emergency equipment or 112. On a climb in the Teutoburg Forest: apply the handbrake and engage a gear, hazard lights on before you get out.</p>
+<h2>Where it often happens in Bielefeld</h2>
+<p>On the A33, the climbs near Borgloh/Kloster Oesede and Hilter, and the descent before Dissen, can overwhelm brakes and clutch if driven badly. In the Ostwestfalen tunnel, traffic often brakes before the speed camera. At the edge of the Teutoburg Forest, where roads climb steeply out of the centre, problems are more common in wet or icy conditions.</p>
+<h2>How to describe your location in Bielefeld</h2>
+<ul class="ticks">
+<li>District and street, plus house number or cross street.</li>
+<li>On the A2 or A33: number, direction, exit or interchange.</li>
+<li>On the Ostwestfalendamm: slip road, tunnel, or direction of travel.</li>
+<li>In the Teutoburg Forest: street and whether it's a climb or descent.</li>
+</ul>
+<p>Other major cities in the region: <a href="en-stadt-dortmund.html">Dortmund</a> and <a href="en-stadt-hannover.html">Hanover</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German).</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Bielefeld</h2>
+<details><summary>Can you take my car from Bielefeld to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Bielefeld. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>How long is the Ostwestfalen tunnel?</summary><div>535 metres, with one tube per direction and a 60 km/h limit.</div></details>
+<details><summary>I'm on a climb on the A33. What do I do?</summary><div>Switch on hazard lights, move well to the side, put on a hi-vis vest, then call us. Tell us your direction and the last exit.</div></details>
+<details><summary>Where does the A2 run near Bielefeld?</summary><div>North of the city, on the route from Gütersloh via Herford to Bad Oeynhausen.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-bonn | Towing Service Bonn: Roadside Assistance A565, A555, A59 | Roadside assistance and towing in Bonn: four boroughs, the busy A565, the A555 (Cologne-Bonn motorway), the A59, and the Bonn-Nord interchange. | page ===
+<!--AREAS: Bonn, Bonn-Beuel, Bad Godesberg, Bonn-Hardtberg, Bonn-Lengsdorf -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bonn</p><h1>Towing Service Bonn</h1><p class="lead">Bonn is crossed by the A565 and A555, one of the oldest and one of the busiest motorway routes in Germany. Tell us where you are, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Four boroughs, 51 localities</h2>
+<p>Bonn is divided into four boroughs, made up of 51 localities in total. Day to day, the well-known names matter: Beuel, Bad Godesberg, Hardtberg or Lengsdorf. Tell us these plus the street if you break down. The Rhine splits Bonn into a left-bank and a right-bank part, so tell us which side you're on too.</p>
+<h2>A565: very heavy traffic</h2>
+<p>The A565 crosses Bonn from north-east to south-west and is one of the most important routes for commuters and inner-city traffic. Between the Bonn-Lengsdorf exit and the Bonn-Nord interchange, it runs four lanes through densely populated area, in places with no hard shoulder in a cutting or on a bridge. This section carries over 100,000 vehicles a day and is prone to jams. Breaking down there means standing with no hard shoulder. Tell us this straight away on the phone so the driver can assess the situation.</p>
+<h2>A555: the Cologne-Bonn motorway</h2>
+<p>The A555 connects Cologne and Bonn and is known as the Cologne-Bonn motorway, one of the oldest motorway routes in Germany. More on this section at <a href="en-koeln-a555.html">Breakdown on the A555</a>.</p>
+<h2>A59 and A3: the right bank and the east</h2>
+<p>The A59 connects Cologne with Bonn-Beuel; at the Bonn-Ost interchange it continues as the right-bank Rheinuferstraße (B42), still built to motorway standard as far as Bad Honnef. To the east, the A3 crosses the A560 at the Bonn/Siegburg interchange, more on the A3 at <a href="en-autobahn-a3.html">Breakdown on the A3</a>. If you break down on the right bank, tell us the motorway or federal road and your direction of travel.</p>
+<h2>What we do in Bonn</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Bonn and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Bonn</h2>
+<p>On the A565, A555, A59 or A3: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. On the A565 with no hard shoulder: stay belted in the vehicle if possible until traffic is secured, and tell us right away that there's no hard shoulder. On a slope in Bad Godesberg: apply the handbrake and engage a gear, hazard lights on before you get out.</p>
+<h2>Where it often happens in Bonn</h2>
+<p>On the A565 between Bonn-Lengsdorf and the Bonn-Nord interchange, heavy use and the missing hard shoulder make it especially accident-prone. At the Bonn-Ost interchange, where the A59 becomes the B42, motorway and federal road switch abruptly. At the Bonn/Siegburg interchange, where the A3 and A560 meet, traffic is denser because of lane changes.</p>
+<h2>How to describe your location in Bonn</h2>
+<ul class="ticks">
+<li>District and street, plus which bank of the Rhine (left or right).</li>
+<li>On the A565, A555, A59 or A3: number, direction, exit or interchange.</li>
+<li>Whether a hard shoulder is present or not.</li>
+<li>On a slope in the Godesberg district: uphill or downhill.</li>
+</ul>
+<p>The neighbouring city on the Rhine is <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne</a>; other major cities: <a href="en-stadt-duesseldorf.html">Düsseldorf</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German). General steps: <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Bonn</h2>
+<details><summary>Can you take my car from Bonn to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Bonn. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>Why is the A565 tricky?</summary><div>The section between Lengsdorf and the Bonn-Nord interchange carries over 100,000 vehicles a day and in places has no hard shoulder. A breakdown there leaves you standing in moving traffic.</div></details>
+<details><summary>What is the Cologne-Bonn motorway?</summary><div>The common name for the A555 between Cologne and Bonn, one of the oldest motorway routes in Germany.</div></details>
+<details><summary>I'm on the right bank. What do I say?</summary><div>The motorway or federal road, direction, and exit, plus that you're on the right bank.</div></details>
+</div></section>
+@@CTA@@
+=== en-autobahn-a2 | Breakdown on the A2: Oberhausen to Berlin | Breakdown on the A2 from Oberhausen via Dortmund, Bielefeld, Hannover, Braunschweig, Magdeburg to the Werder triangle. Interchanges, canals, Helmstedt. | page ===
+<!--AREAS: A2, Oberhausen, Dortmund, Bielefeld, Hannover, Braunschweig, Magdeburg -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Motorway</p><h1>Breakdown on the A2</h1><p class="lead">The A2 connects the Ruhr area with Berlin, crossing five states along the way, from dense conurbation to the Magdeburg plain. Tell us your direction and the nearest interchange, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>From the Oberhausen interchange to the Berlin ring</h2>
+<p>The A2 begins at the Oberhausen interchange as a continuation of the six-lane carriageway of the A3 coming from Cologne. It runs via Dortmund, Bielefeld, Hannover, Braunschweig and Magdeburg to the Werder triangle, where it joins the Berlin ring (A10). Between the start of the motorway and the Bad Oeynhausen interchange it's part of European route E34, and from there to the end, part of E30. The route's character changes several times, from conurbation to low mountain ranges to straight stretches through forest and plain. In a breakdown, tell us your direction of travel, the next interchange, and the landscape.</p>
+<h2>The Ruhr area: Bottrop, Gelsenkirchen, Recklinghausen</h2>
+<p>A few kilometres after the start, the A31 joins from the north at the Bottrop triangle. The A2 then passes north of Bottrop and south of Gladbeck, crossing the densely populated northern Ruhr area. Within Gelsenkirchen it runs right past the Veltins-Arena stadium and through a noise-protection enclosure. Near the notable Hoheward spoil tip, it crosses the A43 at the Recklinghausen interchange. Near Henrichenburg it crosses the Rhine-Herne canal. If you break down in the enclosure, tunnel rules apply, see <a href="en-ratgeber-panne-im-tunnel.html">Breakdown in a tunnel</a>.</p>
+<h2>Dortmund: the motorway ring and the Kamen interchange</h2>
+<p>At the Dortmund-Nordwest interchange, the A45 (Sauerlandlinie) begins, and from here the A2 forms the northern part of Dortmund's motorway ring. In the Mengede district it crosses the Dortmund-Ems canal, with a grade-separated exit connecting the motorway-standard B236 to the city centre. At the Kamen interchange with the A1, the section as Dortmund's motorway ring ends, and the surroundings become more rural. More on the city: <a href="en-stadt-dortmund.html">Towing Service Dortmund</a>.</p>
+<h2>The Münsterland and East Westphalia: the Bielefeld hill</h2>
+<p>Passing south and east of Hamm, it crosses the Datteln-Hamm canal in the Uentrop district and the Lippe river, then runs through the northern part of the Beckum hills in the flat Münsterland. Past Rheda-Wiedenbrück and Gütersloh, it reaches East Westphalia. After crossing the A33 at the Bielefeld interchange follows the crossing of the Teutoburg Forest, also called the "Bielefelder Berg". On the north-eastern side of the ridge, the connection to Bielefeld's city centre follows. Near Herford it reaches the Werre valley, then climbs onto the Lipper Bergland hills. At the Bad Oeynhausen interchange, the A30 ends. More on this section: <a href="en-stadt-bielefeld.html">Towing Service Bielefeld</a>.</p>
+<h2>The Weser and the Weser hills</h2>
+<p>Near Bad Oeynhausen, the A2 crosses the A30, the western Weser floodplain, and the river itself on two separate bridge structures set some distance apart. On the eastern bank, the B482 connects, leading to Porta Westfalica and Minden. The crossing of the Weser hills follows; just before the summit at the Papenbrink, the state border switches from North Rhine-Westphalia to Lower Saxony. Near Bad Nenndorf it skirts the western end of the Deister hills, after which the North German Plain begins.</p>
+<h2>Hannover, Braunschweig, Helmstedt</h2>
+<p>Near Wunstorf it crosses the Mittelland canal and the Leine river. Near the Nordhafen, the A352 branches off; in the Altwarmbüchener Moor follow, in quick succession, the Hannover-Buchholz interchange with the A37 and the Hannover-Ost interchange with the A7, more at <a href="en-stadt-hannover.html">Towing Service Hanover</a> and <a href="en-autobahn-a7.html">Breakdown on the A7</a>. Then come Lehrte, the Hämeler Wald and Peine, followed by the A391 at the Braunschweig-Nord interchange and Braunschweig-Wolfsburg airport right north of the motorway. At the Wolfsburg/Königslutter interchange it crosses the A39. Near Helmstedt lies the former most important border crossing between the German states, where the transit route to West Berlin began. Some of the old processing facilities survive or have been converted into a service station.</p>
+<h2>The Magdeburg plain, the Elbe, Brandenburg</h2>
+<p>In the Lappwald forest east of Helmstedt, the A2 crosses into Saxony-Anhalt, crosses the Aller river, and reaches the almost treeless Magdeburg plain. Near Irxleben there's a panoramic view of Magdeburg. At the Magdeburg interchange it crosses the A14, then the A2 runs through the northern districts, crosses the Rothensee link canal and the Elbe, with the Magdeburg waterway crossing lying just to the north. It then continues on many dead-straight stretches past Burg towards Brandenburg, along the north-western edge of the Fläming and the Baruth ice-age valley, past Brandenburg an der Havel, to the Werder triangle on the Berlin ring. On these long straights, wind is a factor, more in our guide (German) <a href="ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+<h2>What we do on the A2</h2>
+<p>You call or message us on WhatsApp, we clarify the vehicle, its condition and your destination, and organise the callout. Faster is based in Antwerp, Belgium; partners on the ground drive out on the A2. How quickly someone reaches you depends on the section, traffic and weather, so we don't give a fixed time.</p>
+<h2>How to describe your location on the A2</h2>
+<ul class="ticks">
+<li>Direction of travel: towards Hannover/Berlin, or towards Dortmund/Oberhausen.</li>
+<li>Last or next interchange, triangle, or exit.</li>
+<li>A canal or river bridge, enclosure, or summit, if recognisable.</li>
+<li>The state or landscape, for example the plain or the Lappwald.</li>
+</ul>
+<p>All motorway pages: <a href="autobahnen.html">Breakdown help on the motorway</a> (German). Other routes: <a href="en-autobahn-a7.html">A7</a> and <a href="en-autobahn-a9.html">A9</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About the A2</h2>
+<details><summary>Where does the A2 start and end?</summary><div>It starts at the Oberhausen interchange and ends at the Werder triangle, where it joins the Berlin ring (A10).</div></details>
+<details><summary>Where is the "Bielefelder Berg"?</summary><div>On the crossing of the Teutoburg Forest after the Bielefeld interchange with the A33.</div></details>
+<details><summary>Where was the Helmstedt border crossing?</summary><div>In the Lappwald forest east of Helmstedt, on the former inner-German border, where the transit route to West Berlin began.</div></details>
+<details><summary>Which motorways cross the A2?</summary><div>Among others, the A3, A31, A43, A45, A1, A33, A30, A7, A37, A39, A14, and the Berlin ring (A10).</div></details>
+</div></section>
+@@CTA@@
