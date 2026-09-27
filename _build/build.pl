@@ -174,7 +174,7 @@ sub schema_for {
 # extra pages: marker "=== slug | title | description | flag ===", optional body comment <!--AREAS: a, b -->. Later files override earlier slugs.
 {
   my $dir = "$Bin/content";
-  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_guides14.txt extra_koeln5.txt extra_koeln6.txt extra_guides15.txt extra_home.txt), (map { s{.*/}{}r } sort glob("$Bin/content/geo_*.txt")), qw(extra_ratgeber.txt en_home.txt en_koeln.txt en_region.txt en_koeln2.txt)) {
+  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_guides14.txt extra_koeln5.txt extra_koeln6.txt extra_guides15.txt extra_home.txt), (map { s{.*/}{}r } sort glob("$Bin/content/geo_*.txt")), qw(extra_ratgeber.txt en_home.txt en_koeln.txt en_region.txt en_koeln2.txt en_guides.txt)) {
     open(my $ex,"<:raw","$dir/$name") or next; my $c;
     while (my $l=<$ex>) {
       if ($l =~ /^=== (\S+) \| (.*?) \| (.*) \| (\w+) ===\s*$/) { $c=$1; push @order,$c unless $P{$c}; $P{$c}={title=>"$2 | Faster Abschleppdienst",desc=>$3,flag=>$4,body=>""}; next }
@@ -256,6 +256,8 @@ $PATH{'en-abschleppdienst-koeln-stadtteile'} = 'en/koeln/stadtteile';
 $PATH{'en-abschleppdienst-mittelbaden'} = 'en/karlsruhe'; $PATH{'en-abschleppdienst-karlsruhe'} = 'en/karlsruhe/stadt'; $PATH{'en-abschleppdienst-baden-baden'} = 'en/karlsruhe/baden-baden';
 $PATH{'en-abschleppdienst-achern'} = 'en/karlsruhe/achern'; $PATH{'en-abschleppdienst-offenburg'} = 'en/karlsruhe/offenburg'; $PATH{'en-abschleppdienst-a5'} = 'en/karlsruhe/a5';
 $PATH{"en-koeln-$_"} = "en/koeln/$_" for qw(innenstadt ehrenfeld nippes lindenthal rodenkirchen porz kalk muelheim chorweiler a57 a59 a555 leverkusener-bruecke);
+$PATH{'en-ratgeber'} = 'en/ratgeber'; $PATH{'en-kontakt'} = 'en/kontakt';
+$PATH{"en-ratgeber-$_"} = "en/ratgeber/$_" for qw(abschleppdienst-kosten panne-autobahn unfall-abschleppkosten e-auto-abschleppen starthilfe-batterie reifenpanne falsch-getankt ausgesperrt motorrad-transport abschleppseil-oder-abschleppdienst);
 sub path_for { my $s=shift; return $PATH{$s} if exists $PATH{$s}; return "ratgeber/$1" if $s =~ /^ratgeber-(.+)$/; return $s; }
 sub region_for { my $pa=shift; $pa =~ s{^en/}{}; return 'koeln' if $pa =~ m{^koeln}; return 'karlsruhe' if $pa =~ m{^karlsruhe}; return 'shared'; }
 sub depth_of { my $pa=shift; return $pa eq '' ? 0 : scalar(split m{/}, $pa); }
@@ -271,11 +273,11 @@ my %MENU = (
   karlsruhe => [['Karlsruhe &amp; Mittelbaden','abschleppdienst-mittelbaden'],['Karlsruhe','abschleppdienst-karlsruhe'],['A5','abschleppdienst-a5'],['Alle Städte','staedte'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
   shared    => [['Köln','index'],['Karlsruhe &amp; Mittelbaden','abschleppdienst-mittelbaden'],['Alle Städte','staedte'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
 );
-# English nav (same target pages; "All Cities"/"Guides"/"Contact" fall back to the German pages until those are translated too).
+# English nav (same target pages; "All Cities" falls back to the German page until it's translated too).
 my %MENU_EN = (
-  koeln     => [['Cologne','en-index'],['Roadside Assistance','en-pannenhilfe-koeln'],['Motorways','en-pannenhilfe-koelner-autobahnring'],['Districts','en-abschleppdienst-koeln-stadtteile'],['All Cities','staedte'],['Guides','ratgeber'],['Contact','kontakt']],
-  karlsruhe => [['Karlsruhe &amp; Central Baden','en-abschleppdienst-mittelbaden'],['Karlsruhe','en-abschleppdienst-karlsruhe'],['A5','en-abschleppdienst-a5'],['All Cities','staedte'],['Guides','ratgeber'],['Contact','kontakt']],
-  shared    => [['Cologne','en-index'],['Karlsruhe &amp; Central Baden','en-abschleppdienst-mittelbaden'],['All Cities','staedte'],['Guides','ratgeber'],['Contact','kontakt']],
+  koeln     => [['Cologne','en-index'],['Roadside Assistance','en-pannenhilfe-koeln'],['Motorways','en-pannenhilfe-koelner-autobahnring'],['Districts','en-abschleppdienst-koeln-stadtteile'],['All Cities','staedte'],['Guides','en-ratgeber'],['Contact','en-kontakt']],
+  karlsruhe => [['Karlsruhe &amp; Central Baden','en-abschleppdienst-mittelbaden'],['Karlsruhe','en-abschleppdienst-karlsruhe'],['A5','en-abschleppdienst-a5'],['All Cities','staedte'],['Guides','en-ratgeber'],['Contact','en-kontakt']],
+  shared    => [['Cologne','en-index'],['Karlsruhe &amp; Central Baden','en-abschleppdienst-mittelbaden'],['All Cities','staedte'],['Guides','en-ratgeber'],['Contact','en-kontakt']],
 );
 $CRUMB_PARENT{'index'} = ['home','Köln &amp; Umgebung'];
 $CRUMB_PARENT{'abschleppdienst-mittelbaden'} = ['home','Karlsruhe &amp; Mittelbaden'];
@@ -308,6 +310,17 @@ $CRUMB_PARENT{'en-koeln-a57'} = ['en-pannenhilfe-koelner-autobahnring','A57 Brea
 $CRUMB_PARENT{'en-koeln-a59'} = ['en-pannenhilfe-koelner-autobahnring','A59 Breakdown'];
 $CRUMB_PARENT{'en-koeln-a555'} = ['en-pannenhilfe-koelner-autobahnring','A555 Breakdown'];
 $CRUMB_PARENT{'en-koeln-leverkusener-bruecke'} = ['en-pannenhilfe-koelner-autobahnring','Leverkusen Bridge'];
+$CRUMB_PARENT{'en-ratgeber'} = ['home','Guides']; $CRUMB_PARENT{'en-kontakt'} = ['home','Contact'];
+$CRUMB_PARENT{'en-ratgeber-abschleppdienst-kosten'} = ['en-ratgeber','What Does a Towing Service Cost?'];
+$CRUMB_PARENT{'en-ratgeber-panne-autobahn'} = ['en-ratgeber','Breaking Down on the Motorway'];
+$CRUMB_PARENT{'en-ratgeber-unfall-abschleppkosten'} = ['en-ratgeber','Towing Costs After an Accident'];
+$CRUMB_PARENT{'en-ratgeber-e-auto-abschleppen'} = ['en-ratgeber','Towing an Electric Car'];
+$CRUMB_PARENT{'en-ratgeber-starthilfe-batterie'} = ['en-ratgeber','Jump-Starting and a Flat Battery'];
+$CRUMB_PARENT{'en-ratgeber-reifenpanne'} = ['en-ratgeber','Flat Tyre'];
+$CRUMB_PARENT{'en-ratgeber-falsch-getankt'} = ['en-ratgeber','Wrong Fuel'];
+$CRUMB_PARENT{'en-ratgeber-ausgesperrt'} = ['en-ratgeber','Locked Out'];
+$CRUMB_PARENT{'en-ratgeber-motorrad-transport'} = ['en-ratgeber','Motorcycle Transport'];
+$CRUMB_PARENT{'en-ratgeber-abschleppseil-oder-abschleppdienst'} = ['en-ratgeber','Tow Rope or Towing Service?'];
 $CRUMB_PARENT{'ratgeber-panne-im-tunnel'} = ['ratgeber','Panne im Tunnel'];
 $CRUMB_PARENT{'ratgeber-umweltzone-koeln'} = ['ratgeber','Umweltzone Köln'];
 $CRUMB_PARENT{'ratgeber-abschleppen-koeln-kosten'} = ['ratgeber','Kosten in Köln'];

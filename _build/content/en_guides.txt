@@ -1,0 +1,506 @@
+=== en-ratgeber | Guides – Breakdown, Towing, Costs and Rules | Guides on breakdowns, towing and costs: motorway, accident, EV, jump-starting, flat tyres, warning lights, animal collisions and more. Sorted by topic. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Guides: Breakdowns, Towing and Costs</h1><p class="lead">Briefly explained: what to do in a breakdown, what a towing service costs, and who pays after an accident. These texts are sorted by topic and give general information, not legal or professional advice.</p></div></section>
+<section class="section"><div class="wrap"><h2>Broken down on the road: act now</h2><div class="cards3">
+<article class="card"><h3>Breaking down on the motorway</h3><p>Warning triangle, hi-vis vest, emergency phone: the steps in the right order.</p><a href="en-ratgeber-panne-autobahn.html">Read →</a></article>
+<article class="card"><h3>Warning lights in your car</h3><p>Red, amber, flashing: which symbols mean stop immediately.</p><a href="ratgeber-warnleuchten-auto.html">Read →</a></article>
+<article class="card"><h3>Engine overheating</h3><p>Immediate steps, why the radiator cap stays shut, and when towing is needed.</p><a href="ratgeber-motor-ueberhitzt.html">Read →</a></article>
+<article class="card"><h3>Engine cutting out while driving</h3><p>Coast safely, what you can check, and the likely causes.</p><a href="ratgeber-motor-geht-aus.html">Read →</a></article>
+<article class="card"><h3>Car stuck in limp mode</h3><p>Power gone, engine light on: what limp mode means and what happens next.</p><a href="ratgeber-notlauf-auto.html">Read →</a></article>
+<article class="card"><h3>Breakdown in a tunnel</h3><p>Hazard lights, emergency bay, emergency phone: the steps inside the tunnel.</p><a href="ratgeber-panne-im-tunnel.html">Read →</a></article>
+<article class="card"><h3>Power steering failure</h3><p>Steering wheel suddenly heavy: stopping safely, causes, and why transport is better.</p><a href="ratgeber-servolenkung-ausgefallen.html">Read →</a></article>
+<article class="card"><h3>Brakes failing</h3><p>Pump the pedal, engine braking, handbrake carefully: the steps in an emergency.</p><a href="ratgeber-bremsen-versagen.html">Read →</a></article>
+<article class="card"><h3>Flat tyre</h3><p>Spare wheel, puncture kit or towing: what makes sense in which situation.</p><a href="en-ratgeber-reifenpanne.html">Read →</a></article>
+<article class="card"><h3>Car stuck (mud, snow, sand)</h3><p>Mud, snow, sand: what helps and when recovery is needed.</p><a href="ratgeber-auto-festgefahren.html">Read →</a></article>
+</div></div></section>
+<section class="section grey"><div class="wrap"><h2>Starting problems and technical issues</h2><div class="cards3">
+<article class="card"><h3>Car won't start</h3><p>Clicking, cranking, or silence: how to find the likely cause.</p><a href="ratgeber-auto-springt-nicht-an.html">Read →</a></article>
+<article class="card"><h3>Jump-starting and a flat battery</h3><p>Why the battery gives out, how to jump-start it, and when it's a job for the garage.</p><a href="en-ratgeber-starthilfe-batterie.html">Read →</a></article>
+<article class="card"><h3>AdBlue empty</h3><p>Warning stages, start-lock, and what to watch for after refilling.</p><a href="ratgeber-adblue-leer.html">Read →</a></article>
+<article class="card"><h3>Steering-wheel lock stuck</h3><p>Key won't turn: how to release the lock without force.</p><a href="ratgeber-lenkradsperre-klemmt.html">Read →</a></article>
+<article class="card"><h3>Handbrake won't release</h3><p>Frozen or seized: what helps and when the car needs a flatbed.</p><a href="ratgeber-handbremse-loest-sich-nicht.html">Read →</a></article>
+<article class="card"><h3>Clutch failure</h3><p>Pedal stuck, gears won't engage: symptoms and why you shouldn't keep driving.</p><a href="ratgeber-kupplung-defekt.html">Read →</a></article>
+<article class="card"><h3>Wrong fuel</h3><p>What to do and not do immediately, so a mistake doesn't become engine damage.</p><a href="en-ratgeber-falsch-getankt.html">Read →</a></article>
+<article class="card"><h3>Locked out</h3><p>Key inside the car: ways to open the vehicle without damage.</p><a href="en-ratgeber-ausgesperrt.html">Read →</a></article>
+<article class="card"><h3>Oil leak and oil trail</h3><p>Secure the scene, inform the fire brigade, have the vehicle transported, and who pays for the clean-up.</p><a href="ratgeber-oelverlust-oelspur.html">Read →</a></article>
+</div></div></section>
+<section class="section"><div class="wrap"><h2>Accidents, damage and costs</h2><div class="cards3">
+<article class="card"><h3>After the accident: still roadworthy?</h3><p>How to tell if the car is still safe to drive or should be towed.</p><a href="ratgeber-nach-unfall-fahrbereit.html">Read →</a></article>
+<article class="card"><h3>Towing costs after an accident</h3><p>Who pays, who chooses the towing service, and where the car may go.</p><a href="en-ratgeber-unfall-abschleppkosten.html">Read →</a></article>
+<article class="card"><h3>Animal collision</h3><p>Police, wildlife-collision certificate, partial cover insurance, and whether the car may still be driven.</p><a href="ratgeber-wildunfall.html">Read →</a></article>
+<article class="card"><h3>Car stalled in water</h3><p>Recognising water ingress, not starting the engine, informing your insurer.</p><a href="ratgeber-wasserschlag-ueberschwemmung.html">Read →</a></article>
+<article class="card"><h3>Towing in Cologne: costs</h3><p>What the cost in Cologne depends on, without price promises.</p><a href="ratgeber-abschleppen-koeln-kosten.html">Read →</a></article>
+<article class="card"><h3>What does a towing service cost?</h3><p>Reference prices, cost factors, and questions to ask beforehand.</p><a href="en-ratgeber-abschleppdienst-kosten.html">Read →</a></article>
+</div></div></section>
+<section class="section grey"><div class="wrap"><h2>Special vehicles and rules</h2><div class="cards3">
+<article class="card"><h3>Towing an electric car</h3><p>Why EVs need to be loaded onto a flatbed, and what to tell the towing service.</p><a href="en-ratgeber-e-auto-abschleppen.html">Read →</a></article>
+<article class="card"><h3>Towing an automatic car</h3><p>Position N, manual release, distance limits: why loading is usually better.</p><a href="ratgeber-automatik-abschleppen.html">Read →</a></article>
+<article class="card"><h3>Motorcycle transport</h3><p>Why motorcycles can't be towed, and how the transport works.</p><a href="en-ratgeber-motorrad-transport.html">Read →</a></article>
+<article class="card"><h3>Towing a van</h3><p>Weight, load, height: what counts for vans up to 3.5 tonnes.</p><a href="ratgeber-transporter-abschleppen.html">Read →</a></article>
+<article class="card"><h3>Motorhome or trailer breakdown</h3><p>Weight limits, uncoupling, and the details that matter for motorhomes and caravans.</p><a href="ratgeber-wohnmobil-gespann-panne.html">Read →</a></article>
+<article class="card"><h3>Tow rope or towing service?</h3><p>The rules for towing your own car, and when to call a professional instead.</p><a href="en-ratgeber-abschleppseil-oder-abschleppdienst.html">Read →</a></article>
+</div></div></section>
+<section class="section"><div class="wrap"><h2>Places and situations</h2><div class="cards3">
+<article class="card"><h3>Underground garage and car park</h3><p>Clearance height, ramps, and the details that matter for a recovery from a garage.</p><a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Read →</a></article>
+<article class="card"><h3>Winter breakdown in the Black Forest</h3><p>The Schwarzwaldhochstraße, winter-tyre rules, and what to do if you're stuck in snow.</p><a href="ratgeber-winterpanne-schwarzwald.html">Read →</a></article>
+<article class="card"><h3>Cologne's low-emission zone</h3><p>The green sticker, fines, exceptions, and what we don't know for certain.</p><a href="ratgeber-umweltzone-koeln.html">Read →</a></article>
+<article class="card"><h3>Breakdown near Kehl and Strasbourg</h3><p>What's different in France: motorways, hi-vis vests, the Crit'Air low-emission zone.</p><a href="ratgeber-panne-kehl-strassburg.html">Read →</a></article>
+</div></div></section>
+<section class="section grey"><div class="wrap"><h2>Regional breakdown pages: Cologne and the A5</h2><div class="cards3">
+<article class="card"><h3>Cologne motorway ring</h3><p>Breaking down on the A1, A3, A4 or A555 around Cologne: what you should know.</p><a href="en-pannenhilfe-koelner-autobahnring.html">Read →</a></article>
+<article class="card"><h3>Breakdown on the A1 near Cologne</h3><p>The Leverkusen bridge, the Lövenich noise-protection tunnel, and the exits to Erfttal.</p><a href="en-pannenhilfe-a1-koeln.html">Read →</a></article>
+<article class="card"><h3>Breakdown on the A3 near Cologne</h3><p>Exits from Leverkusen to Rösrath, the eight-lane section, and behaviour in heavy traffic.</p><a href="en-pannenhilfe-a3-koeln.html">Read →</a></article>
+<article class="card"><h3>Breakdown on the A4 near Cologne</h3><p>The Rodenkirchen bridge, the Cologne-Süd interchange, and the road into the Bergisches Land.</p><a href="en-pannenhilfe-a4-koeln.html">Read →</a></article>
+<article class="card"><h3>Breakdown on the A5</h3><p>Every exit from Karlsruhe to Lahr, rest areas, and what to do.</p><a href="en-abschleppdienst-a5.html">Read →</a></article>
+</div></div></section>
+@@CTA@@
+=== en-ratgeber-abschleppdienst-kosten | What Does a Towing Service Cost? Reference Prices and Tips | What does towing cost? Reference prices for city, motorway and roadside assistance, cost factors, night surcharges, and questions to ask beforehand. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>What Does a Towing Service Cost?</h1><p class="lead">Prices vary widely. Here's what they depend on, and how to avoid surprises.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Reference prices in Germany</h2>
+<p>The following figures are market reference prices from 2026 price surveys. They show the rough order of magnitude but don't replace an actual quote.</p>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Service</th><th>Reference price</th></tr></thead><tbody>
+<tr><td>Towing within a city / short distance</td><td>approx. €89 to €150</td></tr>
+<tr><td>Towing on the motorway</td><td>approx. €129 to €250</td></tr>
+<tr><td>On-the-spot roadside assistance (e.g. jump-start)</td><td>approx. €59 to €120</td></tr>
+</tbody></table></div>
+<p>For individual cities, the portal kostenfinder.com (2026) gives the following averages: Karlsruhe around €219 (range about €102 to €383), Freiburg around €223, Stuttgart around €240.</p>
+<h2>Why the range is so wide</h2>
+<p>A towing service isn't a product with a fixed price. Two callouts in the same city can differ a lot: in one case a car sits on level ground in a car park and still rolls, in another it's in a ditch at night after an accident. Companies also calculate differently. Some charge the callout and mileage separately, others quote a flat price. That's why an average tells you little about your own situation.</p>
+<h2>What the price depends on</h2>
+<ul class="ticks">
+<li><strong>Distance:</strong> the callout and the trip to the destination. A short trip to the nearest garage is cheaper than a long journey.</li>
+<li><strong>Time of day:</strong> surcharges are common at night, on weekends and on public holidays.</li>
+<li><strong>Vehicle:</strong> weight, length, drivetrain. Electric cars and vans often need more effort.</li>
+<li><strong>Condition:</strong> a vehicle that no longer rolls, is in a ditch, or is in an underground garage makes more work than one that's simply loaded up.</li>
+<li><strong>Location:</strong> special conditions apply on the motorway, for example securing the scene.</li>
+<li><strong>Waiting time and extra services:</strong> for example recovery, oil-absorbent material, or a second callout.</li>
+</ul>
+<h2>Roadside help on the spot, or towing?</h2>
+<p>Often, help on the spot is the cheaper solution. Jump-starting a flat battery, a canister of fuel, or a wheel change usually costs less than transport. A reputable company will tell you whether the problem can be solved on the spot before sending a vehicle out. If a provider wants to tow immediately without asking questions, ask why.</p>
+<h2>Questions to ask before you commit</h2>
+<ol>
+<li>Is this a fixed price or an estimate?</li>
+<li>Does it include the callout, loading, and all mileage?</li>
+<li>Is there a surcharge for nights, weekends or public holidays?</li>
+<li>Is VAT included?</li>
+<li>How can I pay?</li>
+<li>Exactly where will the vehicle be taken?</li>
+</ol>
+<p>Get the price in writing where possible, for example over WhatsApp. A reputable provider states it before they drive out.</p>
+<h2>Our fixed price (Karlsruhe to Offenburg region)</h2>
+<p>In the Karlsruhe to Offenburg region, our fixed price for towing within a city starts at <strong>€129</strong>. It applies to shorter distances; we tell you the exact amount on the phone based on your location, destination and vehicle.</p>
+<h2>When someone else pays</h2>
+<p>After an accident that wasn't your fault, the other driver's liability insurance usually covers the towing costs. Breakdown cover or membership in an automobile club can also cover the help. Check your documents before you pay. More in our guide <a href="en-ratgeber-unfall-abschleppkosten.html">Towing costs after an accident</a>.</p>
+<h2>Checking the invoice</h2>
+<p>Compare the invoice with the price you were quoted. If it lists an amount nobody mentioned beforehand, ask for a breakdown. In a dispute over an inflated invoice after an accident, the at-fault party's insurer can be brought in, see our accident guide.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Costs</h2>
+<details><summary>Is towing more expensive at night?</summary><div>Often, yes. Always ask for the final price including all surcharges.</div></details>
+<details><summary>Does towing an EV cost more?</summary><div>It can, because a flatbed vehicle is needed and the effort can be greater. The price is quoted in advance.</div></details>
+<details><summary>Do I have to pay immediately?</summary><div>We discuss that with you before the vehicle drives out.</div></details>
+</div></section>
+<section class="section"><div class="wrap narrow"><div class="related"><a href="en-ratgeber-unfall-abschleppkosten.html">After the Accident<small>Who pays?</small></a><a href="en-ratgeber-abschleppseil-oder-abschleppdienst.html">Tow rope?<small>DIY towing or a professional</small></a><a href="en-abschleppdienst-karlsruhe.html">Karlsruhe<small>Fixed price from €129</small></a></div></div></section>
+@@CTA@@
+=== en-ratgeber-panne-autobahn | Breaking Down on the Motorway: What to Do? The Right Steps | Breaking down on the motorway: hazard lights, hi-vis vest, warning triangle, emergency phone, towing service. The steps in the right order, with distances. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Breaking Down on the Motorway: What to Do?</h1><p class="lead">Stay calm and follow these steps in order. Your safety comes before the vehicle.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>The steps</h2>
+<ol>
+<li><strong>Switch on your hazard lights</strong> and coast as far right as you can with the momentum you have. If possible, aim for the next rest area or exit, otherwise the hard shoulder.</li>
+<li><strong>Put on a hi-vis vest</strong> before getting out. Get out on the passenger side, away from moving traffic.</li>
+<li><strong>Get everyone out</strong> and move behind the crash barrier. Don't leave children or pets in the vehicle.</li>
+<li><strong>Set up a warning triangle</strong>, but only if it's safe to do so. On the motorway, a rough guideline is at least 150 metres, more if possible. Walk there from behind the crash barrier.</li>
+<li><strong>Call for help:</strong> 112 if anyone is injured. For a breakdown with no injuries, call a towing service or your automobile club's or insurer's roadside assistance.</li>
+<li><strong>Don't repair it yourself</strong>, and don't change a wheel on the hard shoulder.</li>
+</ol>
+<h2>Why the order matters</h2>
+<p>Most serious accidents after a breakdown aren't caused by the breakdown itself, but by what follows: people standing on the hard shoulder, working on the vehicle, or walking around without a hi-vis vest. A vehicle can be replaced, you can't. Leave the car as quickly as possible and get behind the crash barrier.</p>
+<h2>Distance for the warning triangle</h2>
+<table class="tbl"><thead><tr><th>Road type</th><th>Reference distance</th></tr></thead><tbody>
+<tr><td>In town</td><td>about 50 metres</td></tr>
+<tr><td>Country road</td><td>about 100 metres</td></tr>
+<tr><td>Motorway</td><td>at least 150 metres, up to about 400 metres</td></tr>
+</tbody></table>
+<p class="fine">German traffic law (§ 15 StVO) requires a warning sign at a sufficient distance. The figures given are common reference values. Behind a bend or a crest, place the triangle further away.</p>
+<h2>Reporting your location</h2>
+<p>What matters is the motorway (e.g. A5), your direction of travel, the last exit, and, if visible, the distance marker on the signs. The arrows on the guide posts point to the nearest emergency phone. On your phone you can share your location via WhatsApp. If you use the emergency phone, you don't need to explain anything: it's connected to a control centre that already knows your location.</p>
+<h2>Why you can't always choose the towing service</h2>
+<p>If the police attend, or you've used the emergency phone, a contracted company is often assigned. You can state your preference, but the company doesn't always decide based on it. For a simple breakdown without police involvement, you can choose freely.</p>
+<h2>Towing from the motorway</h2>
+<p>When towing a vehicle that has broken down on the motorway, the motorway must be left at the next exit (§ 15a para. 1 StVO). Both vehicles must have their hazard lights on while towing. Motorcycles may not be towed; they must be transported.</p>
+<h2>Stuck in a traffic jam</h2>
+<p>In slow-moving traffic, an emergency lane must be formed. A stranded vehicle must not block it. Move as far to the side as you can.</p>
+<h2>Special cases</h2>
+<ul class="ticks">
+<li><strong>In a tunnel:</strong> hazard lights on, engine off, leave the vehicle, head to the nearest emergency point, if it's safe to do so.</li>
+<li><strong>Warning light in the dashboard:</strong> for red symbols like oil pressure or coolant, stop immediately, see <a href="ratgeber-warnleuchten-auto.html">Warning lights in your car</a>.</li>
+<li><strong>Electric car:</strong> if there's smoke or battery damage, keep your distance and call 112. See <a href="en-ratgeber-e-auto-abschleppen.html">Towing an electric car</a>.</li>
+<li><strong>With children or pets:</strong> get everyone to safety first, then make phone calls.</li>
+<li><strong>At night or in fog:</strong> always get behind the crash barrier, wear the hi-vis vest, and make the vehicle as visible as possible.</li>
+</ul>
+<p>Detailed help for the A5 between Karlsruhe and Offenburg: <a href="en-abschleppdienst-a5.html">Towing Service A5</a>. For Cologne: <a href="en-pannenhilfe-koelner-autobahnring.html">Cologne Motorway Ring</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>How far behind the car must the warning triangle be?</summary><div>On the motorway, at least 150 metres, often more. If that's only possible with risk, skip it and get behind the crash barrier instead.</div></details>
+<details><summary>Do I have to wear a hi-vis vest?</summary><div>A hi-vis vest should be kept in the vehicle, and in a motorway breakdown you should put it on before getting out.</div></details>
+<details><summary>Who do I call first?</summary><div>112 if anyone is injured, otherwise your breakdown service or us.</div></details>
+<details><summary>Can I change a wheel on the hard shoulder?</summary><div>We advise against it. The hard shoulder is close to moving traffic. It's safer to call a breakdown service.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-unfall-abschleppkosten | Towing Costs After an Accident: Who Pays? | Who pays for towing after an accident? Liability insurance, free choice of towing service, the nearest garage, an inflated invoice. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Towing Costs After an Accident: Who Pays?</h1><p class="lead">If you didn't cause the accident, the other driver's insurer usually pays.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p>This is a general overview, not legal advice. In a dispute, a lawyer or your insurer can help.</p></div>
+<h2>The basic rule</h2>
+<p>If someone else is responsible for the accident, their vehicle liability insurance usually covers the towing costs. Towing costs count among the damages that get reimbursed.</p>
+<h2>Who chooses the towing service?</h2>
+<p>As the injured party, you may choose the company yourself. You don't have to compare prices in an emergency. Right after an accident, there's usually no time for that anyway. In such an urgent situation, the at-fault party owes the costs actually incurred, regardless of whether the price matches the average.</p>
+<h2>Where may the vehicle go?</h2>
+<p>The duty to minimise damages applies: you should keep costs as low as reasonably possible. In practice that usually means the vehicle goes to the nearest suitable garage. A long trip to your regular garage can mean the insurer won't cover the extra cost. Discuss the destination with us and with your insurer beforehand. Whether the car may even be driven at all is covered in <a href="ratgeber-nach-unfall-fahrbereit.html">After the accident: still roadworthy or towed?</a></p>
+<h2>If the insurer thinks the price is too high</h2>
+<p>Usually the person who ordered the tow, meaning you, pays the invoice first. If the insurer thinks it's inflated, it can ask you to assign your claim against the towing company to it and handle the dispute itself. Then you don't have to argue about it.</p>
+<h2>If you caused the accident</h2>
+<p>Then you pay first yourself, unless your comprehensive cover, breakdown cover, or automobile club membership covers it. A quick look at your policy or a call to your insurer will clarify this.</p>
+<h2>If both sides share the blame</h2>
+<p>If those involved share the blame, the costs are also split, according to the ratio the insurers determine. In that case, keep all receipts and pay the invoice yourself so you can claim it back.</p>
+<h2>What to do after an accident</h2>
+<ol>
+<li>Secure the scene: hazard lights, hi-vis vest, warning triangle.</li>
+<li>Call 112 if anyone is injured.</li>
+<li>Call the police if needed, especially for injuries, a dispute over fault, or a hit-and-run.</li>
+<li>Exchange details: name, address, licence plate, insurer.</li>
+<li>Take photos: vehicles, damage, location, road.</li>
+<li>Choose a towing service and state the destination.</li>
+<li>Keep the invoice and receipt.</li>
+</ol>
+<h2>What you should keep as evidence</h2>
+<ul class="ticks">
+<li>Photos of the vehicle, the accident scene, and the damage</li>
+<li>The other driver's name and insurer; call the police if needed</li>
+<li>The invoice and proof that it's been paid</li>
+<li>The towing destination and the reason you chose it</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Do I have to use the towing service the police name?</summary><div>If the police call in a contracted service, that's a different situation. But you may still state your preference. For minor accidents without police involvement, you can choose freely.</div></details>
+<details><summary>Can I have the car taken straight to my regular garage?</summary><div>That's possible, but after an accident that wasn't your fault, the insurer usually only covers the trip to the nearest suitable garage.</div></details>
+<details><summary>Do I have to compare prices?</summary><div>No. In the emergency after an accident, you don't need to get quotes.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-e-auto-abschleppen | Towing an Electric Car: What You Should Know | Electric car broken down: why EVs should be loaded onto a flatbed, what regenerative braking has to do with it, and what applies after an accident. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Towing an Electric Car: What You Should Know</h1><p class="lead">Electric cars are transported most safely on a flatbed vehicle. Here's why.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Why not just pull it?</h2>
+<p>An electric motor can work as a generator. That's the principle behind regenerative braking: the vehicle recovers energy while braking. If the driven wheels turn while being towed, the motor generates voltage that the powered-down control electronics can't handle. In the worst case, this causes damage. That's why the driven axle shouldn't touch the ground.</p>
+<h2>The safe way: a flatbed vehicle</h2>
+<p>A vehicle with a loading bed transports the EV entirely off the ground. This method is considered the safest and is generally accepted by manufacturers. Whether and how a specific model may be moved another way is stated in the owner's manual. If in doubt, ask the manufacturer or your garage.</p>
+<h2>Fully electric, hybrid, plug-in hybrid</h2>
+<p>Hybrids also have an electric motor and sometimes a high-voltage battery. What applies to pure electric cars can therefore also apply, depending on the model, to plug-in hybrids and other hybrid vehicles. Tell us on the phone what drivetrain your vehicle has. If you don't know, tell us the make, model and year.</p>
+<h2>What to tell us</h2>
+<ul class="ticks">
+<li>Make, model and drivetrain: fully electric, hybrid, or plug-in hybrid</li>
+<li>Whether the vehicle still rolls or is locked (on some models the parking lock or electric parking brake can't be released without power)</li>
+<li>Whether there was an accident or a high-voltage battery warning</li>
+<li>Where it is: underground garage, charging point, street</li>
+<li>Whether the vehicle is plugged into a charging point</li>
+</ul>
+<h2>Flat 12-volt battery</h2>
+<p>Electric cars also have a small 12-volt battery for electronics, locks and brakes. If it's flat, the vehicle sometimes can't be unlocked or started, even though the main battery still has charge. Jump-starting is then possible depending on the model, but only at the connection points specified by the manufacturer. More in our guide <a href="en-ratgeber-starthilfe-batterie.html">Jump-starting and a flat battery</a>.</p>
+<h2>After an accident</h2>
+<p>If the battery is damaged or there's smoke: keep your distance and call 112. Tell the fire brigade it's an electric car. The vehicle is then properly secured and transported away. A damaged vehicle shouldn't be left in an underground garage or right next to buildings.</p>
+<h2>Just out of range, nothing else wrong?</h2>
+<p>If it's simply run out of range, towing usually isn't necessary. Transport to the nearest charging point or garage is possible. Tell us the destination and vehicle, and we'll discuss the next steps.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I pull an EV with a tow rope?</summary><div>We advise against it. Never with the driven wheels on the ground, and not before checking the owner's manual.</div></details>
+<details><summary>Is it more expensive to tow an EV?</summary><div>It can be, because a flatbed vehicle is needed. The price is quoted in advance.</div></details>
+<details><summary>Can I keep driving an EV after an accident?</summary><div>No, if the battery might be damaged or warning lights are on. Have it transported and inspected.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-starthilfe-batterie | Jump-Starting and a Flat Battery: Causes and Process | Car won't start? Causes of a flat battery, jump-starting step by step, special cases, and when a towing service makes sense. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Jump-Starting and a Flat Battery</h1><p class="lead">Car just clicks, or does nothing at all? Usually the battery is to blame. It can often be fixed on the spot.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>How to recognise a flat battery</h2>
+<ul class="ticks">
+<li>Turning the key or pressing the start button does nothing, or just clicks</li>
+<li>The starter motor turns very slowly</li>
+<li>The dashboard lights are dim or go out when you try to start</li>
+<li>Central locking no longer responds</li>
+</ul>
+<h2>Why the battery goes flat</h2>
+<ul class="ticks">
+<li><strong>Cold:</strong> in frost a battery delivers less power, but the engine needs more.</li>
+<li><strong>Short trips:</strong> driving only short distances barely recharges the battery.</li>
+<li><strong>Age:</strong> capacity fades after a few years.</li>
+<li><strong>Lights or accessories left on:</strong> a forgotten parking light is enough.</li>
+<li><strong>Long standing time:</strong> even a parked vehicle uses power, for example for the alarm and control units.</li>
+</ul>
+<h2>Jump-starting step by step</h2>
+<p>For a jump-start you need a second vehicle with a similar battery voltage and jump-start cables. An overview:</p>
+<ol>
+<li>Both engines off, ignition off. Don't let the clamps touch each other.</li>
+<li>Red cable to the positive terminal of the flat battery, then to the positive terminal of the donor battery.</li>
+<li>Black cable to the negative terminal of the donor battery, the other end to a bare metal part on the engine block or an earth point of the stranded vehicle, not to the negative terminal of the flat battery.</li>
+<li>Start the donor vehicle and let it run briefly, then start the stranded vehicle.</li>
+<li>Remove the cables in reverse order. Then drive for a longer stretch so the battery recharges.</li>
+</ol>
+<div class="note"><p>On hybrid and electric cars, start-stop systems and modern vehicles, the connection points are often specifically designated. Read the owner's manual before attaching cables.</p></div>
+<h2>Common mistakes</h2>
+<ul class="ticks">
+<li>Cables swapped: positive to negative can destroy the electronics.</li>
+<li>Black cable straight to the negative terminal of the flat battery: this can cause sparks at the battery.</li>
+<li>Running it too briefly: switching off right after starting means you'll soon be stuck again.</li>
+<li>Jump-starting an obviously damaged or frozen battery: don't do this.</li>
+</ul>
+<h2>When you should call us</h2>
+<ul class="ticks">
+<li>You don't have a second vehicle or cables</li>
+<li>You're somewhere dangerous (motorway, tunnel, underground garage)</li>
+<li>The vehicle still won't start despite jump-starting; there may be another fault</li>
+<li>It's a hybrid or electric car</li>
+</ul>
+<p>We try jump-starting the vehicle on the spot first. If that doesn't work, we take it to a garage.</p>
+<h2>Preventing it next time</h2>
+<p>Have the battery checked, especially if it's already a few years old. Avoid repeated short trips in winter, or recharge the battery occasionally with a charger. Breakdown cover can also be worthwhile, since it covers roadside assistance.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>How long do I need to drive after jump-starting?</summary><div>A longer drive is better than a short trip, because the alternator needs time to recharge the battery. Have the battery checked afterwards.</div></details>
+<details><summary>Can jump-starting damage the car?</summary><div>Yes, if connected incorrectly. Follow the owner's manual, or let us do it.</div></details>
+<details><summary>Can I just try again in the cold?</summary><div>Several attempts in a row drain the battery further. Better to wait a few minutes or get a jump-start.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-reifenpanne | Flat Tyre: Spare Wheel, Puncture Kit or Towing? | Flat tyre: spare wheel, puncture kit or towing service? What makes sense, where you can change it safely, and when to call for help. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Flat Tyre: What Now?</h1><p class="lead">Spare wheel, puncture kit, or tow truck? It depends on the damage and the location.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Secure the scene first</h2>
+<p>Hazard lights on, drive to a safe spot, and put on a hi-vis vest. Only change the tyre where it's safe: on level ground, not at the edge of a fast road, and not on the motorway hard shoulder.</p>
+<h2>How to recognise tyre damage</h2>
+<ul class="ticks">
+<li>The vehicle suddenly pulls to one side</li>
+<li>There's a flapping or thumping sound</li>
+<li>The tyre-pressure warning light comes on</li>
+<li>You hear a hissing sound, or the tyre visibly looks flat</li>
+</ul>
+<p>Don't brake sharply; ease off the accelerator, hold the wheel firmly, and coast to a stop.</p>
+<h2>What your vehicle carries</h2>
+<ul class="ticks">
+<li><strong>Spare wheel:</strong> change it if you're standing safely and know the procedure.</li>
+<li><strong>Puncture kit (sealant and compressor):</strong> many new vehicles only carry this. It helps with small holes in the tread, not with sidewall damage.</li>
+<li><strong>Run-flat tyres:</strong> allow you to continue at reduced speed. Details are in the owner's manual.</li>
+</ul>
+<p>After a repair with a puncture kit, a speed limit of around 80 km/h and a short distance to the garage usually applies. The exact figures are on the kit.</p>
+<h2>Changing the wheel in five steps</h2>
+<ol>
+<li>Apply the handbrake, engage a gear, use a wheel chock if you have one.</li>
+<li>Loosen the wheel nuts slightly while the wheel is still on the ground.</li>
+<li>Raise the vehicle at the point specified by the manufacturer.</li>
+<li>Change the wheel, screw the nuts on by hand.</li>
+<li>Lower the vehicle and tighten the nuts in a crisscross pattern. Have them re-torqued with a torque wrench soon after.</li>
+</ol>
+<h2>When a towing service is better</h2>
+<ul class="ticks">
+<li>The tyre's sidewall is torn</li>
+<li>There's no spare wheel and the puncture kit doesn't help</li>
+<li>You're on the motorway, in a tunnel, or somewhere with poor visibility</li>
+<li>You can't loosen the wheel (locking nut, wheel lock) or it's dark and wet</li>
+<li>The jack or tools are missing</li>
+</ul>
+<p>Direct transport to a tyre service is often the simplest solution. We'll take your vehicle there or to the garage of your choice.</p>
+<h2>After the change</h2>
+<p>Have the tyre pressure and wheel nuts checked soon. A space-saver spare is only meant for short distances. Have the damaged tyre inspected: a tyre driven on the rim can be damaged on the inside.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I keep driving on a flat tyre?</summary><div>Only a short distance, and only if it's safe. Driving on the rim damages the tyre, the rim, and in the worst case the axle.</div></details>
+<details><summary>Do you change the tyre on the spot?</summary><div>If a spare wheel is available and the location is safe enough, we try to help you on the spot first. Otherwise we transport the vehicle to a tyre service.</div></details>
+<details><summary>Is a puncture kit a substitute for a spare wheel?</summary><div>Only for small holes in the tread. For bigger damage it doesn't help, and towing is needed.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-falsch-getankt | Wrong Fuel: What to Do Now | Put diesel in a petrol car, or the other way round? If you catch the mistake early, the damage can usually be limited. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Wrong Fuel: What Now?</h1><p class="lead">Diesel in a petrol car, or petrol in a diesel: if you notice the mistake early, the damage can usually be kept to a minimum.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Do this immediately</h2>
+<ol>
+<li><strong>Stop refuelling.</strong> As soon as you realise you've used the wrong pump, stop.</li>
+<li><strong>Don't start the engine or switch on the ignition.</strong> If the fuel is in the tank but hasn't reached the fuel line yet, the damage is usually small.</li>
+<li><strong>Keep the door closed if possible.</strong> On many modern vehicles, opening the driver's door already starts the fuel pre-supply pump, which can carry the wrong mixture further.</li>
+<li><strong>Move the vehicle to a safe spot,</strong> for example by rolling or pushing it away from the pump.</li>
+<li><strong>Call for help:</strong> a garage or towing service can take the vehicle somewhere the tank can be pumped out.</li>
+</ol>
+<h2>If the engine has already run</h2>
+<p>If you only notice the mistake while driving, for example because the engine stutters or warning lights come on, switch off the engine immediately, coast to a safe spot, and don't drive any further. The longer the wrong fuel mixture runs through the system, the greater the potential damage to the injection system, up to and including the high-pressure pump, injectors and fuel lines.</p>
+<h2>What happens at the garage</h2>
+<p>The tank is pumped out and, if needed, flushed. Depending on how far the wrong fuel travelled, the lines and filters are also checked. It's worth telling the garage exactly when you noticed the mistake and whether the engine was running.</p>
+<h2>Who pays?</h2>
+<p>The mistake is usually yours. Manufacturers or vehicle insurance generally don't cover a wrongly filled tank. With breakdown cover, part of the cost for towing and pumping out can be reimbursed. Check your policy or call your club before you pay.</p>
+<h2>Preventing it</h2>
+<ul class="ticks">
+<li>Read the sign on the pump nozzle and the label inside the fuel cap.</li>
+<li>Diesel nozzles are usually thicker and don't fit many petrol cars. That's a clue, but not a guaranteed safeguard.</li>
+<li>If you have a rental vehicle, ask about the fuel type at handover.</li>
+<li>If unsure: don't refuel, ask first.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I just keep driving if I only put in a small amount of the wrong fuel?</summary><div>No. Even small amounts can cause damage. The vehicle should go to a garage.</div></details>
+<details><summary>Why shouldn't I open the door?</summary><div>On many modern vehicles, the fuel pre-supply pump starts as soon as the driver's door opens. You can avoid this by leaving it closed.</div></details>
+<details><summary>Will you take the vehicle to my garage?</summary><div>Yes, just give us the address. It should be able to pump out the tank. Call ahead to check.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-ausgesperrt | Locked Out: Key Inside the Car: What to Do | Locked your keys inside the car? Spare key, manufacturer app, automobile club, professional unlocking, and what not to try. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Locked Out: Key Inside the Car</h1><p class="lead">Door shut, key inside? Stay calm. There are ways to open the vehicle without causing damage.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p><strong>Emergency:</strong> if a child or a pet is locked inside the car, call 112 immediately, especially in warm weather.</p></div>
+<h2>Try the simple options first</h2>
+<ol>
+<li><strong>Spare key:</strong> can someone bring it?</li>
+<li><strong>Manufacturer app:</strong> some vehicles can be unlocked via an app.</li>
+<li><strong>Automobile club or breakdown cover:</strong> members can prove ownership with vehicle documents and ID.</li>
+<li><strong>Roadside assistance or a locksmith:</strong> professionals can usually open the vehicle without damage.</li>
+</ol>
+<h2>What not to try</h2>
+<p>Pushing a wire, coat hanger or wedge into the window gap often leads to scratches, bent door frames, damaged seals, and problems with the electronics or airbags. In the end that's often more expensive than a proper unlocking. Breaking a window is usually the most expensive option of all.</p>
+<h2>How a professional unlocking works</h2>
+<p>Professionals use specialist tools and usually open the door within a few minutes without leaving any trace. Have your ID and vehicle documents ready, or other proof that the vehicle is yours. A reputable provider will ask for this.</p>
+<h2>Costs and breakdown cover</h2>
+<p>Breakdown cover or automobile club membership can cover all or part of the cost, often up to a maximum per case. Ask your insurer before you pay. If a provider gives you a quote, ask about the price beforehand.</p>
+<h2>What to tell us on the phone</h2>
+<ul class="ticks">
+<li>Make, model and year of the vehicle</li>
+<li>Whether a window or sunroof is open</li>
+<li>Whether there are people, pets, or valuables inside</li>
+<li>Where you are, and whether you have your ID and registration document with you</li>
+</ul>
+<h2>Lost the key, rather than locked inside</h2>
+<p>If the key isn't in the car but lost, unlocking won't help, since the vehicle usually can't be started without it. A replacement key usually comes through the garage or manufacturer, for which you'll need vehicle documents and ID. Until then, the vehicle can be taken to the garage on a flatbed.</p>
+<h2>Keyless-go: key left in the car, or missing</h2>
+<p>Vehicles with keyless-go unlock and start by radio signal as soon as the key is nearby. That has consequences: if the key is inside a locked car, the approach depends on the model. A second key or the manufacturer app is the safest route. If the key is missing entirely and there's no spare, transport to the garage to have a new key programmed is often the only option. Some manufacturers even check while driving whether the key is still in the car, and the vehicle will stop after several warnings. So when swapping drivers, don't leave the key with the person getting out.</p>
+<p>Some modern vehicles can be unlocked via a manufacturer app. Whether that works for your model is in the owner's manual. If you've lost the key, theft protection is also a factor: if you suspect theft, call the police.</p>
+<h2>Preventing it</h2>
+<ul class="ticks">
+<li>Keep a spare key outside the vehicle.</li>
+<li>Pay attention to key fobs with a lock-status indicator.</li>
+<li>Always take the key with you when getting out, even for a quick fuel stop.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Does unlocking damage my car?</summary><div>Not usually, if done professionally.</div></details>
+<details><summary>Do I need documents?</summary><div>Yes, proof that the vehicle is yours is standard: vehicle documents and ID.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-motorrad-transport | Motorcycle Transport After a Breakdown or Fall | Motorcycles can't be towed. Here's how transport works after a breakdown or a fall, and what to prepare. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Motorcycle Transport After a Breakdown or Fall</h1><p class="lead">A motorcycle can't be towed. It has to be transported. That's not a drawback, it's the safer solution.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What the law says</h2>
+<p>Under § 15a para. 4 of German traffic law (StVO), motorcycles may not be towed. The reason is stability: a motorcycle hanging on a rope behind a car tips over easily, and the rider on the motorcycle has almost no control. The motorcycle must instead be transported on a van, a trailer, or a flatbed vehicle.</p>
+<h2>How the transport works</h2>
+<ol>
+<li>Tell us your location, the model, and its condition: does the motorcycle still roll? Has it fallen over?</li>
+<li>The motorcycle is lifted or rolled onto the loading bed.</li>
+<li>It's secured with straps at the designated points.</li>
+<li>Transport to a garage, home, or another destination.</li>
+</ol>
+<h2>After a fall</h2>
+<ul class="ticks">
+<li>Don't start the engine if fuel or oil is leaking.</li>
+<li>Attend to anyone injured first; call 112 if there are injuries.</li>
+<li>Turn off the ignition and, if possible, close the fuel valve.</li>
+<li>Take photos of the motorcycle and the scene, in case damage needs to be claimed on insurance.</li>
+<li>Take your clothing and luggage with you.</li>
+</ul>
+<h2>What to tell us</h2>
+<ul class="ticks">
+<li>Make, model, and approximate weight (important for heavy machines)</li>
+<li>Whether it has fairings, panniers, or a sidecar</li>
+<li>Whether the handlebars or wheels are locked</li>
+<li>Where it is: road, car park, mountain road</li>
+</ul>
+<h2>Motorcycles in the mountains</h2>
+<p>In Central Baden and the Black Forest, mountain roads like the Schwarzwaldhochstraße are popular with motorcyclists. For a breakdown in a spot like that, a precise landmark such as a car park or viewpoint helps us. See <a href="en-abschleppdienst-baden-baden.html">Towing Service Baden-Baden</a>.</p>
+<h2>Gear and luggage</h2>
+<p>Take your helmet, gloves, jacket and luggage with you before the motorcycle is loaded. Panniers and top cases can come loose during transport. It's better to remove them or secure them separately. Also take any fairing parts that came loose in a fall.</p>
+<h2>Motorcycle no longer rideable: recovery</h2>
+<p>If the motorcycle is in a ditch or under a crash barrier, recovery is needed first. Tell us this right away on the phone so the right vehicle comes. Don't try to pull it out yourself if you're injured.</p>
+<h2>Insurance and breakdown cover</h2>
+<p>Check whether your breakdown cover or automobile club membership also applies to motorcycles. Many policies include it, but not all. Call ahead, or you may end up paying yourself.</p>
+<h2>Scooters and quads</h2>
+<p>The same rules apply to scooters as to motorcycles. For quads, trikes, or vehicles with a sidecar, please ask when you call, since the load needs to be secured differently.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I pull a moped with a rope?</summary><div>No. Motorcycles may not be towed.</div></details>
+<details><summary>Can you transport a heavy motorcycle too?</summary><div>Tell us the model and weight, and we'll work out which vehicle fits.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-abschleppseil-oder-abschleppdienst | Tow Rope or Towing Service? Rules and Risks | Towing your own car: rules for ropes and bars, power steering, brake assist, hazard lights, and when a professional is safer. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Tow Rope or Towing Service?</h1><p class="lead">Towing your own car is allowed, but not without risk. Here are the rules and the limits.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>The most important rules</h2>
+<ul class="ticks">
+<li><strong>Hazard lights:</strong> both vehicles must have their hazard lights on (§ 15a para. 3 StVO).</li>
+<li><strong>Distance:</strong> the rope must not be longer than about five metres and should be marked in the middle with a red cloth.</li>
+<li><strong>Motorway:</strong> a vehicle that has broken down on the motorway must be towed off at the next exit (§ 15a para. 1 StVO).</li>
+<li><strong>Motorcycles:</strong> motorcycles may not be towed (§ 15a para. 4 StVO).</li>
+<li><strong>Speed:</strong> drive slowly. About 40 km/h is a common guideline.</li>
+</ul>
+<h2>What makes towing difficult</h2>
+<p>With the engine off, power steering and brake assist don't work. The stranded vehicle then needs significantly more force to steer and brake. The rope must always stay taut, otherwise jerks and collisions can happen. Anyone unfamiliar with this easily underestimates it. And whoever sits in the back has no control over what's happening at the front.</p>
+<h2>When you shouldn't use a rope</h2>
+<ul class="ticks">
+<li><strong>Electric and hybrid cars:</strong> regenerative braking can cause damage, see <a href="en-ratgeber-e-auto-abschleppen.html">Towing an electric car</a>.</li>
+<li><strong>Automatic transmission:</strong> many models can only be towed without the engine running under restrictions, see <a href="ratgeber-automatik-abschleppen.html">Towing an automatic car</a>.</li>
+<li><strong>A locked wheel:</strong> a wheel that doesn't turn drags across the road surface. See <a href="ratgeber-handbremse-loest-sich-nicht.html">Handbrake won't release</a>.</li>
+<li><strong>Accident damage:</strong> damaged axles, steering or brakes make towing with a rope dangerous.</li>
+<li><strong>Heavy traffic, motorways, mountains:</strong> a towing service is safer here.</li>
+</ul>
+<h2>Tow bar or rope?</h2>
+<p>A tow bar keeps the vehicles at a fixed distance and makes braking easier, because the towed vehicle can't run into the back of the towing vehicle. It must fit the vehicle and be attached to the designated towing eyes.</p>
+<h2>If you do it yourself anyway: the process</h2>
+<ol>
+<li>Secure both vehicles: hazard lights on, wear a hi-vis vest.</li>
+<li>Find the towing eye or designated attachment points on both vehicles (owner's manual).</li>
+<li>Tighten the rope as the towing vehicle pulls away, but not abruptly.</li>
+<li>Switch on the ignition in the towed vehicle so the steering doesn't lock.</li>
+<li>Short distance, low speed, brake well in advance.</li>
+<li>At the destination, only release the rope once both vehicles have stopped.</li>
+</ol>
+<h2>The advantage of a towing service</h2>
+<p>A towing service loads the vehicle onto a flatbed. This spares the transmission, drivetrain and electronics, and the vehicle doesn't need to steer or brake at all. And you don't have to sit behind the wheel of a vehicle you probably shouldn't be driving anyway. Whether damage from towing your own car privately is covered by insurance is also often unclear.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Do I need a licence to tow?</summary><div>Whoever drives the towing vehicle needs the appropriate licence. Someone able to steer and brake must also sit at the wheel of the towed vehicle.</div></details>
+<details><summary>Can I have a friend tow me?</summary><div>Yes, if all the rules are followed. But consider the risks, and that damage to the towing vehicle or an accident can raise insurance questions.</div></details>
+</div></section>
+@@CTA@@
+=== en-kontakt | Contact &amp; Enquiry – Towing Service | Contact our towing service by phone, WhatsApp or form. For Cologne, and Karlsruhe, Baden-Baden, Achern and Offenburg. Reachable 24/7. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Contact</p><h1>Request Help</h1><p class="lead">Urgent? Call or message us on WhatsApp and send your location. The form is for enquiries that aren't urgent.</p></div></section>
+<section class="section"><div class="wrap split">
+<div class="copy"><h2>How to reach us</h2>
+<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Message on WhatsApp</a></p>
+<p><a class="btn btn-y" href="tel:+4917641956993">Call +49 176 41956993</a></p>
+<p><strong>Email:</strong> <a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a></p>
+<p><strong>Registered office:</strong><br>Faster Abschleppdienst<br>De Bosschaertstraat 248<br>2020 Antwerp, Belgium</p>
+<p><strong>Languages:</strong> German, Dutch, French and English.</p>
+<h2>When to call, when to use the form?</h2>
+<p><strong>Call or WhatsApp:</strong> for a breakdown, an accident, or if you're stuck somewhere. A WhatsApp location is the fastest option.</p>
+<p><strong>Form:</strong> for planned transports, vehicle relocations, or questions that aren't urgent.</p>
+<h2>What to include</h2>
+<ul class="ticks"><li>Where the vehicle is (location, street, and on a motorway the direction and exit)</li><li>Make, model and drivetrain</li><li>What happened</li><li>Where it should be taken</li></ul>
+<p>For a breakdown around Cologne or between Karlsruhe and Offenburg, you'll find more guidance on the <a href="en-index.html">Towing Service Cologne</a> and <a href="en-abschleppdienst-mittelbaden.html">Karlsruhe to Offenburg</a> pages.</p></div>
+<form class="formbox" action="https://formsubmit.co/faster24eu@gmail.com" method="POST">
+<input type="hidden" name="_subject" value="[EN Towing Service] New enquiry">
+<input type="hidden" name="_template" value="table"><input type="hidden" name="_captcha" value="true">
+<label>Name*<input name="naam" required></label>
+<label>Email*<input type="email" name="email" required></label>
+<label>Phone number<input name="telefoon"></label>
+<label>Vehicle make and model<input name="voertuig"></label>
+<label>Where is the vehicle?<input name="ophaalplaats"></label>
+<label>Where should it be taken?<input name="bestemming"></label>
+<label>What happened?<textarea name="situatie"></textarea></label>
+<button class="btn btn-y" type="submit">Send enquiry</button>
+<p class="fine">By submitting, you agree that your details will be sent to Faster by email to process your enquiry. More in the privacy policy (German).</p>
+</form></div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Contact</h2>
+<details><summary>Are you reachable at night?</summary><div>Yes, by phone and WhatsApp we're reachable around the clock.</div></details>
+<details><summary>What happens to my data?</summary><div>Your details are used to process your enquiry. Details are in the privacy policy (German).</div></details>
+<details><summary>Who carries out the job on site?</summary><div>Faster is based in Antwerp. On the ground, we work with partners; we coordinate the help.</div></details>
+</div></section>
+@@CTA@@
