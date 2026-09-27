@@ -34,9 +34,26 @@
 <li>Ob ein Neustart geholfen hat</li>
 <li>Wo Sie stehen, bei der Autobahn Richtung und Ausfahrt</li>
 </ul>
+<h2>Benziner, Diesel, Turbo: unterschiedliche Auslöser</h2>
+<p>Der Notlauf schützt Motor und Abgassystem, indem das Steuergerät Leistung und Drehzahl begrenzt. Bei Turbomotoren kann ein Fehler in der Ladedruckregelung oder ein undichter Ladeluftschlauch der Auslöser sein. Bei Dieselfahrzeugen kommen Störungen im Abgassystem hinzu, etwa am Partikelfilter oder an der Abgasrückführung. Bei Benzinern sind Zündspulen und Sensoren häufige Kandidaten. Welche Ursache bei Ihnen vorliegt, klärt nur das Auslesen des Fehlerspeichers.</p>
+<h2>Motor aus, Motor an: hilft das?</h2>
+<p>Häufig verschwindet der Notlauf nach dem Abstellen und Neustarten für eine Weile, weil das Steuergerät die Fehlermeldung zurücksetzt. Das ist keine Reparatur, sondern verschiebt das Problem. Kommt der Notlauf beim nächsten Gasgeben zurück, ist die Ursache noch da. Verlassen Sie sich nicht darauf, dass das Auto "wieder normal" wirkt, wenn die Motorkontrollleuchte an bleibt.</p>
+<h2>Fehlerspeicher auslesen</h2>
+<p>Die Ursache steht im Fehlerspeicher. Werkstätten lesen ihn über die OBD-Schnittstelle aus. Auch einfache Adapter mit Smartphone-App können Codes anzeigen, sie ersetzen aber keine Diagnose. Notieren Sie für die Werkstatt: Wann trat der Notlauf auf, bei welcher Last, bei kaltem oder warmem Motor, mit welcher Meldung im Kombiinstrument.</p>
+<h2>Kurz weiterfahren oder abschleppen lassen?</h2>
+<ul>
+<li><strong>Weiterfahren</strong> kann bei leichter Leistungsreduzierung und ohne rote Warnleuchte für eine kurze Strecke vertretbar sein, um einen sicheren Ort zu erreichen.</li>
+<li><strong>Anhalten und transportieren lassen</strong> sollten Sie bei roter Warnleuchte, Motorruckeln, Geruch nach Kraftstoff oder verbranntem Öl, Rauch oder ungewöhnlichen Geräuschen.</li>
+<li>Auf Autobahnen mit stark begrenzter Leistung ist die Weiterfahrt gefährlich, weil Sie deutlich langsamer als der Verkehr sind. Nutzen Sie die nächste Ausfahrt oder den Seitenstreifen und den <a href="ratgeber-panne-autobahn.html">Ablauf bei einer Panne</a>.</li>
+</ul>
+<h2>Nach dem Notlauf</h2>
+<p>Lassen Sie das Fahrzeug zeitnah prüfen. Ignorierte Fehler wie ein defektes Ladedruckventil oder ein undichter Luftschlauch können zu teuren Folgeschäden am Turbolader oder Katalysator führen. Das gilt besonders, wenn die Motorleuchte gelb blinkt oder das Fahrzeug im Stand ungleichmäßig läuft.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
 <details><summary>Ist der Notlauf gefährlich?</summary><div>Er schützt den Motor. Gefährlich wird es, wenn das Fahrzeug im dichten Verkehr oder am Berg zu wenig Leistung hat.</div></details>
 <details><summary>Verschwindet der Notlauf nach dem Neustart?</summary><div>Oft für kurze Zeit. Die Ursache bleibt gespeichert und der Notlauf kann wiederkommen. Lassen Sie das Fahrzeug prüfen.</div></details>
+<details><summary>Ist Notlauf dasselbe wie eine Motorkontrollleuchte?</summary><div>Nein. Die Motorkontrollleuchte zeigt einen Fehler an, der Notlauf ist die Schutzreaktion des Steuergeräts mit begrenzter Leistung. Beides kann zusammen auftreten.</div></details>
+<details><summary>Kann ich den Notlauf selbst zurücksetzen?</summary><div>Ein Neustart oder das Abklemmen der Batterie kann die Meldung löschen, aber nicht die Ursache beheben. Der Fehler kommt meist zurück.</div></details>
+<details><summary>Wie wirkt sich Notlauf auf die Weiterfahrt aus?</summary><div>Die Leistung ist reduziert, meist verbunden mit begrenzter Drehzahl. Auf Landstraße und Autobahn ist das riskant, weil Sie langsamer sind als der Verkehr.</div></details>
 </div></section>
 @@CTA@@

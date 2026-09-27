@@ -263,3 +263,8 @@ Owner decision: expand to all of Germany (partners exist everywhere), organic on
 - **Owner check:** none of these pages claims an Umweltzone/Fahrverbot (not verified). Salzbachtalbrücke dates come from the A66 Wikipedia article and may change.
 - Checks: 76 pages, 0 broken links, no pair ≥10 % overlap, title/description within limits.
 - Note: git once failed with "paging file too small" (Windows memory pressure, Opera uses ~4 GB); retry after a pause works.
+
+### Cycle 19 (2026-09-27 ~03:30) – Dortmund, Essen, Leipzig, Bremen + 8 guides expanded
+- New city pages: Dortmund, Essen, Leipzig, Bremen (`geo_003.txt`; facts from Wikipedia extracts: Stadtbezirke counts, A40/A45/A2, A52 Mintarder Ruhrtalbrücke, A42, A14/A38, Mittlerer Ring Leipzig, A1/A27/A281 Bremen).
+- **Owner check:** Dortmund "A2 bildet ab Kreuz Dortmund-Nordwest den nördlichen Teil des (Dortmunder Autobahn-)Rings" – the Wikipedia sentence was cut off in my extract, ring name inferred. Essen "mehr als 570.000 Einwohner" (extract truncated). Leipzig population as amtlich vs. Melderegister both given.
+- Ratgeber expanded to 825–950 words each with new sections/FAQs: lenkradsperre-klemmt, auto-festgefahren, bremsen-versagen, kupplung-defekt, notlauf-auto, oelverlust-oelspur, servolenkung-ausgefallen, wasserschlag-ueberschwemmung. Content is general automotive knowledge, hedged where model-specific (Notstart Keyless: "Handbuch"). No numbers/prices.

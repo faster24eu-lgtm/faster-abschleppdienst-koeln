@@ -68,9 +68,27 @@
 </ul>
 <h2>Nach dem Transport</h2>
 <p>Die Werkstatt prüft, ob es an Geber- oder Nehmerzylinder, Rückholfeder, Kupplungsscheibe oder Zugseil liegt. Fragen Sie vor der Reparatur nach einer Kostenschätzung. Beschreiben Sie, wie sich der Defekt angekündigt hat, das erleichtert die Diagnose.</p>
+<h2>Rutschen, Schleifen, Trennen: drei verschiedene Fehler</h2>
+<p>Eine defekte Kupplung zeigt sich nicht immer gleich. <strong>Rutscht</strong> sie, steigt die Drehzahl, ohne dass das Auto entsprechend beschleunigt, oft mit Geruch nach verbranntem Belag. <strong>Trennt</strong> sie nicht sauber, lassen sich Gänge nur mit Kraft oder unter Geräuschen einlegen, das Auto kann beim Einlegen anspringen wollen. <strong>Schleift</strong> sie, kommen Geräusche beim Treten oder Loslassen des Pedals hinzu. Ein Pedal, das nach dem Treten am Boden bleibt oder ohne Widerstand nachgibt, weist eher auf die Hydraulik als auf den Belag hin.</p>
+<h2>Woher die Störung kommen kann</h2>
+<ul>
+<li><strong>Verschleiß der Kupplungsscheibe</strong> nach vielen Kilometern, häufigem Stop-and-go oder Anhängerbetrieb.</li>
+<li><strong>Hydraulik:</strong> Geber- oder Nehmerzylinder oder eine Leitung können undicht werden, Luft im System lässt das Pedal weich wirken.</li>
+<li><strong>Seilzug</strong> bei älteren Fahrzeugen: er kann sich längen, reißen oder falsch eingestellt sein.</li>
+<li><strong>Ausrücklager oder Zweimassenschwungrad</strong>, die sich durch Geräusche beim Betätigen bemerkbar machen.</li>
+</ul>
+<h2>Anfahren ohne Kupplung: kein guter Plan</h2>
+<p>Manchmal liest man den Tipp, ohne Kupplung im Gang anzufahren oder Gänge ohne Treten zu wechseln. Das ist ein Notbehelf für Extremsituationen, etwa um aus einer gefährlichen Stelle zu kommen. Als Dauerlösung belastet es Anlasser und Getriebe und kann zu Folgeschäden führen. Für den Weg zur Werkstatt reicht es nicht. Wer die Kupplung nicht mehr sicher bedienen kann, lässt das Fahrzeug transportieren.</p>
+<h2>Automatik und Doppelkupplung</h2>
+<p>Bei Fahrzeugen mit Doppelkupplungsgetriebe oder Automatik sieht eine Störung anders aus: Das Fahrzeug ruckelt beim Anfahren, hat Aussetzer oder wechselt Gänge unregelmäßig, oft mit Warnmeldung. Auch dann sollten Sie nicht auf eigene Faust weiterfahren. Wie ein Automatikfahrzeug transportiert wird, steht im <a href="ratgeber-automatik-abschleppen.html">Ratgeber Automatik abschleppen</a>.</p>
+<h2>Sicher stehen bleiben</h2>
+<p>Bleiben Sie mit einer defekten Kupplung nicht in einer Kreuzung oder auf der Fahrbahn stehen, sondern rollen Sie mit der Restgeschwindigkeit an den Rand. Schalten Sie den Warnblinker ein, ziehen Sie die Feststellbremse an und sichern Sie das Fahrzeug, notfalls mit Warndreieck. Bei Hanglage legen Sie einen Gang ein oder stellen die Räder gegen den Bordstein, damit das Fahrzeug nicht wegrollt.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
 <details><summary>Kann ich mit defekter Kupplung noch bis zur Werkstatt fahren?</summary><div>Davon raten wir ab. Sicheres Schalten ist meist nicht mehr möglich, und Sie riskieren Schäden am Getriebe. Lassen Sie das Fahrzeug transportieren.</div></details>
 <details><summary>Warum bleibt mein Kupplungspedal unten?</summary><div>Häufig klemmt der Nehmerzylinder oder eine Feder ist gebrochen. Die Werkstatt muss es prüfen.</div></details>
+<details><summary>Woran erkenne ich einen Hydraulikfehler?</summary><div>Das Pedal fühlt sich weich an, sinkt langsam zum Boden oder bleibt unten. Oft ist auch der Bremsflüssigkeitsbehälter niedrig, weil Bremse und Kupplung sich teilweise denselben Vorrat teilen.</div></details>
+<details><summary>Kann ich noch bis zur Werkstatt fahren?</summary><div>Wenn Gänge nicht mehr sauber einlegbar sind oder die Kupplung rutscht, ist der Transport auf der Ladefläche sicherer. Ein Weiterfahren kann Getriebe und Anlasser beschädigen.</div></details>
+<details><summary>Verursacht Anhängerbetrieb Kupplungsverschleiß?</summary><div>Er belastet die Kupplung stärker, besonders beim Anfahren am Berg. Ob das im Einzelfall die Ursache ist, klärt die Werkstatt.</div></details>
 </div></section>
 @@CTA@@

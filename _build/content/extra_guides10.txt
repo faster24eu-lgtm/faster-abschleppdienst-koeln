@@ -28,10 +28,28 @@
 <li>Fahrzeug und Antrieb</li>
 </ul>
 <p>Ist die Feuerwehr im Einsatz, wird auf der Autobahn oft ein Vertragsunternehmen beauftragt, siehe <a href="abschleppdienst-a5.html">Panne auf der A5</a> oder <a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a>.</p>
+<h2>Öl, Wasser oder Kühlmittel? Die Pfütze verrät viel</h2>
+<p>Nicht jede Pfütze unter dem Auto ist Öl. Klare Flüssigkeit nach dem Betrieb der Klimaanlage ist meist Kondenswasser und harmlos. Braunes bis schwarzes, ölig wirkendes Material deutet auf Motoröl. Rötliche oder bräunliche Flüssigkeit kann Getriebe- oder Servoöl sein. Farbiges, süßlich riechendes Kühlmittel kann grün, blau, rosa oder orange sein. Bremsflüssigkeit ist meist klar bis gelblich und riecht anders. Wenn Sie die Flüssigkeit nicht sicher zuordnen können, behandeln Sie es als Ölverlust und stellen Sie das Fahrzeug nicht mehr in Betrieb.</p>
+<h2>Ölstand richtig prüfen</h2>
+<p>Prüfen Sie den Ölstand bei ebenem Stand und abgestelltem Motor, am besten nach einigen Minuten, damit das Öl in die Wanne zurückfließen kann. Ziehen Sie den Peilstab, wischen Sie ihn ab, stecken Sie ihn ganz hinein und ziehen Sie ihn erneut. Liegt der Stand unter der Minimalmarke oder ist der Peilstab trocken, ist ein Weiterfahren nicht ratsam. Manche Fahrzeuge haben keinen Peilstab, sondern eine Anzeige im Kombiinstrument. Auch dann gilt: Bei Warnung anhalten.</p>
+<h2>Die Ölspur auf der Straße</h2>
+<p>Läuft Öl aus, kann eine Spur auf der Fahrbahn entstehen, die für Zweiradfahrer besonders gefährlich ist. Wenn Sie eine Ölspur bemerken oder verursachen, sichern Sie die Stelle und informieren Sie bei Gefahr für den Verkehr Polizei oder Feuerwehr. Gelangt Öl in einen Gully oder ins Erdreich, sollten Feuerwehr oder Umweltbehörde erfahren, wo es passiert ist. Verteilen Sie Öl nicht mit Wasser, das vergrößert die Fläche.</p>
+<h2>Woher der Verlust kommen kann</h2>
+<ul>
+<li>Undichte Dichtungen oder Simmerringe am Motor oder Getriebe.</li>
+<li>Ein lockerer Ölfilter oder eine beschädigte Ölablassschraube.</li>
+<li>Ein Riss in der Ölwanne, zum Beispiel nach Aufsetzen auf Bordstein oder Schlagloch.</li>
+<li>Schläuche von Servolenkung oder Turbolader.</li>
+</ul>
+<h2>Ölverlust am Fahrzeug: was das für den Transport heißt</h2>
+<p>Ein Fahrzeug, das Öl verliert, sollte nicht auf eigenen Rädern fahren, weil Motorschäden drohen und die Spur weiterwächst. Auf der Ladefläche kann es transportiert werden, wenn das Öl nicht in größeren Mengen austritt. Sagen Sie uns, wie stark das Fahrzeug tropft, ob es raucht und ob eine Warnleuchte an ist. So kann der Fahrer vor Ort mit Ölbinder und passendem Fahrzeug planen.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
 <details><summary>Muss ich eine Ölspur melden?</summary><div>Ja, ratsam ist es immer. Feuerwehr oder Polizei sichern die Stelle und veranlassen die Reinigung. So warnen Sie auch andere Verkehrsteilnehmer.</div></details>
 <details><summary>Kann ich mit wenig Ölverlust noch zur Werkstatt fahren?</summary><div>Davon raten wir ab. Auch kleine Verluste können sich schnell verstärken. Lassen Sie das Fahrzeug transportieren.</div></details>
+<details><summary>Ist Wasser unter dem Auto immer ein Problem?</summary><div>Nein. Kondenswasser der Klimaanlage ist normal. Farbige oder süßlich riechende Flüssigkeit deutet dagegen eher auf Kühlmittel.</div></details>
+<details><summary>Darf ich mit leichtem Ölverlust weiterfahren?</summary><div>Wenn der Ölstand bereits niedrig ist oder eine rote Öldruckleuchte an ist, nein. Bei geringem Tropfen und normalem Stand kann eine kurze Fahrt zur Werkstatt möglich sein, das entscheiden Sie aber am besten nach Rücksprache.</div></details>
+<details><summary>Wie verhindere ich, dass sich die Spur ausbreitet?</summary><div>Sichern Sie das Fahrzeug, verwenden Sie Ölbinder, falls vorhanden, und informieren Sie bei Gefahr für den Verkehr Polizei oder Feuerwehr.</div></details>
 </div></section>
 @@CTA@@
 === ratgeber-auto-festgefahren | Auto festgefahren: was hilft und wann Bergung nötig ist | Auto steckt im Schlamm, Schnee oder Sand fest: nicht durchdrehen, Traktionshilfen, Schaukeln und wann ein Abschleppdienst die Bergung übernehmen sollte. | page ===
@@ -56,9 +74,22 @@
 <p>Wenn ein Fahrzeug im Graben, an einer Böschung oder tief im Schlamm liegt, reicht das Aufladen nicht. Es muss geborgen werden, und das ist aufwendiger als ein normales Abschleppen. Sagen Sie uns, wie das Fahrzeug steht: welche Räder eingesunken sind, ob es gekippt ist, wie weit es von der befestigten Straße entfernt ist und ob ein Weg oder Boden für ein schweres Fahrzeug tragfähig ist. Nach Angaben von Ratgeberportalen ist eine Bergung teurer als ein normaler Abschleppeinsatz. Fragen Sie deshalb vorab nach den Bedingungen. Was bei Bergungen allgemein zählt, steht auch unter <a href="abschleppen-bergung-koeln.html">Abschleppen und Bergung in Köln</a>.</p>
 <h2>Im Winter</h2>
 <p>Im Schnee hilft ein Anfahrtsteppich oder Split, dazu ein Blick auf die Reifen: Winterreifen mit Alpine-Symbol sind bei Schnee vorgeschrieben, siehe <a href="ratgeber-winterpanne-schwarzwald.html">Winterpanne auf Bergstrecken</a>.</p>
+<h2>Der Untergrund entscheidet</h2>
+<p>Schlamm, Sand, Schnee und aufgeweichter Rasen halten ein Auto auf unterschiedliche Weise fest. Im Schlamm wühlen sich durchdrehende Räder ein und lassen das Auto tiefer sinken. Auf Sand nimmt der Halt ab, sobald die Reifen Sand wegschieben. Im Schnee bildet sich unter dem Rad schnell eine Eisfläche, und auf nassem Rasen schmiert der Untergrund. Wichtig für Sie: Je weniger Sie durchdrehen, desto besser stehen die Chancen, dass Sie das Fahrzeug ohne Hilfe wieder flottbekommen. Bei Schlamm oder Sand lohnt es sich meist, im niedrigen Gang und mit sehr wenig Gas zu arbeiten. Weitere Grundregeln nennt der Abschnitt "Nicht durchdrehen lassen" oben.</p>
+<h2>Anfahrhilfen aus dem, was da ist</h2>
+<p>Unter das angetriebene Rad legen viele Fahrer die Fußmatten, Äste, Bretter, Steine oder Streugut. Wichtig ist der Kontakt mit dem angetriebenen Rad: Bei Frontantrieb sind das die Vorderräder, bei Heckantrieb die Hinterräder, bei Allrad gegebenenfalls alle. Legen Sie das Material so, dass das Rad darauf hinauffährt und nicht wegspritzt. Achten Sie darauf, dass niemand hinter dem Rad steht, denn das Material kann weggeschleudert werden. Fußmatten sind danach oft verschmutzt oder beschädigt, das ist der Preis für die Selbsthilfe.</p>
+<h2>Wenn das Auto in einer Böschung oder im Graben steht</h2>
+<p>Steht das Fahrzeug schräg, in einer Böschung oder in einem Graben, sollten Sie nicht auf eigene Faust weiterversuchen. Das Auto kann wegrutschen oder sich in eine Lage bringen, aus der es nur mit Kran oder Winde herauskommt. Stellen Sie den Motor ab, ziehen Sie die Feststellbremse an und sichern Sie die Stelle. Auf Landstraßen und Wegen gilt: Warnblinker an, Warnweste anziehen, Warndreieck aufstellen, soweit das gefahrlos möglich ist. Lesen Sie dazu auch <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
+<h2>Wo ein Fahrzeug gezogen werden darf</h2>
+<p>Bei einer Bergung wird nicht am Stoßfänger oder an der Achse gezogen. Fahrzeuge haben dafür vorgesehene Abschlepp- oder Zugösen, oft unter einer Abdeckung, mit Gewinde im Stoßfänger. Die Öse gehört meist zum Bordwerkzeug. Wenn Sie nicht wissen, wo sie sitzt, steht es im Handbuch. Sagen Sie dem Abschleppdienst, ob die Öse vorhanden ist und ob der Zugang frei ist. Wenn nicht, klärt der Fahrer vor Ort einen sicheren Weg. Ein Ruck mit einem Seil an der falschen Stelle kann Karosserie oder Fahrwerk beschädigen.</p>
+<h2>Nach der Bergung</h2>
+<p>Ist das Auto wieder auf festem Untergrund, prüfen Sie kurz Unterboden und Frontschürze auf Schäden und lassen Sie die Räder auf ungewöhnliche Geräusche kontrollieren. Steckt Erde oder Schlamm im Radkasten, sollte er entfernt werden, damit Bremsen und Lenkung nicht behindert werden. Wenn beim Ausfahren ein Geräusch aus dem Antrieb kam oder das Fahrzeug nach links oder rechts zieht, fahren Sie nicht weiter, sondern lassen es prüfen.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
 <details><summary>Kann ich ein festgefahrenes Auto mit Seil herausziehen lassen?</summary><div>Nur mit geeigneter Ausrüstung und einem Zugfahrzeug, das nicht selbst einsinkt. Ein Abschleppseil ist dafür nicht gedacht, es kann reißen. Regeln unter <a href="ratgeber-abschleppseil-oder-abschleppdienst.html">Abschleppseil oder Abschleppdienst?</a></div></details>
 <details><summary>Ist Festfahren ein Fall für die Teilkasko?</summary><div>Das hängt vom Vertrag und den Umständen ab. Prüfen Sie Ihren Schutzbrief oder Ihre Versicherung, bevor Sie zahlen.</div></details>
+<details><summary>Bei welchem Antrieb hilft welche Methode?</summary><div>Die Anfahrhilfe gehört unter die angetriebenen Räder: vorne bei Frontantrieb, hinten bei Heckantrieb. Bei Allrad kann ein einzelnes durchdrehendes Rad reichen, um das Fahrzeug festzuhalten.</div></details>
+<details><summary>Soll ich mit Gewalt mehr Gas geben?</summary><div>Nein. Mehr Gas lässt die Räder nur tiefer einsinken und belastet Kupplung und Antrieb. Besser sind wenig Gas, ein hoher Gang und ein ruhiges Anfahren.</div></details>
+<details><summary>Kann ich das Auto selbst herausschieben lassen?</summary><div>Wenn es gefahrlos geht, kann das helfen. Bei Hanglage, Verkehr in der Nähe oder unklarem Untergrund sollten Sie keine Personen hinter oder vor dem Fahrzeug einsetzen.</div></details>
 </div></section>
 @@CTA@@

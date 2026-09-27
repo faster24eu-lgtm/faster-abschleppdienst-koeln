@@ -21,10 +21,31 @@
 <li>Marke, Modell, Schlüsselart (klassisch oder Keyless-Go)</li>
 <li>Manuell oder Automatik</li>
 </ul>
+<h2>Welche Art von Sperre hat Ihr Auto?</h2>
+<p>Bei älteren und vielen einfachen Fahrzeugen arbeitet ein mechanisches Lenkradschloss: Wird der Schlüssel abgezogen und das Lenkrad ein Stück gedreht, rastet ein Bolzen in die Lenksäule ein, meist mit einem hörbaren Klick. Neuere Fahrzeuge haben oft eine elektrische Lenksäulenverriegelung, die vom Steuergerät gesteuert wird. Dort gibt es keinen Schlüsseldreh gegen einen mechanischen Widerstand mehr, sondern eine Meldung im Kombiinstrument oder ein Auto, das auf Start nicht reagiert. Wenn Sie nicht wissen, welche Variante Ihr Auto hat, hilft das Handbuch im Abschnitt "Lenkradschloss" oder "Starten des Motors".</p>
+<h2>Woran Sie die Ursache erkennen</h2>
+<ul>
+<li><strong>Der Schlüssel lässt sich nicht bis in die Zündstellung drehen, das Lenkrad rührt sich nicht:</strong> typisch für eine verspannte mechanische Sperre.</li>
+<li><strong>Der Schlüssel dreht sich, aber der Anlasser bleibt still:</strong> die Ursache liegt eher bei Batterie, Wegfahrsperre oder Anlasser als bei der Lenkradsperre, siehe <a href="ratgeber-auto-springt-nicht-an.html">Auto springt nicht an</a>.</li>
+<li><strong>Die Lenkung wirkt beim Fahren plötzlich blockiert:</strong> das ist ein Notfall, der nichts mit dem Abstellen zu tun hat. Siehe <a href="ratgeber-servolenkung-ausgefallen.html">Servolenkung ausgefallen</a>.</li>
+</ul>
+<h2>Keyless-Go: Start per Knopf</h2>
+<p>Bei Fahrzeugen mit Startknopf löst sich die Lenkradsperre, sobald das Auto den Schlüssel im Innenraum erkennt und Sie den Knopf drücken, bei Automatikfahrzeugen meist mit getretener Bremse. Erkennt das Auto den Schlüssel nicht, kann die Schlüsselbatterie leer sein. Viele Hersteller sehen einen Notstart vor, bei dem Sie den Schlüssel an eine bestimmte Stelle am Lenkrad, an der Mittelkonsole oder direkt an den Startknopf halten. Wo genau, steht im Handbuch Ihres Modells. Ob Ihr Fahrzeug das unterstützt, lässt sich hier nicht allgemein sagen.</p>
+<h2>Was Sie besser lassen</h2>
+<ul>
+<li>Keine Gewalt mit Hebel, Hammer, Zange oder Schlüsselverlängerung. Ein abgebrochener Schlüssel im Schloss macht aus einem Handgriff einen Werkstattfall.</li>
+<li>Kein Schmiermittel auf gut Glück ins Zündschloss sprühen. Manche Mittel verkleben, und moderne Zündschlösser enthalten Elektronik.</li>
+<li>Nicht mit Zweitschlüssel und Erstschlüssel abwechselnd ruckeln. Ist der Erstschlüssel abgenutzt, funktioniert der Zweitschlüssel oft besser, aber ruckartig helfen beide nicht.</li>
+</ul>
+<h2>Nach dem Lösen: kurze Prüfung</h2>
+<p>Wenn sich die Sperre gelöst hat, lohnt ein Blick auf den Schlüssel: Sind die Kanten stark abgenutzt oder der Bart verbogen, sollten Sie nachmachen lassen, bevor der Schlüssel im Schloss steckenbleibt. Ist der Schlüssel unauffällig, aber es klemmt regelmäßig, kann das Zündschloss verschlissen sein. Das ist ein Werkstattthema, aber kein Fall für einen Abschleppdienst, solange sich die Sperre lösen lässt und das Fahrzeug normal anspringt.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
 <details><summary>Warum klemmt die Lenkradsperre gerade jetzt?</summary><div>Meist steht das Lenkrad unter Spannung, weil es beim Abstellen eingeschlagen war oder ein Rad am Bordstein lehnt.</div></details>
 <details><summary>Kann ich das Auto mit blockiertem Lenkrad abschleppen lassen?</summary><div>Am sichersten auf einer Ladefläche. Ein Fahrzeug mit blockierter Lenkung lässt sich am Seil nicht sicher ziehen.</div></details>
+<details><summary>Kann ich mit klemmender Lenkradsperre losfahren?</summary><div>Nein. Solange das Lenkrad blockiert ist, lässt sich das Fahrzeug nicht lenken. Erst wenn die Sperre gelöst ist und der Motor normal startet, ist Fahren wieder möglich.</div></details>
+<details><summary>Ab wann ist ein Abschleppdienst nötig?</summary><div>Wenn sich die Sperre trotz vorsichtigen Lenkradbewegens nicht löst, der Schlüssel im Schloss festsitzt oder das Auto trotz gelöster Sperre nicht startet. Dann geht das Fahrzeug am besten auf die Ladefläche.</div></details>
+<details><summary>Ist Keyless-Go anfälliger dafür?</summary><div>Es blockiert nicht öfter, hat aber andere Fehlerquellen wie eine leere Schlüsselbatterie oder eine schwache Fahrzeugbatterie. Die Sperre selbst löst sich dann nicht, weil das Steuergerät sie nicht freigibt.</div></details>
 </div></section>
 @@CTA@@
 === ratgeber-bremsen-versagen | Bremsen versagen: Was Sie sofort tun können | Bremspedal tritt durch oder Bremse fällt aus: Pedal pumpen, Motorbremse, Handbremse dosiert, Ursachen und wann das Auto transportiert werden muss. | page ===
@@ -55,9 +76,22 @@
 <li>Wo das Fahrzeug steht, ob an einer Steigung oder einem Gefälle</li>
 <li>Marke, Modell, Antrieb</li>
 </ul>
+<h2>Was hinter einem nachgebenden Pedal steckt</h2>
+<p>Ein Bremspedal, das weich wirkt, durchtritt oder langsam zum Boden sinkt, weist meist auf ein Problem im hydraulischen System hin: zu wenig Bremsflüssigkeit, eine Leckage oder Luft im System. Bremsflüssigkeit nimmt mit der Zeit Wasser auf, das bei starker Hitze Dampfblasen bilden kann. Dann lässt die Bremswirkung nach, obwohl der Pedalweg gleich bleibt. Ein hartes Pedal ohne Wirkung, etwa bei ausgeschaltetem Motor, hat dagegen oft mit dem Bremskraftverstärker zu tun: Ohne laufenden Motor fehlt die Unterstützung, und das Pedal fühlt sich stark an.</p>
+<h2>Zwei Bremskreise als Reserve</h2>
+<p>Moderne Bremsanlagen sind in zwei getrennte Kreise aufgeteilt. Fällt einer aus, bleibt der zweite in der Regel in Funktion, mit längerem Bremsweg und mehr Pedalkraft. Das erklärt, warum ein komplettes Versagen selten ist, ein Nachlassen der Bremswirkung aber ein sehr ernstes Warnsignal. Wenn die Bremswarnleuchte im Kombiinstrument leuchtet, sollten Sie das nicht als Marginalie behandeln.</p>
+<h2>Bergab: Hitze ist der Feind</h2>
+<p>Auf langen Gefällestrecken überhitzen Bremsen, wenn sie dauerhaft gebraucht werden. Deshalb gilt: in einen niedrigeren Gang schalten, die Motorbremse nutzen und die Betriebsbremse nur dosiert einsetzen. Wer bergab im hohen Gang rollt und ständig bremst, riskiert, dass die Bremsen am Ende nicht mehr greifen. Für Berg- und Passstraßen sind die Steigungs- und Gefällehinweise auf den Schildern eine hilfreiche Warnung.</p>
+<h2>ABS, ESP und die Warnleuchten</h2>
+<p>Leuchten ABS oder ESP, ist der Bremskreis meist noch in Ordnung, aber die Regelsysteme fallen aus. Die Bremsen wirken dann wie bei älteren Fahrzeugen ohne ABS, die Räder können bei starkem Bremsen blockieren. Die rote Bremsleuchte dagegen, oft mit Ausrufezeichen, weist auf Bremsflüssigkeit, Handbremse oder einen Kreisausfall hin. Mehr zur Farblogik der Leuchten im <a href="ratgeber-warnleuchten-auto.html">Ratgeber zu Warnleuchten</a>.</p>
+<h2>Was nach dem Anhalten wichtig ist</h2>
+<p>Schalten Sie den Warnblinker ein, sichern Sie das Fahrzeug und rufen Sie Hilfe. Fahren Sie nicht "ein Stück" weiter, um es bis zur Werkstatt zu schaffen. Ein Fahrzeug mit angeschlagener Bremsanlage kann beim nächsten Bremsen komplett versagen, und Abschleppen mit Seil ist ohne funktionierende Bremse gefährlich. Der Transport auf der Ladefläche ist die sichere Lösung. Zum Vorbeugen gehört, die Bremsflüssigkeit nach Herstellerintervall wechseln zu lassen und Bremsscheiben und -beläge regelmäßig prüfen zu lassen.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
 <details><summary>Kann ich noch bis zur Werkstatt fahren, wenn die Bremse nur weich ist?</summary><div>Davon raten wir ab. Die Bremse kann jederzeit stärker nachlassen. Lassen Sie das Fahrzeug transportieren.</div></details>
 <details><summary>Warum wird das Pedal auf langem Gefälle weich?</summary><div>Die Bremsflüssigkeit kann heiß werden und Gasblasen bilden. Nutzen Sie bergab die Motorbremse, statt dauernd zu bremsen.</div></details>
+<details><summary>Warum ist das Pedal bei ausgeschaltetem Motor hart?</summary><div>Der Bremskraftverstärker arbeitet mit Unterdruck des laufenden Motors. Ohne Motor fehlt die Unterstützung, das Pedal wirkt hart, die Bremse funktioniert aber noch mit deutlich mehr Kraft.</div></details>
+<details><summary>Ist eine leuchtende ABS-Lampe ein Grund abzuschleppen?</summary><div>Nicht immer. Die Grundbremse funktioniert meist weiter, aber das Regelsystem fällt aus. Bei unsicherem Gefühl, weichem Pedal oder zusätzlicher roter Bremsleuchte lassen Sie das Fahrzeug transportieren.</div></details>
+<details><summary>Wie vermeide ich Überhitzung bergab?</summary><div>Früh in einen niedrigeren Gang schalten, die Motorbremse nutzen und nur kurz und dosiert bremsen, statt die Bremse dauerhaft zu belasten.</div></details>
 </div></section>
 @@CTA@@
