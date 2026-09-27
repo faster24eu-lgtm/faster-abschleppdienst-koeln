@@ -293,3 +293,8 @@ autobahn-a72	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im
 autobahn-a73	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a71	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Rennsteig
 autobahn-a71	ratgeber-wohnmobil-gespann-panne.html	Wohnmobil und Gespann	Seitenwind auf Talbrücken
+autobahn-a92	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a93	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a94	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a96	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a96	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Kohlbergtunnel

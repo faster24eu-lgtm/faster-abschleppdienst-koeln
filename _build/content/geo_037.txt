@@ -1,0 +1,113 @@
+=== autobahn-a92 | Pannenhilfe auf der A92: München, Flughafen, Landshut, Deggendorf | Panne auf der A92 zwischen München und Deggendorf: 134 Kilometer entlang der unteren Isar, Flughafen München, Landshut, Dingolfing, Kreuz Landshut. | page ===
+<!--AREAS: A92, München, Freising, Flughafen München, Moosburg, Landshut, Dingolfing, Plattling, Deggendorf -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A92</h1><p class="lead">Die A92 verbindet München mit Deggendorf und folgt der unteren Isar. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>134 Kilometer entlang der Isar</h2>
+<p>Die A92 verbindet München mit Deggendorf und ist 134 Kilometer lang. Sie folgt im Wesentlichen dem Verlauf der unteren Isar, sodass an ihr die Isarstädte München, Freising, Moosburg, Landshut, Dingolfing, Landau und Plattling liegen. Sie ist nach der genutzten Quelle der wichtigste Verbindungsweg zwischen München und den ostmitteleuropäischen Ländern wie Tschechien, der Slowakei und Ungarn. Nach Fertigstellung der A94 wird sich ein Teil der Verkehrslast Richtung Osten auf diese Autobahn verlagern. Wenn Sie an der A92 liegen bleiben, sagen Sie uns die Richtung und die nächste Isarstadt. Mehr auf <a href="stadt-muenchen.html">Abschleppdienst München</a> und <a href="stadt-landshut.html">Abschleppdienst Landshut</a>.</p>
+<h2>Drei Fahrstreifen bis zum Flughafen</h2>
+<p>Zwischen dem Autobahnkreuz Neufahrn und dem Autobahndreieck Flughafen München hat die A92 drei Fahrstreifen, ansonsten zwei mit Standstreifen. Das Verkehrsleitsystem reicht in Richtung Deggendorf bis kurz vor die Ausfahrt zur Flughafentangente Ost. Wenn Sie auf dem Weg zum Flughafen liegen bleiben, nennen Sie uns die Richtung und das nächste Dreieck. Bei Reisegepäck im Auto, Kindern oder Haustieren sagen Sie uns das bitte gleich.</p>
+<h2>Isarauen und Schutzgebiete</h2>
+<p>Zwischen den Anschlussstellen Moosburg-Nord und Landshut-West quert die A92 drei FFH-Gebiete: den Klötzlmühlbach, die Isarauen von Unterföhring bis Landshut und die Vogelfreistätte Mittlere Isarstauseen. Dort liegen Auen und Stauseen nah an der Autobahn. Nennen Sie uns bei einer Panne Anschlussstelle und Fahrtrichtung.</p>
+<h2>Anschlussstelle Dingolfing-Höfen und Kreuz Landshut</h2>
+<p>Für das BMW-Werk bei Dingolfing wurde nach einem Planfeststellungsbeschluss vom 27. Juni 2013 die Anschlussstelle Dingolfing-Höfen neu gebaut, der Baubeginn war am 1. August 2014. Am Autobahnkreuz Landshut ist die B15n an die A92 angebunden, sie wurde mit einer Grundwasserwanne unter der A92 hindurchgeführt. Ab 1991 war der Bau der A92 abgeschlossen, das letzte größere Teilstück zwischen Dingolfing und Wallersdorf mit 21 Kilometern wurde 1988 fertiggestellt. Mehr auf <a href="autobahn-a93.html">Panne auf der A93</a> und <a href="autobahn-a94.html">Panne auf der A94</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A92</h2>
+<ul class="ticks">
+<li>Richtung: München oder Deggendorf.</li>
+<li>Letzte oder nächste Anschlussstelle, Dreieck oder Kreuz (Neufahrn, Flughafen München, Landshut).</li>
+<li>Ob Sie im dreistreifigen Abschnitt zum Flughafen stehen.</li>
+<li>Rastplatz oder Parkplatz mit Name.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A92</h2>
+<details><summary>Wie lang ist die A92?</summary><div>134 Kilometer, von München bis Deggendorf.</div></details>
+<details><summary>Welche Städte liegen an der A92?</summary><div>München, Freising, Moosburg, Landshut, Dingolfing, Landau und Plattling.</div></details>
+<details><summary>Wie viele Fahrstreifen hat die A92?</summary><div>Zwei mit Standstreifen, zwischen Kreuz Neufahrn und Dreieck Flughafen München drei.</div></details>
+<details><summary>Wann wurde die A92 fertiggestellt?</summary><div>1991 war der Bau abgeschlossen.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a93 | Pannenhilfe auf der A93: Hof, Weiden, Regensburg, Inntal | Panne auf der A93 in zwei Teilstrecken: Nordteil von Hof über Weiden und Regensburg zur Hallertau, Südteil vom Dreieck Inntal nach Kiefersfelden. | page ===
+<!--AREAS: A93, Hof, Selb, Marktredwitz, Weiden, Schwandorf, Regensburg, Mainburg, Kiefersfelden -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A93</h1><p class="lead">Die A93 besteht aus zwei getrennten Teilstrecken: Hof bis Holledau und Inntal bis Kiefersfelden. Nennen Sie uns Teilstück, Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zwei unzusammenhängende Teilstrecken</h2>
+<p>Die A93 besteht aus zwei Teilstrecken: dem Nordteil vom Autobahndreieck Hochfranken bis zum Autobahndreieck Holledau und dem Südteil vom Dreieck Inntal bis zum Grenzübergang Kiefersfelden nach Österreich. Die Verbindung beider Teile war geplant, wurde aber bis heute nicht vollständig verwirklicht. Der ursprünglich vorgesehene Teil vom Dreieck Saalhaupt bis zum Kreuz Landshut an der A92 ist auf 35 Kilometern als „gelbe Autobahn“ B15n in Betrieb, ein zweites Teilstück verbindet als Westtangente B15 Rosenheim mit der A8. Wenn Sie auf der A93 liegen bleiben, sagen Sie uns zuerst, ob Sie im Norden oder im Süden stehen.</p>
+<h2>Nordteil: Hof, Fichtelgebirge, Oberpfalz</h2>
+<p>Der Nordteil beginnt an der A72 im Dreieck Hochfranken nordöstlich von Hof, nahe der ehemaligen innerdeutschen Grenze. Die A93 verläuft durch Oberfranken und bindet Hof, Rehau und Selb an, durchquert das Fichtelgebirge und führt an Marktredwitz und Mitterteich vorbei. Durch die Oberpfalz führt sie am Nordteil des Oberpfälzer Waldes und am Waldnaabtal entlang. Bei Windischeschenbach überquert sie die Waldnaab und bindet Weiden an. Am Kreuz Oberpfälzer Wald kreuzt sie die A6. Mehr auf <a href="autobahn-a72.html">Panne auf der A72</a> und <a href="autobahn-a6.html">Panne auf der A6</a>.</p>
+<h2>Naab, Donau und Hallertau</h2>
+<p>Die A93 führt durch das Oberpfälzer Seenland, teilweise parallel zur Naab, und bindet Schwandorf an. Bei Regensburg überquert sie die Donau und trifft am Kreuz Regensburg auf die A3. Am Dreieck Saalhaupt zweigt die B15n ab, die zusammen mit der A92 eine Alternative auf der Strecke Regensburg–München darstellt. Danach führt die A93 südwestlich durch Niederbayern und zwischen Siegenburg und dem Dreieck Holledau durch das Hopfenanbaugebiet Hallertau. Nach Mainburg wird Oberbayern erreicht, am Dreieck Holledau nahe Wolnzach mündet die A93 in die A9. Mehr auf <a href="stadt-regensburg.html">Abschleppdienst Regensburg</a>, <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="autobahn-a9.html">Panne auf der A9</a>.</p>
+<h2>Südteil: Inntal</h2>
+<p>Der Südteil zweigt am Dreieck Inntal von der A8 ab und geht am deutsch-österreichischen Grenzübergang Kufstein/Kiefersfelden in die Inntal-Autobahn über. Rosenheim liegt in der Nähe, mehr auf <a href="stadt-rosenheim.html">Abschleppdienst Rosenheim</a> und <a href="autobahn-a8.html">Panne auf der A8</a>. Wenn Sie kurz vor der Grenze liegen bleiben, nennen Sie uns die Richtung und ob Sie bereits in Österreich sind.</p>
+<h2>So nennen Sie Ihren Standort auf der A93</h2>
+<ul class="ticks">
+<li>Teilstück: Nordteil oder Südteil.</li>
+<li>Fahrtrichtung, Anschlussstelle, Kreuz oder Dreieck (Hochfranken, Oberpfälzer Wald, Regensburg, Saalhaupt, Holledau, Inntal).</li>
+<li>Bei Regensburg: vor oder hinter der Donaubrücke.</li>
+<li>Bei B15n und B15: Fahrtrichtung.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A93</h2>
+<details><summary>Warum hat die A93 zwei Teilstrecken?</summary><div>Die Verbindung zwischen Holledau und Inntal wurde geplant, aber nicht vollständig gebaut.</div></details>
+<details><summary>Was ist die „gelbe Autobahn“ B15n?</summary><div>Ein 35 Kilometer langer Abschnitt zwischen Dreieck Saalhaupt und Kreuz Landshut, der als Bundesstraße in Betrieb ist.</div></details>
+<details><summary>Wo mündet die A93 in die A9?</summary><div>Am Dreieck Holledau nahe Wolnzach.</div></details>
+<details><summary>Wo beginnt die A93?</summary><div>Im Norden am Dreieck Hochfranken an der A72, im Süden am Dreieck Inntal an der A8.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a94 | Pannenhilfe auf der A94: München bis Burghausen und Passau | Panne auf der A94 zwischen München, Mühldorf und Burghausen: fertige Teilstücke, Abschnitt als B12 zwischen Burghausen und Simbach, Malching–Kirchham. | page ===
+<!--AREAS: A94, München, Forstinning, Dorfen, Mühldorf, Altötting, Burghausen, Simbach, Passau -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A94</h1><p class="lead">Die A94 soll München mit Passau verbinden, einzelne Teilstücke sind fertig. Nennen Sie uns Teilstück, Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Eine Autobahn mit Lücken</h2>
+<p>Die A94 soll München mit Passau verbinden. Nach der genutzten Quelle wurden bislang die Teilstücke München–Burghausen und Malching–Kirchham realisiert. Zwischen Burghausen und Simbach am Inn, auf 14 Kilometern, ist ein Teilstück mit nur einer zweistreifigen Fahrbahn als B12 in Betrieb. Vorleistungen für den weiteren Ausbau zur A94 sind dort bereits erbracht. Bauabschnitte ändern sich, prüfen Sie den aktuellen Stand, wenn Sie eine Route planen. Wenn Sie an der A94 oder der B12 liegen bleiben, nennen Sie uns Ort und Fahrtrichtung. Mehr auf <a href="stadt-passau.html">Abschleppdienst Passau</a> und <a href="stadt-muenchen.html">Abschleppdienst München</a>.</p>
+<h2>Warum eine lange Planungsgeschichte?</h2>
+<p>Der in der Weimarer Republik entwickelte Vorentwurf zu einem Kraftwagenstraßennetz enthielt eine Hauptverbindung zwischen München und Passau. Das Gesetz über den Ausbauplan für die Bundesfernstraßen vom 27. Juli 1957 legte keine Autobahnverbindung zwischen München und Passau fest, doch die B12 von Kempten über Landsberg am Lech, München und Mühldorf am Inn nach Passau wurde in das Blaue Netz der auszubauenden Bundesstraßen aufgenommen. Die A94 sollte laut Planung 1974 bei Aschheim beziehungsweise Kirchheim bei München vom Münchner Autobahnring abzweigen und über Dorfen, nördlich Mühldorf am Inn und Altötting nach Simbach zur deutsch-österreichischen Grenze verlaufen. Eine Weiterführung nach Passau war zunächst nicht projektiert. Die Trassenführung zwischen Forstinning und Heldenstein war Gegenstand einer jahrzehntelangen Debatte.</p>
+<h2>Kleine Ortsangaben helfen</h2>
+<p>Weil Teilstücke noch nicht zusammenhängen, wechseln Autobahn und Bundesstraße. Sagen Sie uns, ob Sie auf einer zweistreifigen Fahrbahn stehen und in welcher Richtung Sie fahren. Bei Fahrbahnen mit nur zwei Fahrstreifen und Gegenverkehr gilt: Warnblinker, sichern, mehr im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>. Mehr auf <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="autobahn-a92.html">Panne auf der A92</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A94</h2>
+<ul class="ticks">
+<li>Teilstück: München–Burghausen, B12 Burghausen–Simbach, Malching–Kirchham.</li>
+<li>Fahrtrichtung, letzte oder nächste Anschlussstelle.</li>
+<li>Ob Sie auf Autobahn oder Bundesstraße stehen.</li>
+<li>Nächster Ort: Dorfen, Mühldorf, Altötting, Burghausen.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A94</h2>
+<details><summary>Ist die A94 durchgehend gebaut?</summary><div>Nein. Nach der genutzten Quelle sind Teilstücke fertig, zwischen Burghausen und Simbach ist ein Abschnitt als B12 in Betrieb.</div></details>
+<details><summary>Wo soll die A94 enden?</summary><div>Sie soll München mit Passau verbinden.</div></details>
+<details><summary>Welche Straße war Vorläufer?</summary><div>Die B12 von Kempten über München und Mühldorf nach Passau.</div></details>
+<details><summary>Welche Orte liegen an der geplanten Trasse?</summary><div>Dorfen, Mühldorf am Inn, Altötting und Simbach am Inn.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a96 | Pannenhilfe auf der A96: Lindau, Memmingen, Landsberg, München | Panne auf der A96 von Lindau am Bodensee über Wangen, Memmingen, Buchloe und Landsberg nach München: 172,5 Kilometer, Kohlbergtunnel, Kreuz Memmingen. | page ===
+<!--AREAS: A96, Lindau, Wangen, Leutkirch, Memmingen, Mindelheim, Buchloe, Landsberg am Lech, München -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A96</h1><p class="lead">Die A96 verbindet Lindau am Bodensee mit München und ist 172,5 Kilometer lang. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Vom Bodensee nach München</h2>
+<p>Die A96 beginnt an der Staatsgrenze bei Lindau (Bodensee) als Weiterführung der österreichischen Rheintal/Walgau-Autobahn A14 und endet in München am Mittleren Ring im Stadtteil Sendling-Westpark. Sie hat eine Länge von 172,5 Kilometern und verbindet die Bodenseeregion, die Ostschweiz und Vorarlberg mit dem Fünfseenland und dem Großraum München. Richtung Norden erreicht sie nach acht Kilometern Baden-Württemberg, in nordöstlicher Richtung folgen Wangen und Leutkirch im Allgäu, dann überquert sie die Iller und erreicht wieder Bayern. Nennen Sie uns bei einer Panne zuerst das Bundesland und die nächste Stadt. Mehr auf <a href="stadt-muenchen.html">Abschleppdienst München</a> und <a href="stadt-ulm.html">Abschleppdienst Ulm</a>.</p>
+<h2>Kreuz Memmingen und die A7</h2>
+<p>Am Autobahnkreuz Memmingen wird die A7 gekreuzt. Die Hauptfahrrichtung führt dort auf die A7 Richtung Ulm, die A96 nach München zweigt ab. Wer hier falsch abbiegt, gerät auf die A7. Sagen Sie uns deshalb bitte die Autobahnnummer. Danach verläuft die Strecke an Memmingen vorbei, es folgen Mindelheim, Buchloe mit Einmündung der B12 und Landsberg am Lech, wo sich Deutschlands größter Kreisverkehr befindet (Kreuzung der B17). Mehr auf <a href="autobahn-a7.html">Panne auf der A7</a>.</p>
+<h2>Neubaustrecken und Kohlbergtunnel</h2>
+<p>Die Streckenführung der A96 verläuft mit Ausnahme der Umfahrung Mindelheim und des Abschnitts von Memmingen bis zur Iller fast exakt auf der ehemaligen Trasse der B18 (Lindau–Buchloe) beziehungsweise der B12 (Buchloe–München). Von Wangen-Nord bis zur österreichischen Grenze, zwischen Leutkirch-West und Memmingen-Ost und von der Ausfahrt Erkheim bis zur Ausfahrt Bad Wörishofen wurde die A96 mit dem Kohlbergtunnel zwischen Erkheim und Stetten komplett neu gebaut. Bei einer Panne im Tunnel gilt: Warnblinker, Notrufnische, mehr im <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>.</p>
+<h2>Ende bei München</h2>
+<p>Nördlich am Ammersee vorbei erreicht die A96 bei Germering die A99 (Münchner Ring) und das Stadtgebiet München. An der Anschlussstelle Landsberg am Lech-West endet der autobahnähnliche, vierstreifige Ausbau der B17. Wenn Sie in München auf dem Weg zum Mittleren Ring liegen bleiben, nennen Sie uns Anschlussstelle und Stadtteil.</p>
+<h2>So nennen Sie Ihren Standort auf der A96</h2>
+<ul class="ticks">
+<li>Richtung: Lindau oder München.</li>
+<li>Bundesland: Bayern oder Baden-Württemberg.</li>
+<li>Letzte oder nächste Anschlussstelle, Kreuz Memmingen, Germering.</li>
+<li>Im Kohlbergtunnel: Fahrtrichtung.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A96</h2>
+<details><summary>Wie lang ist die A96?</summary><div>172,5 Kilometer, von Lindau bis München.</div></details>
+<details><summary>Wo kreuzt die A96 die A7?</summary><div>Am Autobahnkreuz Memmingen.</div></details>
+<details><summary>Wo endet die A96 in München?</summary><div>Am Mittleren Ring im Stadtteil Sendling-Westpark.</div></details>
+<details><summary>Was ist der Kohlbergtunnel?</summary><div>Ein Tunnel zwischen Erkheim und Stetten in einem komplett neu gebauten Abschnitt.</div></details>
+</div></section>
+@@CTA@@

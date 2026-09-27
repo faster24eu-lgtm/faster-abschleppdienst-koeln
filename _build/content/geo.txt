@@ -149,3 +149,7 @@ autobahn-a59	A59 Duisburg bis Bonn	A59
 autobahn-a71	A71 Sangerhausen bis Schweinfurt	A71	
 autobahn-a72	A72 Hof bis Leipzig	A72	
 autobahn-a73	A73 Suhl bis Nürnberg	A73	
+autobahn-a92	A92 München bis Deggendorf	A92	
+autobahn-a93	A93 Hof bis Kiefersfelden	A93	
+autobahn-a94	A94 München bis Burghausen	A94	
+autobahn-a96	A96 Lindau bis München	A96	
