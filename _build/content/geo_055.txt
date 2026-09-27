@@ -81,7 +81,7 @@
 </div></section>
 @@CTA@@
 
-=== autobahn-a98 | Pannenhilfe auf der A98: Lörrach, Rheinfelden, Hochrhein | Panne auf der A98 im Süden Baden-Württembergs: Wiesentalbrücke bei Lörrach, Herrschaftsbucktunnel, Abschnitte Murg–Hauenstein und Tiengen–Lauchringen. | page ===
+=== autobahn-a98 | Pannenhilfe auf der A98: Lörrach, Rheinfelden, Hochrhein | Panne auf der A98 im Süden Baden-Württembergs: Wiesentalbrücke bei Lörrach, Herrschaftsbucktunnel, Abschnitte Murg–Hauenstein, Tiengen. | page ===
 <!--AREAS: A98, Weil am Rhein, Lörrach, Rheinfelden, Murg, Hauenstein, Waldshut-Tiengen, Lauchringen, Stockach -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A98</h1><p class="lead">Die A98 besteht im äußersten Süden Baden-Württembergs aus vier Teilstücken mit zusammen 47 Kilometern. Nennen Sie uns Teilstück, Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
