@@ -98,3 +98,5 @@ stadt-guetersloh	Gütersloh	Nordrhein-Westfalen
 stadt-witten	Witten	Nordrhein-Westfalen	
 stadt-hanau	Hanau	Hessen	
 stadt-schwerin	Schwerin	Mecklenburg-Vorpommern	
+autobahn-a1	A1 Fehmarn bis Saarbrücken	A1	ab
+autobahn-a4	A4 Aachen bis Görlitz	A4	ab
