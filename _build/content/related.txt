@@ -146,3 +146,8 @@ autobahn-a9	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im 
 autobahn-a3	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a5-hessen-baden	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a8	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-dresden	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-hannover	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-nuernberg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-duisburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-dresden	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel der A17

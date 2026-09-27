@@ -26,3 +26,7 @@ autobahn-a9	A9 Berlin bis München	A9	ab
 autobahn-a3	A3 Niederrhein bis Nürnberg	A3	ab
 autobahn-a5-hessen-baden	A5 Hattenbach bis Basel	A5	ab
 autobahn-a8	A8 Saarland bis Salzburg	A8	ab
+stadt-dresden	Dresden	Sachsen	
+stadt-hannover	Hannover	Niedersachsen	
+stadt-nuernberg	Nürnberg	Bayern	
+stadt-duisburg	Duisburg	Nordrhein-Westfalen	
