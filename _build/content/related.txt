@@ -137,3 +137,7 @@ stadt-stuttgart	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel in Stuttgar
 stadt-stuttgart	ratgeber-bremsen-versagen.html	Bremsen versagen	Bei Gefälle
 stadt-duesseldorf	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Rheinufertunnel
 stadt-duesseldorf	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-dortmund	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-essen	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Ruhrschnellweg-Tunnel
+stadt-leipzig	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-bremen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick

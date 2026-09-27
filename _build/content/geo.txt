@@ -17,3 +17,7 @@ stadt-muenchen	München	Bayern
 stadt-frankfurt	Frankfurt am Main	Hessen	
 stadt-stuttgart	Stuttgart	Baden-Württemberg	
 stadt-duesseldorf	Düsseldorf	Nordrhein-Westfalen	
+stadt-dortmund	Dortmund	Nordrhein-Westfalen	
+stadt-essen	Essen	Nordrhein-Westfalen	
+stadt-leipzig	Leipzig	Sachsen	
+stadt-bremen	Bremen	Bremen	
