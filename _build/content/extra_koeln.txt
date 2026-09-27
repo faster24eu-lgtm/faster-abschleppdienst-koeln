@@ -2,9 +2,9 @@
 <section class="hero"><div class="wrap hero-grid"><div>
 <p class="eyebrow">Abschleppdienst Köln</p>
 <h1>Abschleppdienst Köln: Pannenhilfe und Abschleppen, 24/7 erreichbar</h1>
-<p class="lead">Panne, Unfall oder ein Fahrzeug, das nicht mehr startet? Rufen Sie an oder schreiben Sie per WhatsApp. Wir besprechen die Situation und organisieren die Hilfe in Köln und Umgebung.</p>
-<div class="actions"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a><a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993 anrufen</a></div>
-<ul class="proof"><li><strong>24/7</strong>erreichbar per Telefon und WhatsApp</li><li><strong>Persönlich</strong>direkt am Telefon oder per WhatsApp</li><li><strong>Pkw bis Transporter</strong>auch Motorräder und Maschinen</li></ul>
+<p class="lead">Panne, Unfall oder ein Fahrzeug, das nicht mehr startet? Rufen Sie jetzt an oder schreiben Sie per WhatsApp. Wir besprechen die Situation sofort und organisieren die Hilfe in Köln und Umgebung.</p>
+<div class="actions"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a><a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></div>
+<ul class="proof"><li><strong>24/7</strong>erreichbar per Telefon und WhatsApp</li><li><strong>Persönlich</strong>direkt am Telefon, kein Ticketsystem</li><li><strong>Pkw bis Transporter</strong>auch Motorräder und Maschinen</li></ul>
 </div><div><img class="hero-img" src="assets/faster-road-transport.jpg" alt="Faster Abschleppwagen mit Fahrzeugen auf der Straße" width="1200" height="900" fetchpriority="high"></div></div></section>
 <section class="section"><div class="wrap"><h2>Unsere Leistungen in Köln und Umgebung</h2><p class="sub">Von der einfachen Starthilfe bis zum Abschleppen nach einem Unfall.</p>
 <div class="cards3">
@@ -68,7 +68,7 @@
 </div></section>
 @@CTA@@
 === pannenhilfe-koeln | Pannenhilfe Köln: Batterie, Reifen, falsch getankt | Pannenhilfe in Köln: Batterie, Reifen, ausgesperrt, falsch getankt. Was vor Ort möglich ist und wann abgeschleppt werden muss. 24/7 erreichbar. | page ===
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Pannenhilfe</p><h1>Pannenhilfe Köln</h1><p class="lead">Nicht jede Panne braucht einen Abschleppwagen. Oft lässt sich das Problem vor Ort lösen, und manchmal ist Abschleppen der bessere Weg. Wir sagen Ihnen, was in Ihrer Lage sinnvoll ist.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Pannenhilfe</p><h1>Pannenhilfe Köln</h1><p class="lead">Nicht jede Panne braucht einen Abschleppwagen. Oft lässt sich das Problem vor Ort lösen, und manchmal ist Abschleppen der bessere Weg. Rufen Sie jetzt an oder schreiben Sie uns, wir sagen Ihnen sofort, was in Ihrer Lage sinnvoll ist.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Kostenlose Ersteinschätzung am Telefon, bevor irgendetwas losfährt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Batterie leer und Startprobleme</h2>
 <p>Wenn der Motor nur klickt oder gar nichts tut, ist meist die Batterie schuld. Häufige Gründe sind Kälte, viele Kurzstrecken, eine ältere Batterie oder ein vergessenes Licht. Wenn es sicher und technisch möglich ist, versuchen wir zuerst, das Fahrzeug mit einem Booster zu starten. Danach sollten Sie eine längere Strecke fahren und die Batterie prüfen lassen. Springt das Fahrzeug trotzdem nicht an, liegt oft ein anderer Fehler vor, zum Beispiel am Anlasser oder an der Kraftstoffversorgung. Dann ist der Transport zur Werkstatt der nächste Schritt. Bei Hybrid- und Elektroautos gelten besondere Anschlusspunkte, dazu lesen Sie den Ratgeber <a href="ratgeber-starthilfe-batterie.html">Starthilfe und leere Batterie</a>.</p>
@@ -96,8 +96,10 @@
 <section class="section"><div class="wrap narrow"><div class="related"><a href="ratgeber-starthilfe-batterie.html">Starthilfe<small>Batterie, Kabel, Ablauf</small></a><a href="ratgeber-falsch-getankt.html">Falsch getankt<small>Was Sie jetzt nicht tun sollten</small></a><a href="ratgeber-ausgesperrt.html">Ausgesperrt<small>Schlüssel im Auto</small></a></div></div></section>
 @@CTA@@
 === abschleppen-bergung-koeln | Abschleppen und Bergung Köln nach Panne oder Unfall | Abschleppen und Bergung in Köln nach Panne, Unfall oder Schaden. Transport zur Werkstatt oder zum Wunschziel, für Pkw, Transporter, Motorräder. | page ===
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Abschleppen &amp; Bergung</p><h1>Abschleppen und Bergung Köln</h1><p class="lead">Wenn Weiterfahren nicht mehr geht, bringen wir Ihr Fahrzeug sicher an den vereinbarten Ort.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Abschleppen &amp; Bergung</p><h1>Abschleppen und Bergung Köln</h1><p class="lead">Wenn Weiterfahren nicht mehr geht, bringen wir Ihr Fahrzeug jetzt sicher an den vereinbarten Ort. Rufen Sie an oder schreiben Sie per WhatsApp, wir sind sofort für Sie da.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Kein Ticketsystem, kein Warten in der Warteschleife: Sie sprechen sofort mit uns.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Sie schildern kurz, was passiert ist, und senden uns Ihren Standort, am einfachsten per WhatsApp. Wir klären mit Ihnen Fahrzeug und Ziel und sagen Ihnen den Preis, bevor jemand losfährt. Danach übernimmt unser Partner vor Ort die Abholung und bringt Ihr Fahrzeug an den vereinbarten Ort.</p>
 <h2>Abschleppen nach Panne oder Unfall</h2>
 <p>Von der klassischen Abschleppung bis zum Unfall, Brand oder schweren Schaden: Wir holen Ihr Fahrzeug sicher ab und bringen es zur Werkstatt, nach Hause oder an ein anderes Ziel. Das Fahrzeug wird in der Regel auf ein Plateaufahrzeug verladen. So bleiben Getriebe, Achsen und Elektronik geschont, und auch Fahrzeuge, die nicht mehr rollen oder lenken, lassen sich transportieren.</p>
 <h2>Bergung: wenn das Fahrzeug nicht auf der Straße steht</h2>
@@ -131,8 +133,10 @@
 @@CTA@@
 === pannenhilfe-koelner-autobahnring | Panne auf dem Kölner Autobahnring (A1, A3, A4, A555) | Panne rund um Köln: Kölner Autobahnring mit A1, A3 und A4, Kreuz Köln-Süd, Köln-Nord, A555 und A59. Verhalten bei Panne, Stau und Rettungsgasse. | page ===
 <!--AREAS: Köln, Leverkusen, Bonn -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln</p><h1>Panne auf dem Kölner Autobahnring</h1><p class="lead">A1, A3 und A4 bilden den Ring um Köln, dazu kommen A555, A57 und A59. Wir organisieren Pannenhilfe und Abschleppen in Köln und Umgebung. Die Einsätze vor Ort übernehmen unsere Partner.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln</p><h1>Panne auf dem Kölner Autobahnring</h1><p class="lead">A1, A3 und A4 bilden den Ring um Köln, dazu kommen A555, A57 und A59. Wenn Sie hier liegen bleiben, zählt jede Minute: Rufen Sie sofort an oder senden Sie Ihren Standort per WhatsApp, wir organisieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, auch nachts und am Wochenende.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Nennen Sie uns Autobahn, Fahrtrichtung und die letzte Ausfahrt oder das letzte Kreuz. Wir sagen Ihnen sofort, was als Nächstes passiert, und organisieren einen Partner, der auf dem Ring oder den Zubringern zu Ihnen fährt. Dabei sagen wir Ihnen den Preis vorab, bevor jemand losfährt.</p>
 <h2>Was den Ring besonders macht</h2>
 <p>Der Kölner Autobahnring aus A3, A4 und A1 ist rund 52 Kilometer lang. Er gehört zu den am stärksten belasteten und staugefährdetsten Autobahnverbindungen Deutschlands. Der Abschnitt der A3/A4 zwischen dem Autobahnkreuz Köln-Ost und dem Autobahndreieck Heumar war nach der Zählung von 2015 der am dichtesten befahrene Autobahnabschnitt des Landes.</p>
 <p>Dichter Verkehr bedeutet: Wer hier liegen bleibt, steht in schnellem Verkehr, oft ohne viel Platz. Eine Panne ist dort schneller gefährlich als auf einer Landstraße.</p>
@@ -182,8 +186,10 @@
 @@CTA@@
 === abschleppdienst-koeln-stadtteile | Köln: Stadtbezirke, Ringe und Rheinbrücken | Wo in Köln helfen wir? Neun Stadtbezirke, Ringe, Gürtel, Militärring und die Rheinbrücken: So beschreiben Sie Ihren Standort bei einer Panne in Köln. | page ===
 <!--AREAS: Köln, Ehrenfeld, Nippes, Lindenthal, Rodenkirchen, Chorweiler, Porz, Kalk, Mülheim, Deutz -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln</p><h1>Abschleppdienst in Köln: Stadtbezirke, Ringe und Rheinbrücken</h1><p class="lead">Köln ist groß und hat viele Straßen mit gleichen Namen. Wer seinen Standort gut beschreibt, bekommt schneller Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln</p><h1>Abschleppdienst in Köln: Stadtbezirke, Ringe und Rheinbrücken</h1><p class="lead">Köln ist groß und hat viele Straßen mit gleichen Namen. Wer seinen Standort gut beschreibt, bekommt schneller Hilfe. Rufen Sie jetzt an oder schreiben Sie uns per WhatsApp, egal in welchem Stadtbezirk Sie stehen.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Ein Anruf reicht, wir koordinieren den passenden Partner in Ihrem Stadtbezirk.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Sagen Sie uns Stadtbezirk oder Stadtteil und die Straße, dazu Ihr Fahrzeug und was passiert ist. Wir klären mit Ihnen, was nötig ist, und nennen Ihnen den Preis am Telefon. Danach fährt unser Partner vor Ort zu Ihnen und bringt das Fahrzeug an den vereinbarten Ort.</p>
 <h2>Die neun Kölner Stadtbezirke</h2>
 <p>Köln gliedert sich in neun Stadtbezirke mit zusammen 86 Stadtteilen. Zu jedem Bezirk gibt es eine eigene Seite mit Straßen, Ausfahrten und Hinweisen für Ihren Standort:</p>
 <div class="tblwrap"><table class="tbl"><thead><tr><th>Bezirk</th><th>Stadtteile (Auswahl)</th><th>Seite</th></tr></thead><tbody>

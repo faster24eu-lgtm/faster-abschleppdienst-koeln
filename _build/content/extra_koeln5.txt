@@ -1,7 +1,9 @@
 === koeln-innenstadt | Abschleppdienst Köln-Innenstadt: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen in der Kölner Innenstadt und in Deutz: Ringe, Rheinbrücken, Parkhäuser und was Sie uns zu Ihrem Standort sagen sollten. | page ===
 <!--AREAS: Köln, Köln-Innenstadt, Köln-Deutz -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 1</p><h1>Abschleppdienst Köln-Innenstadt</h1><p class="lead">Dom, Ringe, Rheinufer und Deutz auf der anderen Rheinseite: Der Stadtbezirk Innenstadt ist eng, dicht bebaut und von Einbahnstraßen, Parkhäusern und Baustellen geprägt. Hier steht, worauf es bei einer Panne ankommt.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 1</p><h1>Abschleppdienst Köln-Innenstadt</h1><p class="lead">Dom, Ringe, Rheinufer und Deutz auf der anderen Rheinseite: Der Stadtbezirk Innenstadt ist eng, dicht bebaut und von Einbahnstraßen, Parkhäusern und Baustellen geprägt. Hier steht, worauf es bei einer Panne ankommt.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Sagen Sie uns, in welchem Stadtteil der Innenstadt Sie stehen und ob Sie links- oder rechtsrheinisch in Deutz sind. Wir nennen Ihnen den Preis am Telefon und schicken einen Partner, der auch enge Gassen und Parkhäuser kennt.</p>
 <h2>Wo wir hier helfen</h2>
 <p>Zum Stadtbezirk Innenstadt gehören Altstadt-Nord, Altstadt-Süd, Neustadt-Nord, Neustadt-Süd und Deutz. Er liegt links und rechts des Rheins, das ist eine Besonderheit unter den neun Kölner Stadtbezirken. Wenn Ihr Fahrzeug hier liegen bleibt, koordinieren wir die Hilfe: Starthilfe, Reifenwechsel oder, wenn es nicht anders geht, den Transport zur Werkstatt. Die Einsätze vor Ort übernehmen unsere Partner in Köln, Faster selbst sitzt in Antwerpen.</p>
 <h2>Ringe, Kanalstraße und Rheinbrücken</h2>
@@ -33,8 +35,10 @@
 @@CTA@@
 === koeln-ehrenfeld | Abschleppdienst Köln-Ehrenfeld: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen im Kölner Stadtbezirk Ehrenfeld: Venloer Straße, Gürtel, Butzweilerhof, A57-Ende und A1 Bocklemünd. | page ===
 <!--AREAS: Köln, Köln-Ehrenfeld, Köln-Bickendorf, Köln-Ossendorf -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 4</p><h1>Abschleppdienst Köln-Ehrenfeld</h1><p class="lead">Von der Venloer Straße bis zum Alten Flughafen Butzweilerhof: Ehrenfeld ist ein Stadtbezirk mit Einkaufsstraßen, Industriedenkmälern und dörflich gewachsenen Stadtteilen. Hier steht, wie Sie im Ernstfall verständlich beschreiben, wo Sie stehen.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 4</p><h1>Abschleppdienst Köln-Ehrenfeld</h1><p class="lead">Von der Venloer Straße bis zum Alten Flughafen Butzweilerhof: Ehrenfeld ist ein Stadtbezirk mit Einkaufsstraßen, Industriedenkmälern und dörflich gewachsenen Stadtteilen. Hier steht, wie Sie im Ernstfall verständlich beschreiben, wo Sie stehen.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Nennen Sie uns Straße und Stadtteil, etwa Venloer Straße oder Butzweilerhof, dazu Ihr Fahrzeug. Wir sagen Ihnen den Preis am Telefon und schicken einen Partner, der Ehrenfeld kennt.</p>
 <h2>Was zu Ehrenfeld gehört</h2>
 <p>Der Stadtbezirk Ehrenfeld umfasst sechs Stadtteile: Bickendorf, Bocklemünd/Mengenich, Ehrenfeld, Neuehrenfeld, Ossendorf und Vogelsang. Das Bezirksrathaus steht an der Venloer Straße, die den Mittelpunkt des Bezirks bildet. Stadtteile wie Bickendorf und Ossendorf waren bis in das 19. Jahrhundert Dörfer, woran ihre Architektur teils noch erinnert, und in Ossendorf haben sich Fernsehsender angesiedelt. Diese Mischung heißt für Sie: kurze Wege zwischen sehr unterschiedlichen Straßenbildern.</p>
 <h2>Was wir hier für Sie tun</h2>
@@ -63,8 +67,10 @@
 @@CTA@@
 === koeln-nippes | Abschleppdienst Köln-Nippes: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen im Kölner Stadtbezirk Nippes mit Niehl, Riehl und Longerich: Neusser Straße, A1, A57 und Kreuz Köln-Nord. | page ===
 <!--AREAS: Köln, Köln-Nippes, Köln-Niehl, Köln-Riehl, Köln-Longerich -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 5</p><h1>Abschleppdienst Köln-Nippes</h1><p class="lead">Nippes liegt am linken Rheinufer nördlich der Innenstadt und reicht bis zum Kreuz Köln-Nord. Zwischen Neusser Straße, Niehler Hafengegend und Autobahnen gibt es hier ganz unterschiedliche Pannenorte.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 5</p><h1>Abschleppdienst Köln-Nippes</h1><p class="lead">Nippes liegt am linken Rheinufer nördlich der Innenstadt und reicht bis zum Kreuz Köln-Nord. Zwischen Neusser Straße, Niehler Hafengegend und Autobahnen gibt es hier ganz unterschiedliche Pannenorte.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Sagen Sie uns, ob Sie in Nippes, Niehl, Riehl oder Longerich stehen, dazu die Straße. Wir nennen Ihnen den Preis am Telefon und schicken einen Partner, der auch die Nähe zu Kreuz Köln-Nord kennt.</p>
 <h2>Was zum Stadtbezirk Nippes gehört</h2>
 <p>Der Stadtbezirk 5 liegt am linken Rheinufer nördlich der Kölner Innenstadt und umfasst die Stadtteile Bilderstöckchen, Longerich, Mauenheim, Niehl, Nippes, Riehl und Weidenpesch. Er wurde am 1. Januar 1975 im Zuge der kommunalen Neugliederung gebildet und trägt den Namen seines bevölkerungsreichsten Stadtteils. Im Süden grenzt Nippes an die Neustadt-Nord, im Westen an Neuehrenfeld, im Osten liegt der Rhein.</p>
 <h2>Neusser Straße und das Veedel</h2>
@@ -95,8 +101,10 @@
 @@CTA@@
 === koeln-lindenthal | Abschleppdienst Köln-Lindenthal: Pannenhilfe 24/7 | Pannenhilfe im größten Kölner Stadtbezirk Lindenthal: Universität, Aachener Straße, Lövenich-Tunnel, Kreuz Köln-West und A4 Klettenberg. | page ===
 <!--AREAS: Köln, Köln-Lindenthal, Köln-Sülz, Köln-Müngersdorf, Köln-Lövenich -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 3</p><h1>Abschleppdienst Köln-Lindenthal</h1><p class="lead">Lindenthal ist mit mehr als 150.000 Einwohnern der bevölkerungsreichste der neun Kölner Stadtbezirke. Hier treffen Universität, Wohnviertel, große Einfallstraßen und die Autobahnen A1 und A4 aufeinander.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 3</p><h1>Abschleppdienst Köln-Lindenthal</h1><p class="lead">Lindenthal ist mit mehr als 150.000 Einwohnern der bevölkerungsreichste der neun Kölner Stadtbezirke. Hier treffen Universität, Wohnviertel, große Einfallstraßen und die Autobahnen A1 und A4 aufeinander.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Sagen Sie uns den Stadtteil in Lindenthal, etwa Sülz, Müngersdorf oder Lövenich, dazu die Straße. Wir nennen Ihnen den Preis am Telefon und schicken einen Partner, der auch den Lövenich-Tunnel und Kreuz Köln-West kennt.</p>
 <h2>Ein Bezirk aus neun Stadtteilen</h2>
 <p>Zum Stadtbezirk Lindenthal gehören Braunsfeld, Junkersdorf, Klettenberg, Lindenthal, Lövenich, Müngersdorf, Sülz, Weiden und Widdersdorf. Braunsfeld, Klettenberg, Lindenthal, Müngersdorf und Sülz wurden 1888 nach Köln eingemeindet, die übrigen Stadtteile 1975. In Lindenthal liegen die Universität zu Köln und der Melaten-Friedhof. Wer im Bezirk liegen bleibt, tut das oft zwischen Campus, Wohnstraßen und Geschäftsstraßen.</p>
 <h2>Hauptstraßen im Bezirk</h2>
@@ -127,8 +135,10 @@
 @@CTA@@
 === koeln-rodenkirchen | Abschleppdienst Köln-Rodenkirchen: Pannenhilfe 24/7 | Pannenhilfe im Kölner Süden: Rodenkirchener Brücke, A555 Godorf und Rodenkirchen, Militärring, Raffinerie und Villenviertel in Rodenkirchen. | page ===
 <!--AREAS: Köln, Köln-Rodenkirchen, Köln-Sürth, Köln-Godorf, Köln-Zollstock -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 2</p><h1>Abschleppdienst Köln-Rodenkirchen</h1><p class="lead">Der Kölner Süden liegt im Rheinbogen und reicht bis Wesseling. Villenviertel, Wälder, die Rodenkirchener Brücke und die A555 machen die Panne dort zu einer anderen Situation als in der Stadtmitte.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 2</p><h1>Abschleppdienst Köln-Rodenkirchen</h1><p class="lead">Der Kölner Süden liegt im Rheinbogen und reicht bis Wesseling. Villenviertel, Wälder, die Rodenkirchener Brücke und die A555 machen die Panne dort zu einer anderen Situation als in der Stadtmitte.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Sagen Sie uns Stadtteil und Straße, zum Beispiel Rodenkirchen, Sürth oder Godorf, und ob Sie an der Rodenkirchener Brücke oder am Kreuz Köln-Süd stehen. Wir nennen Ihnen den Preis am Telefon und schicken einen Partner in den Kölner Süden.</p>
 <h2>Der südlichste linksrheinische Bezirk</h2>
 <p>Rodenkirchen ist der zweite von neun Kölner Stadtbezirken und liegt am Westufer des Rheins im Rheinbogen. Er grenzt im Norden an die Innenstadt, im Osten über den Rhein an Porz, im Süden an Wesseling, im Südwesten an Brühl, im Westen an Hürth und im Nordwesten an Lindenthal. Zum Bezirk gehören Bayenthal, Godorf, Hahnwald, Immendorf, Marienburg, Meschenich, Raderberg, Raderthal, Rodenkirchen, Sürth, Rondorf, Weiß und Zollstock.</p>
 <h2>Kölner Süden: Villen, Parks und Wald</h2>
@@ -159,8 +169,10 @@
 @@CTA@@
 === koeln-porz | Abschleppdienst Köln-Porz: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen im flächengrößten Kölner Stadtbezirk Porz: Flughafen-Zubringer A59, Dreieck Porz, Wahner Heide und Rheinbogen. | page ===
 <!--AREAS: Köln, Köln-Porz, Köln-Wahn, Köln-Zündorf, Köln-Poll -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 7</p><h1>Abschleppdienst Köln-Porz</h1><p class="lead">Porz ist der flächengrößte Kölner Stadtbezirk und liegt rechtsrheinisch im Südosten. Der Rhein, die Wahner Heide und der Weg zum Flughafen bestimmen, wie eine Panne dort abläuft.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 7</p><h1>Abschleppdienst Köln-Porz</h1><p class="lead">Porz ist der flächengrößte Kölner Stadtbezirk und liegt rechtsrheinisch im Südosten. Der Rhein, die Wahner Heide und der Weg zum Flughafen bestimmen, wie eine Panne dort abläuft.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Sagen Sie uns den Stadtteil, etwa Wahn, Lind, Zündorf oder Poll, dazu die Straße. Wir nennen Ihnen den Preis am Telefon und schicken einen Partner, der die langen Wege in Porz und die Nähe zum Flughafen kennt.</p>
 <h2>Größter Bezirk nach Fläche</h2>
 <p>Porz liegt rechtsrheinisch im Südosten der Stadt. Ende 2025 lebten hier rund 117.500 Einwohner auf einer Fläche von 78,78 Quadratkilometern, damit ist Porz flächenmäßig der größte Stadtbezirk Kölns. Er gehört seit dem 1. Januar 1975 zur Stadt, davor war Porz am Rhein selbständig. Zu ihm gehören die Stadtteile Eil, Elsdorf, Ensen, Finkenberg, Gremberghoven, Grengel, Langel, Libur, Lind, Poll, Porz, Urbach, Wahn, Wahnheide, Westhoven und Zündorf. Poll ist der einzige alte Kölner Stadtteil im Bezirk, er gehört schon seit 1888 zu Köln.</p>
 <h2>Große Fläche, weite Wege</h2>
@@ -191,8 +203,10 @@
 @@CTA@@
 === koeln-kalk | Abschleppdienst Köln-Kalk: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen im Kölner Stadtbezirk Kalk mit Merheim, Rath und Höhenberg: A3, A4, Kreuz Köln-Ost und Dreieck Heumar. | page ===
 <!--AREAS: Köln, Köln-Kalk, Köln-Merheim, Köln-Rath/Heumar, Köln-Ostheim -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 8</p><h1>Abschleppdienst Köln-Kalk</h1><p class="lead">Kalk liegt rechtsrheinisch zwischen Deutz und dem Bergischen Land. An seinen Rändern treffen sich A3, A4 und A59, darunter der nach der Zählung von 2015 am dichtesten befahrene Autobahnabschnitt Deutschlands.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 8</p><h1>Abschleppdienst Köln-Kalk</h1><p class="lead">Kalk liegt rechtsrheinisch zwischen Deutz und dem Bergischen Land. An seinen Rändern treffen sich A3, A4 und A59, darunter der nach der Zählung von 2015 am dichtesten befahrene Autobahnabschnitt Deutschlands.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Sagen Sie uns den Stadtteil, etwa Kalk, Merheim, Rath oder Höhenberg, dazu die Straße. Wir nennen Ihnen den Preis am Telefon und schicken einen Partner, der auch das Kreuz Köln-Ost und Dreieck Heumar kennt.</p>
 <h2>Neun Stadtteile im Osten</h2>
 <p>Der Stadtbezirk 8 besteht aus den Stadtteilen Brück, Höhenberg, Humboldt/Gremberg, Kalk, Merheim, Neubrück, Ostheim, Rath/Heumar und Vingst. Er wurde am 1. Januar 1975 gebildet und trägt den Namen seines bevölkerungsreichsten Stadtteils. Im Norden grenzt er an Mülheim, im Osten an Bergisch Gladbach und Rösrath, im Süden an Porz, im Westen mit Deutz an die Innenstadt. Das Bezirksrathaus wurde 1992 vom Architekten Gottfried Böhm gebaut, das Kalk Karree eröffnete 2003.</p>
 <h2>Industriegeschichte und dichte Straßen</h2>
@@ -223,8 +237,10 @@
 @@CTA@@
 === koeln-muelheim | Abschleppdienst Köln-Mülheim: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen im Kölner Stadtbezirk Mülheim mit Holweide, Dellbrück und Flittard: Mülheimer Brücke, A3 und Grenze zu Leverkusen. | page ===
 <!--AREAS: Köln, Köln-Mülheim, Köln-Dellbrück, Köln-Holweide, Köln-Flittard -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 9</p><h1>Abschleppdienst Köln-Mülheim</h1><p class="lead">Mülheim liegt rechtsrheinisch im Norden Kölns, an der Grenze zu Leverkusen und Bergisch Gladbach. Die Mülheimer Brücke und die A3 sind die zwei wichtigsten Wege in den Bezirk.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 9</p><h1>Abschleppdienst Köln-Mülheim</h1><p class="lead">Mülheim liegt rechtsrheinisch im Norden Kölns, an der Grenze zu Leverkusen und Bergisch Gladbach. Die Mülheimer Brücke und die A3 sind die zwei wichtigsten Wege in den Bezirk.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Sagen Sie uns den Stadtteil, etwa Mülheim, Holweide, Dellbrück oder Flittard, dazu die Straße. Wir nennen Ihnen den Preis am Telefon und schicken einen Partner, der auch die Mülheimer Brücke und die Grenze zu Leverkusen kennt.</p>
 <h2>Neun Stadtteile zwischen Rhein und Bergischem Land</h2>
 <p>Zum Stadtbezirk 9 gehören Buchforst, Buchheim, Dellbrück, Dünnwald, Flittard, Höhenhaus, Holweide, Mülheim und Stammheim. Er grenzt im Norden an Leverkusen, im Osten an Bergisch Gladbach, im Süden an die Bezirke Kalk und Innenstadt, und im Westen bildet der Rhein die Grenze zum Stadtbezirk Nippes. Die Stadtteile im Norden, Flittard und Stammheim, liegen am Rhein nahe der Stadtgrenze, Dellbrück und Holweide weiter östlich Richtung Bergisch Gladbach.</p>
 <h2>Die Mülheimer Brücke</h2>
@@ -255,8 +271,10 @@
 @@CTA@@
 === koeln-chorweiler | Abschleppdienst Köln-Chorweiler: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen im Kölner Norden: Chorweiler, Worringen, Merkenich und Fühlingen mit A57, A1 und Kreuz Köln-Nord. | page ===
 <!--AREAS: Köln, Köln-Chorweiler, Köln-Worringen, Köln-Merkenich -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 6</p><h1>Abschleppdienst Köln-Chorweiler</h1><p class="lead">Chorweiler ist der nördlichste Kölner Stadtbezirk und der einzige Außenstadtbezirk, der nicht an die Innenstadt grenzt. Die A57 und die A1 verbinden ihn mit dem Rest der Stadt.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stadtbezirk 6</p><h1>Abschleppdienst Köln-Chorweiler</h1><p class="lead">Chorweiler ist der nördlichste Kölner Stadtbezirk und der einzige Außenstadtbezirk, der nicht an die Innenstadt grenzt. Die A57 und die A1 verbinden ihn mit dem Rest der Stadt.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Sagen Sie uns den Stadtteil, etwa Chorweiler, Worringen, Merkenich oder Fühlingen, dazu die Straße. Wir nennen Ihnen den Preis am Telefon und schicken einen Partner, der auch A57, A1 und Kreuz Köln-Nord kennt.</p>
 <h2>Ein Bezirk am Stadtrand</h2>
 <p>Zum Stadtbezirk gehören Blumenberg, Chorweiler, Esch/Auweiler, Fühlingen, Heimersdorf, Lindweiler, Merkenich (mit Rheinkassel, Langel und Kasselberg), Pesch, Roggendorf/Thenhoven, Seeberg, Volkhoven/Weiler und Worringen. Der eigentliche Stadtteil Chorweiler liegt rund 14 Kilometer nördlich des Stadtzentrums. Im Norden und Westen wird der Bezirk von Wald- und Ackerflächen umgeben, im Osten begrenzen ihn die Rheinwiesen. Wegen dieser Randlage sind die Wege zur Innenstadt lang, und die Straßen dazwischen sind wichtig.</p>
 <h2>Die Neue Stadt</h2>

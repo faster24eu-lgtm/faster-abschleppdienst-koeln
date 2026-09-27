@@ -1,7 +1,9 @@
 === pannenhilfe-a1-koeln | Panne auf der A1 bei Köln: Leverkusen bis Erfttal | Panne auf der A1 von Leverkusen über Köln-Nord und Lövenich bis Frechen und Hürth: Ausfahrten, Rheinbrücke, Lärmschutztunnel und Verhalten. | page ===
 <!--AREAS: Köln, Leverkusen, Frechen, Hürth -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A1</p><h1>Panne auf der A1 bei Köln</h1><p class="lead">Im Westen und Norden Kölns bildet die A1 den Ring. Sie führt über die Leverkusener Rheinbrücke, durch eine Lärmschutzeinhausung und dann Richtung Eifel. Hier steht, wie Sie sich dort orientieren.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A1</p><h1>Panne auf der A1 bei Köln</h1><p class="lead">Im Westen und Norden Kölns bildet die A1 den Ring. Sie führt über die Leverkusener Rheinbrücke, durch eine Lärmschutzeinhausung und dann Richtung Eifel. Liegen geblieben? Rufen Sie sofort an oder senden Sie Ihren Standort per WhatsApp.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">24/7 erreichbar, auch im Tunnel bei Lövenich oder auf der Rheinbrücke.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Nennen Sie uns die Fahrtrichtung und die letzte Ausfahrt oder das letzte Kreuz, zum Beispiel Kreuz Köln-Nord oder Köln-Lövenich. Wir sagen Ihnen sofort den Preis am Telefon und schicken einen Partner, der auf der A1 zu Ihnen fährt. Im Tunnel bei Lövenich oder auf der Rheinbrücke sagen Sie uns das ausdrücklich, dort gelten besondere Regeln.</p>
 <h2>Kreuze und Ausfahrten im Kölner Raum</h2>
 <div class="tblwrap"><table class="tbl"><thead><tr><th>Nr.</th><th>Name</th><th>Anschluss</th></tr></thead><tbody>
 <tr><td>98</td><td>Kreuz Leverkusen</td><td>A3</td></tr>

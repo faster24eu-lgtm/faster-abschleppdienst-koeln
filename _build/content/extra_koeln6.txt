@@ -1,7 +1,9 @@
 === koeln-a57 | Panne auf der A57 bei Köln: Ausfahrten und Ende | Panne auf der A57 zwischen Dormagen und Köln-Ehrenfeld: Ausfahrten 25 bis 30, Kreuz Köln-Nord, Autobahnende und wie Sie Ihren Standort melden. | page ===
 <!--AREAS: Köln, Dormagen, Köln-Chorweiler, Köln-Ehrenfeld -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A57</p><h1>Panne auf der A57 bei Köln</h1><p class="lead">Die A57 kommt vom Niederrhein und Neuss, kreuzt bei Chorweiler die A1 und endet mitten in Köln-Ehrenfeld. Auf dieser Strecke wechseln Spurzahl und Umgebung mehrfach, und das beeinflusst, wie Sie sich bei einer Panne verhalten.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A57</p><h1>Panne auf der A57 bei Köln</h1><p class="lead">Die A57 kommt vom Niederrhein und Neuss, kreuzt bei Chorweiler die A1 und endet mitten in Köln-Ehrenfeld. Auf dieser Strecke wechseln Spurzahl und Umgebung mehrfach, und das beeinflusst, wie Sie sich bei einer Panne verhalten.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Nennen Sie uns Fahrtrichtung und die letzte Ausfahrt, zum Beispiel Köln-Worringen oder Kreuz Köln-Nord. Wir sagen Ihnen sofort den Preis und schicken einen Partner, der auf der A57 zu Ihnen fährt.</p>
 <h2>Ausfahrten der A57 im Kölner Raum</h2>
 <p>Die Bundesautobahn 57 verläuft von der niederländischen Grenze bei Goch parallel zum Rhein über Krefeld und Neuss nach Köln. Sie gehört zur Europastraße 31, die von Rotterdam bis nach Hockenheim führt. In Köln passieren Sie von Norden nach Süden diese Stellen:</p>
 <div class="tblwrap"><table class="tbl"><thead><tr><th>Nr.</th><th>Name</th><th>Besonderheit</th></tr></thead><tbody>
@@ -42,8 +44,10 @@
 @@CTA@@
 === koeln-a59 | Panne auf der A59 bei Köln: Heumar bis Troisdorf | Panne auf der A59 zwischen Dreieck Köln-Heumar, Flughafen und Bonn: Ausfahrten 31 bis 43, Dreieck Porz, Anschlüsse und Verhalten. | page ===
 <!--AREAS: Köln, Köln-Porz, Troisdorf, Bonn -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A59</p><h1>Panne auf der A59 bei Köln</h1><p class="lead">Die A59 zwischen Köln und Bonn ist die rechtsrheinische Verbindung mit dem Flughafen. Sie beginnt am Dreieck Köln-Heumar und führt durch den Kölner Südosten bis Bonn-Beuel.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A59</p><h1>Panne auf der A59 bei Köln</h1><p class="lead">Die A59 zwischen Köln und Bonn ist die rechtsrheinische Verbindung mit dem Flughafen. Sie beginnt am Dreieck Köln-Heumar und führt durch den Kölner Südosten bis Bonn-Beuel.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Nennen Sie uns Fahrtrichtung (Köln oder Bonn) und die letzte Ausfahrt, zum Beispiel Dreieck Köln-Porz oder Flughafen. Wir sagen Ihnen sofort den Preis und schicken einen Partner, der auf der A59 zu Ihnen fährt.</p>
 <h2>Drei getrennte A59</h2>
 <p>Die Bundesautobahn 59 besteht aus drei unterbrochenen Abschnitten. Der nördlichste liegt in Duisburg, ein weiterer führt von Düsseldorf bis Leverkusen, und schließlich verbindet die A59 Köln mit Bonn-Beuel. Um diesen dritten Abschnitt geht es hier. Er beginnt am Dreieck Köln-Heumar, an dem A3 und A4 zusammenlaufen.</p>
 <h2>Ausfahrten und Kreuze</h2>
@@ -91,8 +95,10 @@
 @@CTA@@
 === koeln-a555 | Panne auf der A555: Köln-Bonner Autobahn | Panne auf der A555 zwischen Kreuz Köln-Süd und Bonn: Ausfahrten 2 bis 7, Godorf, Wesseling, Bornheim, älteste deutsche Autobahn. | page ===
 <!--AREAS: Köln, Köln-Rodenkirchen, Wesseling, Bornheim, Bonn -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A555</p><h1>Panne auf der A555 zwischen Köln und Bonn</h1><p class="lead">Die A555 ist die älteste deutsche Autobahn. Sie verbindet Köln und Bonn seit 1932 und wird heute täglich von weit über 100.000 Fahrzeugen genutzt.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A555</p><h1>Panne auf der A555 zwischen Köln und Bonn</h1><p class="lead">Die A555 ist die älteste deutsche Autobahn. Sie verbindet Köln und Bonn seit 1932 und wird heute täglich von weit über 100.000 Fahrzeugen genutzt.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Nennen Sie uns Fahrtrichtung (Köln oder Bonn) und die letzte Ausfahrt, etwa Rodenkirchen oder Godorf. Wir sagen Ihnen sofort den Preis und schicken einen Partner, der auf der A555 zu Ihnen fährt.</p>
 <h2>Die älteste Autobahn Deutschlands</h2>
 <p>Die A555 wurde am 6. August 1932 eingeweiht, vom damaligen Kölner Oberbürgermeister Konrad Adenauer. Der Bau hatte im Oktober 1928 begonnen. Als "kreuzungsfreie Kraftfahr-Straße" galt sie 1932 mit rund 3.000 Kraftwagen täglich als die verkehrsreichste Straße im Deutschen Reich. Zur Bundesautobahn erklärt wurde sie erst am 1. April 1958. Man nennt sie deshalb auch Köln-Bonner Autobahn. Diese Geschichte erklärt, warum sie auch heute noch als Verbindung zwischen zwei Städten genutzt wird, mit vielen kurzen Abständen zwischen den Ausfahrten.</p>
 <h2>Verkehr heute</h2>
@@ -132,8 +138,10 @@
 @@CTA@@
 === koeln-leverkusener-bruecke | Leverkusener Brücke: Panne auf der A1 am Rhein | Panne auf der A1 an der Leverkusener Rheinbrücke: Kreuz Leverkusen, Hochstraßen, Köln-Niehl und was bei einer Panne auf der Brücke gilt. | page ===
 <!--AREAS: Köln, Leverkusen, Köln-Niehl -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A1</p><h1>Panne an der Leverkusener Brücke</h1><p class="lead">Die A1 überquert den Rhein zwischen Leverkusen und Köln-Niehl auf einer über einen Kilometer langen Schrägseilbrücke. Davor und dahinter liegen Hochstraßen und Kreuze. Ein Ort, an dem eine Panne schnell den Verkehr blockiert.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Köln · A1</p><h1>Panne an der Leverkusener Brücke</h1><p class="lead">Die A1 überquert den Rhein zwischen Leverkusen und Köln-Niehl auf einer über einen Kilometer langen Schrägseilbrücke. Davor und dahinter liegen Hochstraßen und Kreuze. Ein Ort, an dem eine Panne schnell den Verkehr blockiert.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">Rund um die Uhr erreichbar, ein Anruf genügt.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Sagen Sie uns, ob Sie vor, auf oder hinter der Rheinbrücke stehen, und Ihre Fahrtrichtung. Wir sagen Ihnen sofort den Preis und schicken einen Partner, der die Hochstraßen und die Brücke kennt.</p>
 <h2>Die Strecke Stück für Stück</h2>
 <p>Von Norden kommend, führt die A1 in dieser Reihenfolge durch den Abschnitt:</p>
 <div class="tblwrap"><table class="tbl"><thead><tr><th>Stelle</th><th>Länge / Nr.</th><th>Hinweis</th></tr></thead><tbody>

@@ -1,7 +1,9 @@
 === abschleppdienst-karlsruhe | Abschleppdienst Karlsruhe 24h – Pannenhilfe &amp; Festpreis | Abschleppdienst und Pannenhilfe in Karlsruhe: Durlach, Knielingen, Ettlingen, Kriegsstraße-Tunnel, Südtangente. 24h erreichbar, Festpreis ab 129 €. | page ===
 <!--AREAS: Karlsruhe, Durlach, Ettlingen, Rheinstetten -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Karlsruhe</p><h1>Abschleppdienst Karlsruhe: Pannenhilfe rund um die Uhr</h1><p class="lead">Liegengeblieben in Karlsruhe, im Tunnel unter der Kriegsstraße, auf der Südtangente oder am Autobahndreieck? Sie rufen an, wir nennen Ihnen einen Festpreis und organisieren einen Abschleppwagen aus der Region.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Karlsruhe</p><h1>Abschleppdienst Karlsruhe: Pannenhilfe rund um die Uhr</h1><p class="lead">Liegengeblieben in Karlsruhe, im Tunnel unter der Kriegsstraße, auf der Südtangente oder am Autobahndreieck? Rufen Sie jetzt an, wir nennen Ihnen sofort einen Festpreis und organisieren einen Abschleppwagen aus der Region.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">24 Stunden erreichbar, auch nachts und am Wochenende.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Sagen Sie uns Straße oder Ausfahrt und Ihr Fahrzeug. Wir nennen Ihnen sofort den Festpreis für Ihre Strecke, noch bevor jemand losfährt, und schicken einen Partner aus der Region Karlsruhe. Sie bleiben unser Ansprechpartner, bis das Fahrzeug sicher am Ziel ist.</p>
 <h2>Wo wir in Karlsruhe helfen</h2>
 <p>Innenstadt, Durlach, Mühlburg, Knielingen, Neureut, Rüppurr, Ettlingen und Rheinstetten: Sagen Sie uns die Straße, den Parkplatz oder die nächste Kreuzung, und schicken Sie am besten Ihren Standort per WhatsApp. Das ist schneller und genauer als jede Beschreibung am Telefon.</p>
 <h2>Die Strecken rund um Karlsruhe</h2>
@@ -48,8 +50,10 @@
 @@CTA@@
 === abschleppdienst-baden-baden | Abschleppdienst Baden-Baden, Rastatt &amp; Bühl 24h | Abschleppdienst in Baden-Baden, Rastatt und Bühl: B500, Michaelstunnel, Baden-Airpark und A5. 24h erreichbar, Festpreis ab 129 €. | page ===
 <!--AREAS: Baden-Baden, Rastatt, Bühl, Sinzheim, Gaggenau, Gernsbach, Rheinmünster -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Baden-Baden · Rastatt · Bühl</p><h1>Abschleppdienst Baden-Baden: Panne zwischen Rastatt und Bühl</h1><p class="lead">Ob in der Kurstadt, an der B500, am Baden-Airpark oder auf der A5: Wir organisieren Pannenhilfe und Abschleppen in Baden-Baden, Rastatt, Sinzheim, Bühl, Gaggenau und Gernsbach.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Baden-Baden · Rastatt · Bühl</p><h1>Abschleppdienst Baden-Baden: Panne zwischen Rastatt und Bühl</h1><p class="lead">Ob in der Kurstadt, an der B500, am Baden-Airpark oder auf der A5: Rufen Sie jetzt an, wir organisieren sofort Pannenhilfe und Abschleppen in Baden-Baden, Rastatt, Sinzheim, Bühl, Gaggenau und Gernsbach.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">24 Stunden erreichbar, auch auf der Schwarzwaldhochstraße.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Nennen Sie uns Ort oder Ausfahrt, dazu Ihr Fahrzeug. Wir sagen Ihnen sofort den Festpreis für Ihre Strecke, bevor jemand losfährt, und schicken einen Partner aus der Region. Bis er da ist, bleiben Sie unser Ansprechpartner am Telefon.</p>
 <h2>Die A5 zwischen Rastatt und Bühl</h2>
 <div class="tblwrap"><table class="tbl"><thead><tr><th>A5, Ausfahrt</th><th>Name</th><th>Anschluss</th></tr></thead><tbody>
 <tr><td>49</td><td>Rastatt-Nord</td><td>B462</td></tr>
@@ -86,8 +90,10 @@
 @@CTA@@
 === abschleppdienst-achern | Abschleppdienst Achern 24h – Achertal, Renchtal &amp; A5 | Abschleppdienst und Pannenhilfe in Achern, Sasbach, Ottersweier, Kappelrodeck und Renchen. A5-Ausfahrt 53, B3 und Achertal. 24h, Festpreis ab 129 €. | page ===
 <!--AREAS: Achern, Sasbach, Ottersweier, Kappelrodeck, Renchen, Oberkirch -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Achern · Renchtal · Achertal</p><h1>Abschleppdienst Achern: Pannenhilfe an der A5 und im Achertal</h1><p class="lead">Achern liegt zwischen Bühl und Offenburg direkt an der A5 und an der B3. Wenn Ihr Fahrzeug hier stehen bleibt, rufen Sie an oder schicken Sie Ihren Standort. Wir nennen den Preis vorab.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Achern · Renchtal · Achertal</p><h1>Abschleppdienst Achern: Pannenhilfe an der A5 und im Achertal</h1><p class="lead">Achern liegt zwischen Bühl und Offenburg direkt an der A5 und an der B3. Wenn Ihr Fahrzeug hier stehen bleibt, rufen Sie jetzt an oder schicken Sie Ihren Standort per WhatsApp. Wir nennen den Preis sofort und vorab.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">24 Stunden erreichbar, auch im Achertal und Renchtal.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Nennen Sie uns die Ausfahrt oder den Ort im Achertal, dazu Ihr Fahrzeug. Wir sagen Ihnen sofort den Festpreis, bevor jemand losfährt, und schicken einen Partner aus der Region. Sie bleiben unser Ansprechpartner, bis das Fahrzeug sicher angekommen ist.</p>
 <h2>So finden wir Sie zwischen Bühl und Offenburg</h2>
 <div class="tblwrap"><table class="tbl"><thead><tr><th>Stelle an der A5</th><th>Was dort liegt</th></tr></thead><tbody>
 <tr><td>Ausfahrt 52</td><td>Bühl</td></tr>
@@ -127,8 +133,10 @@
 @@CTA@@
 === abschleppdienst-offenburg | Abschleppdienst Offenburg, Kehl &amp; Ortenau 24h | Abschleppdienst und Pannenhilfe in Offenburg, Kehl, Appenweier, Lahr und der Ortenau. A5, B28 und Kinzigtal: 24h erreichbar, Festpreis ab 129 €. | page ===
 <!--AREAS: Offenburg, Kehl, Appenweier, Oberkirch, Gengenbach, Lahr -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Offenburg · Kehl · Ortenau</p><h1>Abschleppdienst Offenburg: Pannenhilfe in der Ortenau</h1><p class="lead">Offenburg ist die größte Stadt zwischen Karlsruhe und Freiburg und liegt am Eingang zum Kinzigtal. Wir organisieren Abschleppdienst und Pannenhilfe in Offenburg, Kehl, Appenweier, Oberkirch, Gengenbach und Lahr.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Offenburg · Kehl · Ortenau</p><h1>Abschleppdienst Offenburg: Pannenhilfe in der Ortenau</h1><p class="lead">Offenburg ist die größte Stadt zwischen Karlsruhe und Freiburg und liegt am Eingang zum Kinzigtal. Rufen Sie jetzt an, wir organisieren sofort Abschleppdienst und Pannenhilfe in Offenburg, Kehl, Appenweier, Oberkirch, Gengenbach und Lahr.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">24 Stunden erreichbar, auch grenzüberschreitend nach Kehl und Straßburg.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Nennen Sie uns die Ausfahrt oder den Ort, dazu Ihr Fahrzeug. Wir sagen Ihnen sofort den Festpreis, bevor jemand losfährt, und schicken einen Partner aus der Ortenau. Soll das Fahrzeug über die Grenze nach Frankreich, sagen Sie uns das gleich, dann klären wir Möglichkeiten und Preis vorab.</p>
 <h2>Ausfahrten rund um Offenburg</h2>
 <div class="tblwrap"><table class="tbl"><thead><tr><th>A5, Ausfahrt</th><th>Name</th><th>Wohin</th></tr></thead><tbody>
 <tr><td>54</td><td>Appenweier</td><td>B28 nach Kehl und Straßburg</td></tr>
@@ -173,9 +181,11 @@
 @@CTA@@
 === abschleppdienst-a5 | Abschleppdienst A5: Panne Karlsruhe bis Offenburg | Panne auf der A5 zwischen Karlsruhe und Offenburg? Ausfahrten 43 bis 56, Rastanlagen, Verhalten, Standort melden und Hilfe. 24h erreichbar, Preis vorab. | page ===
 <!--AREAS: Karlsruhe, Rastatt, Baden-Baden, Bühl, Achern, Appenweier, Offenburg, Lahr -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn A5</p><h1>Abschleppdienst A5: Panne zwischen Karlsruhe und Offenburg</h1><p class="lead">Sie stehen auf der A5? Sichern Sie zuerst die Stelle, dann rufen Sie an. Nennen Sie uns Fahrtrichtung und die letzte Ausfahrt, und wir organisieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn A5</p><h1>Abschleppdienst A5: Panne zwischen Karlsruhe und Offenburg</h1><p class="lead">Sie stehen auf der A5? Sichern Sie zuerst die Stelle, dann rufen Sie sofort an. Nennen Sie uns Fahrtrichtung und die letzte Ausfahrt, und wir organisieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a> <a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></p><p class="sub">24 Stunden erreichbar, auch nachts auf dem Standstreifen.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <div class="note"><p><strong>Zuerst Sicherheit:</strong> Warnblinker an, Warnweste anziehen, über die Beifahrerseite aussteigen, hinter die Leitplanke gehen. Bei Verletzten zuerst die 112 rufen. Erst danach uns.</p></div>
+<h2>Was passiert nach Ihrem Anruf?</h2>
+<p>Nennen Sie uns Fahrtrichtung und die letzte Ausfahrt oder Rastanlage. Wir sagen Ihnen sofort den Preis für Ihre Strecke, bevor jemand losfährt, und schicken einen Partner aus der Region Karlsruhe bis Offenburg. Bis er da ist, bleiben Sie hinter der Leitplanke und erreichbar am Telefon.</p>
 <h2>Alle Ausfahrten der A5 von Karlsruhe bis Lahr</h2>
 <div class="tblwrap"><table class="tbl"><thead><tr><th>Ausfahrt</th><th>Name</th><th>Anschluss</th></tr></thead><tbody>
 <tr><td>43</td><td>Karlsruhe-Nord</td><td>B10</td></tr>
