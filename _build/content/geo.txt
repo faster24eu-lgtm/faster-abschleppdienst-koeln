@@ -135,3 +135,11 @@ stadt-greifswald	Greifswald	Mecklenburg-Vorpommern
 stadt-stralsund	Stralsund	Mecklenburg-Vorpommern	
 stadt-celle	Celle	Niedersachsen	
 stadt-giessen	Gießen	Hessen	
+stadt-wetzlar	Wetzlar	Hessen	
+stadt-marburg	Marburg	Hessen	
+stadt-fulda	Fulda	Hessen	
+stadt-brandenburg-an-der-havel	Brandenburg an der Havel	Brandenburg	
+stadt-frankfurt-oder	Frankfurt (Oder)	Brandenburg	
+stadt-plauen	Plauen	Sachsen	
+stadt-weimar	Weimar	Thüringen	
+stadt-eisenach	Eisenach	Thüringen	

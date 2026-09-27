@@ -100,3 +100,11 @@ stadt-greifswald	rostock,stralsund,schwerin,luebeck,potsdam,berlin	a20
 stadt-stralsund	rostock,greifswald,schwerin,luebeck,berlin	a20
 stadt-celle	hannover,braunschweig,wolfsburg,lueneburg,hildesheim,salzgitter	a7,a2
 stadt-giessen	siegen,darmstadt,frankfurt,kassel,offenbach,hanau,mainz,wiesbaden	a5,a45
+stadt-wetzlar	giessen,siegen,koblenz,marburg,frankfurt,darmstadt,kassel	a45,a5
+stadt-marburg	giessen,wetzlar,kassel,siegen,fulda,frankfurt	a5,a45
+stadt-fulda	hanau,giessen,kassel,offenbach,wuerzburg,erfurt,frankfurt,marburg	a7,a66,a5
+stadt-brandenburg-an-der-havel	potsdam,berlin,magdeburg,cottbus,frankfurt-oder	a2,a10
+stadt-frankfurt-oder	berlin,potsdam,cottbus,brandenburg-an-der-havel,goerlitz	a10
+stadt-plauen	chemnitz,jena,erfurt,gera,nuernberg,bayreuth,dresden	a9,a4
+stadt-weimar	erfurt,jena,halle,eisenach,leipzig,magdeburg	a4,a9
+stadt-eisenach	erfurt,weimar,kassel,jena,fulda,goettingen	a4,a7
