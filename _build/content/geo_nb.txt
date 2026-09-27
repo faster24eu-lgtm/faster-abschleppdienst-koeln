@@ -136,3 +136,10 @@ stadt-berlin-treptow-koepenick	berlin,berlin-neukoelln,berlin-lichtenberg,berlin
 stadt-berlin-marzahn-hellersdorf	berlin,berlin-lichtenberg,berlin-treptow-koepenick,frankfurt-oder,berlin-pankow	a10
 stadt-berlin-lichtenberg	berlin,berlin-marzahn-hellersdorf,berlin-pankow,berlin-friedrichshain-kreuzberg,berlin-treptow-koepenick,frankfurt-oder	a10
 stadt-berlin-reinickendorf	berlin,berlin-pankow,berlin-spandau,berlin-charlottenburg-wilmersdorf,berlin-mitte,potsdam	a10,a24
+stadt-speyer	ludwigshafen,mannheim,heidelberg,worms,karlsruhe,kaiserslautern,mainz	a61,a6
+stadt-neuwied	koblenz,bonn,siegen,mainz,wiesbaden,giessen	a3,a61
+stadt-pirmasens	zweibruecken,kaiserslautern,saarbruecken,trier,karlsruhe,ludwigshafen	a8,a6
+stadt-bad-kreuznach	mainz,wiesbaden,koblenz,kaiserslautern,worms,darmstadt	a61
+stadt-zweibruecken	pirmasens,saarbruecken,kaiserslautern,trier,karlsruhe	a8,a6
+stadt-saarlouis	saarbruecken,trier,zweibruecken,neunkirchen-saar,kaiserslautern	a8,a620
+stadt-neunkirchen-saar	saarbruecken,saarlouis,zweibruecken,kaiserslautern,pirmasens	a6,a8

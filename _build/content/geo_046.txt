@@ -1,0 +1,57 @@
+=== stadt-saarlouis | Abschleppdienst Saarlouis: Pannenhilfe A8, A620, B51, B269 | Pannenhilfe und Abschleppen in Saarlouis: Kernstadt und Stadtteile im Saartal, A8 und A620 nach Saarbrücken, B51, B269 und B405, Automobilindustrie. | page ===
+<!--AREAS: Saarlouis, Roden, Fraulautern, Lisdorf, Picard, Beaumarais, Neuforweiler -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Saarlouis</p><h1>Abschleppdienst Saarlouis</h1><p class="lead">Saarlouis liegt im mittleren Saartal an der A8 und A620. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Fünftgrößte Stadt des Saarlandes</h2>
+<p>Saarlouis ist mit rund 37.000 Einwohnern die fünftgrößte Stadt des Saarlandes und Verwaltungssitz des Landkreises Saarlouis, ein wirtschaftlicher Schwerpunkt ist die Automobilindustrie. Zur Stadt gehören die Kernstadt und die Stadtteile Beaumarais, Fraulautern, Lisdorf, Neuforweiler, Picard und Roden, die meisten davon 1936 eingemeindet, Neuforweiler 1970. Die Kernstadt ist im Uhrzeigersinn von Roden, Fraulautern, Lisdorf, Picard und Beaumarais umgeben. Nennen Sie uns bei einer Panne Stadtteil und Straße. Der Große Markt mit der Ludwigskirche bildet das Zentrum des Saarlouiser Beckens, das rund 15 Kilometer von Nord nach Süd und rund neun Kilometer von West nach Ost misst.</p>
+<h2>A8 und A620</h2>
+<p>Saarlouis ist über die A8 (Perl–Bad Reichenhall) und die A620 nach Saarbrücken an das überregionale und internationale Straßennetz angebunden. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a8.html">Panne auf der A8</a> und <a href="stadt-saarbruecken.html">Abschleppdienst Saarbrücken</a>. Ein Hinweis für die Grenzregion: Wenn Sie in Richtung Frankreich oder Luxemburg liegen bleiben, sagen Sie uns, auf welcher Seite der Grenze Sie sich befinden.</p>
+<h2>B51, B269 und B405</h2>
+<p>Dazu kommen die Bundesstraßen B51 (Stuhr–Saargemünd), B269 (Longkamp–Überherrn–Felsberg) und B405 (Thionville–Saarwellingen). Die B405 führt auf die französische Seite in Richtung Thionville. Wenn Sie auf einer dieser Straßen liegen bleiben, sagen Sie uns die Nummer, die Fahrtrichtung und den nächsten Ort.</p>
+<h2>Autoindustrie im Saartal</h2>
+<p>Wenn Ihr Fahrzeug in einem Gewerbegebiet oder an einem Werkstor liegen bleibt, nennen Sie uns Straße, Firmenname und Torzufahrt. Bei Transportern oder Kleinlastern nennen Sie das zulässige Gesamtgewicht, siehe <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>.</p>
+<h2>So nennen Sie Ihren Standort in Saarlouis</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf A8 oder A620: Richtung, Anschlussstelle.</li>
+<li>Auf B51, B269 oder B405: Fahrtrichtung, nächster Ort.</li>
+<li>Bei Grenznähe: deutsche oder französische Seite.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-trier.html">Trier</a> und <a href="stadt-zweibruecken.html">Zweibrücken</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Saarlouis</h2>
+<details><summary>Welche Autobahnen führen nach Saarlouis?</summary><div>Die A8 (Perl–Bad Reichenhall) und die A620 nach Saarbrücken.</div></details>
+<details><summary>Welche Bundesstraßen gibt es?</summary><div>B51, B269 und B405.</div></details>
+<details><summary>Welche Stadtteile hat Saarlouis?</summary><div>Beaumarais, Fraulautern, Lisdorf, Neuforweiler, Picard und Roden.</div></details>
+<details><summary>Wo liegt das Zentrum?</summary><div>Am Großen Markt mit der Ludwigskirche im Saarlouiser Becken.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-neunkirchen-saar | Abschleppdienst Neunkirchen (Saar): Pannenhilfe A6, A8, B41 | Pannenhilfe und Abschleppen in Neunkirchen (Saar): zweitgrößte Stadt des Saarlandes an der Blies, A6, A8 und B41, Kernstadt und Stadtteile wie Furpach. | page ===
+<!--AREAS: Neunkirchen (Saar), Furpach, Wellesweiler, Ottweiler, Blies, Oberstadt -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neunkirchen (Saar)</p><h1>Abschleppdienst Neunkirchen (Saar)</h1><p class="lead">Neunkirchen liegt an der Blies nordöstlich von Saarbrücken an A6, A8 und B41. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zweitgrößte Stadt des Saarlandes</h2>
+<p>Neunkirchen ist eine saarländische Kreisstadt an der Blies, etwa 20 Kilometer nordöstlich von Saarbrücken, mit 46.896 Einwohnern (31. Dezember 2025) nach Saarbrücken die zweitgrößte Stadt des Saarlandes. Sie ist Kreisstadt des gleichnamigen Landkreises, der Landrat sitzt allerdings in Ottweiler. Der Namenszusatz „(Saar)“ steht als Kurzbezeichnung für die Lage im ehemaligen Saargebiet und bedeutet nicht „an der Saar“. Nennen Sie uns deshalb bei einer Panne bitte „Neunkirchen im Saarland“ und die Straße. Mehr auf <a href="stadt-saarbruecken.html">Abschleppdienst Saarbrücken</a>.</p>
+<h2>A6, A8 und B41</h2>
+<p>Neunkirchen ist über die A6 (Saarbrücken–Waidhaus) und A8 (Perl–Bad Reichenhall) sowie die B41 (Saarbrücken–Bad Kreuznach) an das überregionale Straßennetz angebunden. Furpach, ein Wohn- und Naherholungsgebiet, liegt rund dreieinhalb Kilometer südöstlich der Innenstadt an der A8. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a6.html">Panne auf der A6</a> und <a href="autobahn-a8.html">Panne auf der A8</a>. Zur Nachbarstadt: <a href="stadt-kaiserslautern.html">Kaiserslautern</a>.</p>
+<h2>Kernstadt zwischen Blies und Hügeln</h2>
+<p>Die Kernstadt erstreckt sich von der Blies, wo ein modernes Einkaufszentrum errichtet wurde, auf die Hügel vor allem südlich des Flusses. Das alte Stadtzentrum, die Oberstadt, gruppiert sich um den Oberen Markt. Eschweilerhof und Hofgut Menschenhaus kamen 1974 durch die Gebiets- und Verwaltungsreform des Saarlandes zu Neunkirchen. Wenn Sie am Einkaufszentrum liegen bleiben, nennen Sie uns Parkplatz oder Parkebene, in der Oberstadt Straße und Hausnummer.</p>
+<h2>Bergbau und Denkmäler</h2>
+<p>Die Bergbauanlagen der Stadt sind inzwischen zu Denkmälern geworden. Wenn Sie in der Nähe von Haldenflächen oder Wanderwegen liegen bleiben, nennen Sie uns die Straße und den nächsten Ortsteil.</p>
+<h2>So nennen Sie Ihren Standort in Neunkirchen</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf A6 oder A8: Richtung, Anschlussstelle.</li>
+<li>Auf der B41: Fahrtrichtung, nächster Ort.</li>
+<li>Am Einkaufszentrum: Parkplatz oder Ebene.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-zweibruecken.html">Zweibrücken</a> und <a href="stadt-pirmasens.html">Pirmasens</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Neunkirchen (Saar)</h2>
+<details><summary>Welche Autobahnen führen nach Neunkirchen?</summary><div>Die A6 (Saarbrücken–Waidhaus) und die A8 (Perl–Bad Reichenhall).</div></details>
+<details><summary>Wie weit ist Saarbrücken?</summary><div>Etwa 20 Kilometer südwestlich.</div></details>
+<details><summary>Was bedeutet der Zusatz (Saar)?</summary><div>Er bezeichnet die Lage im ehemaligen Saargebiet, nicht die Lage an der Saar.</div></details>
+<details><summary>Wo liegt Furpach?</summary><div>Rund dreieinhalb Kilometer südöstlich der Innenstadt an der A8.</div></details>
+</div></section>
+@@CTA@@

@@ -189,3 +189,10 @@ stadt-berlin-treptow-koepenick	Berlin Treptow-Köpenick	Berlin
 stadt-berlin-marzahn-hellersdorf	Berlin Marzahn-Hellersdorf	Berlin	
 stadt-berlin-lichtenberg	Berlin-Lichtenberg	Berlin	
 stadt-berlin-reinickendorf	Berlin-Reinickendorf	Berlin	
+stadt-speyer	Speyer	Rheinland-Pfalz	
+stadt-neuwied	Neuwied	Rheinland-Pfalz	
+stadt-pirmasens	Pirmasens	Rheinland-Pfalz	
+stadt-bad-kreuznach	Bad Kreuznach	Rheinland-Pfalz	
+stadt-zweibruecken	Zweibrücken	Rheinland-Pfalz	
+stadt-saarlouis	Saarlouis	Saarland	
+stadt-neunkirchen-saar	Neunkirchen (Saar)	Saarland	

@@ -1,0 +1,140 @@
+=== stadt-speyer | Abschleppdienst Speyer: Pannenhilfe A61, B9, B39, Salierbrücke | Pannenhilfe und Abschleppen in Speyer: A61 im Norden, kreuzungsfreie B9 und B39 mit sieben Abfahrten, Salierbrücke und Autobahnbrücke. | page ===
+<!--AREAS: Speyer, Speyer-Nord, Speyer-Süd, Speyer-West, Dudenhofen, Salierbrücke, Rheinbrücke -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Speyer</p><h1>Abschleppdienst Speyer</h1><p class="lead">Speyer liegt am linken Rheinufer in der Metropolregion Rhein-Neckar an B9, B39 und A61. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Römische Gründung am Rhein</h2>
+<p>Speyer ist eine kreisfreie Universitätsstadt in Rheinland-Pfalz und Teil der Metropolregion Rhein-Neckar. Als römische Gründung, damals Noviomagus, Hauptort der Civitas Nemetum, ist sie eine der ältesten Städte Deutschlands. Das Stadtgebiet gliedert sich in fünf Stadtteile. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-ludwigshafen.html">Abschleppdienst Ludwigshafen</a>, <a href="stadt-mannheim.html">Abschleppdienst Mannheim</a> und <a href="stadt-heidelberg.html">Abschleppdienst Heidelberg</a>.</p>
+<h2>B9 und B39, kreuzungsfrei</h2>
+<p>Speyer hat direkten Anschluss an das Bundesstraßen- und Autobahnnetz. Ludwigshafen, Mannheim und Karlsruhe sind über die B9, die die Bebauung der Stadt westlich begrenzt, in etwa 20 Minuten zu erreichen. Die B39 verläuft zum 20 Kilometer westlich gelegenen Neustadt an der Weinstraße durch die Stadt. Die B9 ist vierspurig, beide Bundesstraßen sind kreuzungsfrei ausgebaut und haben auf Speyerer Gemarkung sieben Abfahrten. Auf einer kreuzungsfreien Straße gilt bei einer Panne: Warnblinker, Warnweste, hinter die Schutzplanke. Nennen Sie uns die Abfahrt und die Fahrtrichtung.</p>
+<h2>A61 und die Rheinbrücken</h2>
+<p>Die A61 durchquert den nördlichsten Teil der Stadt und führt über den Rhein zur A6 am Dreieck Hockenheim, Anschlussstellen gibt es im Norden an der B9 und im Osten an der B39. Der Rhein wird in Speyer von der Salierbrücke, über die die B39 verläuft, und von der Autobahnbrücke der A61 gequert. Von 1865 bis 1938 bestand eine Schiffbrücke, ihr ehemaliges Maut- und Verwaltungsgebäude ist heute das Museum im Brückenhaus. Wenn Sie an einer der Rheinbrücken liegen bleiben, nennen Sie uns die Brücke und die Fahrtrichtung, Richtung Baden-Württemberg oder Richtung Rheinland-Pfalz. Mehr auf <a href="autobahn-a61.html">Panne auf der A61</a>, <a href="autobahn-a6.html">Panne auf der A6</a> und <a href="stadt-worms.html">Abschleppdienst Worms</a>.</p>
+<h2>Heidelberg über den Schwetzinger Wald</h2>
+<p>Wegen des dazwischenliegenden unzerstörten Schwetzinger Waldes ist das gut 30 Straßenkilometer östlich gelegene Heidelberg in etwa 35 Minuten zu erreichen. Auf Waldstrecken gilt: Nennen Sie uns Straße, Kilometerstein oder nächsten Ort, weil Hausnummern fehlen.</p>
+<h2>So nennen Sie Ihren Standort in Speyer</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf B9, B39 oder A61: Fahrtrichtung, Abfahrt.</li>
+<li>An Salierbrücke oder Autobahnbrücke: Fahrtrichtung, Rheinseite.</li>
+<li>Auf Waldstrecken: nächster Ort oder Kilometerstein.</li>
+</ul>
+<p>Weitere Städte: <a href="abschleppdienst-karlsruhe.html">Karlsruhe</a> und <a href="stadt-kaiserslautern.html">Kaiserslautern</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Speyer</h2>
+<details><summary>Welche Autobahn führt an Speyer vorbei?</summary><div>Die A61, die den nördlichsten Teil der Stadt durchquert und über den Rhein zum Dreieck Hockenheim führt.</div></details>
+<details><summary>Wie viele Abfahrten haben B9 und B39?</summary><div>Auf Speyerer Gemarkung sieben, beide sind kreuzungsfrei ausgebaut.</div></details>
+<details><summary>Wie viele Rheinbrücken gibt es?</summary><div>Die Salierbrücke (B39) und die Autobahnbrücke der A61.</div></details>
+<details><summary>Wie viele Stadtteile hat Speyer?</summary><div>Fünf.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-neuwied | Abschleppdienst Neuwied: Pannenhilfe B42, B256, Raiffeisenbrücke | Pannenhilfe und Abschleppen in Neuwied: rechtes Rheinufer nordwestlich von Koblenz, B42 und B256 als Schnellstraßen, Raiffeisenbrücke, A3, A48 und A61. | page ===
+<!--AREAS: Neuwied, Neuwied-Heddesdorf, Neuwied-Engers, Neuwied-Feldkirchen, Raiffeisenbrücke, Koblenz -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neuwied</p><h1>Abschleppdienst Neuwied</h1><p class="lead">Neuwied liegt am rechten Rheinufer etwa zehn Kilometer nordwestlich von Koblenz. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Große kreisangehörige Stadt am Rhein</h2>
+<p>Neuwied ist eine große kreisangehörige Stadt und Sitz der Kreisverwaltung des Landkreises Neuwied im Norden von Rheinland-Pfalz. Sie liegt am Südrand des Landkreises am rechten Rheinufer, etwa zehn Kilometer nordwestlich von Koblenz, an der Mündung der Wied. Nennen Sie uns bei einer Panne Stadtteil und Straße und ob Sie auf der rechten Rheinseite stehen. Mehr auf <a href="stadt-koblenz.html">Abschleppdienst Koblenz</a>.</p>
+<h2>B42 und B256 als Schnellstraßen</h2>
+<p>In Neuwied kreuzen sich die Bundesstraßen B42 und B256. Diese sind in Stadtnähe größtenteils als Schnellstraßen ausgebaut. Wenn Sie auf einer Schnellstraße liegen bleiben, gilt: Warnblinker, Warnweste, hinter die Schutzplanke, siehe <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>. Nennen Sie uns Straße, Fahrtrichtung und die letzte Abfahrt.</p>
+<h2>Raiffeisenbrücke über den Rhein</h2>
+<p>Die B256 führt auf der Raiffeisenbrücke, einem der städtischen Wahrzeichen, über den Rhein. Wenn Sie auf oder an der Brücke liegen bleiben, sagen Sie uns die Fahrtrichtung, Richtung Koblenz-Seite oder Richtung Neuwied-Seite, und ob Sie auf der Auffahrt stehen.</p>
+<h2>A3, A48 und A61</h2>
+<p>Über die Bundesstraßen sind die A3, A48 und A61 in wenigen Minuten erreichbar. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="autobahn-a61.html">Panne auf der A61</a>. Zur linken Rheinseite, siehe <a href="stadt-mainz.html">Abschleppdienst Mainz</a>.</p>
+<h2>So nennen Sie Ihren Standort in Neuwied</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf B42 oder B256: Fahrtrichtung, Abfahrt.</li>
+<li>Auf der Raiffeisenbrücke: Fahrtrichtung, Rheinseite.</li>
+<li>Auf A3, A48 oder A61: Richtung, Anschlussstelle.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-siegen.html">Siegen</a> und <a href="stadt-bonn.html">Bonn</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Neuwied</h2>
+<details><summary>Welche Bundesstraßen kreuzen sich in Neuwied?</summary><div>Die B42 und die B256.</div></details>
+<details><summary>Was ist die Raiffeisenbrücke?</summary><div>Die Rheinbrücke der B256 und eines der städtischen Wahrzeichen.</div></details>
+<details><summary>Wie weit ist Koblenz entfernt?</summary><div>Etwa zehn Kilometer südöstlich, Neuwied liegt am rechten Rheinufer.</div></details>
+<details><summary>Welche Autobahnen sind erreichbar?</summary><div>A3, A48 und A61, über die Bundesstraßen in wenigen Minuten.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-pirmasens | Abschleppdienst Pirmasens: Pannenhilfe A8, A62, B10 | Pannenhilfe und Abschleppen in Pirmasens: Pfälzerwald, Anschluss an A8 und A62, B10 zur Rheinschiene, Landesstraßen L482 bis L600. | page ===
+<!--AREAS: Pirmasens, Pirmasens-Nord, Rodalben, Vinningen, Hinterweidenthal, Lemberg -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Pirmasens</p><h1>Abschleppdienst Pirmasens</h1><p class="lead">Pirmasens liegt am Westrand des Pfälzerwalds im Südwesten von Rheinland-Pfalz. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisfreie Stadt im Pfälzerwald</h2>
+<p>Pirmasens ist eine kreisfreie Stadt in Rheinland-Pfalz am Westrand des Pfälzerwalds und Verwaltungssitz des Landkreises Südwestpfalz und der Verbandsgemeinde Pirmasens-Land. Nennen Sie uns bei einer Panne Stadtteil und Straße.. Mehr auf <a href="stadt-zweibruecken.html">Abschleppdienst Zweibrücken</a> und <a href="stadt-kaiserslautern.html">Abschleppdienst Kaiserslautern</a>.</p>
+<h2>A8, A62 und B10</h2>
+<p>Über die A8 besteht Anschluss an das Saarland, Luxemburg und Lothringen, mit dem Streckenabschnitt der A62 ist der Anschluss nach Kaiserslautern und Trier gewährleistet. Die B10 ist die Anbindung an die Rheinschiene. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a8.html">Panne auf der A8</a> und <a href="autobahn-a6.html">Panne auf der A6</a>. Wenn Sie zwischen Stadt und Autobahn liegen bleiben, nennen Sie uns die Landesstraße.</p>
+<h2>Landesstraßen als Zubringer</h2>
+<p>Die L482 führt nach Rodalben und Donsieders, die L484 vom östlichen Stadtrand nach Vinningen, die L486 nach Lemberg und Hinterweidenthal, die L600 dient als Zubringer zu den Autobahnen. Darüber hinaus existieren innerhalb der Stadtgrenzen mehrere Kreisstraßen. Wenn Sie auf einer dieser Straßen liegen bleiben, nennen Sie uns die Nummer und den nächsten Ort.</p>
+<h2>Bahn- und Busgeschichte</h2>
+<p>Über die 6,97 Kilometer lange Stichstrecke Pirmasens Nord–Pirmasens Hauptbahnhof ist die Stadt seit 1875 mit dem Schienennetz verbunden. Der städtische Nahverkehr wurde von 1905 bis 1943 von der Straßenbahn und von 1941 bis 1967 vom Oberleitungsbus bedient. Schienenpersonenfernverkehr gibt es in Pirmasens nicht mehr. Wenn Ihr Fahrzeug an einer Bushaltestelle liegen bleibt, halten Sie Bus- und Rettungswege frei.</p>
+<h2>So nennen Sie Ihren Standort in Pirmasens</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf A8 oder A62: Richtung, Anschlussstelle.</li>
+<li>Auf B10 oder Landesstraße: Nummer und Fahrtrichtung.</li>
+<li>Im Wald: nächster Ort oder Kilometerstein.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-saarbruecken.html">Saarbrücken</a> und <a href="stadt-trier.html">Trier</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Pirmasens</h2>
+<details><summary>Welche Autobahnen führen nach Pirmasens?</summary><div>Die A8 mit Anschluss ans Saarland und die A62 mit Anschluss nach Kaiserslautern und Trier.</div></details>
+<details><summary>Welche Bundesstraße führt zur Rheinschiene?</summary><div>Die B10.</div></details>
+<details><summary>Welche Landesstraße dient als Zubringer zu den Autobahnen?</summary><div>Die L600.</div></details>
+<details><summary>Kommen Sie auch nach Rodalben?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-bad-kreuznach | Abschleppdienst Bad Kreuznach: Pannenhilfe A61, B41, B48, B428 | Pannenhilfe und Abschleppen in Bad Kreuznach: Anschlussstelle 51 der A61 rund zwölf Kilometer vom Zentrum, B41, B48 und B428, Rüdesheimer Straße. | page ===
+<!--AREAS: Bad Kreuznach, Bad Münster am Stein, Bosenheim, Planig, Winzenheim, Rüdesheimer Straße -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bad Kreuznach</p><h1>Abschleppdienst Bad Kreuznach</h1><p class="lead">Bad Kreuznach liegt an der Nahe, die A61 ist rund zwölf Kilometer vom Zentrum entfernt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kurstadt und Kreisverwaltung</h2>
+<p>Bad Kreuznach, bis 1924 Kreuznach, ist eine Kurstadt und der Sitz der Kreisverwaltung des Landkreises Bad Kreuznach in Rheinland-Pfalz. Als Mittelzentrum ist sie administratives, kulturelles und wirtschaftliches Zentrum einer Region mit mehr als 150.000 Einwohnern. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-mainz.html">Abschleppdienst Mainz</a> und <a href="stadt-koblenz.html">Abschleppdienst Koblenz</a>.</p>
+<h2>A61 Anschlussstelle 51 und drei Bundesstraßen</h2>
+<p>Mit dem Auto ist Bad Kreuznach über die gleichnamige Anschlussstelle 51 an der A61 sowie die Bundesstraßen B41, B48 und B428 zu erreichen. Bis auf die B48 führen alle genannten Straßen um die Innenstadt herum, die Autobahn ist etwa zwölf Kilometer vom Stadtzentrum entfernt. Wenn Sie auf dem Weg von oder zur Autobahn liegen bleiben, nennen Sie uns die Bundesstraße und die Fahrtrichtung. Mehr auf <a href="autobahn-a61.html">Panne auf der A61</a>.</p>
+<h2>Nahverkehr und Tempo 30</h2>
+<p>Der öffentliche Nahverkehr wurde bis Oktober 2022 durch ein innerstädtisches Busliniennetz auf sieben Buslinien durchgeführt, dazu gibt es Regionalbuslinien in die nähere Umgebung. Um die Verkehrslärmschutzverordnung einzuhalten, wird die seit Februar 2018 bestehende Tempo-30-Zone in der Rüdesheimer Straße ab 2019 auf fast die ganze Straße ausgeweitet. Für Ihre Standortangabe: Nennen Sie uns bei Innenstadtstraßen Straße und Hausnummer und ob Sie in einer verkehrsberuhigten Zone stehen.</p>
+<h2>So nennen Sie Ihren Standort in Bad Kreuznach</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf B41, B48 oder B428: Fahrtrichtung, Abfahrt.</li>
+<li>Auf der A61: Richtung, Anschlussstelle 51 oder nächste Ausfahrt.</li>
+<li>In Tempo-30-Zonen: Straße und Hausnummer.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-kaiserslautern.html">Kaiserslautern</a> und <a href="stadt-worms.html">Worms</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Bad Kreuznach</h2>
+<details><summary>Wie weit ist die Autobahn entfernt?</summary><div>Die A61-Anschlussstelle 51 liegt rund zwölf Kilometer vom Stadtzentrum entfernt.</div></details>
+<details><summary>Welche Bundesstraßen führen nach Bad Kreuznach?</summary><div>B41, B48 und B428, die B48 führt durch die Innenstadt.</div></details>
+<details><summary>Wie viele Einwohner hat die Region?</summary><div>Mehr als 150.000.</div></details>
+<details><summary>Was gilt in der Rüdesheimer Straße?</summary><div>Eine Tempo-30-Zone, seit Februar 2018, ab 2019 auf fast die ganze Straße ausgeweitet.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-zweibruecken | Abschleppdienst Zweibrücken: Pannenhilfe A8, A6, A62, B10 | Pannenhilfe und Abschleppen in Zweibrücken: kleinste kreisfreie Stadt Deutschlands an der A8, Anschluss an A6, A62 und B10, Flughafen. | page ===
+<!--AREAS: Zweibrücken, Zweibrücken-Ixheim, Zweibrücken-Niederauerbach, Einöd, Bitsch, Flughafen Zweibrücken -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Zweibrücken</p><h1>Abschleppdienst Zweibrücken</h1><p class="lead">Zweibrücken liegt an der A8 unmittelbar an der Grenze zum Saarland. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kleinste kreisfreie Stadt Deutschlands</h2>
+<p>Zweibrücken ist mit 33.178 Einwohnern die kleinste kreisfreie Stadt Deutschlands und Sitz des Pfälzischen Oberlandesgerichts. Sie liegt in der Westpfalz auf der Westricher Hochfläche, unmittelbar an der Grenze zum Saarland. Nach Pirmasens sind es etwa 26 Kilometer, nach Saarbrücken 40 Kilometer und nach Kaiserslautern 55 Kilometer über die Autobahnen A8 und A6. Durch die Stadt fließen der Schwarzbach, der westlich bei Einöd in die Blies mündet, und der Hornbach. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-saarbruecken.html">Abschleppdienst Saarbrücken</a> und <a href="stadt-pirmasens.html">Abschleppdienst Pirmasens</a>.</p>
+<h2>A8, A6, A62 und B10</h2>
+<p>Zweibrücken liegt direkt an der A8 und ist dadurch an die A6 (Saarbrücken–Waidhaus), die A62 (Nonnweiler–Pirmasens) und die B10 (Pirmasens–Landau in der Pfalz) angebunden. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a8.html">Panne auf der A8</a> und <a href="autobahn-a6.html">Panne auf der A6</a>. Wenn Sie in Richtung Saarland liegen bleiben, sagen Sie uns das Bundesland.</p>
+<h2>Der ehemalige Flughafen</h2>
+<p>Zweibrücken verfügt über einen eigenen Flugplatz mit einer 2.675 Meter langen Start- und Landebahn. Für den Flughafen wurde im Juli 2014 ein Insolvenzantrag gestellt, seit dem 3. November desselben Jahres findet kein Linienbetrieb mehr statt. Auf dem Flughafengelände hat sich eines der größten europäischen Fabrikverkaufszentren angesiedelt, der Flugplatz dient nun als Sonderlandeplatz. Wenn Sie am Einkaufszentrum liegen bleiben, nennen Sie uns Parkplatz und Bereich.</p>
+<h2>So nennen Sie Ihren Standort in Zweibrücken</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A8: Richtung, Anschlussstelle.</li>
+<li>Auf der B10: Fahrtrichtung.</li>
+<li>Am Flughafengelände: Parkplatz und Bereich.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-kaiserslautern.html">Kaiserslautern</a> und <a href="stadt-trier.html">Trier</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Zweibrücken</h2>
+<details><summary>Ist Zweibrücken wirklich die kleinste kreisfreie Stadt?</summary><div>Ja, mit 33.178 Einwohnern ist sie die kleinste kreisfreie Stadt Deutschlands.</div></details>
+<details><summary>Welche Autobahn führt durch Zweibrücken?</summary><div>Die A8, mit Anbindung an A6, A62 und B10.</div></details>
+<details><summary>Gibt es noch Linienflüge?</summary><div>Nein, seit dem 3. November 2014 findet kein Linienbetrieb mehr statt.</div></details>
+<details><summary>Wie weit ist Saarbrücken?</summary><div>Etwa 40 Kilometer.</div></details>
+</div></section>
+@@CTA@@

@@ -339,3 +339,10 @@ stadt-berlin-marzahn-hellersdorf	ratgeber-panne-autobahn.html	Panne auf der Auto
 stadt-berlin-lichtenberg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-berlin-reinickendorf	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-berlin-mitte	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Tiergarten Spreebogen
+stadt-speyer	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-neuwied	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-pirmasens	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-bad-kreuznach	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-zweibruecken	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-saarlouis	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-neunkirchen-saar	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
