@@ -245,3 +245,10 @@ stadt-flensburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte
 stadt-jena	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-siegen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-jena	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Jagdbergtunnel
+stadt-worms	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-bamberg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-bayreuth	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-ludwigsburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-landshut	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-bayreuth	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Einhausung bei Laineck
+stadt-landshut	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Josef-Deimer-Tunnel

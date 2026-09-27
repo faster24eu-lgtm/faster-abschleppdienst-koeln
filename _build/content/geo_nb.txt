@@ -85,3 +85,8 @@ stadt-konstanz	freiburg,stuttgart,singen,ravensburg,friedrichshafen,ulm,villinge
 stadt-flensburg	kiel,luebeck,schleswig,rendsburg,husum,hamburg,neumuenster,schwerin	a7
 stadt-jena	erfurt,halle,leipzig,weimar,gera,gotha,chemnitz,eisenach	a4,a9
 stadt-siegen	hagen,koblenz,bonn,giessen,wetzlar,olpe,hagen,dortmund	a45,a4
+stadt-worms	mannheim,ludwigshafen,mainz,darmstadt,heidelberg,frankfurt,kaiserslautern,speyer	a61,a5,a6
+stadt-bamberg	wuerzburg,nuernberg,erlangen,bayreuth,fuerth,schweinfurt,coburg,hof	a73,a70,a9
+stadt-bayreuth	bamberg,nuernberg,hof,erlangen,regensburg,coburg,weiden,amberg	a9,a70
+stadt-ludwigsburg	stuttgart,heilbronn,pforzheim,esslingen,reutlingen,tuebingen,karlsruhe,goeppingen	a81
+stadt-landshut	muenchen,regensburg,ingolstadt,passau,freising,erding,rosenheim,augsburg	a92,a94,a9

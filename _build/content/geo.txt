@@ -109,3 +109,8 @@ stadt-konstanz	Konstanz	Baden-Württemberg
 stadt-flensburg	Flensburg	Schleswig-Holstein	
 stadt-jena	Jena	Thüringen	
 stadt-siegen	Siegen	Nordrhein-Westfalen	
+stadt-worms	Worms	Rheinland-Pfalz	
+stadt-bamberg	Bamberg	Bayern	
+stadt-bayreuth	Bayreuth	Bayern	
+stadt-ludwigsburg	Ludwigsburg	Baden-Württemberg	
+stadt-landshut	Landshut	Bayern	
