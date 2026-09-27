@@ -1,0 +1,191 @@
+=== stadt-kassel | Abschleppdienst Kassel: Pannenhilfe A7, A44, A49 | Pannenhilfe und Abschleppen in Kassel: 23 Ortsbezirke, Fulda, A7 mit Kaufunger Wald, Kreuze A44 und A49, Lohfeldener Rüssel und Bundesstraßen. | page ===
+<!--AREAS: Kassel, Kassel-Bad Wilhelmshöhe, Kassel-Wahlershausen, Kassel-Waldau, Lohfelden -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kassel</p><h1>Abschleppdienst Kassel</h1><p class="lead">Kassel ist die einzige Großstadt Nordhessens und liegt an den Autobahnen A7, A44 und A49. Von Norden kommt die A7 über den steilen Kaufunger Wald. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Nordhessens Großstadt</h2>
+<p>Kassel, bis 1926 amtlich Cassel, ist eine kreisfreie Stadt, Verwaltungssitz des gleichnamigen Regierungsbezirks und des Landkreises Kassel. Nach Frankfurt am Main und Wiesbaden ist sie die drittgrößte Stadt Hessens und eines von zehn Oberzentren des Landes. Das Stadtgebiet ist in 23 Ortsbezirke eingeteilt, jeder mit einem Ortsbeirat. Innerhalb der Ortsbezirke gibt es Siedlungen mit eigenen Namen, etwa Mulang, Marbachshöhe und Wahlershausen im Ortsbezirk Bad Wilhelmshöhe. Für Ihre Standortangabe reichen Ortsbezirk und Straße, wenn Sie im Zweifel auch den Siedlungsnamen nennen.</p>
+<h2>Die A7 zwischen Kaufunger Wald und Fuldatal</h2>
+<p>Von Norden kommend führt die A7 bei Hann. Münden auf einer 60 Meter hohen Brücke über das Werratal, dann in einem kurvigen Aufstieg auf den Hauptkamm des Kaufunger Walds mit bis zu 8 Prozent Längsneigung, einem der steilsten Autobahnabschnitte Europas. Auf der anderen Seite führt sie vom Großen Staufenberg in einer geraden Gefällestrecke hinab nach Kassel, hoch über dem Fuldatal mit einem Panorama auf die Stadt. Am Sandershäuser Berg erreicht sie das Stadtgebiet und umfährt die Stadt weiträumig im Osten. Wer auf diesem Gefälle liegen bleibt, sollte das unbedingt am Telefon sagen. Mehr zur Strecke lesen Sie auf der Seite <a href="autobahn-a7.html">Panne auf der A7</a>, zu Bremsproblemen im Gefälle im <a href="ratgeber-bremsen-versagen.html">Ratgeber Bremsen versagen</a>.</p>
+<h2>Kreuze A49 und A44, Rastkomplex Lohfeldener Rüssel</h2>
+<p>Östlich von Kassel folgen kurz hintereinander zwei Autobahnkreuze, an denen die A49 und die A44 angebunden werden. Zwischen beiden liegt ein großer Rastkomplex mit einer Autobahnraststätte und einem Autohof, der Lohfeldener Rüssel. Kassel liegt damit an den Bundesautobahnen A7, A44 und A49. Bei einer Panne am Kreuz oder am Rastkomplex helfen Ihnen Autobahnnummer, Fahrtrichtung und die Angabe, ob Sie vor oder hinter dem Kreuz stehen.</p>
+<h2>Bundesstraßen und die Fulda</h2>
+<p>Durch die Stadt führen die Bundesstraßen B3, B7, B83 und B251. Die Fulda durchquert das Stadtgebiet, im Bereich ihrer Überschwemmungsgebiete liegen Vogelschutzgebiete, etwa die Fuldaaue in Waldau und das Lossedelta am Hafen. Das Naturschutzgebiet Dönche wurde in den Nachkriegsjahren als Manövergebiet der Bundeswehr genutzt. An Flussufern und in Schutzgebieten gibt es Parkplätze ohne Hausnummern, nennen Sie uns dann Parkplatz und nächste größere Straße.</p>
+<h2>So nennen Sie Ihren Standort in Kassel</h2>
+<ul class="ticks">
+<li>Ortsbezirk und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf A7, A44 oder A49: Autobahn, Richtung, Anschlussstelle oder Kreuz.</li>
+<li>Am Gefälle der A7: ob Sie vor oder hinter dem Großen Staufenberg stehen.</li>
+<li>Am Fluss: Parkplatz oder Zugang und Brücke.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Kassel</h2>
+<details><summary>Wie viele Ortsbezirke hat Kassel?</summary><div>23 Ortsbezirke, jeder mit einem Ortsbeirat.</div></details>
+<details><summary>Welche Autobahnen führen nach Kassel?</summary><div>Die A7, die A44 und die A49.</div></details>
+<details><summary>Wie steil ist die A7 bei Kassel?</summary><div>Im Kaufunger Wald nördlich von Kassel gibt es bis zu 8 Prozent Längsneigung, einen der steilsten Autobahnabschnitte Europas.</div></details>
+<details><summary>Was ist der Lohfeldener Rüssel?</summary><div>Ein großer Rastkomplex zwischen den Kreuzen A49 und A44 östlich von Kassel, mit Autobahnraststätte und Autohof.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-hagen | Abschleppdienst Hagen: Pannenhilfe A1, A45, A46 | Pannenhilfe und Abschleppen in Hagen: fünf Stadtbezirke, Tor zum Sauerland, A1, A45, A46 mit 32,7 Kilometern Autobahn im Stadtgebiet, Volme und Ennepe. | page ===
+<!--AREAS: Hagen, Hagen-Hohenlimburg, Hagen-Elsey, Hagen-Wehringhausen, Hagen-Vorhalle -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hagen</p><h1>Abschleppdienst Hagen</h1><p class="lead">Hagen ist das Tor zum Sauerland am Südostrand des Ruhrgebiets, mit Autobahnen und steilen Straßen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Tor zum Sauerland</h2>
+<p>Hagen ist eine kreisfreie Großstadt in Nordrhein-Westfalen am südöstlichen Rand des Ruhrgebiets und wird oft als "das Tor zum Sauerland" bezeichnet. Die Stadt gliedert sich in fünf Stadtbezirke. In den dichtbesiedelten Tälern von Volme und Ennepe sowie im Hagener Norden entspricht das gewachsene Stadtbild der typischen Baugestalt von Ruhrgebietsstädten, die südlichen Stadtteile gehören topografisch zum Sauerland. Für eine Panne bedeutet das: Wenn Sie im Tal liegen bleiben, sind die Straßen eng und dicht befahren, wenn Sie am Hang liegen bleiben, sind sie steil.</p>
+<h2>32,7 Kilometer Autobahn im Stadtgebiet</h2>
+<p>Auf dem Hagener Stadtgebiet verlaufen Autobahnen mit einer Gesamtlänge von 32,7 Kilometern: die A1 (Hansalinie) mit 10,7 Kilometern, die A45 (Sauerlandlinie) mit 14,8 Kilometern und die A46 mit 7,2 Kilometern. Die Anschlussstellen heißen Hagen Nord und Hagen West an der A1, Hagen Süd an der A45 sowie Hagen-Hohenlimburg und Hagen-Elsey an der A46. Die A1 umgeht Hagen nördlich, unterquert im Ruhrtal die Gleise des Rangierbahnhofs Hagen-Vorhalle in einem 120 Meter langen Tunnelbauwerk und führt dann auf die Hügel des nördlichen Sauerlands. Am Westhofener Kreuz bei Schwerte wird die A1 von der A45 gekreuzt. Nennen Sie uns bei einer Panne Autobahn, Richtung und Anschlussstelle.</p>
+<h2>Bundesstraßen und Steigungen</h2>
+<p>Durch das Stadtgebiet führen die Bundesstraßen B7, B54 und B226 mit einer Gesamtstrecke von 41 Kilometern. Die Pläne einer autogerechten Stadt, die den Autoverkehr mittels aufgeständerter Hochstraßen durch die Innenstadt leiten sollte, ließen nach dem Krieg Teile der früheren Bebauung verschwinden. Auch die Tunnelstraße in Wehringhausen erreicht laut Wikipedia eine Steigung von 26 Prozent. Wenn Sie an einer steilen Straße liegen bleiben, sagen Sie uns bitte, ob Sie bergauf oder bergab stehen, siehe auch <a href="ratgeber-handbremse-loest-sich-nicht.html">Handbremse löst sich nicht</a>.</p>
+<h2>So nennen Sie Ihren Standort in Hagen</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf A1, A45 oder A46: Richtung, Anschlussstelle, Westhofener Kreuz.</li>
+<li>Bei Hanglage: bergauf oder bergab.</li>
+<li>An Volme oder Ennepe: Brücke und Straße.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Hagen</h2>
+<details><summary>Wie viele Stadtbezirke hat Hagen?</summary><div>Fünf Stadtbezirke.</div></details>
+<details><summary>Welche Autobahnen führen durch Hagen?</summary><div>Die A1 (Hansalinie), die A45 (Sauerlandlinie) und die A46, zusammen 32,7 Kilometer im Stadtgebiet.</div></details>
+<details><summary>Wie heißen die Anschlussstellen?</summary><div>Hagen Nord und West (A1), Hagen Süd (A45), Hagen-Hohenlimburg und Hagen-Elsey (A46).</div></details>
+<details><summary>Ich stehe an einer steilen Straße. Was tun?</summary><div>Sichern Sie das Fahrzeug mit Feststellbremse und Gang, schalten Sie den Warnblinker ein und sagen Sie uns, ob Sie bergauf oder bergab stehen.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-hamm | Abschleppdienst Hamm: Pannenhilfe A1 und A2, Kamener Kreuz | Pannenhilfe und Abschleppen in Hamm: sieben Stadtbezirke, Lage zwischen A1 und A2, Datteln-Hamm-Kanal, Lippe und geplante A445. Standort nennen. | page ===
+<!--AREAS: Hamm, Hamm-Uentrop, Hamm-Rhynern, Hamm-Herringen, Hamm-Heessen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hamm</p><h1>Abschleppdienst Hamm</h1><p class="lead">Hamm liegt zwischen den Autobahnen A1 und A2 am Nordostrand des Ruhrgebiets. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Sieben Stadtbezirke</h2>
+<p>Hamm ist eine kreisfreie Stadt im Norden des Regierungsbezirks Arnsberg am Nordostrand des Ruhrgebiets und ein wichtiger Knotenpunkt mehrerer Eisenbahnstrecken. Das Stadtgebiet ist in die sieben Stadtbezirke Hamm-Mitte, Hamm-Uentrop, Hamm-Rhynern, Hamm-Pelkum, Hamm-Herringen, Hamm-Bockum-Hövel und Hamm-Heessen eingeteilt, jeder mit einer Bezirksvertretung. Für statistische Zwecke gibt es zusätzlich statistische Bezirke mit zweistelliger Nummer und Namen sowie Baublöcke. Nennen Sie uns deshalb den Stadtbezirk oder Stadtteil und die Straße.</p>
+<h2>Zwischen A1 und A2</h2>
+<p>Hamm liegt zwischen der A1 (Heiligenhafen–Saarbrücken, Hansalinie) und der A2 (Oberhausen–Berlin). Die A2 führt südlich und östlich an Hamm vorbei, im Stadtteil Uentrop überquert sie den Datteln-Hamm-Kanal, der wenige hundert Meter östlich der Autobahn am Kraftwerk Westfalen endet, und die Lippe. Kurz hinter Hamm folgt das Kamener Kreuz mit der A2, das auch den Beginn des östlichen Dortmunder Autobahnrings markiert. Zusätzlich verläuft die B63 durch das Stadtgebiet. Bei einer Panne an einer der Autobahnen nennen Sie uns Nummer, Richtung und Anschlussstelle. Zur Strecke lesen Sie <a href="autobahn-a2.html">Panne auf der A2</a>, zum Nachbarn im Westen <a href="stadt-dortmund.html">Abschleppdienst Dortmund</a>.</p>
+<h2>Die geplante A445</h2>
+<p>Die A445 (Hamm–Arnsberg) ist zwischen Hamm und Werl noch in der Ausbauplanung, ein Baubeginn steht noch nicht fest. Sie soll die A2 mit der A44 verbinden und das Sauerland besser in das Autobahnnetz einbinden. Das heißt für Sie: Wer nach Süden Richtung Sauerland unterwegs ist, fährt derzeit über andere Strecken. Für den Verkehrsfunk gilt: aktuelle Angaben dort, nicht auf dieser Seite. Der geplante Radschnellweg Ruhr soll in Hamm beginnen.</p>
+<h2>Kanäle und Lippe</h2>
+<p>Kanäle und Flüsse bilden im Stadtgebiet Barrieren, die nur an Brücken überquert werden. Wenn Ihr Fahrzeug an einer Kanal- oder Lippebrücke liegen bleibt, nennen Sie uns Brücke und Fahrtrichtung, dann kann ein Fahrer die richtige Auffahrt wählen.</p>
+<h2>So nennen Sie Ihren Standort in Hamm</h2>
+<ul class="ticks">
+<li>Stadtbezirk oder Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf A1 oder A2: Richtung, Anschlussstelle, Kamener Kreuz.</li>
+<li>An Kanal oder Lippe: Brücke und Richtung.</li>
+<li>Am Bahnhof: Parkplatz oder Zufahrt.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Hamm</h2>
+<details><summary>Wie viele Stadtbezirke hat Hamm?</summary><div>Sieben, darunter Hamm-Mitte, Uentrop, Rhynern, Pelkum, Herringen, Bockum-Hövel und Heessen.</div></details>
+<details><summary>Welche Autobahnen liegen bei Hamm?</summary><div>Die A1 und die A2. Die A445 nach Arnsberg ist noch in Planung.</div></details>
+<details><summary>Wo ist das Kamener Kreuz?</summary><div>Kurz hinter Hamm, dort kreuzen A1 und A2. Es markiert den Beginn des östlichen Dortmunder Autobahnrings.</div></details>
+<details><summary>Ich stehe an einer Kanalbrücke. Was sage ich?</summary><div>Brücke oder nächste Straße und die Fahrtrichtung. Ein Standort per WhatsApp hilft.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-saarbruecken | Abschleppdienst Saarbrücken: Pannenhilfe A6, A620, A1 | Pannenhilfe und Abschleppen in Saarbrücken: vier Stadtbezirke, Saar, Stadtautobahn A620, A6, A1, A623 und Goldene Bremm an der französischen Grenze. | page ===
+<!--AREAS: Saarbrücken, Saarbrücken-Dudweiler, Saarbrücken-Malstatt, Saarbrücken-Fechingen, Saarbrücken-Güdingen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Saarbrücken</p><h1>Abschleppdienst Saarbrücken</h1><p class="lead">Saarbrücken ist die Landeshauptstadt des Saarlandes an der französischen Grenze. Mehrere Autobahnen beginnen hier, die A620 ist Stadtautobahn. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Landeshauptstadt an der Saar</h2>
+<p>Saarbrücken ist die Landeshauptstadt des Saarlandes und mit 182.859 Einwohnern dessen größte Stadt und einzige Großstadt. Die Universitätsstadt liegt an der Saar und entstand 1909 aus dem Zusammenschluss dreier bis dahin selbstständiger Städte. Der Name bedeutet genau das, als was er heute erscheint: eine Brücke über die Saar, urkundlich zuerst 999 als "Sarabruca" genannt. Die Alte Brücke über die Saar wurde 1546 bis 1548 begonnen. Das Stadtgebiet ist in die vier Stadtbezirke Mitte, Dudweiler, West und Halberg gegliedert. Nennen Sie uns bei einer Panne Stadtbezirk oder Stadtteil und Straße und ob Sie links oder rechts der Saar stehen.</p>
+<h2>Vier Autobahnen beginnen in Saarbrücken</h2>
+<p>In Saarbrücken beginnen mehrere Autobahnen: in Richtung Osten die A6 (nach Waidhaus über Kaiserslautern, Mannheim, Heilbronn und Nürnberg), in Richtung Nordosten die A623 als Zubringer zur A8 Richtung Pirmasens, von Saarbrücken-Dudweiler bis zum Dreieck Friedrichsthal, und nach Norden die A1 (nach Heiligenhafen über Trier, Köln, Dortmund, Münster, Bremen, Hamburg und Lübeck). An der Goldenen Bremm an der südlichen Stadtgrenze beginnt die französische A320, ein Zubringer zur A4 Richtung Paris. Über die A620 nach Saarlouis ist Saarbrücken an die A8 angebunden. Mehr zur A6 lesen Sie auf der Seite <a href="autobahn-a6.html">Panne auf der A6</a>, zur A8 auf <a href="autobahn-a8.html">Panne auf der A8</a>.</p>
+<h2>Die A620 als Stadtautobahn</h2>
+<p>Die A620 fungiert zwischen den Anschlussstellen Saarbrücken-Güdingen (AS 21) und Saarbrücken-Klarenthal (AS 11) als Stadtautobahn für Saarbrücken. Zu den umfassendsten Eingriffen in den historischen Saarbrücker Stadtgrundriss zählt der Bau der Stadtautobahn im Wiederaufbau nach dem Krieg. Wenn Sie auf der A620 liegen bleiben, sagen Sie uns Fahrtrichtung und die nächste Anschlussstelle mit ihrer Nummer. Das Dreieck Saarbrücken ist als Gabelung ausgeführt, an der Anschlussstelle Fechingen gibt es eine Rampe zum Wechseln der Fahrtrichtung.</p>
+<h2>Goldene Bremm und die Grenze</h2>
+<p>Die A6 beginnt am früheren Grenzübergang Goldene Bremm am südlichen Stadtrand. Die ehemalige Grenzstation wurde nach Wegfall der Grenzkontrollen in eine bewirtschaftete Rastanlage umgebaut. Für Fahrzeuge, die aus Frankreich kommen, gelten andere Regeln, siehe <a href="ratgeber-panne-kehl-strassburg.html">Panne im Grenzgebiet</a>. Nennen Sie uns, auf welcher Seite der Grenze Sie stehen.</p>
+<h2>So nennen Sie Ihren Standort in Saarbrücken</h2>
+<ul class="ticks">
+<li>Stadtbezirk oder Stadtteil und Straße, dazu Saarseite.</li>
+<li>Auf A6, A620, A1 oder A623: Nummer, Richtung, Anschlussstelle mit Nummer.</li>
+<li>An der Goldenen Bremm: Autobahn oder Rastanlage.</li>
+<li>An einer Saarbrücke: Name und Richtung.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Saarbrücken</h2>
+<details><summary>Wie viele Stadtbezirke hat Saarbrücken?</summary><div>Vier: Mitte, Dudweiler, West und Halberg.</div></details>
+<details><summary>Welche Autobahnen beginnen in Saarbrücken?</summary><div>Die A6 nach Osten, die A1 nach Norden und die A623 nach Nordosten. Die A620 führt nach Saarlouis und ist Stadtautobahn.</div></details>
+<details><summary>Was ist die Goldene Bremm?</summary><div>Der frühere Grenzübergang an der südlichen Stadtgrenze, an dem die A6 beginnt und der heute eine Rastanlage ist.</div></details>
+<details><summary>Ich stehe auf der A620. Was sage ich?</summary><div>Fahrtrichtung und die Anschlussstelle mit ihrer Nummer, zum Beispiel Güdingen (21) oder Klarenthal (11).</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-muelheim | Abschleppdienst Mülheim an der Ruhr: Pannenhilfe A40, A52 | Pannenhilfe in Mülheim an der Ruhr: drei Stadtbezirke, A40 mit über 130.000 Fahrzeugen täglich, Mintarder Ruhrtalbrücke, Kettenbrücke. | page ===
+<!--AREAS: Mülheim an der Ruhr, Mülheim-Mintard, Mülheim-Broich, Mülheim-Styrum, Mülheim-Winkhausen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Mülheim an der Ruhr</p><h1>Abschleppdienst Mülheim an der Ruhr</h1><p class="lead">Mülheim liegt an der Ruhr zwischen Duisburg und Essen. Im Norden verläuft die A40 mit einem der höchsten Verkehrsaufkommen Deutschlands. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Stadt an der Ruhr</h2>
+<p>Mülheim an der Ruhr ist eine kreisfreie Großstadt im westlichen Ruhrgebiet und als Mittelzentrum eingestuft. Sie liegt unmittelbar an der Ruhr zwischen den Oberzentren Duisburg und Essen. Seit 1975 ist Mülheim in die drei Stadtbezirke Linksruhr, Rechtsruhr-Nord und Rechtsruhr-Süd gegliedert, die je eine Bezirksvertretung mit einem Bezirksbürgermeister haben. Für die Standortangabe gilt: Die Ruhr teilt die Stadt, nennen Sie uns deshalb, ob Sie links oder rechts der Ruhr stehen, dazu Stadtteil und Straße.</p>
+<h2>A40: über 130.000 Fahrzeuge pro Tag</h2>
+<p>Das Stadtgebiet wird von Autobahnen umrahmt. Im Norden verläuft die A40 von Duisburg nach Dortmund, die Schnellstraße mit einem der höchsten Verkehrsaufkommen in Deutschland (mehr als 130.000 Fahrzeuge pro Tag). Zwischen Mülheim-Winkhausen und Bochum-Werne regeln Pförtnerampeln den Verkehrszufluss auf die Autobahn. Im Süden führt die A52 mit der 1.830 Meter langen Mintarder Ruhrtalbrücke im Stadtteil Mintard über das Ruhrtal, die längste Stahlbrücke Deutschlands. Bei einer Panne auf der A40 nennen Sie uns Fahrtrichtung und Anschlussstelle. Mehr auf <a href="stadt-essen.html">Abschleppdienst Essen</a> und <a href="stadt-bochum.html">Abschleppdienst Bochum</a>.</p>
+<h2>Die Kettenbrücke und die Ruhrfurt</h2>
+<p>Zwischen 1842 und 1844 wurde an der Ruhrfurt zwischen Broich und Stadtmitte mit der Kettenbrücke die erste Hängebrücke Deutschlands in Eisenbauweise errichtet. Die Brücke musste 1909 einer Betonbrücke weichen. Das Stadtlogo, ein doppeltes M, steht als symbolische Brücke. Für Sie zählt: Über die Ruhr führen nur wenige Brücken, die Innenstadt ist entsprechend belastet.</p>
+<h2>Warum es keine A31 gibt</h2>
+<p>Das Hexbachtal konnte als Naherholungsgebiet und teilweise als Naturschutzgebiet erhalten werden, weil durch den Einsatz von Bürgern (Aktionsgemeinschaft A31) im Jahr 1980 der Bau der Autobahn A31 verhindert wurde. Wenn Sie im Hexbachtal am Rand von Wald liegen bleiben, nennen Sie uns Parkplatz oder Zufahrt.</p>
+<h2>So nennen Sie Ihren Standort in Mülheim</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu die Ruhrseite.</li>
+<li>Auf A40 oder A52: Richtung, Anschlussstelle (zum Beispiel Mülheim-Winkhausen oder Mintard).</li>
+<li>An der Ruhr: Brücke oder Parkplatz.</li>
+<li>Im Wald: Parkplatz und nächste Straße.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Mülheim an der Ruhr</h2>
+<details><summary>Wie viele Stadtbezirke hat Mülheim?</summary><div>Drei: Linksruhr, Rechtsruhr-Nord und Rechtsruhr-Süd, seit 1975.</div></details>
+<details><summary>Wie stark befahren ist die A40?</summary><div>Bei Mülheim mit mehr als 130.000 Fahrzeugen pro Tag, einem der höchsten Verkehrsaufkommen Deutschlands.</div></details>
+<details><summary>Was ist die Mintarder Ruhrtalbrücke?</summary><div>Eine 1.830 Meter lange Stahlbrücke der A52, die längste Stahlbrücke Deutschlands.</div></details>
+<details><summary>Was sind Pförtnerampeln?</summary><div>Ampeln an den Anschlussstellen der A40 zwischen Mülheim-Winkhausen und Bochum-Werne, die den Zufluss auf die Autobahn regeln.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-potsdam | Abschleppdienst Potsdam: Pannenhilfe A10, A115, Havel | Pannenhilfe und Abschleppen in Potsdam: acht Stadtbezirke, Berliner Ring A10, Dreieck Potsdam, A115 (AVUS), Nuthe-Schnellstraße und Glienicker Brücke. | page ===
+<!--AREAS: Potsdam, Potsdam-Babelsberg, Potsdam-Golm, Potsdam-Sacrow, Potsdam-Innenstadt -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Potsdam</p><h1>Abschleppdienst Potsdam</h1><p class="lead">Potsdam liegt an der Havel südwestlich von Berlin, angebunden über den Berliner Ring A10 und die A115. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Hauptstadt Brandenburgs an der Havel</h2>
+<p>Potsdam ist die Hauptstadt des Landes Brandenburg und mit knapp 190.000 Einwohnern auch dessen bevölkerungsreichste Stadt. Sie liegt an der Havel im Ballungsraum Berlin und grenzt südwestlich an Berlin. Die Stadt gliedert sich in 8 Stadtbezirke und weiter in 32 Stadtteile, die in 86 statistische Bezirke unterteilt sind. Mit dem Bau der Berliner Mauer verlor Potsdam 1961 den direkten Anschluss an die Nachbarstadt West-Berlin. Heute ist die Stadt ein Kultur-, Dienstleistungs- und Forschungszentrum. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
+<h2>A10 und A115</h2>
+<p>Im Westen und Süden ist Potsdam durch den Berliner Ring (A10) mit dem Autobahndreieck Potsdam und im Osten durch die A115, im Berliner Stadtgebiet auch AVUS genannt, an das Bundesautobahnnetz angeschlossen. Am Dreieck Potsdam bei Ferch beginnt die <a href="autobahn-a9.html">A9</a> Richtung Süden. Mehr zur A115 auf der Seite <a href="stadt-berlin.html">Abschleppdienst Berlin</a>. Wenn Sie an einem dieser Knoten liegen bleiben, nennen Sie uns Autobahn, Richtung und ob Sie vor oder hinter dem Dreieck stehen.</p>
+<h2>Bundesstraßen und Nuthe-Schnellstraße</h2>
+<p>Durch das Stadtgebiet verlaufen die B1, B2 und B273. Die Landesstraße L40 verbindet Potsdam mit den Bundesstraßen B101, B96 und B179, erschließt das südliche Berliner Umland über Stahnsdorf, Teltow, Mahlow und Schönefeld bis Berlin-Treptow-Köpenick und trägt im Potsdamer Stadtgebiet die Bezeichnung Nuthe-Schnellstraße. Auf einer solchen Schnellstraße sagen Sie uns bitte Richtung und die nächste Anschlussstelle.</p>
+<h2>Havel, Hafen und Brücken</h2>
+<p>Potsdam wird von der Unteren Havel-Wasserstraße tangiert, der wichtigsten Ost-West-Verbindung der Binnenschifffahrt zwischen Oder, Berlin und Elbe. Die Frachtschifffahrt benutzt den Sacrow-Paretzer Kanal, der Hafen an der Langen Brücke wird von Schiffen genutzt. Jährlich im April startet ein Drittelmarathon auf einem Rundkurs mit Start und Ziel auf der Glienicker Brücke. Bei Veranstaltungen ändern sich Zufahrten, nennen Sie uns dann bitte Straße und Brücke. Die Stadt war Garnisonstadt und besaß eine Stadtmauer mit Stadttoren, von denen drei erhalten sind, darunter das Brandenburger Tor.</p>
+<h2>So nennen Sie Ihren Standort in Potsdam</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf A10 oder A115: Richtung, Anschlussstelle oder Dreieck Potsdam.</li>
+<li>An der Havel: Brücke (zum Beispiel Lange Brücke oder Glienicker Brücke) und Fahrtrichtung.</li>
+<li>Auf der Nuthe-Schnellstraße: Richtung und Anschlussstelle.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Potsdam</h2>
+<details><summary>Wie viele Stadtbezirke hat Potsdam?</summary><div>Acht Stadtbezirke, die in 32 Stadtteile und 86 statistische Bezirke unterteilt sind.</div></details>
+<details><summary>Welche Autobahnen führen nach Potsdam?</summary><div>Der Berliner Ring A10 mit dem Dreieck Potsdam im Westen und Süden und die A115 im Osten.</div></details>
+<details><summary>Was ist die Nuthe-Schnellstraße?</summary><div>Die Bezeichnung der Landesstraße L40 im Potsdamer Stadtgebiet, die Potsdam mit dem südlichen Berliner Umland und Berlin verbindet.</div></details>
+<details><summary>Kommen Sie auch nach Berlin?</summary><div>Wir organisieren Einsätze in Berlin und im Berliner Umland. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-ludwigshafen | Abschleppdienst Ludwigshafen: Pannenhilfe A6, A61, A65 | Pannenhilfe und Abschleppen in Ludwigshafen am Rhein: zehn Ortsbezirke, A6, A61, A65, A650, B9 und Rheinbrücken nach Mannheim. Standort richtig nennen. | page ===
+<!--AREAS: Ludwigshafen am Rhein, Ludwigshafen-Oggersheim, Ludwigshafen-Mundenheim, Ludwigshafen-Friesenheim, Frankenthal -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ludwigshafen</p><h1>Abschleppdienst Ludwigshafen am Rhein</h1><p class="lead">Ludwigshafen ist die größte Stadt der Pfalz und bildet mit Mannheim ein zusammenhängendes Stadtgebiet. Sagen Sie uns, auf welcher Rheinseite Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Größte Stadt der Pfalz</h2>
+<p>Ludwigshafen am Rhein ist die größte Stadt der Pfalz, mit 177.222 Einwohnern am 31. Dezember 2024 nach Mainz die zweitgrößte Stadt in Rheinland-Pfalz und nach Mannheim die zweitgrößte Stadt der Metropolregion Rhein-Neckar. Das Stadtgebiet ist in zehn Ortsbezirke gegliedert. 1607 gründete Kurfürst Friedrich IV. von der Pfalz am Westufer des Rheins die Mannheimer Rheinschanze als Brückenkopf der Festung Mannheim, aus der die spätere Stadt entstand. Für die Standortangabe gilt: Der Rhein trennt Ludwigshafen von Mannheim, und die Brücken sind die einzigen Verbindungen. Nennen Sie uns deshalb immer, auf welcher Seite Sie stehen.</p>
+<h2>A6, A61, A65 und A650</h2>
+<p>Durch das nördliche Stadtgebiet führt die A6 Saarbrücken–Nürnberg, im Westen der Stadt die A61 Speyer–Koblenz vorbei. Hier beginnen außerdem die A65, die als Ersatz für die B38 in Richtung Neustadt an der Weinstraße führt, und die A650 in Richtung Bad Dürkheim. Über die Anschlussstelle Ludwigshafen-Nord besteht ein Anschluss an die B9, die auch das Stammgelände der BASF anschließt. Durch das Stadtgebiet führen außerdem die B9 von Süden nach Norden, die B37 nach Bad Dürkheim und die B44 nach Süden. Bei einer Panne auf einer Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle oder Kreuz. Mehr zu den Strecken: <a href="autobahn-a6.html">Panne auf der A6</a> und <a href="autobahn-a61.html">Panne auf der A61</a>.</p>
+<h2>Rheinbrücken und Mannheim</h2>
+<p>Auf der Theodor-Heuss-Brücke wird der Rhein von der A6 überquert, für Fußgänger besteht im Mittelstreifen ein Steg. Die Rheinbrücken sind bei einer Panne empfindliche Stellen: Ein liegengebliebenes Fahrzeug blockiert schnell einen Teil des Verkehrs. Schalten Sie den Warnblinker ein und rufen Sie uns an, sobald Sie sicher stehen. Mehr zur anderen Rheinseite auf der Seite <a href="stadt-mannheim.html">Abschleppdienst Mannheim</a>.</p>
+<h2>So nennen Sie Ihren Standort in Ludwigshafen</h2>
+<ul class="ticks">
+<li>Ortsbezirk und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf A6, A61, A65 oder A650: Richtung, Anschlussstelle oder Kreuz.</li>
+<li>Auf B9 oder B44: Richtung und Querstraße.</li>
+<li>Am Werksgelände: Straße und Tor.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Ludwigshafen</h2>
+<details><summary>Wie viele Ortsbezirke hat Ludwigshafen?</summary><div>Zehn Ortsbezirke.</div></details>
+<details><summary>Welche Autobahnen führen nach Ludwigshafen?</summary><div>Die A6 im Norden, die A61 im Westen, dazu beginnen hier die A65 und die A650.</div></details>
+<details><summary>Ich stehe auf einer Rheinbrücke. Was sage ich?</summary><div>Die Brücke, die Fahrtrichtung und ob Sie noch vor oder schon auf der anderen Rheinseite stehen. Ein Standort per WhatsApp hilft.</div></details>
+<details><summary>Kommen Sie auch nach Mannheim?</summary><div>Wir organisieren Einsätze in der Region Rhein-Neckar. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@

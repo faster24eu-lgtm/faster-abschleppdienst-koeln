@@ -60,3 +60,10 @@ stadt-regensburg	Regensburg	Bayern
 stadt-ingolstadt	Ingolstadt	Bayern	
 stadt-wuerzburg	Würzburg	Bayern	
 stadt-wolfsburg	Wolfsburg	Niedersachsen	
+stadt-kassel	Kassel	Hessen	
+stadt-hagen	Hagen	Nordrhein-Westfalen	
+stadt-hamm	Hamm	Nordrhein-Westfalen	
+stadt-saarbruecken	Saarbrücken	Saarland	
+stadt-muelheim	Mülheim an der Ruhr	Nordrhein-Westfalen	
+stadt-potsdam	Potsdam	Brandenburg	
+stadt-ludwigshafen	Ludwigshafen am Rhein	Rheinland-Pfalz	

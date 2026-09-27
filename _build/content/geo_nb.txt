@@ -41,3 +41,10 @@ stadt-wuerzburg	nuernberg,frankfurt,fuerth,erlangen,bamberg,heilbronn,mannheim,d
 stadt-wolfsburg	braunschweig,hannover,magdeburg,salzgitter,celle,hildesheim,goettingen,potsdam	a2,a7
 index	leverkusen,bergisch-gladbach,bonn,duesseldorf,neuss,aachen,wuppertal,solingen	a3,a5,a7
 abschleppdienst-karlsruhe	mannheim,heidelberg,pforzheim,stuttgart,freiburg,baden-baden,offenburg,heilbronn	a5,a8,a81
+stadt-kassel	goettingen,fulda,paderborn,hannover,marburg,giessen,eisenach,hildesheim	a7
+stadt-hagen	dortmund,bochum,wuppertal,witten,hamm,iserlohn,remscheid,solingen	
+stadt-hamm	dortmund,muenster,bielefeld,hagen,guetersloh,paderborn,recklinghausen,bochum	a2
+stadt-saarbruecken	kaiserslautern,trier,mannheim,ludwigshafen,heidelberg,koblenz,karlsruhe	a6,a8
+stadt-muelheim	essen,duisburg,oberhausen,bochum,duesseldorf,gelsenkirchen,bottrop,wuppertal	a3
+stadt-potsdam	berlin,brandenburg-an-der-havel,cottbus,magdeburg,leipzig,dresden,frankfurt-oder	a9,a2
+stadt-ludwigshafen	mannheim,heidelberg,worms,speyer,kaiserslautern,darmstadt,mainz,karlsruhe	a6,a61,a5

@@ -186,3 +186,10 @@ stadt-ingolstadt	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritt
 stadt-wuerzburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-wolfsburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-wuerzburg	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Katzenbergtunnel
+stadt-kassel	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-hagen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-hamm	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-saarbruecken	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-muelheim	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-potsdam	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-ludwigshafen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
