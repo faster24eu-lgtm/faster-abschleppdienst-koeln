@@ -257,3 +257,9 @@ Owner decision: expand to all of Germany (partners exist everywhere), organic on
 - New: `/staedte/berlin/`, `/staedte/hamburg/`, `/staedte/muenchen/` (content in `geo_001.txt`, ~650–700 words of main text each, 4 FAQ each). Facts from German Wikipedia (Bezirke/Ortsteile counts, A100/A111/A115, Elbtunnel, A7 Hamburg section, Mittlerer Ring, A99, A9 end) and web search (Umweltzone Berlin 88 km² since 2008 / green since 2010; München zone incl. Mittlerer Ring since 1 Feb 2023).
 - **Owner check:** the München Umweltzone extension date/exception (Brudermühlbrücke–B11) comes from third-party guide sites, worded as "nach unserem Kenntnisstand". Hamburg: "Ausbau bis etwa 2028" and the third 2.3 km Lärmschutztunnel come from Wikipedia and may have changed. Berlin/Hamburg/München neighbours: only each other so far (more city links follow as pages appear).
 - Checks: 73 pages, 0 broken links, no page pair ≥10 % overlap.
+
+### Cycle 18 (2026-09-27 ~03:00) – Frankfurt, Stuttgart, Düsseldorf
+- New: `/staedte/frankfurt/`, `/staedte/stuttgart/`, `/staedte/duesseldorf/` (`geo_002.txt`). Facts from German Wikipedia extracts: Frankfurt (46 Stadtteile, 16 Ortsbezirke, 781.337 Melderegister-Einwohner 31.12.2025, Frankfurter Kreuz 335.000 Kfz/Tag, A661 37 km, A648, A66 incl. Salzbachtalbrücke dates); Stuttgart (23 Stadtbezirke/152 Stadtteile, 609.365 Einw., 207–549 m Höhe, Tunnel lengths, A8/A81/A831); Düsseldorf (10 Stadtbezirke/50 Stadtteile, 619.444 Einw., Brückenfamilie, Rheinufertunnel since 1993, A44/A46/A52, Heerdter Dreieck).
+- **Owner check:** none of these pages claims an Umweltzone/Fahrverbot (not verified). Salzbachtalbrücke dates come from the A66 Wikipedia article and may change.
+- Checks: 76 pages, 0 broken links, no pair ≥10 % overlap, title/description within limits.
+- Note: git once failed with "paging file too small" (Windows memory pressure, Opera uses ~4 GB); retry after a pause works.
