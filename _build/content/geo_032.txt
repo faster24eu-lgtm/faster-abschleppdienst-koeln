@@ -1,0 +1,86 @@
+=== stadt-wilhelmshaven | Abschleppdienst Wilhelmshaven: Pannenhilfe A29, B210, JadeWeserPort | Pannenhilfe und Abschleppen in Wilhelmshaven: Jadebusen, A29 bis zum JadeWeserPort, B210, Kaiser-Wilhelm-Brücke, Marinestandort und Hafenbereiche. | page ===
+<!--AREAS: Wilhelmshaven, Wilhelmshaven-Heppens, Wilhelmshaven-Voslapp, Schortens, Sande, Jever -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wilhelmshaven</p><h1>Abschleppdienst Wilhelmshaven</h1><p class="lead">Wilhelmshaven liegt am Jadebusen an der Nordsee, mit der A29 als Zubringer bis zum JadeWeserPort. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Hafen- und Marinestadt am Jadebusen</h2>
+<p>Wilhelmshaven ist eine kreisfreie Stadt in Niedersachsen mit 75.324 Einwohnern, im Nordwesten an der Nordwestküste des Jadebusens gelegen, einer etwa 190 Quadratkilometer großen Meeresbucht an der Nordsee. Die Stadtgeschichte ist seit der Einweihung als „erster deutscher Kriegshafen an der Jade“ am 17. Juni 1869 eng mit der Marine verbunden. Heute ist die Stadt der größte Standort der Deutschen Marine. Auf dem Stadtgebiet liegen 645 Hektar Wasserflächen, überwiegend Hafenbecken. Für Ihre Standortangabe heißt das: Ein Teil der Zufahrten führt an Hafen und Kasernenzäunen entlang, Ihre Straße und die nächste Hafenbezeichnung helfen.</p>
+<h2>A29 und B210</h2>
+<p>Die A29 führt von Oldenburg nach Wilhelmshaven und wurde um das Jahr 2010 wegen des Containerhafens bis zu einem Kreisverkehr am JadeWeserPort verlängert, mehr auf <a href="autobahn-a29.html">Panne auf der A29</a>. Das Wilhelmshavener Kreuz liegt knapp hinter der Stadtgrenze in Schortens und bindet die A29 an die hier autobahnähnliche B210 an, die in östlicher Richtung in die Innenstadt und westlich über Jever, Wittmund und Aurich nach Emden führt. Wenn Sie zwischen Kreuz und Stadt liegen bleiben, nennen Sie uns Richtung und Anschlussstelle. Mehr auf <a href="stadt-oldenburg.html">Abschleppdienst Oldenburg</a>.</p>
+<h2>JadeWeserPort und Hafenverkehr</h2>
+<p>Am 21. September 2012 wurde der JadeWeserPort offiziell eröffnet, ein von der Tide unabhängiges Containerterminal im Norden der Stadt. Die Stadt ist zudem der größte Erdölumschlaghafen Deutschlands. Lkw-Verkehr zum Hafen ist deshalb ein Teil des Alltags. Wenn Ihr Lkw oder Transporter am Hafen liegen bleibt, nennen Sie uns Torbereich oder Straße, Fahrzeugart und Gewicht, siehe auch <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>.</p>
+<h2>Kaiser-Wilhelm-Brücke</h2>
+<p>Ein bekanntes Wahrzeichen ist die Kaiser-Wilhelm-Brücke, die größte Brücke Wilhelmshavens. Sie wurde von 1905 bis 1907 als Drehbrücke gebaut und hatte eine Hauptspannweite von 159 Metern. Von 2010 bis 2013 wurde sie saniert. Der Innenhafen wird über die größte Schleuse Deutschlands mit dem Jadebusen verbunden. Liegen Sie in der Nähe von Brücke oder Schleuse, nennen Sie uns die Straßenseite.</p>
+<h2>So nennen Sie Ihren Standort in Wilhelmshaven</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf A29 oder B210: Richtung, Anschlussstelle, Wilhelmshavener Kreuz.</li>
+<li>Am Hafen: Hafenbecken, Tor oder Kreisverkehr am JadeWeserPort.</li>
+<li>An der Küste: Deichweg oder Strandstraße.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-bremerhaven.html">Bremerhaven</a> und <a href="stadt-emden.html">Emden</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Wilhelmshaven</h2>
+<details><summary>Wie viele Einwohner hat Wilhelmshaven?</summary><div>75.324.</div></details>
+<details><summary>Welche Autobahn führt nach Wilhelmshaven?</summary><div>Die A29 von Oldenburg, die bis zum JadeWeserPort reicht.</div></details>
+<details><summary>Wann wurde der JadeWeserPort eröffnet?</summary><div>Am 21. September 2012.</div></details>
+<details><summary>Wo liegt das Wilhelmshavener Kreuz?</summary><div>Knapp hinter der Stadtgrenze in Schortens, dort schließt die B210 an die A29 an.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-emden | Abschleppdienst Emden: Pannenhilfe A31, B210, Hafen | Pannenhilfe und Abschleppen in Emden: Ostfrieslands größte Stadt, A31 mit fünf Anschlussstellen im Halbkreis um die Stadt, B210, L2 und Seehafen. | page ===
+<!--AREAS: Emden, Emden-Borssum, Emden-Larrelt, Emden-Wybelsum, Emden-Petkum, Emden-Barenburg -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Emden</p><h1>Abschleppdienst Emden</h1><p class="lead">Emden liegt an der Emsmündung am Dollart und hat fünf Anschlussstellen der A31. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Größte Stadt Ostfrieslands</h2>
+<p>Emden liegt im Nordwesten von Niedersachsen an der Emsmündung am Nordufer des Dollarts und ist mit 49.009 Einwohnern (31. Dezember 2025) die größte Stadt Ostfrieslands und die kleinste kreisfreie Stadt Niedersachsens. Sie ist die westlichste Seehafenstadt Deutschlands. Es gibt 865 Hektar Wasserfläche innerhalb der Stadtgrenzen, rund 150 Kilometer Kanäle verlaufen durch das Stadtgebiet. Emden hat 20 Stadtteile, die drei größten sind laut städtischer Statistik das Stadtzentrum, Barenburg und Borssum/Hilmarsum. Nennen Sie uns bei einer Panne Stadtteil und Straße, im Zentrum auch das Viertel (Altstadt, Behördenviertel, Boltentor, Groß-Faldern).</p>
+<h2>A31 im Halbkreis</h2>
+<p>Halbkreisförmig um Emden herum verläuft die A31, der „Ostfriesenspieß“, mit fünf Anschlussstellen an verschiedenen Punkten der Stadt. Sie verbindet Emden und Ostfriesland mit dem Ruhrgebiet. Der erste Abschnitt der A31 nach Emden wurde 1976 gebaut, im Dezember 2004 wurde die A31 fertiggestellt. Bei einer Panne auf der Autobahn nennen Sie uns die Anschlussstelle und die Fahrtrichtung, mehr auf <a href="autobahn-a31.html">Panne auf der A31</a> und <a href="autobahn-a28.html">Panne auf der A28</a>.</p>
+<h2>B210 und L2</h2>
+<p>Die B210 beginnt in Emden und führt in West-Ost-Richtung quer durch Ostfriesland über Aurich, Wittmund und Jever nach Wilhelmshaven, in Emden ist sie auf einem kurzen Stück durch die A31 unterbrochen. Von West nach Ost führt die L2 durch Emden, von Wybelsum über Larrelt und das Stadtzentrum nach Borssum und Petkum. Sie ist neben der Autobahn die wichtigste Ost-West-Verbindung in der Stadt. Wenn Sie an der L2 liegen bleiben, sagen Sie uns den Stadtteil und die Fahrtrichtung. Mehr auf <a href="stadt-wilhelmshaven.html">Abschleppdienst Wilhelmshaven</a>.</p>
+<h2>Autoverladehafen und Borkum-Fähre</h2>
+<p>Der Emder Hafen ist der drittgrößte Autoverladehafen Europas und schlägt hauptsächlich Fahrzeuge des Volkswagen-Konzerns um, dazu kommen Windenergieanlagen und Baustoffe. Ein Fährverkehr besteht nach Borkum. Wenn Ihr Fahrzeug am Hafen oder am Borkum-Kai nicht startet, nennen Sie uns Straße und Bereich. Mehr auf <a href="ratgeber-auto-springt-nicht-an.html">Auto springt nicht an</a>.</p>
+<h2>So nennen Sie Ihren Standort in Emden</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf der A31: Richtung und Anschlussstelle.</li>
+<li>Auf B210 oder L2: Fahrtrichtung, Stadtteil.</li>
+<li>Am Hafen: Kai oder Zufahrt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-oldenburg.html">Oldenburg</a> und <a href="stadt-bremen.html">Bremen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Emden</h2>
+<details><summary>Wie viele Anschlussstellen der A31 hat Emden?</summary><div>Fünf, halbkreisförmig um die Stadt verteilt.</div></details>
+<details><summary>Wie viele Stadtteile hat Emden?</summary><div>20.</div></details>
+<details><summary>Wohin führt die B210?</summary><div>Von Emden über Aurich, Wittmund und Jever nach Wilhelmshaven.</div></details>
+<details><summary>Kommen Sie auch nach Leer?</summary><div>Wir organisieren Einsätze in Ostfriesland. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-lueneburg | Abschleppdienst Lüneburg: Pannenhilfe A39, B4, B209, B216 | Pannenhilfe und Abschleppen in Lüneburg: Hansestadt an der Ilmenau, Autobahnanschluss A39, B4, B209 und B216, Altstadt über Salzstock, Nähe Hamburg. | page ===
+<!--AREAS: Lüneburg, Lüneburg-Kaltenmoor, Lüneburg-Häcklingen, Lüneburg-Oedeme, Lüneburg-Ochtmissen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lüneburg</p><h1>Abschleppdienst Lüneburg</h1><p class="lead">Lüneburg liegt an der Ilmenau am Rand der Lüneburger Heide, rund 50 Kilometer südöstlich von Hamburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Hansestadt am Rand der Heide</h2>
+<p>Die Hansestadt Lüneburg ist eine große Mittelstadt im Nordosten von Niedersachsen, eines von neun Oberzentren des Bundeslandes und Kreisstadt des Landkreises Lüneburg mit knapp 75.000 Einwohnern. Sie liegt am Unterlauf der schiffbaren Ilmenau, etwa 30 Kilometer vor deren Zusammenfluss mit der Elbe, ungefähr 50 Kilometer südöstlich von Hamburg und gehört zur Metropolregion Hamburg. Südlich und westlich erstreckt sich die Lüneburger Heide. Die Altstadt liegt über einem Salzstock, dessen Gipskappe, der Kalkberg, der Stadt den Namen gab. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
+<h2>Mons, Pons, Fons: die Stadtteile der Altstadt</h2>
+<p>Die Formel Mons, Pons, Fons (Berg, Brücke, Quelle) beschreibt das Zusammenwachsen von zunächst drei, später vier Siedlungsplätzen: Marktviertel am Kalkberg, Sandviertel zwischen der Brücke über die Ilmenau und dem großen Platz Am Sande, Sülzviertel bei der Saline und das im 13. Jahrhundert entstandene Wasserviertel zwischen Marktplatz und Ilmenau. Wenn Sie in der Altstadt liegen bleiben, sagen Sie uns das Viertel oder den Platz, zum Beispiel Am Sande. Zufahrten laufen über Einbahnstraßen, in Teilen der Fußgängerzone ist der Radverkehr in Gegenrichtung zugelassen.</p>
+<h2>A39, B4, B209, B216</h2>
+<p>Lüneburg verfügt über einen Autobahnanschluss der A39, die in Richtung Süden bis Wolfsburg und Braunschweig verlängert werden soll. Über die Bundesstraßen B4, B209 und B216 ist die Stadt an das Bundesstraßennetz angebunden. Die Fahrzeit zum Hamburger Hauptbahnhof beträgt mit dem Zug etwa 30 Minuten. Mehr auf <a href="stadt-hamburg.html">Abschleppdienst Hamburg</a> und <a href="autobahn-a7.html">Panne auf der A7</a>.</p>
+<h2>Universitätsstadt mit viel Radverkehr</h2>
+<p>Lüneburg ist Sitz der Leuphana Universität. Als Universitätsstadt hat sie einen gegenüber vergleichbar großen Städten höheren Radverkehrsanteil. Wenn Sie in der Nähe von Radwegen liegen bleiben, sichern Sie Ihr Fahrzeug mit Warnblinker und lassen Sie Rad- und Fußweg frei. Mehr im <a href="ratgeber-panne-autobahn.html">Ratgeber</a>.</p>
+<h2>So nennen Sie Ihren Standort in Lüneburg</h2>
+<ul class="ticks">
+<li>Stadtteil oder Viertel und Straße, dazu Hausnummer.</li>
+<li>Auf der A39: Richtung und Anschlussstelle.</li>
+<li>Auf B4, B209 oder B216: Fahrtrichtung und Querstraße.</li>
+<li>In der Altstadt: Platz, Einbahnstraße.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-luebeck.html">Lübeck</a> und <a href="stadt-schwerin.html">Schwerin</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Lüneburg</h2>
+<details><summary>Wo liegt Lüneburg?</summary><div>An der Ilmenau am Rand der Lüneburger Heide, etwa 50 Kilometer südöstlich von Hamburg.</div></details>
+<details><summary>Welche Autobahn führt nach Lüneburg?</summary><div>Die A39, mit Anschluss an das Stadtgebiet.</div></details>
+<details><summary>Welche Bundesstraßen führen durch Lüneburg?</summary><div>B4, B209 und B216.</div></details>
+<details><summary>Wie lange dauert der Zug nach Hamburg?</summary><div>Etwa 30 Minuten zum Hauptbahnhof.</div></details>
+</div></section>
+@@CTA@@

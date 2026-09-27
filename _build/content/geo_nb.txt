@@ -90,3 +90,6 @@ stadt-bamberg	wuerzburg,nuernberg,erlangen,bayreuth,fuerth,schweinfurt,coburg,ho
 stadt-bayreuth	bamberg,nuernberg,hof,erlangen,regensburg,coburg,weiden,amberg	a9,a70
 stadt-ludwigsburg	stuttgart,heilbronn,pforzheim,esslingen,reutlingen,tuebingen,karlsruhe,goeppingen	a81
 stadt-landshut	muenchen,regensburg,ingolstadt,passau,freising,erding,rosenheim,augsburg	a92,a94,a9
+stadt-wilhelmshaven	oldenburg,bremerhaven,bremen,emden,osnabrueck,hannover,kiel,hamburg	a29,a28,a27
+stadt-emden	oldenburg,wilhelmshaven,bremen,osnabrueck,bremerhaven,muenster	a31,a28
+stadt-lueneburg	hamburg,luebeck,schwerin,hannover,braunschweig,wolfsburg,kiel,bremen	a7,a1

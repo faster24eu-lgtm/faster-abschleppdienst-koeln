@@ -258,3 +258,12 @@ autobahn-a20	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im
 autobahn-a24	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a31	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a31	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Emstunnel
+autobahn-a27	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a28	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a29	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a30	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a42	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a43	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-wilhelmshaven	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-emden	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-lueneburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick

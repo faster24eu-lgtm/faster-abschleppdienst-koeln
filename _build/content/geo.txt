@@ -119,3 +119,12 @@ autobahn-a14	A14 Wismar bis Nossen	A14
 autobahn-a20	A20 Uckermark bis Lübeck	A20	
 autobahn-a24	A24 Hamburg bis Berlin	A24	
 autobahn-a31	A31 Emden bis Bottrop	A31	
+autobahn-a27	A27 Cuxhaven bis Walsrode	A27	
+autobahn-a28	A28 Leer bis Stuhr	A28	
+autobahn-a29	A29 Wilhelmshaven bis Ahlhorner Heide	A29	
+autobahn-a30	A30 Bad Bentheim bis Bad Oeynhausen	A30	
+autobahn-a42	A42 Kamp-Lintfort bis Dortmund	A42	
+autobahn-a43	A43 Münster bis Wuppertal	A43	
+stadt-wilhelmshaven	Wilhelmshaven	Niedersachsen	
+stadt-emden	Emden	Niedersachsen	
+stadt-lueneburg	Lüneburg	Niedersachsen	

@@ -1,0 +1,171 @@
+=== autobahn-a27 | Pannenhilfe auf der A27: Cuxhaven, Bremerhaven, Bremen, Walsrode | Panne auf der A27 von Cuxhaven über Bremerhaven und Bremen bis Walsrode: Blocklandautobahn, Bremer Kreuz, Sperrungen wegen Durchlässen, Schwertransporte. | page ===
+<!--AREAS: A27, Cuxhaven, Bremerhaven, Bremen, Verden, Walsrode, Achim -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A27</h1><p class="lead">Die A27, die „Schellfischlinie“, führt von Cuxhaven über Bremerhaven und Bremen nach Walsrode. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>162 Kilometer durch Geest und Bremen</h2>
+<p>Die 162 Kilometer lange Autobahn beginnt in Cuxhaven in Niedersachsen. Bei Bremerhaven führt sie über die Geeste, im weiteren Verlauf zum zweiten Mal durch das Land Bremen und endet in Walsrode am Dreieck mit der A7. Außer im Raum Bremen verläuft sie zumeist durch hügelige Geestlandschaft. Wegen der Anbindung des früheren Fischereistandorts Cuxhaven wird die Strecke „Schellfischlinie“ genannt. Wenn Sie sich nicht sicher sind, ob Sie noch in Bremen oder schon in Niedersachsen stehen, nennen Sie uns einfach die letzte Anschlussstelle.</p>
+<h2>Blocklandautobahn und Bremer Kreuz</h2>
+<p>Die erste Strecke wurde ab 1933 von der A1 aus Hamburg kommend in Richtung Ihlpohl im Norden Bremens gebaut und 1937 als Blocklandautobahn eröffnet. 1963 wurde entschieden, die zu schmale Trasse in doppelter Breite neu zu bauen. Das Bremer Kreuz, dessen Bau 1959 begann, war bei der Eröffnung 1962 das größte und modernste Autobahnkreuz Deutschlands. Im November 2005 wurde der sechsstreifige Ausbau der ansonsten vierstreifigen Fahrbahn zwischen Bremen-Überseestadt und Bremen-Burglesum abgeschlossen, um die tägliche Stausituation der Pendlerströme aufzulösen. Zu den Stoßzeiten kann hier dichter Verkehr herrschen, nennen Sie uns bitte Ihre Fahrtrichtung. Mehr auf <a href="stadt-bremen.html">Abschleppdienst Bremen</a>.</p>
+<h2>Bremerhaven und Cuxhaven</h2>
+<p>Mit der Fertigstellung der letzten Teilstücke zwischen dem Verteilerkreis Bremen-Nord und Bremerhaven-Süd im November 1977 und zwischen Debstedt und Cuxhaven im Dezember 1981 ersetzte die Autobahn die überlastete B6. 1995 kam das Dreieck Bremen-Industriehäfen für die A281 hinzu. Mehr auf <a href="stadt-bremerhaven.html">Abschleppdienst Bremerhaven</a>.</p>
+<h2>Sperrungen und Schwertransporte</h2>
+<p>Am 21. Februar 2024 wurde die Autobahn zwischen den Abfahrten Hagen und Uthlede voll gesperrt, weil sie wegen eines maroden Wasserdurchlasses unterspült war. Das hatte erhebliche Auswirkungen auf die Schwertransporte von und zu den Häfen. Am 27. März 2024 wurde der Verkehr wieder freigegeben. Zwischen Bremen und Cuxhaven gibt es nach dieser Quelle insgesamt fünf solcher Durchlässe, alle über 50 Jahre alt, deren Austausch mehrwöchige halbseitige Sperrungen erfordert. Wegen weiterer Instandhaltungsmaßnahmen ist bis 2029 immer wieder mit Teil- und gelegentlich Vollsperrungen nördlich von Bremen zu rechnen. Wenn Sie in einem halbseitig gesperrten Abschnitt liegen bleiben, sagen Sie uns bitte, dass Sie auf der Gegenfahrbahn im Gegenverkehr stehen.</p>
+<h2>So nennen Sie Ihren Standort auf der A27</h2>
+<ul class="ticks">
+<li>Richtung: Cuxhaven, Bremerhaven, Bremen oder Walsrode.</li>
+<li>Letzte oder nächste Anschlussstelle oder Dreieck.</li>
+<li>Bei Baustellen: ob Gegenverkehr auf Ihrer Fahrbahn ist.</li>
+<li>Bei Transportern und Anhängern: Fahrzeugart.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>, <a href="autobahn-a7.html">Panne auf der A7</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A27</h2>
+<details><summary>Warum heißt die A27 Schellfischlinie?</summary><div>Wegen der Anbindung des früheren Fischereistandorts Cuxhaven.</div></details>
+<details><summary>Wo endet die A27 im Süden?</summary><div>Am Dreieck Walsrode, wo sie die A7 Richtung Hannover erreicht.</div></details>
+<details><summary>Ist die Strecke nördlich von Bremen oft gesperrt?</summary><div>Nach der genutzten Quelle ist bis 2029 mit Teil- und gelegentlich Vollsperrungen zu rechnen. Aktuelle Meldungen prüfen Sie bitte vor Fahrtantritt.</div></details>
+<details><summary>Was ist die Blocklandautobahn?</summary><div>Der Abschnitt im Norden Bremens, 1937 eröffnet, später in doppelter Breite neu gebaut und sechsstreifig ausgebaut.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a28 | Pannenhilfe auf der A28: Leer, Oldenburg, Delmenhorst, Stuhr | Panne auf der A28 zwischen Leer und dem Dreieck Stuhr: Ammerland, Oldenburger Autobahnring, A293, A29, Dreiecke Leer und Delmenhorst. | page ===
+<!--AREAS: A28, Leer, Westerstede, Oldenburg, Delmenhorst, Stuhr, Bad Zwischenahn -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A28</h1><p class="lead">Die A28 führt von Leer über Westerstede, Oldenburg und Delmenhorst zur A1 bei Stuhr. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Leer bis Stuhr auf der E22</h2>
+<p>Die A28 verläuft West-Ost durch Niedersachsen zwischen der A31 bei Leer und der A1 beim Dreieck Stuhr. Die gesamte Strecke wird im Netz der Europastraßen als Teilstück der E22 geführt. Als Besonderheit geht sie am westlichen Ende beim Dreieck Leer nahtlos in den südlichen Ast der <a href="autobahn-a31.html">A31</a> Richtung Bottrop und Oberhausen über. Wer die Fahrtrichtung wechseln will, muss dort abbiegen. Ob Sie sich nach einem falschen Abbiegen auf der A28 oder A31 befinden, sagen Sie uns bitte, dann kann die Hilfe richtig zugeordnet werden.</p>
+<h2>Westerstede und das Ammerland</h2>
+<p>Vor Oldenburg führt die A28 mit drei Anschlussstellen durch die Kreisstadt des Ammerlandes, Westerstede: Westerstede-West in Hollwege, Westerstede im Zentrum und Bad Zwischenahn-West in Gießelhorst. Sie könnten durch das geplante Dreieck Westerstede ergänzt werden, das die <a href="autobahn-a20.html">A20</a> mit der A28 verbinden soll. Die Ausbaupläne sind Planungen, sie ändern nichts an Ihrer Standortangabe: Anschlussstelle und Richtung genügen.</p>
+<h2>Oldenburger Autobahnring</h2>
+<p>Beim Dreieck Oldenburg-West geht der östliche Ast der A28 Richtung Delmenhorst und Bremen nahtlos in die A293 über. Zum Verbleib auf der A28 muss in beiden Richtungen das Dreieck durchfahren werden. Bei Oldenburg ist die A28 als Stadtautobahn mit relativ scharfen Kurven geführt und bildet zusammen mit der <a href="autobahn-a29.html">A29</a> und der A293 den Autobahnring Oldenburg. Die Anschlussstelle Oldenburg-Marschweg bedient nur die östliche Richtung, nicht die westliche. Ein direkter Wechsel auf die A29 ist am Kreuz Oldenburg-Ost möglich. Mehr auf <a href="stadt-oldenburg.html">Abschleppdienst Oldenburg</a>.</p>
+<h2>Delmenhorst und Stuhr</h2>
+<p>Die A28 ersetzt zwischen Leer und Delmenhorst die frühere B75. Das östliche Ende gabelte sich bis 2006 in die B75 und die B322, Gabelung und Anschlussstelle wurden bis September 2008 zum Dreieck Delmenhorst ausgebaut. Seitdem ist es möglich, vom Dreieck Stuhr aus durchgängig vierstreifig in das Stadtzentrum Bremens zu gelangen, indem man am Dreieck Delmenhorst auf die B75 abbiegt. Zur Eröffnung des Einkaufszentrums Famila XXL im Winter 2007 wurden Umbauten an der Abfahrt Oldenburg-Wechloy vorgenommen. Bei Panne an einer Abfahrt zu einem Einkaufszentrum nennen Sie uns Abfahrt und Richtung. Mehr auf <a href="stadt-bremen.html">Abschleppdienst Bremen</a> und <a href="autobahn-a1.html">Panne auf der A1</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A28</h2>
+<ul class="ticks">
+<li>Richtung: Leer, Oldenburg, Delmenhorst oder Bremen.</li>
+<li>Letzte oder nächste Anschlussstelle, Dreieck oder Kreuz.</li>
+<li>Bei Oldenburg: A28, A29 oder A293.</li>
+<li>Bei Kurven der Stadtautobahn: ob Sie hinter einer Kurve stehen.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A28</h2>
+<details><summary>Wo beginnt und endet die A28?</summary><div>An der A31 bei Leer und an der A1 beim Dreieck Stuhr.</div></details>
+<details><summary>Muss ich im Dreieck abbiegen, um auf der A28 zu bleiben?</summary><div>Ja, beim Dreieck Leer und beim Dreieck Oldenburg-West geht die A28 in andere Autobahnen über. Nennen Sie uns Ihre Richtung.</div></details>
+<details><summary>Welche Autobahnen bilden den Oldenburger Ring?</summary><div>Die A28, die A29 und die A293.</div></details>
+<details><summary>Welche Straße ersetzt die A28?</summary><div>Zwischen Leer und Delmenhorst die frühere B75.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a29 | Pannenhilfe auf der A29: Jadelinie von Wilhelmshaven bis Ahlhorner Heide | Panne auf der A29 zwischen Wilhelmshaven, Oldenburg und dem Dreieck Ahlhorner Heide: 94,5 Kilometer, JadeWeserPort, Huntebrücke, Oldenburger Ring. | page ===
+<!--AREAS: A29, Wilhelmshaven, Schortens, Oldenburg, Sandkrug, Ahlhorner Heide, JadeWeserPort -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A29</h1><p class="lead">Die A29, die Jadelinie, führt von Wilhelmshaven über Oldenburg zur A1. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>94,5 Kilometer vierstreifig</h2>
+<p>Die A29 ist 94,5 Kilometer lang, durchgehend vierstreifig und beginnt in Wilhelmshaven. Nachdem sie ursprünglich nur bis zur Anschlussstelle Voslapp geführt hatte, wurde sie wegen des Containerhafens am JadeWeserPort um das Jahr 2010 bis zu einem dortigen Kreisverkehr verlängert. Um nicht alle Anschlussstellen neu nummerieren zu müssen, wurde die Anschlussstelle am JadeWeserPort nicht als solche deklariert. Wenn Sie am Hafen stehen, nennen Sie uns deshalb Kreisverkehr und Straße statt einer Anschlussstelle. Mehr auf <a href="stadt-wilhelmshaven.html">Abschleppdienst Wilhelmshaven</a>.</p>
+<h2>Wilhelmshavener Kreuz und B210</h2>
+<p>Das knapp hinter der Stadtgrenze in der Nachbargemeinde Schortens gelegene Wilhelmshavener Kreuz bindet die A29 an die hier autobahnähnliche B210 an. Sie führt in östlicher Richtung in die Wilhelmshavener Innenstadt und westlich über Jever, Wittmund und Aurich nach Emden. Wer vom Küstenland kommt, sollte bei Panne Kreuz und Fahrtrichtung nennen. Künftig soll am Kreuz Jaderberg die <a href="autobahn-a20.html">A20</a> gekreuzt werden, das ist eine Planung.</p>
+<h2>Oldenburger Ring und Huntebrücke</h2>
+<p>Am Autobahnkreuz Oldenburg-Nord stößt die A29 auf den Autobahnring Oldenburg, der aus ihr selbst sowie der A293 und der <a href="autobahn-a28.html">A28</a> gebildet wird. Am Kreuz Oldenburg-Ost ist ein Wechsel auf die A28 Richtung Stadtmitte oder Bremen möglich. Die A29 überquert zweimal die Hunte: zwischen der Raststätte Huntetal und der Anschlussstelle Sandkrug und auf einer 26 Meter hohen Brücke über den für hochseetaugliche Schiffe zugelassenen Flussabschnitt. Auf der Hochbrücke liegt unterhalb der Fahrbahn ein Weg für Fußgänger und Radfahrer. Mehr auf <a href="stadt-oldenburg.html">Abschleppdienst Oldenburg</a>. Bei Brücken gilt: nicht auf der Brücke aussteigen, wenn es eine Alternative gibt.</p>
+<h2>Baugeschichte und Untergrund</h2>
+<p>Die Entscheidung für den Bau fiel im Mai 1969, der Bau dauerte bis zum April 1984, das letzte Teilstück zwischen Hengstlage und Ahlhorner Heide wurde am 17. April 1984 freigegeben. Die Baukosten lagen bei 680 Millionen Mark. Das kurze Teilstück zwischen Wilhelmshaven und Zetel erwies sich wegen des wenig tragfähigen Untergrunds im ehemaligen Schwarzen Brack als extrem kosten- und zeitaufwendig, der Untergrund wurde bis zu 16 Meter Tiefe ausgebaggert und durch Sand ersetzt.</p>
+<h2>So nennen Sie Ihren Standort auf der A29</h2>
+<ul class="ticks">
+<li>Richtung: Wilhelmshaven oder Ahlhorner Heide.</li>
+<li>Letzte oder nächste Anschlussstelle, Kreuz Oldenburg-Nord oder -Ost.</li>
+<li>Bei Hunte: vor oder hinter der Brücke.</li>
+<li>Bei Hafenverkehr: Kreisverkehr am JadeWeserPort.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>, <a href="autobahn-a1.html">Panne auf der A1</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A29</h2>
+<details><summary>Wie lang ist die A29?</summary><div>94,5 Kilometer, durchgehend vierstreifig.</div></details>
+<details><summary>Warum heißt die A29 Jadelinie?</summary><div>Nach der Jade, an der Wilhelmshaven liegt.</div></details>
+<details><summary>Wo endet die A29 im Süden?</summary><div>Am Dreieck Ahlhorner Heide an der A1.</div></details>
+<details><summary>Gibt es eine Anschlussstelle am JadeWeserPort?</summary><div>Die Anschlussstelle wurde nicht offiziell als solche deklariert. Nennen Sie uns dort Kreisverkehr und Straße.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a30 | Pannenhilfe auf der A30: Niederlande, Osnabrück, Bad Oeynhausen | Panne auf der A30 von der niederländischen Grenze über Rheine und Osnabrück bis Bad Oeynhausen: Kreuze, drei Landesgrenzen, Feiertagsstau. | page ===
+<!--AREAS: A30, Bad Bentheim, Rheine, Osnabrück, Lotte, Bad Oeynhausen, Minden -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A30</h1><p class="lead">Die A30 verbindet die niederländische Grenze bei Bad Bentheim über Osnabrück mit der A2 bei Bad Oeynhausen. Nennen Sie uns Richtung und Kreuz, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Europastraße 30 von Amsterdam nach Warschau</h2>
+<p>Die A30 verläuft West-Ost von der niederländischen Grenze bis zur A2 bei Bad Oeynhausen in Ostwestfalen-Lippe. An der Grenze besteht Anschluss an die niederländische A1, dadurch ist sie Teil der europäischen Verbindung Amsterdam–Berlin–Warschau (E30). Sie verbindet in Deutschland die Niederlande mit Osnabrück, Minden und Hannover. Wenn Sie aus den Niederlanden anreisen und an der Grenze liegen bleiben, nennen Sie uns bitte die Autobahnnummer und die Fahrtrichtung.</p>
+<h2>Kreuze: A31, A1, A33</h2>
+<p>Die A30 beginnt zwischen Nordhorn und Bad Bentheim und unterquert bei Schüttorf die <a href="autobahn-a31.html">A31</a>. Weiter führt sie an Rheine vorbei und kreuzt südwestlich von Osnabrück im Tecklenburger Land bei Lotte die A1. Südöstlich von Osnabrück kreuzt sie die A33, die nach Nordosten Richtung Diepholz und nach Südosten nach Bielefeld führt. Etwa 50 Kilometer weiter östlich endet die A30 bei Bad Oeynhausen mit Anschluss an die A2 und geht in die B514 Richtung Vlotho über. Mehr auf <a href="autobahn-a1.html">Panne auf der A1</a>, <a href="stadt-osnabrueck.html">Abschleppdienst Osnabrück</a> und <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a>.</p>
+<h2>Dreimal über die Landesgrenze</h2>
+<p>Weil die A30 recht gradlinig trassiert ist, überquert sie zwischen der niederländischen Grenze und der A2 dreimal die Landesgrenze zwischen Niedersachsen und Nordrhein-Westfalen, nördlich von Rheine, südwestlich von Osnabrück und bei Bruchmühlen. Die Landesgrenze verläuft hier mäanderartig. Wer nach Hannover weiterfährt, überquert sie ein viertes Mal bei Bad Eilsen. Das ist für Sie relevant, wenn Sie uns Ihren Standort nennen: Sagen Sie, ob Sie sich in Niedersachsen oder Nordrhein-Westfalen befinden, oder nennen Sie die nächste Anschlussstelle.</p>
+<h2>Fronleichnam und Allerheiligen</h2>
+<p>Fronleichnam und Allerheiligen sind in Niedersachsen Werktage, in Nordrhein-Westfalen dagegen gesetzliche Feiertage, an denen es im Regelfall Lkw über 7,5 Tonnen Gesamtgewicht verboten ist, am öffentlichen Straßenverkehr teilzunehmen. Für Transitfahrten von Niedersachsen nach Niedersachsen über Nordrhein-Westfalen ist eine Sondergenehmigung möglich. An diesen beiden Feiertagen ist deshalb zu erwarten, dass auf den Parkplätzen der A30 vor der Landesgrenze ungewöhnlich viele Lkw-Fahrer eine Zwangspause einlegen. Wenn Sie an so einem Tag liegen bleiben, kann ein Parkplatz voll sein, das nennen Sie uns bitte.</p>
+<h2>So nennen Sie Ihren Standort auf der A30</h2>
+<ul class="ticks">
+<li>Richtung: Niederlande, Osnabrück oder Bad Oeynhausen.</li>
+<li>Kreuz Schüttorf, Lotte/Osnabrück, Osnabrück-Süd/A33 oder Anschlussstelle.</li>
+<li>Bundesland: Niedersachsen oder Nordrhein-Westfalen.</li>
+<li>Parkplatzname bei Lkw-Feiertagsstau.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>, <a href="autobahn-a2.html">Panne auf der A2</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A30</h2>
+<details><summary>Wo beginnt die A30?</summary><div>An der niederländischen Grenze zwischen Nordhorn und Bad Bentheim, als Verlängerung der niederländischen A1.</div></details>
+<details><summary>Wo endet die A30?</summary><div>Bei Bad Oeynhausen mit Anschluss an die A2, danach als B514 Richtung Vlotho.</div></details>
+<details><summary>Wie oft überquert die A30 die Landesgrenze Niedersachsen/NRW?</summary><div>Dreimal bis zur A2, bei Hannover ein viertes Mal bei Bad Eilsen.</div></details>
+<details><summary>Welche Autobahnen kreuzt die A30?</summary><div>A31 bei Schüttorf, A1 bei Lotte und A33 südöstlich von Osnabrück, dann endet sie an der A2.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a42 | Pannenhilfe auf der A42: Emscherschnellweg Kamp-Lintfort bis Dortmund | Panne auf der A42 durch das nördliche Ruhrgebiet: Duisburg, Oberhausen, Bottrop, Gelsenkirchen, Herne, Castrop-Rauxel, sechsstreifig im Westen. | page ===
+<!--AREAS: A42, Kamp-Lintfort, Duisburg, Oberhausen, Bottrop, Gelsenkirchen, Herne, Castrop-Rauxel -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A42</h1><p class="lead">Die A42, der Emscherschnellweg, führt von Kamp-Lintfort durch das nördliche Ruhrgebiet nach Dortmund. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Emscherschnellweg</h2>
+<p>Die A42 verläuft von West nach Ost im nördlichen Ruhrgebiet von Kamp-Lintfort über den Norden Duisburgs, Oberhausen, Bottrop, den Essener Norden, Gelsenkirchen, Herne und Castrop-Rauxel nach Dortmund. Sie wird auch Emscherschnellweg genannt. Wer im Ruhrgebiet liegen bleibt, steht oft in dichter Siedlung mit schneller Folge von Anschlussstellen. Nennen Sie uns daher immer die nächste Anschlussstelle und die Fahrtrichtung. Mehr auf <a href="stadt-duisburg.html">Abschleppdienst Duisburg</a>, <a href="stadt-oberhausen.html">Abschleppdienst Oberhausen</a>, <a href="stadt-bottrop.html">Abschleppdienst Bottrop</a> und <a href="stadt-gelsenkirchen.html">Abschleppdienst Gelsenkirchen</a>.</p>
+<h2>Bau und alte Kanaltrasse</h2>
+<p>Der Bau begann 1965 im Raum Herne, die Strecke wurde 1968 noch als Landesstraße freigegeben und erst 1969 zur Autobahn hochgestuft. 1971 wurde die erste Teilstrecke zwischen dem Kreuz Essen-Nord und dem Kreuz Herne freigegeben, 1975 folgte die Strecke bis zum Kreuz Castrop-Rauxel-Ost mit Verbindung zur A45. Im Westen wurde über Essen hinaus bis zum Kreuz Oberhausen-West weitergebaut, in den 1980er Jahren bis zur A59 (Kreuz Duisburg-Nord) und im letzten Bauabschnitt bis Kamp-Lintfort mit einer Rheinbrücke, wodurch die A42 mit der linksrheinischen A57 verknüpft wurde. Von der Auffahrt Herne-Baukau bis hinter die Auffahrt Herne-Horsthausen wurde ein bereits vor dem Zweiten Weltkrieg stillgelegtes Kanalbett als Trasse genutzt. Der Verlauf der ehemaligen Wasserstraße ist noch an der schnurgeraden Streckenführung erkennbar. Mehr auf <a href="stadt-herne.html">Abschleppdienst Herne</a>.</p>
+<h2>Vier und sechs Fahrstreifen</h2>
+<p>Vom Kreuz Castrop-Rauxel-Ost bis zur Anschlussstelle Bottrop-Süd ist die Autobahn vierstreifig ausgebaut, der westliche Teil durchgehend sechsstreifig. Auf vierstreifigen Abschnitten ist der Standstreifen wichtiger, weil dort weniger Ausweichraum bleibt. Wenn Sie einen Standstreifen erreicht haben, bleiben Sie hinter der Leitplanke, siehe <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
+<h2>Umbenannte Anschlussstellen</h2>
+<p>Die Anschlussstelle 16 hieß bis zum 4. April 2006 Gelsenkirchen-Schalke und wurde umbenannt, als die neue Anschlussstelle 17 den gleichen Namen erhielt. Sie heißt heute Gelsenkirchen-Zentrum. Weitere umbenannte Anschlussstellen sind Bottrop-Süd, ursprünglich Bottrop/Essen-Borbeck, und Oberhausen-Neue Mitte, ursprünglich Oberhausen-Osterfeld. Ältere Navigationsdaten können die alten Namen zeigen. Nennen Sie uns deshalb Anschlussstelle und die nächste Stadt.</p>
+<h2>So nennen Sie Ihren Standort auf der A42</h2>
+<ul class="ticks">
+<li>Richtung: Kamp-Lintfort/Duisburg oder Dortmund.</li>
+<li>Anschlussstelle, Kreuz Essen-Nord, Herne, Castrop-Rauxel-Ost.</li>
+<li>Stadt: Bottrop, Gelsenkirchen, Herne und so weiter.</li>
+<li>Ob Standstreifen vorhanden ist.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>, <a href="autobahn-a2.html">Panne auf der A2</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A42</h2>
+<details><summary>Warum heißt die A42 Emscherschnellweg?</summary><div>Der Name Emscherschnellweg ist die gebräuchliche Bezeichnung für die Autobahn im nördlichen Ruhrgebiet.</div></details>
+<details><summary>Wo beginnt und endet die A42?</summary><div>In Kamp-Lintfort und in Dortmund.</div></details>
+<details><summary>Wie viele Fahrstreifen hat die A42?</summary><div>Im Westen durchgehend sechs, vom Kreuz Castrop-Rauxel-Ost bis Bottrop-Süd vier.</div></details>
+<details><summary>Welche Autobahnen verknüpft die A42?</summary><div>Unter anderem A57, A59, A3, A2 und A45.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a43 | Pannenhilfe auf der A43: Münster, Recklinghausen, Bochum, Wuppertal | Panne auf der A43 zwischen Münster und Wuppertal: Kreuze, Entlastung der A1, schrittweiser sechsstreifiger Ausbau, Emschertalbrücke bei Herne. | page ===
+<!--AREAS: A43, Münster, Recklinghausen, Marl, Herne, Bochum, Witten, Wuppertal -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A43</h1><p class="lead">Die A43 führt vom Kreuz Münster-Süd durch das westliche Münsterland und das Ruhrgebiet zum Kreuz Wuppertal-Nord. Nennen Sie uns Richtung und Kreuz, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Tangente zur A1</h2>
+<p>Die A43 beginnt am Kreuz Münster-Süd und führt über Recklinghausen beziehungsweise Marl-Sinsen zum Kreuz Wuppertal-Nord quer durch das westliche Münsterland und das Ruhrgebiet. Sie dient als Entlastungsautobahn für die A1, da der Verkehr auch über diese Tangente ins und vom Ruhrgebiet geleitet wird. Zwischen Marl-Sinsen und Witten-Heven wird sie schrittweise sechsspurig ausgebaut. Zwischen dem Kreuz Münster-Süd und dem Kreuz Marl-Nord dient die A43 gemeinsam mit der A52 und der B224 als Eckverbindung zwischen der A1 Richtung Hamburg/Bremen und der A2 Richtung Düsseldorf/Oberhausen, sie spielt damit auch im Fernverkehr zwischen Dänemark und den Niederlanden oder Belgien eine wichtige Rolle. Mehr auf <a href="autobahn-a1.html">Panne auf der A1</a>, <a href="autobahn-a2.html">Panne auf der A2</a>, <a href="stadt-muenster.html">Abschleppdienst Münster</a> und <a href="stadt-recklinghausen.html">Abschleppdienst Recklinghausen</a>.</p>
+<h2>Emschertalbrücke bei Herne</h2>
+<p>Wegen Brückenschäden an der Emschertalbrücke bei Herne darf die A43 zwischen dem Kreuz Recklinghausen und dem Kreuz Herne nach dieser Quelle seit April 2021 nur noch von Fahrzeugen mit einem zulässigen Gesamtgewicht bis zu 3,5 Tonnen befahren werden. Eine Umleitung für Fahrzeuge über 3,5 Tonnen führt über die Autobahnen A2, A45 und A42. Der aktuelle Stand kann sich seither geändert haben, prüfen Sie ihn bitte. Wenn Sie ein Transporter- oder Wohnmobilgespann fahren und bei Herne liegen bleiben, nennen Sie uns das zulässige Gesamtgewicht, siehe auch <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>. Mehr auf <a href="autobahn-a42.html">Panne auf der A42</a> und <a href="stadt-herne.html">Abschleppdienst Herne</a>.</p>
+<h2>Von der EB 51 zur A43</h2>
+<p>In den 1960er Jahren wurde zwischen Münster, Recklinghausen, Bochum und Wuppertal die autobahnähnliche Ersatzbundesstraße 51 geplant. Die Strecke zwischen Recklinghausen und Wuppertal erhielt den Status einer Autobahn mit der internen Bezeichnung A77, 1973 war die gesamte Strecke zwischen den Kreuzen Münster-Süd und Wuppertal-Nord als „Autobahn 77“ benannt. Mit der neuen Nummerierung ab 1. Januar 1975 wurde der Abschnitt als A43 gewidmet. Die letzte Lücke zwischen den Anschlussstellen Nottuln und Lavesum wurde 1981 geschlossen. Damit war die Autobahn zwischen Münster und Wuppertal vollständig befahrbar. Mehr auf <a href="stadt-bochum.html">Abschleppdienst Bochum</a> und <a href="stadt-wuppertal.html">Abschleppdienst Wuppertal</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A43</h2>
+<ul class="ticks">
+<li>Richtung: Münster oder Wuppertal.</li>
+<li>Kreuz: Münster-Süd, Marl-Nord, Recklinghausen, Herne, Bochum, Wuppertal-Nord.</li>
+<li>Baustelle: ob Sie im ausgebauten sechsstreifigen Abschnitt stehen.</li>
+<li>Fahrzeugart und Gesamtgewicht bei Transportern.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A43</h2>
+<details><summary>Wo beginnt und endet die A43?</summary><div>Am Kreuz Münster-Süd und am Kreuz Wuppertal-Nord.</div></details>
+<details><summary>Wozu dient die A43?</summary><div>Als Entlastungsautobahn für die A1 und als Verbindung zwischen A1 und A2.</div></details>
+<details><summary>Gilt an der Emschertalbrücke eine Gewichtsbeschränkung?</summary><div>Nach der genutzten Quelle seit April 2021 für Fahrzeuge über 3,5 Tonnen zwischen Recklinghausen und Herne. Prüfen Sie bitte den aktuellen Stand.</div></details>
+<details><summary>Was war die A77?</summary><div>Die interne Bezeichnung der Strecke vor der Umnummerierung zum 1. Januar 1975.</div></details>
+</div></section>
+@@CTA@@
