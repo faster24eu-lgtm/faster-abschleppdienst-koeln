@@ -1,0 +1,113 @@
+=== autobahn-a111 | Pannenhilfe auf der A111 Berlin: Tunnel Tegel, Oranienburg | Panne auf der A111 im Norden Berlins vom Dreieck Charlottenburg über Tegel zum Kreuz Oranienburg: Zubringer Oranienburg, Tunnel Flughafen Tegel. | page ===
+<!--AREAS: A111, Charlottenburg, Tegel, Reinickendorf, Hermsdorf, Heiligensee, Hennigsdorf, Oranienburg -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A111 in Berlin</h1><p class="lead">Die A111, der Zubringer Oranienburg, verbindet die A100 mit dem Berliner Ring. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zubringer Oranienburg</h2>
+<p>Die A111, auch Zubringer Oranienburg genannt, verläuft im Norden Berlins und verbindet die Berliner Stadtautobahn (A100) mit dem Berliner Ring (A10) vom Dreieck Charlottenburg über das ehemalige Kreuz Reinickendorf zum Kreuz Oranienburg. Nennen Sie uns bei einer Panne Fahrtrichtung und Anschlussstelle, zum Beispiel Kurt-Schumacher-Damm, Holzhauser Straße oder Waidmannsluster Damm. Mehr auf <a href="autobahn-a100.html">Panne auf der A100</a>, <a href="autobahn-a10.html">Berliner Ring A10</a> und <a href="stadt-berlin-reinickendorf.html">Berlin-Reinickendorf</a>.</p>
+<h2>Tunnel Flughafen Tegel</h2>
+<p>Der Tunnel Flughafen Tegel wurde 1979 im Zuge des Baus der A111 in Betrieb genommen. Die Röhre Ost (Fahrtrichtung Nord) ist 967 Meter lang, die Röhre West (Fahrtrichtung Süd) 878 Meter. Die Röhren wurden in offener Bauweise errichtet und abgedeckt, sodass die Start- und Landebahn des Flughafens darüber lag. Wegen verschärfter Sicherheitsrichtlinien und Undichtigkeiten wurde eine Grundinstandsetzung geplant, die ab dem 8. November 2006 für 18 Monate mit Vollsperrung durchgeführt wurde. Da der Tunnel keine für den Havariefall ausreichende Entrauchungsanlage hat, wird er nach der genutzten Quelle regelmäßig bei Staugefahr gesperrt, der Verkehr läuft dann über die Anschlussstelle Kurt-Schumacher-Platz und den Kurt-Schumacher-Damm. Bei einer Panne im Tunnel gilt: Warnblinker, Notruf, siehe <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>.</p>
+<h2>Tegeler Forst, Bundesstraße und Autobahn</h2>
+<p>Nach Protesten beschloss der Berliner Senat 1981, den Abschnitt durch den Tegeler Forst nicht als vierstreifige Autobahn, sondern nur als zweistreifige Bundesstraße zu errichten. Der Abschnitt zwischen den Anschlussstellen Schulzendorfer Straße und Waidmannsluster Damm wurde als Bundesstraße B111 mit 15 Meter breitem Querschnitt und einem Fahrstreifen je Richtung ausgeführt, die Trasse führt dicht an Heiligensee entlang („Vetter-Knie“), zwei Tunnel, Forsthaustunnel und Beyschlagtunnel, sollten die Auswirkungen auf Landschaftsschutzgebiete verringern. Die Strecke wurde im Dezember 1987 fertiggestellt und bis 1990 für den Transitverkehr nach Hamburg genutzt. Nach der Wiedervereinigung wurde die Bezeichnung von A11 zu A111 geändert, die Verbreiterung des Abschnitts wurde bis 2001 umgesetzt, danach erfolgte die Hochstufung zur Autobahn. Ältere Karten nennen sie noch A11 oder B111. Bei einer Panne am Grenzbereich Berlin–Brandenburg nennen Sie uns, in welchem Bundesland Sie stehen.</p>
+<h2>Bau zur Teilung</h2>
+<p>Bereits in der Weimarer Republik gab es Pläne zu einer Autobahn zwischen Berlin und Hamburg, der 1938 begonnene Bau wurde 1940 eingestellt. 1978 vereinbarten BRD und DDR die Errichtung einer Transitautobahn als Ersatz der Transitstrecke über die Fernstraße 5. Der Transitverkehr nach Hamburg sollte über einen neuen Grenzübergang bei Berlin-Heiligensee abgewickelt werden. Der Bau zwischen der Anschlussstelle Waidmannsluster Damm und Hermsdorfer Damm und dem neuen Grenzübergang bei Stolpe begann im Januar 1982 und wurde im Dezember 1982 nach einer Klage der Bürgerinitiative Autobahn Tegel durch das Oberverwaltungsgericht gestoppt. Im Jahr 2011 wurden bei Hennigsdorf auf 7,5 Kilometern in der Asphaltdecke Transponder in 50 Metern Abstand verbaut.</p>
+<h2>So nennen Sie Ihren Standort auf der A111</h2>
+<ul class="ticks">
+<li>Richtung: Innenstadt/Charlottenburg oder Oranienburg/Hamburg.</li>
+<li>Anschlussstelle, Dreieck Charlottenburg, Kurt-Schumacher-Platz, Waidmannsluster Damm, Kreuz Oranienburg.</li>
+<li>Tunnel Flughafen Tegel: Fahrtrichtung.</li>
+<li>Bundesland: Berlin oder Brandenburg.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A111</h2>
+<details><summary>Wie lang ist der Tunnel Flughafen Tegel?</summary><div>Röhre Ost 967 Meter, Röhre West 878 Meter.</div></details>
+<details><summary>Warum heißt die A111 Zubringer Oranienburg?</summary><div>Sie verbindet die A100 mit dem Berliner Ring am Kreuz Oranienburg.</div></details>
+<details><summary>Was war die A11 in West-Berlin?</summary><div>Bis zur Wiedervereinigung trug der West-Berliner Teil der Transitautobahn nach Hamburg diese Bezeichnung, jetzt A111.</div></details>
+<details><summary>Wird der Tegeler Tunnel gesperrt?</summary><div>Nach der genutzten Quelle bei Staugefahr, wegen fehlender Entrauchungsanlage.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a115 | Pannenhilfe auf der A115 Berlin: AVUS, Dreilinden, Nuthetal | Panne auf der A115, der AVUS, zwischen Dreieck Funkturm und Dreieck Nuthetal: Kreuz Zehlendorf, Dreilinden, Potsdam, denkmalgeschützte Rennstrecke. | page ===
+<!--AREAS: A115, AVUS, Funkturm, Zehlendorf, Dreilinden, Kleinmachnow, Potsdam, Nuthetal -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A115 (AVUS)</h1><p class="lead">Die A115 verbindet den Berliner Stadtring am Dreieck Funkturm mit dem Berliner Ring am Dreieck Nuthetal. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ehemalige Rennstrecke AVUS</h2>
+<p>Die A115 verbindet den Berliner Stadtring am Dreieck Funkturm (A100) im Südwesten der Stadt mit dem Berliner Ring (A10) am Dreieck Nuthetal und verläuft teilweise auf der Trasse der alten Berliner Rennstrecke AVUS, die als Gesamtanlage unter Denkmalschutz steht. Die AVUS wurde bereits 1921 als erste reine Autostraße Deutschlands für den öffentlichen Verkehr freigegeben. Zwei Bauwerke sind erhalten: die 1937 fertiggestellte Tribüne am Nordende und das frühere Verwaltungsgebäude, das 1977 zu einer Raststätte umgebaut wurde. Nennen Sie uns bei einer Panne Richtung und Anschlussstelle. Mehr auf <a href="autobahn-a100.html">Panne auf der A100</a>, <a href="autobahn-a10.html">Berliner Ring A10</a> und <a href="stadt-potsdam.html">Abschleppdienst Potsdam</a>.</p>
+<h2>Transitstrecke und Grenzübergang Dreilinden</h2>
+<p>Während der Teilung war die heutige Autobahn der Anfang einer Transitstrecke zwischen West-Berlin und Westdeutschland. Ursprünglich verlief die Autobahn stadtauswärts ab der Stadtgrenze westlich ihres heutigen Verlaufs, die alliierte Kontrolle fand nach drei Kilometern durch DDR-Gebiet am Kontrollpunkt Dreilinden statt. Weil die Strecke mehrfach zwischen West-Berliner und DDR-Gebiet wechselte, verlegte die DDR den Abschnitt 1969 ostwärts, sodass die Strecke ab dem Kreuz Zehlendorf nur noch auf DDR-Gebiet verlief. Von 1975 bis zur Wiedervereinigung trug der West-Berliner Abschnitt die Bezeichnung A15, die seit 1990 für die Spreewaldautobahn verwendet wird. Beim Zollamt Dreilinden verlässt die A115 das Stadtgebiet. Auf dem Mittelstreifen an der Stadtgrenze steht die Bronzeplastik „Berliner Bär“ von Renée Sintenis. Dort ist die Landesgrenze Berlin/Brandenburg eine gute Landmarke für die Standortangabe.</p>
+<h2>Nach 1990: Ausbau und Erneuerung</h2>
+<p>Nach 1990 wurde die Autobahn im brandenburgischen Abschnitt erneuert und auf drei Fahrstreifen je Richtung ausgebaut, dabei entstand die neue Anschlussstelle Kleinmachnow, die Anschlussstelle Potsdam-Babelsberg wurde Ende der 1990er Jahre nach Süden auf Höhe der Nutheschnellstraße verlegt. Das Dreieck Nuthetal wurde 2006 bis 2009 für 34 Millionen Euro umgebaut. In den Jahren 2011 und 2012 erfolgte die grundhafte Erneuerung des Berliner Abschnitts zwischen der Anschlussstelle Spanische Allee und dem Dreieck Funkturm, dafür wurden 28 Millionen Euro investiert. Ende der 2010er Jahre wurde die zwischen 1938 und 1941 gebaute Brücke des Kreuzes Zehlendorf ersetzt, der Neubau berücksichtigt einen geplanten sechsstreifigen Ausbau. Wenn Sie in einem Baustellenbereich liegen bleiben, sagen Sie uns, ob eine Spur gesperrt ist. Mehr auf <a href="stadt-berlin-steglitz-zehlendorf.html">Berlin Steglitz-Zehlendorf</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A115</h2>
+<ul class="ticks">
+<li>Richtung: Berlin/Funkturm oder Potsdam/Nuthetal.</li>
+<li>Anschlussstelle, Kreuz Zehlendorf, Spanische Allee, Hüttenweg, Kleinmachnow.</li>
+<li>Bundesland: Berlin oder Brandenburg (Dreilinden).</li>
+<li>Raststätte oder Tribüne als Landmarke.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A115</h2>
+<details><summary>Was ist die AVUS?</summary><div>Die 1921 eröffnete erste reine Autostraße Deutschlands und Rennstrecke, deren Trasse teilweise die A115 nutzt.</div></details>
+<details><summary>Wo endet die A115 im Süden?</summary><div>Am Dreieck Nuthetal am Berliner Ring.</div></details>
+<details><summary>Was war der Kontrollpunkt Dreilinden?</summary><div>Ein Grenzkontrollpunkt an der Transitstrecke, die A115 verläuft heute über die frühere Grenze.</div></details>
+<details><summary>Welche Nummer trug die Strecke früher?</summary><div>Von 1975 bis zur Wiedervereinigung die A15.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a113 | Pannenhilfe auf der A113 Berlin: Zubringer Schönefeld, Flughafen BER | Panne auf der A113 vom Dreieck Neukölln zum Schönefelder Kreuz: Zubringer Schönefeld, Anbindung des Flughafens BER, Tunnel bei Rudow und Altglienicke. | page ===
+<!--AREAS: A113, Neukölln, Adlershof, Altglienicke, Rudow, Schönefeld, Flughafen BER, Waltersdorf -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A113 in Berlin</h1><p class="lead">Die A113, der Zubringer Schönefeld, verbindet den Stadtring mit dem Berliner Ring und dem Flughafen BER. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zubringer Schönefeld</h2>
+<p>Die A113 verbindet den Berliner Stadtring (A100) mit dem Berliner Ring (A10) im Südosten Berlins und bindet den Flughafen Berlin Brandenburg an die Berliner Innenstadt an. In Verkehrsmeldungen heißt sie häufig „Zubringer Schönefeld“. Sie beginnt am Dreieck Neukölln und verläuft südöstlich parallel zum Teltowkanal, bei Adlershof überquert sie ihn und schwenkt südlich in Richtung Schönefeld zum Schönefelder Kreuz ab, wo sie sich als A13 Richtung Dresden fortsetzt. Nennen Sie uns bei einer Panne Richtung und Anschlussstelle. Mehr auf <a href="stadt-berlin-neukoelln.html">Berlin-Neukölln</a>, <a href="stadt-berlin-treptow-koepenick.html">Berlin Treptow-Köpenick</a> und <a href="autobahn-a13.html">Panne auf der A13</a>.</p>
+<h2>Tunnel und Mauerstreifen</h2>
+<p>Auf dem Abschnitt mit naher Wohnbebauung liegen zwei Tunnel, die lange Unterquerung der Rudower Höhe und die kurze Unterquerung bei Altglienicke, dazu die Überquerung des Berliner Eisenbahnaußenringes zwischen Rudow und Schönefeld. Um keine weitere Schneise ins Stadtbild zu schlagen, folgt ein Großteil der Strecke dem Verlauf der ehemaligen Berliner Mauer. Bei einer Panne im Tunnel: Warnblinker, Notruf, siehe <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>.</p>
+<h2>Bau bis 2008 und der Flughafen</h2>
+<p>Der erste Abschnitt wurde am 6. Oktober 1962 in der DDR als Verbindung zwischen dem Dreieck Treptow und dem Kreuz Schönefeld eröffnet. Nach der Wiedervereinigung erhielt die Strecke die Bezeichnung A113. 1997 begann der Bau der neuen Trasse, am 14. Juli 2004 wurde der Abschnitt zwischen Dreieck Neukölln und Späthstraße eröffnet, am 1. September 2005 der Abschnitt bis zur Anschlussstelle Adlershof, am 23. Mai 2008 der bis zum Waltersdorfer Dreieck. Für den Bau wurde ab 2007 die damalige nördliche Start- und Landebahn des Flughafens Schönefeld abgerissen. Der alte Abschnitt zwischen den Dreiecken Treptow und Waltersdorf heißt seitdem A117. Am 1. September 2010 wurde die neue Flughafen-Anschlussstelle freigegeben. Wenn Sie zum Flughafen unterwegs liegen bleiben, nennen Sie uns Fahrtrichtung, Anschlussstelle und Terminal-Ziel.</p>
+<h2>Beton, Alkali-Kieselsäure-Reaktion und Asphalt</h2>
+<p>Der Berliner Teil wurde mit einer Betonfahrbahn versehen. Bereits 2009 zeigten sich zwischen den Anschlussstellen Späthstraße und Adlershof Schädigungen durch die Alkali-Kieselsäure-Reaktion („Betonkrebs“). In den Jahren 2016 bis 2018 wurde die Fahrbahn in diesem Abschnitt saniert und mit einer Asphaltdecke versehen. Zwischen dem Waltersdorfer Dreieck und dem Schönefelder Kreuz ist die Anschlussstelle Kiekebusch geplant, vor allem für Lkw-Fahrten eines Sortierzentrums. Für Ihre Standortangabe gelten Anschlussstelle und Richtung.</p>
+<h2>So nennen Sie Ihren Standort auf der A113</h2>
+<ul class="ticks">
+<li>Richtung: Neukölln/Innenstadt oder Schönefeld/Flughafen.</li>
+<li>Anschlussstelle, Dreieck Neukölln, Späthstraße, Adlershof, Waltersdorfer Dreieck, Schönefelder Kreuz.</li>
+<li>Tunnel Rudower Höhe oder Altglienicke.</li>
+<li>Flughafen-Anschlussstelle.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A113</h2>
+<details><summary>Wo beginnt und endet die A113?</summary><div>Am Dreieck Neukölln und am Schönefelder Kreuz, wo sie in die A13 übergeht.</div></details>
+<details><summary>Ist der Flughafen BER an der A113?</summary><div>Ja, seit dem 1. September 2010 gibt es eine Flughafen-Anschlussstelle.</div></details>
+<details><summary>Was ist die A117?</summary><div>Der alte Abschnitt zwischen den Dreiecken Treptow und Waltersdorf.</div></details>
+<details><summary>Wann wurde der letzte Abschnitt eröffnet?</summary><div>Am 23. Mai 2008.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a620 | Pannenhilfe auf der A620: Saarlouis, Völklingen, Saarbrücken | Panne auf der A620 vom Dreieck Saarlouis parallel zur Saar über Völklingen nach Saarbrücken: Stadtautobahn, Hochwasser, fehlende Standstreifen. | page ===
+<!--AREAS: A620, Saarlouis, Wadgassen, Völklingen, Saarbrücken, Saar, Völklinger Hütte -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A620</h1><p class="lead">Die A620 führt von Saarlouis an der Saar entlang durch Völklingen und Saarbrücken. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Stadtautobahn an der Saar</h2>
+<p>Die A620 beginnt am Dreieck Saarlouis und verläuft parallel zur Saar südlich der Innenstadt von Völklingen, anschließend durch die Landeshauptstadt Saarbrücken bis zum Dreieck Saarbrücken. Sie dient als Teilstück der Verbindung zwischen Luxemburg und Saarbrücken und weiter zur A6, als Umfahrungsstrecke für viele Ortsdurchfahrten entlang der mittleren Saar und im südöstlichen Teil als Stadtautobahn für Saarbrücken. Sie ist durchweg vierstreifig, über weite Strecken fehlen aber Standstreifen auf beiden Seiten. Bei einer Panne ohne Standstreifen: Warnblinker, Warnweste, wenn möglich bis zur nächsten Ausfahrt rollen. Nennen Sie uns Anschlussstelle und Fahrtrichtung. Mehr auf <a href="stadt-saarbruecken.html">Abschleppdienst Saarbrücken</a>, <a href="stadt-saarlouis.html">Abschleppdienst Saarlouis</a> und <a href="autobahn-a6.html">Panne auf der A6</a>.</p>
+<h2>Hochwasser: die A620 als Nebenfluss</h2>
+<p>Wegen ihres Verlaufs in der ehemals unbebauten Flussaue wird die A620 bei einem Hochwasserstand der Saar über 3,90 Meter zwischen Bismarck- und Wilhelm-Heinrich-Brücke immer wieder überflutet. Deshalb wird sie in diesem Bereich scherzhaft „Nebenfluss der Saar mit 13 Buchstaben“ genannt, gemeint ist das Wort Stadtautobahn. Bei Hochwasser oder Starkregen gilt: nicht in überflutete Abschnitte fahren, siehe <a href="ratgeber-wasserschlag-ueberschwemmung.html">Wasserschlag und Überschwemmung</a>. Zwischen den Anschlussstellen Völklingen-Geislautern und Völklingen-Zentrum ist eine gute Aussicht auf das Weltkulturerbe Völklinger Hütte möglich. Diese Sicht ist eine Landmarke für die Standortangabe.</p>
+<h2>Bau und Saarbrücker Schloss</h2>
+<p>Die Bauarbeiten wurden 1961 begonnen und 1963 fertiggestellt, die Eröffnung erfolgte am 14. Dezember 1963, bis dahin hieß sie B406. Für den Bau durch die Innenstadt von Saarbrücken an der Saar entlang wurde die vordere, jüngere Schlossmauer des Saarbrücker Schlosses abgerissen und die dahinter liegende mittelalterliche Mauer freigelegt, dadurch gewann man etwa 20 Meter Gelände. Die Alte Brücke wurde dadurch „zu kurz“, die Lücke wurde durch eine stählerne Fußgängerbrücke überspannt, im Volksmund „Flaschenhals“ genannt. Die Wilhelm-Heinrich-Brücke prägt heute den ehemaligen Neumarkt. Planungen sahen vor, die Autobahn zwischen Bismarck- und Luisenbrücke durch einen Tunnel zu führen. Nennen Sie uns bei einer Panne in Saarbrücken die Brücke und die Fahrtrichtung.</p>
+<h2>Kurve mit 80 km/h und Anschluss Ensdorf</h2>
+<p>Zwischen den Anschlussstellen Saarlouis-Lisdorf und Wadgassen zwang eine frühere Behelfsbrücke die Autobahn in eine enge Kurvenkombination mit 80 km/h, diese Schikane ist seit Februar 2007 nicht mehr vorhanden. An dieser Stelle wurde die Anschlussstelle Ensdorf mit einem Brückenneubau über die Saar zur B51 und einer Tangente zur B269 Richtung Überherrn und Frankreich Mitte 2008 fertiggestellt. Mehr auf <a href="stadt-neunkirchen-saar.html">Abschleppdienst Neunkirchen (Saar)</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A620</h2>
+<ul class="ticks">
+<li>Richtung: Saarlouis oder Saarbrücken.</li>
+<li>Anschlussstelle, Völklingen-Geislautern, Völklingen-Zentrum, Ensdorf, Wadgassen.</li>
+<li>Bismarck- oder Wilhelm-Heinrich-Brücke.</li>
+<li>Ob ein Standstreifen vorhanden ist und ob die Saar hoch steht.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A620</h2>
+<details><summary>Wo beginnt und endet die A620?</summary><div>Am Dreieck Saarlouis und am Dreieck Saarbrücken.</div></details>
+<details><summary>Warum wird die A620 überflutet?</summary><div>Sie verläuft in der ehemals unbebauten Flussaue, bei einem Saarpegel über 3,90 Meter wird sie im Bereich zwischen Bismarck- und Wilhelm-Heinrich-Brücke überflutet.</div></details>
+<details><summary>Gibt es Standstreifen?</summary><div>Über weite Strecken nicht.</div></details>
+<details><summary>Wann wurde sie eröffnet?</summary><div>Am 14. Dezember 1963.</div></details>
+</div></section>
+@@CTA@@

@@ -223,3 +223,7 @@ autobahn-a23	A23 Hamburg bis Heide	A23
 autobahn-a25	A25 Hamburg bis Geesthacht	A25	
 autobahn-a36	A36 Braunschweig bis Bernburg	A36	
 autobahn-a98	A98 Weil am Rhein bis Stockach	A98	
+autobahn-a111	A111 Berlin Zubringer Oranienburg	A111	
+autobahn-a115	A115 Berlin AVUS	A115	
+autobahn-a113	A113 Berlin Zubringer Schönefeld	A113	
+autobahn-a620	A620 Saarlouis bis Saarbrücken	A620	
