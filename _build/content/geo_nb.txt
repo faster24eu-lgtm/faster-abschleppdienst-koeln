@@ -80,3 +80,8 @@ stadt-witten	bochum,dortmund,hagen,essen,herne,wuppertal,gelsenkirchen,recklingh
 stadt-hanau	frankfurt,offenbach,darmstadt,aschaffenburg,fulda,giessen,wiesbaden,mainz	a3
 stadt-schwerin	rostock,luebeck,hamburg,kiel,berlin,wismar,potsdam,bremen	
 stadt-paderborn	bielefeld,guetersloh,hamm,kassel,muenster,detmold,hoexter,soest	a2
+stadt-kaiserslautern	saarbruecken,mannheim,ludwigshafen,mainz,worms,trier,speyer,neustadt-an-der-weinstrasse	a6
+stadt-konstanz	freiburg,stuttgart,singen,ravensburg,friedrichshafen,ulm,villingen-schwenningen,tuebingen	a81
+stadt-flensburg	kiel,luebeck,schleswig,rendsburg,husum,hamburg,neumuenster,schwerin	a7
+stadt-jena	erfurt,halle,leipzig,weimar,gera,gotha,chemnitz,eisenach	a4,a9
+stadt-siegen	hagen,koblenz,bonn,giessen,wetzlar,olpe,hagen,dortmund	a45,a4

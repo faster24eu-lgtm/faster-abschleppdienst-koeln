@@ -239,3 +239,9 @@ autobahn-a44	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im
 autobahn-a40	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Ruhrschnellweg-Tunnel
 autobahn-a45	ratgeber-bremsen-versagen.html	Bremsen versagen	Gefälle im Sauerland
 autobahn-a44	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel bei Düsseldorf
+stadt-kaiserslautern	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-konstanz	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-flensburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-jena	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-siegen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-jena	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Jagdbergtunnel

@@ -104,3 +104,8 @@ stadt-paderborn	Paderborn	Nordrhein-Westfalen
 autobahn-a40	A40 Venlo bis Dortmund	A40	ab
 autobahn-a45	A45 Dortmund bis Aschaffenburg	A45	ab
 autobahn-a44	A44 Aachen bis Kassel	A44	ab
+stadt-kaiserslautern	Kaiserslautern	Rheinland-Pfalz	
+stadt-konstanz	Konstanz	Baden-Württemberg	
+stadt-flensburg	Flensburg	Schleswig-Holstein	
+stadt-jena	Jena	Thüringen	
+stadt-siegen	Siegen	Nordrhein-Westfalen	
