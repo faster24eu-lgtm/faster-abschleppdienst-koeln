@@ -380,3 +380,8 @@ autobahn-a15	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im
 autobahn-a19	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a19	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Warnowtunnel
 autobahn-a19	ratgeber-wohnmobil-gespann-panne.html	Wohnmobil und Gespann	Auf dem Weg zur Fähre
+autobahn-a23	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a25	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a36	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a98	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a98	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Herrschaftsbuck- und Bürgerwaldtunnel

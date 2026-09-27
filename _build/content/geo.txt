@@ -219,3 +219,7 @@ autobahn-a11	A11 Pomellen bis Berlin	A11
 autobahn-a12	A12 Berlin bis Frankfurt (Oder)	A12	
 autobahn-a15	A15 Spreewald bis Forst	A15	
 autobahn-a19	A19 Rostock bis Wittstock	A19	
+autobahn-a23	A23 Hamburg bis Heide	A23	
+autobahn-a25	A25 Hamburg bis Geesthacht	A25	
+autobahn-a36	A36 Braunschweig bis Bernburg	A36	
+autobahn-a98	A98 Weil am Rhein bis Stockach	A98	

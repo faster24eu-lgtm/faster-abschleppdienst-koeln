@@ -1,0 +1,111 @@
+=== autobahn-a23 | Pannenhilfe auf der A23: Hamburg, Itzehoe, Heide | Panne auf der A23 von Hamburg über Pinneberg, Elmshorn und Itzehoe nach Heide: 96 Kilometer Westküstenautobahn, Hochbrücke Hohenhörn. | page ===
+<!--AREAS: A23, Hamburg, Pinneberg, Elmshorn, Itzehoe, Schafstedt, Albersdorf, Heide, Nord-Ostsee-Kanal -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A23</h1><p class="lead">Die A23, die Westküstenautobahn, führt 96 Kilometer von Hamburg nach Heide in Holstein. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Von Hamburg-Nordwest nach Heide</h2>
+<p>Die A23 ist eine vierstreifige Autobahn von 96 Kilometern Länge zwischen Heide in Holstein und der A7 in Hamburg und wird auch Westküstenautobahn genannt. Sie beginnt am Dreieck Hamburg-Nordwest, die erste Anschlussstelle ist Eidelstedt. Kurz danach überquert sie die Grenze nach Schleswig-Holstein und durchquert Krupunder, umfährt die Innenstädte von Pinneberg und Elmshorn und führt an Lägerdorf vorbei. Es folgen die Ortsumfahrung von Itzehoe, die Querung des Nord-Ostsee-Kanals in Höhe der Gemeinde Schafstedt, Albersdorf und Heide, das südwestlich umfahren wird. Nordwestlich von Heide geht die Autobahn in die B5 über. Nennen Sie uns bei einer Panne Richtung und Anschlussstelle. Mehr auf <a href="stadt-hamburg.html">Abschleppdienst Hamburg</a>, <a href="stadt-kiel.html">Abschleppdienst Kiel</a> und <a href="autobahn-a7.html">Panne auf der A7</a>.</p>
+<h2>Hochbrücke Hohenhörn</h2>
+<p>Am 20. und 21. Mai 1989 wurde die 360 Meter lange und 56 Meter hohe Hochbrücke Hohenhörn über den Nord-Ostsee-Kanal eingeweiht. Der Bau des 45 Kilometer langen Abschnitts von Itzehoe nach Heide kostete 402 Millionen Mark, auf der Strecke führt die Autobahn über insgesamt 70 Brücken. Bei Wind an der Küste wirkt Seitenwind stärker, besonders auf Brücken, mit Anhänger oder Wohnmobil siehe <a href="ratgeber-wohnmobil-gespann-panne.html">Wohnmobil und Gespann</a>. Nennen Sie uns bei einer Panne die Brücke, die Anschlussstelle und die Fahrtrichtung.</p>
+<h2>Von der B5 zur Autobahn</h2>
+<p>Der erste Abschnitt wurde 1964 von der heutigen Anschlussstelle Hamburg-Stellingen als Umgehung von Hamburg-Eidelstedt bis zur Landesgrenze freigegeben, gleichzeitig mit dem Neubau der B4 Richtung Neumünster und Kiel, heute Teilstück der A7. Es folgten die Umgehung von Pinneberg 1968, die Strecke bis Elmshorn 1975, bis Itzehoe 1981 und der letzte Abschnitt Itzehoe–Heide 1990. Seit 1975 wird die Strecke als A23 bezeichnet, in Halstenbek bis zum kreuzungsfreien Ausbau 1986 noch als B5. Zwischen Itzehoe-Süd und Itzehoe-Mitte wurde die B5/B204 ab 2006 vierstreifig ausgebaut und am 11. Juni 2016 als A23 freigegeben, die von 1965 bis 1967 gebaute Störbrücke war nur noch bis 2013 zugelassen. Mehr auf <a href="autobahn-a20.html">Panne auf der A20</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A23</h2>
+<ul class="ticks">
+<li>Richtung: Hamburg oder Heide.</li>
+<li>Anschlussstelle, Dreieck Hamburg-Nordwest, Pinneberg, Elmshorn, Itzehoe, Schenefeld, Heide.</li>
+<li>Hochbrücke Hohenhörn oder Nord-Ostsee-Kanal-Querung.</li>
+<li>Bundesland: Hamburg oder Schleswig-Holstein.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A23</h2>
+<details><summary>Wie lang ist die A23?</summary><div>96 Kilometer, von Hamburg bis Heide (Holstein).</div></details>
+<details><summary>Wie hoch ist die Hochbrücke Hohenhörn?</summary><div>56 Meter, bei 360 Metern Länge, sie führt über den Nord-Ostsee-Kanal.</div></details>
+<details><summary>Wo geht die A23 in die B5 über?</summary><div>Nordwestlich von Heide.</div></details>
+<details><summary>Wann wurde die A23 fertiggestellt?</summary><div>Der letzte Abschnitt Itzehoe–Heide 1990, die Lücke bei Itzehoe am 11. Juni 2016.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a25 | Pannenhilfe auf der A25: Marschenautobahn Hamburg-Südost bis Geesthacht | Panne auf der A25 vom Dreieck Hamburg-Südost über Bergedorf nach Geesthacht: Marschenautobahn durch die Vier- und Marschlande, Planung der Verlängerung. | page ===
+<!--AREAS: A25, Hamburg-Südost, Bergedorf, Vier- und Marschlande, Geesthacht, Hohenhorn -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A25</h1><p class="lead">Die A25, die Marschenautobahn, führt vom Dreieck Hamburg-Südost über Bergedorf nach Geesthacht. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Marschenautobahn</h2>
+<p>Die A25 führt vom Dreieck Hamburg-Südost über Bergedorf nach Geesthacht. Sie wird Marschenautobahn genannt, weil sie ausschließlich durch das flache Marschland der Hamburger Vier- und Marschlande sowie die Marsch zweier Gemeinden im Kreis Herzogtum Lauenburg führt. Erste Überlegungen zum Bau einer Marschenstraße gab es 1925 in der Hamburger Bürgerschaft, in den 1960er Jahren wurden sie wieder aufgegriffen, als die weiter nördlich verlaufende B5 an ihre Kapazitätsgrenzen stieß. Die Bauarbeiten begannen 1978, die Fertigstellung war für 1981 vorgesehen. Nennen Sie uns bei einer Panne Anschlussstelle und Fahrtrichtung. Mehr auf <a href="stadt-hamburg.html">Abschleppdienst Hamburg</a> und <a href="autobahn-a24.html">Panne auf der A24</a>.</p>
+<h2>Ursprünglich als lange Autobahn geplant</h2>
+<p>Ursprünglich sollte als A25 eine Autobahn von Hamburg über Lauenburg/Elbe, Dannenberg (Elbe) und Klietz nach Wustermark westlich von Berlin bis zur A10 gebaut werden. Auf Hamburger Gebiet bestanden Planungen für eine Weiterführung über den Horner Kreisel (A24), die City Nord und den Hamburger Flughafen bis zur A7 in Höhe Norderstedt, die „Osttangente“. Die Pläne wurden aufgegeben, entlang der Trasse entstanden Kleingärten, das Pergolenviertel und die Ortsumgehung Fuhlsbüttel als richtungsgetrennte zweistreifige Bundesstraße. Obwohl die Autobahn überwiegend in West-Ost-Richtung verläuft, trägt sie eine ungerade Nummer, der Grund könnte der geplante Verlauf des südöstlichen Teilstücks bis zur A10 sein.</p>
+<h2>Geplant: Verlängerung bis Hohenhorn</h2>
+<p>Im Zuge der Ortsumgehung Geesthacht ist geplant, die A25 bis zur B404 bei Hohenhorn zu verlängern und Richtung Lauenburg/Elbe als zweistreifige B5 weiterzuführen. Dabei soll sie zwischen ihrem heutigen Autobahnende und der künftigen Anschlussstelle Geesthacht-Nord den Geesthang über eine 530 Meter lange Straßenbrücke mit Einschnitt überqueren, um 30 Meter Höhenunterschied zu überwinden. Das Projekt kostet mit Stand 2024 188,3 Millionen Euro und ist in der Region umstritten. Es ändert nichts an Ihrer Standortangabe, nennen Sie uns Anschlussstelle und Richtung, bei Autobahnende die Frage, ob Sie noch auf der Autobahn stehen. Mehr auf <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A25</h2>
+<ul class="ticks">
+<li>Richtung: Hamburg oder Geesthacht.</li>
+<li>Anschlussstelle, Dreieck Hamburg-Südost, Bergedorf, Geesthacht.</li>
+<li>Bundesland: Hamburg oder Schleswig-Holstein.</li>
+<li>Am Autobahnende: A25 oder Landstraße.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A25</h2>
+<details><summary>Warum heißt die A25 Marschenautobahn?</summary><div>Weil sie ausschließlich durch flaches Marschland der Vier- und Marschlande und zweier Gemeinden im Kreis Herzogtum Lauenburg führt.</div></details>
+<details><summary>Wo beginnt und endet die A25?</summary><div>Am Dreieck Hamburg-Südost und bei Geesthacht.</div></details>
+<details><summary>Warum hat die A25 eine ungerade Nummer?</summary><div>Der geplante Verlauf des südöstlichen Teilstücks bis zur A10 könnte der Grund sein.</div></details>
+<details><summary>Ist eine Verlängerung geplant?</summary><div>Ja, bis zur B404 bei Hohenhorn, das Projekt ist regional umstritten.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a36 | Pannenhilfe auf der A36: Nordharzautobahn Braunschweig bis Bernburg | Panne auf der A36 von Braunschweig über Wolfenbüttel, Goslar-Vienenburg, Wernigerode und Quedlinburg nach Bernburg: 119 Kilometer, Dreieck Nordharz. | page ===
+<!--AREAS: A36, Braunschweig, Wolfenbüttel, Vienenburg, Goslar, Wernigerode, Quedlinburg, Aschersleben, Bernburg -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A36</h1><p class="lead">Die A36, die Nordharzautobahn, führt 119 Kilometer von Braunschweig nach Bernburg (Saale). Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Nordharzautobahn seit 2019</h2>
+<p>Die A36 verläuft von Braunschweig in Niedersachsen nach Bernburg (Saale) in Sachsen-Anhalt. Sie entstand am 1. Januar 2019 aus der A395 (Braunschweig–Vienenburg) und der B6 (Vienenburg–Bernburg). An der Strecke liegen unter anderem die UNESCO-Weltkulturerbestätten Goslar und Quedlinburg sowie die Mittelstädte Wolfenbüttel, Wernigerode und Aschersleben, in Reichweite Salzgitter, Bad Harzburg, Halberstadt und Staßfurt. Alte Schilder und Karten nennen noch A395 und B6. Nennen Sie uns bei einer Panne die A36 mit Anschlussstelle. Mehr auf <a href="stadt-braunschweig.html">Abschleppdienst Braunschweig</a>, <a href="stadt-salzgitter.html">Abschleppdienst Salzgitter</a> und <a href="autobahn-a39.html">Panne auf der A39</a>.</p>
+<h2>Braunschweig bis Vienenburg</h2>
+<p>Die A36 beginnt am Kreuz Braunschweig-Süd im Stadtteil Heidberg-Melverode, ist aber nicht direkt an das Kreuz mit der A39 angeschlossen, sondern beginnt erst etwa 200 Meter danach hinter der Halbanschlussstelle Braunschweig-Melverode. Dazwischen ist die Straße vierstreifig mit getrennten Richtungsfahrbahnen, aber nicht als Autobahn beschildert, weil es Ein- und Ausfahrten zu einem großen Autohaus samt Tankstelle gibt und auch Fahrzeuge ohne Autobahnzulassung Melverode und Stöckheim erreichen sollen. Bis zur Anschlussstelle Braunschweig-Heidberg gibt es keinen Seitenstreifen. Nach dem Stadtgebiet zweigt die B79 an der Anschlussstelle Wolfenbüttel-Nord nach Wolfenbüttel ab, die nur als Ausfahrt aus Richtung Braunschweig beziehungsweise als Zufahrt Richtung Braunschweig angeschlossen ist. Die A36 verläuft im Bogen um Wolfenbüttel, neben Salzgitter-Thiede und Wolfenbüttel-Fümmelse, von wo aus die Hochöfen der Salzgitter AG bei Drütte zu sehen sind. Bei Vienenburg führt sie östlich an Wiedelah vorbei. Mehr auf <a href="stadt-wolfsburg.html">Abschleppdienst Wolfsburg</a>.</p>
+<h2>Dreieck Nordharz und Sachsen-Anhalt</h2>
+<p>Das Dreieck Nordharz war zwischen dem 2. Oktober 2001 und dem 31. Dezember 2018 das Ende der A395 und der Beginn der B6-Neubaustrecke nach Osten, von dort zweigt nach Südwesten die A369 ab, die Bad Harzburg über die B4 und Goslar über die B6 an die A36 anbindet. Hinter der Landesgrenze umkurvt die Autobahn den Schimmerwald und führt bei Ilsenburg vorbei, wo der Blick auf den Brocken besonders markant ist, deshalb heißt die PWC-Anlage „Brockenblick“. Es folgen Wernigerode, Blankenburg mit der Burg Regenstein, Quedlinburg, der Bodeübergang und Aschersleben, bis die A36 nach 119 Kilometern westlich von Bernburg die A14 erreicht. Bei Nebel und Wind im Harzvorland nennen Sie uns die Sichtverhältnisse.</p>
+<h2>Schmalster Querschnitt einer Autobahn</h2>
+<p>Der Regelquerschnitt im vierstreifigen Abschnitt östlich des Dreiecks Vienenburg beträgt 26 Meter, mit zwei Fahrstreifen je Richtung à 3,50 Meter, einem drei Meter breiten Mittelstreifen und einem zwei Meter breiten Standstreifen. Dieser Querschnitt war zu Baubeginn als kleinstmöglicher Autobahnquerschnitt in Deutschland zugelassen, seit 2008 müssen Straßen den Regelquerschnitt 28 erfüllen, um als Autobahn ausgezeichnet zu werden. Das heißt: Der Platz neben der Fahrbahn ist knapp. Warnblinker, Warnweste, hinter die Schutzplanke, siehe <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A36</h2>
+<ul class="ticks">
+<li>Richtung: Braunschweig oder Bernburg.</li>
+<li>Bundesland: Niedersachsen oder Sachsen-Anhalt.</li>
+<li>Anschlussstelle, Dreieck Nordharz, Wernigerode, Quedlinburg.</li>
+<li>PWC-Anlage „Brockenblick“ als Landmarke.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A36</h2>
+<details><summary>Seit wann gibt es die A36?</summary><div>Seit dem 1. Januar 2019, entstanden aus der A395 und der B6.</div></details>
+<details><summary>Wie lang ist die A36?</summary><div>119 Kilometer, von Braunschweig bis westlich von Bernburg an der A14.</div></details>
+<details><summary>Wo zweigt die A369 ab?</summary><div>Am Dreieck Nordharz, sie bindet Bad Harzburg und Goslar an.</div></details>
+<details><summary>Welche Städte liegen an der A36?</summary><div>Braunschweig, Wolfenbüttel, Wernigerode, Quedlinburg und Aschersleben.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a98 | Pannenhilfe auf der A98: Lörrach, Rheinfelden, Hochrhein | Panne auf der A98 im Süden Baden-Württembergs: Wiesentalbrücke bei Lörrach, Herrschaftsbucktunnel, Abschnitte Murg–Hauenstein und Tiengen–Lauchringen. | page ===
+<!--AREAS: A98, Weil am Rhein, Lörrach, Rheinfelden, Murg, Hauenstein, Waldshut-Tiengen, Lauchringen, Stockach -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A98</h1><p class="lead">Die A98 besteht im äußersten Süden Baden-Württembergs aus vier Teilstücken mit zusammen 47 Kilometern. Nennen Sie uns Teilstück, Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Vier Teilstücke am Hochrhein</h2>
+<p>Die A98 ist in vier Teilstücken mit einer Länge von insgesamt 47 Kilometern fertiggestellt: zwischen dem Dreieck Weil am Rhein und Rheinfelden-Ost, zwischen Murg und Hauenstein, zwischen Waldshut-Tiengen und Lauchringen sowie zwischen dem Kreuz Hegau und der Anschlussstelle Stockach-Ost. Die restlichen Teilstücke zwischen Rheinfelden und Tiengen sind im Bau oder in Planung. Eine ehemals geplante Fortsetzung bis an die A8 bei Irschenberg wird nicht mehr verfolgt, ein ursprünglich vorgesehenes Teilstück südlich von Kempten wurde als A980 nummeriert. Nennen Sie uns deshalb zuerst das Teilstück. Mehr auf <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a> und <a href="stadt-freiburg.html">Abschleppdienst Freiburg</a>.</p>
+<h2>Weil am Rhein bis Rheinfelden-Ost</h2>
+<p>Der erste Abschnitt beginnt am Dreieck Weil am Rhein unmittelbar an der französischen Grenze, wo sie von der A5 abzweigt, führt in leichter Steigung zum Luckepass und hinab nach Lörrach, wo sie auf der 1.201 Meter langen Wiesentalbrücke, der drittlängsten Straßenbrücke in Baden-Württemberg, die Kreisstadt nordöstlich umfährt. Dieses etwa 16 Kilometer lange Teilstück dient zusammen mit der A861 als nördliche Umfahrung des Großraums Basel und als Zubringer von Lörrach. Der Weiterbau zum Dreieck Hochrhein wurde 2002 zunächst einbahnig fertiggestellt, im Dezember 2010 kam die zweite Fahrbahn dazu. Der 2,5 Kilometer lange Abschnitt bis zur Anschlussstelle Rheinfelden-Ost bei Karsau wurde ab 2012 errichtet, Kernstück ist der Herrschaftsbucktunnel, die Freigabe erfolgte am 20. Dezember 2021. Bei einer Panne im Tunnel: <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>.</p>
+<h2>Murg bis Hauenstein: 2+1-System</h2>
+<p>Der etwa neun Kilometer lange Abschnitt zwischen Murg und Laufenburg-Hauenstein wurde am 8. Oktober 2012 eröffnet und verfügt nur über eine Fahrbahn, die Fahrspuren sind außer bei Tunneln und Brücken größtenteils im alternierenden 2+1-System angelegt. Die Straße führt durch zwei Tunnel, den 280 Meter langen Tunnel Groß-Ehrstädt und den 395 Meter langen Rappensteintunnel. Die Abfahrt Hauenstein zur B34-Umfahrung Albbruck/Dogern ist als Provisorium eingerichtet und wegen Kurven und Gefälle unfallträchtig. Der Abschnitt ist als Kraftfahrstraße beschildert. Bei Gegenverkehr auf einer Fahrbahn gilt besondere Vorsicht: Warnblinker, weit vom Fahrzeug weg.</p>
+<h2>Tiengen bis Lauchringen und Stockach</h2>
+<p>Der dritte Abschnitt wurde in zwei Etappen 1991 und 1997 freigegeben und hat ebenfalls nur eine Fahrbahn. Beginnend an der Anschlussstelle Tiengen-West wird die Wutach überquert und Tiengen südlich im Bürgerwaldtunnel umfahren, mit 1.435 Metern der längste Tunnel der Autobahn, danach folgt der Anschluss Tiengen-Ost und der 160 Meter lange Heidenäckertunnel auf der nördlichen Umfahrung von Lauchringen. Die Fortführung nach Geißlingen ist als neue B34 ausgeführt und seit dem 24. November 2021 in Betrieb. Im Jahr 2010 wurde der Abschnitt auf drei Fahrstreifen (2+1) erweitert. Das vierte Teilstück liegt zwischen dem Kreuz Hegau und Stockach-Ost. Nennen Sie uns Teilstück, Tunnel und Fahrtrichtung.</p>
+<h2>So nennen Sie Ihren Standort auf der A98</h2>
+<ul class="ticks">
+<li>Teilstück: Weil–Rheinfelden, Murg–Hauenstein, Tiengen–Lauchringen oder Hegau–Stockach.</li>
+<li>Fahrtrichtung, Anschlussstelle, Tunnel oder Wiesentalbrücke.</li>
+<li>Ob Sie auf einer einbahnigen Strecke mit Gegenverkehr stehen.</li>
+<li>Grenznähe: Schweiz, Frankreich.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A98</h2>
+<details><summary>Ist die A98 durchgehend gebaut?</summary><div>Nein, vier Teilstücke mit zusammen 47 Kilometern sind fertig, dazwischen sind Abschnitte im Bau oder in Planung.</div></details>
+<details><summary>Wie lang ist die Wiesentalbrücke?</summary><div>1.201 Meter, die drittlängste Straßenbrücke Baden-Württembergs.</div></details>
+<details><summary>Welcher Tunnel ist der längste?</summary><div>Der Bürgerwaldtunnel bei Tiengen mit 1.435 Metern.</div></details>
+<details><summary>Was bedeutet 2+1-System?</summary><div>Auf einer Fahrbahn wechseln sich Abschnitte mit zwei und einem Fahrstreifen je Richtung ab.</div></details>
+</div></section>
+@@CTA@@
