@@ -3,13 +3,17 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Regensburg</p><h1>Abschleppdienst Regensburg</h1><p class="lead">Regensburg liegt am nördlichsten Punkt der Donau, mit einer mittelalterlichen Altstadt und einem Autobahnkreuz. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Regionalzentrum der Oberpfalz</h2>
-<p>Regensburg liegt in Ostbayern und ist Sitz der Verwaltung des Bezirks Oberpfalz und der Regierung der Oberpfalz. Die kreisfreie Stadt ist eines der drei bayerischen Regionalzentren und hat 151.517 Einwohner (Stand 31. Dezember 2025). Sie liegt am nördlichsten Punkt der aus Süden strömenden Donau, die nach der Einmündung der Naab vom West-Ost-Höhenzug der Winzerer Höhen gezwungen wird, ihren Lauf nach Osten zu ändern. Für die Standortangabe heißt das: Die Donau teilt das Stadtgebiet, und die Brücken sind die einzigen Übergänge. Sagen Sie uns, ob Sie nördlich oder südlich der Donau stehen.</p>
+<p>Regensburg liegt in Ostbayern. Die Stadt liegt am nördlichsten Punkt der aus Süden strömenden Donau, die nach der Einmündung der Naab vom West-Ost-Höhenzug der Winzerer Höhen gezwungen wird, ihren Lauf nach Osten zu ändern. Für die Standortangabe heißt das: Die Donau teilt das Stadtgebiet, und die Brücken sind die einzigen Übergänge. Sagen Sie uns, ob Sie nördlich oder südlich der Donau stehen.</p>
 <h2>Altstadt, Steinerne Brücke und Stadtamhof</h2>
-<p>Die romanische und gotische Architektur des Mittelalters bestimmt noch heute das Gesicht der Altstadt. Die Steinerne Brücke wurde von 1135 bis 1146 gebaut und ist gemeinsam mit dem Dom, mit dessen Bau vermutlich um 1273 begonnen wurde, das Wahrzeichen der Stadt. Der nördliche Stadtteil Stadtamhof war bis 1924 eine eigenständige bayerische Kleinstadt. Nach 1970 wurde er zu einer baulichen Insel, vom Stadtgebiet getrennt durch die Donau. Wenn Sie in der Altstadt oder in Stadtamhof liegen bleiben, sind die Gassen eng und Zufahrten begrenzt. Nennen Sie uns Straße, Hausnummer und ob Sie in einer Fußgängerzone stehen.</p>
+<p>Die mittelalterliche Architektur bestimmt noch heute das Gesicht der Altstadt. Die Steinerne Brücke ist gemeinsam mit dem Dom das Wahrzeichen der Stadt. Der nördliche Stadtteil Stadtamhof liegt wie eine bauliche Insel, vom übrigen Stadtgebiet durch die Donau getrennt. Wenn Sie in der Altstadt oder in Stadtamhof liegen bleiben, sind die Gassen eng und Zufahrten begrenzt. Nennen Sie uns Straße, Hausnummer und ob Sie in einer Fußgängerzone stehen.</p>
 <h2>Kreuz Regensburg und Ostumgehung</h2>
-<p>Mit dem Autobahnkreuz Regensburg und dem Hauptbahnhof ist Regensburg ein Autobahn- und Eisenbahnknotenpunkt in Ostbayern. Bis in die 1980er Jahre mündeten alle Autobahnen um Regensburg in Bundesstraßen. Die Ostumgehung, die den Stadtnorden mit dem Stadtosten verbinden sollte, war seit den 1980er Jahren im Plan der Stadt, der ursprünglich für Oktober 2009 geplante Bau konnte erst nach einem Bürgerentscheid im März 2010 beginnen. Die Baumaßnahme wurde im November 2014 abgeschlossen und für den Verkehr freigegeben. Am Kreuz Regensburg kreuzen die A3 (Nürnberg–Passau) und die A93. Nennen Sie uns bei einer Panne dort Autobahn, Richtung und ob Sie vor oder hinter dem Kreuz stehen. Mehr zur A3 lesen Sie auf der Seite <a href="autobahn-a3.html">Panne auf der A3</a>.</p>
+<p>Mit dem Autobahnkreuz Regensburg und dem Hauptbahnhof ist Regensburg ein Autobahn- und Eisenbahnknotenpunkt in Ostbayern. Am Kreuz Regensburg kreuzen die A3 (Nürnberg–Passau) und die A93. Die Ostumgehung verbindet den Stadtnorden mit dem Stadtosten. Nennen Sie uns bei einer Panne dort Autobahn, Richtung und ob Sie vor oder hinter dem Kreuz stehen. Mehr zur A3 lesen Sie auf der Seite <a href="autobahn-a3.html">Panne auf der A3</a>.</p>
 <h2>Was wir in Regensburg tun</h2>
-<p>Sie beschreiben Standort, Fahrzeug und Problem, wir organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Regensburg fahren Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr und Standort abhängt.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Regensburg</h2>
+<p>Auf A3 oder A93: Warnblinklicht an, alle aus dem Fahrzeug und hinter die Schutzplanke, danach das Warndreieck sichern, wenn es die Verkehrslage erlaubt. In der Altstadt oder in Stadtamhof: Warnblinker an und Fahrzeug möglichst platzsparend abstellen, die Gassen sind eng. An einer Donaubrücke: nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt.</p>
+<h2>Wo es in Regensburg oft passiert</h2>
+<p>Am Kreuz Regensburg, wo A3 und A93 aufeinandertreffen, ist der Verkehr durch den Fahrstreifenwechsel dichter. In der Altstadt und in Stadtamhof mit ihren engen Gassen ist eine liegen gebliebene Panne unübersichtlicher als anderswo. An den Donaubrücken ist wenig Platz zum Ausweichen.</p>
 <h2>So nennen Sie Ihren Standort in Regensburg</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße und die Donauseite.</li>
@@ -20,10 +24,10 @@
 <p>Weitere Städte in Bayern: <a href="stadt-nuernberg.html">Nürnberg</a> und <a href="stadt-muenchen.html">München</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Regensburg</h2>
-<details><summary>Wie viele Einwohner hat Regensburg?</summary><div>151.517 am 31. Dezember 2025.</div></details>
-<details><summary>Wann wurde die Ostumgehung eröffnet?</summary><div>Im November 2014. Der Bau begann nach einem Bürgerentscheid im März 2010.</div></details>
-<details><summary>Welche Autobahnen kreuzen sich bei Regensburg?</summary><div>Am Kreuz Regensburg treffen A3 und A93 aufeinander.</div></details>
+<details><summary>Ich stehe am Kreuz Regensburg kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn, Fahrtrichtung und ob Sie vor oder hinter dem Kreuz stehen.</div></details>
 <details><summary>Ich stehe in Stadtamhof. Was sage ich?</summary><div>Stadtamhof liegt nördlich der Donau. Nennen Sie Straße und Hausnummer und ob Sie in einer engen Gasse stehen.</div></details>
+<details><summary>Können Sie mein Auto von Regensburg zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, das machen wir gern, auch nach Nürnberg oder München. Den Preis für die Strecke erfahren Sie vorab am Telefon.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Regensburg?</summary><div>Der Preis richtet sich nach Standort und Ziel und wird Ihnen am Telefon genannt, noch bevor ein Fahrzeug losfährt.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,16 +35,20 @@
 <!--AREAS: Ingolstadt, Ingolstadt-Mitte, Ingolstadt-Süd, Ingolstadt-Nord -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ingolstadt</p><h1>Abschleppdienst Ingolstadt</h1><p class="lead">Ingolstadt liegt an der Donau an der sechsspurigen A9. Die Altstadt ist von Grüngürteln und Festungsanlagen umgeben. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Zweitgrößte Stadt Oberbayerns</h2>
-<p>Ingolstadt ist eine kreisfreie Großstadt an der Donau in Oberbayern mit 140.799 Einwohnern (Stand 31. Dezember 2025). Im Großraum leben rund eine halbe Million Menschen. Nach München ist Ingolstadt die zweitgrößte Stadt Oberbayerns und nach München, Nürnberg, Augsburg und Regensburg die fünftgrößte Bayerns. Das Stadtgebiet ist in zwölf Stadtbezirke und 61 Unterbezirke gegliedert, in jedem Stadtbezirk gibt es einen Bezirksausschuss mit 13 bis 17 Mitgliedern. Neben dieser politischen Gliederung gibt es eine aus der Stadtentwicklung entstandene Einteilung, die von den beiden Grüngürteln beeinflusst wird und die Altstadt von den Ortsteilen trennt. Nennen Sie uns bei einer Panne den Stadtteil und die Straße.</p>
+<h2>Großstadt in Oberbayern</h2>
+<p>Ingolstadt ist eine kreisfreie Großstadt an der Donau in Oberbayern. Das Stadtgebiet ist in zwölf Stadtbezirke gegliedert. Neben dieser Gliederung gibt es eine aus der Stadtentwicklung entstandene Einteilung, die von den beiden Grüngürteln beeinflusst wird und die Altstadt von den Ortsteilen trennt. Nennen Sie uns bei einer Panne den Stadtteil und die Straße.</p>
 <h2>A9: die wichtigste Straßenanbindung</h2>
 <p>Die bedeutsamste Straßenanbindung von Ingolstadt ist die sechsspurig ausgebaute A9. Die Stadt ist an diese durch die Anschlussstellen Ingolstadt Süd (frühere Bezeichnung Auwaldsee) und Ingolstadt Nord/Ost angebunden. Die A9 überquert im Stadtgebiet die Donau und führt dann durch die flache Donauniederung ins hügelige Alpenvorland. Wenn Sie hier liegen bleiben, sagen Sie uns Fahrtrichtung und Anschlussstelle. Mehr zur A9 lesen Sie auf der Seite <a href="autobahn-a9.html">Panne auf der A9</a>.</p>
 <h2>Glacis, Festungsanlage und Brückenkopf</h2>
-<p>Von der klassizistischen Festungsanlage des 19. Jahrhunderts sind große Teile erhalten, darunter die Bauten am sogenannten Brückenkopf, dem Reduit Tilly und den Türmen Baur und Triva, an deren Gestaltung Leo von Klenze mitwirkte. Am prägendsten unter den Grünflächen ist das Glacis, das Vorfeld des ehemaligen Festungsgürtels rund um die Innenstadt, heute der innere Grüngürtel. Für Sie bedeutet das: Die Zufahrten in die Innenstadt sind an wenigen Stellen gebündelt, die Straßen in der Altstadt eng. Nennen Sie uns die Zufahrt oder das Tor, über das Sie in die Stadt gefahren sind.</p>
-<h2>Donauufer und Stadtfeste</h2>
-<p>1992 fand in Ingolstadt die Landesgartenschau statt, die zur Entstehung des Klenzeparks und zur Renovierung der Festungsanlagen am Brückenkopf führte. 2006 feierte die Stadt ihr 1200-jähriges Jubiläum. An Parks und am Donauufer gibt es Parkplätze ohne Hausnummer. Nennen Sie uns dann den Namen des Parks, des Parkplatzes und die Straße.</p>
+<p>Von der historischen Festungsanlage sind große Teile erhalten, darunter die Bauten am sogenannten Brückenkopf. Am prägendsten unter den Grünflächen ist das Glacis, das Vorfeld des ehemaligen Festungsgürtels rund um die Innenstadt, heute der innere Grüngürtel. Für Sie bedeutet das: Die Zufahrten in die Innenstadt sind an wenigen Stellen gebündelt, die Straßen in der Altstadt eng. Nennen Sie uns die Zufahrt oder das Tor, über das Sie in die Stadt gefahren sind.</p>
+<h2>Donauufer und Parks</h2>
+<p>Am Donauufer und in Parks wie dem Klenzepark gibt es Parkplätze ohne Hausnummer. Nennen Sie uns dann den Namen des Parks, des Parkplatzes und die Straße.</p>
 <h2>Was wir in Ingolstadt tun</h2>
-<p>Wir nehmen Ihren Anruf oder Ihre WhatsApp entgegen und organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Ingolstadt fahren Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr und Standort abhängt.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Ingolstadt</h2>
+<p>Auf der A9: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. In der Altstadt innerhalb des Glacis: Warnblinker an und Fahrzeug möglichst platzsparend abstellen, die Zufahrten sind gebündelt und eng. Am Donauufer oder im Park: Warnblinker an und nicht auf Rad- oder Fußwegen stehen bleiben.</p>
+<h2>Wo es in Ingolstadt oft passiert</h2>
+<p>An den Anschlussstellen Ingolstadt Süd und Nord/Ost der A9 wird es durch den Ein- und Ausfädelverkehr eng. In der Altstadt innerhalb des Glacis sind die wenigen gebündelten Zufahrten bei einer Panne schnell blockiert. Am Donauufer bei Parks und Veranstaltungen ist zu bestimmten Zeiten mit mehr Fußgänger- und Radverkehr zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Ingolstadt</h2>
 <ul class="ticks">
 <li>Stadtbezirk oder Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -51,10 +59,10 @@
 <p>Weitere Städte in der Nähe: <a href="stadt-muenchen.html">München</a> und <a href="stadt-nuernberg.html">Nürnberg</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Ingolstadt</h2>
-<details><summary>Wie viele Stadtbezirke hat Ingolstadt?</summary><div>Zwölf Stadtbezirke und 61 Unterbezirke.</div></details>
-<details><summary>Welche Anschlussstellen hat die A9 bei Ingolstadt?</summary><div>Ingolstadt Süd (früher Auwaldsee) und Ingolstadt Nord/Ost.</div></details>
+<details><summary>Ich stehe auf der A9 an der Anschlussstelle Ingolstadt Süd. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und die Anschlussstelle.</div></details>
 <details><summary>Was ist das Glacis?</summary><div>Das Vorfeld des ehemaligen Festungsgürtels rund um die Innenstadt, heute der innere Grüngürtel.</div></details>
-<details><summary>Wie groß ist Ingolstadt?</summary><div>140.799 Einwohner am 31. Dezember 2025, im Großraum rund eine halbe Million.</div></details>
+<details><summary>Können Sie mein Auto von Ingolstadt zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Ingolstadt liegt oder etwa in München oder Nürnberg.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Ingolstadt?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
@@ -63,15 +71,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Würzburg</p><h1>Abschleppdienst Würzburg</h1><p class="lead">Würzburg liegt am Main und ist ein Verkehrsknoten aus A3, A7 und A81. Sagen Sie uns, auf welcher Mainseite Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Stadt am Main in Unterfranken</h2>
-<p>Würzburg ist eine kreisfreie Stadt in Bayern im Bezirk Unterfranken, Sitz der Regierung von Unterfranken, Universitätsstandort und seit 742 Sitz des gleichnamigen Bistums. Das Stadtgebiet ist in 13 Stadtbezirke eingeteilt. Bis zur Aufhebung der Festungseigenschaft für das rechtsmainische Würzburg am 26. September 1856 und linksmainisch 1867 bestand das bewohnte Stadtgebiet im Wesentlichen aus der Altstadt und den Vorstädten. Für Ihre Standortangabe ist die Mainseite wichtig: Die Festung liegt linksmainisch, die Altstadt rechtsmainisch. Nennen Sie uns außerdem Stadtteil und Straße.</p>
+<p>Würzburg ist eine kreisfreie Stadt in Bayern im Bezirk Unterfranken. Das Stadtgebiet ist in 13 Stadtbezirke eingeteilt. Für Ihre Standortangabe ist die Mainseite wichtig: Die Festung liegt linksmainisch, die Altstadt rechtsmainisch. Nennen Sie uns außerdem Stadtteil und Straße.</p>
 <h2>Fünf Mainbrücken</h2>
-<p>Die Brücke der Deutschen Einheit, auch Talavera-Brücke genannt nach dem Volksfest- und Parkplatz auf der linken Mainseite, ist die jüngste Brücke und wurde am 3. Oktober 1992 eingeweiht. Die Schrägseilbrücke überquert den Main und ein Hafenbecken. Die Konrad-Adenauer-Brücke ist die südlichste der vier Straßenbrücken, gebaut von 1965 bis 1967. Die Ludwigsbrücke von 1895 heißt wegen der vier Löwenstatuen an den Auffahrten Löwenbrücke. Die Laurentiusbrücke, bekannt als Zeller Brücke, verbindet den neuen Hafen mit Zell am Main. Dazu kommt die Alte Mainbrücke. Wenn Ihr Fahrzeug an einer Brücke liegen bleibt, sagen Sie uns den Namen und die Fahrtrichtung. Die Stadt hat verkehrliche Schwachstellen: Auf der Bundesstraße 19 kommt es laut Wikipedia zu erheblichen Belastungen, und die geplante B26n von der A3 über Karlstadt und Arnstein bis zur A7 steht noch auf der Warteliste.</p>
+<p>Die Brücke der Deutschen Einheit, auch Talavera-Brücke genannt nach dem Volksfest- und Parkplatz auf der linken Mainseite, ist eine Schrägseilbrücke über den Main und ein Hafenbecken. Die Konrad-Adenauer-Brücke ist die südlichste der vier Straßenbrücken. Die Ludwigsbrücke heißt wegen der Löwenstatuen an den Auffahrten Löwenbrücke. Die Laurentiusbrücke, bekannt als Zeller Brücke, verbindet den neuen Hafen mit Zell am Main. Dazu kommt die Alte Mainbrücke. Wenn Ihr Fahrzeug an einer Brücke liegen bleibt, sagen Sie uns den Namen und die Fahrtrichtung. Auf der Bundesstraße 19 kommt es zu erheblichen Belastungen, eine geplante Entlastungsstraße von der A3 über Karlstadt und Arnstein bis zur A7 steht noch auf der Warteliste.</p>
 <h2>A3, A7 und A81 im Nordosten und Süden</h2>
-<p>Der Anschluss der Stadt an die Autobahnen erfolgte zwischen 1960 und 1980. Am Dreieck Würzburg-West zweigt die A81 von der A3 nach Süden ab. Danach geht es in einer Gefällestrecke zum Maintal hinab, im Stadtteil Heidingsfeld wird ein Seitental auf einer hohen Talbrücke überquert, und es ergibt sich ein Panorama auf Würzburg. Am Stadtteil Heuchelhof vorbei führt die A3 durch den Katzenbergtunnel, der beim sechsstreifigen Ausbau vorrangig als Lärmschutz errichtet wurde. Bei Randersacker folgt die vierte Mainquerung, am Kreuz Biebelried kreuzt die A7. Bei einer Panne im Tunnel lesen Sie <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>. Zur A3 auf der Seite <a href="autobahn-a3.html">Panne auf der A3</a>, zur A81 auf <a href="autobahn-a81.html">Panne auf der A81</a>.</p>
+<p>Am Dreieck Würzburg-West zweigt die A81 von der A3 nach Süden ab. Danach geht es in einer Gefällestrecke zum Maintal hinab, im Stadtteil Heidingsfeld wird ein Seitental auf einer hohen Talbrücke überquert, und es ergibt sich ein Panorama auf Würzburg. Am Stadtteil Heuchelhof vorbei führt die A3 durch den Katzenbergtunnel, der vorrangig als Lärmschutz errichtet wurde. Bei Randersacker folgt die vierte Mainquerung, am Kreuz Biebelried kreuzt die A7. Bei einer Panne im Tunnel lesen Sie <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>. Zur A3 auf der Seite <a href="autobahn-a3.html">Panne auf der A3</a>, zur A81 auf <a href="autobahn-a81.html">Panne auf der A81</a>.</p>
 <h2>Entfernungen zu den Nachbarstädten</h2>
 <p>Die nächstgelegenen größeren Städte sind Frankfurt am Main rund 100 Kilometer nordwestlich, Bamberg 90 Kilometer östlich, Nürnberg 90 Kilometer südöstlich, Stuttgart 120 Kilometer südwestlich, Mannheim 110 Kilometer westsüdwestlich und Heilbronn 90 Kilometer südwestlich. Diese Entfernungen helfen bei einem Transport: Wenn das Fahrzeug in eine Werkstatt in einer dieser Städte soll, sagen Sie uns das Ziel.</p>
 <h2>Was wir in Würzburg tun</h2>
-<p>Sie beschreiben Standort, Fahrzeug und Problem, wir organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Würzburg fahren Partner vor Ort. Auf eine feste Ankunftszeit lassen wir uns nicht festlegen, weil Verkehr, Brücken und Standort sie bestimmen.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Würzburg</h2>
+<p>Auf A3, A7 oder A81: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Im Katzenbergtunnel: Warnblinker an, weit an den Rand, Notrufeinrichtung nutzen statt selbst nachzusehen. An einer Mainbrücke: nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt.</p>
+<h2>Wo es in Würzburg oft passiert</h2>
+<p>Am Dreieck Würzburg-West und am Kreuz Biebelried ist der Verkehr durch den Fahrstreifenwechsel dichter. Im Katzenbergtunnel ist eine Panne besonders heikel, weil wenig Platz zum sicheren Halten bleibt. Auf der B19 ist wegen der hohen Belastung häufiger Stau als auf vergleichbaren Bundesstraßen.</p>
 <h2>So nennen Sie Ihren Standort in Würzburg</h2>
 <ul class="ticks">
 <li>Stadtbezirk oder Stadtteil und Straße, dazu Mainseite (links oder rechts).</li>
@@ -82,27 +94,31 @@
 <p>Weitere Städte: <a href="stadt-nuernberg.html">Nürnberg</a> und <a href="stadt-frankfurt.html">Frankfurt am Main</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Würzburg</h2>
-<details><summary>Wie viele Stadtbezirke hat Würzburg?</summary><div>13 Stadtbezirke.</div></details>
-<details><summary>Wo trifft die A81 auf die A3?</summary><div>Am Dreieck Würzburg-West, wo die A81 nach Süden abzweigt.</div></details>
-<details><summary>Was ist die Talavera-Brücke?</summary><div>Die Brücke der Deutschen Einheit, eine am 3. Oktober 1992 eingeweihte Schrägseilbrücke über den Main und ein Hafenbecken.</div></details>
 <details><summary>Ich stehe im Katzenbergtunnel. Was tun?</summary><div>Warnblinker einschalten, weit an den Rand, Notrufeinrichtung nutzen, uns anrufen und Fahrtrichtung nennen.</div></details>
+<details><summary>Können Sie mein Auto von Würzburg zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Würzburg liegt oder etwa in Frankfurt, Nürnberg oder Stuttgart.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Würzburg?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Ich stehe auf einer Mainbrücke. Was sage ich?</summary><div>Den Namen der Brücke und Ihre Fahrtrichtung. Ein Standort per WhatsApp hilft zusätzlich.</div></details>
 </div></section>
 @@CTA@@
 
 === stadt-wolfsburg | Abschleppdienst Wolfsburg: Pannenhilfe A39 und A2 | Pannenhilfe und Abschleppen in Wolfsburg: 16 Ortschaften, 41 Stadtteile, A39, Kreuz Wolfsburg/Königslutter und Volkswagenwerk. Standort nennen. | page ===
 <!--AREAS: Wolfsburg, Wolfsburg-Fallersleben, Wolfsburg-Vorsfelde, Wolfsburg-Heßlingen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wolfsburg</p><h1>Abschleppdienst Wolfsburg</h1><p class="lead">Wolfsburg wurde 1938 als Sitz des Volkswagenwerks gegründet und liegt an der A39 und in der Nähe der A2. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wolfsburg</p><h1>Abschleppdienst Wolfsburg</h1><p class="lead">Wolfsburg ist Sitz des Volkswagenwerks und liegt an der A39 und in der Nähe der A2. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Gründung für ein Werk</h2>
-<p>Wolfsburg ist eine kreisfreie Großstadt im Osten Niedersachsens. Die Stadt wurde 1938 als Sitz des Volkswagenwerks gegründet und ist mit 129.813 Einwohnern (Stand 31. Dezember 2025) die fünftgrößte Stadt in Niedersachsen. Die Volkswagen-Fabrik in Wolfsburg war mit einer Fläche von 6,5 Quadratkilometern lange die größte Automobilfabrik der Welt. Für Ihre Panne bedeutet das: In der Nähe des Werks sind viele Fahrzeuge unterwegs, und die Zufahrten sind zu Schichtzeiten stark belastet. Sagen Sie uns, an welcher Straße oder welchem Tor Sie stehen.</p>
+<h2>Sitz des Volkswagenwerks</h2>
+<p>Wolfsburg ist eine kreisfreie Großstadt im Osten Niedersachsens und Sitz des Volkswagenwerks, einer der größten Automobilfabriken der Welt. Für Ihre Panne bedeutet das: In der Nähe des Werks sind viele Fahrzeuge unterwegs, und die Zufahrten sind zu Schichtzeiten stark belastet. Sagen Sie uns, an welcher Straße oder welchem Tor Sie stehen.</p>
 <h2>16 Ortschaften, 41 Stadtteile</h2>
-<p>Die Stadt Wolfsburg ist eine Einheitsgemeinde und gliedert sich in 16 Ortschaften nach § 90 des Niedersächsischen Kommunalverfassungsgesetzes, die sich wiederum in 41 Stadtteile gliedern. Jede der 16 Ortschaften wird durch einen Ortsrat vertreten. Einige der heutigen Ortsteile, darunter Heßlingen mit dem bis 1928 als Gutsbezirk selbstständigen Wolfsburg, gehörten im 18. Jahrhundert zum Holzkreis des Herzogtums Magdeburg und bildeten so preußische Exklaven. Nennen Sie uns deshalb Ortschaft und Stadtteil, etwa Fallersleben, Vorsfelde oder Heßlingen, und die Straße.</p>
+<p>Die Stadt Wolfsburg ist eine Einheitsgemeinde und gliedert sich in 16 Ortschaften, die sich wiederum in 41 Stadtteile gliedern. Nennen Sie uns deshalb Ortschaft und Stadtteil, etwa Fallersleben, Vorsfelde oder Heßlingen, und die Straße.</p>
 <h2>A39 im Westen</h2>
-<p>Durch das westliche Stadtgebiet von Wolfsburg führt die A39, die nördlich der Stadt bei Weyhausen im Landkreis Gifhorn beginnt und Richtung Süden zur A2 (Oberhausen–Werder bei Berlin) führt. 1982 erhielt die Stadt mit der A39 einen Anschluss an die Autobahn. Am Kreuz Wolfsburg/Königslutter kreuzt die A39 die A2, siehe <a href="autobahn-a2.html">Panne auf der A2</a>. Wenn Sie an dem Kreuz oder auf der A39 liegen bleiben, sagen Sie uns Autobahn, Richtung und Anschlussstelle.</p>
-<h2>Regierungsbezirk und Region</h2>
-<p>Mit Wirkung vom 1. Februar 1978 wurde die Stadt Wolfsburg aus dem Regierungsbezirk Lüneburg ausgegliedert und dem Regierungsbezirk Braunschweig zugeordnet, bis die Regierungsbezirke in Niedersachsen zum 1. Januar 2005 aufgelöst wurden. Für Ihre Standortangabe ist das nur eine historische Randnotiz. Wichtig ist die Region: Die Nachbarstadt <a href="stadt-braunschweig.html">Braunschweig</a> liegt an der A2 westlich. Wenn Ihr Fahrzeug in einer Werkstatt in Braunschweig oder Wolfsburg repariert werden soll, sagen Sie uns das Ziel.</p>
+<p>Durch das westliche Stadtgebiet von Wolfsburg führt die A39, die nördlich der Stadt bei Weyhausen im Landkreis Gifhorn beginnt und Richtung Süden zur A2 (Oberhausen–Werder bei Berlin) führt. Am Kreuz Wolfsburg/Königslutter kreuzt die A39 die A2, siehe <a href="autobahn-a2.html">Panne auf der A2</a>. Wenn Sie an dem Kreuz oder auf der A39 liegen bleiben, sagen Sie uns Autobahn, Richtung und Anschlussstelle.</p>
+<h2>Braunschweig in der Nähe</h2>
+<p>Die Nachbarstadt <a href="stadt-braunschweig.html">Braunschweig</a> liegt an der A2 westlich von Wolfsburg. Wenn Ihr Fahrzeug in einer Werkstatt in Braunschweig oder Wolfsburg repariert werden soll, sagen Sie uns das Ziel.</p>
 <h2>Was wir in Wolfsburg tun</h2>
-<p>Wir nehmen Ihren Anruf oder Ihre WhatsApp entgegen und organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Wolfsburg fahren Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr und Standort abhängt.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Wolfsburg</h2>
+<p>Auf A39 oder A2: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Am Werk zu Schichtwechselzeiten: Warnblinker an und besonders auf dichten Zu- und Abfahrtsverkehr achten. Am Kreuz Wolfsburg/Königslutter: sagen Sie uns genau, auf welcher Autobahn Sie stehen und in welche Richtung.</p>
+<h2>Wo es in Wolfsburg oft passiert</h2>
+<p>Rund um das Volkswagenwerk ist zu Schichtwechselzeiten deutlich mehr Verkehr als sonst. Am Kreuz Wolfsburg/Königslutter ist der Verkehr durch den Fahrstreifenwechsel zwischen A39 und A2 dichter. Auf der A39 zwischen Wolfsburg und Weyhausen ist mit Berufsverkehr zu bestimmten Tageszeiten zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Wolfsburg</h2>
 <ul class="ticks">
 <li>Ortschaft oder Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -113,9 +129,9 @@
 <p>Weitere Städte: <a href="stadt-hannover.html">Hannover</a> und <a href="stadt-braunschweig.html">Braunschweig</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Wolfsburg</h2>
-<details><summary>Wann wurde Wolfsburg gegründet?</summary><div>1938 als Sitz des Volkswagenwerks.</div></details>
-<details><summary>Wie viele Stadtteile hat Wolfsburg?</summary><div>41 Stadtteile in 16 Ortschaften.</div></details>
-<details><summary>Welche Autobahn führt durch Wolfsburg?</summary><div>Die A39 durch das westliche Stadtgebiet, sie führt zur A2 am Kreuz Wolfsburg/Königslutter.</div></details>
-<details><summary>Kommen Sie auch ans Werk?</summary><div>Wir organisieren Einsätze im Stadtgebiet. Für Betriebsgelände brauchen wir Tor und Straße, dann klären wir den Zugang.</div></details>
+<details><summary>Kommen Sie auch ans Werk?</summary><div>Ja, wir organisieren Einsätze im Stadtgebiet. Für Betriebsgelände brauchen wir Tor und Straße, dann klären wir den Zugang.</div></details>
+<details><summary>Ich stehe am Kreuz Wolfsburg/Königslutter. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn und Fahrtrichtung.</div></details>
+<details><summary>Können Sie mein Auto von Wolfsburg zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Wolfsburg liegt oder etwa in Braunschweig oder Hannover.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Wolfsburg?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@

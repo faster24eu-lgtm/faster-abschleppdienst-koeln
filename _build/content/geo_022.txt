@@ -3,13 +3,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Darmstadt</p><h1>Abschleppdienst Darmstadt</h1><p class="lead">Darmstadt liegt im Süden Hessens, wo sich A5 und A67 am Darmstädter Kreuz treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Großstadt im Rhein-Main-Gebiet</h2>
-<p>Darmstadt ist eine kreisfreie Großstadt mit 168.253 Einwohnern (31. Dezember 2025) im Süden Hessens, Verwaltungssitz des Regierungsbezirks Darmstadt und des Landkreises Darmstadt-Dieburg. Sie gehört zum Rhein-Main-Gebiet und ist eines der zehn Oberzentren des Landes. Das Stadtgebiet ist in neun Stadtteile gegliedert, die in Statistische Bezirke unterteilt sind, teils Stadtvierteln, teils rein statistischen Einheiten entsprechend. Nennen Sie uns bei einer Panne Stadtteil oder Stadtviertel und Straße, etwa Arheilgen, Eberstadt oder Bessungen.</p>
+<p>Darmstadt ist eine kreisfreie Großstadt im Süden Hessens und gehört zum Rhein-Main-Gebiet. Das Stadtgebiet ist in neun Stadtteile gegliedert. Nennen Sie uns bei einer Panne Stadtteil oder Stadtviertel und Straße, etwa Arheilgen, Eberstadt oder Bessungen.</p>
 <h2>Darmstädter Kreuz: A5 und A67</h2>
-<p>Durch das westliche Stadtgebiet führen die A5 (Karlsruhe–Frankfurt) und die A67 (Mannheim–Rüsselsheim), die sich am Darmstädter Kreuz treffen. Dort wechselt die Hauptfahrbahn: Die A5 tauscht sie mit der der ab hier parallel verlaufenden A67, und der achtstreifige Ausbau der A5 endet. Als Zubringer zur Stadt fungiert die kurze A672. Wenn Sie in diesem Bereich liegen bleiben, sagen Sie uns, auf welcher der beiden Autobahnen Sie stehen. Mehr zur Strecke lesen Sie auf der Seite <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>.</p>
+<p>Durch das westliche Stadtgebiet führen die A5 (Karlsruhe–Frankfurt) und die A67 (Mannheim–Rüsselsheim), die sich am Darmstädter Kreuz treffen. Dort wechselt die Hauptfahrbahn: Die A5 tauscht sie mit der ab hier parallel verlaufenden A67. Als Zubringer zur Stadt fungiert die kurze A672. Wenn Sie in diesem Bereich liegen bleiben, sagen Sie uns, auf welcher der beiden Autobahnen Sie stehen. Mehr zur Strecke lesen Sie auf der Seite <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>.</p>
 <h2>B3: Frankfurt im Norden, Heidelberg im Süden</h2>
 <p>Im Bundesstraßennetz bildet die B3 die Verbindung nach Frankfurt am Main im Norden und entlang der Bergstraße nach Heidelberg im Süden. Für Arheilgen im Norden und Eberstadt im Süden gibt es Ortsumgehungen. Wenn Sie auf der B3 stehen, nennen Sie uns Ortsteil und Fahrtrichtung. Zur Nachbarstadt lesen Sie <a href="stadt-heidelberg.html">Abschleppdienst Heidelberg</a> und <a href="stadt-frankfurt.html">Abschleppdienst Frankfurt</a>.</p>
 <h2>Pendlerströme und Mobilitätsmix</h2>
-<p>Nach dem Forschungsprojekt "Mobilität in Städten" der TU Dresden besitzen 22 Prozent der Haushalte kein Auto, 59 Prozent ein Auto und 19 Prozent zwei und mehr, 25 Prozent aller Wege werden zu Fuß, 22 Prozent mit dem Rad, 35 Prozent mit dem Auto und 18 Prozent mit öffentlichen Verkehrsmitteln zurückgelegt (Stand 2018). Im Verhältnis zur Größe der Stadt gibt es in Darmstadt enorme Pendlerströme: Täglich kommen etwa 75.000 Erwerbstätige von außerhalb zum Arbeiten, etwa 32.000 Darmstädter arbeiten in einer anderen Kommune. Zu den Hauptverkehrszeiten sind die Zufahrten entsprechend voll. Sagen Sie uns, wenn Sie in der Stoßzeit liegen bleiben.</p>
+<p>Im Verhältnis zur Größe der Stadt gibt es in Darmstadt starke Pendlerströme, viele Erwerbstätige kommen täglich von außerhalb zum Arbeiten. Zu den Hauptverkehrszeiten sind die Zufahrten entsprechend voll. Sagen Sie uns, wenn Sie in der Stoßzeit liegen bleiben.</p>
+<h2>Was wir in Darmstadt tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Darmstadt</h2>
+<p>Auf A5, A67 oder A672: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Am Darmstädter Kreuz: sagen Sie uns genau, auf welcher der beiden Autobahnen Sie stehen, dort wechseln viele Fahrzeuge die Spur. Auf der B3 zur Stoßzeit: Warnblinker an, dort ist mit dichtem Pendlerverkehr zu rechnen.</p>
+<h2>Wo es in Darmstadt oft passiert</h2>
+<p>Am Darmstädter Kreuz, wo A5 und A67 die Fahrbahn tauschen, ist der Verkehr durch den Fahrstreifenwechsel dichter. Auf der B3 zu den Hauptverkehrszeiten ist wegen der starken Pendlerströme mehr los als sonst. Rund um Bahnhof und Campus ist zu Stoßzeiten mit dichtem Parksuchverkehr zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Darmstadt</h2>
 <ul class="ticks">
 <li>Stadtteil oder Viertel und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -19,10 +25,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Darmstadt</h2>
-<details><summary>Wie viele Stadtteile hat Darmstadt?</summary><div>Neun Stadtteile, die in Statistische Bezirke unterteilt sind.</div></details>
-<details><summary>Wo treffen sich A5 und A67?</summary><div>Am Darmstädter Kreuz im westlichen Stadtgebiet, dort verlaufen beide Autobahnen ab da parallel.</div></details>
-<details><summary>Was ist die A672?</summary><div>Ein kurzer Zubringer zur Stadt.</div></details>
+<details><summary>Ich stehe am Darmstädter Kreuz kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns, auf welcher der beiden Autobahnen Sie stehen und Ihre Fahrtrichtung.</div></details>
 <details><summary>Ich stehe auf der B3. Was sage ich?</summary><div>Fahrtrichtung (Frankfurt oder Heidelberg), den Ortsteil und die nächste Querstraße.</div></details>
+<details><summary>Können Sie mein Auto von Darmstadt zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Darmstadt liegt oder etwa in Frankfurt oder Heidelberg.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Darmstadt?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
@@ -59,13 +65,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ulm</p><h1>Abschleppdienst Ulm</h1><p class="lead">Ulm liegt an der Donau an der Grenze zu Bayern, wo sich A8 und A7 am Kreuz Ulm/Elchingen treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Stadt an der Donau, Grenze zu Bayern</h2>
-<p>Ulm ist eine Großstadt mit 130.288 Einwohnern (31. Dezember 2025) in Baden-Württemberg. Die Universitätsstadt liegt an der Donau am südöstlichen Rand der Schwäbischen Alb und am nördlichen Rand Oberschwabens an der Grenze zu Bayern und bildet einen eigenen Stadtkreis. Das Stadtgebiet ist in 17 Stadtteile eingeteilt, darunter Stadtmitte, Böfingen, Donautal, Eggingen, Einsingen, Ermingen, Eselsberg, Gögglingen-Donaustetten, Grimmelfingen, Jungingen, Lehr, Mähringen und Oststadt. Am anderen Donauufer liegt Neu-Ulm in Bayern. Nennen Sie uns bei einer Panne deshalb, ob Sie in Ulm oder Neu-Ulm stehen, denn dort wechseln Bundesland und Zuständigkeit.</p>
+<p>Ulm liegt in Baden-Württemberg an der Donau, am südöstlichen Rand der Schwäbischen Alb und am nördlichen Rand Oberschwabens, direkt an der Grenze zu Bayern. Das Stadtgebiet ist in 17 Stadtteile eingeteilt, darunter Stadtmitte, Böfingen, Donautal, Eggingen, Einsingen, Ermingen, Eselsberg, Gögglingen-Donaustetten, Grimmelfingen, Jungingen, Lehr, Mähringen und Oststadt. Am anderen Donauufer liegt Neu-Ulm in Bayern. Nennen Sie uns bei einer Panne deshalb, ob Sie in Ulm oder Neu-Ulm stehen, denn dort wechseln Bundesland und Zuständigkeit.</p>
 <h2>A8 und A7: Kreuz Ulm/Elchingen</h2>
-<p>Kurz bevor am Autobahnkreuz Ulm/Elchingen die A7 die A8 kreuzt, erreicht die A8 wieder bayerisches Gebiet. Südlich des Kreuzes wird die Donau überquert, die A7 führt weiträumig an Ulm und Neu-Ulm vorbei. Am Dreieck Hittistetten besteht über die autobahnähnlich ausgebaute B28, die als Bundesstraße auch so beschildert ist, ein weiterer Anschluss ins Ulmer Stadtgebiet. Die A8 hat auf der Albhochfläche vor Ulm mit 785 Metern über NN ihren höchsten Punkt, bis kurz vor Ulm verläuft die ICE-Neubaustrecke Wendlingen–Ulm parallel zur Autobahn. Zu den Strecken lesen Sie <a href="autobahn-a8.html">Panne auf der A8</a> und <a href="autobahn-a7.html">Panne auf der A7</a>. Wenn Sie hier liegen bleiben, nennen Sie uns Autobahn, Richtung und Kreuz.</p>
+<p>Kurz bevor am Autobahnkreuz Ulm/Elchingen die A7 die A8 kreuzt, erreicht die A8 wieder bayerisches Gebiet. Südlich des Kreuzes wird die Donau überquert, die A7 führt weiträumig an Ulm und Neu-Ulm vorbei. Am Dreieck Hittistetten besteht über die autobahnähnlich ausgebaute B28, die als Bundesstraße auch so beschildert ist, ein weiterer Anschluss ins Ulmer Stadtgebiet. Die A8 hat auf der Albhochfläche vor Ulm ihren höchsten Punkt, dort kann Nebel oder Glätte anders ausfallen als im Tal. Zu den Strecken lesen Sie <a href="autobahn-a8.html">Panne auf der A8</a> und <a href="autobahn-a7.html">Panne auf der A7</a>. Wenn Sie hier liegen bleiben, nennen Sie uns Autobahn, Richtung und Kreuz.</p>
 <h2>Albaufstieg nach Ulm</h2>
-<p>Nach Osten hin langsam abfallend, erreicht die A8 kurz hinter Ulm die flache Ebene des Donaurieds. Vor Ulm führt ein kurzer, noch nicht ausgebauter Abschnitt den letzten Abstieg ins Donautal. Auf einer Gefällestrecke sollten Sie die Motorbremse nutzen und nur dosiert bremsen, siehe <a href="ratgeber-bremsen-versagen.html">Bremsen versagen</a>.</p>
+<p>Nach Osten hin langsam abfallend, erreicht die A8 kurz hinter Ulm die flache Ebene des Donaurieds. Vor Ulm führt ein kurzer Abschnitt den letzten Abstieg ins Donautal. Auf einer Gefällestrecke sollten Sie die Motorbremse nutzen und nur dosiert bremsen, siehe <a href="ratgeber-bremsen-versagen.html">Bremsen versagen</a>.</p>
 <h2>Verkehrsmittel im Alltag</h2>
-<p>Im Modal Split betrug 2017 der Anteil des motorisierten Individualverkehrs 45 Prozent, des Fußverkehrs 30 Prozent, des ÖPNV 13 Prozent und des Radverkehrs 12 Prozent. Seit 2011 gibt es das Aktionsbündnis "Fahrrad in Ulm" mit dem Ziel, den Radanteil zu erhöhen. Für Fahrzeuge in der Innenstadt heißt das: viele Radfahrer, Fußgängerzonen, begrenzte Zufahrten. Nennen Sie uns Straße und Hausnummer und ob Sie in einer Fußgängerzone stehen.</p>
+<p>In Ulm ist der Radverkehr in der Innenstadt spürbar, dazu kommen Fußgängerzonen. Für Fahrzeuge in der Innenstadt heißt das: viele Radfahrer, Fußgängerzonen, begrenzte Zufahrten. Nennen Sie uns Straße und Hausnummer und ob Sie in einer Fußgängerzone stehen.</p>
+<h2>Was wir in Ulm tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Ulm</h2>
+<p>Auf A8 oder A7: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Auf der Albhochfläche bei Nebel: zusätzlich zum Warnblinker die Nebelschlussleuchte einschalten, wenn Sie noch fahren können, und besonders früh und deutlich warnen. Im Gefälle vor Ulm: Fahrzeug sichern und nicht mitten auf der Gefällestrecke halten, wenn es vermeidbar ist.</p>
+<h2>Wo es in Ulm oft passiert</h2>
+<p>Am Kreuz Ulm/Elchingen, wo A7 und A8 aufeinandertreffen, ist der Verkehr durch den Fahrstreifenwechsel dichter. Auf der Albhochfläche ist bei Nebel oder Glätte oft ein anderes Wetter als im Tal. In der Innenstadt mit viel Radverkehr und Fußgängerzonen ist eine liegen gebliebene Panne unübersichtlicher als anderswo.</p>
 <h2>So nennen Sie Ihren Standort in Ulm</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße, und Ulm oder Neu-Ulm.</li>
@@ -75,10 +87,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Ulm</h2>
-<details><summary>Wie viele Stadtteile hat Ulm?</summary><div>17 Stadtteile.</div></details>
-<details><summary>Wo kreuzen sich A7 und A8?</summary><div>Am Autobahnkreuz Ulm/Elchingen, kurz nach der Grenze zu Bayern.</div></details>
-<details><summary>Was ist das Dreieck Hittistetten?</summary><div>Ein Knoten der A7, an dem die autobahnähnlich ausgebaute B28 einen Anschluss ins Ulmer Stadtgebiet bietet.</div></details>
-<details><summary>Ich stehe in Neu-Ulm. Kommen Sie auch dorthin?</summary><div>Wir organisieren Einsätze in der Region Ulm/Neu-Ulm. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Ich stehe am Kreuz Ulm/Elchingen kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn, Fahrtrichtung und ob Sie vor oder hinter dem Kreuz stehen.</div></details>
+<details><summary>Ich stehe in Neu-Ulm. Kommen Sie auch dorthin?</summary><div>Ja, wir organisieren Einsätze in der Region Ulm/Neu-Ulm. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Können Sie mein Auto von Ulm zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal wo die Werkstatt liegt.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Ulm?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
@@ -86,14 +98,20 @@
 <!--AREAS: Heilbronn, Heilbronn-Böckingen, Heilbronn-Sontheim, Heilbronn-Neckargartach, Weinsberg -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Heilbronn</p><h1>Abschleppdienst Heilbronn</h1><p class="lead">Heilbronn liegt am Neckar, wenige Kilometer vom Kreuz Weinsberg entfernt, an dem sich A6 und A81 treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Siebtgrößte Stadt Baden-Württembergs</h2>
-<p>Heilbronn ist eine Großstadt im Norden Baden-Württembergs mit 132.516 Einwohnern (31. Dezember 2025) und die siebtgrößte Stadt des Bundeslandes. Sie liegt am Neckar, etwa 50 Kilometer nördlich von Stuttgart, und ist ein eigener Stadtkreis. Das Stadtgebiet ist in neun Stadtteile gegliedert: Heilbronn selbst sowie die ehemals selbstständigen Gemeinden Biberach, Böckingen, Frankenbach, Horkheim, Kirchhausen, Klingenberg, Neckargartach und Sontheim. In den fünf Stadtteilen, die in den 1970er Jahren eingegliedert wurden, bestehen Bezirksbeiräte. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
+<h2>Großstadt im Norden Baden-Württembergs</h2>
+<p>Heilbronn liegt am Neckar, etwa 50 Kilometer nördlich von Stuttgart, und ist ein eigener Stadtkreis. Das Stadtgebiet ist in neun Stadtteile gegliedert: Heilbronn selbst sowie die ehemals selbstständigen Gemeinden Biberach, Böckingen, Frankenbach, Horkheim, Kirchhausen, Klingenberg, Neckargartach und Sontheim. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
 <h2>A6 und A81: Kreuz Weinsberg</h2>
-<p>Nachdem im Jahr 1968 die A6 von Heilbronn nach Mannheim mit der Neckartalbrücke eröffnet wurde und die A81 nach Würzburg 1974 sowie die A6 nach Nürnberg 1979 folgten, nahm die regionale Wirtschaft durch die verbesserte Verkehrserschließung stark zu. Im Autobahnkreuz Weinsberg, etwa sechs Kilometer ostnordöstlich des Stadtzentrums auf dem Gebiet der Nachbarstadt Weinsberg, schneiden sich die A81 (Würzburg–Stuttgart) und die A6 (Mannheim–Nürnberg), die auf Teilstrecken durch die Gemarkung Heilbronns verlaufen. Am Kreuz Weinsberg müssen je nach Fahrtrichtung Fahrbahnen gewechselt werden, siehe <a href="autobahn-a81.html">Panne auf der A81</a> und <a href="autobahn-a6.html">Panne auf der A6</a>. Wenn Sie hier liegen bleiben, nennen Sie uns Autobahn, Richtung und Anschlussstelle.</p>
+<p>Im Autobahnkreuz Weinsberg, etwa sechs Kilometer ostnordöstlich des Stadtzentrums auf dem Gebiet der Nachbarstadt Weinsberg, schneiden sich die A81 (Würzburg–Stuttgart) und die A6 (Mannheim–Nürnberg), die auf Teilstrecken durch die Gemarkung Heilbronns verlaufen. Am Kreuz Weinsberg müssen je nach Fahrtrichtung Fahrbahnen gewechselt werden, siehe <a href="autobahn-a81.html">Panne auf der A81</a> und <a href="autobahn-a6.html">Panne auf der A6</a>. Wenn Sie hier liegen bleiben, nennen Sie uns Autobahn, Richtung und Anschlussstelle.</p>
 <h2>Bundesstraßen und Neckartalstraße</h2>
-<p>Durch die Stadt führen die Bundesstraßen B27 (Mosbach–Stuttgart), B39 (Mainhardt–Sinsheim) und B293 (nach Karlsruhe). Eine wichtige Entlastungsstraße, die die A6 im Norden bei Obereisesheim quer durch das Stadtgebiet mit der B27 im Süden bei Sontheim verbindet, ist die Neckartalstraße. Innerstädtische Hauptstraße ist die Allee. Heilbronn hat sich in einem für westdeutsche Länder außergewöhnlichen Maß um die Förderung des Grünpfeils eingesetzt, an 52 Straßenkreuzungen ist er zugelassen. Für Sie heißt das: Achten Sie an Kreuzungen auf Anweisungen. Wenn Sie an einer Kreuzung liegen bleiben, nennen Sie uns die Straßen.</p>
+<p>Durch die Stadt führen die Bundesstraßen B27 (Mosbach–Stuttgart), B39 (Mainhardt–Sinsheim) und B293 (nach Karlsruhe). Eine wichtige Entlastungsstraße, die die A6 im Norden bei Obereisesheim quer durch das Stadtgebiet mit der B27 im Süden bei Sontheim verbindet, ist die Neckartalstraße. Innerstädtische Hauptstraße ist die Allee. An vielen Kreuzungen in Heilbronn ist der Grünpfeil zugelassen. Für Sie heißt das: Achten Sie an Kreuzungen auf Anweisungen. Wenn Sie an einer Kreuzung liegen bleiben, nennen Sie uns die Straßen.</p>
 <h2>Neckar und Kraftwerk</h2>
 <p>In unmittelbarer Nähe des Steinkohlekraftwerks wird der Neckar von der A6 auf einer langen Brücke überquert. Der Neckar teilt das Stadtgebiet, geben Sie also die Neckarseite an. Weitere Informationen zu Stuttgart lesen Sie auf <a href="stadt-stuttgart.html">Abschleppdienst Stuttgart</a>.</p>
+<h2>Was wir in Heilbronn tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Heilbronn</h2>
+<p>Auf A6 oder A81: Schalten Sie die Warnblinkanlage ein und bringen Sie alle Mitfahrer hinter die Leitplanke, das Warndreieck folgt nur, wenn der Verkehr es zulässt. Am Kreuz Weinsberg: sagen Sie uns genau, auf welcher Autobahn Sie stehen, dort müssen viele Fahrzeuge je nach Richtung die Fahrbahn wechseln. Auf der Neckarbrücke der A6: nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt.</p>
+<h2>Wo es in Heilbronn oft passiert</h2>
+<p>Am Kreuz Weinsberg, wo A6 und A81 mit Fahrbahnwechseln aufeinandertreffen, ist der Verkehr dichter und für Ortsfremde unübersichtlicher. Auf der Neckartalstraße als Entlastungsstraße ist zu Stoßzeiten mehr Verkehr als auf den umliegenden Straßen. An der Neckarbrücke ist wenig Platz zum Ausweichen.</p>
 <h2>So nennen Sie Ihren Standort in Heilbronn</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße und die Neckarseite.</li>
@@ -103,10 +121,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Heilbronn</h2>
-<details><summary>Wie viele Stadtteile hat Heilbronn?</summary><div>Neun Stadtteile, darunter fünf, die in den 1970er Jahren eingegliedert wurden.</div></details>
-<details><summary>Wo liegt das Kreuz Weinsberg?</summary><div>Etwa sechs Kilometer ostnordöstlich des Stadtzentrums auf dem Gebiet der Nachbarstadt Weinsberg. Dort schneiden sich A81 und A6.</div></details>
-<details><summary>Was ist die Neckartalstraße?</summary><div>Eine wichtige Entlastungsstraße, die die A6 im Norden mit der B27 im Süden verbindet.</div></details>
-<details><summary>Kommen Sie auch nach Weinsberg?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Ich stehe am Kreuz Weinsberg kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn (A6 oder A81) und Ihre Fahrtrichtung.</div></details>
+<details><summary>Kommen Sie auch nach Weinsberg?</summary><div>Ja, wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Können Sie mein Auto von Heilbronn zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, das ist kein Problem. Sagen Sie uns die Zielwerkstatt, etwa in Stuttgart, und wir nennen Ihnen den Preis für die Strecke gleich am Telefon.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Heilbronn?</summary><div>Pauschal lässt sich das nicht beantworten, es kommt auf Standort und Ziel an. Am Telefon erfahren Sie den Preis, bevor der Auftrag startet.</div></details>
 </div></section>
 @@CTA@@
 
@@ -115,11 +133,17 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Pforzheim</p><h1>Abschleppdienst Pforzheim</h1><p class="lead">Pforzheim liegt am Nordrand des Schwarzwalds am Zusammenfluss von Enz, Nagold und Würm. Die A8 verläuft nördlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Drei Flüsse, 15 Stadtteile</h2>
-<p>Pforzheim ist eine Großstadt mit 134.422 Einwohnern (31. Dezember 2025) im Nordwesten Baden-Württembergs am Nordrand des Schwarzwalds am Zusammenfluss von Enz, Nagold und Würm. Sie ist ein Stadtkreis und zugleich Verwaltungssitz des Enzkreises. Die Stadt besteht aus 15 Stadtteilen, dazu gehören Ortsteile mit eigener Ortschaftsverwaltung und Teilgebiete der Kernstadt. Für eine Panne bedeutet die Flusslage: Die Straßen folgen den Tälern und steigen an den Hängen an. Sagen Sie uns Stadtteil, Straße und ob Sie im Tal oder am Hang stehen.</p>
+<p>Pforzheim liegt im Nordwesten Baden-Württembergs am Nordrand des Schwarzwalds am Zusammenfluss von Enz, Nagold und Würm. Die Stadt besteht aus 15 Stadtteilen, dazu gehören Ortsteile mit eigener Ortschaftsverwaltung und Teilgebiete der Kernstadt. Für eine Panne bedeutet die Flusslage: Die Straßen folgen den Tälern und steigen an den Hängen an. Sagen Sie uns Stadtteil, Straße und ob Sie im Tal oder am Hang stehen.</p>
 <h2>A8: vier Ausfahrten</h2>
-<p>Nördlich von Pforzheim verläuft die A8 von Karlsruhe nach Stuttgart, von der die Stadt über vier Ausfahrten zu erreichen ist. Die vierte Ausfahrt Pforzheim Süd wurde 2008 fertiggestellt, die südlichen und besonders die südöstlichen Stadtteile lassen sich damit einfacher erreichen. Die A8 führt nördlich an Pforzheim vorbei, oberhalb des Enztals am Südrand der Katharinentaler Senke, dann in einer engen Kurve mit starken Längsneigungen über das Enztal. Über die A8 ist der Flughafen Stuttgart 24 Kilometer südöstlich erreichbar, der Flughafen Karlsruhe/Baden-Baden liegt 46 Kilometer südwestlich. Wenn Sie hier liegen bleiben, nennen Sie uns Anschlussstelle und Richtung. Mehr auf der Seite <a href="autobahn-a8.html">Panne auf der A8</a>.</p>
+<p>Nördlich von Pforzheim verläuft die A8 von Karlsruhe nach Stuttgart, von der die Stadt über vier Ausfahrten zu erreichen ist, darunter Pforzheim Süd für die südlichen und südöstlichen Stadtteile. Die A8 führt nördlich an Pforzheim vorbei, oberhalb des Enztals am Südrand der Katharinentaler Senke, dann in einer engen Kurve mit starken Längsneigungen über das Enztal. Über die A8 ist der Flughafen Stuttgart etwa 24 Kilometer südöstlich erreichbar, der Flughafen Karlsruhe/Baden-Baden liegt etwa 46 Kilometer südwestlich. Wenn Sie hier liegen bleiben, nennen Sie uns Anschlussstelle und Richtung. Mehr auf der Seite <a href="autobahn-a8.html">Panne auf der A8</a>.</p>
 <h2>B10, B294 und B463</h2>
-<p>Durch die Stadt führen die B10 parallel zur Autobahn und die B294 in Nord-Süd-Richtung. Hier beginnt die B463 Richtung Nagold. Die Verbindung nach Neuenbürg verläuft zwischen Pforzheim und Neuenbürg großteils auf einem Waldweg und passiert die Enz auf einer sehr schmalen Brücke, laut Wikipedia. Nennen Sie uns bei einer Panne auf einer schmalen Straße die Breite, damit das passende Fahrzeug kommt.</p>
+<p>Durch die Stadt führen die B10 parallel zur Autobahn und die B294 in Nord-Süd-Richtung. Hier beginnt die B463 Richtung Nagold. Die Verbindung nach Neuenbürg verläuft zwischen Pforzheim und Neuenbürg großteils auf einem Waldweg und passiert die Enz auf einer sehr schmalen Brücke. Nennen Sie uns bei einer Panne auf einer schmalen Straße die Breite, damit das passende Fahrzeug kommt.</p>
+<h2>Was wir in Pforzheim tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Pforzheim</h2>
+<p>Auf der A8: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Im Enztal an einer schmalen Brücke: Warnblinker an und Fahrzeug möglichst platzsparend abstellen, damit andere Fahrzeuge noch vorbeikommen. Am Hang: Fahrzeug sichern und angeben, ob Sie bergauf oder bergab stehen.</p>
+<h2>Wo es in Pforzheim oft passiert</h2>
+<p>An der Kurve mit starken Längsneigungen, wo die A8 über das Enztal führt, ist eine Panne heikler als auf gerader Strecke. An der schmalen Brücke Richtung Neuenbürg ist wenig Platz zum Ausweichen. In den steilen Hanglagen abseits der Täler ist bei Nässe oder Glätte besondere Vorsicht geboten.</p>
 <h2>Nachbarstädte</h2>
 <p>Weitere Städte in der Nähe: <a href="abschleppdienst-karlsruhe.html">Karlsruhe</a> und <a href="stadt-stuttgart.html">Stuttgart</a>.</p>
 <h2>So nennen Sie Ihren Standort in Pforzheim</h2>
@@ -131,10 +155,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Pforzheim</h2>
-<details><summary>Wie viele Stadtteile hat Pforzheim?</summary><div>15 Stadtteile, darunter Ortsteile mit eigener Ortschaftsverwaltung.</div></details>
-<details><summary>Wie viele A8-Ausfahrten hat Pforzheim?</summary><div>Vier, die vierte, Pforzheim Süd, wurde 2008 fertiggestellt.</div></details>
-<details><summary>Wie weit sind die Flughäfen?</summary><div>Der Flughafen Stuttgart liegt 24 Kilometer südöstlich, der Flughafen Karlsruhe/Baden-Baden 46 Kilometer südwestlich.</div></details>
-<details><summary>Welche Bundesstraßen gibt es?</summary><div>Die B10 parallel zur A8, die B294 in Nord-Süd-Richtung und die B463 Richtung Nagold.</div></details>
+<details><summary>Ich stehe auf der A8 in der Kurve über dem Enztal. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und die nächste Anschlussstelle.</div></details>
+<details><summary>Wie weit sind die Flughäfen?</summary><div>Der Flughafen Stuttgart liegt etwa 24 Kilometer südöstlich, der Flughafen Karlsruhe/Baden-Baden etwa 46 Kilometer südwestlich.</div></details>
+<details><summary>Können Sie mein Auto von Pforzheim zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Pforzheim liegt oder etwa in Karlsruhe oder Stuttgart.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Pforzheim?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
@@ -143,13 +167,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Göttingen</p><h1>Abschleppdienst Göttingen</h1><p class="lead">Göttingen ist eine Universitätsstadt in Südniedersachsen, im Westen von der A7 tangiert. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Universitätsstadt in Südniedersachsen</h2>
-<p>Göttingen ist eine Universitätsstadt in Südniedersachsen. Rund 20 Prozent der Bevölkerung sind Studenten, das städtische Leben ist stark vom Betrieb der Georg-August-Universität geprägt. Das Stadtgebiet ist in 18 Stadtbezirke und Stadtteile eingeteilt, einige sind Ortschaften im Sinne des Niedersächsischen Kommunalverfassungsgesetzes. Das Göttingen-Gesetz vom 1. Juli 1964 holte Eingemeindungen nach: Die Gemeinden Geismar, Grone, Nikolausberg und Weende wurden mit Wirkung vom 4. Juli 1964 in die Stadt eingegliedert. Nennen Sie uns bei einer Panne Stadtteil und Straße, etwa Weende, Grone oder Geismar.</p>
+<p>Göttingen ist eine Universitätsstadt in Südniedersachsen, das städtische Leben ist stark vom Betrieb der Georg-August-Universität geprägt. Das Stadtgebiet ist in 18 Stadtbezirke und Stadtteile eingeteilt. Nennen Sie uns bei einer Panne Stadtteil und Straße, etwa Weende, Grone oder Geismar.</p>
 <h2>A7 und das Dreieck Drammetal</h2>
-<p>Durch das westliche Stadtgebiet von Göttingen führt von Nord nach Süd die A7 Hannover–Kassel. Südlich von Göttingen entstand mit dem Autobahndreieck Drammetal der Anschluss an die A38 nach Halle (Saale) und Leipzig. Bei Northeim folgt die A7 dem Leinetal bis kurz vor Göttingen, an dem letzten noch fehlenden Abschnitt wurde sie laut Wikipedia sechsstreifig ausgebaut. Nach Süden führt sie über Hann. Münden in den steilen Kaufunger Wald. Zur Strecke lesen Sie <a href="autobahn-a7.html">Panne auf der A7</a>. Bei einer Panne an Dreieck oder Anschlussstelle nennen Sie uns Autobahn, Richtung und Ausfahrt.</p>
+<p>Durch das westliche Stadtgebiet von Göttingen führt von Nord nach Süd die A7 Hannover–Kassel. Südlich von Göttingen entstand mit dem Autobahndreieck Drammetal der Anschluss an die A38 nach Halle (Saale) und Leipzig. Bei Northeim folgt die A7 dem Leinetal bis kurz vor Göttingen und ist dort sechsstreifig ausgebaut. Nach Süden führt sie über Hann. Münden in den steilen Kaufunger Wald. Zur Strecke lesen Sie <a href="autobahn-a7.html">Panne auf der A7</a>. Bei einer Panne an Dreieck oder Anschlussstelle nennen Sie uns Autobahn, Richtung und Ausfahrt.</p>
 <h2>Verkehrsring um die Innenstadt</h2>
-<p>Rund um die Innenstadt verläuft entlang des ehemaligen Stadtwalls der Verkehrsring, der das Stadtzentrum fußläufig stark von den angrenzenden Quartieren abschneidet, den Autoverkehr weitestgehend aus dem Stadtkern heraushält und in die Stadtteile verteilt. Im Bereich des Übergangs zwischen Fußgängerzone und kleingekammerter Bebauung überschneiden sich Bus, Parksuchverkehr, Radfahrer und Fußgänger. Wenn Ihr Fahrzeug in der Innenstadt liegen bleibt, ist die Zufahrt für ein Abschleppfahrzeug oft nur über den Ring möglich. Nennen Sie uns bitte Straße und Hausnummer und ob Sie in einer Fußgängerzone stehen.</p>
+<p>Rund um die Innenstadt verläuft entlang des ehemaligen Stadtwalls der Verkehrsring, der den Autoverkehr weitestgehend aus dem Stadtkern heraushält und in die Stadtteile verteilt. Im Bereich des Übergangs zwischen Fußgängerzone und kleingekammerter Bebauung überschneiden sich Bus, Parksuchverkehr, Radfahrer und Fußgänger. Wenn Ihr Fahrzeug in der Innenstadt liegen bleibt, ist die Zufahrt für ein Abschleppfahrzeug oft nur über den Ring möglich. Nennen Sie uns bitte Straße und Hausnummer und ob Sie in einer Fußgängerzone stehen.</p>
 <h2>B3 und B27</h2>
 <p>Durch Göttingen führen außerdem die Bundesstraßen B3 und B27. Wenn Sie dort liegen bleiben, sagen Sie uns Straße und Fahrtrichtung. Weitere Städte in der Nähe: <a href="stadt-kassel.html">Kassel</a> und <a href="stadt-hannover.html">Hannover</a>.</p>
+<h2>Was wir in Göttingen tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Göttingen</h2>
+<p>Auf der A7: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Auf dem Verkehrsring: Warnblinker an und Fahrzeug möglichst platzsparend abstellen, damit ein Abschleppfahrzeug noch durchkommt. In der Fußgängerzone: Warnblinker an und, wenn möglich, Fuß- und Radwege freihalten.</p>
+<h2>Wo es in Göttingen oft passiert</h2>
+<p>Am Dreieck Drammetal, wo A7 und A38 aufeinandertreffen, ist der Verkehr durch den Fahrstreifenwechsel dichter. Auf dem Verkehrsring mit vielen Bussen, Radfahrern und Parksuchverkehr ist es unübersichtlicher als auf einer normalen Stadtstraße. In der Fußgängerzone der Innenstadt ist die Zufahrt für ein Abschleppfahrzeug oft nur über den Ring möglich.</p>
 <h2>So nennen Sie Ihren Standort in Göttingen</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -159,10 +189,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Göttingen</h2>
-<details><summary>Wie viele Stadtbezirke hat Göttingen?</summary><div>18 Stadtbezirke und Stadtteile.</div></details>
-<details><summary>Wo verläuft die A7?</summary><div>Durch das westliche Stadtgebiet von Nord nach Süd. Südlich der Stadt liegt das Dreieck Drammetal mit der A38.</div></details>
-<details><summary>Was ist der Verkehrsring?</summary><div>Ein Straßenring entlang des ehemaligen Stadtwalls, der den Autoverkehr aus dem Stadtkern heraushält.</div></details>
+<details><summary>Ich stehe am Dreieck Drammetal kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn und Ihre Fahrtrichtung.</div></details>
 <details><summary>Ich stehe in der Fußgängerzone. Was tun?</summary><div>Straße, Hausnummer und dass es eine Fußgängerzone ist. Der Fahrer klärt die Zufahrt.</div></details>
+<details><summary>Können Sie mein Auto von Göttingen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Göttingen liegt oder etwa in Kassel oder Hannover.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Göttingen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
