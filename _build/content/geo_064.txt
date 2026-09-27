@@ -10,6 +10,8 @@
 <p>Der Braunkohletagebau hat die Landschaft rund um Bergheim stark verändert, ein Grabhügelfeld bei Niederaußem fiel dem Tagebau zum Opfer, aus Abraum entstand die höchste Erhebung der Stadt. Wenn Sie in der Nähe eines Tagebaugebiets oder einer Umleitung liegen bleiben, nennen Sie uns Ortsteil, Straße und die aktuelle Umleitungsbeschilderung, denn Straßenführungen ändern sich dort öfter.</p>
 <h2>Karneval und Brauchtum</h2>
 <p>In Bergheim und seinen Ortsteilen hat sich reges Brauchtum durch Karnevals- und Schützenvereine erhalten. Bei Umzügen sind Straßen zeitweise gesperrt, nennen Sie uns dann eine Ausweichstraße oder den nächsten freien Zugang.</p>
+<h2>Glessener Höhe und Grabungsgeschichte</h2>
+<p>Die Glessener Höhe, aus Abraum des Braunkohleabbaus aufgeschüttet, erreicht 205,8 Meter über NN und ist damit die höchste Erhebung der Stadt. Funde belegen frühe Siedlungen auf Bergheimer Gebiet bereits um 4000 vor Christus, vor allem in den nördlichen Stadtteilen, um 50 vor Christus siedelten dort die Römer. Mehrere Ortsteile wie Büsdorf, Niederaußem und Zieverich haben Ersterwähnungen aus dem 9. bis 12. Jahrhundert. Wenn Sie an der Glessener Höhe oder in einem der alten Ortskerne liegen bleiben, nennen Sie uns Ortsteil, Straße und Zufahrt.</p>
 <h2>So nennen Sie Ihren Standort in Bergheim</h2>
 <ul class="ticks">
 <li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
@@ -215,6 +217,8 @@
 <p>Im 14. Jahrhundert wurde die sogenannte Unterstadt in die Stadtbefestigung einbezogen, die alte Stadtmauer zwischen den beiden Stadtteilen wurde zwischen 1330 und 1370 abgerissen. Wenn Sie in der Altstadt oder Unterstadt liegen bleiben, nennen Sie uns Straße und ob die Zufahrt eng ist.</p>
 <h2>Wohnplätze in den Ortschaften</h2>
 <p>Zu fast allen Stadtteilen und zur Kernstadt gehören räumlich getrennte Wohnplätze mit eigenen Namen, deren Grenzen oft nicht genau festgelegt sind. Wenn Ihr Standort dort nicht eindeutig zu benennen ist, senden Sie uns Ihren Standort per WhatsApp.</p>
+<h2>Sankt-Michaels-Turm und Humpisviertel</h2>
+<p>An der höchsten Stelle des Stadtgebiets steht der über 50 Meter hohe Sankt-Michaels-Turm, benannt nach der dort einst stehenden Michaelskapelle, der ältesten Kirche der Stadt. Das Humpisviertel, ein Häuserblock nahe dem Obertor, wurde saniert und 2009 zum Stadtmuseum umgebaut. Am Waaghaus mit dem Blaserturm, dem ehemaligen städtischen Münz- und Eichamt, liegt heute eine Bankfiliale mit dem Veranstaltungssaal „Schwörsaal“ im ersten Stock. Wenn Sie in der Nähe eines dieser Türme oder Tore liegen bleiben, nennen Sie uns Straße und Torname, denn die Altstadt hat mehrere gut erhaltene Stadttore.</p>
 <h2>So nennen Sie Ihren Standort in Ravensburg</h2>
 <ul class="ticks">
 <li>Stadtteil (Eschach, Schmalegg, Taldorf), Straße, Hausnummer.</li>
