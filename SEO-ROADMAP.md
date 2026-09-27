@@ -319,3 +319,7 @@ Owner check: Kamp-Lintfort "Kamp-Lintfort-Süd" Abfahrt/B528 extension status; W
 ## Cycle 35 (2026-09-27): 8 Baden-Württemberg pages
 Friedrichshafen, Aalen, Heidenheim an der Brenz, Böblingen, Waiblingen, Lörrach, Baden-Baden, Bruchsal. 340 pages, audit 0 errors, similarity max 28.7 %. Also shortened the A19 title (was 66 chars).
 Owner check: Aalen B29a (opened 2021-12-03, "zum 1.1.2022 umgewidmet"); Lörrach zollfreie Straße B317 through Swiss territory (since 2013) and Zoll-/Grenzregeln; Friedrichshafen: A96/A98 not on the Stadtgebiet (only B31/B30); Baden-Baden B500 Michaelstunnel length (2.544 m) and Schwarzwaldhochstraße; population figures Böblingen, Waiblingen, Baden-Baden (31.12.2025 per source).
+
+## Cycle 36 (2026-09-27): 8 pages (NRW, Bayern)
+Lüdenscheid, Coburg, Freising, Dachau, Detmold, Bad Salzuflen, Amberg, Weiden i. d. OPf. 348 pages, audit 0 errors, similarity max 28.7 %.
+Owner check: Lüdenscheid A45 status (bridge closures/Bauarbeiten not mentioned on the page; check before indexing); Coburg A73 (open since 2008-09-05); Detmold "nächste A2-Anschlussstelle ~22 km" (Wikipedia); Weiden B15/St 2657 status; Freising St 2350 (ex-B11) and Anschlussstellen Freising Süd/Mitte/Ost naming; Amberg B85/B299 numbers (inferred from route description in the extract).
