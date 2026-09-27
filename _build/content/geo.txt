@@ -284,3 +284,10 @@ stadt-neustadt-weinstrasse	Neustadt an der Weinstraße	Rheinland-Pfalz
 stadt-landau	Landau in der Pfalz	Rheinland-Pfalz	
 stadt-frankenthal	Frankenthal (Pfalz)	Rheinland-Pfalz	
 stadt-neunkirchen-saar	Neunkirchen (Saar)	Saarland	
+stadt-norderstedt	Norderstedt	Schleswig-Holstein	
+stadt-neu-ulm	Neu-Ulm	Bayern	
+stadt-halberstadt	Halberstadt	Sachsen-Anhalt	
+stadt-stendal	Stendal	Sachsen-Anhalt	
+stadt-gotha	Gotha	Thüringen	
+stadt-hilden	Hilden	Nordrhein-Westfalen	
+stadt-langenfeld	Langenfeld (Rheinland)	Nordrhein-Westfalen	

@@ -218,3 +218,17 @@ stadt-frankenthal	ludwigshafen,worms,mannheim,speyer
 a6
 stadt-neunkirchen-saar	saarbruecken,saarlouis,zweibruecken,kaiserslautern
 a8
+stadt-norderstedt	hamburg,neumuenster,luebeck,kiel
+a7
+stadt-neu-ulm	ulm,memmingen,kempten,augsburg
+a7,a8
+stadt-halberstadt	magdeburg,wernigerode,goslar,quedlinburg
+a36
+stadt-stendal	magdeburg,wittenberg,brandenburg-an-der-havel
+a14
+stadt-gotha	erfurt,eisenach,weimar
+a4
+stadt-hilden	duesseldorf,solingen,langenfeld,ratingen,velbert
+a3,a46
+stadt-langenfeld	hilden,leverkusen,solingen,duesseldorf
+a3,a59

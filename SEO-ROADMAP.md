@@ -331,3 +331,7 @@ Owner check: Siegburg A560 (no dedicated Autobahn page yet, referenced only by n
 ## Cycle 38 (2026-09-27 ~09:05): 4 Pfalz/Saarland pages
 Neustadt an der Weinstraße, Landau in der Pfalz, Frankenthal (Pfalz), Neunkirchen (Saar). 359 pages, audit 0 errors, similarity max 29.7% (unchanged top pair).
 Owner check: Frankenthal tiefster Punkt der Pfalz (87,3 m, Mörsch); Neunkirchen Saarpark-Center visitor figures (up to 25,000/50,000, per source); Landau B10 Godramstein Roman-fort find (2022, may affect roadworks status).
+
+## Cycle 39 (2026-09-27 ~09:15): 7 pages closing earlier "skipped" gaps
+Norderstedt, Neu-Ulm, Halberstadt, Stendal, Gotha, Hilden, Langenfeld (Rheinland) — all previously logged as skipped for thin data, now written with real facts found on closer reading of the extracts. 366 pages, audit 0 errors, similarity max 29.7%.
+Owner check: Halberstadt/Stendal/Gotha Bundesverkehrswegeplan items (planned Ortsumfahrung Halberstadt, planned A14 extension past Stendal) are proposals, not built infrastructure — verify before any wording implying they exist; Neu-Ulm/Ulm combined population figure (193.131, Dec 2025 per source).
