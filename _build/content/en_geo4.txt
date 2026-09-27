@@ -1,0 +1,182 @@
+=== en-autobahn-a8 | Breakdown on the A8: Saarland to Salzburg | Breakdown on the A8 from Schengen via Saarbrücken, Karlsruhe, Stuttgart, Ulm, Augsburg and Munich to the border near Salzburg. Climbs, tunnels, junctions. | page ===
+<!--AREAS: A8, Saarbrücken, Karlsruhe, Stuttgart, Ulm, Augsburg, München, Rosenheim -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Motorway</p><h1>Breakdown on the A8</h1><p class="lead">The A8 runs in three separate sections from Luxembourg via Saarbrücken, Karlsruhe, Stuttgart and Munich to Salzburg. Tell us the section, direction and nearest junction, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Three sections, one name</h2>
+<p>The A8 begins in the Saarland on the Schengen viaduct at the German-Luxembourg border. It's made up of three disconnected sections: the western one from Luxembourg to Pirmasens, the middle one from Karlsruhe to Munich, and the southern one from Munich to the Austrian border. This matters for your location: "on the A8 near Stuttgart" and "on the A8 in the Saarland" are two very different routes. Tell us the section, the direction, and a junction.</p>
+<h2>The Saarland and the Palatinate: Schengen to Pirmasens</h2>
+<p>Shortly after the Schengen viaduct, the A8 climbs winding out of the Moselle valley into the Saargau, running right along the French border past Perl. It passes under a ridge in the Pellinger Berg tunnel, follows the Saar valley to just past Dillingen, and joins the A620 at the Saarlouis triangle. Passing north of Saarlouis, it runs by the Ford plant and the Dillinger Hütte steelworks; at the Saarbrücken interchange it crosses the A1, and at the Friedrichsthal triangle the A623 branches off. Between Neunkirchen and Zweibrücken, the A8 has a reduced cross-section and, for about five kilometres between Limbach and Einöd, no hard shoulder at all. Breaking down there means standing with no shoulder to pull onto, which matters for securing the scene, more in our guide (German) <a href="ratgeber-panne-autobahn.html">Breaking down on the motorway</a>. Near Zweibrücken it runs right through the town centre, and at the Pirmasens-Winzeln exit the ramps branch left, since a triangle was originally planned there.</p>
+<h2>Karlsruhe to Pforzheim: a 7.5 percent climb</h2>
+<p>The middle section begins at the Karlsruhe triangle, where the A8 branches east off the A5. Right after that, a notable 7.5 percent climb takes it out of the Upper Rhine lowlands onto the northernmost foothills of the Black Forest. After descending into the Pfinz valley near Nöttingen, another winding climb follows. It passes north of Pforzheim, then crosses the Enz valley on a tight bend with steep gradients. In a breakdown on such stretches: pay special attention to your brakes and to securing the scene, see <a href="en-ratgeber-bremsen-versagen.html">Brakes failing</a>. More on Karlsruhe: <a href="en-abschleppdienst-karlsruhe.html">Towing Service Karlsruhe</a>.</p>
+<h2>Stuttgart: eight lanes at the interchange and on the Filder</h2>
+<p>At the Leonberg triangle, the A81 branches north, and both motorways share an eight-lane route south-west of Stuttgart, climbing the Glemswald. At the Stuttgart interchange the routes split, with the A81 heading south and the short A831 towards central Stuttgart. The A8 then runs onto the Filder, a plateau south of the city. The Degerloch exit is built like an interchange and links the A8 with the motorway-standard B27, a second route into the centre. The airport and trade-fair grounds follow immediately after. The Messeparkhaus car park, built in 2007, spans the motorway as a bridge. More on the city: <a href="en-stadt-stuttgart.html">Towing Service Stuttgart</a>.</p>
+<h2>The Swabian Alb: the Alb climb, the Lämmerbuckel tunnel, the highest point</h2>
+<p>Near Aichelberg begins the steep climb onto the Alb, whose first stage ends near Gruibingen, where a one-sided noise-protection tunnel was built. Past the Mühlhausen exit, the two directional carriageways run separately: the Munich-bound one above the Fils valley, the Karlsruhe-bound one above the Gosbach valley on the Drackenstein slope. Heading towards Munich, the route runs through the 625-metre Lämmerbuckel tunnel. Near Hohenstadt the two carriageways rejoin. On the Alb plateau, the A8 crosses the European main watershed between the Rhine and the Danube and reaches 785 metres above sea level, the highest point on its entire route. The new Wendlingen–Ulm high-speed rail line runs parallel almost to Ulm. Check traffic radio for current closures and conditions.</p>
+<h2>Ulm, Augsburg, Munich</h2>
+<p>At the Ulm/Elchingen interchange it crosses the A7. Past Leipheim, the A8 crosses the Danube and runs through the Holzwinkel in the Augsburg-Westliche Wälder nature park. Wide valleys of the Günz, Kammel, Mindel, Zusam and Schmutter rivers alternate with forested hills. It reaches the Lech plain and Augsburg, crossing the Lech in the northern part of the city. Before Munich, just past Sulzemoos, the Munich gravel plain begins. At the München-Eschenried triangle, a link road branches to the A99, where most traffic leaves the A8. At the München-West interchange it crosses the A99, and shortly after, the middle section ends at a roundabout in the Obermenzing district.</p>
+<h2>Munich to Salzburg: the third section</h2>
+<p>In the south-eastern part of Munich, the third section begins at the Innsbrucker Ring/Rosenheimer Straße junction, the last section of the Mittlerer Ring not yet built free of at-grade crossings. After about two kilometres and the München-Perlach exit, the motorway drops to just four lanes. Between Neubiberg and Unterhaching, a 327-metre tunnel passes under the former Neubiberg airfield. At the München-Süd interchange, the A8 meets the A995 and the ending A99. Traffic becomes noticeably denser after that. It continues through several large forest areas towards Holzkirchen, over the Mangfall valley near Weyarn on a bridge 68 metres high, past the Seehamer See into the Leitzach valley, then climbs steeply near Irschenberg to the Inntal triangle and on towards Salzburg. More on the city: <a href="en-stadt-muenchen.html">Towing Service Munich</a>.</p>
+<h2>What we do on the A8</h2>
+<p>We organise roadside assistance and towing. Faster is based in Antwerp, Belgium; partners on the ground drive out on the A8. We don't give a fixed arrival time, since it depends on the section, traffic, gradient and weather. We stay your point of contact on the phone.</p>
+<h2>How to describe your location on the A8</h2>
+<ul class="ticks">
+<li>Section and direction of travel, for example towards Stuttgart or towards Salzburg.</li>
+<li>Last or next junction: triangle, interchange, or exit.</li>
+<li>Notable features: tunnel, climb, no hard shoulder, separated carriageways.</li>
+<li>The area: the Alb, the Filder, the Holzwinkel, the Alpine foothills.</li>
+</ul>
+<p>All motorway pages: <a href="autobahnen.html">Breakdown help on the motorway</a> (German). Other routes: <a href="en-autobahn-a5-hessen-baden.html">A5</a>, <a href="en-autobahn-a7.html">A7</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About the A8</h2>
+<details><summary>Why does the A8 have three sections?</summary><div>It isn't built as one continuous route: western from Luxembourg to Pirmasens, middle from Karlsruhe to Munich, southern from Munich to the border.</div></details>
+<details><summary>Where's the highest point of the A8?</summary><div>On the Alb plateau at 785 metres above sea level, which is also where the European main watershed between the Rhine and the Danube runs.</div></details>
+<details><summary>I'm in the Saarland with no hard shoulder. What do I do?</summary><div>Switch on hazard lights, move as far right as you can, put on a hi-vis vest, use the emergency phone or call for help, then call us. Tell us your direction and the exit.</div></details>
+<details><summary>Which motorways does the A8 meet?</summary><div>Among others, the A1, A5, A6, A7, A81, A99 and A995, at various junctions.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-dresden | Towing Service Dresden: Roadside Assistance, A4, A17, the Elbe | Roadside assistance and towing in Dresden: the Elbe valley basin, the A4, A13, A17 with tunnels, the Waldschlößchenbrücke, and the Elbe bridges. | page ===
+<!--AREAS: Dresden, Dresden-Neustadt, Dresden-Blasewitz, Dresden-Cotta, Dresden-Klotzsche -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dresden</p><h1>Towing Service Dresden</h1><p class="lead">Dresden sits in the Elbe valley basin, with motorways to the north and south and a series of bridges over the Elbe. Tell us which bank of the Elbe you're on and which route you're on, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>The state capital in the Elbe valley</h2>
+<p>Most of the inhabited city area lies in the Elbe valley. For a breakdown, that has a practical consequence: the city is split by the Elbe, and a vehicle on the wrong side isn't just a few metres away. Always tell us whether you're on the left or right bank of the Elbe.</p>
+<h2>Boroughs and localities</h2>
+<p>Day to day, Dresden residents identify more with district names like Neustadt, Blasewitz or Cotta than with a borough number. The Äußere Neustadt is densely built, so expect narrow streets and many parked vehicles there.</p>
+<h2>The A4 across the north</h2>
+<p>Coming from the west, the A17 branches south-east at the Dresden-West triangle. At the Brabschützer Berg, the A4 descends into the Elbe valley basin, crosses the Elbe, and runs north-east through the northern districts. After climbing back out of the valley basin, the A13 joins from the north at the Dresden-Nord triangle. Dresden Airport lies right next to it. If you break down in the valley basin, tell us whether you're heading down or climbing, so a driver picks the right approach. The A4 connects Dresden via Chemnitz, Jena and Erfurt to Bad Hersfeld, and runs east to the Polish border near Görlitz.</p>
+<h2>The A17: tunnels, bridges, the Bohemian gateway</h2>
+<p>The A17 runs south from Dresden to the Czech border and is fully open to traffic. It crosses the eastern Ore Mountains at over 600 metres elevation and also serves as a regional link along the southern edge of the Elbe valley basin. Because of that, it's shaped by numerous tunnels and bridges even close to Dresden, with several bridges over 100 metres long crossing river valleys carved by streams from the eastern Ore Mountains. On the Czech side it continues as the D8 to Prague. For a breakdown in a tunnel, see our guide <a href="en-ratgeber-panne-im-tunnel.html">Breakdown in a tunnel</a>.</p>
+<h2>A13: the connection to Berlin</h2>
+<p>The A13 connects Berlin and Dresden. It begins at the Schönefeld interchange on the southern Berlin ring (A10) and ends at the Dresden-Nord triangle on the A4. Important exits include Bestensee, Mittenwalde, Teupitz, Lübbenau/Spreewald, Freienhufen, Ruhland, Ortrand and Radeburg. At the Spreewald triangle, the A15 branches off towards Cottbus. If you break down on the A13 towards Dresden, tell us the last exit.</p>
+<h2>The Elbe bridges and the Waldschlößchenbrücke</h2>
+<p>Dresden has several bridges over the Elbe. The best known is the "Blaues Wunder" (Blue Wonder), the Loschwitz bridge, about eight kilometres upstream from the city centre. The Waldschlößchenbrücke completes a route bypassing the city centre to the east, connected in the north via several tunnels. After the Carola bridge collapsed in 2024, load has increased on other bridges such as the Albert bridge, which is undergoing repairs at times. For your location: tell us the bridge and your direction of travel. Current closures can change, and we make no statements about them.</p>
+<h2>What we do in Dresden</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Dresden and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Dresden</h2>
+<p>On the A4, A13 or A17: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. In an A17 tunnel or at the Waldschlößchenbrücke: don't turn around or reverse, drive to the next emergency bay if you can, otherwise hazard lights on and raise the alarm via the emergency equipment or 112. On an Elbe bridge: hazard lights on, move well to the side if you can, since bridges often have no wide hard shoulder.</p>
+<h2>Where it often happens in Dresden</h2>
+<p>In the Elbe valley basin, traffic often brakes before the descent on the A4 at the Brabschützer Berg. On the A17, the many tunnels and bridges in the eastern Ore Mountains cause changing road conditions. Since the loss of the Carola bridge increased loads elsewhere, traffic on the remaining Elbe bridges is denser than before.</p>
+<h2>How to describe your location in Dresden</h2>
+<ul class="ticks">
+<li>District and street, plus which bank of the Elbe (left or right).</li>
+<li>On the A4, A13 or A17: number, direction, exit, triangle or tunnel.</li>
+<li>On bridges: name, direction, and whether you're before or past it.</li>
+<li>In the Neustadt: street, house number, and a note about narrow access.</li>
+</ul>
+<p>Other major cities in Saxony and the east: <a href="en-stadt-leipzig.html">Leipzig</a> and <a href="en-stadt-berlin.html">Berlin</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German). General steps: <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Dresden</h2>
+<details><summary>Which motorways lead to Dresden?</summary><div>The A4 from the west and east, the A13 from Berlin, and the A17 from the south towards the Czech Republic.</div></details>
+<details><summary>Why do I need to say which bank of the Elbe I'm on?</summary><div>The Elbe splits the city, and bridges are limited. A driver needs to know which side to approach from.</div></details>
+<details><summary>Can you take my car from Dresden to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Dresden. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>I'm on the Blaues Wunder. What now?</summary><div>Hazard lights on, move well to the side if you can, then call and tell us the bridge and your direction of travel.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-hannover | Towing Service Hanover: Expressways, A2, A7, A37 | Roadside assistance and towing in Hanover: 13 boroughs, the Messeschnellweg, Südschnellweg, Westschnellweg expressways, the A2, A7, A352 and A37 (the "bog motorway"). | page ===
+<!--AREAS: Hannover, Hannover-Mitte, Hannover-Ricklingen, Hannover-Kirchrode, Laatzen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hanover</p><h1>Towing Service Hanover</h1><p class="lead">Hanover is ringed by a network of expressways and motorways that route through-traffic around the city centre. Tell us which route you're on, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>13 boroughs, 51 districts</h2>
+<p>Hanover has 51 districts, grouped two to seven at a time into 13 boroughs, including Mitte, Vahrenwald-List, Bothfeld-Vahrenheide, Buchholz-Kleefeld, Misburg-Anderten, Kirchrode-Bemerode-Wülferode, and Südstadt-Bult. For your location, tell us the district and street.</p>
+<h2>The expressway concept</h2>
+<p>Through-traffic in Hanover is routed around the city centre on expressways, including the Westschnellweg, Südschnellweg and Messeschnellweg. For you, that means: if you're on an expressway, you're on a motor road where specific rules apply, and you should tell us its name.</p>
+<h2>The Südschnellweg</h2>
+<p>The Südschnellweg is a mostly four-lane motor road about 12 kilometres long. It begins in the Ricklingen district and runs via Döhren, Seelhorst, Bemerode and Kirchrode to Anderten, the only high-capacity link road crossing the flood-prone Leine lowlands south of Hanover. At the Landwehrkreisel roundabout in Ricklingen, the B6, B65 and B3 federal roads converge. If you break down there, tell us the roundabout and your direction.</p>
+<h2>The Messeschnellweg and the A37</h2>
+<p>The Messeschnellweg is a four-lane motor road connecting the two sections of the A37. It starts in the north in the Groß-Buchholz district at the Hannover-Misburg exit, runs east of the city centre through the Eilenriede forest, passes the trade-fair grounds in the Mittelfeld district, and ends in Laatzen-Mitte, where it rejoins the A37 and the B6 branches south. The A37 consists of two sections: the northern one between Burgdorf and Hannover-Misburg is nicknamed the "Moorautobahn" (bog motorway) after the Altwarmbüchener Moor it crosses, and the section from the trade-fair grounds to the Hannover-Süd triangle is called the "Messestutzen". During trade fairs, the approach roads are heavily used. Tell us the exit and your direction of travel.</p>
+<h2>The A352, A2 and A7</h2>
+<p>At the Hannover-Nord triangle, the A352 branches south-west, a corner link to the A2 that also connects Hanover Airport. It relieves the Hannover-Ost interchange by diverting traffic between north and west, cutting about seven kilometres off the route. On the A2, the split lies right after the Hannover-Herrenhausen exit, directly connecting the Westschnellweg, and so the B6, to the A7 heading north. The Hannover-Nord and Hannover-West triangles only cover part of the possible movements; drivers heading the other way must turn around via the Mellendorf exit on the A7 or the Hannover-Herrenhausen exit on the A2. More at <a href="en-autobahn-a7.html">Breakdown on the A7</a>.</p>
+<h2>What we do in Hanover</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Hanover and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Hanover</h2>
+<p>On the A2, A7, A37 or A352: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. On an expressway, the same applies, since these are motor roads: don't stay on foot in the carriageway, get behind the crash barrier or onto a hard shoulder. At the trade-fair grounds: hazard lights on, and briefly warn others if you're blocking an access road.</p>
+<h2>Where it often happens in Hanover</h2>
+<p>At the Landwehrkreisel, where the B6, B65 and B3 converge, traffic is denser because of the many joining roads. At the transition between the Messeschnellweg and the A37, the road switches between motor road and motorway, causing unfamiliar speed changes. During trade fairs, the approach roads to the trade-fair grounds on the Messeschnellweg are heavily used.</p>
+<h2>How to describe your location in Hanover</h2>
+<ul class="ticks">
+<li>District and street, plus house number or cross street.</li>
+<li>On an expressway: name (Süd-, West- or Messeschnellweg), direction and exit.</li>
+<li>On the A2, A7, A37 or A352: number, direction, exit or triangle.</li>
+<li>At the trade-fair grounds: hall, car park or access road.</li>
+</ul>
+<p>Other major cities: <a href="en-stadt-bremen.html">Bremen</a> and <a href="en-stadt-hamburg.html">Hamburg</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German). General steps: <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Hanover</h2>
+<details><summary>Can you take my car from Hanover to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Hanover. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>What is the "Moorautobahn"?</summary><div>The nickname for the northern section of the A37 between Burgdorf and Hannover-Misburg, which runs through the Altwarmbüchener Moor.</div></details>
+<details><summary>I'm on the Südschnellweg. What do I say?</summary><div>Your direction of travel, the last exit, or the nearest district, such as Döhren, Bemerode or Anderten.</div></details>
+<details><summary>Do you come to Hanover Airport?</summary><div>We arrange callouts across the city and region. For a terminal or car park, tell us the level and access road.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-nuernberg | Towing Service Nuremberg: Roadside Assistance, A9, A6, A73 | Roadside assistance and towing in Nuremberg: districts, the Pegnitz river, the Nuremberg interchange, the A3, A9, A6, A73, and the Frankenschnellweg gap. | page ===
+<!--AREAS: Nürnberg, Nürnberg-Fischbach, Nürnberg-Doos, Nürnberg-Tennenlohe, Fürth, Erlangen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Nuremberg</p><h1>Towing Service Nuremberg</h1><p class="lead">Nuremberg sits at the crossing point of the A3, A6, A9 and A73 in the Reichswald forest. Tell us which junction you're at, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Franconia's largest city</h2>
+<p>The Pegnitz river runs east to west through the city and has been heavily channelled through the old town. It leaves the city area in the western Doos district. For a breakdown, the river's two banks matter: tell us which side of the Pegnitz you're on.</p>
+<h2>Statistical districts and place names</h2>
+<p>The division into statistical districts barely matters day to day; people orient by the traditional names of places instead. For your location too, the familiar place name counts for more than the district number: Fischbach, Tennenlohe, Doos, Langwasser or Gostenhof are names every driver knows.</p>
+<h2>The Nuremberg interchange: A9 and A3</h2>
+<p>Near Lauf, the route crosses the Pegnitz, then comes the Nuremberg interchange with the A3. There, the A9's main carriageway coming from the north joins the A3, which from this point forms the A9's route heading south. At the interchange, the A9 has only four lanes. It then runs through the Lorenzer Reichswald; in Nürnberg-Fischbach there's a connection to the city centre. At the Nuremberg-Ost interchange it crosses the A6; near Feucht the Nuremberg–Ingolstadt high-speed rail line meets the motorway, and the A73 joins at the Nuremberg/Feucht triangle. Breaking down in this area can mean standing on either of two motorways. Tell us the number, direction, and junction. More on the A9: <a href="en-autobahn-a9.html">Breakdown on the A9</a>.</p>
+<h2>The A73 and the Frankenschnellweg</h2>
+<p>The A73 is 167 kilometres long, running from Suhl via Coburg, Bamberg and Nuremberg to Feucht. The section between Bamberg and Nuremberg mostly came from reclassifying the motorway-standard B4, and is called the Frankenschnellweg. Within Nuremberg's city area there's a gap with three traffic-light-controlled junctions; this stretch is designated as the county road N4. That means: on the way through the city, motorway and city street alternate, and you can suddenly find yourself at a traffic light instead of an exit. Tell us the junction or the district.</p>
+<h2>The A3 near Erlangen and Fürth</h2>
+<p>North of Nuremberg, the A3 passes the western suburbs of Erlangen. In the Frauenaurach district it crosses the Mittlere Aurach, the Main-Danube canal and the Regnitz in quick succession. Right after that, the A3 crosses the A73, called the Frankenschnellweg here, at the Fürth/Erlangen interchange. Near Erlangen's Tennenlohe district it reaches the Nuremberg Reichswald with its distinctive pine forest. More on this route: <a href="en-autobahn-a3.html">Breakdown on the A3</a>.</p>
+<h2>What we do in Nuremberg</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Nuremberg and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Nuremberg</h2>
+<p>On the A3, A6, A9 or A73: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. On the Frankenschnellweg, motorway and city street alternate, so you could be at a traffic light: hazard lights on and, if possible, pull to the side of the road. At the Nuremberg interchange, where the A9 and A3 share a route, extra caution is needed since two motorways converge.</p>
+<h2>Where it often happens in Nuremberg</h2>
+<p>At the Nuremberg interchange, the A9 has only four lanes, so traffic is denser than on the open route. On the Frankenschnellweg's gap with its three traffic lights, rear-end collisions are more common, since drivers don't expect a stop on an otherwise junction-free route. In the Lorenzer Reichswald, deer crossing occasionally causes sudden braking.</p>
+<h2>How to describe your location in Nuremberg</h2>
+<ul class="ticks">
+<li>District or well-known place name and street.</li>
+<li>On motorways: A3, A6, A9 or A73, direction, interchange or triangle.</li>
+<li>On the Frankenschnellweg: whether you're still on the motorway or at a city traffic light.</li>
+<li>In the Reichswald: nearest car park or exit.</li>
+</ul>
+<p>Other major cities: <a href="en-stadt-muenchen.html">Munich</a> and <a href="en-stadt-leipzig.html">Leipzig</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German). General advice: <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Nuremberg</h2>
+<details><summary>Can you take my car from Nuremberg to my garage, even outside the city?</summary><div>Yes, we take your vehicle to your own garage, a brand dealer workshop, or home, including outside Nuremberg. Tell us the destination and we'll arrange the trip with the partner.</div></details>
+<details><summary>What is the Frankenschnellweg?</summary><div>The southern part of the A73 between Bamberg and Nuremberg, formed from the reclassified B4. Within the city there's a gap with three traffic lights.</div></details>
+<details><summary>I'm at the Nuremberg interchange. What do I say?</summary><div>The motorway and direction, whether you're on the A3 or A9, and whether you're before or past it.</div></details>
+<details><summary>Which motorway leads to Fürth and Erlangen?</summary><div>The A3, with the Fürth/Erlangen interchange where the A73 crosses.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-duisburg | Towing Service Duisburg: Roadside Assistance A40, A59, A3 | Roadside assistance and towing in Duisburg: the Ruhrort port, the Neuenkamp Rhine bridge, the A40, A59, and the Kaiserberg interchange. | page ===
+<!--AREAS: Duisburg, Duisburg-Ruhrort, Duisburg-Rheinhausen, Duisburg-Homberg, Duisburg-Neuenkamp -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Duisburg</p><h1>Towing Service Duisburg</h1><p class="lead">Duisburg sits where the Ruhr meets the Rhine, home to the world's largest inland port and motorways crossing the Rhine. Tell us which bank of the Rhine you're on, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>The Ruhr, the Rhine, and two banks</h2>
+<p>Duisburg is an independent city at the meeting point of the Lower Rhine and the Ruhr area. The city spans both banks of the Rhine and Ruhr, with most of the city and the centre on the right bank. Only the Rheinhausen borough and most of the Homberg-Ruhrort-Baerl borough lie on the left bank. In the north, the Alte Emscher and Kleine Emscher rivers flow into the Rhine. For your location, the bank of the Rhine matters as much as the street: Rheinhausen is only reachable from the city centre via a bridge.</p>
+<h2>A very large inland port</h2>
+<p>The port, operated by Duisburger Hafen AG, is centred in the Ruhrort district and, together with the iron and steel industry, shapes the city's economy. For a breakdown in the port area, the same applies as on any company premises: tell us the street, gate or quay so a vehicle finds the right access, and follow the site's own rules.</p>
+<h2>The Neuenkamp Rhine bridge</h2>
+<p>The Neuenkamp Rhine bridge carries the A40 over the Rhine between the Neuenkamp and Homberg/Rheinhausen districts, connecting the Ruhr area with the Lower Rhine. It's currently being replaced by a new build; one of the two new bridge halves is already in use, with full completion still to come. Breaking down here leaves very limited room to manoeuvre. Tell us your direction of travel and whether you're before or on the bridge.</p>
+<h2>A59: the north-south road</h2>
+<p>The northern section of the A59 begins south-west of Dinslaken and runs as the "Nord-Süd-Straße" through Duisburg as a city motorway parallel to the Rhine. Important for you: a city motorway often has short gaps between exits and little room at the edge. Tell us the exit and your direction of travel.</p>
+<h2>The Kaiserberg interchange and Duisburg Zoo</h2>
+<p>At the Kaiserberg interchange, the A40 (Ruhrschnellweg) crosses the A3 at an acute angle. Because of the parallel railway lines to the main station, the interchange is a complex layout with several ramps in a tight space. Right after it, the A3 passes through the grounds of Duisburg Zoo, which has a planted green bridge over it, a useful landmark. More on the A3 at <a href="en-autobahn-a3.html">Breakdown on the A3</a>.</p>
+<h2>What we do in Duisburg</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Duisburg and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Duisburg</h2>
+<p>On the A3, A40 or A59: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. On the Neuenkamp Rhine bridge: hazard lights on, move well to the side if you can, since the construction work limits room to manoeuvre. In the port area, hazard lights are usually enough, and briefly warn others if you're blocking an access road.</p>
+<h2>Where it often happens in Duisburg</h2>
+<p>At the Kaiserberg interchange, the tight, multi-ramp layout makes traffic denser than on the open road. On the Neuenkamp Rhine bridge, the replacement construction work narrows lanes. On the A59 city motorway, short gaps between exits often cause sudden lane changes.</p>
+<h2>How to describe your location in Duisburg</h2>
+<ul class="ticks">
+<li>District and street, plus which bank of the Rhine (left or right).</li>
+<li>On the A3, A40 or A59: motorway, direction, exit or interchange.</li>
+<li>At the Rhine bridge: direction and whether you're still before it.</li>
+<li>In the port: quay, gate or street.</li>
+</ul>
+<p>Neighbouring cities in the Ruhr area: <a href="en-stadt-essen.html">Essen</a>, <a href="en-stadt-dortmund.html">Dortmund</a>, and <a href="en-stadt-duesseldorf.html">Düsseldorf</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German). General steps: <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Duisburg</h2>
+<details><summary>Why does the bank of the Rhine matter?</summary><div>Rheinhausen and part of Homberg lie on the left bank, most of the city on the right. A driver needs to know which side to approach from.</div></details>
+<details><summary>What about the Neuenkamp Rhine bridge?</summary><div>The A40 bridge is being replaced by a new build; one half is already in use. Check traffic radio for the current traffic layout.</div></details>
+<details><summary>I'm at the Kaiserberg interchange. What do I say?</summary><div>The motorway (A3 or A40), your direction of travel, and whether you're before or past the interchange. A location shared on WhatsApp helps.</div></details>
+<details><summary>Do you come into the port?</summary><div>We arrange callouts across the city. For company premises, we need the quay, gate and street, then we'll check access.</div></details>
+</div></section>
+@@CTA@@
