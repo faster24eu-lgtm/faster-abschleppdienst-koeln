@@ -1,0 +1,117 @@
+=== autobahn-a33 | Pannenhilfe auf der A33: Osnabrück, Bielefeld, Paderborn | Panne auf der A33 zwischen Osnabrück, Bielefeld und Paderborn bis zum Kreuz Wünnenberg-Haaren: Steigungen, Lärmschutztunnel Dissen, Kilometrierung. | page ===
+<!--AREAS: A33, Osnabrück, Bad Rothenfelde, Dissen, Halle (Westf.), Bielefeld, Paderborn, Wünnenberg -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A33</h1><p class="lead">Die A33 verbindet die A30 bei Osnabrück mit der A44 bei Wünnenberg und berührt Bielefeld und Paderborn. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Von Osnabrück nach Wünnenberg</h2>
+<p>Die A33 verbindet die A30 im Norden mit der A44 im Süden und bedient damit die Relationen Niederlande/Nordwestdeutschland–Hessen/Thüringen. Sie verbindet außerdem die drei großen Städte Osnabrück, Bielefeld und Paderborn und gemeinsam mit der A44 auch die Stadt Kassel. Sie beginnt nordöstlich von Osnabrück in Belm, indem sie aus der autobahnähnlich ausgebauten B51 übergeht, führt östlich an Osnabrück vorbei und kreuzt die A30 im Kreuz Osnabrück-Süd. Wenn Sie an der A33 liegen bleiben, nennen Sie uns zuerst die Stadt, an der Sie zuletzt vorbeigefahren sind. Mehr auf <a href="stadt-osnabrueck.html">Abschleppdienst Osnabrück</a> und <a href="autobahn-a30.html">Panne auf der A30</a>.</p>
+<h2>Steigungen am Teutoburger Wald</h2>
+<p>Die Strecke verläuft entlang der Orte Georgsmarienhütte, Hilter am Teutoburger Wald, Bad Rothenfelde und Dissen. In Richtung Bielefeld fahrend befinden sich in Höhe Borgloh/Kloster Oesede und kurz vor Hilter markante Steigungen und vor Dissen ein starkes Gefälle. Bei einer Bremsenstörung bergab sind die Hinweise im <a href="ratgeber-bremsen-versagen.html">Ratgeber Bremsen versagen</a> wichtig. Zwischen den Anschlussstellen Dissen/Bad Rothenfelde und Dissen-Süd befindet sich ein rund 500 Meter langer Lärmschutztunnel, die A33 wurde hier in Troglage gebaut und anschließend eingehaust. Bei einer Panne im Tunnel: <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>.</p>
+<h2>Bielefeld und Paderborn</h2>
+<p>Der neueste Abschnitt läuft von Borgholzhausen nach Halle (Westf.). Die Autobahn führt an Steinhagen vorbei nach Bielefeld-Brackwede, wo über den Ostwestfalendamm die Bielefelder Innenstadt erreicht werden kann, dann über das Kreuz Bielefeld mit der A2 und über Bielefeld-Sennestadt, Schloß Holte-Stukenbrock, den Truppenübungsplatz Senne und Hövelhof Richtung Paderborn. Dort führt die auf einem Wall liegende Autobahn zwischen den Ortsteilen Elsen im Westen und Schloß Neuhaus im Osten hindurch und an Paderborn vorbei. Danach tritt sie in die Paderborner Hochfläche ein und passiert Paderborn-Mönkeloh und Borchen, wo sich markante Steigungen befinden, und kreuzt am Kreuz Wünnenberg-Haaren die A44. Dort endet die A33 und geht nahtlos in die B480 über. Mehr auf <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a>, <a href="stadt-paderborn.html">Abschleppdienst Paderborn</a>, <a href="autobahn-a2.html">Panne auf der A2</a> und <a href="autobahn-a44.html">Panne auf der A44</a>.</p>
+<h2>Kilometrierung mit zwei Nullpunkten</h2>
+<p>Die Kilometrierung zählt von Bad Wünnenberg bei km 0 Richtung Osnabrück bis zur Ausfahrt Borgholzhausen bei km 74,5 aufwärts und von da an von km 91 abwärts. Das nördliche Autobahnende liegt bei etwa Streckenkilometer 62. Der Grund ist nach Angabe der niedersächsischen Straßenbaubehörde, dass die Autobahn in den 1960er Jahren als Ersatzbundesstraße EB 68 geplant war und der Nullpunkt der ursprünglichen Planung bei Cloppenburg liegt. Der Wechsel der Kilometrierung an der Anschlussstelle Borgholzhausen erklärt sich daraus, dass Nordrhein-Westfalen den Bau von Wünnenberg-Haaren aus betrieb und Niedersachsen seinen Teil nördlich davon mit eigener Zählung. Für Ihre Standortangabe heißt das: Die Kilometerzahl allein reicht nicht, nennen Sie uns zusätzlich die Anschlussstelle.</p>
+<h2>So nennen Sie Ihren Standort auf der A33</h2>
+<ul class="ticks">
+<li>Richtung: Osnabrück oder Paderborn/Wünnenberg.</li>
+<li>Letzte oder nächste Anschlussstelle, Kreuz Osnabrück-Süd, Bielefeld oder Wünnenberg-Haaren.</li>
+<li>Bundesland: Niedersachsen oder Nordrhein-Westfalen.</li>
+<li>Bei Steigung oder Gefälle: Hilter, Dissen, Borchen oder Mönkeloh.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A33</h2>
+<details><summary>Wo beginnt und endet die A33?</summary><div>Nordöstlich von Osnabrück in Belm und am Kreuz Wünnenberg-Haaren an der A44, wo sie in die B480 übergeht.</div></details>
+<details><summary>Wo liegt der Lärmschutztunnel?</summary><div>Zwischen den Anschlussstellen Dissen/Bad Rothenfelde und Dissen-Süd, rund 500 Meter lang.</div></details>
+<details><summary>Warum springt die Kilometrierung?</summary><div>Wegen zweier Zählweisen, Nordrhein-Westfalen zählt ab Wünnenberg, Niedersachsen ab dem historischen Nullpunkt bei Cloppenburg.</div></details>
+<details><summary>Welche Städte verbindet die A33?</summary><div>Osnabrück, Bielefeld und Paderborn.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a95 | Pannenhilfe auf der A95: München, Starnberg, Garmisch-Partenkirchen | Panne auf der A95 von München über Starnberger See nach Eschenlohe: 67,4 Kilometer, sechsstreifig bis Dreieck Starnberg, Anschluss an die B2. | page ===
+<!--AREAS: A95, München, Starnberg, Wolfratshausen, Penzberg, Murnau, Eschenlohe, Garmisch-Partenkirchen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A95</h1><p class="lead">Die A95 führt 67,4 Kilometer von München in Richtung Garmisch-Partenkirchen. Nennen Sie uns Richtung und Ausfahrt, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Von München in die Berge</h2>
+<p>Die A95 führt von München in Richtung Garmisch-Partenkirchen und hat eine Länge von 67,4 Kilometern. Bis Starnberg folgt sie im Wesentlichen der Trasse der Olympiastraße und ersetzt dort die B2. Sie beginnt jedoch nicht am Anschluss München-Sendling-Süd, sondern etwa 1,7 Kilometer weiter südwestlich an der Anschlussstelle München-Kreuzhof. Der Bereich dazwischen ist nach der Straßenverkehrsordnung eine Autobahn und entsprechend beschildert, nach dem Bundesfernstraßengesetz aber weiterhin als B2 gewidmet und damit kein Bestandteil der A95. Für Ihre Standortangabe gilt: Nennen Sie uns die Ausfahrt und die Richtung. Mehr auf <a href="stadt-muenchen.html">Abschleppdienst München</a>.</p>
+<h2>Sechsstreifig in der Stadt, vierstreifig dahinter</h2>
+<p>Die Strecke führt etwa 3,5 Kilometer sechsstreifig zunächst in südwestlicher Richtung und ab Schloss Fürstenried in südlicher Richtung durch das Münchner Stadtgebiet. Hier besitzt die A95 keinen Seitenstreifen. Danach führt sie im Landkreis München durch den Forstenrieder Park. An dessen Ende liegt das Autobahndreieck Starnberg mit dem Abzweig der A952 Richtung Starnberg. Ab hier ist die A95 nur noch vierstreifig. Wenn Sie ohne Seitenstreifen liegen bleiben, gilt: Warnblinker, Warnweste, wenn möglich weit rechts, aussteigen nur hinter der Leitplanke, siehe <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
+<h2>Östlich des Starnberger Sees</h2>
+<p>Zirka zehn Kilometer verläuft die Autobahn an der Grenze zwischen den Landkreisen Starnberg und Bad Tölz-Wolfratshausen, erreicht kurz vor Wolfratshausen den Landkreis Bad Tölz-Wolfratshausen und durchquert ihn etwa 15 Kilometer in südlicher Richtung. Drei Kilometer südlich der Ausfahrt Seeshaupt erreicht sie den Landkreis Weilheim-Schongau und, an Penzberg und Iffeldorf vorbei, drei Kilometer südlich der Ausfahrt Sindelsdorf den Landkreis Garmisch-Partenkirchen. Sie führt über die Loisach und überquert bei Ohlstadt auf der Loisachbrücke ein zweites Mal die Loisach und die B2. Es folgt die letzte Ausfahrt Eschenlohe.</p>
+<h2>Ende bei Eschenlohe</h2>
+<p>Nach etwa 1,5 Kilometern endet die A95 an einer provisorischen Ausfahrt südlich von Eschenlohe und geht in die B2 über. Von dort besteht Anschluss nach Garmisch-Partenkirchen und über Mittenwald, Scharnitz und Seefeld in Tirol nach Innsbruck, über die B23 ist der Fernpass erreichbar. Auf ihrer gesamten Länge ist die A95 Teil der E533. Wenn Sie an dieser Strecke ins Ausland fahren und liegen bleiben, nennen Sie uns die letzte Ausfahrt. Bei Fahrten in den Alpenraum, siehe <a href="ratgeber-bremsen-versagen.html">Bremsen versagen</a> und <a href="ratgeber-winterpanne-schwarzwald.html">Winterpanne</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A95</h2>
+<ul class="ticks">
+<li>Richtung: München oder Garmisch-Partenkirchen.</li>
+<li>Letzte oder nächste Ausfahrt: Kreuzhof, Starnberg, Seeshaupt, Sindelsdorf, Murnau/Kochel, Eschenlohe.</li>
+<li>Ob Sie im sechsstreifigen Stadtabschnitt ohne Seitenstreifen stehen.</li>
+<li>Bei Bergstrecke: bergauf oder bergab.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A95</h2>
+<details><summary>Wie lang ist die A95?</summary><div>67,4 Kilometer, von München bis südlich von Eschenlohe.</div></details>
+<details><summary>Wo endet die A95?</summary><div>An einer provisorischen Ausfahrt südlich von Eschenlohe, wo sie in die B2 übergeht.</div></details>
+<details><summary>Hat die A95 in München einen Seitenstreifen?</summary><div>Im sechsstreifigen Abschnitt durch das Stadtgebiet nicht.</div></details>
+<details><summary>Welche Autobahn zweigt am Dreieck Starnberg ab?</summary><div>Die A952 Richtung Starnberg.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a565 | Pannenhilfe auf der A565: Bonn, Tausendfüßler, Friedrich-Ebert-Brücke | Panne auf der A565 durch Bonn zwischen Dreieck Bonn-Nordost und Kreuz Meckenheim: über 100.000 Fahrzeuge täglich, Hochstraßen, Trog, Rheinbrücke. | page ===
+<!--AREAS: A565, Bonn, Beuel, Bonn-Nord, Endenich, Poppelsdorf, Lengsdorf, Meckenheim -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A565</h1><p class="lead">Die A565 durchquert Bonn von Nordost nach Südwest. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Durch Bonn von Nordost nach Südwest</h2>
+<p>Die A565 verbindet die A59 und die A61 zwischen dem Dreieck Bonn-Nordost und dem Kreuz Meckenheim und durchquert dabei das Bonner Stadtgebiet von Nordost nach Südwest. Sie ist damit eine der wichtigsten Verkehrsachsen sowohl für Pendler als auch im innerstädtischen Verkehr. Mehr auf <a href="stadt-bonn.html">Abschleppdienst Bonn</a>, <a href="autobahn-a59.html">Panne auf der A59</a> und <a href="autobahn-a61.html">Panne auf der A61</a>.</p>
+<h2>Über 100.000 Fahrzeuge pro Tag</h2>
+<p>Zwischen der Anschlussstelle Bonn-Lengsdorf und dem Kreuz Bonn-Nord durchquert die A565 das dicht besiedelte Stadtgebiet vierstreifig, teilweise ohne Standstreifen im Trog beziehungsweise mit einer Brücke. Dieser Abschnitt gehört mit über 100.000 Fahrzeugen pro Tag, in der Spitze über 8.000 Fahrzeuge pro Stunde, zu den am dichtesten befahrenen vierstreifigen Autobahnabschnitten Deutschlands und ist entsprechend staugefährdet. Wenn Sie hier liegen bleiben, sagen Sie uns, ob Sie im Trog oder auf einer Hochstraße stehen und ob ein Standstreifen vorhanden ist. Mehr im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
+<h2>Friedrich-Ebert-Brücke und Tausendfüßler</h2>
+<p>Die A565 beginnt an der A59 am Dreieck Bonn-Nordost im Bonner Stadtbezirk Beuel und führt in westlicher Richtung vorbei am Stadtteil Geislar und der Anschlussstelle Bonn-Beuel. Dann wird der Rhein auf der Friedrich-Ebert-Brücke, der „Nordbrücke“, überquert. Westlich des Rheins führt die Autobahn über eine 660 Meter lange Hochstraße bis zur Anschlussstelle Bonn-Auerberg und zum Kreuz Bonn-Nord mit Verbindung zur A555 Richtung Köln. Danach folgt südlich die Anschlussstelle Bonn-Tannenbusch und eine 630 Meter lange Hochstraße, der „Tausendfüßler“, durch die Weststadt bis zur Anschlussstelle Bonn-Endenich, an der das „Endenicher Ei“ mit der B56 die Autobahn überführt. Über die Anschlussstelle Bonn-Poppelsdorf führt die A565 in einem Bogen Richtung Südwesten in den Stadtbezirk Hardtberg.</p>
+<h2>Sperrung der Friedrich-Ebert-Brücke</h2>
+<p>Nach der genutzten Quelle ist die Friedrich-Ebert-Brücke seit dem 3. Juni 2026 wegen Schäden an einem Teil des Bauwerks für den gesamten Verkehr gesperrt, sodass die A565 nicht mehr durchgängig befahrbar ist. Der aktuelle Stand kann abweichen, prüfen Sie ihn vor der Fahrt, insbesondere Umleitungen. Wenn Sie in einem Umleitungsbereich liegen bleiben, nennen Sie uns bitte Straße und Ortsteil.</p>
+<h2>Umbauter Doppelanschluss Endenich/Poppelsdorf</h2>
+<p>Die Anschlussstellen Endenich und Poppelsdorf waren bei der Eröffnung ein Doppelanschluss, der wegen vieler Unfälle bereits einige Jahre später umgebaut wurde. Alte Brückenbauwerke zeugen heute noch von der ehemaligen Funktion. Die Auf- und Abfahrt vom Endenicher Ei von und zur A565 aus Richtung Meckenheim wurde unbenutzbar. Wenn Sie hier Ihren Standort beschreiben, nennen Sie uns die Anschlussstelle Poppelsdorf oder Endenich, damit keine Verwechslung entsteht.</p>
+<h2>So nennen Sie Ihren Standort auf der A565</h2>
+<ul class="ticks">
+<li>Richtung: Beuel/Bonn-Nordost oder Meckenheim.</li>
+<li>Anschlussstelle: Bonn-Beuel, Auerberg, Tannenbusch, Endenich, Poppelsdorf, Lengsdorf.</li>
+<li>Hochstraße, Trog, Rheinbrücke.</li>
+<li>Ob ein Standstreifen vorhanden ist.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A565</h2>
+<details><summary>Wo beginnt und endet die A565?</summary><div>Am Dreieck Bonn-Nordost an der A59 und am Kreuz Meckenheim an der A61.</div></details>
+<details><summary>Was ist der Tausendfüßler?</summary><div>Eine 630 Meter lange Hochstraße durch die Bonner Weststadt.</div></details>
+<details><summary>Wie viele Fahrzeuge fahren täglich auf der A565?</summary><div>Auf dem Abschnitt zwischen Lengsdorf und Kreuz Bonn-Nord über 100.000.</div></details>
+<details><summary>Ist die Friedrich-Ebert-Brücke gesperrt?</summary><div>Nach der genutzten Quelle seit dem 3. Juni 2026. Prüfen Sie bitte den aktuellen Stand.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a656 | Pannenhilfe auf der A656: Mannheim bis Heidelberg | Panne auf der A656 zwischen Mannheim-Neckarau und Kreuz Heidelberg: 11,5 Kilometer, Reichsautobahn von 1935, herabgestufte Endabschnitte. | page ===
+<!--AREAS: A656, Mannheim, Mannheim-Neckarau, Heidelberg, Heidelberg-Wieblingen, Kreuz Heidelberg -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A656</h1><p class="lead">Die A656 führt 11,5 Kilometer von Mannheim-Neckarau zum Kreuz Heidelberg. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kurze Autobahn mit langer Geschichte</h2>
+<p>Die A656 führt von der Anschlussstelle Mannheim-Neckarau bis zum Autobahnkreuz Heidelberg und ist 11,5 Kilometer lang. Von 1935 bis 1990 war sie 14,8 Kilometer lang. Die Planungen für eine Autobahn zwischen Mannheim und Heidelberg begannen bereits 1926. Am 21. März 1934 wurde an 22 Baustellen mit dem Bau von Reichsautobahnstrecken begonnen, darunter Heidelberg–Mannheim, die Strecke wurde am 3. Oktober 1935 eröffnet. Sie reichte ursprünglich von Mannheim-Mitte, dem heutigen Europaplatz, bis Heidelberg-Bergheimer Straße. Mehr auf <a href="stadt-mannheim.html">Abschleppdienst Mannheim</a> und <a href="stadt-heidelberg.html">Abschleppdienst Heidelberg</a>.</p>
+<h2>Herabgestufte Endabschnitte</h2>
+<p>Mit Wirkung vom 1. Januar 1988 wurde der Mannheimer Endabschnitt auf 1,2 Kilometer zur B37 herabgestuft, zehn Jahre später, am 1. Mai 1998, auch der Heidelberger Endabschnitt auf knapp zwei Kilometer. Seitdem reicht die Autobahn von der Anschlussstelle Mannheim-Neckarau bis zum Autobahnkreuz Heidelberg. Für Ihre Standortangabe heißt das: Die B37 an beiden Enden sieht wie eine Autobahn aus, ist aber eine Bundesstraße. Nennen Sie uns deshalb die letzte Ausfahrt und die Richtung.</p>
+<h2>Gestaltete Stadteinfahrt Mannheim</h2>
+<p>Eine gestalterische Besonderheit war die ehemalige Stadteinfahrt Mannheim, die als repräsentative Einfahrt mit Brunnenanlage entworfen wurde. Einige Maßnahmen wurden bis zum Zweiten Weltkrieg begonnen und sind heute noch ablesbar. Markant ist von Beginn an der „MANNHEIM“-Schriftzug an der Mauer des Brückenbauwerks kurz vor dem damaligen Autobahnende, darüber wurde ein badischer Greif mit dem Stadtwappen angebracht. Solche Landmarken helfen Ihnen bei der Standortangabe.</p>
+<h2>Weitere Autobahnen in der Region</h2>
+<p>Am Kreuz Heidelberg endet die A656. Mehr auf <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>, <a href="autobahn-a6.html">Panne auf der A6</a> und <a href="autobahn-a67.html">Panne auf der A67</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A656</h2>
+<ul class="ticks">
+<li>Richtung: Mannheim oder Heidelberg.</li>
+<li>Anschlussstelle: Mannheim-Neckarau, Heidelberg-Wieblingen, Kreuz Heidelberg.</li>
+<li>Ob Sie noch auf der Autobahn oder schon auf der B37 stehen.</li>
+<li>Landmarke: Brückenbauwerk mit dem MANNHEIM-Schriftzug.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A656</h2>
+<details><summary>Wie lang ist die A656?</summary><div>11,5 Kilometer, ursprünglich 14,8 Kilometer.</div></details>
+<details><summary>Wann wurde sie eröffnet?</summary><div>Am 3. Oktober 1935 als Reichsautobahn zwischen Mannheim und Heidelberg.</div></details>
+<details><summary>Warum sind die Endstücke Bundesstraße?</summary><div>Der Mannheimer Endabschnitt wurde 1988, der Heidelberger 1998 zur B37 herabgestuft.</div></details>
+<details><summary>Wo beginnt und endet die A656?</summary><div>An der Anschlussstelle Mannheim-Neckarau und am Kreuz Heidelberg.</div></details>
+</div></section>
+@@CTA@@

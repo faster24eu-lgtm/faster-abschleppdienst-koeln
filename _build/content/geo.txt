@@ -173,3 +173,7 @@ stadt-dessau-rosslau	Dessau-Roßlau	Sachsen-Anhalt
 stadt-ratingen	Ratingen	Nordrhein-Westfalen	
 stadt-ruesselsheim	Rüsselsheim am Main	Hessen	
 stadt-straubing	Straubing	Bayern	
+autobahn-a33	A33 Osnabrück bis Paderborn	A33	
+autobahn-a95	A95 München bis Eschenlohe	A95	
+autobahn-a565	A565 Bonn	A565	
+autobahn-a656	A656 Mannheim bis Heidelberg	A656	

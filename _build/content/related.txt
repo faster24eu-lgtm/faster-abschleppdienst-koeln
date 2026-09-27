@@ -320,3 +320,9 @@ stadt-dessau-rosslau	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Sch
 stadt-ratingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-ruesselsheim	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-straubing	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a33	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a95	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a565	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a656	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a33	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Lärmschutztunnel Dissen
+autobahn-a33	ratgeber-bremsen-versagen.html	Bremsen versagen	Gefälle bei Dissen
