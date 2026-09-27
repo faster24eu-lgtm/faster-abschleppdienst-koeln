@@ -436,3 +436,11 @@ stadt-detmold	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte i
 stadt-bad-salzuflen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-amberg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-weiden	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-bergheim	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-troisdorf	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-siegburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-ahlen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-gummersbach	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-bad-homburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-hattingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-ravensburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick

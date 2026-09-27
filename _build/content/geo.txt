@@ -272,3 +272,11 @@ stadt-detmold	Detmold	Nordrhein-Westfalen
 stadt-bad-salzuflen	Bad Salzuflen	Nordrhein-Westfalen	
 stadt-amberg	Amberg	Bayern	
 stadt-weiden	Weiden in der Oberpfalz	Bayern	
+stadt-bergheim	Bergheim	Nordrhein-Westfalen	
+stadt-troisdorf	Troisdorf	Nordrhein-Westfalen	
+stadt-siegburg	Siegburg	Nordrhein-Westfalen	
+stadt-ahlen	Ahlen	Nordrhein-Westfalen	
+stadt-gummersbach	Gummersbach	Nordrhein-Westfalen	
+stadt-bad-homburg	Bad Homburg vor der Höhe	Hessen	
+stadt-hattingen	Hattingen	Nordrhein-Westfalen	
+stadt-ravensburg	Ravensburg	Baden-Württemberg	

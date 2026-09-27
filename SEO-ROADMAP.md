@@ -323,3 +323,7 @@ Owner check: Aalen B29a (opened 2021-12-03, "zum 1.1.2022 umgewidmet"); Lörrach
 ## Cycle 36 (2026-09-27): 8 pages (NRW, Bayern)
 Lüdenscheid, Coburg, Freising, Dachau, Detmold, Bad Salzuflen, Amberg, Weiden i. d. OPf. 348 pages, audit 0 errors, similarity max 28.7 %.
 Owner check: Lüdenscheid A45 status (bridge closures/Bauarbeiten not mentioned on the page; check before indexing); Coburg A73 (open since 2008-09-05); Detmold "nächste A2-Anschlussstelle ~22 km" (Wikipedia); Weiden B15/St 2657 status; Freising St 2350 (ex-B11) and Anschlussstellen Freising Süd/Mitte/Ost naming; Amberg B85/B299 numbers (inferred from route description in the extract).
+
+## Cycle 37 (2026-09-27 ~08:55): 8 pages (Rhein-Sieg, Ruhr, Hessen, BW)
+Bergheim, Troisdorf, Siegburg, Ahlen, Gummersbach, Bad Homburg vor der Höhe, Hattingen, Ravensburg. 356 pages, audit 0 errors, similarity max 29.7% (Ahlen/Hof, added a distinguishing Werse section to fix an earlier 31.1%).
+Owner check: Siegburg A560 (no dedicated Autobahn page yet, referenced only by name); Hattingen has no own Autobahn anschluss (confirmed from source, all access via neighbouring cities); Bad Homburg population (31.12.2025 per source); Troisdorf Kaiserbauruine demolished 2001 (historical, no longer exists).

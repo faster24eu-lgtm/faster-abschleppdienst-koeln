@@ -194,3 +194,19 @@ stadt-detmold	bielefeld,paderborn,herford,guetersloh,minden	a2,a44
 stadt-bad-salzuflen	herford,bielefeld,detmold,minden,guetersloh	a2
 stadt-amberg	nuernberg,regensburg,weiden,bayreuth,ansbach	a6
 stadt-weiden	amberg,regensburg,bayreuth,hof,plauen	a93
+stadt-bergheim	kerpen,frechen,dueren,koeln
+a61
+stadt-troisdorf	siegburg,bonn,koeln
+a59,a3
+stadt-siegburg	troisdorf,bonn,koeln
+a3,a560
+stadt-ahlen	hamm,luenen,guetersloh,muenster
+a1,a2
+stadt-gummersbach	luedenscheid,koeln,hagen,siegen,remscheid
+a45
+stadt-bad-homburg	frankfurt,wiesbaden,offenbach,darmstadt
+a5-hessen-baden
+stadt-hattingen	bochum,wuppertal,witten,essen
+a43,a40
+stadt-ravensburg	friedrichshafen,konstanz,ulm
+a96
