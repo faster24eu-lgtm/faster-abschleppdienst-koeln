@@ -385,8 +385,8 @@ for my $slug (@order) {
   # header with region menu
   my $menu = join('', map { sprintf('<a href="%s.html">%s</a>', $_->[1], $_->[0]) } @{$MENU{$region}});
   my $hd = $header; $hd =~ s/\@\@MENU\@\@/$menu/; $hd =~ s/\@\@WA\@\@/$wa/g;
-  # PREVIEW MODE: every page is hidden from search engines until launch (remove this line's noindex to go live)
-  my $robots = qq{<meta name="robots" content="noindex, nofollow">\n};
+  # Site is live: pages are indexable unless their marker's flag is explicitly "noindex" (impressum, datenschutz, danke).
+  my $robots = (($p->{flag}//'') eq 'noindex') ? qq{<meta name="robots" content="noindex, nofollow">\n} : '';
   # title / description (max 60 / 155 characters)
   my $suffix = ' | Faster Abschleppdienst';
   my $tt = $p->{title}; $tt =~ s/ \| Faster (Abschleppdienst|Depannage Takeldienst)$//;

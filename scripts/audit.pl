@@ -18,7 +18,11 @@ for my $p (@pages) {
   my ($d) = $h =~ /name="description" content="(.*?)"/s; bad("$p: no description") unless $d;
   (my $dd = $d//'') =~ s/&amp;/&/g; bad("$p: description >155 (".length($dd).")") if length($dd) > 155;
   bad("$p: no canonical") unless $h =~ /<link rel="canonical" href="https:\/\/abschleppdienst-faster\.de\//;
-  bad("$p: no noindex") unless $h =~ /<meta name="robots" content="noindex, nofollow"/ ;
+  if ($p =~ m{^(impressum|datenschutz|danke)/index\.html$}) {
+    bad("$p: missing noindex") unless $h =~ /<meta name="robots" content="noindex, nofollow"/;
+  } else {
+    bad("$p: unexpected noindex") if $h =~ /<meta name="robots" content="noindex, nofollow"/;
+  }
   while ($h =~ /<script type="application\/ld\+json">(.*?)<\/script>/gs) { my $j = $1; eval { decode_json($j) }; bad("$p: invalid JSON-LD: $@") if $@; }
   while ($h =~ /href="tel:([^"]*)"/g) { bad("$p: wrong phone $1") if $1 ne '+4917641956993' && $1 ne '+3233756737'; }
   while ($h =~ /href="https:\/\/wa\.me\/(\d+)/g) { bad("$p: wrong wa.me $1") if $1 ne '4917641956993'; }
