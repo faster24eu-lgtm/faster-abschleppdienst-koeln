@@ -79,7 +79,7 @@
 <h2>Was wir in Osnabrück tun</h2>
 <p>Platzhalter, wird automatisch ersetzt.</p>
 <h2>Sicher warten in Osnabrück</h2>
-<p>Auf A1, A30 oder A33: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. An der Dütebrücke: nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt. Am Flughafen: Warnblinker an und Terminal, Parkhaus und Ebene so genau wie möglich nennen.</p>
+<p>Auf A1, A30 oder A33: Schalten Sie die Warnblinkanlage ein und bringen Sie alle Mitfahrer hinter die Leitplanke, das Warndreieck folgt nur, wenn der Verkehr es zulässt. An der Dütebrücke: nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt. Am Flughafen: Warnblinker an und Terminal, Parkhaus und Ebene so genau wie möglich nennen.</p>
 <h2>Wo es in Osnabrück oft passiert</h2>
 <p>Am Kreuz Lotte/Osnabrück und am Kreuz Osnabrück-Süd ist der Verkehr durch den Fahrstreifenwechsel dichter. An der Dütebrücke ist die Fahrbahn oft schmaler als auf freier Strecke. Rund um den Flughafen Münster/Osnabrück ist zu bestimmten Reisezeiten mit mehr Verkehr zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Osnabrück</h2>
@@ -92,8 +92,8 @@
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Osnabrück</h2>
 <details><summary>Ich stehe am Kreuz Lotte/Osnabrück kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn, Fahrtrichtung und ob Sie vor oder hinter dem Kreuz stehen.</div></details>
-<details><summary>Können Sie mein Auto von Osnabrück zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Osnabrück liegt oder etwa in Bielefeld oder Münster.</div></details>
-<details><summary>Was kostet ein Abschleppdienst in Osnabrück?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Können Sie mein Auto von Osnabrück zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, das ist kein Problem. Sagen Sie uns die Zielwerkstatt, etwa in Bielefeld oder Münster, und wir nennen Ihnen den Preis für die Strecke gleich am Telefon.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Osnabrück?</summary><div>Pauschal lässt sich das nicht beantworten, es kommt auf Standort und Ziel an. Am Telefon erfahren Sie den Preis, bevor der Auftrag startet.</div></details>
 <details><summary>Wie weit ist der Flughafen?</summary><div>Der Flughafen Münster/Osnabrück liegt etwa 30 Kilometer entfernt.</div></details>
 </div></section>
 @@CTA@@

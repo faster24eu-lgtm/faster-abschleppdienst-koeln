@@ -3,13 +3,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Salzgitter</p><h1>Abschleppdienst Salzgitter</h1><p class="lead">Salzgitter liegt nördlich des Harzes im Südosten Niedersachsens, an A39 und A36 und nahe dem Dreieck Salzgitter an der A7. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Sieben Ortschaften, 31 Stadtteile</h2>
-<p>Salzgitter ist eine Großstadt nördlich des Harzes im Südosten Niedersachsens, kreisfrei und Sitz der Salzgitter AG. Zusammen mit den Städten Braunschweig und Wolfsburg bildet sie eine Regiopolregion. Das Stadtgebiet besteht aus sieben Ortschaften, die sich aus insgesamt 31 Stadtteilen zusammensetzen, jede Ortschaft hat einen gewählten Ortsrat. Für den Aufbau des Werks wurde nach dem Salzgitter-Gesetz vom 25. Juni 1941 mit Wirkung zum 1. April 1942 ein einheitlicher Stadtkreis gebildet. Das erklärt, warum die Stadt aus vielen verstreuten Ortsteilen besteht. Nennen Sie uns bei einer Panne Stadtteil und Straße, denn die Entfernungen zwischen den Stadtteilen sind groß.</p>
+<p>Salzgitter ist eine Großstadt nördlich des Harzes im Südosten Niedersachsens, kreisfrei und Sitz der Salzgitter AG. Das Stadtgebiet besteht aus sieben Ortschaften, die sich aus insgesamt 31 Stadtteilen zusammensetzen und teils weit auseinanderliegen. Nennen Sie uns bei einer Panne Stadtteil und Straße, denn die Entfernungen zwischen den Stadtteilen sind groß.</p>
 <h2>Lebenstedt und Salzgitter-Bad</h2>
 <p>Die beiden größten Stadtteile Lebenstedt im Norden und Salzgitter-Bad im Süden verbindet die Nord-Süd-Straße. Wenn Sie auf dieser Verbindung liegen bleiben, sagen Sie uns Fahrtrichtung und Querstraße. Für die Anfahrt ist entscheidend, ob Sie im Norden oder Süden der Stadt stehen, die Distanz zwischen beiden ist erheblich.</p>
 <h2>A39, A36 und Dreieck Salzgitter</h2>
 <p>Durch das nördliche Stadtgebiet führt die A39 von Braunschweig. An ihr hat die Stadt fünf Anschlussstellen bis zum Dreieck Salzgitter, wo die A39 in die A7 Kassel–Hannover übergeht. Östlich der Stadt führt die A36 Braunschweig–Vienenburg vorbei, die Stadt ist über vier Anschlussstellen zu erreichen. Ferner führen die Bundesstraßen B6 und B248 durch die Stadt. Bei einer Panne an einer der Autobahnen nennen Sie uns Nummer, Richtung und Anschlussstelle. Zur A7 lesen Sie <a href="autobahn-a7.html">Panne auf der A7</a>, zu den Nachbarn <a href="stadt-braunschweig.html">Braunschweig</a> und <a href="stadt-wolfsburg.html">Wolfsburg</a>.</p>
 <h2>Salzgittersee</h2>
-<p>Das größte Gewässer ist der Salzgittersee, ein überregional bekanntes Naherholungsgebiet mit 75 Hektar Wasserfläche und 2.120 Metern Nord-Süd-Ausdehnung. An Ufer und Zufahrten gibt es Parkplätze ohne Hausnummer. Nennen Sie uns dann Parkplatz oder Zufahrt und die nächste Straße.</p>
+<p>Das größte Gewässer ist der Salzgittersee, ein überregional bekanntes Naherholungsgebiet mit großer Wasserfläche. An Ufer und Zufahrten gibt es Parkplätze ohne Hausnummer. Nennen Sie uns dann Parkplatz oder Zufahrt und die nächste Straße.</p>
+<h2>Was wir in Salzgitter tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Salzgitter</h2>
+<p>Auf A39, A36 oder A7: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Auf der Nord-Süd-Straße zwischen Lebenstedt und Salzgitter-Bad: Warnblinker an, die Strecke ist lang und wenig überschaubar. Am Salzgittersee: Warnblinker an und nicht auf Rad- oder Fußwegen am Ufer stehen bleiben.</p>
+<h2>Wo es in Salzgitter oft passiert</h2>
+<p>Am Dreieck Salzgitter, wo A39 und A7 aufeinandertreffen, ist der Verkehr durch den Fahrstreifenwechsel dichter. Auf der Nord-Süd-Straße zwischen den weit auseinanderliegenden Stadtteilen ist eine Panne wegen der langen Distanzen schwerer einzugrenzen. Rund um den Salzgittersee ist an schönen Tagen mit mehr Fußgänger- und Radverkehr zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Salzgitter</h2>
 <ul class="ticks">
 <li>Stadtteil oder Ortschaft und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -19,10 +25,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Salzgitter</h2>
-<details><summary>Wie viele Stadtteile hat Salzgitter?</summary><div>31 Stadtteile in sieben Ortschaften.</div></details>
-<details><summary>Wie viele Anschlussstellen hat die A39 in Salzgitter?</summary><div>Fünf bis zum Dreieck Salzgitter, wo sie in die A7 übergeht. Die A36 hat vier Anschlussstellen östlich der Stadt.</div></details>
+<details><summary>Ich stehe am Dreieck Salzgitter kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns, ob Sie auf der A39 oder der A7 stehen, und Ihre Fahrtrichtung.</div></details>
 <details><summary>Was verbindet Lebenstedt und Salzgitter-Bad?</summary><div>Die Nord-Süd-Straße verbindet die beiden größten Stadtteile.</div></details>
-<details><summary>Wie groß ist der Salzgittersee?</summary><div>75 Hektar Wasserfläche bei 2.120 Metern Nord-Süd-Ausdehnung.</div></details>
+<details><summary>Können Sie mein Auto von Salzgitter zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Salzgitter liegt oder etwa in Braunschweig oder Wolfsburg.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Salzgitter?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
@@ -34,12 +40,18 @@
 <p>Fürth ist eine kreisfreie Großstadt im bayerischen Regierungsbezirk Mittelfranken. Sie bildet mit Nürnberg und Erlangen das Kerngebiet des Ballungsraums Nürnberg, zu dem auch Schwabach zählt, und ist Teil der Metropolregion Nürnberg. Die drei Städte gehen im Stadtgebiet ineinander über. Das bedeutet bei einer Panne: Sagen Sie uns nicht nur "Fürth", sondern Stadtteil und Straße, denn eine Straße kann auf der Grenze zu Nürnberg liegen. Nennen Sie uns bei Grenzstraßen die Hausnummer.</p>
 <h2>Kreuz Fürth/Erlangen: A3 und A73</h2>
 <p>Am Kreuz Fürth/Erlangen kreuzt die A73, hier Frankenschnellweg genannt, die A3. Die A73 führt von Suhl über Coburg, Bamberg und Erlangen nach Nürnberg und Feucht. Im Nürnberger Stadtgebiet besteht eine Baulücke mit drei ampelgeregelten Kreuzungen. Zur Strecke lesen Sie <a href="stadt-nuernberg.html">Abschleppdienst Nürnberg</a> und <a href="autobahn-a3.html">Panne auf der A3</a>. Wenn Sie an einem dieser Knoten liegen bleiben, nennen Sie uns Autobahn, Richtung und Anschlussstelle.</p>
-<h2>Kanal und Hafen von 1835 bis 1846</h2>
-<p>In den 1840er Jahren wurde Fürth zur Hafenstadt, als der von 1835 bis 1846 erbaute Ludwig-Donau-Main-Kanal die Stadt erreichte. Er lag zwischen der Kernstadt und Poppenreuth, dort gab es den Handelshafen Fürth für den Güterumschlag. Der Main-Donau-Kanal und die Regnitz teilen heute das Stadtgebiet, es gibt nur wenige Übergänge. Nennen Sie uns bei einer Panne an einer Brücke die Fahrtrichtung.</p>
-<h2>Flugplatz Atzenhof</h2>
-<p>1914 entstand in Atzenhof ein Flugplatz für das dritte bayerische Armee-Korps, der nach dem Ersten Weltkrieg als Flughafen Fürth-Nürnberg in die Liste der internationalen Flughäfen aufgenommen wurde und der achtgrößte unter den 88 deutschen Flughäfen war. Die Junkers-Werke verlegten Reparaturwerkstatt und Endmontage dorthin. Für Fahrzeuge in der Nähe des früheren Flugplatzes brauchen wir Straße und Zufahrt.</p>
+<h2>Kanal und Hafen</h2>
+<p>Der Ludwig-Donau-Main-Kanal, der die alte Kernstadt mit Poppenreuth verbindet, sowie der Main-Donau-Kanal und die Regnitz teilen das Stadtgebiet, es gibt nur wenige Übergänge. Nennen Sie uns bei einer Panne an einer Brücke die Fahrtrichtung.</p>
+<h2>Atzenhof</h2>
+<p>Atzenhof im Nordwesten Fürths ist ein früheres Flugplatzgelände, heute vor allem Wohn- und Gewerbegebiet. Für Fahrzeuge in diesem Bereich brauchen wir Straße und Zufahrt.</p>
 <h2>Radverkehr</h2>
-<p>Seit Februar 2024 ist Fürth in das Fahrradverleihsystem VAG Rad der Nürnberger Verkehrs-Aktiengesellschaft in Kooperation mit Nextbike eingebunden. Wenn Ihr Fahrzeug in der Innenstadt liegen bleibt, achten Sie auf Radwege und Stationen und nennen Sie uns die Straße.</p>
+<p>In der Fürther Innenstadt ist der Radverkehr spürbar, dazu kommen Fahrradverleihstationen. Wenn Ihr Fahrzeug in der Innenstadt liegen bleibt, achten Sie auf Radwege und Stationen und nennen Sie uns die Straße.</p>
+<h2>Was wir in Fürth tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Fürth</h2>
+<p>Auf A3 oder A73: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Am Kanal oder an der Regnitz: nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt. In der Innenstadt mit vielen Radfahrern: Fahrzeug wenn möglich auf die Fahrbahn statt auf den Radweg stellen.</p>
+<h2>Wo es in Fürth oft passiert</h2>
+<p>Am Kreuz Fürth/Erlangen, wo A3 und A73 aufeinandertreffen, ist der Verkehr durch den Fahrstreifenwechsel dichter. An den wenigen Brücken über Kanal und Regnitz ist wenig Platz zum Ausweichen. In der Innenstadt mit viel Radverkehr ist eine liegen gebliebene Panne unübersichtlicher als anderswo.</p>
 <h2>So nennen Sie Ihren Standort in Fürth</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -49,10 +61,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Fürth</h2>
-<details><summary>Zu welchem Ballungsraum gehört Fürth?</summary><div>Fürth bildet mit Nürnberg und Erlangen das Kerngebiet des Ballungsraums Nürnberg.</div></details>
-<details><summary>Wo kreuzen sich A3 und A73?</summary><div>Am Kreuz Fürth/Erlangen. Die A73 heißt dort Frankenschnellweg.</div></details>
-<details><summary>Was ist der Ludwig-Donau-Main-Kanal?</summary><div>Ein zwischen 1835 und 1846 gebauter Kanal, der 1840er Jahre Fürth zur Hafenstadt machte.</div></details>
+<details><summary>Ich stehe am Kreuz Fürth/Erlangen kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn und Ihre Fahrtrichtung.</div></details>
 <details><summary>Ich stehe an der Grenze zu Nürnberg. Was sage ich?</summary><div>Straße und Hausnummer und dass die Straße auf der Stadtgrenze liegt.</div></details>
+<details><summary>Können Sie mein Auto von Fürth zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Fürth liegt oder etwa in Nürnberg oder Erlangen.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Fürth?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
