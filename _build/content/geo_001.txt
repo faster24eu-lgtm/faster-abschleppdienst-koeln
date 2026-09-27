@@ -1,0 +1,94 @@
+=== stadt-berlin | Abschleppdienst Berlin: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen in Berlin: 12 Bezirke, Stadtring A100, A111, A115 (AVUS), Umweltzone im S-Bahn-Ring. So beschreiben Sie Ihren Standort. | page ===
+<!--AREAS: Berlin, Berlin-Mitte, Charlottenburg-Wilmersdorf, Tempelhof-Schöneberg, Neukölln, Treptow-Köpenick -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin</p><h1>Abschleppdienst Berlin</h1><p class="lead">Wer in Berlin liegen bleibt, steht auf einem Stadtring mit Tunneln, an einer ehemaligen Rennstrecke oder in einem der 97 Ortsteile. Ein Anruf oder eine WhatsApp mit Standort genügt, wir organisieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zwölf Bezirke, 97 Ortsteile</h2>
+<p>Berlin ist ein Stadtstaat und seit dem 1. Januar 2001 in zwölf Bezirke gegliedert: Mitte, Friedrichshain-Kreuzberg, Pankow, Charlottenburg-Wilmersdorf, Spandau, Steglitz-Zehlendorf, Tempelhof-Schöneberg, Neukölln, Treptow-Köpenick, Marzahn-Hellersdorf, Lichtenberg und Reinickendorf. Darunter liegen 97 Ortsteile. Für Ihre Standortangabe hilft der Ortsteil mehr als der Bezirk: "Charlottenburg-Wilmersdorf" sagt wenig, "Westend" oder "Halensee" sagen viel. Nennen Sie außerdem die Straße und die nächste Querstraße oder einen S-Bahnhof, dann kann ein Fahrer Sie ohne Rückfragen finden.</p>
+<h2>Die A100, der Berliner Stadtring</h2>
+<p>Die Bundesautobahn 100 verbindet in einem Bogen die Bezirke Mitte, Charlottenburg-Wilmersdorf, Tempelhof-Schöneberg, Neukölln und Treptow-Köpenick. Sie folgt in weiten Teilen der Trasse der Ringbahn, des inneren S-Bahn-Rings. Im Nordwesten beginnt sie als Verlängerung der Seestraße und erreicht das Autobahndreieck Charlottenburg, an dem die A111 Richtung Tegel und Oranienburg abzweigt. Am Dreieck Funkturm, direkt beim Messegelände, geht die A115 Richtung Potsdam ab. Danach folgen ein 212 Meter langer Tunnel am Rathenauplatz, das Autobahnkreuz Schöneberg mit der A103 und im Ortsteil Britz der längste Tunnel der Strecke. Am Dreieck Neukölln zweigt die A113 nach Süden ab, die A100 selbst endet vorläufig an der Anschlussstelle Am Treptower Park. Wer auf diesem Stück liegen bleibt, nennt am besten Dreieck, Kreuz oder Anschlussstelle und die Fahrtrichtung. In Tunneln gelten besondere Regeln, siehe <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>.</p>
+<h2>A111 und A115: Zubringer mit Geschichte</h2>
+<p>Die A111 führt vom Dreieck Charlottenburg über das ehemalige Kreuz Reinickendorf zum Kreuz Oranienburg und verbindet den Stadtring mit dem Berliner Ring (A10). Auf ihr liegen unter anderem die Anschlussstelle Kurt-Schumacher-Damm und ein Tunnel am Flughafen Tegel. Die A115 verbindet das Dreieck Funkturm mit dem Dreieck Nuthetal und verläuft teilweise auf der Trasse der früheren Rennstrecke AVUS, die 1921 als erste reine Autostraße Deutschlands eröffnet wurde und heute als Gesamtanlage unter Denkmalschutz steht. Zwei Bauwerke der alten AVUS sind erhalten: die Tribüne am Nordende und das frühere Verwaltungsgebäude, das 1977 zu einer Raststätte umgebaut wurde. Für Sie ist das eine praktische Orientierungshilfe: Wer an der Raststätte oder am Kreuz Zehlendorf steht, kann beides als Punkt nennen.</p>
+<h2>Die Umweltzone im S-Bahn-Ring</h2>
+<p>Seit dem 1. Januar 2008 gibt es in Berlin eine Umweltzone mit rund 88 Quadratkilometern innerhalb des S-Bahn-Rings, seit dem 1. Januar 2010 ist dafür die grüne Plakette nötig. Der südliche Teil der Stadtautobahn, der innerhalb des Rings liegt, gehört nicht zur Zone. Für Sie ist das vor allem wichtig, wenn Ihr Ziel oder Ihr Standort innerhalb der Zone liegt. Die genaue Abgrenzung finden Sie auf den Seiten des Landes Berlin, wir treffen dazu keine Zusagen.</p>
+<h2>Was wir in Berlin tun</h2>
+<p>Wir nehmen Ihren Anruf oder Ihre WhatsApp entgegen, klären Fahrzeug, Zustand, Standort und Ziel und organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien). Der Einsatz in Berlin selbst wird von einem Partner vor Ort gefahren, wir bleiben Ihr Ansprechpartner. Ob es Starthilfe sein soll, ein Reifenwechsel oder der Transport in eine Werkstatt: Beschreiben Sie das Problem so genau wie möglich. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr und Ort abhängt.</p>
+<h2>So beschreiben Sie Ihren Standort in Berlin</h2>
+<ul class="ticks">
+<li>Ortsteil und Straße, dazu die nächste Querstraße oder ein S- oder U-Bahnhof.</li>
+<li>Auf der A100, A111 oder A115: Dreieck, Kreuz oder Anschlussstelle und die Fahrtrichtung.</li>
+<li>In Tunneln: den Tunnelnamen oder die nächste Anschlussstelle vor dem Tunnel.</li>
+<li>Bei Parkhäusern oder Tiefgaragen: Ebene und Höhe der Einfahrt, siehe <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Tiefgarage und Parkhaus</a>.</li>
+</ul>
+<p>Benachbart im Sinne der großen Strecken sind <a href="stadt-hamburg.html">Hamburg</a> über die A24 und <a href="stadt-muenchen.html">München</a> über die A9. Alle Städte finden Sie unter <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Berlin</h2>
+<details><summary>Wie viele Bezirke hat Berlin?</summary><div>Zwölf Bezirke, die seit dem 1. Januar 2001 bestehen. Sie sind in 97 Ortsteile gegliedert.</div></details>
+<details><summary>Ich stehe auf der A100. Was sage ich?</summary><div>Nennen Sie die Fahrtrichtung und die letzte Anschlussstelle, das nächste Dreieck oder Kreuz, etwa Funkturm, Schöneberg oder Neukölln. Ein Standort per WhatsApp hilft zusätzlich.</div></details>
+<details><summary>Gilt in Berlin eine Umweltzone?</summary><div>Ja, innerhalb des S-Bahn-Rings, seit 2010 mit grüner Plakette. Der südliche Teil der Stadtautobahn im Ring gehört nicht dazu. Die genaue Regelung erfahren Sie beim Land Berlin.</div></details>
+<details><summary>Nennen Sie eine Ankunftszeit?</summary><div>Nein. Die Dauer hängt von Standort, Verkehr und Tageszeit ab. Wir sagen Ihnen am Telefon, was wir wissen.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-hamburg | Abschleppdienst Hamburg: Pannenhilfe, Elbtunnel, A7 | Pannenhilfe und Abschleppen in Hamburg: sieben Bezirke, A7 mit Elbtunnel und Lärmschutztunneln, Hafen und Köhlbrandbrücke. So nennen Sie Ihren Standort. | page ===
+<!--AREAS: Hamburg, Hamburg-Altona, Hamburg-Harburg, Hamburg-Wandsbek, Hamburg-Bergedorf, Hamburg-Eimsbüttel, Hamburg-Nord, Hamburg-Mitte -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hamburg</p><h1>Abschleppdienst Hamburg</h1><p class="lead">Hamburg liegt an der Elbe, und wer hier liegen bleibt, steht oft vor Tunnel, Brücke oder Hafen. Sagen Sie uns, wo Sie sind, wir koordinieren Pannenhilfe und Abschleppen.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Sieben Bezirke und 104 Stadtteile</h2>
+<p>Hamburg ist Land und Einheitsgemeinde. Seit 1951 gliedert sich die Stadt in sieben Bezirke: Hamburg-Mitte, Altona, Eimsbüttel, Hamburg-Nord, Wandsbek, Bergedorf und Harburg. Sie umfassen zusammen 104 Stadtteile, die meisten sind statistisch in weitere Ortsteile geteilt. Der flächengrößte Stadtteil ist Wilhelmsburg, der bevölkerungsreichste Rahlstedt. Zum Stadtgebiet gehört sogar die Inselgruppe Neuwerk in der Nordsee. Für Ihre Standortangabe bedeutet das: Nennen Sie den Stadtteil, nicht den Bezirk, und dazu die Straße. "Hamburg-Mitte" allein ist für einen Fahrer zu ungenau.</p>
+<h2>Die A7 quer durch die Stadt</h2>
+<p>Im Stadtteil Schnelsen erreicht die A7 das Hamburger Stadtgebiet. Über den halbkreisförmigen Ring 3 besteht ein Anschluss an den Flughafen Hamburg-Fuhlsbüttel. Danach folgt ein rund 500 Meter langer Lärmschutztunnel, am Autobahndreieck Hamburg-Nordwest mündet die A23 ein. Nach einem zweiten Lärmschutztunnel von rund 900 Metern überquert die Autobahn auf der Langenfelder Brücke die Gleise zum Bahnhof Altona und führt am Altonaer Volkspark vorbei. Dort endet der achtstreifige Ausbau vorerst, bis zum Elbtunnel wird nach aktueller Planung bis etwa 2028 erweitert, mit einem dritten Lärmschutztunnel von 2,3 Kilometern. Wenn Sie hier stehen, nennen Sie Richtung und den nächsten Tunnel oder das Dreieck Nordwest.</p>
+<h2>Der Elbtunnel: vier Röhren, ein Nadelöhr</h2>
+<p>Der Neue Elbtunnel führt die A7 unter der Elbe hindurch, in vier Röhren mit zwei je Fahrtrichtung. Er wurde am 10. Januar 1975 eröffnet und ist mit 3.325 Metern Gesamtlänge einer der längsten vierröhrigen Unterwasserstraßentunnel der Welt. Eine Tunnelbetriebszentrale über dem Nordportal ist rund um die Uhr besetzt und kann Fahrer über Kameras beobachten und direkt ansprechen. Bei einer Panne im Tunnel gilt: Warnblinker an, Fahrzeug so weit wie möglich an den Rand, Notrufeinrichtung nutzen, mehr im <a href="ratgeber-panne-im-tunnel.html">Ratgeber zur Panne im Tunnel</a>. Der Alte Elbtunnel von 1911 zwischen St. Pauli und Steinwerder dient dagegen nur dem innerstädtischen Verkehr und hat mit der Autobahn nichts zu tun. Verwechseln Sie beide nicht, wenn Sie uns Ihren Standort nennen.</p>
+<h2>Hochstraße Elbmarsch, Köhlbrandbrücke und Hafen</h2>
+<p>Südlich der Elbe beginnt die Hochstraße Elbmarsch, mit mehr als vier Kilometern die längste Straßenbrücke Deutschlands. Sie führt in der Nähe der Containerterminals Burchardkai und Eurogate vorbei, überquert ein Hafenbecken und die westliche Rampe der Köhlbrandbrücke, die über eine Anschlussstelle direkt erreichbar ist. Bei Moorburg steigt die Autobahn in die Harburger Berge. Am Dreieck Hamburg-Südwest verbindet die kurze A261 die A7 mit der A1. Im Hafengebiet gibt es Bereiche mit Betriebsgelände und Lkw-Verkehr. Dort sollten Sie uns Terminal, Straße oder Tor nennen, damit ein Fahrzeug den richtigen Zugang findet.</p>
+<h2>Was wir in Hamburg tun</h2>
+<p>Sie rufen an oder schreiben per WhatsApp, wir klären Fahrzeug, Zustand und Ziel und organisieren den Einsatz. Faster sitzt in Antwerpen (Belgien), gefahren wird von Partnerbetrieben vor Ort. Wir nennen Ihnen keine feste Ankunftszeit, weil Elbtunnel, Baustellen und Hafenverkehr sie stark beeinflussen können.</p>
+<h2>So nennen Sie Ihren Standort in Hamburg</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu ein Bahnhof oder eine Kreuzung.</li>
+<li>Auf der A7: Richtung, letzte Anschlussstelle, Dreieck Nordwest, Volkspark oder Elbtunnel.</li>
+<li>Im Hafen: Terminal, Tor oder Straße und ob es Betriebsgelände ist.</li>
+<li>Bei Wasser oder Sturm: Hinweise im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</li>
+</ul>
+<p>Weitere große Städte sind <a href="stadt-berlin.html">Berlin</a> und <a href="stadt-muenchen.html">München</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Hamburg</h2>
+<details><summary>Wie viele Bezirke hat Hamburg?</summary><div>Sieben Bezirke mit zusammen 104 Stadtteilen.</div></details>
+<details><summary>Ich stehe im Elbtunnel. Was tun?</summary><div>Warnblinker einschalten, weit an den Rand, Notrufeinrichtung nutzen und dann uns anrufen. Die Tunnelzentrale ist rund um die Uhr besetzt.</div></details>
+<details><summary>Ist der Alte Elbtunnel ein Autobahntunnel?</summary><div>Nein. Der Alte Elbtunnel von 1911 dient dem innerstädtischen Verkehr. Die A7 nutzt den Neuen Elbtunnel.</div></details>
+<details><summary>Kommen Sie auch in den Hafen?</summary><div>Wir organisieren Einsätze im Stadtgebiet. Für Betriebsgelände im Hafen brauchen wir Terminal, Tor und Straße, dann klären wir, ob der Zugang möglich ist.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-muenchen | Abschleppdienst München: Pannenhilfe, Mittlerer Ring | Pannenhilfe und Abschleppen in München: 25 Stadtbezirke, Mittlerer Ring, A8, A9, A95, A96, A99 und Umweltzone. So beschreiben Sie Ihren Standort. | page ===
+<!--AREAS: München, München-Schwabing, München-Freimann, München-Laim, München-Sendling -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">München</p><h1>Abschleppdienst München</h1><p class="lead">Wer in München liegen bleibt, steht meist am Mittleren Ring, an einer Zufahrt zur Autobahn oder in einem der 25 Stadtbezirke. Sagen Sie uns, wo, wir kümmern uns um die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>25 Stadtbezirke, aber Viertel im Alltag</h2>
+<p>München ist in 25 Stadtbezirke gegliedert. Bis zum Zweiten Weltkrieg war ihre Zahl auf 41 gestiegen, bei Neugliederungen 1992 und 1996 wurde sie auf 25 verringert. Im Alltag beziehen sich die Münchner eher auf Viertel und Stadtteile wie Schwabing, Sendling oder Haidhausen als auf die Nummer des Bezirks. Für Ihre Standortangabe heißt das: Nennen Sie das Viertel, die Straße und eine U-Bahn- oder S-Bahn-Station. Die Bezirksnummer allein reicht selten.</p>
+<h2>Der Mittlere Ring</h2>
+<p>Der Mittlere Ring, amtlich B 2 R, ist 29,169 Kilometer lang, verläuft nur im Stadtgebiet und gilt als staureichste Strecke Deutschlands. Er ist das Rückgrat des Münchner Straßenverkehrs und der schnellste Zubringer zu den wichtigen Achsen der Stadt. Von den acht Autobahnen, die nach München führen, führen fünf zum Ring: A8 Richtung Salzburg, A9 Richtung Nürnberg und Berlin und A96 Richtung Lindau haben direkten Anschluss, die A94 Richtung Passau erreicht ihn über ein kurzes Stück der Einsteinstraße, die A95 Richtung Garmisch-Partenkirchen über die B2. Die A8 Richtung Stuttgart hat eine rund sieben Kilometer lange Verbindung über Verdi- und Arnulfstraße. Bei einer Panne am Ring nennen Sie uns Fahrtrichtung, Tunnel oder Kreuzung, etwa einen Tunnel wie den Richard-Strauss-Tunnel, und die nächste Ausfahrt.</p>
+<h2>Der Autobahnring A99</h2>
+<p>Weiter außen verbindet die A99, der Autobahnring München, mehrere Autobahnen einige Kilometer außerhalb der Stadt und ermöglicht dem Fernverkehr die Umfahrung. Sie führt von der A96 im Südwesten über die A8 im Nordwesten und die A92 zur A9 im Norden weiter zur A94 im Osten und zur A8 und A995 im Süden. Der Ring wurde bereits in den 1930er Jahren als vollständiger Ring projektiert, ist aber bis heute nicht geschlossen. Das erklärt, warum sich Autofahrer am Rand Münchens leicht verfahren. Wenn Sie an einem Kreuz oder Dreieck der A99 stehen, nennen Sie den Namen des Knotens, zum Beispiel Kreuz München-West, München-Nord oder Dreieck Feldmoching.</p>
+<h2>Die A9 endet in Schwabing</h2>
+<p>Die A9, die Berlin und München verbindet, endete ursprünglich an der Anschlussstelle München-Freimann (74). Zwischen 1958 und 1960 wurde sie über die Hochbrücke Freimann bis zur Anschlussstelle München-Schwabing (76) verlängert, wo sie heute endet. Dort geht sie in den Mittleren Ring und das Stadtstraßennetz über. Wenn Sie hier stehen, sagen Sie uns Fahrtrichtung und Anschlussstelle.</p>
+<h2>Die Umweltzone in München</h2>
+<p>In München gilt eine Umweltzone mit grüner Plakette. Nach unserem Kenntnisstand liegt sie innerhalb des Mittleren Rings, seit dem 1. Februar 2023 einschließlich des Rings selbst, mit einer Ausnahme im Bereich Brudermühlbrücke bis zur B11. Die genaue Abgrenzung und die Frage, was für Ihr Fahrzeug gilt, klären Sie bei der Stadt München. Wir machen dazu keine Zusagen. Für Sie ist es wichtig, uns mitzuteilen, welche Plakette Ihr Fahrzeug hat, falls Ihr Ziel in der Zone liegt.</p>
+<h2>Was wir in München tun</h2>
+<p>Wir organisieren Pannenhilfe und Abschleppen: Sie beschreiben Standort, Fahrzeug und Problem, wir koordinieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien). In München fahren Partner vor Ort. Eine Ankunftszeit nennen wir nicht, weil der Verkehr in der Stadt stark schwanken kann.</p>
+<h2>So beschreiben Sie Ihren Standort in München</h2>
+<ul class="ticks">
+<li>Viertel und Straße, dazu U- oder S-Bahn-Station oder eine Kreuzung.</li>
+<li>Am Mittleren Ring: Fahrtrichtung, Tunnel oder nächste Kreuzung.</li>
+<li>Auf Autobahnen: Nummer, Fahrtrichtung, Anschlussstelle oder Kreuz.</li>
+<li>Im Parkhaus: Ebene, Einfahrt und Höhe, siehe <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Tiefgarage und Parkhaus</a>.</li>
+</ul>
+<p>Große Verbindungen bestehen nach <a href="stadt-berlin.html">Berlin</a> über die A9 und nach <a href="stadt-hamburg.html">Hamburg</a>. Allgemeine Hinweise zur Panne finden Sie im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu München</h2>
+<details><summary>Wie viele Stadtbezirke hat München?</summary><div>25 Stadtbezirke. Im Alltag sind aber Viertel wie Schwabing oder Sendling wichtiger für die Standortangabe.</div></details>
+<details><summary>Ich stehe am Mittleren Ring. Was sage ich?</summary><div>Fahrtrichtung, Tunnel oder Kreuzung und die nächste Ausfahrt, dazu einen Standort per WhatsApp.</div></details>
+<details><summary>Gilt in München eine Umweltzone?</summary><div>Ja, mit grüner Plakette innerhalb des Mittleren Rings. Die genaue Abgrenzung und Ausnahmen erfahren Sie bei der Stadt München.</div></details>
+<details><summary>Wo endet die A9 in München?</summary><div>An der Anschlussstelle München-Schwabing (76). Danach geht sie in das städtische Straßennetz über.</div></details>
+</div></section>
+@@CTA@@

@@ -126,3 +126,9 @@ ratgeber-umweltzone-koeln	ratgeber-abschleppen-koeln-kosten.html	Abschleppen in 
 ratgeber-abschleppen-koeln-kosten	ratgeber-abschleppdienst-kosten.html	Was kostet ein Abschleppdienst?	Allgemeine Richtwerte
 ratgeber-abschleppen-koeln-kosten	ratgeber-unfall-abschleppkosten.html	Kosten nach einem Unfall	Wer zahlt?
 ratgeber-abschleppen-koeln-kosten	abschleppen-bergung-koeln.html	Abschleppen und Bergung Köln	Ablauf und Vorbereitung
+stadt-berlin	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel der A100 und A111
+stadt-berlin	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-hamburg	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Elbtunnel und Lärmschutztunnel
+stadt-hamburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-muenchen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-muenchen	ratgeber-tiefgarage-parkhaus-liegengeblieben.html	Tiefgarage und Parkhaus	Höhe und Rampen

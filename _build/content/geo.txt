@@ -11,3 +11,6 @@ abschleppdienst-a5	A5 Karlsruhe bis Offenburg	A5	ab
 koeln-a57	A57 bei Köln	A57	ab
 koeln-a59	A59 bei Köln	A59	ab
 koeln-a555	A555 Köln bis Bonn	A555	ab
+stadt-berlin	Berlin	Berlin	
+stadt-hamburg	Hamburg	Hamburg	
+stadt-muenchen	München	Bayern	

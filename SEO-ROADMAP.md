@@ -252,3 +252,8 @@ Owner decision: expand to all of Germany (partners exist everywhere), organic on
 - Hubs `/staedte/` (grouped by Bundesland) and `/autobahnen/` are generated from `geo.txt`; linked from the root home page and from the header menu ("Alle Städte"). Existing Köln, Karlsruhe region and A1/A3/A4/A5/A57/A59/A555 pages are already listed in `geo.txt`.
 - Claim to confirm with owner: hub text "in vielen Fällen können wir auch dort Hilfe organisieren" (cities not listed) — owner says partners exist everywhere.
 - Tiers: 1) ~80 largest cities (700+ words, real per-city facts), 2) Autobahn pages with real exit lists, 3) Landkreis/town pages only with unique content and 25 % max overlap.
+
+### Cycle 17 (2026-09-27 ~02:45) – Berlin, Hamburg, München
+- New: `/staedte/berlin/`, `/staedte/hamburg/`, `/staedte/muenchen/` (content in `geo_001.txt`, ~650–700 words of main text each, 4 FAQ each). Facts from German Wikipedia (Bezirke/Ortsteile counts, A100/A111/A115, Elbtunnel, A7 Hamburg section, Mittlerer Ring, A99, A9 end) and web search (Umweltzone Berlin 88 km² since 2008 / green since 2010; München zone incl. Mittlerer Ring since 1 Feb 2023).
+- **Owner check:** the München Umweltzone extension date/exception (Brudermühlbrücke–B11) comes from third-party guide sites, worded as "nach unserem Kenntnisstand". Hamburg: "Ausbau bis etwa 2028" and the third 2.3 km Lärmschutztunnel come from Wikipedia and may have changed. Berlin/Hamburg/München neighbours: only each other so far (more city links follow as pages appear).
+- Checks: 73 pages, 0 broken links, no page pair ≥10 % overlap.
