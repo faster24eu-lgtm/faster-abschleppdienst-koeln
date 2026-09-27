@@ -229,3 +229,15 @@ autobahn-a113	A113 Berlin Zubringer Schönefeld	A113	ab
 autobahn-a620	A620 Saarlouis bis Saarbrücken	A620	ab
 stadt-neumuenster	Neumünster	Schleswig-Holstein	
 stadt-wismar	Wismar	Mecklenburg-Vorpommern	
+stadt-marl	Marl	Nordrhein-Westfalen	
+stadt-dorsten	Dorsten	Nordrhein-Westfalen	
+stadt-lippstadt	Lippstadt	Nordrhein-Westfalen	
+stadt-castrop-rauxel	Castrop-Rauxel	Nordrhein-Westfalen	
+stadt-arnsberg	Arnsberg	Nordrhein-Westfalen	
+stadt-rheine	Rheine	Nordrhein-Westfalen	
+stadt-goslar	Goslar	Niedersachsen	
+stadt-wolfenbuettel	Wolfenbüttel	Niedersachsen	
+stadt-hameln	Hameln	Niedersachsen	
+stadt-hof	Hof (Saale)	Bayern	
+stadt-ansbach	Ansbach	Bayern	
+stadt-wittenberg	Lutherstadt Wittenberg	Sachsen-Anhalt	

@@ -1,0 +1,334 @@
+=== stadt-marl | Abschleppdienst Marl: Pannenhilfe A43, A52, A2, B225 | Pannenhilfe und Abschleppen in Marl: nördliches Ruhrgebiet, A43 in Sinsen, vier Anschlussstellen der A52, A2 am Übergang zur B224 und die B225. | page ===
+<!--AREAS: Marl, Marl-Sinsen, Marl-Hüls, Marl-Lenkerbeck, Marl-Brassert, Marl-Drewer, Marl-Polsum -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Marl</p><h1>Abschleppdienst Marl</h1><p class="lead">Marl liegt im nördlichen Ruhrgebiet an A43 und A52. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Große kreisangehörige Stadt im Kreis Recklinghausen</h2>
+<p>Marl hat 86.899 Einwohner (31. Dezember 2025), nimmt auf der Liste der größten Städte Deutschlands den hundertsten Rang ein und ist die zweitgrößte Stadt des Kreises Recklinghausen. Sie ist ein Mittelzentrum und gehört zur Metropolregion Rhein-Ruhr. Die Stadtteile sind traditionell nach Bauerschaften und ehemaligen Gemeinden benannt, im ersten Jahrzehnt des 21. Jahrhunderts wurde das Stadtgebiet in neue statistische Bezirke gegliedert. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-recklinghausen.html">Abschleppdienst Recklinghausen</a> und <a href="stadt-gelsenkirchen.html">Abschleppdienst Gelsenkirchen</a>.</p>
+<h2>A43, A52, A2 und B225</h2>
+<p>Im Marler Stadtgebiet verlaufen die A43 (Münster–Wuppertal) und die A52 (Marl–Essen–Düsseldorf–Roermond). An der A43 besteht im Stadtteil Sinsen die Möglichkeit zur Abfahrt, an der A52 gibt es insgesamt vier Anschlussstellen für Marl. Auf der A2 wird am Übergang zur B224 auf Marl hingewiesen (Anschluss „Essen/Gladbeck/Marl“). Auf Marler Stadtgebiet befindet sich außerdem die B225. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a43.html">Panne auf der A43</a>, <a href="autobahn-a52.html">Panne auf der A52</a> und <a href="autobahn-a2.html">Panne auf der A2</a>.</p>
+<h2>Lenkerbeck: vom Dorf zum geteilten Ortsteil</h2>
+<p>Der Ausbau der A43 Ende der 1970er Jahre wirkte sich deutlich auf den Stadtteil Lenkerbeck aus, da die Autobahn in Nord-Süd-Richtung direkt über den alten Dorfkern lief. Seitdem zerfällt der Ortsteil in einen mit Hüls verwachsenen Westteil und einen an Sinsen angeschlossenen Ostteil, dazu kommt ein Nordwestteil rechts des Silvertbachs. Im Norden Lenkerbecks setzt sich das Gewerbegebiet westlich der A43 fort. Nennen Sie uns deshalb, ob Sie westlich oder östlich der A43 stehen.</p>
+<h2>Vestische Straßenbahnen und Marler Stern</h2>
+<p>Der öffentliche Nahverkehr wird wie in den Nachbarstädten von den Vestischen Straßenbahnen betrieben, zentraler Haltepunkt der meisten Linien ist der Busbahnhof im Stadtkern. Am Busbahnhof und im Einkaufszentrum Marler Stern werden Fahrgäste über Monitore live informiert. Wenn Sie am Busbahnhof oder am Marler Stern liegen bleiben, halten Sie Zufahrten für Busse frei und nennen Sie uns Straße und Zugang.</p>
+<h2>So nennen Sie Ihren Standort in Marl</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf A43 oder A52: Nummer, Richtung, Anschlussstelle.</li>
+<li>Auf B225 oder B224: Fahrtrichtung.</li>
+<li>Am Busbahnhof oder Marler Stern: Straße und Zugang.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-gladbeck.html">Gladbeck</a> und <a href="stadt-bottrop.html">Bottrop</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Marl</h2>
+<details><summary>Welche Autobahnen führen durch Marl?</summary><div>A43 und A52, dazu wird auf der A2 auf Marl hingewiesen.</div></details>
+<details><summary>Wie viele Anschlussstellen hat die A52 in Marl?</summary><div>Vier.</div></details>
+<details><summary>Wie viele Einwohner hat Marl?</summary><div>86.899 am 31. Dezember 2025.</div></details>
+<details><summary>Was ist mit Lenkerbeck?</summary><div>Der Ortsteil wurde durch den Ausbau der A43 in Ost- und Westteil geteilt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-dorsten | Abschleppdienst Dorsten: Pannenhilfe A31, A52, B58, B224 | Pannenhilfe und Abschleppen in Dorsten: Lippe, Übergang zwischen Ruhrgebiet und Münsterland, A31 und A52, B58, B224 und B225. | page ===
+<!--AREAS: Dorsten, Dorsten-Hardt, Dorsten-Lembeck, Dorsten-Holsterhausen, Wulfen, Lippe -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dorsten</p><h1>Abschleppdienst Dorsten</h1><p class="lead">Dorsten liegt an der Lippe zwischen dem Norden des Ruhrgebiets und dem Münsterland an A31 und A52. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Stadt an der Lippe</h2>
+<p>Dorsten liegt im Übergang zwischen dem äußersten Norden des Ruhrgebiets und dem südlichen Münsterland in Nordrhein-Westfalen an der Lippe. Als kreisangehörige Stadt wird sie im Regionalverband Ruhr durch den Kreis Recklinghausen vertreten und ist Teil der Metropolregion Rhein-Ruhr. Die alte vestische Stadt, die südlich der Lippe lag, erhielt am 1. Juni 1251 die Stadtrechte durch den kurkölnischen Landesherrn und wurde im 20. Jahrhundert nach Norden um das Gebiet der ehemaligen Gemeinden erweitert. Nennen Sie uns bei einer Panne Ortsteil und Straße, ob Sie nördlich oder südlich der Lippe stehen. Mehr auf <a href="stadt-gladbeck.html">Abschleppdienst Gladbeck</a> und <a href="stadt-marl.html">Abschleppdienst Marl</a>.</p>
+<h2>A31, A52, B58, B224 und B225</h2>
+<p>Das Stadtgebiet ist durch die Autobahnen A31 und A52 sowie die Bundesstraßen B58, B224 und B225 an das überörtliche Verkehrsnetz angeschlossen. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a31.html">Panne auf der A31</a> und <a href="autobahn-a52.html">Panne auf der A52</a>. Wenn Sie auf einer Bundesstraße liegen bleiben, sagen Sie uns die Nummer und die Fahrtrichtung.</p>
+<h2>Bahnhof und Busbahnhof</h2>
+<p>Der Bahnhof Dorsten wird vom RE14 „Emscher-Münsterland-Express“ und der RB43 „Emschertal-Bahn“ bedient. Zwischen Essen und Dorsten fährt der RE14 als Flügelzug, ab Dorsten wird abgekoppelt und die Strecken nach Borken und Coesfeld werden bedient. Zum Fernbahnhof Essen Hbf besteht ein 30-Minuten-Takt der Linie RE14 über Gladbeck West, Bottrop Hbf und Essen-Borbeck. Über den östlich der Stadt am Bahnhof gelegenen Busbahnhof wird der Übergang auf die Buslinien der Vestischen Straßenbahnen gesichert. Wenn Sie am Bahnhof liegen bleiben, nennen Sie uns Straße und Ausgang.</p>
+<h2>So nennen Sie Ihren Standort in Dorsten</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf A31 oder A52: Nummer, Richtung, Anschlussstelle.</li>
+<li>Auf B58, B224 oder B225: Fahrtrichtung.</li>
+<li>Nördlich oder südlich der Lippe.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-recklinghausen.html">Recklinghausen</a> und <a href="stadt-bottrop.html">Bottrop</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Dorsten</h2>
+<details><summary>Welche Autobahnen führen durch Dorsten?</summary><div>A31 und A52.</div></details>
+<details><summary>Welche Bundesstraßen gibt es?</summary><div>B58, B224 und B225.</div></details>
+<details><summary>Seit wann hat Dorsten Stadtrechte?</summary><div>Seit dem 1. Juni 1251.</div></details>
+<details><summary>Wie komme ich mit der Bahn nach Essen?</summary><div>Mit dem RE14, im 30-Minuten-Takt zum Essener Hauptbahnhof.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-lippstadt | Abschleppdienst Lippstadt: Pannenhilfe B55, A2, A44 | Pannenhilfe und Abschleppen in Lippstadt: 18 Ortsteile beiderseits der Lippe, vierspurige B55 mit Verbindung zu A2 und A44, ICE- und IC-Halt. | page ===
+<!--AREAS: Lippstadt, Lippstadt-Cappel, Lippstadt-Bökenförde, Erwitte, Rheda-Wiedenbrück, Lippe -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lippstadt</p><h1>Abschleppdienst Lippstadt</h1><p class="lead">Lippstadt liegt an der Lippe im Kreis Soest, die B55 verbindet die Stadt mit A2 und A44. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Größte Stadt des Kreises Soest</h2>
+<p>Lippstadt ist eine große kreisangehörige Stadt im Osten Nordrhein-Westfalens, gehört seit 1975 zum Kreis Soest und ist mit rund 69.000 Einwohnern dessen größte Stadt. Sie liegt etwa 65 Kilometer östlich von Dortmund, 40 Kilometer südlich von Bielefeld und 30 Kilometer westlich von Paderborn im östlichen Teil der Westfälischen Bucht und erstreckt sich beidseits der Lippe. Heute besteht Lippstadt aus 18 Ortsteilen. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-paderborn.html">Abschleppdienst Paderborn</a>, <a href="stadt-hamm.html">Abschleppdienst Hamm</a> und <a href="stadt-guetersloh.html">Abschleppdienst Gütersloh</a>.</p>
+<h2>B55 als wichtigste Anbindung</h2>
+<p>Die wichtigste Verkehrsanbindung ist die B55, die die Stadt von Norden nach Süden durchzieht. Sie verbindet Lippstadt im Norden mit Rheda-Wiedenbrück und der A2 (Dortmund–Hannover) und im Süden bei Erwitte mit der B1 und der A44 (Dortmund–Kassel). Im Stadtgebiet ist die B55 vierspurig und teilweise kreuzungsfrei ausgebaut, mehrere Landesstraßen durchziehen die Stadt. Bei einer Panne auf der B55 nennen Sie uns Fahrtrichtung, Ausfahrt oder Querstraße. Mehr auf <a href="autobahn-a2.html">Panne auf der A2</a> und <a href="autobahn-a44.html">Panne auf der A44</a>.</p>
+<h2>Bahnhof mit ICE- und IC-Halt</h2>
+<p>Der Bahnhof Lippstadt liegt an der Bahnstrecke Hamm–Warburg. Im Fernverkehr ist Lippstadt durch durchschnittlich sechs ICE- und IC-Verbindungen pro Tag umsteigefrei unter anderem mit Kassel, Gera und München verbunden. Wenn Sie am Bahnhof liegen bleiben, nennen Sie uns Straße und Ausgang, halten Sie Zufahrten für Taxis und Busse frei.</p>
+<h2>Altstadt und Lippe</h2>
+<p>Die Stadt ist geprägt durch eine teilweise mittelalterliche Altstadt, moderne Infrastruktur und weitläufige Grünanlagen, zu den historischen Bauwerken zählen die Große Marienkirche und die Jakobikirche. Wenn Sie in der Altstadt oder an der Lippe liegen bleiben, sagen Sie uns Straße, Brücke und Uferseite.</p>
+<h2>So nennen Sie Ihren Standort in Lippstadt</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der B55: Fahrtrichtung, Ausfahrt.</li>
+<li>Auf A2 oder A44: Nummer, Richtung, Anschlussstelle.</li>
+<li>In der Altstadt: Straße, enge Zufahrt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-bielefeld.html">Bielefeld</a> und <a href="stadt-dortmund.html">Dortmund</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Lippstadt</h2>
+<details><summary>Wie komme ich von Lippstadt zur A2?</summary><div>Über die B55 nach Norden über Rheda-Wiedenbrück.</div></details>
+<details><summary>Wie komme ich zur A44?</summary><div>Über die B55 nach Süden bis Erwitte, dort besteht Anschluss an B1 und A44.</div></details>
+<details><summary>Wie viele Ortsteile hat Lippstadt?</summary><div>18.</div></details>
+<details><summary>Ist Lippstadt Fernbahnhof?</summary><div>Ja, im Schnitt halten sechs ICE- und IC-Verbindungen pro Tag.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-castrop-rauxel | Abschleppdienst Castrop-Rauxel: Pannenhilfe A2, A42, A45, B235 | Pannenhilfe und Abschleppen in Castrop-Rauxel: 15 Stadtteile, Kreuz Castrop-Rauxel-Ost von A42 und A45, A2 und die B235 nach Witten. | page ===
+<!--AREAS: Castrop-Rauxel, Rauxel, Habinghorst, Ickern, Henrichenburg, Merklinde, Kreuz Castrop-Rauxel-Ost -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Castrop-Rauxel</p><h1>Abschleppdienst Castrop-Rauxel</h1><p class="lead">Castrop-Rauxel liegt im Kreis Recklinghausen an drei Autobahnen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ehemalige Bergbaustadt</h2>
+<p>Castrop-Rauxel ist eine große kreisangehörige Stadt im Kreis Recklinghausen und Teil der Metropolregion Rhein-Ruhr, in der Landesplanung als Mittelzentrum eingestuft. Sie war im 19. und 20. Jahrhundert stark durch den Bergbau geprägt und gliedert sich in 15 Stadtteile. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-dortmund.html">Abschleppdienst Dortmund</a>, <a href="stadt-herne.html">Abschleppdienst Herne</a> und <a href="stadt-recklinghausen.html">Abschleppdienst Recklinghausen</a>.</p>
+<h2>A2, A42 und A45</h2>
+<p>Durch das Stadtgebiet führen die A2 (Oberhausen–Berlin), die A42 (Kamp-Lintfort–Dortmund) und die A45 (Dortmund–Aschaffenburg). Am Kreuz Castrop-Rauxel-Ost kreuzen sich A42 und A45. Wenn Sie an diesem Kreuz liegen bleiben, sagen Sie uns Nummer und Fahrtrichtung, denn drei Autobahnen führen durch das Stadtgebiet. Mehr auf <a href="autobahn-a42.html">Panne auf der A42</a>, <a href="autobahn-a45.html">Panne auf der A45</a> und <a href="autobahn-a2.html">Panne auf der A2</a>.</p>
+<h2>B235 nach Witten</h2>
+<p>Die B235 von Senden nach Witten, mit Anschluss an die A40 und B1 knapp südlich der Stadtgrenze in Dortmund, durchquert die Stadt von Nord nach Süd. Wenn Sie auf der B235 liegen bleiben, nennen Sie uns Fahrtrichtung und Querstraße. Mehr auf <a href="stadt-witten.html">Abschleppdienst Witten</a>.</p>
+<h2>Emscherland: Kanal, Emscher und Trennlinien</h2>
+<p>Castrop-Rauxel liegt im Emscherland, dem nördlichen Teil des Ruhrgebiets. Rhein-Herne-Kanal und Emscher verlaufen durch die nördlichen Stadtteile Pöppinghausen, Habinghorst, Henrichenburg und Ickern. Das Stadtgebiet misst 51,66 Quadratkilometer, in Nord-Süd-Richtung 11,8 Kilometer und in West-Ost-Richtung 9,3 Kilometer. Für die Standortangabe sind die Autobahnen zugleich Grenzlinien: Henrichenburg wird durch die B235 in zwei statistische Bezirke getrennt, Ickern durch die A2 und Rauxel durch die A42. Sagen Sie uns deshalb, auf welcher Seite der Autobahn oder Bundesstraße Sie stehen.</p>
+<h2>Halde Schwerin und Zeche Erin</h2>
+<p>Den höchsten Punkt der Stadt markiert die Halde Schwerin mit 147 Metern über NN, den niedrigsten die Pöppinghauser Straße mit 50,2 Metern. Die Zeche Erin schloss 1983, an sie erinnern der Förderturm und der Hammerkopfturm. Wenn Sie an einem dieser Industriedenkmäler oder an einem Parkplatz an der Halde liegen bleiben, nennen Sie uns Zufahrt und Straße. Angrenzende Städte sind Recklinghausen, Datteln, Waltrop, Dortmund, Bochum und Herne.</p>
+<h2>So nennen Sie Ihren Standort in Castrop-Rauxel</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf A2, A42 oder A45: Nummer, Richtung, Anschlussstelle, Kreuz Castrop-Rauxel-Ost.</li>
+<li>Auf der B235: Fahrtrichtung.</li>
+<li>An der Stadtgrenze: Nachbarstadt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-bochum.html">Bochum</a> und <a href="stadt-gelsenkirchen.html">Gelsenkirchen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Castrop-Rauxel</h2>
+<details><summary>Welche Autobahnen führen durch Castrop-Rauxel?</summary><div>A2, A42 und A45.</div></details>
+<details><summary>Wo kreuzen sich A42 und A45?</summary><div>Am Kreuz Castrop-Rauxel-Ost.</div></details>
+<details><summary>Wie viele Stadtteile hat Castrop-Rauxel?</summary><div>15.</div></details>
+<details><summary>Wohin führt die B235?</summary><div>Von Senden nach Witten, durch die Stadt von Nord nach Süd.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-arnsberg | Abschleppdienst Arnsberg: Pannenhilfe A46, A445, B7 | Pannenhilfe und Abschleppen in Arnsberg: Sauerland, Sitz der Bezirksregierung, A46 mit fünf Anschlussstellen, A445 und B7, Neheim-Hüsten. | page ===
+<!--AREAS: Arnsberg, Neheim, Hüsten, Oeventrop, Arnsberg-Altstadt, Uentrop, Ruhr -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Arnsberg</p><h1>Abschleppdienst Arnsberg</h1><p class="lead">Arnsberg liegt im Sauerland an der Ruhr, hier endet die A445 und beginnt ein Teilstück der A46. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Sitz der Bezirksregierung im Sauerland</h2>
+<p>Arnsberg ist eine große kreisangehörige Stadt im Sauerland in Nordrhein-Westfalen und Sitz der Bezirksregierung des Regierungsbezirks Arnsberg, seit der kommunalen Neugliederung 1975 gehört sie zum Hochsauerlandkreis. Durch das Sauerland/Paderborn-Gesetz wurden Neheim-Hüsten, Arnsberg und mehrere weitere Gemeinden zu einer neuen Stadt zusammengeschlossen. Das erklärt, warum die Stadt mehrere Zentren hat. Nennen Sie uns bei einer Panne, ob Sie in Neheim, Hüsten, Oeventrop oder Arnsberg stehen, dazu Straße und Hausnummer. Mehr auf <a href="stadt-hagen.html">Abschleppdienst Hagen</a> und <a href="stadt-paderborn.html">Abschleppdienst Paderborn</a>.</p>
+<h2>A46, A445 und B7</h2>
+<p>Die B7 und die Autobahnen A445 (Werl–Arnsberg) und A46 (Heinsberg–Bestwig) sind wichtige Straßenverbindungen. Im Stadtgebiet befinden sich an der A46 die Anschlussstellen Neheim, Neheim-Süd, Hüsten, Arnsberg-Altstadt und Arnsberg-Ost. An der Anschlussstelle Neheim geht die A445 nahtlos in die A46 über. Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a46.html">Panne auf der A46</a>. Im Ruhrtal ist die A46 mit Tunneln und Talbrücken angelegt, bei Tunneln siehe <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>.</p>
+<h2>Bahn und Bus</h2>
+<p>In der Stadt befinden sich drei Bahnstationen (Arnsberg/Westfalen, Oeventrop, Neheim-Hüsten) an der Oberen Ruhrtalbahn, bedient von RE17 Hagen–Warburg und RE57 Dortmund–Winterberg/Brilon. Das Stadtgebiet wird von einem Stadtbus-System erschlossen, dazu kommen die Schnellbuslinien S10 (Neheim–Arnsberg) und S20 (Neheim–Hüsten–Sundern). Wenn Sie an einem der Bahnhöfe liegen bleiben, nennen Sie uns Straße und Ausgang.</p>
+<h2>So nennen Sie Ihren Standort in Arnsberg</h2>
+<ul class="ticks">
+<li>Stadtteil (Neheim, Hüsten, Arnsberg, Oeventrop), Straße, Hausnummer.</li>
+<li>Auf der A46 oder A445: Richtung, Anschlussstelle.</li>
+<li>Auf der B7: Fahrtrichtung.</li>
+<li>Bei Steigung oder Gefälle im Ruhrtal: bergauf oder bergab.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-siegen.html">Siegen</a> und <a href="stadt-iserlohn.html">Iserlohn</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Arnsberg</h2>
+<details><summary>Welche Autobahnen führen nach Arnsberg?</summary><div>Die A445 aus Werl, die an der Anschlussstelle Neheim nahtlos in die A46 übergeht.</div></details>
+<details><summary>Welche Anschlussstellen hat die A46 in Arnsberg?</summary><div>Neheim, Neheim-Süd, Hüsten, Arnsberg-Altstadt und Arnsberg-Ost.</div></details>
+<details><summary>Zu welchem Kreis gehört Arnsberg?</summary><div>Zum Hochsauerlandkreis, seit 1975.</div></details>
+<details><summary>Welche Bahnlinien halten in Arnsberg?</summary><div>RE17 und RE57 an den Stationen Arnsberg, Oeventrop und Neheim-Hüsten.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-rheine | Abschleppdienst Rheine: Pannenhilfe A30, B70, B481 | Pannenhilfe und Abschleppen in Rheine: Stadt an der Ems im Münsterland, A30 mit drei Anschlussstellen, B70 und B481. | page ===
+<!--AREAS: Rheine, Rheine-Mesum, Rheine-Hauenhorst, Rheine-Elte, Ems, Emsland -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rheine</p><h1>Abschleppdienst Rheine</h1><p class="lead">Rheine liegt an der Ems im Münsterland an der A30, die A31 und A1 verbindet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zweitgrößte Stadt im Münsterland</h2>
+<p>Rheine ist eine große kreisangehörige Stadt in Westfalen an der Ems und mit 77.552 Einwohnern (31. Dezember 2025) die größte Stadt im Kreis Steinfurt und nach Münster die zweitgrößte Stadt im Münsterland. Sie liegt an der nördlichen Grenze der westfälischen Tieflandbucht und wird von der Ems geteilt, Münster liegt etwa 40 Kilometer südöstlich. Eine einheitliche Gliederung des Stadtgebietes existiert nicht, die Stadtteile bilden keine Verwaltungseinheiten. Nennen Sie uns bei einer Panne Stadtteil, Straße und ob Sie östlich oder westlich der Ems stehen. Mehr auf <a href="stadt-muenster.html">Abschleppdienst Münster</a> und <a href="stadt-osnabrueck.html">Abschleppdienst Osnabrück</a>.</p>
+<h2>A30 mit drei Anschlussstellen</h2>
+<p>Rheine liegt an der A30, die die A31 mit der A1 verbindet, im Stadtgebiet befinden sich drei Anschlussstellen. Osnabrück und die Niederlande sind jeweils etwa eine halbe Autostunde entfernt. Die nähere Umgebung wird durch die Bundesstraßen B70 (Wesel–Rheine–Emden) und B481 (Rheine–Münster) erschlossen. Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a30.html">Panne auf der A30</a>, <a href="autobahn-a31.html">Panne auf der A31</a> und <a href="autobahn-a1.html">Panne auf der A1</a>.</p>
+<h2>Fahrt Richtung Niederlande und Emsland</h2>
+<p>Wenn Sie in Richtung Niederlande oder Emsland unterwegs sind und liegen bleiben, sagen Sie uns, ob Sie schon auf der A30 oder noch im Stadtgebiet sind. Bei Reisen mit Anhänger oder Wohnmobil siehe <a href="ratgeber-wohnmobil-gespann-panne.html">Wohnmobil und Gespann</a>.</p>
+<h2>Ems, Stadtberg und Bauerschaften</h2>
+<p>Die Ems durchfließt die Stadt von Süden nach Norden. Quer zur Flussrichtung verläuft der Stadtberg, der sich westlich der Ems als Thieberg fortsetzt, im Süden liegt der Waldhügel mit 90 Metern über NN als höchste Erhebung. Eine einheitliche Gliederung des Stadtgebiets gibt es nicht, für Planungszwecke werden die Stadtteile in zehn statistischen Gebieten zusammengefasst. Gebräuchlich sind noch alte Bauerschaftsnamen wie Dutum, Wadelheim, Bentlage, Altenrheine, Eschendorf, Gellendorf oder Hauenhorst und Schotthock, teils auch als Straßennamen. Nennen Sie uns daher den Namen, den Sie auf dem Straßenschild lesen. Im Norden grenzt Rheine an Salzbergen und Spelle in Niedersachsen, ein Standort dort liegt in einem anderen Bundesland.</p>
+<p>Im Industriegebiet Baarentelgen im Nordosten und am Kanalhafen am Dortmund-Ems-Kanal sind Gewerbegebiete, wenn Ihr Transporter dort liegen bleibt, nennen Sie uns Firma, Straße und Tor.</p>
+<h2>So nennen Sie Ihren Standort in Rheine</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A30: Richtung, Anschlussstelle.</li>
+<li>Auf B70 oder B481: Fahrtrichtung.</li>
+<li>An der Ems: Brücke, Uferseite.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-guetersloh.html">Gütersloh</a> und <a href="stadt-bielefeld.html">Bielefeld</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Rheine</h2>
+<details><summary>Welche Autobahn führt durch Rheine?</summary><div>Die A30, mit drei Anschlussstellen im Stadtgebiet.</div></details>
+<details><summary>Wie weit ist Münster entfernt?</summary><div>Etwa 40 Kilometer südöstlich.</div></details>
+<details><summary>Welche Bundesstraßen gibt es?</summary><div>B70 (Wesel–Rheine–Emden) und B481 (Rheine–Münster).</div></details>
+<details><summary>Wie viele Einwohner hat Rheine?</summary><div>77.552 am 31. Dezember 2025.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-goslar | Abschleppdienst Goslar: Pannenhilfe B6, A369, B82, A7 | Pannenhilfe und Abschleppen in Goslar: größte Stadt am Harz, vierspurige B6, A369 zur A36, B82 zur A7 bei Seesen und Vienenburg als Stadtteil. | page ===
+<!--AREAS: Goslar, Vienenburg, Oker, Hahnenklee, Bad Harzburg, Harz, Seesen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Goslar</p><h1>Abschleppdienst Goslar</h1><p class="lead">Goslar ist die größte Stadt am Harz, die A369 bindet sie an die A36 an. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Größte Stadt am Harz</h2>
+<p>Goslar ist die größte Stadt am Harz und Verwaltungssitz des Landkreises Goslar in Niedersachsen, sie hatte zum 31. Dezember 2025 47.454 Einwohner. Der 979 erstmals erwähnte Bergbauort wurde Sitz einer Kaiserpfalz und war bis 1802 Reichsstadt. Am 1. Januar 2014 wurde die Stadt Vienenburg mit den Ortsteilen Immenrode, Lengde, Lochtum, Weddingen und Wiedelah in die Stadt Goslar eingegliedert. Nennen Sie uns bei einer Panne Stadtteil und Straße, ob Sie in Goslar oder Vienenburg stehen. Mehr auf <a href="stadt-braunschweig.html">Abschleppdienst Braunschweig</a> und <a href="stadt-wolfenbuettel.html">Abschleppdienst Wolfenbüttel</a>.</p>
+<h2>B6, A369 und A36</h2>
+<p>Goslar wird im Norden von der vierspurig ausgebauten B6 durchquert, die über die ebenfalls im Stadtgebiet gelegene A369 eine Anbindung an den überregionalen Autobahnverkehr, die A36 (Braunschweig–Bernburg), bietet. Die B82 setzt sich nach Westen in einer 2+1-Straßenführung fort und bindet Goslar an die A7 bei Seesen/Rhüden an. Ferner verläuft durch die Stadt die B241, in Goslar beginnt die B498. Bei einer Panne auf einer 2+1-Straße gilt: Warnblinker, Warnweste, weit vom Fahrzeug weg. Mehr auf <a href="autobahn-a36.html">Panne auf der A36</a> und <a href="autobahn-a7.html">Panne auf der A7</a>.</p>
+<h2>Altstadt und Harzrand</h2>
+<p>Die Altstadt ist ein Welterbe der Region. Wenn Sie in der Altstadt liegen bleiben, sagen Sie uns Straße, Hausnummer und die nächste Querstraße. In den Ortsteilen am Harzrand kann es bergauf und bergab gehen, nennen Sie uns in der Steigung, ob Ihr Fahrzeug rollen kann.</p>
+<h2>So nennen Sie Ihren Standort in Goslar</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf A36 oder A369: Nummer, Richtung, Anschlussstelle.</li>
+<li>Auf B6, B82, B241 oder B498: Fahrtrichtung, nächster Ort.</li>
+<li>Am Harz: bergauf oder bergab.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-goettingen.html">Göttingen</a> und <a href="stadt-hildesheim.html">Hildesheim</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Goslar</h2>
+<details><summary>Wie komme ich von Goslar zur Autobahn?</summary><div>Über die A369, die im Stadtgebiet liegt und an die A36 anbindet, oder über die B82 zur A7 bei Seesen/Rhüden.</div></details>
+<details><summary>Ist die B6 vierspurig?</summary><div>Im Norden der Stadt ja.</div></details>
+<details><summary>Seit wann gehört Vienenburg zu Goslar?</summary><div>Seit dem 1. Januar 2014.</div></details>
+<details><summary>Wie viele Einwohner hat Goslar?</summary><div>47.454 am 31. Dezember 2025.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-wolfenbuettel | Abschleppdienst Wolfenbüttel: Pannenhilfe A36, B79 | Pannenhilfe und Abschleppen in Wolfenbüttel: Kreisstadt an der Oker, vier Anschlussstellen der A36, B79 und die aufgehobene B4. | page ===
+<!--AREAS: Wolfenbüttel, Wolfenbüttel-Fümmelse, Oker, Braunschweig, Salzgitter-Thiede -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wolfenbüttel</p><h1>Abschleppdienst Wolfenbüttel</h1><p class="lead">Wolfenbüttel liegt an der Oker südlich von Braunschweig mit vier Anschlussstellen der A36. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisstadt an der Oker</h2>
+<p>Wolfenbüttel ist eine an der Oker gelegene Kreisstadt und die größte Stadt des Landkreises Wolfenbüttel in Niedersachsen mit 52.511 Einwohnern (31. Dezember 2025). Die Stadt ist als Bischofsstadt Sitz der Kirchenregierung der Evangelisch-Lutherischen Landeskirche in Braunschweig und Fachhochschulstandort. Das Stadtgebiet umfasst 14,47 Quadratkilometer, einschließlich der eingemeindeten Ortschaften 78,45 Quadratkilometer. Nennen Sie uns bei einer Panne Ortschaft und Straße. Mehr auf <a href="stadt-braunschweig.html">Abschleppdienst Braunschweig</a> und <a href="stadt-salzgitter.html">Abschleppdienst Salzgitter</a>.</p>
+<h2>A36 mit vier Anschlussstellen und B79</h2>
+<p>Wolfenbüttel ist mit vier Anschlussstellen der A36 an das deutsche Autobahnnetz angeschlossen, außerdem verläuft die B79 durch die Stadt. Die B4 führte ursprünglich durch Wolfenbüttel, wurde aber beim Bau der A395, der heutigen A36, in diesem Bereich aufgehoben, abschnittsweise zur B79 umgewidmet oder heruntergestuft und im Okertal auf Landstraßenniveau zurückgebaut. Ältere Karten zeigen daher noch die B4. Bei einer Panne auf der A36 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a36.html">Panne auf der A36</a>.</p>
+<h2>Wald und Ortschaften</h2>
+<p>Mit 1.191 Hektar haben Waldflächen den größten Flächenanteil im Stadtgebiet. Wenn Sie an einer Straße im Wald oder zwischen Ortschaften liegen bleiben, nennen Sie uns den nächsten Ort und die Straße.</p>
+<h2>So nennen Sie Ihren Standort in Wolfenbüttel</h2>
+<ul class="ticks">
+<li>Ortschaft, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A36: Richtung, Anschlussstelle.</li>
+<li>Auf der B79: Fahrtrichtung.</li>
+<li>Im Wald: nächster Ort.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-wolfsburg.html">Wolfsburg</a> und <a href="stadt-hildesheim.html">Hildesheim</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Wolfenbüttel</h2>
+<details><summary>Wie viele Anschlussstellen hat die A36 bei Wolfenbüttel?</summary><div>Vier.</div></details>
+<details><summary>Was wurde aus der B4?</summary><div>Sie wurde beim Bau der A395 (heute A36) in diesem Bereich aufgehoben, teils zur B79 umgewidmet oder heruntergestuft.</div></details>
+<details><summary>Wie viele Einwohner hat Wolfenbüttel?</summary><div>52.511 am 31. Dezember 2025.</div></details>
+<details><summary>An welchem Fluss liegt die Stadt?</summary><div>An der Oker.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-hameln | Abschleppdienst Hameln: Pannenhilfe B1, B83, B217, Weserbrücken | Pannenhilfe und Abschleppen in Hameln an der Weser: B1, B83 und B217 sternförmig am Innenstadtring, Münsterbrücke und Thiewallbrücke. | page ===
+<!--AREAS: Hameln, Hameln-Hastenbeck, Hameln-Afferde, Hameln-Tündern, Weser, Bad Pyrmont -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hameln</p><h1>Abschleppdienst Hameln</h1><p class="lead">Hameln liegt an der Weser südwestlich von Hannover, drei Bundesstraßen treffen sich am Innenstadtring. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Rattenfängerstadt an der Weser</h2>
+<p>Hameln ist eine große selbständige Stadt in Niedersachsen, Mittelzentrum mit Teilfunktionen eines Oberzentrums und Kreisstadt des Landkreises Hameln-Pyrmont. Sie liegt an der Weser und ist vor allem durch die Sage vom Rattenfänger von Hameln bekannt, die auf Ereignissen im Jahr 1284 beruhen soll. Hameln liegt südwestlich von Hannover etwa auf halber Luftlinie zwischen Herford im Westen und Hildesheim im Osten. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-hannover.html">Abschleppdienst Hannover</a>, <a href="stadt-hildesheim.html">Abschleppdienst Hildesheim</a> und <a href="stadt-minden.html">Abschleppdienst Minden</a>.</p>
+<h2>B1, B83 und B217 sternförmig</h2>
+<p>Im Innenstadtring von Hameln laufen die Bundesstraßen B1, B83 und B217 sternförmig zusammen. Die B1 führt nach Westen nach Paderborn und nach Osten nach Hildesheim, die B83 nach Nordwesten nach Minden sowie zur A2 (Anschlussstelle Bad Eilsen) und nach Süden nach Holzminden und Höxter, die B217 beginnt in Hameln und führt nach Nordosten nach Hannover. Für die Standortangabe sind deshalb Bundesstraße und Fahrtrichtung entscheidend. Mehr auf <a href="autobahn-a2.html">Panne auf der A2</a>.</p>
+<h2>Münsterbrücke und Thiewallbrücke</h2>
+<p>Die B1 überquert die Weser auf der Münsterbrücke, die B83 auf der Thiewallbrücke. Wenn Sie auf einer der Brücken liegen bleiben, nennen Sie uns die Brücke und die Fahrtrichtung. Der öffentliche Nahverkehr wird von der Verkehrsgesellschaft Hameln-Pyrmont betrieben und ist unter dem Namen „Die Öffis“ bekannt, halten Sie Haltestellen frei.</p>
+<h2>So nennen Sie Ihren Standort in Hameln</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf B1, B83 oder B217: Nummer und Fahrtrichtung.</li>
+<li>An der Weser: Brücke und Uferseite.</li>
+<li>Im Innenstadtring: Ausfahrt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-bielefeld.html">Bielefeld</a> und <a href="stadt-goettingen.html">Göttingen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Hameln</h2>
+<details><summary>Welche Bundesstraßen treffen sich in Hameln?</summary><div>B1, B83 und B217, sternförmig im Innenstadtring.</div></details>
+<details><summary>Wie komme ich zur A2?</summary><div>Über die B83 nach Nordwesten zur Anschlussstelle Bad Eilsen.</div></details>
+<details><summary>Welche Brücken führen über die Weser?</summary><div>Die Münsterbrücke (B1) und die Thiewallbrücke (B83).</div></details>
+<details><summary>Wofür ist Hameln bekannt?</summary><div>Für die Sage vom Rattenfänger von Hameln.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-hof | Abschleppdienst Hof: Pannenhilfe A9, A72, A93, B2, B15, B173 | Pannenhilfe und Abschleppen in Hof (Saale): A9, A72 und A93 im Hufeisen um die Stadt, vierspurige B2, B15 und B173 auf der Ernst-Reuter-Straße. | page ===
+<!--AREAS: Hof, Hof Saale, Dreieck Hochfranken, Bayerisches Vogtland, Untreusee, Ernst-Reuter-Straße -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hof (Saale)</p><h1>Abschleppdienst Hof (Saale)</h1><p class="lead">Hof liegt an der Saale im Nordosten Bayerns, A9, A72 und A93 umschließen die Stadt im Hufeisen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Oberzentrum im Bayerischen Vogtland</h2>
+<p>Hof ist eine an der Saale gelegene kreisfreie Stadt im Nordosten Bayerns mit rund 47.000 Einwohnern, Oberzentrum, Hochschulstadt und Mittelpunkt des Hofer Landes und des Bayerischen Vogtlandes. Die Wurzeln der Stadt liegen in der historischen Altstadt und der klassizistischen Neustadt. Mit dem Bürgerpark Theresienstein und dem Untreusee hat Hof zwei Naherholungsgebiete. Nennen Sie uns bei einer Panne Stadtteil und Straße, Hof hat 522 Straßen und 19 Plätze. Mehr auf <a href="stadt-bayreuth.html">Abschleppdienst Bayreuth</a> und <a href="stadt-plauen.html">Abschleppdienst Plauen</a>.</p>
+<h2>Autobahn-Hufeisen A9, A72, A93</h2>
+<p>Hof liegt an den drei Autobahnen A9 im Westen, A93 im Osten und A72 im Norden. Sie bilden die Form eines Hufeisens um die Stadt, berühren das Stadtgebiet aber nicht. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a9.html">Panne auf der A9</a>, <a href="autobahn-a72.html">Panne auf der A72</a> und <a href="autobahn-a93.html">Panne auf der A93</a>.</p>
+<h2>B2, B15 und B173 als Zubringer</h2>
+<p>Durch Hof führen die Bundesstraßen B2, B15 und B173, alle drei sind im Stadtgebiet im Verlauf der Ernst-Reuter-Straße vierspurig ausgebaut. Weitere große Straßen sind die Kulmbacher Straße, die Marienstraße und die Oelsnitzer Straße. Die B173 dient als Zubringer zu allen drei Autobahnen: im Nordwesten zur A72 und A9 und im Osten zur A93. Die B15 ist im Westen vierspurig an die A9 angebunden und im Südosten an die A93, die B2 hat im Nordosten eine Auffahrt zur A72. Wenn Sie auf der Ernst-Reuter-Straße liegen bleiben, nennen Sie uns die Bundesstraße und die Fahrtrichtung.</p>
+<h2>So nennen Sie Ihren Standort in Hof</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf B2, B15 oder B173: Fahrtrichtung, Ernst-Reuter-Straße.</li>
+<li>Auf A9, A72 oder A93: Nummer, Richtung, Anschlussstelle, Dreieck Hochfranken.</li>
+<li>An Bürgerpark oder Untreusee: Parkplatz.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-weimar.html">Weimar</a> und <a href="stadt-erfurt.html">Erfurt</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Hof</h2>
+<details><summary>Welche Autobahnen liegen bei Hof?</summary><div>A9 im Westen, A93 im Osten, A72 im Norden, im Hufeisen um die Stadt.</div></details>
+<details><summary>Berühren die Autobahnen das Stadtgebiet?</summary><div>Nein, sie bilden ein Hufeisen um die Stadt, ohne das Stadtgebiet zu berühren.</div></details>
+<details><summary>Wie heißt die vierspurige Hauptstraße?</summary><div>Die Ernst-Reuter-Straße, auf der B2, B15 und B173 verlaufen.</div></details>
+<details><summary>Wie viele Straßen hat Hof?</summary><div>522 Straßen und 19 Plätze.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-ansbach | Abschleppdienst Ansbach: Pannenhilfe A6, B13, B14 | Pannenhilfe und Abschleppen in Ansbach: Regierungssitz Mittelfrankens, drei Anschlussstellen der A6, B13 und B14. | page ===
+<!--AREAS: Ansbach, Ansbach-Eyb, Ansbach-Brodswinden, Herrieden, Lichtenau, Rezat -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ansbach</p><h1>Abschleppdienst Ansbach</h1><p class="lead">Ansbach liegt etwa 40 Kilometer südwestlich von Nürnberg an der A6. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Regierungssitz Mittelfrankens</h2>
+<p>Ansbach ist eine kreisfreie Stadt in Bayern in der Planungsregion Westmittelfranken und der Metropolregion Nürnberg und Sitz der Regierung und Bezirksverwaltung von Mittelfranken sowie des Landratsamtes Ansbach. Die Stadt liegt etwa 40 Kilometer südwestlich von Nürnberg am Zufluss des Onolzbachs in die Fränkische Rezat und ist nach der Fläche hinter München, Nürnberg, Augsburg und Ingolstadt die fünftgrößte kreisfreie Stadt Bayerns. Die große Fläche heißt für die Anfahrt: Nennen Sie uns Ortsteil und Straße, nicht nur „Ansbach“. Mehr auf <a href="stadt-nuernberg.html">Abschleppdienst Nürnberg</a>, <a href="stadt-fuerth.html">Abschleppdienst Fürth</a> und <a href="stadt-erlangen.html">Abschleppdienst Erlangen</a>.</p>
+<h2>A6 mit drei Anschlussstellen</h2>
+<p>Ansbach liegt an der A6 und ist über die Anschlussstellen Ansbach, Herrieden/Ansbach-West und Lichtenau zu erreichen. Ferner führen die B13 und die B14 durch das Stadtgebiet. Lokale Sperrungen durch Bauarbeiten oder sonstige Einschränkungen gibt die Stadt auf ihrer Website zentral zusammengefasst bekannt. Bei einer Panne auf der A6 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a6.html">Panne auf der A6</a>. Bei B13 oder B14 nennen Sie uns Fahrtrichtung und Querstraße.</p>
+<h2>Kennzeichen AN und Carsharing</h2>
+<p>Am 1. Juli 1956 wurde der Stadt bei der Einführung der seitdem gültigen Kfz-Kennzeichen das Unterscheidungszeichen AN zugewiesen, das auch der Landkreis Ansbach verwendet. Das Kennzeichen AN sehen Sie also auch bei Fahrzeugen aus dem Umland. Der Verein Carina e. V. setzt sich für Carsharing in Ansbach ein, das Angebot besteht in Kooperation mit einem lokalen Autoverleih. Wenn Sie ein Leihfahrzeug fahren, das liegen geblieben ist, informieren Sie zusätzlich den Vermieter.</p>
+<h2>So nennen Sie Ihren Standort in Ansbach</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A6: Richtung, Anschlussstelle Ansbach, Herrieden/Ansbach-West oder Lichtenau.</li>
+<li>Auf B13 oder B14: Fahrtrichtung.</li>
+<li>Bei Sperrungen: Baustelle oder Umleitung.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-wuerzburg.html">Würzburg</a> und <a href="stadt-ingolstadt.html">Ingolstadt</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Ansbach</h2>
+<details><summary>Welche Autobahn führt nach Ansbach?</summary><div>Die A6 mit den Anschlussstellen Ansbach, Herrieden/Ansbach-West und Lichtenau.</div></details>
+<details><summary>Welche Bundesstraßen gibt es?</summary><div>B13 und B14.</div></details>
+<details><summary>Wie weit ist Nürnberg?</summary><div>Etwa 40 Kilometer nordöstlich der Stadt.</div></details>
+<details><summary>Welches Kennzeichen hat Ansbach?</summary><div>AN, seit dem 1. Juli 1956.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-wittenberg | Abschleppdienst Lutherstadt Wittenberg: Pannenhilfe A9, B2, B187 | Pannenhilfe und Abschleppen in Lutherstadt Wittenberg: Elbestadt, A9 mit den Anschlussstellen 6, 7 und 8, B2, B187, B100 und B182. | page ===
+<!--AREAS: Lutherstadt Wittenberg, Elbe, Klein Marzehns, Köselitz, Coswig, Kemberg, Fläming -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lutherstadt Wittenberg</p><h1>Abschleppdienst Lutherstadt Wittenberg</h1><p class="lead">Wittenberg liegt an der Elbe im Osten Sachsen-Anhalts, die A9 verläuft in der Nähe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Stadt an der Elbe zwischen Fläming und Dübener Heide</h2>
+<p>Wittenberg, seit 1938 amtlich Lutherstadt Wittenberg, liegt im östlichen Teil Sachsen-Anhalts und ist Sitz des Landkreises Wittenberg. Die Stadt liegt an der Elbe zwischen Dessau-Roßlau im Westen, dem Fläming im Norden, der Dübener Heide im Süden und dem Elbe-Elster-Land im Osten, rund 90 Kilometer südwestlich von Berlin und etwa 60 Kilometer nordnordöstlich von Leipzig. Sie ist Teil der Metropolregion Mitteldeutschland und grenzt an die Hauptstadtregion Berlin-Brandenburg. Die Stadt ist in zwölf Ortschaften mit Ortsteilen gegliedert. Nennen Sie uns bei einer Panne Ortschaft und Straße. Mehr auf <a href="stadt-dessau-rosslau.html">Abschleppdienst Dessau-Roßlau</a>, <a href="stadt-leipzig.html">Abschleppdienst Leipzig</a> und <a href="stadt-potsdam.html">Abschleppdienst Potsdam</a>.</p>
+<h2>A9: Anschlussstellen 6, 7 und 8</h2>
+<p>Wittenberg ist über die A9 mit den Anschlussstellen 6 (Klein Marzehns), 7 (Köselitz) und 8 (Coswig, Anhalt) erreichbar. Die Bundesstraßen B2 und B187 kreuzen sich in der Stadt, südlich der Elbe beginnen die B100 und B182 an der B2 bei beziehungsweise nahe dem Ortsteil Eutzsch der Stadt Kemberg. Bei einer Panne auf der A9 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a9.html">Panne auf der A9</a>. Wenn Sie zwischen Autobahn und Stadt liegen bleiben, sagen Sie uns die Bundesstraße und Fahrtrichtung.</p>
+<h2>Nord- und Südufer der Elbe</h2>
+<p>Die Stadt liegt an der Elbe, südlich davon beginnen die B100 und B182. Wenn Sie in der Nähe der Elbe liegen bleiben, nennen Sie uns, auf welcher Elbseite Sie stehen, die Brücke und die Fahrtrichtung.</p>
+<h2>So nennen Sie Ihren Standort in Wittenberg</h2>
+<ul class="ticks">
+<li>Ortschaft, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A9: Richtung, Anschlussstelle 6, 7 oder 8.</li>
+<li>Auf B2, B187, B100 oder B182: Fahrtrichtung.</li>
+<li>An der Elbe: Uferseite und Brücke.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-halle.html">Halle</a> und <a href="stadt-magdeburg.html">Magdeburg</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Wittenberg</h2>
+<details><summary>Welche Autobahn führt nach Wittenberg?</summary><div>Die A9 mit den Anschlussstellen 6 (Klein Marzehns), 7 (Köselitz) und 8 (Coswig).</div></details>
+<details><summary>Welche Bundesstraßen kreuzen sich?</summary><div>Die B2 und die B187, südlich der Elbe beginnen B100 und B182.</div></details>
+<details><summary>Wie viele Ortschaften hat Wittenberg?</summary><div>Zwölf.</div></details>
+<details><summary>Wie weit ist Berlin?</summary><div>Rund 90 Kilometer nordöstlich der Stadt.</div></details>
+</div></section>
+@@CTA@@

@@ -299,3 +299,7 @@ Owner decision: expand to all of Germany (partners exist everywhere), organic on
 
 ### Correction (2026-09-27 ~06:00)
 - The totals "301" and "359" in the log above included 54 accidental hub pages `/bundeslaender/aNN/` (Autobahn rows in `geo.txt` without the `ab` kind column). Fixed; the real count after the fix is 305 built pages. STYLE.md now states the rule.
+
+## Cycle 31 (2026-09-27): 12 Tier B city pages
+Marl, Dorsten, Lippstadt, Castrop-Rauxel, Arnsberg, Rheine, Goslar, Wolfenbüttel, Hameln, Hof (Saale), Ansbach, Lutherstadt Wittenberg. Built 317 pages, audit 0 errors, similarity max 28.7 % (city pair). Sources: Wikipedia extracts, facts only.
+Owner check (time-sensitive): Lippstadt "ca. sechs ICE/IC pro Tag"; Arnsberg RE-Linien (RE17/RE57) and Schnellbuslinien; Dorsten RE14 30-Minuten-Takt; Einwohnerzahlen of Marl, Rheine, Goslar, Wolfenbüttel (Stand 31.12.2025 laut Quelle).

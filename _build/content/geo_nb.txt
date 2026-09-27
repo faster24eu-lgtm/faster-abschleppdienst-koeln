@@ -151,3 +151,15 @@ stadt-memmingen	kempten,ulm,augsburg,ingolstadt,muenchen	a7,a96
 stadt-iserlohn	hagen,dortmund,siegen,wuppertal,bochum,witten	a46,a45
 stadt-neumuenster	kiel,hamburg,flensburg,luebeck,lueneburg,schwerin	a7,a23
 stadt-wismar	schwerin,luebeck,rostock,stralsund,greifswald,neubrandenburg	a20,a14
+stadt-marl	recklinghausen,gelsenkirchen,gladbeck,bottrop,dorsten,herne	a43,a52,a2
+stadt-dorsten	gladbeck,marl,recklinghausen,bottrop,oberhausen,gelsenkirchen	a31,a52
+stadt-lippstadt	paderborn,hamm,guetersloh,bielefeld,dortmund,arnsberg	a2,a44
+stadt-castrop-rauxel	dortmund,herne,recklinghausen,bochum,gelsenkirchen,witten	a2,a42,a45
+stadt-arnsberg	hagen,paderborn,siegen,iserlohn,lippstadt,dortmund	a46
+stadt-rheine	muenster,osnabrueck,guetersloh,bielefeld	a30,a31,a1
+stadt-goslar	braunschweig,wolfenbuettel,goettingen,hildesheim,salzgitter	a36,a7
+stadt-wolfenbuettel	braunschweig,salzgitter,wolfsburg,hildesheim,goslar	a36
+stadt-hameln	hannover,hildesheim,minden,bielefeld,goettingen,paderborn	a2
+stadt-hof	bayreuth,plauen,weimar,erfurt	a9,a72,a93
+stadt-ansbach	nuernberg,fuerth,erlangen,wuerzburg,ingolstadt	a6
+stadt-wittenberg	dessau-rosslau,leipzig,potsdam,halle,magdeburg	a9
