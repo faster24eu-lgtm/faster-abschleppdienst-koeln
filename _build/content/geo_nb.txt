@@ -64,3 +64,10 @@ stadt-pforzheim	karlsruhe,stuttgart,baden-baden,heilbronn,ludwigsburg,tuebingen,
 stadt-goettingen	kassel,hannover,braunschweig,hildesheim,erfurt,paderborn,salzgitter,wolfsburg	a7
 stadt-bottrop	essen,oberhausen,gelsenkirchen,gladbeck,duisburg,herne,recklinghausen,bochum	a2
 stadt-trier	saarbruecken,koblenz,mainz,kaiserslautern,luxemburg,bonn,mannheim,ludwigshafen	
+stadt-recklinghausen	herne,gelsenkirchen,bochum,dortmund,herten,marl,gladbeck,essen	a2
+stadt-reutlingen	stuttgart,tuebingen,esslingen,ulm,ludwigsburg,pforzheim,heilbronn,freiburg	a8,a81
+stadt-koblenz	mainz,bonn,trier,wiesbaden,neuwied,siegen,limburg,kaiserslautern	a61,a3
+stadt-bergisch-gladbach	index,leverkusen,bonn,wuppertal,remscheid,solingen,siegburg,duesseldorf	a3
+stadt-bremerhaven	bremen,oldenburg,cuxhaven,hamburg,wilhelmshaven,emden,lueneburg,kiel	
+stadt-erlangen	nuernberg,fuerth,bamberg,wuerzburg,regensburg,ansbach,bayreuth,ingolstadt	a3,a9
+stadt-remscheid	wuppertal,solingen,leverkusen,hagen,bergisch-gladbach,index,duesseldorf,essen	

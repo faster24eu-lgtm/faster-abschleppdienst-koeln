@@ -211,3 +211,12 @@ stadt-goettingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritt
 stadt-bottrop	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-trier	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-ulm	ratgeber-bremsen-versagen.html	Bremsen versagen	Gefälle auf der Alb
+stadt-recklinghausen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-reutlingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-koblenz	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-bergisch-gladbach	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-bremerhaven	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-erlangen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-remscheid	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-koblenz	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Glockenbergtunnel
+stadt-reutlingen	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Scheibengipfeltunnel

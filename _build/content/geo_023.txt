@@ -1,0 +1,193 @@
+=== stadt-recklinghausen | Abschleppdienst Recklinghausen: Pannenhilfe A2, A43 | Pannenhilfe und Abschleppen in Recklinghausen: 18 Stadtteile, Kreuz Recklinghausen mit A2 und A43, B225 und Umgehungsstraßen. Standort nennen. | page ===
+<!--AREAS: Recklinghausen, Recklinghausen-Hillerheide, Recklinghausen-Suderwich, Recklinghausen-Süd, Herten -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Recklinghausen</p><h1>Abschleppdienst Recklinghausen</h1><p class="lead">Recklinghausen liegt im nördlichen Ruhrgebiet, wo sich A2 und A43 kreuzen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zentrum des nördlichen Ruhrgebiets</h2>
+<p>Recklinghausen ist eine Großstadt im nordrhein-westfälischen Regierungsbezirk Münster und Kreisstadt des Kreises Recklinghausen, des bevölkerungsreichsten deutschen Kreises, sowie das Zentrum des nördlichen Ruhrgebiets. Die Stadt gliedert sich in 18 Stadtteile, die gleichzeitig statistische Bezirke sind. Im Norden, an den Stadtgrenzen zu Herten, Marl und Oer-Erkenschwick, wird der ländliche Ortsteil Speckhorn/Bockholt durch den Autobahnzubringer von der A43 in Richtung Oer vom eigentlichen Stadtgebiet getrennt. Nennen Sie uns bei einer Panne den Stadtteil und die Straße.</p>
+<h2>Kreuz Recklinghausen: A2 und A43</h2>
+<p>Recklinghausen ist über die A2 (Oberhausen–Berlin) und die A43 (Wuppertal–Münster), die sich im Stadtgebiet kreuzen, an das Autobahnnetz angeschlossen. Im Kreuz Recklinghausen kreuzt die A2 an der markanten Halde Hoheward die A43. Die B225 beginnt im Stadtgebiet an der Anschlussstelle 11 der A43. Wegen Brückenschäden an der Emschertalbrücke bei Herne darf die A43 laut Wikipedia zwischen den Kreuzen Recklinghausen und Herne nur von Fahrzeugen bis 3,5 Tonnen befahren werden. Sagen Sie uns bei einem Transporter oder Lkw daher das zulässige Gesamtgewicht. Mehr auf den Seiten <a href="autobahn-a2.html">Panne auf der A2</a> und <a href="stadt-bochum.html">Abschleppdienst Bochum</a>.</p>
+<h2>Umgehungsstraße und Grüngürtel</h2>
+<p>Wichtigste Umgehungs- und Ausfallstraße in West-Ost-Richtung ist der Straßenzug Akkoallee, Hertener Straße, Hohenzollernstraße, Dordrechtring und August-Schmidt-Ring, der an der Stadtgrenze zu Herten an der Anschlussstelle der A43 im Westen beginnt. Als Grüngürtel gibt es die Hohenhorster Heide im Stadtteil Hillerheide, die im Westen und Süden von den Autobahnen A43 und A2 begrenzt wird. Wenn Sie am Waldrand liegen bleiben, nennen Sie uns Parkplatz oder Weg und die nächste Autobahn.</p>
+<h2>Landeplatz und Flughäfen</h2>
+<p>Die Stadt besitzt einen Zugang zum Luftverkehr über den an der Stadtgrenze zu Marl gelegenen Verkehrslandeplatz Marl-Loemühle. Die nächsten Flughäfen mit internationalem Flugverkehr sind Dortmund, Düsseldorf und Münster/Osnabrück.</p>
+<h2>So nennen Sie Ihren Standort in Recklinghausen</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf A2 oder A43: Richtung, Anschlussstelle, Kreuz Recklinghausen.</li>
+<li>Am Umgehungsstraßenzug: Straße und Fahrtrichtung.</li>
+<li>Bei Transportern: zulässiges Gesamtgewicht.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Recklinghausen</h2>
+<details><summary>Wie viele Stadtteile hat Recklinghausen?</summary><div>18 Stadtteile, die gleichzeitig statistische Bezirke sind.</div></details>
+<details><summary>Welche Autobahnen kreuzen sich in Recklinghausen?</summary><div>Die A2 und die A43 am Kreuz Recklinghausen, an der Halde Hoheward.</div></details>
+<details><summary>Wo beginnt die B225?</summary><div>An der Anschlussstelle 11 der A43 im Stadtgebiet.</div></details>
+<details><summary>Kommen Sie auch nach Herten oder Marl?</summary><div>Wir organisieren Einsätze im nördlichen Ruhrgebiet. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-reutlingen | Abschleppdienst Reutlingen: Pannenhilfe B28, B312, Scheibengipfeltunnel | Pannenhilfe und Abschleppen in Reutlingen: Großstadt ohne direkten Autobahnanschluss, B28, B312, Scheibengipfeltunnel und Wege zur A8 und A81. | page ===
+<!--AREAS: Reutlingen, Reutlingen-Betzingen, Reutlingen-Sondelfingen, Reutlingen-Orschel-Hagen, Pfullingen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Reutlingen</p><h1>Abschleppdienst Reutlingen</h1><p class="lead">Reutlingen ist eine von nur zwei deutschen Großstädten ohne direkten Autobahnanschluss. Wer hier liegen bleibt, steht meist auf einer Bundesstraße. Sagen Sie uns, wo, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Neuntgrößte Stadt Baden-Württembergs</h2>
+<p>Reutlingen ist eine Großstadt im zentralen Baden-Württemberg und dessen neuntgrößte Stadt. Die Hochschulstadt und frühere Reichsstadt ist die größte Stadt und zugleich Kreisstadt des Landkreises Reutlingen. Sie gliedert sich in die Kernstadt (Reutlingen-Mitte) und 12 Stadtteile, ehemals selbstständige Gemeinden, die zwischen 1907 und 1975 eingemeindet wurden. Nennen Sie uns bei einer Panne Stadtteil und Straße, denn die eingemeindeten Orte haben oft eigene Ortsmitten.</p>
+<h2>Kein direkter Autobahnanschluss</h2>
+<p>Reutlingen hat als eine von nur zwei deutschen Großstädten, gemeinsam mit Solingen, keinen direkten Autobahnanschluss. Die A81 Stuttgart–Singen über Rottenburg am Neckar und Tübingen ist etwa 30 Fahrminuten entfernt, die A8 Stuttgart–Ulm über Filderstadt etwa 25 Minuten. Das heißt für Sie: Die Anfahrt eines Abschleppfahrzeugs führt fast immer über Bundes- oder Landesstraßen, oft durch Ortschaften. Sagen Sie uns, ob Ihr Fahrzeug auf der Bundesstraße oder in einer Ortschaft liegt. Mehr zu den Autobahnen: <a href="autobahn-a8.html">Panne auf der A8</a> und <a href="autobahn-a81.html">Panne auf der A81</a>.</p>
+<h2>B28, B312 und B464</h2>
+<p>Durch die Stadt führen die B28 (Tübingen–Ulm) und die B312 (Stuttgart–Biberach–Memmingen). Die B464 bildet einen Zubringer zur B27 und weiter Richtung Böblingen zur A81. Der am 27. Oktober 2017 eröffnete Scheibengipfeltunnel soll die Innenstadt vom Durchgangsverkehr entlasten. Wenn Sie im Tunnel liegen bleiben, gilt: Warnblinker an, weit an den Rand, Notrufeinrichtung nutzen, mehr im <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>. Nennen Sie uns den Tunnel und die Fahrtrichtung.</p>
+<h2>Nachbarstädte</h2>
+<p>Größere Städte in der Nähe sind <a href="stadt-stuttgart.html">Stuttgart</a> und <a href="stadt-ulm.html">Ulm</a>.</p>
+<h2>So nennen Sie Ihren Standort in Reutlingen</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf der B28, B312 oder B464: Richtung, Ortschaft, Querstraße.</li>
+<li>Im Scheibengipfeltunnel: Fahrtrichtung.</li>
+<li>Am Hang: bergauf oder bergab.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Reutlingen</h2>
+<details><summary>Hat Reutlingen einen Autobahnanschluss?</summary><div>Nicht direkt. Die A81 ist rund 30 Fahrminuten, die A8 rund 25 Minuten entfernt.</div></details>
+<details><summary>Welche Bundesstraßen führen durch Reutlingen?</summary><div>Die B28 (Tübingen–Ulm) und die B312 (Stuttgart–Biberach–Memmingen), dazu die B464 als Zubringer.</div></details>
+<details><summary>Wann wurde der Scheibengipfeltunnel eröffnet?</summary><div>Am 27. Oktober 2017. Er soll die Innenstadt vom Durchgangsverkehr entlasten.</div></details>
+<details><summary>Wie viele Stadtteile hat Reutlingen?</summary><div>Die Kernstadt und 12 Stadtteile, die zwischen 1907 und 1975 eingemeindet wurden.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-koblenz | Abschleppdienst Koblenz: Pannenhilfe A61, A48, Rhein, Mosel | Pannenhilfe und Abschleppen in Koblenz: 30 Stadtteile, Rhein und Mosel, A61 im Westen, A48 im Norden, Glockenbergtunnel und viele Brücken. | page ===
+<!--AREAS: Koblenz, Koblenz-Ehrenbreitstein, Koblenz-Güls, Koblenz-Lützel, Koblenz-Pfaffendorf -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Koblenz</p><h1>Abschleppdienst Koblenz</h1><p class="lead">Koblenz liegt am Zusammenfluss von Rhein und Mosel. Rheinbrücken, Moselbrücken und der Glockenbergtunnel prägen den Verkehr. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Dritte Großstadt in Rheinland-Pfalz</h2>
+<p>Koblenz, bis 1926 Coblenz, ist eine kreisfreie Großstadt im nördlichen Rheinland-Pfalz mit 113.020 Einwohnern (31. Dezember 2025) und nach Mainz und Ludwigshafen die drittgrößte Stadt des Landes. Das Stadtgebiet ist in 30 statistische Stadtteile gegliedert, zwei Wahlkreise trennen die linksrheinischen von den rechtsrheinischen Ortsbezirken. Neben Rhein und Mosel durchfließen kleinere Bäche das Stadtgebiet, etwa der Königsbach in Stolzenfels. Nennen Sie uns bei einer Panne den Stadtteil, die Straße und ob Sie links oder rechts des Rheins beziehungsweise der Mosel stehen.</p>
+<h2>A61 und A48</h2>
+<p>Im Westen der Stadt führt die A61 Ludwigshafen–Mönchengladbach vorbei, im Norden die West-Ost-Verbindung der A48, die die A1 Saarbrücken–Köln mit der A3 Frankfurt–Köln verbindet. Am Kreuz Koblenz kreuzt die A61 die A48, die auch den Verkehr Richtung Trier und Saarland übernimmt. Zur Strecke lesen Sie <a href="autobahn-a61.html">Panne auf der A61</a> und <a href="autobahn-a3.html">Panne auf der A3</a>. Durch das Stadtgebiet führen außerdem die Bundesstraßen B9, B42, B49, B416 und B327.</p>
+<h2>Glockenbergtunnel und Brücken</h2>
+<p>Der Glockenbergtunnel ermöglicht einen kreuzungsfreien Anschluss der Pfaffendorfer Brücke an die B42. Den Rhein überqueren die Bendorfer Autobahnbrücke, die Pfaffendorfer Brücke, die Horchheimer Eisenbahnbrücke und die Südbrücke, über die Mosel führen unter anderem die Balduinbrücke aus dem 14. Jahrhundert, die zweitälteste erhaltene Brücke über die Mosel, die Europabrücke, die Kurt-Schumacher-Brücke und die Staustufe Koblenz. Für Ihre Standortangabe: Nennen Sie uns die Brücke oder den Tunnel und die Fahrtrichtung. Bei einer Panne im Tunnel lesen Sie <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>.</p>
+<h2>Festung Ehrenbreitstein</h2>
+<p>Aus der um 1020 auf dem Ehrenbreitstein erbauten Burg entwickelte sich die spätere Festung Ehrenbreitstein. Zufahrten und Parkplätze am Berg sind eng und steil. Wenn Ihr Fahrzeug dort liegen bleibt, sagen Sie uns, ob Sie bergauf oder bergab stehen.</p>
+<h2>So nennen Sie Ihren Standort in Koblenz</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße und die Flussseite.</li>
+<li>Auf A61 oder A48: Richtung, Anschlussstelle, Kreuz Koblenz.</li>
+<li>An einer Brücke: Name und Fahrtrichtung.</li>
+<li>Im Glockenbergtunnel: Fahrtrichtung.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Koblenz</h2>
+<details><summary>Wie viele Stadtteile hat Koblenz?</summary><div>30 statistische Stadtteile.</div></details>
+<details><summary>Welche Autobahnen führen nach Koblenz?</summary><div>Die A61 im Westen und die A48 im Norden, die A1 und A3 verbindet.</div></details>
+<details><summary>Welche Brücken überqueren den Rhein?</summary><div>Die Bendorfer Autobahnbrücke, die Pfaffendorfer Brücke, die Horchheimer Eisenbahnbrücke und die Südbrücke.</div></details>
+<details><summary>Was ist der Glockenbergtunnel?</summary><div>Ein Tunnel, der die Pfaffendorfer Brücke kreuzungsfrei an die B42 anschließt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-bergisch-gladbach | Abschleppdienst Bergisch Gladbach: Pannenhilfe A4, B55 | Pannenhilfe und Abschleppen in Bergisch Gladbach: sechs statistische Bezirke, Grenze zu Köln, A4, Kreuz Köln-Ost und Bundesstraßen B55 und B506. | page ===
+<!--AREAS: Bergisch Gladbach, Bergisch Gladbach-Refrath, Bergisch Gladbach-Bensberg, Bergisch Gladbach-Bockenberg, Köln -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bergisch Gladbach</p><h1>Abschleppdienst Bergisch Gladbach</h1><p class="lead">Bergisch Gladbach grenzt im Westen unmittelbar an Köln. Im Süden verläuft die A4 nach Olpe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisstadt im Bergischen Land</h2>
+<p>Bergisch Gladbach ist eine große kreisangehörige Stadt und Großstadt im Bergischen Land in Nordrhein-Westfalen. Als Kreisstadt ist sie Mittelzentrum des Rheinisch-Bergischen Kreises. Im Westen grenzt sie unmittelbar an Köln. Die Stadt ist in sechs statistische Bezirke untergliedert, die fortlaufend nummeriert sind und sich in mehrere Stadtteile unterteilen. Am 3. November 2015 wurden die zuvor eingeführten Wohnplätze in Stadtteile umgewandelt. Nennen Sie uns bei einer Panne Stadtteil und Straße, zum Beispiel Refrath, Bensberg oder Paffrath.</p>
+<h2>A4 im Süden und die Verbindung nach Köln</h2>
+<p>Durch das südliche Stadtgebiet führt die A4 von Köln nach Olpe, die im Westen der Stadt bereits auf Kölner Stadtgebiet die A3 (Frankfurt–Köln–Oberhausen) kreuzt. Das ist das Kreuz Köln-Ost. Ferner führen die Bundesstraßen B55 und B506 durch das Stadtgebiet. Die A4 im Kölner Raum lesen Sie auf der Seite <a href="pannenhilfe-a4-koeln.html">Panne auf der A4 bei Köln</a>, die A3 auf <a href="pannenhilfe-a3-koeln.html">Panne auf der A3 bei Köln</a>. Bei einer Panne auf der A4 nennen Sie uns Fahrtrichtung und Anschlussstelle.</p>
+<h2>Bergische Straßen</h2>
+<p>Im Bergischen Land sind Straßen oft steil und kurvig, mit engen Ortsdurchfahrten. Wenn Sie an einer Steigung liegen bleiben, sagen Sie uns, ob Sie bergauf oder bergab stehen, und ob ein größeres Abschleppfahrzeug wenden kann. Die Nähe zu Köln bedeutet außerdem, dass Ihr Ziel oft in Köln liegt, mehr auf <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke</a>.</p>
+<h2>So nennen Sie Ihren Standort in Bergisch Gladbach</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf der A4: Richtung, Anschlussstelle (zum Beispiel Bensberg) oder Kreuz Köln-Ost.</li>
+<li>Auf B55 oder B506: Richtung und Ortsteil.</li>
+<li>Bei Hanglage: bergauf oder bergab.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Bergisch Gladbach</h2>
+<details><summary>Wie viele Bezirke hat Bergisch Gladbach?</summary><div>Sechs statistische Bezirke, die in mehrere Stadtteile unterteilt sind.</div></details>
+<details><summary>Welche Autobahn führt durch Bergisch Gladbach?</summary><div>Die A4 von Köln nach Olpe durch das südliche Stadtgebiet.</div></details>
+<details><summary>Wo kreuzt die A4 die A3?</summary><div>Im Westen der Stadt bereits auf Kölner Stadtgebiet, am Kreuz Köln-Ost.</div></details>
+<details><summary>Kommen Sie auch nach Köln?</summary><div>Wir organisieren Einsätze in Köln und Umgebung. Nennen Sie uns Standort und Ziel, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-bremerhaven | Abschleppdienst Bremerhaven: Pannenhilfe A27, B6, B212 | Pannenhilfe und Abschleppen in Bremerhaven: zwei Stadtbezirke, A27, Grimsbystraße B212, Überseehafen, Containerterminal und Blexen-Fähre. | page ===
+<!--AREAS: Bremerhaven, Bremerhaven-Geestemünde, Bremerhaven-Lehe, Bremerhaven-Leherheide, Bremerhaven-Überseehafen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bremerhaven</p><h1>Abschleppdienst Bremerhaven</h1><p class="lead">Bremerhaven liegt an der Weser als Exklave des Landes Bremen, mit dem Überseehafengebiet und der A27 im Osten. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Exklave an der Weser</h2>
+<p>Die Stadtgemeinde Bremerhaven ist eine Großstadt am Westrand des Elbe-Weser-Dreiecks, das in die Nordsee übergeht. Sie liegt länglich an der Unter- und Außenweser und wurde 1827 gegründet. Als Exklave gehört sie zum Land Freie Hansestadt Bremen. Die Stadt ist in zwei Stadtbezirke (Nord und Süd) und diese in neun Stadtteile gegliedert, die in 24 Ortsteile unterteilt sind. 2010 kam durch einen Staatsvertrag die bisher niedersächsische Luneplate als 24. Ortsteil zu Bremerhaven. Die Stadt liegt nur 0,2 bis 2 Meter über NHN, die höchste natürliche Erhebung im Stadtteil Leherheide misst 11,1 Meter. Nennen Sie uns bei einer Panne Stadtteil und Straße, etwa Geestemünde, Lehe oder Leherheide.</p>
+<h2>A27, B6, B71 und B212</h2>
+<p>Durch das östliche Stadtgebiet führt die A27 Cuxhaven–Bremerhaven–Bremen–Walsrode. Ferner führen die alte B6, die B71 und die B212 durch das Stadtgebiet. In Mitte verbindet die Grimsbystraße (B212) als Autobahnzubringer die A27 mit dem Fähranleger nach Blexen in Geestemünde. Besonderheit: Die Strecke von kurz vor der Anschlussstelle an die B6 bis zur Autobahn, etwa zwei Kilometer, ist dreistreifig ausgebaut. Mehr zur A27 auf der Seite <a href="stadt-bremen.html">Abschleppdienst Bremen</a>. Bei einer Panne auf der A27 nennen Sie uns Richtung und Anschlussstelle.</p>
+<h2>Überseehafengebiet und Containerterminal</h2>
+<p>Der Containerterminal mit der längsten Stromkaje der Welt (4.680 Meter Kailänge, 14 Liegeplätze), die tideunabhängigen Häfen mit Autoimport und -export und die Columbuskaje mit dem Passagierverkehr gehören zum stadtbremischen Überseehafengebiet, das von Bremenports verwaltet wird. Das Überseehafengebiet ist als Freizone ein zollrechtliches Sondergebiet innerhalb des Zollgebiets der Europäischen Union. Für Fahrzeuge im Hafengebiet brauchen wir Straße, Tor oder Kai, der Zugang hängt vom Betreiber ab. Wir klären ihn im Einzelfall mit Ihnen.</p>
+<h2>Alter Hafen und Columbus-Center</h2>
+<p>Eine gläserne Brücke führt vom Columbus-Center über den Alten Hafen. Rund um Alten Hafen und Innenstadt gibt es viele Parkplätze für Besucher. Nennen Sie uns dort die Straße und den Parkplatz.</p>
+<h2>So nennen Sie Ihren Standort in Bremerhaven</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf der A27: Richtung, Anschlussstelle.</li>
+<li>Auf B6, B71 oder B212: Richtung und Querstraße.</li>
+<li>Im Überseehafen: Kai, Tor oder Terminal.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Bremerhaven</h2>
+<details><summary>Wie viele Stadtbezirke hat Bremerhaven?</summary><div>Zwei (Nord und Süd) mit neun Stadtteilen und 24 Ortsteilen.</div></details>
+<details><summary>Welche Autobahn führt durch Bremerhaven?</summary><div>Die A27 durch das östliche Stadtgebiet, von Cuxhaven über Bremerhaven nach Bremen.</div></details>
+<details><summary>Was ist die Grimsbystraße?</summary><div>Die B212 als Autobahnzubringer Mitte zum Fähranleger nach Blexen, teils dreistreifig ausgebaut.</div></details>
+<details><summary>Kommen Sie in den Überseehafen?</summary><div>Wir organisieren Einsätze im Stadtgebiet. Für Hafengelände brauchen wir Tor, Kai und Straße, dann klären wir den Zugang.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-erlangen | Abschleppdienst Erlangen: Pannenhilfe A3, A73, Tennenlohe | Pannenhilfe und Abschleppen in Erlangen: neun Stadtteile, Kreuz Fürth/Erlangen, A3, A73, B4 und viele Radwege. So nennen Sie Ihren Standort. | page ===
+<!--AREAS: Erlangen, Erlangen-Tennenlohe, Erlangen-Frauenaurach, Erlangen-Bruck, Fürth -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Erlangen</p><h1>Abschleppdienst Erlangen</h1><p class="lead">Erlangen gehört zum Nürnberger Ballungsraum und liegt an der A3, mit der A73 (Frankenschnellweg) am Kreuz Fürth/Erlangen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Universitätsstadt in Mittelfranken</h2>
+<p>Erlangen ist eine Großstadt im Regierungsbezirk Mittelfranken des Freistaates Bayern mit 116.450 Einwohnern (Stand 31. Dezember 2025). Die kreisfreie Stadt ist Universitätsstadt und Sitz des Landratsamts des Landkreises Erlangen-Höchstadt. Amtlich besteht sie aus neun Stadtteilen und 40 statistischen Bezirken, daneben in zwölf Gemarkungen. Nennen Sie uns bei einer Panne den Stadtteil und die Straße, zum Beispiel Tennenlohe, Frauenaurach oder Bruck.</p>
+<h2>A3 und A73</h2>
+<p>Durch das Nürnberger Umland führt die A3 (Emmerich–Köln–Frankfurt–Würzburg–Erlangen–Nürnberg–Regensburg–Passau) und die A73 (Nürnberg–Fürth–Erlangen–Bamberg–Coburg–Suhl). An den westlichen Vororten von Erlangen vorbei dreht die A3 von südlicher in südöstliche Richtung. Im Stadtteil Frauenaurach werden kurz hintereinander die Mittlere Aurach, der Main-Donau-Kanal und die Regnitz überquert. Direkt danach kreuzt am Kreuz Fürth/Erlangen die A73, hier Frankenschnellweg genannt. Beim Stadtteil Tennenlohe wird der Nürnberger Reichswald erreicht. Zur A3 im Detail: <a href="autobahn-a3.html">Panne auf der A3</a>, zu Nürnberg: <a href="stadt-nuernberg.html">Abschleppdienst Nürnberg</a>. Bei einer Panne an Kreuz oder Brücke nennen Sie uns Autobahn, Richtung und Anschlussstelle.</p>
+<h2>B4 und Frankenschnellweg</h2>
+<p>Die B4 führt von Bad Bramstedt über Hamburg, Braunschweig, Erfurt, Coburg und Bamberg nach Erlangen, Nürnberg und Fischbach, als A73 weitergeführt. Im Nürnberger Stadtgebiet gibt es eine Baulücke mit drei Ampeln. Wenn Sie auf dem Frankenschnellweg stehen, sagen Sie uns die Anschlussstelle und die Richtung.</p>
+<h2>Fahrradstadt</h2>
+<p>Erlangen fördert den Radverkehr seit den frühen 1970er Jahren, unter anderem mit einem ausgedehnten Netz selbstständig geführter Radwege mit eigenen Brücken und Unterführungen. Seit Februar 2024 ist Erlangen in das Fahrradverleihsystem VAG Rad der Nürnberger VAG eingebunden. Fahrzeuge sollten nicht auf Radwegen stehen bleiben, wenn es sich vermeiden lässt. Sagen Sie uns, ob Sie auf einer Fahrbahn oder einem Radweg stehen.</p>
+<h2>So nennen Sie Ihren Standort in Erlangen</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf A3 oder A73: Richtung, Anschlussstelle, Kreuz Fürth/Erlangen.</li>
+<li>Auf dem Frankenschnellweg: Richtung und Anschlussstelle.</li>
+<li>Auf Radwegen: Straße und Hinweis.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Erlangen</h2>
+<details><summary>Wie viele Stadtteile hat Erlangen?</summary><div>Neun Stadtteile und 40 statistische Bezirke.</div></details>
+<details><summary>Welche Autobahnen führen nach Erlangen?</summary><div>Die A3 und die A73, die sich am Kreuz Fürth/Erlangen treffen.</div></details>
+<details><summary>Was ist der Frankenschnellweg?</summary><div>Der Beiname der A73 zwischen Bamberg und Nürnberg, aus der umgewidmeten B4 hervorgegangen.</div></details>
+<details><summary>Kommen Sie auch nach Fürth oder Nürnberg?</summary><div>Wir organisieren Einsätze im Ballungsraum Nürnberg. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-remscheid | Abschleppdienst Remscheid: Pannenhilfe A1, B229, B51 | Pannenhilfe in Remscheid: vier Stadtbezirke, A1 mit Anschlussstellen Remscheid und Lennep, B51, B229, B237 und Müngstener Brücke. | page ===
+<!--AREAS: Remscheid, Remscheid-Lennep, Remscheid-Lüttringhausen, Remscheid-Hasten, Wuppertal -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Remscheid</p><h1>Abschleppdienst Remscheid</h1><p class="lead">Remscheid ist eine bergische Stadt mit hügeligen Straßen und Anschluss an die A1. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Bergische Stadt mit vier Stadtbezirken</h2>
+<p>Remscheid ist eine kreisfreie Großstadt im Regierungsbezirk Düsseldorf, Teil des Bergischen Städtedreiecks und der Metropolregion Rhein-Ruhr. Das Stadtgebiet besteht aus vier Stadtbezirken: Alt-Remscheid, Remscheid-Süd, Lennep und Lüttringhausen. Der Stadtbezirk Alt-Remscheid war früher in Innenstadt, Nord/Hasten und weitere Bezirke unterteilt. Jeder Stadtbezirk hat eine eigene Bezirksvertretung. Nennen Sie uns bei einer Panne den Stadtbezirk, den Stadtteil und die Straße.</p>
+<h2>A1: Anschlussstellen Remscheid und Lennep</h2>
+<p>Die Stadt ist über die A1 (Anschlussstelle Nr. 95b "Remscheid" und Nr. 95a "Remscheid-Lennep") an das Autobahnnetz angeschlossen. Die Anschlussstelle Nr. 94 "Wuppertal-Ronsdorf" liegt unmittelbar hinter der Stadtgrenze. Nahe der Eschbachtalsperre liegt die Raststätte Remscheid an der A1. Zur Strecke lesen Sie <a href="pannenhilfe-a1-koeln.html">Panne auf der A1 bei Köln</a> und <a href="stadt-wuppertal.html">Abschleppdienst Wuppertal</a>. Wenn Sie an der Raststätte oder an einer Anschlussstelle liegen bleiben, nennen Sie uns Autobahn, Richtung und Ausfahrt.</p>
+<h2>Bundes- und Landesstraßen</h2>
+<p>Ferner führen die Bundesstraßen B51, B229 und B237 sowie eine Vielzahl von Landesstraßen durch das Stadtgebiet, darunter die L58, L74, L80, L81, L157, L216, L407, L409, L411, L412, L415 und L417. Die Straßen sind hügelig und teilweise kurvig, auf vielen Strecken gibt es Steigungen. Bei einer Panne sagen Sie uns die Straße und ob Sie bergauf oder bergab stehen.</p>
+<h2>Müngstener Brücke</h2>
+<p>Die Bahnstrecke Solingen–Remscheid führt an der Grenze zur Stadt Remscheid über die Müngstener Brücke. Im Brückenpark Müngsten liegt ein Landschaftspark unter der Brücke, ein Gemeinschaftsprojekt von Solingen, Remscheid und Wuppertal. Die Zufahrten sind schmal und teilweise Waldwege, bei Anfahrt mit einem größeren Fahrzeug sagen Sie uns die Straße und Breite.</p>
+<h2>So nennen Sie Ihren Standort in Remscheid</h2>
+<ul class="ticks">
+<li>Stadtbezirk, Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf der A1: Richtung, Anschlussstelle (95a, 95b, 94) oder Raststätte.</li>
+<li>Auf B51, B229 oder B237: Richtung und Querstraße.</li>
+<li>Bei Hanglage: bergauf oder bergab.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Remscheid</h2>
+<details><summary>Wie viele Stadtbezirke hat Remscheid?</summary><div>Vier: Alt-Remscheid, Remscheid-Süd, Lennep und Lüttringhausen.</div></details>
+<details><summary>Welche Anschlussstellen hat die A1 in Remscheid?</summary><div>Nr. 95b Remscheid und Nr. 95a Remscheid-Lennep. Die Anschlussstelle 94 Wuppertal-Ronsdorf liegt unmittelbar hinter der Stadtgrenze.</div></details>
+<details><summary>Wo liegt die Raststätte Remscheid?</summary><div>An der A1, nahe der Eschbachtalsperre.</div></details>
+<details><summary>Kommen Sie auch nach Solingen oder Wuppertal?</summary><div>Wir organisieren Einsätze im Bergischen Land. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@

@@ -83,3 +83,10 @@ stadt-pforzheim	Pforzheim	Baden-Württemberg
 stadt-goettingen	Göttingen	Niedersachsen	
 stadt-bottrop	Bottrop	Nordrhein-Westfalen	
 stadt-trier	Trier	Rheinland-Pfalz	
+stadt-recklinghausen	Recklinghausen	Nordrhein-Westfalen	
+stadt-reutlingen	Reutlingen	Baden-Württemberg	
+stadt-koblenz	Koblenz	Rheinland-Pfalz	
+stadt-bergisch-gladbach	Bergisch Gladbach	Nordrhein-Westfalen	
+stadt-bremerhaven	Bremerhaven	Bremen	
+stadt-erlangen	Erlangen	Bayern	
+stadt-remscheid	Remscheid	Nordrhein-Westfalen	
