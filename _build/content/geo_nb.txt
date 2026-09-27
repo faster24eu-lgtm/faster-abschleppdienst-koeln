@@ -71,3 +71,11 @@ stadt-bergisch-gladbach	index,leverkusen,bonn,wuppertal,remscheid,solingen,siegb
 stadt-bremerhaven	bremen,oldenburg,cuxhaven,hamburg,wilhelmshaven,emden,lueneburg,kiel	
 stadt-erlangen	nuernberg,fuerth,bamberg,wuerzburg,regensburg,ansbach,bayreuth,ingolstadt	a3,a9
 stadt-remscheid	wuppertal,solingen,leverkusen,hagen,bergisch-gladbach,index,duesseldorf,essen	
+stadt-salzgitter	braunschweig,wolfsburg,hildesheim,hannover,goettingen,magdeburg,goslar,wolfenbuettel	a7
+stadt-fuerth	nuernberg,erlangen,schwabach,bamberg,ansbach,regensburg,wuerzburg,ingolstadt	a3
+stadt-hildesheim	hannover,braunschweig,salzgitter,goettingen,wolfsburg,celle,kassel,hameln	a7
+stadt-cottbus	potsdam,dresden,berlin,goerlitz,leipzig,frankfurt-oder,brandenburg-an-der-havel,chemnitz	
+stadt-guetersloh	bielefeld,paderborn,muenster,hamm,osnabrueck,dortmund,herford,minden	a2
+stadt-witten	bochum,dortmund,hagen,essen,herne,wuppertal,gelsenkirchen,recklinghausen	
+stadt-hanau	frankfurt,offenbach,darmstadt,aschaffenburg,fulda,giessen,wiesbaden,mainz	a3
+stadt-schwerin	rostock,luebeck,hamburg,kiel,berlin,wismar,potsdam,bremen	

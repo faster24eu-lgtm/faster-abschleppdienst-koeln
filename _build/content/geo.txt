@@ -90,3 +90,11 @@ stadt-bergisch-gladbach	Bergisch Gladbach	Nordrhein-Westfalen
 stadt-bremerhaven	Bremerhaven	Bremen	
 stadt-erlangen	Erlangen	Bayern	
 stadt-remscheid	Remscheid	Nordrhein-Westfalen	
+stadt-salzgitter	Salzgitter	Niedersachsen	
+stadt-fuerth	Fürth	Bayern	
+stadt-hildesheim	Hildesheim	Niedersachsen	
+stadt-cottbus	Cottbus	Brandenburg	
+stadt-guetersloh	Gütersloh	Nordrhein-Westfalen	
+stadt-witten	Witten	Nordrhein-Westfalen	
+stadt-hanau	Hanau	Hessen	
+stadt-schwerin	Schwerin	Mecklenburg-Vorpommern	

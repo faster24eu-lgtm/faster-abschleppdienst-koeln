@@ -220,3 +220,11 @@ stadt-erlangen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte 
 stadt-remscheid	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-koblenz	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Glockenbergtunnel
 stadt-reutlingen	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Scheibengipfeltunnel
+stadt-salzgitter	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-fuerth	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-hildesheim	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-cottbus	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-guetersloh	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-witten	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-hanau	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-schwerin	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
