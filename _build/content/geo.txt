@@ -14,3 +14,6 @@ koeln-a555	A555 Köln bis Bonn	A555	ab
 stadt-berlin	Berlin	Berlin	
 stadt-hamburg	Hamburg	Hamburg	
 stadt-muenchen	München	Bayern	
+stadt-frankfurt	Frankfurt am Main	Hessen	
+stadt-stuttgart	Stuttgart	Baden-Württemberg	
+stadt-duesseldorf	Düsseldorf	Nordrhein-Westfalen	

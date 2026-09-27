@@ -1,0 +1,94 @@
+=== stadt-frankfurt | Abschleppdienst Frankfurt am Main: Pannenhilfe 24/7 | Pannenhilfe und Abschleppen in Frankfurt am Main: 46 Stadtteile, Frankfurter Kreuz, A5, A661, A648 und A66. So nennen Sie Ihren Standort. | page ===
+<!--AREAS: Frankfurt am Main, Frankfurt-Flughafen, Frankfurt-Rödelheim, Frankfurt-Niederrad -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Frankfurt am Main</p><h1>Abschleppdienst Frankfurt am Main</h1><p class="lead">Frankfurt liegt an einem der meistbefahrenen Knotenpunkte Europas. Wer hier liegen bleibt, sollte genau wissen, ob er auf der A5, im Ring oder in einem der 46 Stadtteile steht.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>46 Stadtteile, 16 Ortsbezirke</h2>
+<p>Das Stadtgebiet ist für statistische Zwecke in 46 Stadtteile gegliedert. Dem Namen nach sind es nur 43, weil die bevölkerungsreichen Stadtteile Nordend, Sachsenhausen und Westend nochmals in Ost und West beziehungsweise Nord und Süd geteilt sind. Im Melderegister waren am 31. Dezember 2025 insgesamt 781.337 Einwohner verzeichnet. Größer als die Stadtteile sind die 16 Ortsbezirke mit eigenen Ortsbeiräten. Die Frankfurter identifizieren sich aber eher mit ihrem Stadtteil als mit dem Ortsbezirk. Nennen Sie uns deshalb den Stadtteil, etwa Bockenheim, Niederrad oder Rödelheim, und die Straße.</p>
+<h2>Das Frankfurter Kreuz</h2>
+<p>Südwestlich der Stadt, in unmittelbarer Nähe des Flughafens, liegt das Frankfurter Kreuz, ein Autobahnkreuz in Kleeblattform, an dem sich die A5 und die A3 sowie die B43 treffen. Es gilt als einer der meistbefahrenen Straßenknotenpunkte Europas, mit durchschnittlich 335.000 Fahrzeugen pro Tag. Die A5 ist hier zehnstreifig, unter dem Kreuz verläuft der Tunnel der Schnellfahrstrecke Köln–Rhein/Main. Für Ihre Standortangabe heißt das: Sagen Sie uns, ob Sie im Kreuz, davor oder dahinter stehen, und auf welcher der beiden Autobahnen. Die Schleifen des Kleeblatts sehen aus dem Fahrzeug alle ähnlich aus, deshalb ist die Fahrtrichtung entscheidend.</p>
+<h2>Der Ring um die Stadt: A5, A661 und A3</h2>
+<p>Die A661 bildet zusammen mit der A5 und der A3 einen Autobahnring um Frankfurt. Sie führt von Oberursel über Bad Homburg, Frankfurt und Offenbach nach Egelsbach und ist mit 37 Kilometern die längste Autobahn mit dreistelliger Nummer in Deutschland. Ihr Name Osttangente beschreibt den Abschnitt im Osten, im Norden heißt sie Taunusschnellweg oder Feldbergzubringer. Der Lückenschluss im Osten der Stadt zog sich bis 1995 hin und ist bis heute nur provisorisch ausgeführt. Bei einer Panne dort sind Anschlussstelle und Fahrtrichtung die besten Angaben.</p>
+<h2>Die A648 und die Messe</h2>
+<p>Die A648, auch Messeautobahn genannt, dient als Zubringer von der A66 und der A5 ins Stadtzentrum und endet kurz vor dem Gelände der Messe Frankfurt. Sie beginnt am Eschborner Dreieck, führt über die Anschlussstelle Frankfurt-Rödelheim zum Westkreuz Frankfurt, an dem die A5 gekreuzt wird. Wenn Sie während einer Messe liegen bleiben, rechnen Sie mit vielen Fahrzeugen auf den Zufahrten und sagen Sie uns die Richtung.</p>
+<h2>Die A66 und der Rhein-Main-Schnellweg</h2>
+<p>Die A66 führt von Wiesbaden über Frankfurt und Hanau nach Fulda. Der Abschnitt Wiesbaden–Frankfurt wird Rhein-Main-Schnellweg genannt, östlich davon heißt sie Kinzigtalautobahn. Im Frankfurter Stadtgebiet besteht eine Baulücke. Zwischen Wiesbaden-Biebrich und Wiesbaden-Mainzer Straße war die A66 wegen des Neubaus der Salzbachtalbrücke vom 18. Juni 2021 bis zum 17. Dezember 2023 gesperrt, der Nordteil der neuen Brücke folgte am 1. August 2025. Für aktuelle Sperrungen ist Ihr Verkehrsfunk die bessere Quelle.</p>
+<h2>Was wir in Frankfurt tun</h2>
+<p>Sie rufen an oder schreiben per WhatsApp, wir klären Fahrzeug, Zustand und Ziel und organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), gefahren wird von Partnern vor Ort. Eine Ankunftszeit nennen wir nicht, weil Verkehr und Ort sie beeinflussen. Allgemeine Schritte finden Sie im <a href="ratgeber-panne-autobahn.html">Ratgeber zur Panne auf der Autobahn</a>.</p>
+<h2>So nennen Sie Ihren Standort in Frankfurt</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu eine Kreuzung oder S-Bahn-Station.</li>
+<li>Auf Autobahnen: Nummer, Fahrtrichtung, Anschlussstelle, Kreuz oder Dreieck.</li>
+<li>Am Flughafen: Terminal, Parkhaus und Ebene.</li>
+<li>Auf der Messe-Zufahrt: A648, Richtung Messe oder weg von der Messe.</li>
+</ul>
+<p>Weitere große Städte finden Sie unter <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>, zum Beispiel <a href="stadt-stuttgart.html">Stuttgart</a> und <a href="abschleppdienst-koeln-stadtteile.html">Köln</a>, das über die A3 mit Frankfurt verbunden ist.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Frankfurt</h2>
+<details><summary>Wie viele Stadtteile hat Frankfurt?</summary><div>46 Stadtteile, dem Namen nach 43, weil Nordend, Sachsenhausen und Westend nochmals geteilt sind. Dazu kommen 16 Ortsbezirke.</div></details>
+<details><summary>Ich stehe im Frankfurter Kreuz. Was sage ich?</summary><div>Nennen Sie die Autobahn, die Fahrtrichtung und ob Sie im Kreuz, davor oder dahinter stehen. Ein Standort per WhatsApp hilft.</div></details>
+<details><summary>Was ist die A648?</summary><div>Die Messeautobahn, ein Zubringer von A66 und A5 ins Stadtzentrum, die kurz vor dem Messegelände endet.</div></details>
+<details><summary>Kommen Sie auch zum Flughafen?</summary><div>Wir organisieren Einsätze im Stadtgebiet einschließlich der Zufahrten. Nennen Sie uns Terminal oder Parkhaus und Ebene, dann klären wir den Zugang.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-stuttgart | Abschleppdienst Stuttgart: Pannenhilfe im Talkessel | Pannenhilfe und Abschleppen in Stuttgart: 23 Stadtbezirke, Tunnel wie Heslacher und Wagenburgtunnel, A8, A81, A831 und die Kessellage. | page ===
+<!--AREAS: Stuttgart, Stuttgart-Mitte, Stuttgart-Vaihingen, Stuttgart-Bad Cannstatt, Stuttgart-Degerloch -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stuttgart</p><h1>Abschleppdienst Stuttgart</h1><p class="lead">Stuttgart liegt im Talkessel und ist eine Stadt der Tunnel und Steigungen. Wer hier liegen bleibt, steht selten auf ebener Straße. Sagen Sie uns, wo Sie sind, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zwischen Wald und Reben: der Kessel</h2>
+<p>Die Kernstadt liegt im Stuttgarter Kessel, einem Talkessel, den der Nesenbach mit seinen Nebenbächen geformt hat. Das Stadtgebiet erstreckt sich über eine Höhendifferenz von fast 350 Metern, von 207 Metern an der Neckarschleuse Hofen bis 549 Metern auf der Bernhartshöhe nahe dem Autobahnkreuz. Am 31. Dezember 2025 lebten hier 609.365 Einwohner. Für eine Panne bedeutet die Topografie: Vieles hängt von Steigung und Gefälle ab. Ein liegengebliebenes Auto an einer Steigung ist ein anderer Einsatz als eines auf ebener Fläche. Sagen Sie uns bitte, ob Sie an einem Hang stehen und in welche Richtung das Fahrzeug rollen könnte, und lesen Sie bei Bremsproblemen den <a href="ratgeber-bremsen-versagen.html">Ratgeber Bremsen versagen</a>.</p>
+<h2>23 Stadtbezirke, 152 Stadtteile</h2>
+<p>Verwaltungsmäßig ist die Stadt in fünf innere und 18 äußere Stadtbezirke aufgeteilt, zusammen 23 Stadtbezirke mit 152 Stadtteilen. Die Bezirke haben einen Bezirksbeirat und einen Bezirksvorsteher. Nennen Sie uns den Stadtteil und die Straße, etwa Vaihingen, Bad Cannstatt oder Degerloch, dazu eine Stadtbahnhaltestelle. Hausnummer und Querstraße sind in einer hügeligen Stadt besonders hilfreich, weil parallele Straßen auf verschiedenen Höhen liegen können.</p>
+<h2>Eine Stadt der Tunnel</h2>
+<p>Wegen der hügeligen Topografie ist Stuttgart auch eine Stadt der Tunnel, für Straße, Eisenbahn, S-Bahn und Stadtbahn. Zu den Straßentunneln gehören der Wagenburgtunnel, dessen 824 Meter lange Südröhre 1958 der längste Straßentunnel Deutschlands war, der 2.300 Meter lange Heslacher Tunnel (gebaut 1980 bis 1991), auf der B14 der Viereichenhautunnel mit 290 und der Gäubahntunnel mit 450 Metern, der Schwabtunnel von 1894 bis 1896 mit 124 Metern Länge, der Pragsatteltunnel der B10 mit 720 Metern und der Rosensteintunnel mit 1.300 Metern unter der Wilhelma. Auch an der A831 in Vaihingen liegt der rund 200 Meter lange Johannesgrabentunnel. Wenn Sie in einem Tunnel liegen bleiben, gilt: Warnblinker an, weit an den Rand, Notrufeinrichtung nutzen, mehr im <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>. Nennen Sie uns den Namen des Tunnels und die Richtung.</p>
+<h2>A8, A81 und A831</h2>
+<p>Am Autobahnkreuz Stuttgart endet der gemeinsame Verlauf von A8 und A81. Die A81 führt von dort nach Süden, gleichzeitig zweigt die kurze A831 in Richtung Stuttgarter Zentrum ab und führt nach Vaihingen. Die A8 wird wieder sechsstreifig und führt aus dem Glemswald auf die Filder, eine Hochebene südlich der Stadt. Die Landeshauptstadt wird von der A81 großräumig westlich umgangen, über die autobahnähnliche B10 gelangt man in die Innenstadt. Bei einer Panne auf einer dieser Strecken nennen Sie uns Autobahn, Richtung und Anschlussstelle oder Kreuz, zum Beispiel Leonberger Dreieck oder Kreuz Stuttgart.</p>
+<h2>Was wir in Stuttgart tun</h2>
+<p>Wir nehmen Ihren Anruf oder Ihre WhatsApp entgegen, klären Fahrzeug, Zustand und Ziel und organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), die Einsätze in Stuttgart übernehmen Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil Stau und Steigung sie beeinflussen.</p>
+<h2>So nennen Sie Ihren Standort in Stuttgart</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße und Hausnummer oder Querstraße, dazu eine Stadtbahnhaltestelle.</li>
+<li>Bei Hanglage: ob Sie bergauf oder bergab stehen.</li>
+<li>In Tunneln: Name und Fahrtrichtung.</li>
+<li>Auf Autobahnen: Nummer, Richtung, Anschlussstelle oder Kreuz.</li>
+</ul>
+<p>Weitere Städte sind <a href="stadt-frankfurt.html">Frankfurt am Main</a> und, über die A8, <a href="abschleppdienst-karlsruhe.html">Karlsruhe</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Stuttgart</h2>
+<details><summary>Wie viele Stadtbezirke hat Stuttgart?</summary><div>23 Stadtbezirke, fünf innere und 18 äußere, mit zusammen 152 Stadtteilen.</div></details>
+<details><summary>Ich stehe im Heslacher Tunnel. Was tun?</summary><div>Warnblinker einschalten, weit an den Rand, Notrufeinrichtung nutzen und uns dann anrufen. Nennen Sie Tunnelname und Fahrtrichtung.</div></details>
+<details><summary>Warum ist Stuttgart bei einer Panne besonders?</summary><div>Wegen der Kessellage mit Steigungen, Gefälle und vielen Tunneln. Die Angabe von Hanglage und Tunnelname hilft dem Fahrer.</div></details>
+<details><summary>Was sind A81 und A831?</summary><div>Die A81 führt vom Kreuz Stuttgart nach Süden, die kurze A831 in Richtung Stadtzentrum nach Vaihingen.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-duesseldorf | Abschleppdienst Düsseldorf: Pannenhilfe, Rheinbrücken | Pannenhilfe und Abschleppen in Düsseldorf: zehn Stadtbezirke, Rheinbrücken, Rheinufertunnel, A44, A46, A52 und Flughafen. Standort richtig nennen. | page ===
+<!--AREAS: Düsseldorf, Düsseldorf-Bilk, Düsseldorf-Oberkassel, Düsseldorf-Heerdt, Düsseldorf-Flughafen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Düsseldorf</p><h1>Abschleppdienst Düsseldorf</h1><p class="lead">Düsseldorf liegt am Rhein und wird von Brücken, Tunneln und einem Autobahnring bestimmt. Wer hier liegen bleibt, sollte wissen, auf welcher Rheinseite er steht.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zehn Stadtbezirke ohne Namen</h2>
+<p>Düsseldorf ist Landeshauptstadt von Nordrhein-Westfalen und kreisfreie Stadt mit 619.444 Einwohnern am 31. Dezember 2025. Anders als in anderen nordrhein-westfälischen Großstädten haben die zehn Stadtbezirke keine eigenen Namen, sondern sind von 1 bis 10 durchnummeriert. Sie umfassen zusammen 50 Stadtteile. Im Bezirk 3 liegen etwa Bilk, Flehe, Friedrichstadt, Hafen, Hamm, Oberbilk, Unterbilk und Volmerswerth. Mit der Bezirksnummer kann kaum jemand etwas anfangen, deshalb nennen Sie uns den Stadtteil, die Straße und die Rheinseite, links oder rechts des Rheins.</p>
+<h2>Die Brückenfamilie am Rhein</h2>
+<p>Die Düsseldorfer Brückenfamilie war ursprünglich ein Sammelbegriff für drei zentrale Schrägseilbrücken: Theodor-Heuss-Brücke, Oberkasseler Brücke und Rheinkniebrücke. Die Theodor-Heuss-Brücke zwischen Golzheim und Niederkassel wurde 1952 entworfen und gilt als die erste Schrägseilbrücke Deutschlands. Die Oberkasseler Brücke zwischen Innenstadt und Oberkassel war lange die einzige Düsseldorfer Straßenbrücke, sie löste 1898 die Pontonbrücke von 1839 ab. Für eine Panne auf einer Brücke gilt: Rhein-Überquerungen sind nicht beliebig umfahrbar, deshalb sagen Sie uns Brücke, Fahrtrichtung und Rheinseite, dann kann ein Fahrer den richtigen Weg wählen.</p>
+<h2>Der Rheinufertunnel</h2>
+<p>In den 1980er Jahren wurde mit dem Bau des Rheinufertunnels begonnen, der sich bis in die 1990er Jahre hinzog. Seit 1993 fließt der Autoverkehr an der Altstadt unterirdisch, die Rheinuferpromenade liegt wieder am Wasser. Wenn Sie im Tunnel liegen bleiben: Warnblinker an, weit an den Rand, Notrufeinrichtung nutzen, mehr im <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>. Nennen Sie uns Tunnelname und Fahrtrichtung.</p>
+<h2>Autobahnen und Stadtautobahn</h2>
+<p>Die A44 führt am Flughafen Düsseldorf vorbei, wobei die Anschlussstelle des Flughafens teilweise in einem Tunnel liegt, und trifft im Kreuz Düsseldorf-Nord auf die A52. Sie bildet den nördlichen Teil des Düsseldorfer Autobahnrings. Die A46 überquert bei Neuss auf der Fleher Brücke den Rhein, führt im Süden der Stadt durch zwei Tunnel unter dem Universitätscampus und im Stadtteil Wersten und erreicht das Dreieck Düsseldorf-Süd. Zwischen Meerbusch-Büderich und Düsseldorf-Rath ist die A52 nicht durchgehend gebaut: Die Lücke schließen die B7 und die B1 als Stadtautobahn. Sie überquert den Rhein auf der Theodor-Heuss-Brücke. Am Heerdter Dreieck, das auch Abzweig Rheinkniebrücke heißt, gabelt sich die B7 in Heerdt an der Grenze zu Oberkassel. Für Sie zählt in solchen Fällen der Name des Knotens und die Richtung.</p>
+<h2>Was wir in Düsseldorf tun</h2>
+<p>Sie beschreiben Standort, Fahrzeug und Problem, wir organisieren den Einsatz. Faster sitzt in Antwerpen (Belgien), die Einsätze in Düsseldorf fahren Partner vor Ort. Eine Ankunftszeit nennen wir nicht, weil Verkehr und Baustellen sie verändern. Nachbarstadt am Rhein ist <a href="abschleppdienst-koeln-stadtteile.html">Köln</a>.</p>
+<h2>So nennen Sie Ihren Standort in Düsseldorf</h2>
+<ul class="ticks">
+<li>Stadtteil und Straße, dazu die Rheinseite (links oder rechts des Rheins).</li>
+<li>Auf Brücken: Name, Fahrtrichtung, ob Sie noch davor oder schon dahinter stehen.</li>
+<li>Auf Autobahnen: A44, A46, A52, Richtung, Anschlussstelle, Kreuz oder Dreieck.</li>
+<li>Am Flughafen: Terminal, Parkhaus, Ebene, Zufahrt.</li>
+</ul>
+<p>Weitere große Städte: <a href="stadt-frankfurt.html">Frankfurt am Main</a> und <a href="stadt-stuttgart.html">Stuttgart</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Hinweise: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Düsseldorf</h2>
+<details><summary>Wie viele Stadtbezirke hat Düsseldorf?</summary><div>Zehn, von 1 bis 10 durchnummeriert, mit zusammen 50 Stadtteilen.</div></details>
+<details><summary>Ich stehe auf einer Rheinbrücke. Was sage ich?</summary><div>Nennen Sie die Brücke, die Fahrtrichtung und die Rheinseite. Ein Standort per WhatsApp hilft.</div></details>
+<details><summary>Was ist das Heerdter Dreieck?</summary><div>Ein Knoten in Heerdt, an dem sich die B7 gabelt. Er heißt auch Abzweig Rheinkniebrücke.</div></details>
+<details><summary>Kommen Sie auch zum Flughafen?</summary><div>Wir organisieren Einsätze im Stadtgebiet einschließlich der Zufahrten. Nennen Sie uns Terminal oder Parkhaus und Ebene, dann klären wir den Zugang.</div></details>
+</div></section>
+@@CTA@@
