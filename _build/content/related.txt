@@ -283,3 +283,8 @@ stadt-plauen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im
 stadt-weimar	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-eisenach	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-fulda	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Neuhof
+autobahn-a52	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a57	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a59	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a52	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Huttrop
+autobahn-a57	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Troglage in Köln

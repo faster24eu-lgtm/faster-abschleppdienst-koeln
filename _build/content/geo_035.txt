@@ -1,0 +1,86 @@
+=== autobahn-a52 | Pannenhilfe auf der A52: Elmpt, Düsseldorf, Essen | Panne auf der A52 von Elmpt über Düsseldorf nach Essen: Lücken als B7 und B1, Ruhrtalbrücke, Tunnel Huttrop, Kreuze. | page ===
+<!--AREAS: A52, Elmpt, Mönchengladbach, Düsseldorf, Ratingen, Mülheim, Essen, Gladbeck -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A52</h1><p class="lead">Die A52 verbindet die niederländische Grenze über Düsseldorf mit Essen und hat eine Lücke im Stadtgebiet. Nennen Sie uns Teilstück, Richtung und Kreuz, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Erstes Teilstück: Elmpt bis Düsseldorf</h2>
+<p>Die A52 beginnt an der niederländischen Grenze westlich von Elmpt als Fortsetzung der von Roermond kommenden N280. Ostwärts führt sie zunächst durch ein großes Waldgebiet des Naturparks Maas-Schwalm-Nette und erreicht dann die ländliche Region des linken Niederrheins. Nach Niederkrüchten und Schwalmtal erreicht man das Kreuz Mönchengladbach mit der A61, Mönchengladbach wird nördlich umfahren, und am Kreuz Neersen kreuzt die A44. Südlich von Willich liegt die einzige Autobahnraststätte der A52. Das Kreuz Kaarst bindet die A57 an. Nach der Anschlussstelle Büderich endet das erste Teilstück, die Straße führt als B7 über die Theodor-Heuss-Brücke in den Düsseldorfer Norden. Mehr auf <a href="stadt-moenchengladbach.html">Abschleppdienst Mönchengladbach</a>, <a href="autobahn-a61.html">Panne auf der A61</a> und <a href="autobahn-a44.html">Panne auf der A44</a>.</p>
+<h2>Die Lücke in Düsseldorf</h2>
+<p>Von Meerbusch-Büderich bis Düsseldorf-Mörsenbroich ist die Lücke in der A52 durch die B7, zwischen Mörsenbroich und Rath durch die B1 geschlossen. Diese Stadtautobahn überquert den Rhein auf der Theodor-Heuss-Brücke, führt durch die nördliche Innenstadt und direkt durch das Mörsenbroicher Ei. In Heerdt, dem Heerdter Dreieck, gabelt sich die dreistreifige B7 in zwei zweistreifige Schnellstraßen, eine nördlich auf die Theodor-Heuss-Brücke, eine südliche unterirdisch parallel zum Rhein auf die Rheinkniebrücke zu. Wenn Sie hier liegen bleiben, sagen Sie uns die Fahrtrichtung, Brücke oder Tunnel. Zur Umgehung der Lücke dienen die Strecken über A44 und A57. Mehr auf <a href="stadt-duesseldorf.html">Abschleppdienst Düsseldorf</a>.</p>
+<h2>Düsseldorf bis Essen: Ruhrtalbrücke und Tunnel Huttrop</h2>
+<p>Das zweite Teilstück beginnt in Höhe der Bahnunterführung nördlich des Mörsenbroicher Eis. Am Kreuz Düsseldorf-Nord kreuzt die A44 erneut, der Knotenpunkt liegt unmittelbar am Flughafen und hat einen sehr ungewöhnlichen Aufbau mit zwei Verbindungsrampen und zwei integrierten Anschlussstellen. Im Stadtteil Breitscheid werden die A524 nach Krefeld und die A3 in einem kombinierten Knotenpunkt angebunden. Im Mülheimer Stadtteil Mintard wird das Ruhrtal auf der 1.830 Meter langen Mintarder Ruhrtalbrücke überquert, der längsten Stahlbrücke Deutschlands. Direkt nach dem 340 Meter langen Tunnel Huttrop endet das zweite Teilstück am Dreieck Essen-Ost an der A40. Auf einer Brücke oder in einem Tunnel gilt: Warnblinker, weit an den Rand, Notruf, mehr im <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>. Mehr auf <a href="stadt-muelheim.html">Abschleppdienst Mülheim</a> und <a href="stadt-essen.html">Abschleppdienst Essen</a>.</p>
+<h2>Lücke im Essener Norden</h2>
+<p>Zwischen dem Dreieck Essen-Ost und der Anschlussstelle Essen-Nord an der A42 gibt es keinen gut ausgebauten Lückenschluss. Im Bereich Essen-Nord ist die B224 beim Bau der A42 bereits als Autobahn ausgebaut und als Kraftfahrstraße ausgewiesen. Im weiteren Verlauf bis Gladbeck ist die Straße vierspurig, aber mit geringem Querschnitt, Geh- und Radwegen sowie mehreren ampelgeregelten Kreuzungen. Die Anschlussstelle Essen/Gladbeck an der A2 ist in der Relation von Oberhausen nach Dorsten kreuzungsfrei ausgebaut. Mehr auf <a href="autobahn-a42.html">Panne auf der A42</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A52</h2>
+<ul class="ticks">
+<li>Teilstück: Grenze bis Büderich, Düsseldorf B7/B1, Düsseldorf bis Essen, Essen bis Gladbeck.</li>
+<li>Fahrtrichtung, Kreuz oder Anschlussstelle.</li>
+<li>Brücke oder Tunnel: Theodor-Heuss-Brücke, Rheinkniebrücke, Ruhrtalbrücke, Huttrop.</li>
+<li>Bei Ampelkreuzungen: Kreuzung und Fahrtrichtung.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>, <a href="autobahn-a57.html">Panne auf der A57</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A52</h2>
+<details><summary>Wo beginnt die A52?</summary><div>An der niederländischen Grenze westlich von Elmpt.</div></details>
+<details><summary>Ist die A52 durchgehend Autobahn?</summary><div>Nein, in Düsseldorf ist die Lücke durch die B7 und B1 geschlossen, im Essener Norden fehlt ein gut ausgebauter Lückenschluss.</div></details>
+<details><summary>Wie lang ist die Mintarder Ruhrtalbrücke?</summary><div>1.830 Meter, die längste Stahlbrücke Deutschlands.</div></details>
+<details><summary>Wo endet das zweite Teilstück?</summary><div>Direkt nach dem 340 Meter langen Tunnel Huttrop am Dreieck Essen-Ost an der A40.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a57 | Pannenhilfe auf der A57: Goch, Krefeld, Neuss, Köln | Panne auf der A57 von Goch über Krefeld und Neuss nach Köln: Kreuze, sechsstreifiger Ausbau und Trogstrecke in Ehrenfeld. | page ===
+<!--AREAS: A57, Goch, Krefeld, Meerbusch, Neuss, Dormagen, Köln -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A57</h1><p class="lead">Die A57 verläuft von der niederländischen Grenze bei Goch parallel zum Rhein über den linken Niederrhein nach Köln. Nennen Sie uns Richtung und Kreuz, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Trans-Niederrhein-Magistrale</h2>
+<p>Die A57 beginnt an der niederländischen Grenze bei Goch als Weiterführung der A77 aus den Niederlanden, verläuft parallel zum Rhein über den linken Niederrhein, Krefeld und Neuss nach Köln und ist Teil der E31, die von Rotterdam bis nach Hockenheim führt. Wegen ihrer hohen Bedeutung für Wirtschaft und Verkehr wird sie als Trans-Niederrhein-Magistrale bezeichnet. Mehr auf <a href="stadt-krefeld.html">Abschleppdienst Krefeld</a> und <a href="stadt-neuss.html">Abschleppdienst Neuss</a>.</p>
+<h2>Von der Neusser Umgehung zur Rheinlinie</h2>
+<p>Die A57 nahm ihren Ursprung mit der Ortsumgehung von Neuss, die zunächst als B9a entstand. 1954 wurde der Abschnitt zwischen der heutigen Anschlussstelle Holzbüttgen und dem Autobahnkreuz Neuss-West zweistreifig in Betrieb genommen. Der Bau als Bundesautobahn Krefeld–Köln–Ludwigshafen, zunächst „Rheinlinie“ oder „linksrheinische Autobahn“ genannt, erhielt Anfang der 1970er Jahre die interne Bezeichnung „Autobahn 14“. Die Ortsumgehung Neuss wurde bis 1970 umfassend ausgebaut. Wenn Sie bei Neuss liegen bleiben, sagen Sie uns Anschlussstelle, Kreuz Neuss-West oder Holzbüttgen und die Fahrtrichtung.</p>
+<h2>Sechsstreifiger Ausbau</h2>
+<p>Die Abschnitte vom Kreuz Meerbusch (A44) bis zum Kreuz Kaarst (A52) und vom Kreuz Neuss-West bis zum Dreieck Neuss-Süd sind sechsstreifig fertiggestellt. Der Abschnitt zwischen Kreuz Kaarst und Kreuz Neuss-West wurde bis zum 13. Dezember 2015 fertiggestellt, wobei eine Teilfreigabe südlich der Anschlussstelle Holzbüttgen am 3. Juli 2014 erfolgte. Der südlichste Abschnitt hinter dem Kreuz Köln-Nord ist weitgehend sechsstreifig ausgebaut. Bei Bauarbeiten und Verengungen sagen Sie uns, ob Sie im Baustellenbereich stehen. Mehr auf <a href="autobahn-a44.html">Panne auf der A44</a> und <a href="autobahn-a52.html">Panne auf der A52</a>.</p>
+<h2>Ende in Köln-Ehrenfeld</h2>
+<p>Die Autobahn endet nach der Anschlussstelle Köln-Ehrenfeld, von dort verläuft sie in Troglage und teilweise im Tunnel als sechsstreifige Schnellstraße (K4) in Richtung Stadtzentrum bis zur Inneren Kanalstraße. Bei einem Ausfall im Tunnel: Warnblinker, Notrufsäule, siehe <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>. Für den Kölner Teil haben wir eigene Seiten: <a href="index.html">Abschleppdienst Köln</a> und <a href="koeln-a57.html">Panne auf der A57 in Köln</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A57</h2>
+<ul class="ticks">
+<li>Richtung: Goch/Niederlande oder Köln.</li>
+<li>Kreuz oder Anschlussstelle: Kaarst, Meerbusch, Neuss-West, Köln-Nord.</li>
+<li>Bei Trogstrecke oder Tunnel: Fahrtrichtung und Einfahrt.</li>
+<li>Ob Sie im ausgebauten sechsstreifigen Abschnitt stehen.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A57</h2>
+<details><summary>Wo beginnt die A57?</summary><div>An der niederländischen Grenze bei Goch, als Weiterführung der A77.</div></details>
+<details><summary>Welche europäische Route ist die A57?</summary><div>Sie ist Teil der E31 von Rotterdam bis Hockenheim.</div></details>
+<details><summary>Wo endet die A57?</summary><div>Nach der Anschlussstelle Köln-Ehrenfeld, danach als Schnellstraße bis zur Inneren Kanalstraße.</div></details>
+<details><summary>Ist die A57 sechsstreifig?</summary><div>In den ausgebauten Abschnitten bei Meerbusch, Kaarst, Neuss und hinter dem Kreuz Köln-Nord.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a59 | Pannenhilfe auf der A59: Duisburg, Düsseldorf, Köln, Bonn | Panne auf der A59: Duisburger Nord-Süd-Straße mit Berliner Brücke, B8n bis Düsseldorf, Abschnitt bis Leverkusen und die Flughafenautobahn Köln/Bonn. | page ===
+<!--AREAS: A59, Dinslaken, Duisburg, Düsseldorf, Leverkusen, Köln-Porz, Bonn -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A59</h1><p class="lead">Die A59 besteht aus getrennten Teilstücken zwischen Dinslaken, Duisburg, Düsseldorf, Leverkusen und Bonn. Nennen Sie uns Teilstück, Richtung und Kreuz, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Nord-Süd-Straße in Duisburg</h2>
+<p>Der nördliche Teilabschnitt der A59 beginnt südwestlich von Dinslaken und führt als „Nord-Süd-Straße“ durch Duisburg. Sie entstand zwischen 1957 und 1977 parallel zur B8 als reine, von der Stadt erbaute Autoschnellstraße mit heute bis zu 100.000 Fahrzeugen pro Tag. Eine Besonderheit ist die mehr als 1.800 Meter lange Berliner Brücke, die den Duisburger Hafen, die Ruhr und den Rhein-Herne-Kanal überquert. Bei einer Panne auf der Brücke gilt: Warnblinker, Warnweste, hinter die Schutzplanke, mehr im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>. Mehr auf <a href="stadt-duisburg.html">Abschleppdienst Duisburg</a> und <a href="autobahn-a42.html">Panne auf der A42</a>.</p>
+<h2>Kreuz Duisburg-Süd und B8n</h2>
+<p>Der nördliche Teilabschnitt der A59 endet am Autobahnkreuz Duisburg-Süd an der A524, die westlich in die B288 übergeht. Seit der Fertigstellung der B8n am 1. Juni 2012 bildet diese eine Verlängerung der A59 in südliche Richtung bis in die Mitte Düsseldorfs. Der kleeblattförmige Anschluss wurde ab 2013 erwartet, beim Bau der Fahrtbeziehungen kam es aber zu erheblichen Verzögerungen, weil Baugrunduntersuchungen durchgeführt und der Boden teilweise ausgetauscht werden musste. Ende November 2014 wurde die letzte Fahrbeziehung freigegeben. Zwischen dem Kreuz Duisburg-Süd und Düsseldorf-Stockum wurde die A59 nicht realisiert, stattdessen kam die vierstreifige B8n zur Ausführung, seit 2012 durchgängig befahrbar, eine etwa 25 bis 30 Kilometer lange autobahnähnliche Verbindung zwischen Duisburg und Düsseldorf. Mehr auf <a href="stadt-duesseldorf.html">Abschleppdienst Düsseldorf</a>.</p>
+<h2>Düsseldorf bis Leverkusen</h2>
+<p>Den Mittelabschnitt der A59 bildet die Trasse zwischen dem Autobahndreieck Düsseldorf-Süd und dem Kreuz Leverkusen-West. Die Autobahn ist hier vierstreifig mit Standstreifen errichtet. Im ehemaligen Kreuz Düsseldorf-Süd sind noch umfangreiche Bauvorleistungen für eine Fortsetzung als Osttangente Düsseldorfs zu erkennen (Rampen, Brückenpfeiler für die Hauptfahrbahn). Nach dieser Beschreibung hat 2014 ein umfassender Umbau des Dreiecks begonnen. Mehr auf <a href="stadt-leverkusen.html">Abschleppdienst Leverkusen</a>.</p>
+<h2>Flughafenautobahn Köln/Bonn</h2>
+<p>Zwischen Köln und Bonn wird die A59 auch als „Flughafenautobahn“ bezeichnet, da sie vom Dreieck Heumar über das Autobahndreieck Porz direkt am Flughafen Köln/Bonn vorbei nach Bonn führt. Das Dreieck Heumar muss nach der genutzten Quelle um- und ausgebaut werden, die Gesamtmaßnahme soll voraussichtlich 2029 beendet sein. Wenn Sie in diesem Abschnitt liegen bleiben, nennen Sie uns Anschlussstelle, Richtung und ob Sie in einer Baustelle stehen. Mehr auf <a href="stadt-bonn.html">Abschleppdienst Bonn</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A59</h2>
+<ul class="ticks">
+<li>Teilstück: Duisburg, B8n, Düsseldorf–Leverkusen, Köln–Bonn.</li>
+<li>Fahrtrichtung, Anschlussstelle, Kreuz Duisburg-Süd oder Dreieck Heumar.</li>
+<li>Berliner Brücke oder Hafenbereich als Landmarke.</li>
+<li>Ob ein Standstreifen vorhanden ist.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A59</h2>
+<details><summary>Warum heißt die A59 in Duisburg Nord-Süd-Straße?</summary><div>Sie entstand zwischen 1957 und 1977 als von der Stadt erbaute Autoschnellstraße parallel zur B8.</div></details>
+<details><summary>Wie lang ist die Berliner Brücke?</summary><div>Mehr als 1.800 Meter, sie überquert Hafen, Ruhr und Rhein-Herne-Kanal.</div></details>
+<details><summary>Was ist die B8n?</summary><div>Die vierstreifige Strecke zwischen Duisburg-Süd und Düsseldorf-Stockum, die seit 2012 durchgehend befahrbar ist.</div></details>
+<details><summary>Warum Flughafenautobahn?</summary><div>Weil die A59 zwischen Köln und Bonn direkt am Flughafen Köln/Bonn vorbeiführt.</div></details>
+</div></section>
+@@CTA@@

@@ -143,3 +143,6 @@ stadt-frankfurt-oder	Frankfurt (Oder)	Brandenburg
 stadt-plauen	Plauen	Sachsen	
 stadt-weimar	Weimar	Thüringen	
 stadt-eisenach	Eisenach	Thüringen	
+autobahn-a52	A52 Elmpt bis Essen	A52	
+autobahn-a57	A57 Goch bis Köln	A57	
+autobahn-a59	A59 Duisburg bis Bonn	A59	
