@@ -112,3 +112,9 @@ stadt-zwickau	chemnitz,plauen,gera,leipzig,jena,dresden,erfurt	a4,a72
 stadt-gera	jena,leipzig,zwickau,erfurt,chemnitz,plauen,weimar,halle	a4,a9
 stadt-esslingen	stuttgart,reutlingen,ludwigsburg,tuebingen,ulm,heilbronn,pforzheim	a8,a81
 stadt-tuebingen	reutlingen,stuttgart,esslingen,ulm,pforzheim,freiburg,ludwigsburg	a81,a8
+stadt-kempten	augsburg,ulm,muenchen,ingolstadt,landshut,rosenheim	a7,a96
+stadt-aschaffenburg	frankfurt,hanau,offenbach,wuerzburg,darmstadt,fulda,schweinfurt	a3,a45
+stadt-schweinfurt	wuerzburg,bamberg,fulda,aschaffenburg,erfurt,bayreuth,nuernberg	a7,a70,a71
+stadt-villingen-schwenningen	freiburg,konstanz,offenburg,tuebingen,reutlingen,ulm	a81
+stadt-sindelfingen	stuttgart,esslingen,ludwigsburg,reutlingen,tuebingen,pforzheim,heilbronn	a81,a8
+stadt-goeppingen	esslingen,stuttgart,ulm,ludwigsburg,tuebingen,reutlingen,augsburg	a8

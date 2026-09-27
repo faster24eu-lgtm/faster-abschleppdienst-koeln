@@ -12,7 +12,7 @@
 <p>Das Stadtzentrum liegt nicht direkt am Flussufer, weil das Gelände an der Innbrücke wegen des sumpfigen Bodens im Zuge der Mangfallmündung lange nicht bebaut werden konnte. Der Max-Josefs-Platz ist seit 1984 Fußgängerzone und von Bürgerhäusern im Inn-Salzach-Stil umgeben. Wenn Sie in der Innenstadt liegen bleiben, sagen Sie uns die Straße und die nächste Querstraße außerhalb der Fußgängerzone.</p>
 <h2>So nennen Sie Ihren Standort in Rosenheim</h2>
 <ul class="ticks">
-<li>Ortsteil und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Ortsteil, Straße und Hausnummer oder nächste Kreuzung.</li>
 <li>Auf A8 oder A93: Richtung, Anschlussstelle, Dreieck Inntal.</li>
 <li>Auf B15: Fahrtrichtung und Kreuzung.</li>
 <li>Bei Steigungen im Alpenvorland: Richtung und ob es bergab geht.</li>
@@ -23,7 +23,7 @@
 <details><summary>Welche Autobahnen führen nach Rosenheim?</summary><div>Die A8 München–Salzburg und die A93 Rosenheim–Kufstein.</div></details>
 <details><summary>Wo liegt das Dreieck Inntal?</summary><div>Nahe der Stadt, dort zweigt die Inntal-Autobahn von der A8 ab.</div></details>
 <details><summary>Wie viele Fahrstreifen hat die B15 bei Rosenheim?</summary><div>Vier zwischen Autobahn und Panorama-Kreuzung, seit dem Ausbau im Sommer 2005.</div></details>
-<details><summary>Kommen Sie auch nach Kolbermoor und Bad Aibling?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Kommen Sie auch nach Kolbermoor und Bad Aibling?</summary><div>Wir vermitteln Einsätze im gesamten Raum Rosenheim. Sagen Sie uns Ort und Straße, wir prüfen die Anfahrt mit dem Partner.</div></details>
 </div></section>
 @@CTA@@
 

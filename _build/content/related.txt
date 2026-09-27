@@ -308,3 +308,9 @@ stadt-gera	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im �
 stadt-esslingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-tuebingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-tuebingen	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Schlossbergtunnel
+stadt-kempten	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-aschaffenburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-schweinfurt	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-villingen-schwenningen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-sindelfingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-goeppingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick

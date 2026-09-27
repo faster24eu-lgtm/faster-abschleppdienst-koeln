@@ -161,3 +161,9 @@ stadt-zwickau	Zwickau	Sachsen
 stadt-gera	Gera	Thüringen	
 stadt-esslingen	Esslingen am Neckar	Baden-Württemberg	
 stadt-tuebingen	Tübingen	Baden-Württemberg	
+stadt-kempten	Kempten (Allgäu)	Bayern	
+stadt-aschaffenburg	Aschaffenburg	Bayern	
+stadt-schweinfurt	Schweinfurt	Bayern	
+stadt-villingen-schwenningen	Villingen-Schwenningen	Baden-Württemberg	
+stadt-sindelfingen	Sindelfingen	Baden-Württemberg	
+stadt-goeppingen	Göppingen	Baden-Württemberg	
