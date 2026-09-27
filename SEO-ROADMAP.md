@@ -296,3 +296,6 @@ Owner decision: expand to all of Germany (partners exist everywhere), organic on
   - Cottbus: Energie Cottbus "seit 2026 in der 2. Bundesliga" (Wikipedia, April 2026); Zweibrücken airport "kein Linienbetrieb seit 3. November 2014".
   - Population/Einwohner figures come from Wikipedia and are labelled with their date; Melderegister vs. amtlich not always distinguished.
 - Not done: Hamburg Bezirke (Wikipedia extracts have almost no traffic facts), Norderstedt, Neu-Ulm (traffic sections too thin).
+
+### Correction (2026-09-27 ~06:00)
+- The totals "301" and "359" in the log above included 54 accidental hub pages `/bundeslaender/aNN/` (Autobahn rows in `geo.txt` without the `ab` kind column). Fixed; the real count after the fix is 305 built pages. STYLE.md now states the rule.

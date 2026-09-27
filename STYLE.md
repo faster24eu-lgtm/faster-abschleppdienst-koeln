@@ -14,6 +14,8 @@ Static site, generated. **Never edit the HTML files**; edit the sources and run 
 | Styles | `styles.css` (one file, no framework) |
 | Checks | `scripts/audit.pl`, `scripts/check_similarity.pl` |
 
+**geo.txt rule:** every `autobahn-*` row must end with `<TAB>ab` (otherwise the builder treats it as a city and creates a bogus Bundesland hub).
+
 Adding a city: append the page to a new `geo_NNN.txt` (start with `=== stadt-<slug> | title | description | page ===`, then `<!--AREAS: … -->`, the body, and `@@CTA@@` at the end), add one line to `geo.txt`, add neighbours to `geo_nb.txt`, run the build, run both scripts, commit.
 
 URLs: city `/staedte/<slug>/`, Autobahn `/autobahnen/<a-nummer>/`, Bundesland `/bundeslaender/<slug>/`, guides `/ratgeber/<slug>/`. Slug rules: lowercase, ä→ae, ö→oe, ü→ue, ß→ss, hyphens. All internal links are relative (`slug.html` in the sources is rewritten to relative folder URLs by the builder).
