@@ -252,3 +252,7 @@ stadt-dueren	Düren	Nordrhein-Westfalen
 stadt-euskirchen	Euskirchen	Nordrhein-Westfalen	
 stadt-kerpen	Kerpen	Nordrhein-Westfalen	
 stadt-frechen	Frechen	Nordrhein-Westfalen	
+stadt-dinslaken	Dinslaken	Nordrhein-Westfalen	
+stadt-wesel	Wesel	Nordrhein-Westfalen	
+stadt-kleve	Kleve	Nordrhein-Westfalen	
+stadt-kamp-lintfort	Kamp-Lintfort	Nordrhein-Westfalen	

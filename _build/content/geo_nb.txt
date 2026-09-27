@@ -174,3 +174,7 @@ stadt-dueren	aachen,bonn,leverkusen,bergisch-gladbach,euskirchen	a4
 stadt-euskirchen	bonn,dueren,koblenz,trier	a1,a61
 stadt-kerpen	frechen,dueren,leverkusen,bergisch-gladbach,bonn	a4,a61
 stadt-frechen	kerpen,leverkusen,bonn,bergisch-gladbach,dueren	a1,a4
+stadt-dinslaken	oberhausen,duisburg,wesel,moers,bottrop	a3,a59
+stadt-wesel	moers,dinslaken,oberhausen,bocholt,duisburg	a3,a57
+stadt-kleve	wesel,moers,krefeld,oberhausen	a57,a3
+stadt-kamp-lintfort	moers,duisburg,krefeld,wesel,oberhausen	a42,a57

@@ -311,3 +311,7 @@ Owner check: Bocholt Westringtunnel / planned Nordring (plan status may change);
 ## Cycle 33 (2026-09-27 ~06:10): 4 Tier B pages near Köln/Aachen corridor
 Düren, Euskirchen, Kerpen, Frechen. 328 pages, audit 0 errors, similarity max 28.7 %.
 Owner check: Frechen Nord Teilanschluss (Wikipedia: Anschluss Richtung Köln "in Planung"); Kerpen Manheim renaming 2025; Euskirchen post-flood 2021 station status; Düren RE1/RE9 hourly.
+
+## Cycle 34 (2026-09-27 ~06:30): 4 Niederrhein pages
+Dinslaken, Wesel, Kleve, Kamp-Lintfort. 332 pages, audit 0 errors, similarity max 28.7 %.
+Owner check: Kamp-Lintfort "Kamp-Lintfort-Süd" Abfahrt/B528 extension status; Wesel Niederrheinbrücke (only Rhine bridge in Kreis Wesel, per Wikipedia); Wesel/Dinslaken population.

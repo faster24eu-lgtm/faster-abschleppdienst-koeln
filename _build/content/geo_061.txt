@@ -1,0 +1,113 @@
+=== stadt-dinslaken | Abschleppdienst Dinslaken: Pannenhilfe A3, A59, B8 | Pannenhilfe und Abschleppen in Dinslaken: Hansestadt am unteren Niederrhein, A3, A59 ab Dinslaken-West, B8, zehn Siedlungsbezirke, Grenze zu Duisburg. | page ===
+<!--AREAS: Dinslaken, Hiesfeld, Lohberg, Eppinghoven, Dinslaken-West, Walsum, Voerde, Kreuz Oberhausen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dinslaken</p><h1>Abschleppdienst Dinslaken</h1><p class="lead">Dinslaken liegt am unteren Niederrhein am nordwestlichen Rand des Ruhrgebiets. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Hansestadt im Kreis Wesel</h2>
+<p>Die Hansestadt Dinslaken ist eine große kreisangehörige Stadt des Kreises Wesel im Regierungsbezirk Düsseldorf. Sie grenzt im Süden an den Duisburger Stadtteil Walsum und an Oberhausen und liegt etwa 13 Kilometer südöstlich von Wesel, im Osten schließt der Naturpark Hohe Mark-Westmünsterland an. Das Stadtgebiet ist in zehn Siedlungsbezirke gegliedert, bekannte Namen sind Hiesfeld und Lohberg, der Stadtteil Eppinghoven kam am 1. Januar 1975 von Walsum hinzu. Wer nahe der Grenze zu Duisburg oder Voerde liegen bleibt, nennt uns am besten Straße und Hausnummer und den Bezirk. Mehr auf <a href="stadt-oberhausen.html">Abschleppdienst Oberhausen</a>, <a href="stadt-duisburg.html">Abschleppdienst Duisburg</a> und <a href="stadt-wesel.html">Abschleppdienst Wesel</a>.</p>
+<h2>A3, A59 und B8</h2>
+<p>Dinslaken ist an die Autobahnen A3 und A59 sowie die B8 angebunden, die alle drei über das Stadtgebiet führen. Die A3 erreicht am nahegelegenen Autobahnkreuz Oberhausen auch die A2 und die A516. Die A59 beginnt in Dinslaken an der Anschlussstelle Dinslaken-West und hat auf Dinslakener Stadtgebiet keine Verbindung zur A3, diese Verbindung wird durch die B8 gewährleistet. Für die Standortangabe heißt das: Wer auf der A59 in Dinslaken-West steht, ist nicht auf der A3, und der Weg zur A3 führt über die B8. Bei einer Panne nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="autobahn-a59.html">Panne auf der A59</a>.</p>
+<h2>Zeche Lohberg und Bergbauerbe</h2>
+<p>Bergarbeiter der Zeche Lohberg traten aus Protest gegen die Kohlepolitik der Bundesregierung in einen Hungerstreik, 1996 brannten über 100 Tage Mahnfeuer, das zeigt, wie stark der Bergbau die Stadt geprägt hat. Wenn Sie in Lohberg oder in einer ehemaligen Zechensiedlung liegen bleiben, sagen Sie uns Straße und Hausnummer.</p>
+<h2>Nahe Duisburg, Oberhausen und Wesel</h2>
+<p>Wenn Sie zwischen Dinslaken und Wesel unterwegs sind, nennen Sie uns die Anschlussstelle oder den letzten Ort, den Sie passiert haben, sowie die Fahrtrichtung.</p>
+<h2>So nennen Sie Ihren Standort in Dinslaken</h2>
+<ul class="ticks">
+<li>Siedlungsbezirk (Hiesfeld, Lohberg …), Straße, Hausnummer.</li>
+<li>Auf der A3: Richtung, Anschlussstelle, Kreuz Oberhausen.</li>
+<li>Auf der A59: Anschlussstelle Dinslaken-West, Richtung.</li>
+<li>Auf der B8: Fahrtrichtung, Querstraße.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-moers.html">Moers</a> und <a href="stadt-bottrop.html">Bottrop</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Dinslaken</h2>
+<details><summary>Welche Autobahnen führen durch Dinslaken?</summary><div>A3 und A59, dazu die B8.</div></details>
+<details><summary>Wo beginnt die A59?</summary><div>In Dinslaken an der Anschlussstelle Dinslaken-West.</div></details>
+<details><summary>Wie komme ich von der A59 zur A3?</summary><div>Auf Dinslakener Stadtgebiet über die B8, eine direkte Verbindung gibt es dort nicht.</div></details>
+<details><summary>Wie viele Siedlungsbezirke hat Dinslaken?</summary><div>Zehn.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-wesel | Abschleppdienst Wesel: Pannenhilfe A3, A57, B58, Niederrheinbrücke | Pannenhilfe und Abschleppen in Wesel: Rhein und Lippe, A3 mit drei Anschlussstellen, B58 über die Niederrheinbrücke, B8, B70 und B473. | page ===
+<!--AREAS: Wesel, Büderich, Bislich, Flüren, Obrighoven-Lackhausen, Fusternberg, Feldmark, Auesee, Diersfordter Wald -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wesel</p><h1>Abschleppdienst Wesel</h1><p class="lead">Wesel liegt am unteren Niederrhein, hier mündet die Lippe in den Rhein. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Hansestadt an Rhein und Lippe</h2>
+<p>Die Hansestadt Wesel ist Kreisstadt des Kreises Wesel und hat bei rund 61.000 Einwohnern den Status einer Großen kreisangehörigen Stadt. Sie gehört zur Metropolregion Rhein-Ruhr und liegt an Rhein und Lippe, das Stadtgebiet ist mit 122,56 Quadratkilometern das zweitgrößte im Kreis nach Hamminkeln. Nach der Gebietsreform gehört auch der Stadtteil Büderich auf der linken Rheinseite dazu. Die Stadt gliedert sich in fünf Stadtteile: Bislich, Büderich, Flüren, Obrighoven-Lackhausen und Wesel mit Altstadt, Blumenkamp, Feldmark, Fusternberg und Schepersfeld. Wesel hatte 2016 unter allen Kommunen Nordrhein-Westfalens den größten Wasserflächenanteil, 13,3 Prozent. Nennen Sie uns bei einer Panne Stadtteil, Straße und ob Sie links oder rechts des Rheins stehen. Mehr auf <a href="stadt-moers.html">Abschleppdienst Moers</a> und <a href="stadt-dinslaken.html">Abschleppdienst Dinslaken</a>.</p>
+<h2>A3, A57 und Bundesstraßen</h2>
+<p>Wesel ist über die Anschlussstellen 5 Hamminkeln, 6 Wesel und 7 Hünxe der A3 sowie die Anschlussstelle 6 Alpen der A57 an das Fernstraßennetz angebunden, dazu kommen die Bundesstraßen 8, 58, 70 und 473 und vier Landesstraßen. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="autobahn-a57.html">Panne auf der A57</a>.</p>
+<h2>Niederrheinbrücke über den Rhein</h2>
+<p>Die B58 führt über die Niederrheinbrücke westlich der Innenstadt über den Rhein, sie ist die einzige Rheinbrücke im Kreis Wesel und wurde 2009 freigegeben, sie ersetzte eine Brücke aus den 1950er Jahren. Es handelt sich um eine Schrägseilbrücke mit einem 130 Meter hohen Pylon. Da es im Kreis keine zweite Rheinbrücke gibt, ist die Rheinseite für die Anfahrt wichtig: Sagen Sie uns, ob Sie in Büderich (links des Rheins) oder in Wesel-Stadt (rechts) stehen. Wenn Sie auf der Brücke liegen bleiben, nennen Sie uns die Fahrtrichtung.</p>
+<h2>Fahrradstadt, Auesee und Diersfordter Wald</h2>
+<p>Wesel gilt als eine der fahrradfreundlichsten Städte Deutschlands, vom Bahnhof bestehen direkte Zugverbindungen nach Düsseldorf und Köln sowie ins Ruhrgebiet und in die Niederlande. Der Auesee und der Diersfordter Wald sind Ausflugsziele, dort liegen Parkplätze abseits der Ortsteile. Nennen Sie uns dort Parkplatz und Zufahrt.</p>
+<h2>So nennen Sie Ihren Standort in Wesel</h2>
+<ul class="ticks">
+<li>Stadtteil oder Ortsteil, Straße, Hausnummer.</li>
+<li>Auf der A3 oder A57: Richtung, Anschlussstelle.</li>
+<li>Auf der B58: Brücke, Rheinseite, Fahrtrichtung.</li>
+<li>Am Auesee: Parkplatz, Zufahrt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-oberhausen.html">Oberhausen</a> und <a href="stadt-bocholt.html">Bocholt</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Wesel</h2>
+<details><summary>Welche Anschlussstellen hat die A3 bei Wesel?</summary><div>5 Hamminkeln, 6 Wesel und 7 Hünxe.</div></details>
+<details><summary>Gibt es mehrere Rheinbrücken im Kreis?</summary><div>Nein, die Niederrheinbrücke der B58 ist die einzige im Kreis Wesel.</div></details>
+<details><summary>Wann wurde die Niederrheinbrücke eröffnet?</summary><div>2009, als Ersatz einer Brücke aus den 1950er Jahren.</div></details>
+<details><summary>Wie viele Stadtteile hat Wesel?</summary><div>Fünf: Bislich, Büderich, Flüren, Obrighoven-Lackhausen und Wesel.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-kleve | Abschleppdienst Kleve: Pannenhilfe B9, B220, A57, A3 | Pannenhilfe und Abschleppen in Kleve: Grenzstadt am Niederrhein ohne eigene Autobahn, B9 und B220, nächste Auffahrten Goch (A57) und Emmerich (A3). | page ===
+<!--AREAS: Kleve, Materborn, Kellen, Rindern, Reichswalde, Griethausen, Donsbrüggen, Reichswald, Emmerich -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kleve</p><h1>Abschleppdienst Kleve</h1><p class="lead">Kleve liegt am unteren Niederrhein an der Grenze zu den Niederlanden, ohne Autobahn auf dem Stadtgebiet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Grenzstadt der Euregio Rhein-Waal</h2>
+<p>Kleve ist Sitz des Kreises Kleve, Mittelzentrum und Mitglied der Euregio Rhein-Waal. Die Stadt liegt am unteren Niederrhein an der Grenze zwischen Deutschland und den Niederlanden. Neben der Kernstadt gehören 14 weitere Stadtteile zu Kleve, in der heutigen Form entstand die Stadt am 1. Juli 1969 unter anderem mit Materborn, Donsbrüggen, Keeken, Rindern, Wardhausen, Brienen, Griethausen und Kellen. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-wesel.html">Abschleppdienst Wesel</a> und <a href="stadt-moers.html">Abschleppdienst Moers</a>.</p>
+<h2>Keine Autobahn im Stadtgebiet</h2>
+<p>Eine Autobahn gibt es auf Klever Stadtgebiet nicht. Kleve ist über die B9 und die B220 an das Fernstraßennetz angebunden, im Stadtgebiet beginnt außerdem die B57, die in zwei Abschnitten von Kleve bis Rheinberg und von Mönchengladbach bis Aachen verläuft. Die nächsten Autobahnauffahrten sind die Anschlussstelle Goch der A57 (Nijmegen–Köln) und die Anschlussstelle Emmerich der A3 (Emmerich–Passau). Wenn Sie zwischen Kleve und einer Anschlussstelle liegen bleiben, sagen Sie uns die Bundesstraße und die Fahrtrichtung. Auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a57.html">Panne auf der A57</a> und <a href="autobahn-a3.html">Panne auf der A3</a>.</p>
+<h2>Rheinbrücke Kleve–Emmerich</h2>
+<p>Die 1965 freigegebene Brücke zwischen Kleve und Emmerich ist mit einer Länge von 1.228 Metern und 500 Metern Spannweite die längste Hängebrücke Deutschlands. Wenn Sie auf oder vor der Brücke liegen bleiben, nennen Sie uns Fahrtrichtung und Rheinseite. Bei einer Fahrt in die Niederlande sagen Sie uns außerdem, ob Sie noch in Deutschland stehen.</p>
+<h2>Reichswald und Grenzverkehr</h2>
+<p>Im Reichswald begann 1945 mit der Schlacht im Reichswald die Eroberung des Niederrheins durch die Alliierten, in Donsbrüggen und im Reichswald liegen Soldatenfriedhöfe. Wenn Sie im Wald liegen bleiben, nennen Sie uns Waldparkplatz, Kreuzung oder den nächsten Ortsteil. Die Flughäfen Weeze (33 Kilometer) und Düsseldorf (93 Kilometer, über die A57) sind die nächsten größeren Flughäfen.</p>
+<h2>So nennen Sie Ihren Standort in Kleve</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf B9, B220 oder B57: Fahrtrichtung, nächster Ort.</li>
+<li>Auf der Rheinbrücke: Fahrtrichtung.</li>
+<li>Im Reichswald: Parkplatz oder Kreuzung.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-krefeld.html">Krefeld</a> und <a href="stadt-oberhausen.html">Oberhausen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Kleve</h2>
+<details><summary>Gibt es eine Autobahn in Kleve?</summary><div>Nein, auf dem Stadtgebiet gibt es keine. Nächste Auffahrten sind Goch (A57) und Emmerich (A3).</div></details>
+<details><summary>Welche Bundesstraßen führen nach Kleve?</summary><div>Die B9 und die B220, im Stadtgebiet beginnt die B57.</div></details>
+<details><summary>Was ist an der Rheinbrücke Kleve–Emmerich besonders?</summary><div>Sie ist mit 1.228 Metern Länge die längste Hängebrücke Deutschlands.</div></details>
+<details><summary>Wie viele Stadtteile hat Kleve?</summary><div>Neben der Kernstadt 14 weitere Stadtteile.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-kamp-lintfort | Abschleppdienst Kamp-Lintfort: Pannenhilfe A42, A57, B510, B528 | Pannenhilfe und Abschleppen in Kamp-Lintfort: Niederrhein am Rand des Ruhrgebiets, Autobahnkreuz Kamp-Lintfort von A42 und A57, B510 und Südumgehung B528. | page ===
+<!--AREAS: Kamp-Lintfort, Lintfort, Kamp, Geisbruch, Gestfeld, Niersenbruch, Hoerstgen, Kloster Kamp, Kreuz Kamp-Lintfort -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kamp-Lintfort</p><h1>Abschleppdienst Kamp-Lintfort</h1><p class="lead">Kamp-Lintfort liegt am unteren Niederrhein am westlichen Rand des Ruhrgebiets. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zechenstadt mit zehn Stadtteilen</h2>
+<p>Kamp-Lintfort ist eine mittlere kreisangehörige Stadt des Kreises Wesel im Regierungsbezirk Düsseldorf, 2020 war sie Veranstaltungsort der Landesgartenschau Nordrhein-Westfalen. Sie gliedert sich in zehn Stadtteile, die geschlossene städtische Bebauung liegt größtenteils in Lintfort, Stadtkern (Kamp), Geisbruch und Gestfeld. Werkskolonien der ehemaligen Zeche Friedrich Heinrich sowie einer früheren Ziegelei prägen große Teile des Stadtbildes. Außerhalb haben die Stadtteile ländlichen Charakter bewahrt, hervorzuheben ist das Straßendorf Hoerstgen. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-moers.html">Abschleppdienst Moers</a>, <a href="stadt-krefeld.html">Abschleppdienst Krefeld</a> und <a href="stadt-duisburg.html">Abschleppdienst Duisburg</a>.</p>
+<h2>Kreuz Kamp-Lintfort: A42 und A57</h2>
+<p>Kamp-Lintfort ist durch die A42 und die A57 sowie über die B510 an das Fernstraßennetz angebunden. Als Verlängerung der A42 wurde im Dezember 2006 die B528 als Südumgehung des Stadtgebietes gebaut. Das Autobahnkreuz Kamp-Lintfort hat mit „Kamp-Lintfort-Süd“ nun eine dritte Abfahrt neben dem Kreuz und der Ausfahrt „Asdonkshof“, sie erschließt das Gewerbegebiet Süd. Wenn Sie auf einer der Verbindungsrampen oder an einer Ausfahrt liegen bleiben, nennen Sie uns Nummer, Richtung und Ausfahrtname. Mehr auf <a href="autobahn-a42.html">Panne auf der A42</a> und <a href="autobahn-a57.html">Panne auf der A57</a>.</p>
+<h2>Kloster Kamp und Landesgartenschau</h2>
+<p>Am 31. Januar 1123 wurde in Kamp mit Unterstützung des Kölner Erzbischofs Friedrich I. das erste Zisterzienserkloster auf deutschem Boden gegründet. Wenn Sie am Kloster Kamp oder am Gelände der Landesgartenschau liegen bleiben, nennen Sie uns Parkplatz und Zufahrt.</p>
+<h2>So nennen Sie Ihren Standort in Kamp-Lintfort</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf A42 oder A57: Richtung, Ausfahrt (Asdonkshof, Kamp-Lintfort-Süd).</li>
+<li>Auf B510 oder B528: Fahrtrichtung.</li>
+<li>Im ländlichen Bereich: nächster Ortsteil, z. B. Hoerstgen.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-oberhausen.html">Oberhausen</a> und <a href="stadt-wesel.html">Wesel</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Kamp-Lintfort</h2>
+<details><summary>Welche Autobahnen führen nach Kamp-Lintfort?</summary><div>Die A42 und die A57, die sich im Autobahnkreuz Kamp-Lintfort treffen.</div></details>
+<details><summary>Was ist die B528?</summary><div>Die im Dezember 2006 gebaute Südumgehung als Verlängerung der A42.</div></details>
+<details><summary>Wie viele Stadtteile gibt es?</summary><div>Zehn.</div></details>
+<details><summary>Was gibt es in Kamp zu sehen?</summary><div>Kloster Kamp, 1123 als erstes Zisterzienserkloster auf deutschem Boden gegründet.</div></details>
+</div></section>
+@@CTA@@
