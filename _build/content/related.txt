@@ -164,3 +164,11 @@ stadt-muenster	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte 
 autobahn-a61	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a81	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a81	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Engelbergtunnel
+stadt-augsburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-wiesbaden	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-gelsenkirchen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-moenchengladbach	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-braunschweig	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-chemnitz	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-kiel	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-aachen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick

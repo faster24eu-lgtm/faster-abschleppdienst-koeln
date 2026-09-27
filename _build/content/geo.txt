@@ -40,3 +40,11 @@ stadt-mannheim	Mannheim	Baden-Württemberg
 stadt-muenster	Münster	Nordrhein-Westfalen	
 autobahn-a61	A61 Venlo bis Hockenheim	A61	ab
 autobahn-a81	A81 Würzburg bis Bodensee	A81	ab
+stadt-augsburg	Augsburg	Bayern	
+stadt-wiesbaden	Wiesbaden	Hessen	
+stadt-gelsenkirchen	Gelsenkirchen	Nordrhein-Westfalen	
+stadt-moenchengladbach	Mönchengladbach	Nordrhein-Westfalen	
+stadt-braunschweig	Braunschweig	Niedersachsen	
+stadt-chemnitz	Chemnitz	Sachsen	
+stadt-kiel	Kiel	Schleswig-Holstein	
+stadt-aachen	Aachen	Nordrhein-Westfalen	
