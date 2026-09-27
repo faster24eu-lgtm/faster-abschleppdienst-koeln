@@ -174,7 +174,7 @@ sub schema_for {
 # extra pages: marker "=== slug | title | description | flag ===", optional body comment <!--AREAS: a, b -->. Later files override earlier slugs.
 {
   my $dir = "$Bin/content";
-  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_guides14.txt extra_koeln5.txt extra_koeln6.txt extra_guides15.txt extra_home.txt), (map { s{.*/}{}r } sort glob("$Bin/content/geo_*.txt")), qw(extra_ratgeber.txt en_home.txt en_koeln.txt en_region.txt en_koeln2.txt en_guides.txt en_guides2.txt en_guides3.txt en_guides4.txt en_core.txt en_geo1.txt en_geo2.txt)) {
+  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_guides14.txt extra_koeln5.txt extra_koeln6.txt extra_guides15.txt extra_home.txt), (map { s{.*/}{}r } sort glob("$Bin/content/geo_*.txt")), qw(extra_ratgeber.txt en_home.txt en_koeln.txt en_region.txt en_koeln2.txt en_guides.txt en_guides2.txt en_guides3.txt en_guides4.txt en_core.txt en_geo1.txt en_geo2.txt en_geo3.txt)) {
     open(my $ex,"<:raw","$dir/$name") or next; my $c;
     while (my $l=<$ex>) {
       if ($l =~ /^=== (\S+) \| (.*?) \| (.*) \| (\w+) ===\s*$/) { $c=$1; push @order,$c unless $P{$c}; $P{$c}={title=>"$2 | Faster Abschleppdienst",desc=>$3,flag=>$4,body=>""}; next }
@@ -259,7 +259,7 @@ $PATH{"en-koeln-$_"} = "en/koeln/$_" for qw(innenstadt ehrenfeld nippes lindenth
 $PATH{'en-ratgeber'} = 'en/ratgeber'; $PATH{'en-kontakt'} = 'en/kontakt';
 $PATH{'en-impressum'} = 'en/impressum'; $PATH{'en-datenschutz'} = 'en/datenschutz'; $PATH{'en-danke'} = 'en/danke';
 $PATH{"en-stadt-$_"} = "en/staedte/$_" for qw(berlin hamburg muenchen frankfurt stuttgart duesseldorf dortmund essen leipzig bremen);
-$PATH{"en-autobahn-$_"} = "en/autobahnen/$_" for qw(a7 a9);
+$PATH{"en-autobahn-$_"} = "en/autobahnen/$_" for qw(a7 a9 a3 a5-hessen-baden);
 $PATH{"en-ratgeber-$_"} = "en/ratgeber/$_" for qw(abschleppdienst-kosten panne-autobahn unfall-abschleppkosten e-auto-abschleppen starthilfe-batterie reifenpanne falsch-getankt ausgesperrt motorrad-transport abschleppseil-oder-abschleppdienst warnleuchten-auto motor-ueberhitzt automatik-abschleppen nach-unfall-fahrbereit handbremse-loest-sich-nicht motor-geht-aus transporter-abschleppen wohnmobil-gespann-panne winterpanne-schwarzwald panne-kehl-strassburg auto-springt-nicht-an kupplung-defekt wildunfall wasserschlag-ueberschwemmung oelverlust-oelspur auto-festgefahren lenkradsperre-klemmt bremsen-versagen adblue-leer notlauf-auto servolenkung-ausgefallen panne-im-tunnel umweltzone-koeln abschleppen-koeln-kosten);
 sub path_for { my $s=shift; return $PATH{$s} if exists $PATH{$s}; return "ratgeber/$1" if $s =~ /^ratgeber-(.+)$/; return $s; }
 sub region_for { my $pa=shift; $pa =~ s{^en/}{}; return 'koeln' if $pa =~ m{^koeln}; return 'karlsruhe' if $pa =~ m{^karlsruhe}; return 'shared'; }
@@ -319,6 +319,7 @@ $CRUMB_PARENT{'en-stadt-berlin'} = ['home','Berlin']; $CRUMB_PARENT{'en-stadt-ha
 $CRUMB_PARENT{'en-stadt-frankfurt'} = ['home','Frankfurt am Main']; $CRUMB_PARENT{'en-stadt-stuttgart'} = ['home','Stuttgart']; $CRUMB_PARENT{'en-stadt-duesseldorf'} = ['home','Düsseldorf'];
 $CRUMB_PARENT{'en-stadt-dortmund'} = ['home','Dortmund']; $CRUMB_PARENT{'en-stadt-essen'} = ['home','Essen']; $CRUMB_PARENT{'en-stadt-leipzig'} = ['home','Leipzig']; $CRUMB_PARENT{'en-stadt-bremen'} = ['home','Bremen'];
 $CRUMB_PARENT{'en-autobahn-a7'} = ['home','A7']; $CRUMB_PARENT{'en-autobahn-a9'} = ['home','A9'];
+$CRUMB_PARENT{'en-autobahn-a3'} = ['home','A3']; $CRUMB_PARENT{'en-autobahn-a5-hessen-baden'} = ['home','A5'];
 $CRUMB_PARENT{'en-ratgeber-abschleppdienst-kosten'} = ['en-ratgeber','What Does a Towing Service Cost?'];
 $CRUMB_PARENT{'en-ratgeber-panne-autobahn'} = ['en-ratgeber','Breaking Down on the Motorway'];
 $CRUMB_PARENT{'en-ratgeber-unfall-abschleppkosten'} = ['en-ratgeber','Towing Costs After an Accident'];
