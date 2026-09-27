@@ -1,0 +1,115 @@
+=== stadt-soest | Abschleppdienst Soest: B1, B475, B229 | Pannenhilfe und Abschleppen in Soest: alter Hellweg als B1, B475 Richtung Münsterland, B229 ins Sauerland, 18 Ortsteile in der Soester Börde. | page ===
+<!--AREAS: Soest, Soester Börde, Ostönnen, Meiningsen, Deiringsen, Hellweg, Welver, Bad Sassendorf -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Soest</p><h1>Abschleppdienst Soest</h1><p class="lead">Soest liegt auf halbem Weg zwischen Dortmund und Paderborn am alten Hellweg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisstadt in der Soester Börde</h2>
+<p>Soest ist Kreisstadt des gleichnamigen Kreises im Regierungsbezirk Arnsberg und hat 47.752 Einwohner. Die Stadt liegt auf halbem Weg zwischen Dortmund und Paderborn in der fruchtbaren Soester Börde, einem Teil der Hellwegbörden. Zum 1. Juli 1969 wurde die alte Stadt Soest durch das Soest-Beckum-Gesetz mit 18 ursprünglich selbstständigen Gemeinden zusammengeschlossen, die heute Ortsteile sind. Die historische Gliederung der Kernstadt bestand aus den sechs sogenannten „Hofen“ und dem Umland, der Börde. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-unna.html">Abschleppdienst Unna</a>, <a href="stadt-hamm.html">Abschleppdienst Hamm</a> und <a href="stadt-arnsberg.html">Abschleppdienst Arnsberg</a>.</p>
+<h2>B1 als alter Hellweg</h2>
+<p>Aus dem alten Hellweg der Hansezeit, den Karl der Große als West-Ost-Verbindung von Aachen nach Paderborn anlegen ließ, wurde später die Reichsstraße 1 und ab 1949 die B1. Sie verläuft aus dem Ruhrgebiet kommend meist schnurgerade auf die Stadt zu. Die alte Nord-Süd-Verbindung bilden heute die B475 ins Münsterland, die inzwischen an Soest vorbeigeleitet wird, und die im Soester Süden beginnende B229 ins Sauerland. Bei einer Panne auf einer dieser Bundesstraßen nennen Sie uns Nummer und Fahrtrichtung.</p>
+<h2>Fachwerk-Altstadt am Bahnhof</h2>
+<p>Am Bahnhof macht die Stadt Eigenwerbung mit Fotos der Fachwerk-Altstadt. Wenn Sie am Bahnhof oder in der Altstadt liegen bleiben, nennen Sie uns Straße und Hausnummer, denn die Altstadt hat teils enge Gassen.</p>
+<h2>Welver und Bad Sassendorf aus der Börde</h2>
+<p>Aus den einzelnen Gemeinden der Börde gingen mit der Gebietsreform 1969/1974 die heutigen Nachbargemeinden Welver und Bad Sassendorf hervor. Wenn Sie zwischen Soest und diesen Gemeinden liegen bleiben, nennen Sie uns den nächsten Ort und die Fahrtrichtung.</p>
+<h2>So nennen Sie Ihren Standort in Soest</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf B1, B475 oder B229: Nummer, Fahrtrichtung.</li>
+<li>In der Altstadt: Straße, enge Zufahrt.</li>
+<li>Zwischen Soest und Welver oder Bad Sassendorf: nächster Ort.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-luenen.html">Lünen</a> und <a href="stadt-castrop-rauxel.html">Castrop-Rauxel</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Soest</h2>
+<details><summary>Welche Bundesstraße ist der alte Hellweg?</summary><div>Die B1, aus dem Ruhrgebiet kommend meist schnurgerade auf die Stadt zu.</div></details>
+<details><summary>Welche weiteren Bundesstraßen gibt es?</summary><div>Die B475 ins Münsterland und die B229 ins Sauerland.</div></details>
+<details><summary>Wie viele Ortsteile hat Soest?</summary><div>18, seit der Zusammenlegung 1969.</div></details>
+<details><summary>Wie viele Einwohner hat Soest?</summary><div>47.752.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-nordhorn | Abschleppdienst Nordhorn: A30, A31, B403, B213 | Pannenhilfe und Abschleppen in Nordhorn: Grafschaft Bentheim an der Vechte, Nähe zu A30 und A31, Schnittpunkt B403/B213, neue Nordumgehung seit 2019. | page ===
+<!--AREAS: Nordhorn, Bookholt, Deegfeld, Blanke, Vechte, Grafschaft Bentheim -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Nordhorn</p><h1>Abschleppdienst Nordhorn</h1><p class="lead">Nordhorn liegt an der Vechte direkt an der niederländischen Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisstadt der Grafschaft Bentheim</h2>
+<p>Nordhorn ist Kreisstadt des Landkreises Grafschaft Bentheim im äußersten Südwesten Niedersachsens an der Vechte und grenzt direkt an die Niederlande. Als große Mittelstadt ist sie Mitglied der Euregio und raumplanerisch Mittelzentrum mit Teilfunktion eines Oberzentrums. Im Innenstadtbereich gibt es rund 2.800 Parkplätze, aufgeteilt in die drei Parkbereiche City-Nordwest, -Ost und -Süd. Nennen Sie uns bei einer Panne Stadtteil und Straße, dazu welcher Parkbereich am nächsten liegt. Mehr auf <a href="stadt-lingen.html">Abschleppdienst Lingen</a> und <a href="stadt-rheine.html">Abschleppdienst Rheine</a>.</p>
+<h2>Nähe zu A30 und A31, Schnittpunkt B403/B213</h2>
+<p>Die Stadt liegt in der Nähe der Bundesautobahnen A30 und A31 und im Schnittpunkt der Bundesstraßen B403 und B213. Die Ferienstraße Oranier-Route führt durch das Stadtgebiet, der B213 Richtung Lingen folgend beziehungsweise der B403. Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a30.html">Panne auf der A30</a> und <a href="autobahn-a31.html">Panne auf der A31</a>. Auf B403 oder B213 sagen Sie uns Fahrtrichtung und nächsten Ort.</p>
+<h2>Neue Umgehungsstraße seit 2019</h2>
+<p>2019 wurde die Umgehungsstraße im Norden der Stadt freigegeben, nach der Eröffnung der Süd- und Osttangente Ende der 1990er Jahre soll sie die Innenstadt weiter entlasten. Der Streckenverlauf führt auf sechs Kilometern um die Stadtteile Bookholt und Deegfeld herum. Wenn Sie auf einer dieser Umgehungen liegen bleiben, nennen Sie uns Straße und Fahrtrichtung.</p>
+<h2>Bahnhof des Jahres 2023</h2>
+<p>Der Bahnhof Nordhorn wird von der Bentheimer Eisenbahn bedient, die RB56 fährt im Stundentakt zwischen Neuenhaus, Nordhorn und Bad Bentheim. Die Allianz pro Schiene kürte den Bahnhof 2023 zum „Bahnhof des Jahres“. Wenn Sie am Bahnhof oder am zusätzlichen Haltepunkt Nordhorn-Blanke liegen bleiben, nennen Sie uns Straße und Ausgang.</p>
+<h2>So nennen Sie Ihren Standort in Nordhorn</h2>
+<ul class="ticks">
+<li>Stadtteil (Bookholt, Deegfeld, Blanke …), Straße, Hausnummer.</li>
+<li>Nahe A30 oder A31: Richtung, Anschlussstelle.</li>
+<li>Auf B403 oder B213: Fahrtrichtung, nächster Ort.</li>
+<li>In der Innenstadt: Parkbereich (City-Nordwest, -Ost, -Süd).</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-emden.html">Emden</a> und <a href="stadt-lingen.html">Lingen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Nordhorn</h2>
+<details><summary>Welche Autobahnen sind bei Nordhorn?</summary><div>Die A30 und die A31, in der Nähe der Stadt.</div></details>
+<details><summary>Welche Bundesstraßen kreuzen sich?</summary><div>B403 und B213.</div></details>
+<details><summary>Seit wann gibt es die Nordumgehung?</summary><div>Seit 2019.</div></details>
+<details><summary>Was ist mit dem Bahnhof Nordhorn?</summary><div>Er wurde 2023 zum „Bahnhof des Jahres“ gekürt.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-nienburg | Abschleppdienst Nienburg/Weser: B6, B214, B215 | Pannenhilfe und Abschleppen in Nienburg/Weser: kein direkter Autobahnanschluss, nächste Autobahn A27 rund 40 Kilometer entfernt, B6, B214 und B215. | page ===
+<!--AREAS: Nienburg, Weser, Verden, Walsrode, Mittelweserregion -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Nienburg/Weser</p><h1>Abschleppdienst Nienburg/Weser</h1><p class="lead">Nienburg liegt an der Weser in der Mittelweserregion, ohne eigenen Autobahnanschluss. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisstadt ohne eigenen Autobahnanschluss</h2>
+<p>Nienburg/Weser ist Kreisstadt des gleichnamigen Landkreises in Niedersachsen und liegt an der Weser in der Norddeutschen Tiefebene, in der Mittelweserregion. Die geplanten Autobahnen A32 und A35 wurden nie realisiert, damit hat Nienburg keinen direkten Anschluss an das Autobahnnetz, die nächsten Autobahnen sind etwa 40 Kilometer entfernt. Ziele im Norden sind über die A27 erreichbar, mit den Anschlussstellen Verden-Nord, Verden-Ost und Walsrode-West. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-verden.html">Abschleppdienst Verden</a>, <a href="stadt-hannover.html">Abschleppdienst Hannover</a> und <a href="stadt-osnabrueck.html">Abschleppdienst Osnabrück</a>.</p>
+<h2>B6, B214 und B215</h2>
+<p>Nienburg ist über ein Netz von Bundesstraßen erreichbar. Die B6 führt von Bremen über Nienburg nach Hannover und verbindet die Stadt mit den nächsten Oberzentren. Die B214 kommt aus dem Emsland und führt über Nienburg nach Braunschweig, sie übernimmt den über Nienburg laufenden Ost-West-Verkehr. Bei einer Panne auf einer dieser Bundesstraßen nennen Sie uns Nummer und Fahrtrichtung. Bei einer Panne auf der A27 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a27.html">Panne auf der A27</a>.</p>
+<h2>Bahnhof mit ICE-Halt</h2>
+<p>Der Bahnhof liegt in der Innenstadt an der Bahnstrecke Wunstorf–Bremen und wird im Zweistundentakt von der IC-Linie 56 bedient, seit 2012 hält morgens und abends zusätzlich ein ICE. Im Güterverkehr wird die Strecke vor allem als Hafenhinterlandbahn für den Containerverkehr aus den deutschen Seehäfen genutzt. Wenn Sie am Bahnhof liegen bleiben, nennen Sie uns Straße und Ausgang.</p>
+<h2>Weser als Orientierung</h2>
+<p>Die Stadt liegt an der Weser, wichtige Wege folgen dem Flusslauf. Wenn Sie an der Weser liegen bleiben, nennen Sie uns Straße, Brücke und Uferseite.</p>
+<h2>So nennen Sie Ihren Standort in Nienburg</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf B6, B214 oder B215: Fahrtrichtung.</li>
+<li>Zur A27: Richtung, Anschlussstelle Verden-Nord, Verden-Ost oder Walsrode-West.</li>
+<li>An der Weser: Straße, Brücke, Uferseite.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-verden.html">Verden</a> und <a href="stadt-celle.html">Celle</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Nienburg</h2>
+<details><summary>Hat Nienburg eine eigene Autobahn?</summary><div>Nein, die geplanten A32 und A35 wurden nicht gebaut, die nächste Autobahn ist die A27, rund 40 Kilometer entfernt.</div></details>
+<details><summary>Welche Bundesstraßen führen durch Nienburg?</summary><div>B6, B214 und B215.</div></details>
+<details><summary>Gibt es einen ICE-Halt?</summary><div>Ja, seit 2012 morgens und abends zusätzlich zur IC-Linie 56.</div></details>
+<details><summary>An welchem Fluss liegt Nienburg?</summary><div>An der Weser.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-verden | Abschleppdienst Verden (Aller): A27, B215 | Pannenhilfe und Abschleppen in Verden (Aller): Reiterstadt an der Mündung der Aller in die Weser, A27 Cuxhaven–Bremen–Walsrode, B215 nach Minden. | page ===
+<!--AREAS: Verden, Verdener Heide, Geestrücken, Aller, Weser, Mittelweserregion -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Verden (Aller)</p><h1>Abschleppdienst Verden (Aller)</h1><p class="lead">Verden liegt an der Mündung der Aller in die Weser, direkt an der A27. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Reiterstadt an Aller und Weser</h2>
+<p>Verden (Aller) ist Kreisstadt des Landkreises Verden in Niedersachsen und liegt in der Mittelweserregion an der Aller, unmittelbar vor deren Mündung in die Weser. Als Zentrum der Pferdezucht und des Pferdesports trägt sie den Beinamen Reiterstadt. Vorstädte und Neubauviertel erstrecken sich östlich um den Bahnhof sowie nördlich und südlich der Altstadt auf dem Geestrücken der Verdener Heide, am Fuß der Geest liegt nordwestlich ein Gewerbegebiet. Links der Aller gibt es nur wenig städtische Bebauung, die eingemeindeten Dörfer dort wachsen aber zunehmend zu Vorstadtsiedlungen an. Nennen Sie uns bei einer Panne Stadtteil und Straße, dazu ob Sie links oder rechts der Aller stehen. Mehr auf <a href="stadt-nienburg.html">Abschleppdienst Nienburg/Weser</a> und <a href="stadt-bremen.html">Abschleppdienst Bremen</a>.</p>
+<h2>A27 und B215</h2>
+<p>Verden liegt an der A27 (Cuxhaven–Bremen–Walsrode) sowie an der B215 (Rotenburg (Wümme)–Nienburg/Weser–Minden) und den Landesstraßen 171 (Verden–Visselhövede–Schneverdingen) und 203 (Richtung Thedinghausen). Bei einer Panne auf der A27 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a27.html">Panne auf der A27</a>. Auf der B215 sagen Sie uns Fahrtrichtung und nächsten Ort.</p>
+<h2>Bahnhof mit ICE-Halt</h2>
+<p>Der Bahnhof Verden verknüpft die Bahnstrecke Wunstorf–Bremen mit der Strecke nach Rotenburg (Wümme) und ist Halt für Intercity-, Regionalexpress-, Regionalbahn- und vereinzelt ICE-Züge, von Verden sind Bremen, Hannover und Berlin direkt erreichbar. Seit Mitte Dezember 2011 ist Verden zusätzlich in ein Regionalbahnnetz eingebunden. Wenn Sie am Bahnhof liegen bleiben, nennen Sie uns Straße und Ausgang, die Stadthalle liegt nördlich davon.</p>
+<h2>Geestrücken und Aller-Vorstädte</h2>
+<p>Auf dem Geestrücken der Verdener Heide liegen Vorstädte und Neubauviertel, während links der Aller nur wenig städtische Bebauung besteht. Wenn Sie dort liegen bleiben, nennen Sie uns Straße und Ortsteil, denn manche Wege in den eingemeindeten Dörfern haben keine durchgehende Hausnummerierung.</p>
+<h2>So nennen Sie Ihren Standort in Verden</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A27: Richtung, Anschlussstelle.</li>
+<li>Auf der B215: Fahrtrichtung, nächster Ort.</li>
+<li>Links oder rechts der Aller: Ortsteil.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-celle.html">Celle</a> und <a href="stadt-lueneburg.html">Lüneburg</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Verden</h2>
+<details><summary>Welche Autobahn führt nach Verden?</summary><div>Die A27 (Cuxhaven–Bremen–Walsrode).</div></details>
+<details><summary>Welche Bundesstraße führt durch Verden?</summary><div>Die B215 (Rotenburg (Wümme)–Nienburg/Weser–Minden).</div></details>
+<details><summary>Warum heißt Verden „Reiterstadt“?</summary><div>Als Zentrum der Pferdezucht und des Pferdesports.</div></details>
+<details><summary>An welchem Fluss liegt Verden?</summary><div>An der Aller, kurz vor deren Mündung in die Weser.</div></details>
+</div></section>
+@@CTA@@

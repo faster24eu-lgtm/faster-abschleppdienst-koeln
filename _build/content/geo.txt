@@ -291,3 +291,7 @@ stadt-stendal	Stendal	Sachsen-Anhalt
 stadt-gotha	Gotha	Thüringen	
 stadt-hilden	Hilden	Nordrhein-Westfalen	
 stadt-langenfeld	Langenfeld (Rheinland)	Nordrhein-Westfalen	
+stadt-soest	Soest	Nordrhein-Westfalen
+stadt-nordhorn	Nordhorn	Niedersachsen
+stadt-nienburg	Nienburg/Weser	Niedersachsen
+stadt-verden	Verden (Aller)	Niedersachsen

@@ -213,3 +213,7 @@ stadt-stendal	magdeburg,wittenberg,brandenburg-an-der-havel	a14
 stadt-gotha	erfurt,eisenach,weimar	a4
 stadt-hilden	duesseldorf,solingen,langenfeld,ratingen,velbert	a3,a46
 stadt-langenfeld	hilden,leverkusen,solingen,duesseldorf	a3,a59
+stadt-soest	unna,hamm,arnsberg,luenen,castrop-rauxel
+stadt-nordhorn	lingen,rheine,emden	a30,a31
+stadt-nienburg	verden,hannover,osnabrueck,celle	a27
+stadt-verden	nienburg,bremen,celle,lueneburg	a27

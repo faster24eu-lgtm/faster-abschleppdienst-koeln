@@ -341,3 +341,7 @@ Found and fixed a bug from cycles 37-39: three `printf` calls used `\n` instead 
 Also found that Gladbeck, Velbert and Minden were already published (geo_048.txt, from an earlier session) when I mistakenly treated them as missing and wrote fresh duplicate pages in geo_067.txt. The original pages were more detailed (named bridges, Autobahnkreuz details, specific Anschlussstellen), so I discarded my duplicates and kept the originals; removed the resulting duplicate geo.txt/geo_nb.txt/related.txt rows.
 Fixing the geo_nb.txt data pushed Ahlen/Hof similarity to 30.1% (their "In der Nähe" blocks now render real neighbour links, shifting shared boilerplate ratio); added a short unique section to each (Ahlen: Wersestadion/Sportpark Nord/Stadtbücherei; Hof: Neustadt and Hofer Hauptbahnhof history) to bring it back under 30%. 366 pages, audit 0 errors, similarity max 29.3%.
 Owner note: always check `grep "^stadt-<slug>" geo.txt` before assuming a city is unpublished — don't rely on memory of what an earlier cycle covered.
+
+## Cycle 41 (2026-09-27 ~09:20): 4 pages closing the last COVERAGE.md Tier B gaps
+Soest, Nordhorn, Nienburg/Weser, Verden (Aller). 370 pages, audit 0 errors, similarity max 29.3%.
+This closes essentially all of the open Tier B candidates listed in COVERAGE.md. Owner check: Nienburg "nächste Autobahn ~40 km" and unrealised A32/A35 (historical planning fact, not current); Nordhorn 2019 Nordumgehung; Soest has no Autobahn in the sourced extract, deliberately left the geo_nb.txt autobahn field empty rather than guessing.

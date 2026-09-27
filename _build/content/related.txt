@@ -455,3 +455,7 @@ stadt-stendal	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte i
 stadt-gotha	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-hilden	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-langenfeld	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-soest	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-nordhorn	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-nienburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-verden	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
