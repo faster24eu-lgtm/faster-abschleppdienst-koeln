@@ -262,6 +262,8 @@
 <p>Hof liegt an den drei Autobahnen A9 im Westen, A93 im Osten und A72 im Norden. Sie bilden die Form eines Hufeisens um die Stadt, berühren das Stadtgebiet aber nicht. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a9.html">Panne auf der A9</a>, <a href="autobahn-a72.html">Panne auf der A72</a> und <a href="autobahn-a93.html">Panne auf der A93</a>.</p>
 <h2>B2, B15 und B173 als Zubringer</h2>
 <p>Durch Hof führen die Bundesstraßen B2, B15 und B173, alle drei sind im Stadtgebiet im Verlauf der Ernst-Reuter-Straße vierspurig ausgebaut. Weitere große Straßen sind die Kulmbacher Straße, die Marienstraße und die Oelsnitzer Straße. Die B173 dient als Zubringer zu allen drei Autobahnen: im Nordwesten zur A72 und A9 und im Osten zur A93. Die B15 ist im Westen vierspurig an die A9 angebunden und im Südosten an die A93, die B2 hat im Nordosten eine Auffahrt zur A72. Wenn Sie auf der Ernst-Reuter-Straße liegen bleiben, nennen Sie uns die Bundesstraße und die Fahrtrichtung.</p>
+<h2>Neustadt und Hofer Hauptbahnhof</h2>
+<p>Die Wurzeln der Stadt liegen in der historischen Altstadt und der klassizistischen Neustadt. 1880 wurde wegen des wachsenden Verkehrsaufkommens ein Kilometer vor den Toren der Stadt der neue Hofer Hauptbahnhof als Durchgangsbahnhof an der Grenze zwischen Bayern und Sachsen errichtet, der ältere Kopfbahnhof lag in der Nähe des Oberen Tores. 1989 erreichten die Flüchtlingszüge aus Prag den Hofer Hauptbahnhof und damit als erste Stadt der Bundesrepublik. Wenn Sie am Hauptbahnhof liegen bleiben, nennen Sie uns Straße und Ausgang.</p>
 <h2>So nennen Sie Ihren Standort in Hof</h2>
 <ul class="ticks">
 <li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>

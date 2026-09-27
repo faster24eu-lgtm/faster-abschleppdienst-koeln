@@ -194,41 +194,22 @@ stadt-detmold	bielefeld,paderborn,herford,guetersloh,minden	a2,a44
 stadt-bad-salzuflen	herford,bielefeld,detmold,minden,guetersloh	a2
 stadt-amberg	nuernberg,regensburg,weiden,bayreuth,ansbach	a6
 stadt-weiden	amberg,regensburg,bayreuth,hof,plauen	a93
-stadt-bergheim	kerpen,frechen,dueren,koeln
-a61
-stadt-troisdorf	siegburg,bonn,koeln
-a59,a3
-stadt-siegburg	troisdorf,bonn,koeln
-a3,a560
-stadt-ahlen	hamm,luenen,guetersloh,muenster
-a1,a2
-stadt-gummersbach	luedenscheid,koeln,hagen,siegen,remscheid
-a45
-stadt-bad-homburg	frankfurt,wiesbaden,offenbach,darmstadt
-a5-hessen-baden
-stadt-hattingen	bochum,wuppertal,witten,essen
-a43,a40
-stadt-ravensburg	friedrichshafen,konstanz,ulm
-a96
-stadt-neustadt-weinstrasse	landau,ludwigshafen,mannheim,speyer,worms
-a65
-stadt-landau	neustadt-weinstrasse,karlsruhe,pirmasens,speyer,worms
-a65
-stadt-frankenthal	ludwigshafen,worms,mannheim,speyer
-a6
-stadt-neunkirchen-saar	saarbruecken,saarlouis,zweibruecken,kaiserslautern
-a8
-stadt-norderstedt	hamburg,neumuenster,luebeck,kiel
-a7
-stadt-neu-ulm	ulm,memmingen,kempten,augsburg
-a7,a8
-stadt-halberstadt	magdeburg,wernigerode,goslar,quedlinburg
-a36
-stadt-stendal	magdeburg,wittenberg,brandenburg-an-der-havel
-a14
-stadt-gotha	erfurt,eisenach,weimar
-a4
-stadt-hilden	duesseldorf,solingen,langenfeld,ratingen,velbert
-a3,a46
-stadt-langenfeld	hilden,leverkusen,solingen,duesseldorf
-a3,a59
+stadt-bergheim	kerpen,frechen,dueren,koeln	a61
+stadt-troisdorf	siegburg,bonn,koeln	a59,a3
+stadt-siegburg	troisdorf,bonn,koeln	a3,a560
+stadt-ahlen	hamm,luenen,guetersloh,muenster	a1,a2
+stadt-gummersbach	luedenscheid,koeln,hagen,siegen,remscheid	a45
+stadt-bad-homburg	frankfurt,wiesbaden,offenbach,darmstadt	a5-hessen-baden
+stadt-hattingen	bochum,wuppertal,witten,essen	a43,a40
+stadt-ravensburg	friedrichshafen,konstanz,ulm	a96
+stadt-neustadt-weinstrasse	landau,ludwigshafen,mannheim,speyer,worms	a65
+stadt-landau	neustadt-weinstrasse,karlsruhe,pirmasens,speyer,worms	a65
+stadt-frankenthal	ludwigshafen,worms,mannheim,speyer	a6
+stadt-neunkirchen-saar	saarbruecken,saarlouis,zweibruecken,kaiserslautern	a8
+stadt-norderstedt	hamburg,neumuenster,luebeck,kiel	a7
+stadt-neu-ulm	ulm,memmingen,kempten,augsburg	a7,a8
+stadt-halberstadt	magdeburg,wernigerode,goslar,quedlinburg	a36
+stadt-stendal	magdeburg,wittenberg,brandenburg-an-der-havel	a14
+stadt-gotha	erfurt,eisenach,weimar	a4
+stadt-hilden	duesseldorf,solingen,langenfeld,ratingen,velbert	a3,a46
+stadt-langenfeld	hilden,leverkusen,solingen,duesseldorf	a3,a59
