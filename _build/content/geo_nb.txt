@@ -149,3 +149,5 @@ stadt-minden	bielefeld,hannover,osnabrueck,hildesheim,guetersloh	a2,a30
 stadt-gladbeck	bottrop,gelsenkirchen,recklinghausen,essen,oberhausen,herne	a2,a31,a52
 stadt-memmingen	kempten,ulm,augsburg,ingolstadt,muenchen	a7,a96
 stadt-iserlohn	hagen,dortmund,siegen,wuppertal,bochum,witten	a46,a45
+stadt-neumuenster	kiel,hamburg,flensburg,luebeck,lueneburg,schwerin	a7,a23
+stadt-wismar	schwerin,luebeck,rostock,stralsund,greifswald,neubrandenburg	a20,a14

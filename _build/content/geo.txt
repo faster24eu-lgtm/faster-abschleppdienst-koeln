@@ -227,3 +227,5 @@ autobahn-a111	A111 Berlin Zubringer Oranienburg	A111
 autobahn-a115	A115 Berlin AVUS	A115	
 autobahn-a113	A113 Berlin Zubringer Schönefeld	A113	
 autobahn-a620	A620 Saarlouis bis Saarbrücken	A620	
+stadt-neumuenster	Neumünster	Schleswig-Holstein	
+stadt-wismar	Wismar	Mecklenburg-Vorpommern	

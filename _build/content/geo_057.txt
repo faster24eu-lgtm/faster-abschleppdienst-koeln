@@ -1,0 +1,57 @@
+=== stadt-neumuenster | Abschleppdienst Neumünster: Pannenhilfe A7, B205, B430 | Pannenhilfe und Abschleppen in Neumünster: Verkehrsknoten an der A7 mit B205 und B430, neun Stadtteile, Holstenhallen, Metropolregion Hamburg. | page ===
+<!--AREAS: Neumünster, Einfeld, Gadeland, Tungendorf, Wittorf, Faldera, Brachenfeld, Bad Bramstedt, Rendsburg -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neumünster</p><h1>Abschleppdienst Neumünster</h1><p class="lead">Neumünster liegt in Holstein an der A7 zwischen Hamburg, Kiel und Flensburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisfreie Stadt in Holstein</h2>
+<p>Neumünster ist nach Kiel, Lübeck, Flensburg und Norderstedt die fünftgrößte Stadt in Schleswig-Holstein und die einzige der vier kreisfreien Städte des Landes ohne Zugang zum Meer. Sie war lange ein Zentrum der Tuch- und Lederindustrie und ist seit alters her ein wichtiger Verkehrsknotenpunkt. Die große Mittelstadt an Schwale und Stör gehört seit Mai 2012 zur Metropolregion Hamburg. Die Holstenhallen und die Stadthalle machen sie zu einem bedeutenden Messestandort des Landes. Neumünster ist in neun Stadtteile gegliedert: Böcklersiedlung-Bugenhagen, Brachenfeld-Ruthenberg, Einfeld, Faldera, Gadeland, Gartenstadt, Stadtmitte, Tungendorf und Wittorf. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-kiel.html">Abschleppdienst Kiel</a>, <a href="stadt-hamburg.html">Abschleppdienst Hamburg</a> und <a href="stadt-flensburg.html">Abschleppdienst Flensburg</a>.</p>
+<h2>A7, B205 und B430</h2>
+<p>Die Stadt liegt an der A7 am Kreuzungspunkt der Bundesstraßen B205 und B430. Die B4 führte früher, in Nachfolge der Altona-Kieler Chaussee, der ersten Kunststraße Schleswig-Holsteins, durch Neumünster, wurde aber von Bad Bramstedt nach Norden zur Landesstraße zurückgestuft, ebenso die Fortführung der B205 nach Rendsburg. Bei einer Panne auf der A7 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a7.html">Panne auf der A7</a>. Bei einer Panne auf B205 oder B430 sagen Sie uns Fahrtrichtung und nächsten Ort.</p>
+<h2>Sechs Bahnstrecken und ein Mobilitätskonzept</h2>
+<p>Neumünster liegt an den Eisenbahnstrecken von Hamburg nach Kiel und Flensburg, die hier abzweigen, und damit an zwei Hauptverkehrsadern nach Skandinavien. Neben Lübeck hat die Stadt die meisten, nämlich sechs Eisenbahnstrecken in Schleswig-Holstein. Die Stadt hat sich zum Ziel gesetzt, Mobilität bis 2035 klimaneutral zu gestalten und 15-Minuten-Stadt zu werden, 2023 wurde dazu ein Masterplan Mobilität verabschiedet. Neumünster hat sich außerdem der Initiative „Lebenswerte Städte durch angemessene Geschwindigkeiten“ angeschlossen. Wenn Sie in einer Tempo-30-Zone oder an einem Bahnübergang liegen bleiben, nennen Sie uns Straße und Hausnummer.</p>
+<h2>Messen an den Holstenhallen</h2>
+<p>Wenn Sie an den Holstenhallen oder der Stadthalle liegen bleiben, nennen Sie uns Parkplatz, Tor und Straße. Für Wohnmobile und Anhänger: <a href="ratgeber-wohnmobil-gespann-panne.html">Wohnmobil und Gespann</a>.</p>
+<h2>So nennen Sie Ihren Standort in Neumünster</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf der A7: Richtung, Anschlussstelle.</li>
+<li>Auf B205 oder B430: Fahrtrichtung, nächster Ort.</li>
+<li>Bei Veranstaltungen: Halle, Parkplatz oder Tor.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-luebeck.html">Lübeck</a> und <a href="stadt-schwerin.html">Schwerin</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Neumünster</h2>
+<details><summary>Welche Autobahn führt nach Neumünster?</summary><div>Die A7, am Kreuzungspunkt der Bundesstraßen B205 und B430.</div></details>
+<details><summary>Wie viele Stadtteile hat Neumünster?</summary><div>Neun.</div></details>
+<details><summary>Zu welcher Metropolregion gehört Neumünster?</summary><div>Seit Mai 2012 zur Metropolregion Hamburg.</div></details>
+<details><summary>Welche Bahnstrecken kreuzen sich?</summary><div>Die Strecken von Hamburg nach Kiel und Flensburg, insgesamt hat die Stadt sechs Bahnstrecken.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-wismar | Abschleppdienst Wismar: Pannenhilfe A20, A14, Kreuz Wismar | Pannenhilfe und Abschleppen in Wismar: Hansestadt an der Wismarer Bucht, Kreuz Wismar von A20 und A14, Hafen mit Bahnanschluss und UNESCO-Altstadt. | page ===
+<!--AREAS: Wismar, Wismarer Bucht, Insel Poel, Hafen Wismar, Kreuz Wismar, Schwerin, Lübeck -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wismar</p><h1>Abschleppdienst Wismar</h1><p class="lead">Wismar liegt an der Wismarer Bucht, hier kreuzen sich A20 und A14. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Hansestadt an der Ostsee</h2>
+<p>Die Hansestadt Wismar liegt an der Ostseeküste im Landkreis Nordwestmecklenburg am südlichen Ende der durch die Insel Poel geschützten Wismarer Bucht. Sie ist die sechstgrößte Stadt Mecklenburg-Vorpommerns und das größte der 18 Mittelzentren des Landes. Die historischen Altstädte von Stralsund und Wismar wurden im Juni 2002 in die UNESCO-Welterbeliste aufgenommen. Wismar ist Kreisstadt und Sitz der Hochschule Wismar und ein häufig besuchtes Tourismusziel, zunehmend auch für Kreuzfahrten. Nennen Sie uns bei einer Panne Stadtteil, Straße und Hausnummer. Mehr auf <a href="stadt-schwerin.html">Abschleppdienst Schwerin</a>, <a href="stadt-luebeck.html">Abschleppdienst Lübeck</a> und <a href="stadt-rostock.html">Abschleppdienst Rostock</a>.</p>
+<h2>Kreuz Wismar: A20 und A14</h2>
+<p>Wismar ist über die A20 nach Rostock und Lübeck und die A14 nach Schwerin, die sich im Autobahnkreuz Wismar kreuzen, an das deutsche Autobahnnetz angebunden. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, am Kreuz auch, ob Sie auf der A20 oder A14 stehen. Mehr auf <a href="autobahn-a20.html">Panne auf der A20</a> und <a href="autobahn-a14.html">Panne auf der A14</a>.</p>
+<h2>Hafen und Güterverkehr</h2>
+<p>Der Hafen hat einen Anschluss an das europäische Eisenbahnnetz, etwa 60 Prozent der im Hafen umgeschlagenen Güter werden als Seehafenhinterlandverkehr per Eisenbahn an- oder abtransportiert. Wenn Ihr Lkw oder Transporter am Hafen liegen bleibt, nennen Sie uns Zufahrt, Torbereich, Fahrzeugart und Gewicht, siehe <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>. Wismar ist außerdem an einige regionale und internationale Radwanderwege angeschlossen, unter anderem den Ostseeküsten-Radweg. Rad- und Gehwege sollten Sie bei einer Panne freihalten.</p>
+<h2>Altstadt und Welterbe</h2>
+<p>Die Altstadt ist Teil des UNESCO-Welterbes. Wenn Sie in der Altstadt liegen bleiben, nennen Sie uns Straße, Hausnummer und die nächste Querstraße, dazu ob die Zufahrt eng ist. Für Ihr Fahrzeug gilt der übliche Hinweis: Warnblinker, wenn nötig Warndreieck.</p>
+<h2>So nennen Sie Ihren Standort in Wismar</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
+<li>Auf A20 oder A14: Nummer, Richtung, Anschlussstelle, Kreuz Wismar.</li>
+<li>Am Hafen: Torbereich oder Kai.</li>
+<li>In der Altstadt: Straße, Platz, enge Zufahrt.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-stralsund.html">Stralsund</a> und <a href="stadt-greifswald.html">Greifswald</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Wismar</h2>
+<details><summary>Welche Autobahnen führen nach Wismar?</summary><div>Die A20 nach Rostock und Lübeck und die A14 nach Schwerin, sie kreuzen sich im Kreuz Wismar.</div></details>
+<details><summary>Seit wann ist die Altstadt Welterbe?</summary><div>Seit Juni 2002, gemeinsam mit der Altstadt von Stralsund.</div></details>
+<details><summary>Wie groß ist Wismar?</summary><div>Die sechstgrößte Stadt Mecklenburg-Vorpommerns.</div></details>
+<details><summary>Wie viel Güterumschlag läuft per Bahn?</summary><div>Etwa 60 Prozent der im Hafen umgeschlagenen Güter.</div></details>
+</div></section>
+@@CTA@@

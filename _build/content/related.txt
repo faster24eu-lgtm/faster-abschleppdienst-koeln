@@ -391,3 +391,5 @@ autobahn-a113	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte i
 autobahn-a620	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 autobahn-a111	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Flughafen Tegel
 autobahn-a113	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Rudower Höhe
+stadt-neumuenster	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-wismar	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
