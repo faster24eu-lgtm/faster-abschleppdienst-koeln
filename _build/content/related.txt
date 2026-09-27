@@ -252,3 +252,9 @@ stadt-ludwigsburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schrit
 stadt-landshut	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-bayreuth	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Einhausung bei Laineck
 stadt-landshut	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Josef-Deimer-Tunnel
+autobahn-a10	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a14	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a20	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a24	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a31	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a31	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Emstunnel

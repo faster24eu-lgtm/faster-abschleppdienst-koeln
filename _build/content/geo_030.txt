@@ -1,0 +1,142 @@
+=== autobahn-a10 | Pannenhilfe auf dem Berliner Ring A10: Kreuze, Ausbau | Panne auf der A10 rund um Berlin: 196 Kilometer Ring, Dreiecke Barnim, Spreeau, Potsdam, Werder und Havelland, sechs- und achtstreifige Abschnitte. | page ===
+<!--AREAS: A10, Berliner Ring, Potsdam, Oranienburg, Schönefeld, Ludwigsfelde, Werder -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf dem Berliner Ring A10</h1><p class="lead">Die A10 umschließt Berlin auf 196 Kilometern. Nennen Sie uns Richtung, Dreieck oder Kreuz und letzte Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Ein Ring mit Anfang und Ende am selben Dreieck</h2>
+<p>Die A10 war lange Zeit der längste Autobahnring der Welt. Mit 196 Kilometern ist sie in Europa nach der Moskauer A113 der zweitlängste Ring und liegt knapp vor der Londoner M25 mit 188 Kilometern. Die Kilometrierung beginnt und endet am Dreieck Barnim, das bis 2013 Dreieck Schwanebeck hieß und danach kurzfristig Kreuz Barnim. Dort mündet die A11 aus Richtung Stettin ein. Für Ihre Standortangabe heißt das: Auf einem Ring hilft die Fahrtrichtung mehr als die Himmelsrichtung. Sagen Sie „im Uhrzeigersinn“ oder „gegen den Uhrzeigersinn“ und nennen Sie die letzte Anschlussstelle.</p>
+<h2>Die Anschlüsse rund um den Ring</h2>
+<p>In Richtung der Kilometrierung, im Uhrzeigersinn, münden von außen am Dreieck Spreeau die A12, am Kreuz Schönefeld die A13, am Dreieck Potsdam die A9, am Dreieck Werder die A2 und am Dreieck Havelland die A24 in den Berliner Ring. Von innen verbinden die A111 am Kreuz Oranienburg, die A114 am Dreieck Pankow, die A113 am Kreuz Schönefeld und die A115 am Dreieck Nuthetal den Ring mit dem Stadtgebiet von Berlin, der nördliche Teil der A115 ist als AVUS bekannt. Die Anschlussstellen Ludwigsfelde-Ost und Berlin-Spandau sowie das Kreuz Oranienburg führen zu autobahnähnlich ausgebauten Bundesstraßen. Wer ein Dreieck oder Kreuz nennt, hilft uns bei der Einordnung sofort. Mehr auf <a href="stadt-berlin.html">Abschleppdienst Berlin</a>, <a href="autobahn-a9.html">Panne auf der A9</a> und <a href="autobahn-a2.html">Panne auf der A2</a>.</p>
+<h2>Sechs, acht oder vier Fahrstreifen</h2>
+<p>Im Nord-, Ost- und Südteil zwischen dem Dreieck Havelland und dem Dreieck Werder ist die A10 sechsstreifig ausgebaut, im Süden teilweise achtstreifig. Die Strecke zwischen den Dreiecken Nuthetal und Potsdam wurde seit 2016 achtstreifig ausgebaut und am 4. Juni 2020 freigegeben. Der Abschnitt zwischen dem Dreieck Havelland und dem Kreuz Oranienburg ging am 17. Dezember 2020 sechsstreifig in Betrieb, der Abschnitt zwischen Kreuz Oranienburg und Dreieck Pankow im November 2022. Im westlichen Teil ist die Autobahn nach dieser Beschreibung vierstreifig ohne Standstreifen ausgebaut. Das ist für eine Panne entscheidend: Wo kein Standstreifen ist, gilt besonders, Warnblinker an, Warnweste, weit weg vom Fahrzeug. Die Schritte finden Sie im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
+<h2>Landmarken für die Standortangabe</h2>
+<p>Am Kilometer 82,0 zwischen Ludwigsfelde und dem Dreieck Nuthetal stand über ein halbes Jahrhundert die „Stundeneiche“ auf dem Mittelstreifen, sie musste 2004 gefällt werden. Ein noch bestehendes Wahrzeichen des südöstlichen Rings ist der 27 Meter hohe Niederlehmer Wasserturm von 1902 direkt an der Autobahn kurz hinter der Brücke über die Dahme. Die Tank- und Rastanlage Wolfslake am westlichen Ring zwischen der Anschlussstelle Falkensee und dem Dreieck Havelland liegt auf den Flächen eines ehemaligen Behelfsflugplatzes von 1979. Die Raststätte Michendorf hat nach dem Ausbau zusätzliche Lkw-Stellplätze. Solche Orte helfen, wenn Sie kein Schild sehen.</p>
+<h2>So nennen Sie Ihren Standort auf der A10</h2>
+<ul class="ticks">
+<li>Richtung: im oder gegen den Uhrzeigersinn, oder die Zielangabe auf dem Schild.</li>
+<li>Letzte oder nächste Anschlussstelle, Dreieck oder Kreuz.</li>
+<li>Raststätte, Brücke oder Wasserturm als Landmarke.</li>
+<li>Ob ein Standstreifen vorhanden ist.</li>
+</ul>
+<p>Weitere Seiten: <a href="stadt-potsdam.html">Abschleppdienst Potsdam</a>, <a href="autobahnen.html">alle Autobahnen</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A10</h2>
+<details><summary>Wie lang ist der Berliner Ring?</summary><div>196 Kilometer, nach der Moskauer A113 der zweitlängste Autobahnring Europas.</div></details>
+<details><summary>Wo beginnt und endet die Kilometrierung?</summary><div>Am Dreieck Barnim, wo die A11 aus Richtung Stettin einmündet.</div></details>
+<details><summary>Welche Autobahnen münden in den Ring?</summary><div>Von außen A11, A12, A13, A9, A2 und A24, von innen A111, A114, A113 und A115.</div></details>
+<details><summary>Ich stehe im Westen des Rings. Was ist zu beachten?</summary><div>Dort ist die Autobahn nach dieser Beschreibung vierstreifig ohne Standstreifen. Warnblinker, Warnweste, hinter die Leitplanke.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a14 | Pannenhilfe auf der A14: Wismar, Schwerin, Magdeburg, Leipzig, Nossen | Panne auf der A14 in drei Abschnitten von Wismar über Schwerin, Magdeburg, Halle und Leipzig bis Nossen: Kreuze, Lücke der Nordverlängerung, Baustellen. | page ===
+<!--AREAS: A14, Schwerin, Magdeburg, Halle, Leipzig, Nossen, Grimma, Wolmirstedt -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A14</h1><p class="lead">Die A14 ist nicht durchgehend: drei Abschnitte, dazwischen Lücken. Nennen Sie uns Abschnitt, Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Drei Abschnitte statt einer durchgehenden Strecke</h2>
+<p>Die A14 führt aktuell in drei Abschnitten von Wismar über Schwerin bis Karstädt, von Stendal-Süd bis Wolmirstedt sowie von Dahlenwarsleben über das Kreuz Magdeburg an der A2, Halle und Leipzig bis zum Dreieck Nossen an der A4. Der Lückenschluss, die sogenannte Nordverlängerung vom Kreuz Schwerin bis Magdeburg, ist teils in Planung, teils im Bau und in Teilen freigegeben, die komplette Fertigstellung ist nach dieser Quelle für spätestens 2032 geplant. Sie wird auch Altmark-Autobahn genannt. Baustände ändern sich. Wenn Sie in der Nähe einer Baustelle liegen bleiben, sagen Sie uns, in welchem Abschnitt Sie stehen.</p>
+<h2>Warum eine gerade Nummer für Nord–Süd?</h2>
+<p>Obwohl die Autobahn überwiegend in Nord-Süd-Richtung verläuft, trägt sie eine gerade Zahl, die sonst Autobahnen in West-Ost-Richtung haben. Der Grund ist der Verlauf des zuerst gebauten südlichen Teilstücks, das noch annähernd West-Ost verläuft und erst später nach Norden verlängert wurde. Für Sie heißt das: Verlassen Sie sich nicht auf die Himmelsrichtung, sondern nennen Sie die Fahrtrichtung mit Zielort auf dem Schild, zum Beispiel Richtung Leipzig oder Richtung Dresden.</p>
+<h2>Vom Leipziger Abschnitt bis Nossen</h2>
+<p>Am 25. April 1936 wurde der Abschnitt zwischen Halle/Peißen und Leipzig-Wiederitzsch freigegeben, im Süden folgte 1970 die Strecke von Leipzig-Ost bis Grimma und 1971 die von Grimma bis zum Dreieck Nossen an der A4. Der Abschnitt zwischen Kreuz Magdeburg und Halle entstand im Rahmen der Verkehrsprojekte Deutsche Einheit und wurde 2000 abgeschlossen. Am Dreieck Parthenaue schließt seit 2006 die A38 als Südharzautobahn an. Mehr auf <a href="stadt-leipzig.html">Abschleppdienst Leipzig</a>, <a href="stadt-halle.html">Abschleppdienst Halle</a>, <a href="stadt-magdeburg.html">Abschleppdienst Magdeburg</a> und <a href="autobahn-a4.html">Panne auf der A4</a>.</p>
+<h2>Schweriner Anschluss</h2>
+<p>Im Norden wurde von 1984 bis 1986 ein etwa 20 Kilometer langes, teilweise nur einspurig befahrbares Teilstück vom Dreieck Schwerin bis zur heutigen Anschlussstelle Schwerin-Ost fertiggestellt. Man sprach vom „Schweriner Anschluss“, nach der Wiedervereinigung hieß der Abschnitt A241. Ältere Karten und Navigationsdaten können daher andere Bezeichnungen zeigen. Mehr auf <a href="stadt-schwerin.html">Abschleppdienst Schwerin</a> und <a href="autobahn-a24.html">Panne auf der A24</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A14</h2>
+<ul class="ticks">
+<li>Abschnitt: Schwerin–Karstädt, Altmark, Magdeburg–Nossen.</li>
+<li>Fahrtrichtung mit Zielort, Anschlussstelle oder Kreuz.</li>
+<li>Ob Baustelle, Verengung oder Umleitung.</li>
+<li>Kilometerstein oder Parkplatzname, wenn erkennbar.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A14</h2>
+<details><summary>Ist die A14 durchgehend befahrbar?</summary><div>Nein. Zwischen Kreuz Schwerin und Magdeburg wird die Nordverlängerung in Abschnitten gebaut, der Stand ändert sich.</div></details>
+<details><summary>Warum hat die A14 eine gerade Nummer?</summary><div>Weil der zuerst gebaute Südteil fast West-Ost verläuft und später nach Norden verlängert wurde.</div></details>
+<details><summary>Was ist die Altmark-Autobahn?</summary><div>Der Name der Nordverlängerung durch Sachsen-Anhalt.</div></details>
+<details><summary>Was war die A241?</summary><div>Der Schweriner Anschluss zwischen Dreieck Schwerin und Schwerin-Ost, später in die A14 einbezogen.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a20 | Pannenhilfe auf der A20: Küstenautobahn von Uckermark bis Lübeck | Panne auf der A20 durch Brandenburg, Mecklenburg-Vorpommern und Schleswig-Holstein: Kreuz Uckermark, Rostock, Wismar, Lübeck, geplante Elbquerung. | page ===
+<!--AREAS: A20, Rostock, Wismar, Greifswald, Neubrandenburg, Lübeck, Bad Segeberg, Grevesmühlen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A20</h1><p class="lead">Die A20 führt nahe der Ostseeküste von der Uckermark über Rostock bis Lübeck. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Von der Uckermark nach Lübeck</h2>
+<p>Die A20 beginnt an der Kreuzung der A11 und der Bundesstraße 166 am Kreuz Uckermark und führt in Richtung Norden an Uckerfelde, Schenkenberg und Schönfeld vorbei. Zwischen Damerow und Züsedom überquert sie die Landesgrenze nach Mecklenburg-Vorpommern und verläuft nahe der Landesgrenze weitgehend auf mecklenburgischer Seite. Nur ein drei Kilometer langer Abschnitt zwischen Groß Luckow und Strasburg liegt wieder in Brandenburg. Wenn Sie hier ohne Orientierung stehen, hilft der nächste Ortsname mehr als eine Himmelsrichtung.</p>
+<h2>Mecklenburg-Vorpommern: Bogen und Küste</h2>
+<p>Ab Züsedom verläuft die A20 in einem Bogen nach Nordwesten, südlich der Brohmer Berge, und nimmt am Kreuz Neubrandenburg-Ost einen Verlauf nördlich in Richtung Greifswald. Hinter Jarmen beim Kreuz Gützkow führt sie weiter in Richtung Westen, parallel zur Ostseeküste. Sie passiert Rostock, Wismar, Grevesmühlen und Schönberg, bevor sie an der Wakenitz die Landesgrenze zu Schleswig-Holstein überquert. Zwischen den Städten liegen lange Strecken ohne Ortschaft, dünn besiedelt und im Wind offen. Mehr auf <a href="stadt-rostock.html">Abschleppdienst Rostock</a> und <a href="stadt-schwerin.html">Abschleppdienst Schwerin</a>.</p>
+<h2>Schleswig-Holstein: um Lübeck herum</h2>
+<p>Südlich von Lübeck und der Gemeinde Groß Grönau beginnt die A20 auf schleswig-holsteinischer Seite. Der Flughafen Lübeck-Blankensee erhielt 2007 mit der neugebauten B207 die direkte Anschlussstelle Lübeck-Süd. Die Autobahn verläuft um die Stadt Lübeck herum und endet nach dem Stand der genutzten Quelle (2021) als fertiggestellte Strecke vor Bad Segeberg. Alle weiterführenden Abschnitte befanden sich in Planung. Mehr auf <a href="stadt-luebeck.html">Abschleppdienst Lübeck</a> und <a href="autobahn-a7.html">Panne auf der A7</a>.</p>
+<h2>Geplant: Elbquerung und Niedersachsen</h2>
+<p>Die A20 soll die A21 kurz nach Bad Segeberg kreuzen und nach der Kreuzung der A7 und der A23 die Elbe durch einen 6,5 Kilometer langen Tunnel zwischen Glückstadt und Drochtersen unterqueren. In Niedersachsen soll sie über das Kreuz Kehdingen mit der A26 verbunden werden, bei Loxstedt an die A27 bei Bremerhaven anschließen, den Wesertunnel der heutigen B437 nutzen und am Kreuz Jaderberg die A29 überqueren. Bei Westerstede soll sie in die A28 münden. Das sind Planungen, keine Aussagen über heute befahrbare Strecken. Wer in einem Baustellenbereich liegen bleibt, sagt uns bitte, wo genau.</p>
+<h2>So nennen Sie Ihren Standort auf der A20</h2>
+<ul class="ticks">
+<li>Bundesland und Fahrtrichtung, Zielort auf dem Schild.</li>
+<li>Letzte oder nächste Anschlussstelle, Kreuz Uckermark, Gützkow oder Neubrandenburg-Ost.</li>
+<li>Bei Seitenwind oder Nebel: ob Sie sicher stehen.</li>
+<li>Bei Gespann: ob ein Anhänger dabei ist.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A20</h2>
+<details><summary>Wo beginnt die A20?</summary><div>Am Kreuz Uckermark, wo sie die A11 und die B166 kreuzt.</div></details>
+<details><summary>Welche Städte liegen an der A20?</summary><div>Unter anderem Neubrandenburg in der Nähe, Greifswald, Rostock, Wismar und Lübeck.</div></details>
+<details><summary>Ist die Elbquerung schon gebaut?</summary><div>Nach der genutzten Quelle war sie geplant. Aktuelle Baustände prüfen Sie bitte bei den Straßenbauverwaltungen.</div></details>
+<details><summary>Welche Autobahn mündet bei Rostock ein?</summary><div>Die A19 aus Richtung Berlin. Nennen Sie uns die Anschlussstelle, wenn Sie in diesem Bereich stehen.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a24 | Pannenhilfe auf der A24: Hamburg, Schwerin, Berliner Ring | Panne auf der A24 von Hamburg-Horn über Sachsenwald, Schaalsee, Kreuz Schwerin und Wittstock/Dosse bis zum Dreieck Havelland am Berliner Ring. | page ===
+<!--AREAS: A24, Hamburg, Schwarzenbek, Schwerin, Wittstock, Neuruppin, Havelland -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A24</h1><p class="lead">Die A24 verbindet Hamburg mit dem Berliner Ring über Schleswig-Holstein, Mecklenburg-Vorpommern und Brandenburg. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Von Hamburg-Horn nach Osten</h2>
+<p>Die A24 beginnt in Hamburg am Horner Kreisel und verläuft durch Hamburg-Marienthal und Hamburg-Jenfeld zum Autobahnkreuz Hamburg-Ost. Dort überquert sie die A1 Lübeck–Hamburg–Bremen und führt weiter nach Osten durch den Sachsenwald. An der Anschlussstelle Schwarzenbek/Grande trifft sie auf die B404, die teilweise als A21 ausgebaut in Richtung Bad Segeberg und Kiel führt. Wenig östlich von Hornbek überquert die Autobahn den Elbe-Lübeck-Kanal und führt durch den Naturpark Lauenburgische Seen. Zwischen Gudow und Zarrentin am Schaalsee erreicht sie die Landesgrenze zu Mecklenburg-Vorpommern. Mehr auf <a href="stadt-hamburg.html">Abschleppdienst Hamburg</a> und <a href="autobahn-a1.html">Panne auf der A1</a>.</p>
+<h2>Mecklenburg-Vorpommern: Kreuz Schwerin</h2>
+<p>Hier verläuft die Autobahn durch den Landkreis Ludwigslust-Parchim. Am Autobahnkreuz Schwerin wird die A14 gekreuzt, die in nördlicher Richtung über Schwerin nach Wismar zur A20 führt. Schwerin ist ebenfalls über die Abfahrten Hagenow (B321) und Wöbbelin zu erreichen. Nahe Suckow wird die Landesgrenze nach Brandenburg überschritten, hier werden auf mehreren Kilometern Ausläufer der Ruhner Berge durchfahren. Mehr auf <a href="stadt-schwerin.html">Abschleppdienst Schwerin</a> und <a href="autobahn-a14.html">Panne auf der A14</a>.</p>
+<h2>Brandenburg: Wittstock/Dosse bis Havelland</h2>
+<p>In Brandenburg führt die Strecke durch die Landkreise Prignitz, Ostprignitz-Ruppin und Oberhavel. Am Dreieck Wittstock/Dosse wird die Autobahn mit der A19 aus Richtung Rostock verflochten. Von hier an verläuft die A24 auch als Teil der Europastraße 55 weiter bis zum Dreieck Havelland am Berliner Ring. Dort geht es auf die <a href="autobahn-a10.html">A10</a> weiter. Auf dieser Strecke kann bei Nebel und Wintermischwetter die Sicht schlechter sein, als sie aus dem Auto wirkt; bleiben Sie hinter der Leitplanke, wenn Sie aussteigen müssen.</p>
+<h2>So nennen Sie Ihren Standort auf der A24</h2>
+<ul class="ticks">
+<li>Bundesland und Fahrtrichtung, Zielort Hamburg oder Berlin.</li>
+<li>Letzte oder nächste Anschlussstelle, Kreuz Schwerin oder Dreieck Wittstock/Dosse.</li>
+<li>Raststätte oder Parkplatzname.</li>
+<li>Ob Sie sich noch in Hamburg an den ersten Kilometern befinden.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A24</h2>
+<details><summary>Wo beginnt die A24?</summary><div>In Hamburg am Horner Kreisel.</div></details>
+<details><summary>Wo kreuzt die A24 die A14?</summary><div>Am Autobahnkreuz Schwerin.</div></details>
+<details><summary>Wo endet die A24?</summary><div>Am Dreieck Havelland am Berliner Ring A10.</div></details>
+<details><summary>Welche Autobahn mündet bei Wittstock ein?</summary><div>Die A19 aus Richtung Rostock, am Dreieck Wittstock/Dosse.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a31 | Pannenhilfe auf der A31: Emslandautobahn von Emden bis Bottrop | Panne auf der A31 zwischen Emden und Bottrop: Emstunnel, Dreieck Leer, Kreuz Schüttorf, Emsland, Münsterland, Urlauberstaus, Windenergie-Allee. | page ===
+<!--AREAS: A31, Emden, Leer, Meppen, Schüttorf, Gronau, Borken, Bottrop -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A31</h1><p class="lead">Die A31, auch Emslandautobahn oder Ostfriesenspieß genannt, führt von Emden bis zum Dreieck Bottrop. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Von der Nordsee ins Ruhrgebiet</h2>
+<p>Die A31 beginnt in Emden an der Nordseeküste und endet am Autobahndreieck Bottrop an der A2, unweit des Übergangs in die A3 am Autobahnkreuz Oberhausen. Südlich von Emden bindet zunächst das Dreieck Leer die A28 an, dann das Dreieck Bunde über die kurze A280 die niederländische A7. Zwischen den beiden Dreiecken bildet die A31 im Netz der Europastraßen ein Teilstück der E22. Bei Leer geht der südliche Ast nahtlos in die A28 nach Oldenburg und Bremen über. Zum Verbleib auf der A31 muss im Dreieck abgebogen werden. Wer hier die falsche Ausfahrt nimmt, steht schnell auf der falschen Autobahn, deshalb nennen Sie uns die Autobahnnummer.</p>
+<h2>Emstunnel</h2>
+<p>Zwischen den Anschlussstellen Leer-West und Jemgum unterquert die A31 in dem 945 Meter langen Emstunnel die hier schiffbare Ems. Er ist nach dem Hamburger Neuen Elbtunnel die zweite Unterquerung im deutschen Mündungsbereich eines Flusses, dessen Überbrückung wegen der großen Höhe der Hochseeschiffe schwierig ist. Bei einer Panne im Tunnel gilt: Warnblinker, Motor aus, Notrufstation nutzen, mehr im <a href="ratgeber-panne-im-tunnel.html">Ratgeber Panne im Tunnel</a>.</p>
+<h2>Emsland und Münsterland</h2>
+<p>Die A31 verlässt Ostfriesland und quert das Emsland nahe der niederländischen Grenze. An der Anschlussstelle Meppen kreuzt sie die E233 auf der Trasse der autobahnähnlichen B402. Etwa in der Mitte verknüpft das einzige Kreuz Schüttorf sie mit der A30. Rund zehn Kilometer danach überquert sie die Grenze nach Nordrhein-Westfalen und verläuft durch das westliche Münsterland; die Anschlussstellen Gronau/Ochtrup und Borken binden die B54 und die B67 an. Der Verkehr im niedersächsischen Teil ist in der Regel gering, in den Ferien und zu verlängerten Wochenenden wie Christi Himmelfahrt bewirken Urlauberströme nach Ostfriesland dichten Verkehr und Staus. Wenn Sie dann liegen bleiben, sagen Sie uns, wie weit die Staulänge reicht. Mehr auf <a href="autobahn-a2.html">Panne auf der A2</a>, <a href="stadt-bottrop.html">Abschleppdienst Bottrop</a> und <a href="stadt-oberhausen.html">Abschleppdienst Oberhausen</a>.</p>
+<h2>Standstreifen und Windenergie-Allee</h2>
+<p>Die Autobahn ist durchgehend vierstreifig, mit Ausnahme des Abschnitts von Emden-West bis Emden-Ost mit Standstreifen, der zwischen Emden und Neermoor nachträglich angebaut wurde und an Brücken mit zu geringer Spannweite unterbrochen ist. Am Aktionstag der Erneuerbaren Energien 2022 erklärte der Landesverband Erneuerbare Energien NRW den rund 100 Kilometer langen Abschnitt zwischen Bottrop und Schüttorf symbolisch zur „Bundesautobahn-Energieallee“, wegen der vielen Windkraftanlagen an der Strecke.</p>
+<h2>So nennen Sie Ihren Standort auf der A31</h2>
+<ul class="ticks">
+<li>Richtung: Emden oder Bottrop, Anschlussstelle.</li>
+<li>Bei Leer: ob Sie auf der A31 oder A28 stehen.</li>
+<li>Im Emstunnel: Fahrtrichtung.</li>
+<li>Parkplatz oder Rastplatz mit Name.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A31</h2>
+<details><summary>Wo beginnt und endet die A31?</summary><div>In Emden und am Dreieck Bottrop an der A2.</div></details>
+<details><summary>Wie lang ist der Emstunnel?</summary><div>945 Meter, zwischen den Anschlussstellen Leer-West und Jemgum.</div></details>
+<details><summary>Welche Autobahn kreuzt die A31?</summary><div>Am Kreuz Schüttorf die A30, bei Leer geht sie in die A28 über.</div></details>
+<details><summary>Wann ist die A31 überlastet?</summary><div>Nach der genutzten Quelle in Ferien und zu verlängerten Wochenenden durch Urlauberverkehr nach Ostfriesland.</div></details>
+</div></section>
+@@CTA@@

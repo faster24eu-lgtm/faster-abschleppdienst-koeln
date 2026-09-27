@@ -114,3 +114,8 @@ stadt-bamberg	Bamberg	Bayern
 stadt-bayreuth	Bayreuth	Bayern	
 stadt-ludwigsburg	Ludwigsburg	Baden-Württemberg	
 stadt-landshut	Landshut	Bayern	
+autobahn-a10	A10 Berliner Ring	A10	
+autobahn-a14	A14 Wismar bis Nossen	A14	
+autobahn-a20	A20 Uckermark bis Lübeck	A20	
+autobahn-a24	A24 Hamburg bis Berlin	A24	
+autobahn-a31	A31 Emden bis Bottrop	A31	
