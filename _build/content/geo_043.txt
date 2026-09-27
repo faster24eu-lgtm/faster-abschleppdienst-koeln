@@ -97,6 +97,8 @@
 <p>Für den Individualverkehr bemerkenswert sind zwei historische Garagen: die Kant-Garagen in Charlottenburg, die älteste erhaltene Hochgarage Europas, und die Holtzendorff-Garage in Halensee. Wenn Ihr Fahrzeug in einer Hochgarage nicht startet, nennen Sie uns Garage, Ebene und Zufahrt, siehe <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Panne im Parkhaus</a>.</p>
 <h2>Halensee und Grunewald</h2>
 <p>Der Ortsteil Halensee ist nach dem im angrenzenden Grunewald gelegenen Halensee benannt und wurde als Villen- und Mietshaussiedlung für gehobenes Wohnen geplant. Das heißt für Sie: In Wohnstraßen mit Mietshäusern nennen Sie uns Straße und Hausnummer, am Grunewald zusätzlich die nächste Kreuzung oder den Parkplatz. Radwanderwege wie der Spreeradweg und der Europaradweg R1 führen durch den Bezirk.</p>
+<h2>Messegelände und Hochschulen</h2>
+<p>Der Bezirk gilt als eher bürgerlicher Wohnort mit günstiger Sozialstruktur und ist eines der umsatzstärksten Geschäfts- und Handelszentren Berlins. Das Berliner Messegelände liegt im Bezirk und wird von der Messe Berlin betrieben, das Areal zählt zu den flächengrößten seiner Art in Europa, zahlreiche Leitmessen finden hier jährlich statt. Die ansässige Technische Universität ist Teil der Exzellenzstrategie, die Universität der Künste ist eine renommierte Kunstakademie. Der Bereich um den Kurfürstendamm nimmt als City West neben der historischen Mitte eine der beiden Zentrumsfunktionen für ganz Berlin wahr. Wenn Sie am Messegelände, an der Universität oder am Kurfürstendamm liegen bleiben, nennen Sie uns die Straße, den Parkplatz oder das Tor und den nächsten U-Bahnhof.</p>
 <h2>So nennen Sie Ihren Standort in Charlottenburg-Wilmersdorf</h2>
 <ul class="ticks">
 <li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
@@ -126,6 +128,8 @@
 <p>Wichtigster Verkehrsknoten des Bezirks ist der Bahnhof Spandau, an dem die Bahnstrecke Berlin–Hamburg und die Schnellfahrstrecke Hannover–Berlin halten. Der Busknoten S+U Rathaus Spandau gilt nach dem Bahnhof Zoo als der zweitstärkste Busknoten Berlins, er wird von 15 Buslinien tagsüber und drei Nachtbuslinien angefahren. Wenn Ihr Fahrzeug am Rathaus oder am Bahnhof liegen bleibt, halten Sie Bushaltestellen frei und nennen Sie uns Straße und Hausnummer.</p>
 <h2>Zukunftspläne, keine Auswirkung auf Ihre Panne</h2>
 <p>Langfristig wird die Wiederanbindung an das Straßenbahnnetz erwogen, konkrete Planungen sehen eine Strecke vom Rathaus Spandau zum Urban Tech Republic, dem ehemaligen Flughafen Tegel, vor. Das sind Planungen. Ihre Standortangabe braucht dafür nichts anderes als bisher: Ortsteil, Straße, Hausnummer.</p>
+<h2>Zitadelle, Havel und Wälder</h2>
+<p>Spandau hatte am 31. Dezember 2025 248.122 Einwohner, große Teile des Bezirks liegen entlang der Havel, der Bezirk ist bekannt für seine Wald- und Wasserflächen und flächenmäßig der viertgrößte Berlins. Zu den wesentlichen Bauwerken gehört die im 16. Jahrhundert erbaute Zitadelle Spandau, die ehemalige Festung wird heute vor allem für Konzerte und Unterhaltungsveranstaltungen genutzt. Der heutige Bezirk liegt zum großen Teil am westlichen Ufer der Havel. Wenn Sie an der Zitadelle, an Uferstraßen oder in Waldgebieten liegen bleiben, nennen Sie uns Straße, Parkplatz und Uferseite. Bei Veranstaltungen kann der Bereich um die Zitadelle stärker besucht sein, nennen Sie uns in dem Fall den Eingang.</p>
 <h2>So nennen Sie Ihren Standort in Spandau</h2>
 <ul class="ticks">
 <li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
@@ -155,6 +159,8 @@
 <p>Die Glienicker Brücke ist Teil der B1 und verbindet Berlin mit Potsdam. Wenn Sie an der Brücke liegen bleiben, sagen Sie uns die Fahrtrichtung, Richtung Potsdam oder Richtung Berlin. Mehr auf <a href="stadt-potsdam.html">Abschleppdienst Potsdam</a>. Bei einer Panne an einer Brücke gilt: Warnblinker, Abstand, nicht auf der Fahrbahn stehen.</p>
 <h2>Seen, Wald und Universitätsviertel</h2>
 <p>Wannsee, Nikolassee und Schlachtensee liegen an Seen und Wald, Dahlem ist Universitäts- und Institutsviertel. Wenn Sie in Waldnähe oder am Seeufer liegen bleiben, nennen Sie uns die nächste Straße, den Parkplatz oder Bahnhof, denn Waldstraßen haben oft keine Hausnummern.</p>
+<h2>Schloßstraße, Wannsee und Geschäftszentren</h2>
+<p>Der Bezirk umfasst ausgedehnte Erholungsgebiete, Villensiedlungen sowie unterschiedliche Wohn- und Gewerbelagen. Im Westen liegen unter anderem der Wannsee und der südliche Grunewald, der westlichste Punkt Berlins befindet sich im Ortsteil Wannsee in der Havel, auf der die Grenze zu Brandenburg verläuft. Der weiter östlich gelegene Ortsteil Steglitz ist stärker städtisch strukturiert, die Schloßstraße im Ortskern hat die höchste Ladendichte Berlins und ist das Hauptzentrum für die südwestlichen Bezirke. Weitere Geschäftszentren liegen um die S- und U-Bahnhöfe Botanischer Garten, Dahlem-Dorf, Lichterfelde West, Oskar-Helene-Heim, Zehlendorf, Schlachtensee und Lichterfelde Ost. Zu den größten Arbeitgebern zählen die Lungenklinik Heckeshorn und das Krankenhaus Waldfriede. Nennen Sie uns bei einer Panne an einem dieser Bahnhöfe oder Krankenhäuser die Straße und den Zugang, das ist im Südwesten eine gute Landmarke.</p>
 <h2>So nennen Sie Ihren Standort in Steglitz-Zehlendorf</h2>
 <ul class="ticks">
 <li>Ortsteil, Straße, Hausnummer oder Querstraße.</li>
