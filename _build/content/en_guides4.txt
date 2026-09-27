@@ -1,0 +1,468 @@
+=== en-ratgeber-oelverlust-oelspur | Oil Leak in Your Car: Secure, Report, Tow | Oil leaking from your car or leaving a trail: secure the scene, inform the fire brigade, have the vehicle transported, and who pays for the clean-up. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Oil Leak: What to Do If Oil Is Leaking From Your Car</h1><p class="lead">An oil trail isn't just damage to your car. It's a danger to others and environmental damage. So it belongs on a report, not on the road behind you.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>How to recognise an oil leak</h2>
+<ul class="ticks">
+<li>A dark patch under the vehicle where it was parked</li>
+<li>The red oil-pressure light or an oil-level warning, see <a href="en-ratgeber-warnleuchten-auto.html">Warning lights in your car</a></li>
+<li>Smoke or a burning smell from the engine bay</li>
+<li>A visible trail on the road behind you</li>
+</ul>
+<h2>Do this immediately</h2>
+<ol>
+<li><strong>Stop and switch off the engine.</strong> Don't keep driving with an oil leak; it damages the engine and spreads oil across the road.</li>
+<li><strong>Switch on hazard lights,</strong> put on a hi-vis vest, secure the scene. On fast roads, get behind the crash barrier, see <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</li>
+<li><strong>Inform the fire brigade.</strong> 112 is the usual number for leaked fluids, or the police on 110. Say where you are and roughly how much oil has leaked.</li>
+<li><strong>Don't spread absorbent material or wash it away yourself,</strong> especially not into a drain. Oil is highly toxic and can pollute waterways.</li>
+<li><strong>Call a towing service.</strong> The vehicle should be transported properly so no more oil is lost en route.</li>
+</ol>
+<h2>Why you shouldn't keep driving</h2>
+<p>If you keep driving with a leaking engine, you spread oil over several kilometres. That makes the road and vehicles behind you slippery, and increases the clean-up effort. It also risks engine damage from oil starvation. Transport on a flatbed stops both problems.</p>
+<h2>Who pays for the clean-up?</h2>
+<p>If a vehicle causes the contamination, the keeper or driver is usually liable, and vehicle liability insurance steps in, since the damage arose from operating the vehicle. The costs for the fire brigade and a specialist cleaning company can be significant; advice portals cite at least €400 for a fire-brigade callout and considerably more for a specialist firm. Report the incident to your insurer. If an accident results from the oil trail, whoever caused the trail is liable.</p>
+<h2>What to tell the towing service</h2>
+<ul class="ticks">
+<li>Where you are, and whether there's a trail on the road</li>
+<li>How much oil has leaked, and whether it's still dripping</li>
+<li>Whether the fire brigade is already there</li>
+<li>Vehicle and drivetrain</li>
+</ul>
+<p>If the fire brigade is on scene, a contracted company is often assigned on the motorway, see <a href="en-abschleppdienst-a5.html">Breakdown on the A5</a> or <a href="en-pannenhilfe-koelner-autobahnring.html">Cologne motorway ring</a>.</p>
+<h2>Oil, water or coolant? The puddle tells you a lot</h2>
+<p>Not every puddle under the car is oil. Clear liquid after using the air conditioning is usually condensation and harmless. Brown to black, oily-looking material points to engine oil. Reddish or brownish liquid can be transmission or power-steering fluid. Coloured, sweet-smelling coolant can be green, blue, pink or orange. Brake fluid is usually clear to yellowish and smells different. If you can't identify the liquid for certain, treat it as an oil leak and don't put the vehicle back into use.</p>
+<h2>Checking the oil level correctly</h2>
+<p>Check the oil level on level ground with the engine off, ideally after a few minutes so the oil can drain back into the sump. Pull the dipstick, wipe it, insert it fully, and pull it again. If the level is below the minimum mark or the dipstick is dry, don't keep driving. Some vehicles have no dipstick, just a display in the instrument cluster. The same rule applies: stop the car if it warns you.</p>
+<h2>The oil trail on the road</h2>
+<p>A leak can leave a trail on the road that's especially dangerous for motorcyclists and cyclists. If you notice or cause an oil trail, secure the scene and, if it's a danger to traffic, inform the police or fire brigade. If oil reaches a drain or the ground, the fire brigade or environmental agency should know where it happened. Don't try to wash oil away with water, since that spreads it further.</p>
+<h2>Where the leak can come from</h2>
+<ul>
+<li>Worn seals or gaskets on the engine or transmission.</li>
+<li>A loose oil filter or a damaged drain plug.</li>
+<li>A crack in the oil pan, for example after hitting a kerb or pothole.</li>
+<li>Power-steering or turbocharger hoses.</li>
+</ul>
+<h2>What an oil leak means for transport</h2>
+<p>A vehicle losing oil shouldn't drive on its own wheels, since engine damage is likely and the trail keeps growing. It can be transported on a flatbed if the leak isn't heavy. Tell us how badly it's dripping, whether it's smoking, and whether a warning light is on, so the driver can plan with absorbent material and the right vehicle.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Do I have to report an oil trail?</summary><div>Yes, it's always advisable. The fire brigade or police secure the scene and arrange the clean-up. It also warns other road users.</div></details>
+<details><summary>Can I still drive to a garage with a small oil leak?</summary><div>We advise against it. Even small leaks can quickly get worse. Have the vehicle transported.</div></details>
+<details><summary>Is water under the car always a problem?</summary><div>No. Condensation from the air conditioning is normal. Coloured or sweet-smelling liquid, on the other hand, points more towards coolant.</div></details>
+<details><summary>Can I keep driving with a slight oil leak?</summary><div>Not if the oil level is already low or the red oil-pressure light is on. With a minor drip and a normal level, a short drive to a garage may be possible, but it's best to decide that after checking in with us.</div></details>
+<details><summary>How do I stop the trail from spreading?</summary><div>Secure the vehicle, use absorbent material if you have it, and inform the police or fire brigade if it's a danger to traffic.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-auto-festgefahren | Car Stuck: What Helps and When Recovery Is Needed | Car stuck in mud, snow or sand: don't spin the wheels, traction aids, rocking it free, and when a towing service should handle the recovery. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Car Stuck: What Helps, and When Recovery Is Needed</h1><p class="lead">The wheels are spinning, the car keeps sinking. Giving it more throttle now only makes it worse.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Don't let the wheels spin</h2>
+<p>High revs at the driven wheels make the surface slicker, digs the wheels in, and fills the wheel arches with mud. If the vehicle doesn't move after one or two careful attempts, stop.</p>
+<h2>What you can try yourself</h2>
+<ul class="ticks">
+<li><strong>Straighten the wheels</strong> and pull away gently, with as little throttle as possible.</li>
+<li><strong>Improve traction:</strong> place floor mats, blankets, boards or traction mats under the driven wheels. Coarse sand or grit in the wheel ruts also helps.</li>
+<li><strong>Rock it free:</strong> alternate between forward and reverse gear with small movements until you build enough momentum. Don't force this on an automatic without a selector release, see <a href="en-ratgeber-automatik-abschleppen.html">Towing an automatic car</a>.</li>
+</ul>
+<h2>When to stop trying</h2>
+<ul class="ticks">
+<li>The vehicle is tilted, or keeps sliding further into a bank or ditch</li>
+<li>It's standing in water, see <a href="en-ratgeber-wasserschlag-ueberschwemmung.html">Car stalled in water</a></li>
+<li>There's a burning smell, or a wheel suddenly spins freely, the clutch is slipping, see <a href="en-ratgeber-kupplung-defekt.html">Clutch failure</a></li>
+<li>You're on a road and blocking it</li>
+</ul>
+<h2>Recovery instead of towing</h2>
+<p>If a vehicle is in a ditch, on a bank, or deep in mud, simply loading it isn't enough. It needs recovery, which is more involved than ordinary towing. Tell us how the vehicle is positioned: which wheels have sunk in, whether it's tilted, how far it is from a paved road, and whether the ground can bear a heavy vehicle. According to advice portals, recovery costs more than a standard towing job. Ask about the terms beforehand. What generally applies to recoveries is also covered in <a href="en-abschleppen-bergung-koeln.html">Towing and recovery in Cologne</a>.</p>
+<h2>In winter</h2>
+<p>In snow, a traction mat or grit helps, along with a check of your tyres: winter tyres with the Alpine symbol are required in snow, see <a href="en-ratgeber-winterpanne-schwarzwald.html">Winter breakdown on mountain roads</a>.</p>
+<h2>The ground decides</h2>
+<p>Mud, sand, snow and soggy grass hold a car in different ways. In mud, spinning wheels dig in and let the car sink deeper. On sand, grip fades as the tyres push sand away. In snow, an icy surface quickly forms under the wheel, and on wet grass the ground turns slick. What matters for you: the less you spin the wheels, the better your chances of getting the vehicle moving again without help. In mud or sand, it's usually worth working in a low gear with very little throttle. More basic rules are in the "Don't let the wheels spin" section above.</p>
+<h2>Traction aids from whatever's at hand</h2>
+<p>Many drivers place floor mats, branches, boards, stones, or grit under the driven wheel. What matters is contact with the driven wheel: the front wheels for front-wheel drive, the rear for rear-wheel drive, and possibly all wheels for all-wheel drive. Position the material so the wheel drives up onto it rather than flinging it away. Make sure nobody stands behind the wheel, since material can be thrown out. Floor mats often end up dirty or damaged afterwards; that's the price of self-help.</p>
+<h2>If the car is on a bank or in a ditch</h2>
+<p>If the vehicle is tilted, on a bank, or in a ditch, don't keep trying on your own. It could slide further or end up in a position that only a crane or winch can fix. Switch off the engine, apply the parking brake, and secure the scene. On country roads and tracks: hazard lights on, hi-vis vest, and a warning triangle if it's safe to do so. See also <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+<h2>Where a vehicle may be pulled from</h2>
+<p>During a recovery, you don't pull from the bumper or the axle. Vehicles have designated towing or recovery eyes for this, often under a cover, threaded into the bumper. The eye is usually part of the onboard tool kit. If you don't know where it is, check the handbook. Tell the towing service whether the eye is present and whether access is clear. If not, the driver on site will work out a safe approach. A jerk with a rope at the wrong point can damage the bodywork or suspension.</p>
+<h2>After the recovery</h2>
+<p>Once the car is back on firm ground, briefly check the underbody and front for damage, and have the wheels checked for unusual noises. If mud or soil is packed into a wheel arch, it should be removed so it doesn't interfere with the brakes or steering. If you heard a noise from the drivetrain while pulling out, or the vehicle pulls left or right, don't keep driving; have it checked instead.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I have a stuck car pulled out with a rope?</summary><div>Only with the right equipment and a towing vehicle that won't sink in itself. A tow rope isn't designed for this and can snap. Rules at <a href="en-ratgeber-abschleppseil-oder-abschleppdienst.html">Tow rope or towing service?</a></div></details>
+<details><summary>Is getting stuck covered by partial comprehensive insurance?</summary><div>That depends on your policy and the circumstances. Check your breakdown cover or insurance before you pay.</div></details>
+<details><summary>Which method works for which drivetrain?</summary><div>The traction aid goes under the driven wheels: front for front-wheel drive, rear for rear-wheel drive. On all-wheel drive, a single spinning wheel can be enough to hold the vehicle back.</div></details>
+<details><summary>Should I just give it more throttle?</summary><div>No. More throttle just digs the wheels in deeper and strains the clutch and drivetrain. Better to use little throttle, a high gear, and pull away gently.</div></details>
+<details><summary>Can I have the car pushed out myself?</summary><div>If it's safe to do so, that can help. On a slope, near traffic, or on uncertain ground, don't position anyone behind or in front of the vehicle.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-lenkradsperre-klemmt | Steering-Wheel Lock Stuck: Key Won't Turn | Key won't turn, steering wheel locked: how to release the steering lock, when the battery is to blame, and when you need a garage. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Steering-Wheel Lock Stuck: Key Won't Turn</h1><p class="lead">The car won't start because the key won't move. Often it's not the ignition lock, but the steering-wheel lock.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What the steering lock does</h2>
+<p>The steering-wheel lock secures the car against unauthorised use. With the key removed, a pin locks the steering wheel. If the wheel was turned while parking, or is under tension, for example because a wheel rests against the kerb, the pin can be under pressure. Then the key won't turn.</p>
+<h2>How to release the lock</h2>
+<ol>
+<li><strong>Turn the steering wheel slightly the other way</strong> from how it was turned when you parked.</li>
+<li><strong>Turn the key at the same time.</strong> The pin releases as soon as the pressure is gone.</li>
+<li><strong>Don't force it or jerk it.</strong> Otherwise the key or pin can break, leaving the car worse off.</li>
+<li><strong>If that doesn't work:</strong> gently move the steering wheel back and forth while keeping light pressure on the key, without jerking.</li>
+</ol>
+<h2>On cars with an electronic steering lock</h2>
+<p>Modern vehicles secure the steering wheel electronically. Then a weak or flat battery can be the cause. If the key won't turn or the car doesn't respond to start, try jump-starting, see <a href="en-ratgeber-starthilfe-batterie.html">Jump-starting and a flat battery</a>. With keyless-go, a weak key-fob battery can also be to blame, see <a href="en-ratgeber-ausgesperrt.html">Locked out: key inside the car</a>.</p>
+<h2>If it's still stuck</h2>
+<p>If the lock won't release, there may be mechanical damage to the ignition lock or the steering lock itself. A worn key can also be the cause. Then only a garage can help. The vehicle is taken there on a flatbed, especially since a vehicle with a locked steering wheel can't be towed safely anyway. Further diagnosis in <a href="en-ratgeber-auto-springt-nicht-an.html">Car won't start</a>.</p>
+<h2>Helpful details on the phone</h2>
+<ul class="ticks">
+<li>Whether the steering wheel is locked, or just the key won't turn</li>
+<li>Where the vehicle is (street, car park, kerb)</li>
+<li>Make, model, key type (traditional or keyless-go)</li>
+<li>Manual or automatic</li>
+</ul>
+<h2>What type of lock does your car have?</h2>
+<p>On older and many simple vehicles, a mechanical steering lock is used: remove the key and turn the wheel slightly, and a pin engages the steering column, usually with an audible click. Newer vehicles often have an electric steering-column lock controlled by the control unit. There's no key turning against mechanical resistance any more, just a message in the instrument cluster or a car that doesn't respond to start. If you don't know which type your car has, the handbook's section on the "steering lock" or "starting the engine" will tell you.</p>
+<h2>How to recognise the cause</h2>
+<ul>
+<li><strong>The key won't turn to the ignition position, the steering wheel won't budge:</strong> typical of a strained mechanical lock.</li>
+<li><strong>The key turns, but the starter stays silent:</strong> the cause is more likely the battery, the immobiliser, or the starter motor than the steering lock, see <a href="en-ratgeber-auto-springt-nicht-an.html">Car won't start</a>.</li>
+<li><strong>The steering suddenly feels locked while driving:</strong> that's an emergency unrelated to parking. See <a href="en-ratgeber-servolenkung-ausgefallen.html">Power steering failure</a>.</li>
+</ul>
+<h2>Keyless-go: starting by button</h2>
+<p>On vehicles with a start button, the steering lock releases as soon as the car detects the key inside and you press the button, usually with the brake pedal pressed on an automatic. If the car doesn't detect the key, the key-fob battery may be flat. Many manufacturers provide an emergency start where you hold the key against a specific spot on the steering wheel, the centre console, or directly against the start button. Where exactly is in your model's handbook. Whether your vehicle supports this can't be said in general here.</p>
+<h2>What to avoid</h2>
+<ul>
+<li>No force with a lever, hammer, pliers, or a key extension. A key that snaps off in the lock turns a quick fix into a garage job.</li>
+<li>Don't spray lubricant into the ignition lock on the off-chance. Some products gum things up, and modern ignition locks contain electronics.</li>
+<li>Don't alternate jerkily between the spare key and the original. If the original is worn, the spare often works better, but jerking doesn't help with either.</li>
+</ul>
+<h2>After releasing it: a quick check</h2>
+<p>Once the lock has released, it's worth looking at the key: if the edges are badly worn or the bit is bent, have a new one cut before the key gets stuck in the lock. If the key looks fine but it jams regularly, the ignition lock itself may be worn. That's a garage matter, but not a case for a towing service, as long as the lock releases and the vehicle starts normally.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Why is the steering lock stuck right now?</summary><div>Usually the steering wheel is under tension, because it was turned while parking or a wheel is resting against the kerb.</div></details>
+<details><summary>Can I have the car towed with the steering wheel locked?</summary><div>Most safely on a flatbed. A vehicle with locked steering can't be pulled safely with a rope.</div></details>
+<details><summary>Can I drive off with a stuck steering lock?</summary><div>No. As long as the steering wheel is locked, the vehicle can't be steered. Driving is only possible again once the lock releases and the engine starts normally.</div></details>
+<details><summary>When do I need a towing service?</summary><div>If the lock won't release despite careful movement of the steering wheel, the key is stuck in the lock, or the car won't start even after the lock releases. Then the vehicle is best taken on a flatbed.</div></details>
+<details><summary>Is keyless-go more prone to this?</summary><div>It doesn't lock up more often, but it has different failure points, like a flat key-fob battery or a weak vehicle battery. The lock itself won't release then because the control unit doesn't clear it.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-bremsen-versagen | Brakes Failing: What You Can Do Immediately | Brake pedal goes to the floor or the brakes fail: pump the pedal, engine braking, careful handbrake use, causes, and when the car needs transporting. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Brakes Failing: What You Can Do Immediately</h1><p class="lead">The brake pedal gives way or goes to the floor. Stay calm: there are several ways to bring a car to a stop.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p>This is a brief overview, not a substitute for driver training. If life is in danger, call 112.</p></div>
+<h2>The steps in an emergency</h2>
+<ol>
+<li><strong>Foot off the accelerator, switch on hazard lights.</strong></li>
+<li><strong>Pump the brake pedal rapidly several times.</strong> If there's air in the system, this can briefly rebuild pressure.</li>
+<li><strong>Use engine braking:</strong> shift down through the gears step by step so the engine slows the vehicle. On an automatic, shift to lower drive positions if available.</li>
+<li><strong>Apply the handbrake carefully.</strong> Slowly and under control, so the rear wheels don't lock and the vehicle doesn't spin out.</li>
+<li><strong>Look for an escape route,</strong> such as a runaway lane, an empty car park, or a field, if there's no other option. Avoid endangering anyone if at all possible.</li>
+<li><strong>Call the police if you're overwhelmed.</strong> They can talk you through it on the phone.</li>
+</ol>
+<h2>Why brakes can fail</h2>
+<ul class="ticks">
+<li><strong>Missing brake fluid,</strong> usually from a leaking brake line. The pedal goes to the floor.</li>
+<li><strong>Overheating on long descents:</strong> constant braking can boil the brake fluid. Gas bubbles form that can't be compressed, and the pedal goes soft.</li>
+<li><strong>Brake booster without vacuum,</strong> for example when the engine is off. The pedal becomes hard and needs more force, see <a href="en-ratgeber-motor-geht-aus.html">Engine cutting out while driving</a>.</li>
+</ul>
+<h2>After stopping</h2>
+<p>Don't keep driving. A red brake warning light, a soft pedal, or brake fluid under the car are reasons to have the vehicle transported, see <a href="en-ratgeber-warnleuchten-auto.html">Warning lights in your car</a> and <a href="en-ratgeber-oelverlust-oelspur.html">Oil leak and oil trail</a>. A car with faulty brakes shouldn't be pulled with a rope, since essentially only the towing vehicle brakes in that setup. It's taken to a garage on a flatbed. This applies even more on mountain roads, see <a href="en-ratgeber-winterpanne-schwarzwald.html">Winter breakdown on mountain roads</a>.</p>
+<h2>What to report</h2>
+<ul class="ticks">
+<li>Whether the brakes failed completely or only partially</li>
+<li>Whether brake fluid or another substance is leaking</li>
+<li>Where the vehicle is, and whether it's on an incline or a descent</li>
+<li>Make, model, drivetrain</li>
+</ul>
+<h2>What's behind a pedal that gives way</h2>
+<p>A brake pedal that feels soft, goes to the floor, or sinks slowly usually points to a problem in the hydraulic system: too little brake fluid, a leak, or air in the system. Brake fluid absorbs water over time, which can form vapour bubbles under heavy heat. Braking then weakens even though the pedal travel stays the same. A hard pedal with no effect, for example with the engine switched off, is often related to the brake booster instead: without the engine running, the assistance is missing, and the pedal feels strong.</p>
+<h2>Two brake circuits as backup</h2>
+<p>Modern braking systems are split into two separate circuits. If one fails, the other usually keeps working, with a longer stopping distance and more pedal force needed. That's why complete failure is rare, but weakening brake performance is a very serious warning sign. If the brake warning light in the instrument cluster is on, don't treat that as a minor detail.</p>
+<h2>Downhill: heat is the enemy</h2>
+<p>On long descents, brakes overheat if used continuously. So: shift into a lower gear, use engine braking, and apply the footbrake only in short bursts. Coasting downhill in a high gear while constantly braking risks the brakes losing their grip entirely by the bottom. On mountain and pass roads, the gradient warning signs are a useful reminder.</p>
+<h2>ABS, ESP and the warning lights</h2>
+<p>If ABS or ESP is lit, the brake circuit is usually still fine, but the control systems have failed. The brakes then behave like on older vehicles without ABS, and the wheels can lock under hard braking. The red brake light, often with an exclamation mark, instead points to brake fluid, the handbrake, or a circuit failure. More on the colour logic of warning lights in our guide <a href="en-ratgeber-warnleuchten-auto.html">Warning lights in your car</a>.</p>
+<h2>What matters after stopping</h2>
+<p>Switch on hazard lights, secure the vehicle, and call for help. Don't drive "just a bit further" to reach a garage. A vehicle with damaged brakes can fail completely on the next application, and towing with a rope is dangerous without functioning brakes. Transport on a flatbed is the safe solution. Prevention includes having the brake fluid changed at the manufacturer's interval and having the brake discs and pads checked regularly.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I still drive to a garage if the brakes just feel soft?</summary><div>We advise against it. The brakes can weaken further at any moment. Have the vehicle transported.</div></details>
+<details><summary>Why does the pedal go soft on a long descent?</summary><div>The brake fluid can get hot and form gas bubbles. Use engine braking downhill instead of braking continuously.</div></details>
+<details><summary>Why is the pedal hard with the engine off?</summary><div>The brake booster relies on vacuum from the running engine. Without the engine, that assistance is missing, so the pedal feels hard, though the brakes still work with much more force.</div></details>
+<details><summary>Is a lit ABS light a reason to be towed?</summary><div>Not always. The basic brakes usually keep working, but the control system fails. If it feels unsafe, the pedal is soft, or there's also a red brake light, have the vehicle transported.</div></details>
+<details><summary>How do I avoid overheating downhill?</summary><div>Shift into a lower gear early, use engine braking, and brake only briefly and gently instead of relying on the brakes continuously.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-adblue-leer | AdBlue Empty: Why the Diesel Won't Start | AdBlue tank empty and the engine won't start: warning stages, the start-lock, refilling, and when the vehicle needs transporting to a garage. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>AdBlue Empty: Why the Diesel Won't Start</h1><p class="lead">The fuel tank is still half full, but the engine stays silent. On many modern diesels, that's down to AdBlue.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What AdBlue does</h2>
+<p>Newer diesel vehicles with SCR exhaust treatment inject AdBlue into the exhaust stream to reduce nitrogen oxides. If the AdBlue tank is empty, the vehicle can no longer meet emissions limits. That's why the electronics intervene.</p>
+<h2>The warning stages</h2>
+<p>The exact order varies a bit by manufacturer, but it usually goes like this:</p>
+<ol>
+<li><strong>First warning:</strong> a light or message in the dashboard; the tank still has enough left.</li>
+<li><strong>Second warning:</strong> the tank is nearly empty, the display shows a remaining range.</li>
+<li><strong>Third warning:</strong> the tank is empty, engine power may be reduced.</li>
+<li><strong>Start-lock:</strong> if the engine is switched off at zero kilometres remaining range, it often won't restart, even with diesel still in the tank.</li>
+</ol>
+<div class="note"><p>Don't switch off the engine unnecessarily on an AdBlue warning, for example at the petrol station or in a traffic jam, before you've topped up. Better to drive straight to a petrol station with an AdBlue pump, or buy a canister.</p></div>
+<h2>Topping up: is that enough?</h2>
+<p>Whether topping up clears the start-lock depends on the vehicle. Some models only recognise the new level after some time, others need an additional reset by a garage if the lock was already active. A faulty level sensor can also mean the vehicle doesn't detect the level no matter how much you add. Read the owner's manual: it states how much you may add and how long the system needs to recognise it.</p>
+<h2>When you should call for help</h2>
+<ul class="ticks">
+<li>The engine doesn't start after topping up</li>
+<li>The warning stays even though the tank is full</li>
+<li>You're somewhere you can't top up, for example on the motorway, see <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a></li>
+<li>The engine starts but runs roughly or loses power</li>
+</ul>
+<p>The vehicle is then taken to a garage on a flatbed. What else to check on a diesel that won't start is in <a href="en-ratgeber-auto-springt-nicht-an.html">Car won't start</a>. Important: if you've accidentally put AdBlue in the diesel tank, or diesel in the AdBlue tank, don't start the engine, see <a href="en-ratgeber-falsch-getankt.html">Wrong fuel</a>.</p>
+<h2>Details for the towing service</h2>
+<ul class="ticks">
+<li>Make, model, year, diesel with AdBlue</li>
+<li>Which warning messages appeared and what the remaining range showed</li>
+<li>Whether you topped up, and how much</li>
+<li>Where the vehicle is</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I keep driving without AdBlue?</summary><div>Briefly, yes, but eventually the electronics intervene. At zero remaining range, many vehicles refuse to restart once switched off.</div></details>
+<details><summary>Why won't my car start after topping up?</summary><div>Some vehicles need a little time to recognise the new level, others need a reset at a garage. A faulty sensor can also be the cause.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-notlauf-auto | Car Stuck in Limp Mode: Power Gone, What Now? | Engine in limp mode: what the limp-mode program means, possible causes, whether you can keep driving, and when transport is better. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Car Stuck in Limp Mode: Power Gone, What Now?</h1><p class="lead">The car barely accelerates any more, and the engine light is on. This usually isn't a total failure, but a protective reaction from the engine control unit.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What limp mode is</h2>
+<p>If the control unit detects a fault or implausible sensor readings, it switches to a limp-mode program. It throttles power, engine speed, or boost pressure to prevent greater engine damage. The vehicle stays driveable, but with restrictions.</p>
+<h2>How to recognise limp mode</h2>
+<ul class="ticks">
+<li>Noticeable loss of power, the vehicle barely accelerates</li>
+<li>Engine speed is limited, often around 3,000 rpm</li>
+<li>Sluggish response to the accelerator</li>
+<li>The amber engine warning light, see <a href="en-ratgeber-warnleuchten-auto.html">Warning lights in your car</a></li>
+</ul>
+<h2>Possible causes</h2>
+<p>Common causes are faulty sensors, fuel-supply problems, a failed turbocharger, or faults in the exhaust system. Typical triggers include boost pressure or the turbo, EGR and the particulate filter, the air-mass sensor, the throttle body, or rail pressure. On diesels, empty AdBlue can also be the reason, see <a href="en-ratgeber-adblue-leer.html">AdBlue empty</a>.</p>
+<h2>What to do</h2>
+<ol>
+<li><strong>Ease off and stop safely.</strong> Switch on hazard lights, coast to a safe spot.</li>
+<li><strong>Switch off the engine and restart it.</strong> A restart often temporarily clears limp mode. But the cause stays in the fault memory.</li>
+<li><strong>Have the fault memory read out</strong> as soon as possible. Without a diagnosis, the cause can't be reliably identified.</li>
+<li><strong>Don't ignore it.</strong> Limp mode protects the engine, but the underlying cause remains.</li>
+</ol>
+<h2>Keep driving, or get towed?</h2>
+<p>In limp mode, the vehicle can usually still reach the nearest garage. But that only makes sense on a calm drive along a safe route. On the motorway, on inclines, and in heavy traffic, a vehicle with little power becomes a hazard itself. In those cases, transport is the better choice. Also have the vehicle transported if:</p>
+<ul class="ticks">
+<li>a red warning light is on, for example oil pressure, coolant, or the brakes</li>
+<li>there's smoke, a burning smell, or unusual noises, see <a href="en-ratgeber-motor-ueberhitzt.html">Engine overheating</a></li>
+<li>the vehicle keeps stalling, see <a href="en-ratgeber-motor-geht-aus.html">Engine cutting out while driving</a></li>
+<li>you feel unsafe</li>
+</ul>
+<h2>Details that help with diagnosis</h2>
+<ul class="ticks">
+<li>Make, model, drivetrain (petrol, diesel, hybrid)</li>
+<li>Which lights are on and whether there's a message on the display</li>
+<li>Whether a restart helped</li>
+<li>Where you are, and on the motorway the direction and exit</li>
+</ul>
+<h2>Petrol, diesel, turbo: different triggers</h2>
+<p>Limp mode protects the engine and exhaust system by having the control unit limit power and revs. On turbocharged engines, a fault in the boost-pressure control or a leaking intercooler hose can trigger it. Diesel vehicles add faults in the exhaust system, such as the particulate filter or EGR. On petrol engines, ignition coils and sensors are common candidates. Only reading the fault memory reveals the actual cause in your case.</p>
+<h2>Engine off, engine on: does that help?</h2>
+<p>Limp mode often disappears for a while after switching off and restarting, because the control unit resets the fault message. That's not a repair, just a postponement. If limp mode returns the next time you accelerate, the cause is still there. Don't assume the car is "back to normal" just because the engine warning light stays on.</p>
+<h2>Reading the fault memory</h2>
+<p>The cause is stored in the fault memory. Garages read it via the OBD port. Simple adapters with a smartphone app can also show codes, but they don't replace a proper diagnosis. Note for the garage: when limp mode occurred, under what load, with a cold or warm engine, and what message appeared in the instrument cluster.</p>
+<h2>Drive on briefly, or get towed?</h2>
+<ul>
+<li><strong>Continuing to drive</strong> can be reasonable for a short distance with mild power reduction and no red warning light, to reach a safe spot.</li>
+<li><strong>Stop and have it transported</strong> if there's a red warning light, engine jerking, a smell of fuel or burnt oil, smoke, or unusual noises.</li>
+<li>On motorways with heavily limited power, continuing to drive is dangerous, since you're significantly slower than surrounding traffic. Use the next exit or the hard shoulder and follow the steps in <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</li>
+</ul>
+<h2>After limp mode</h2>
+<p>Have the vehicle checked soon. Ignored faults, such as a faulty boost-pressure valve or a leaking air hose, can lead to expensive follow-on damage to the turbocharger or catalytic converter. That's especially true if the engine light flashes amber, or the engine runs unevenly at idle.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Is limp mode dangerous?</summary><div>It protects the engine. It becomes dangerous if the vehicle has too little power in heavy traffic or on a hill.</div></details>
+<details><summary>Does limp mode go away after a restart?</summary><div>Often, for a short time. The cause stays stored and limp mode can return. Have the vehicle checked.</div></details>
+<details><summary>Is limp mode the same as the engine warning light?</summary><div>No. The engine warning light indicates a fault; limp mode is the control unit's protective reaction with reduced power. Both can occur together.</div></details>
+<details><summary>Can I reset limp mode myself?</summary><div>A restart or disconnecting the battery can clear the message, but not fix the cause. The fault usually comes back.</div></details>
+<details><summary>How does limp mode affect continuing to drive?</summary><div>Power is reduced, usually with a limited engine speed too. On country roads and motorways, that's risky, since you're slower than surrounding traffic.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-servolenkung-ausgefallen | Power Steering Failure: Steering Heavy, What Now? | Steering wheel suddenly heavy, or the power-steering warning light is on: causes for hydraulic and electric power steering, stopping safely, transport. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Power Steering Failure: Steering Suddenly Heavy</h1><p class="lead">The steering wheel only turns with a lot of force. The car can still be steered, but it's hard to control. What matters now is stopping safely.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>How to recognise the failure</h2>
+<ul class="ticks">
+<li>The steering wheel is noticeably stiffer, especially when parking and at low speed</li>
+<li>The warning light with a steering wheel and an exclamation mark comes on in amber, orange or red, see <a href="en-ratgeber-warnleuchten-auto.html">Warning lights in your car</a></li>
+<li>Creaking noises when turning, or steering that gives way too much or locks up</li>
+<li>On hydraulic power steering: oil leaking from the pump or lines</li>
+</ul>
+<h2>Do this immediately</h2>
+<ol>
+<li><strong>Reduce your speed.</strong> A car without steering assistance is hard to control at high speed.</li>
+<li><strong>Switch on hazard lights</strong> and steer firmly with both hands.</li>
+<li><strong>Stop somewhere safe,</strong> for example a car park, a lay-by, or the next exit. On the motorway, see <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</li>
+<li><strong>Don't keep driving.</strong> Even if you can still steer: a vehicle with failed power steering needs a lot of force and can become dangerous.</li>
+</ol>
+<h2>Possible causes</h2>
+<ul class="ticks">
+<li><strong>Hydraulic power steering:</strong> the pump isn't working properly, or delivers too little fluid. A torn drive belt or a leaking hose can also be the reason.</li>
+<li><strong>Electric power steering:</strong> often faulty wiring, fuses, or the control unit.</li>
+<li><strong>Too little fluid:</strong> on hydraulic systems, a leak can gradually weaken the steering assistance.</li>
+</ul>
+<p>A flat or weak battery can also trigger fault messages on electric systems. If the engine and electrics generally have problems, see <a href="en-ratgeber-starthilfe-batterie.html">Jump-starting and a flat battery</a>.</p>
+<h2>Engine off, power steering off?</h2>
+<p>With hydraulic power steering, the assistance fails as soon as the engine stops, since the pump is driven by the engine. The car stays steerable, but heavy, see <a href="en-ratgeber-motor-geht-aus.html">Engine cutting out while driving</a>.</p>
+<h2>Why transport is better</h2>
+<p>A vehicle with failed power steering is hard to steer safely with a rope. On a towing vehicle's flatbed, that problem disappears. How loading works is covered in <a href="en-ratgeber-abschleppseil-oder-abschleppdienst.html">Tow rope or towing service?</a></p>
+<h2>Details about the vehicle and situation</h2>
+<ul class="ticks">
+<li>Which light is on and in what colour</li>
+<li>Whether the steering is heavy, locked, or just unusual</li>
+<li>Whether oil is leaking</li>
+<li>Make, model, year</li>
+<li>Where you are</li>
+</ul>
+<h2>Hydraulic or electric?</h2>
+<p>Most older vehicles have hydraulic power steering with a pump driven by the engine via a belt. If the belt fails or hydraulic fluid is missing, the steering becomes heavy. Newer vehicles often use electric power steering, assisted by an electric motor. There, a fault in the control unit, the power supply, or a sensor triggers the failure. The warning light in the instrument cluster often shows a steering-wheel symbol with an exclamation mark. Which system your vehicle uses is in the handbook.</p>
+<h2>The steering still works, just heavier</h2>
+<p>Important to know: if power steering fails, the mechanical connection between the steering wheel and the wheels usually remains intact. You can keep steering, but it needs noticeably more force, especially at a standstill and low speed. Hold the wheel firmly with both hands and plan wider turns. A sudden jerk on the wheel can otherwise cause an uncontrolled swerve.</p>
+<h2>Typical triggers</h2>
+<ul>
+<li><strong>A torn or slipped serpentine belt:</strong> the pump, and often the alternator too, fail, sometimes with the battery light also coming on.</li>
+<li><strong>Too little hydraulic fluid:</strong> a leak or loss, often with pump noise.</li>
+<li><strong>An electrical fault:</strong> the control unit, a sensor, or voltage, often after battery problems.</li>
+<li><strong>Overheating of electric steering</strong> from very frequent manoeuvring, which temporarily switches off the assistance.</li>
+</ul>
+<h2>Manoeuvring and parking without assistance</h2>
+<p>Steering without assistance is hardest at a standstill. If you need to move the vehicle to the side, roll gently while steering rather than turning the wheel at a standstill. That spares the steering and your strength. If it fails in a tight parking spot or garage, it's better to have the car transported than to manoeuvre it by muscle.</p>
+<h2>After the failure</h2>
+<p>A failure rarely happens just once. Even if the steering works normally again after a restart, have it checked before using the vehicle further. An already-torn belt rarely "heals" on its own. A link to a weak battery is explained in our guide <a href="en-ratgeber-starthilfe-batterie.html">Jump-starting and a flat battery</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I still drive without power steering?</summary><div>Technically yes, but only with a lot of effort, and the vehicle is hard to control at higher speed. Stop and have it transported.</div></details>
+<details><summary>Is the warning light always a failure?</summary><div>Not always. It can also point to a fault that hasn't fully disabled the steering yet. Have it checked regardless.</div></details>
+<details><summary>Can I keep driving with failed power steering?</summary><div>The steering keeps working mechanically, but heavily. Getting to a safe spot is possible; continuing over a longer distance is risky. Have the vehicle transported.</div></details>
+<details><summary>Why does the steering work again after a restart?</summary><div>On electric steering, a fault can be reset briefly. The cause usually persists and recurs.</div></details>
+<details><summary>Is a torn serpentine belt dangerous?</summary><div>It often takes down the alternator and water pump too. That risks a flat battery and overheating. So don't keep driving.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-panne-im-tunnel | Breakdown in a Tunnel: What to Do, Step by Step | Breakdown in a tunnel: hazard lights, emergency bay, engine off, emergency point, hi-vis vest. With examples from Cologne, Karlsruhe and Baden-Baden. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Breakdown in a Tunnel: What to Do?</h1><p class="lead">Different rules apply in a tunnel than on the open road. The reason is simple: there's no way out to the right, and smoke, exhaust fumes and noise all spread inside a tube.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>The steps</h2>
+<ol>
+<li><strong>Switch on hazard lights immediately.</strong> This warns following traffic as early as possible and helps avoid rear-end collisions.</li>
+<li><strong>Stop the vehicle:</strong> in an emergency bay, on the hard shoulder, or as far to the right as possible.</li>
+<li><strong>Switch off the engine.</strong></li>
+<li><strong>Put on a hi-vis vest</strong> and check for traffic before getting out.</li>
+<li><strong>Raise the alarm via the emergency point.</strong> Emergency points are spaced every 150 metres in a tunnel. Use the emergency phone rather than your mobile: that way tunnel staff can locate your exact position.</li>
+<li><strong>If anyone is injured or there's a fire:</strong> call 112, see below.</li>
+</ol>
+<div class="note"><p>In heavy smoke or fire, leave the tunnel immediately via the escape routes. Fire and smoke can be fatal.</p></div>
+<h2>Why the emergency point beats a mobile phone</h2>
+<p>From an emergency point, the control centre knows exactly where you are in the tunnel. On a mobile call, you have to describe the spot yourself, and there are hardly any landmarks inside a tunnel. Note where the emergency exits and emergency bays are as you enter. That's why safety equipment in tunnels is installed at regular intervals.</p>
+<h2>Preparing before you enter</h2>
+<ul class="ticks">
+<li>Switch on dipped headlights.</li>
+<li>Turn on the radio and listen for traffic announcements. Disruptions trigger broadcasts.</li>
+<li>Keep a large distance from the vehicle in front.</li>
+<li>Note the emergency exits and emergency phones as you pass them.</li>
+</ul>
+<h2>Tunnels in our regions</h2>
+<ul class="ticks">
+<li><strong>Cologne:</strong> the A1 runs near Köln-Lövenich for about 1.5 kilometres in a noise-protection enclosure, see <a href="en-pannenhilfe-a1-koeln.html">Breakdown on the A1 near Cologne</a>. There are also tunnels in the city centre, for example the riverside tunnel, see <a href="en-koeln-innenstadt.html">Towing Service Cologne City Centre</a>.</li>
+<li><strong>Karlsruhe:</strong> since October 2022, the Karoline-Luise-Tunnel with two tubes runs beneath the Kriegsstraße, see <a href="en-abschleppdienst-karlsruhe.html">Towing Service Karlsruhe</a>.</li>
+<li><strong>Baden-Baden:</strong> the Michaelstunnel on the B500 is about 2.5 kilometres long, with a single tube and two-way traffic, see <a href="en-abschleppdienst-baden-baden.html">Towing Service Baden-Baden</a>.</li>
+</ul>
+<h2>If you're stuck in a traffic jam inside a tunnel</h2>
+<p>Automobile clubs recommend keeping a large distance in a tunnel and switching on hazard lights in a traffic jam. Listen to traffic radio and follow instructions from the radio and tunnel displays. During a longer stop, it's common to switch off the engine to reduce exhaust fumes. For a breakdown, the same rule still applies: a stranded vehicle in an emergency bay is better than one in a traffic lane, and if you can't move under your own power, the emergency point is your first point of contact, then us.</p>
+<h2>What to tell us</h2>
+<p>If the vehicle needs to be taken out of the tunnel, tell us the tunnel's name, your direction of travel, and whether you're in an emergency bay, at the edge, or in the carriageway. It also matters whether the police or the tunnel control centre already know. If a contracted company is called on the motorway, you may state your preference, but that's not a guarantee. General motorway rules are in <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Should I stay in the car in a tunnel, or get out?</summary><div>Stop the vehicle and walk to the nearest emergency point, if it's safe to do so. In smoke or fire, leave the tunnel via the escape routes.</div></details>
+<details><summary>How far is the nearest emergency point?</summary><div>Tunnels have an emergency point every 150 metres.</div></details>
+<details><summary>Why not just call on my mobile?</summary><div>Via the emergency point, tunnel staff can locate your exact position. On a mobile call, you have to describe the location yourself.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-umweltzone-koeln | Cologne's Low-Emission Zone: What Applies When Towing? | Cologne's low-emission zone: the green sticker since 2014, a €100 fine, exceptions, and what that means for stranded vehicles. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides · Cologne</p><h1>Cologne's Low-Emission Zone: What Applies to Stranded Vehicles?</h1><p class="lead">Your car has broken down in Cologne, and you're wondering whether the low-emission zone matters for towing. Here's what the city of Cologne says about the zone, and what we don't reliably know.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p>This is a general overview. The city of Cologne gives binding information on which streets belong to the zone and who qualifies for an exception.</p></div>
+<h2>The basic rule</h2>
+<p>Within Cologne's designated low-emission zone, only vehicles with a green environmental sticker may drive. This has applied since 1 July 2014. Driving in the zone without a valid sticker, certificate, or exemption is an administrative offence carrying a €100 fine. The zone was expanded in 2019; which streets currently belong to it is stated by the city of Cologne.</p>
+<h2>Which vehicles don't need a sticker</h2>
+<p>Lawmakers have set exceptions for certain vehicles. They may drive in the zone even without a sticker, certificate, or individual written exemption. According to the city, these include, for example, ambulances and vehicles with special rights. Beyond that, individual exemptions can be applied for from the city on a case-by-case basis.</p>
+<h2>What we don't know</h2>
+<p>Whether towing and roadside-assistance vehicles are generally exempt from the sticker requirement in Cologne is something we haven't been able to reliably confirm. So we won't claim it unprompted, and we won't state it as fact. If this matters for your situation, ask the city of Cologne (the regulatory office or the environment and consumer protection office). If your vehicle needs to be taken out of the low-emission zone and you don't have a green sticker, tell us on the phone.</p>
+<h2>What this means for your vehicle</h2>
+<ul class="ticks">
+<li><strong>Vehicle with a green sticker:</strong> you drive as normal. The low-emission zone doesn't play a special role for you during transport.</li>
+<li><strong>Vehicle without a sticker, or with a different colour:</strong> you may not drive into the low-emission zone. If it's broken down inside the zone, tell us so we can work out together how to get it out.</li>
+<li><strong>After the repair:</strong> if your car needs to drive back through the city itself, it must meet the zone's requirements.</li>
+<li><strong>Foreign licence plate:</strong> ask the city how the rules apply to your vehicle.</li>
+</ul>
+<h2>What the green sticker is</h2>
+<p>The green particulate sticker is issued to vehicles with low emissions. How it's issued and which vehicles qualify is explained on the city of Cologne's pages about the particulate sticker. The sticker is displayed on the windscreen and must be permanently affixed, otherwise the vehicle counts as unstickered in the zone. If you only discover after a breakdown that your vehicle doesn't have a green sticker, it's worth checking your documents and calling the vehicle registration or environment office.</p>
+<h2>What to do if you're unsure</h2>
+<ol>
+<li>Check your registration document and sticker.</li>
+<li>Ask the city of Cologne whether your street is within the low-emission zone.</li>
+<li>Tell us where your vehicle is and which sticker it has.</li>
+<li>Have the vehicle transported on a flatbed rather than driving it out of the zone yourself.</li>
+</ol>
+<h2>Where it matters in Cologne</h2>
+<p>The low-emission zone covers large parts of the city. For the districts and Rhine bridges, see the overview at <a href="en-abschleppdienst-koeln-stadtteile.html">Cologne: Districts &amp; Rhine Bridges</a>, and specifically for the city centre, <a href="en-koeln-innenstadt.html">Towing Service Cologne City Centre</a>. Different rules apply on the motorways around Cologne, see <a href="en-pannenhilfe-koelner-autobahnring.html">Cologne motorway ring</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Since when has the green sticker applied in Cologne?</summary><div>Since 1 July 2014.</div></details>
+<details><summary>How much is the fine?</summary><div>€100, if you drive in the low-emission zone without a valid sticker or exemption.</div></details>
+<details><summary>Are towing vehicles exempt?</summary><div>We haven't been able to reliably confirm this. Ask the city of Cologne if you need to know for certain.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-abschleppen-koeln-kosten | Towing in Cologne: What the Cost Depends On | Towing in Cologne: which factors influence the cost, from the side of the Rhine to underground garages and night-time callouts. No specific prices. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides · Cologne</p><h1>Towing in Cologne: What Does the Cost Depend On?</h1><p class="lead">A single price for every case would be misleading. Here's what determines the effort involved in Cologne, and what to ask before you commit.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p>We deliberately don't quote prices on this page. We discuss what a callout costs with you personally, once we know the situation.</p></div>
+<h2>The factors at a glance</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Factor</th><th>Why it changes the effort</th></tr></thead><tbody>
+<tr><td>Location and destination</td><td>The distance between your location, the garage, and the vehicle determines time and mileage.</td></tr>
+<tr><td>Side of the Rhine</td><td>Only a few bridges connect the left and right banks, which can lengthen the route.</td></tr>
+<tr><td>Motorway or city</td><td>Different safety requirements apply on the ring road, and there can be traffic jams.</td></tr>
+<tr><td>Time of day</td><td>Surcharges are common at night, on weekends, and on public holidays.</td></tr>
+<tr><td>Vehicle type</td><td>Cars, vans, motorcycles or electric cars each need different equipment.</td></tr>
+<tr><td>Condition</td><td>A rolling vehicle is easier to load than one that's locked up or an accident wreck.</td></tr>
+<tr><td>Location</td><td>An underground garage, a narrow street, or a building site needs the right vehicle and more time.</td></tr>
+</tbody></table></div>
+<h2>What's special about Cologne</h2>
+<p>Cologne lies on both banks of the Rhine, and the ring formed by the A1, A3 and A4 is among the most heavily used motorway connections in the country. A callout can therefore take longer than the distance suggests. If your vehicle is in an underground garage or car park, the clearance height decides which vehicle can come, see <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Underground garage and car park</a>. For describing your location, the district pages help, for example <a href="en-koeln-ehrenfeld.html">Cologne-Ehrenfeld</a> or <a href="en-koeln-porz.html">Cologne-Porz</a>.</p>
+<h2>Questions to ask before you commit</h2>
+<ol>
+<li>Is this a fixed price or an estimate?</li>
+<li>Does it include the callout, loading, and all mileage?</li>
+<li>Is there a surcharge for nights, weekends or public holidays?</li>
+<li>Is VAT included?</li>
+<li>How can I pay?</li>
+<li>Exactly where will the vehicle be taken?</li>
+</ol>
+<p>Get the answers in writing where possible, for example over WhatsApp.</p>
+<h2>Time is its own factor</h2>
+<p>In Cologne, a callout on the motorway ring can take longer than the distance suggests because of traffic. That affects the cost, since waiting time and driving time are both part of what you pay for. The same applies to callouts in the city centre during roadworks or closures. So ask whether waiting time is included in the price, and tell us if your situation is urgent: sometimes the choice of Rhine bridge decides the travel time.</p>
+<h2>How it works with us</h2>
+<ol>
+<li>You call or message us on WhatsApp and send your location.</li>
+<li>We clarify the vehicle, its condition, the destination and the time.</li>
+<li>We discuss the cost with you personally, before anyone drives out.</li>
+<li>The partner on the ground carries out the job; we stay your point of contact.</li>
+</ol>
+<h2>When someone else pays</h2>
+<p>After an accident that wasn't your fault, the other driver's liability insurance usually covers the towing costs, see <a href="en-ratgeber-unfall-abschleppkosten.html">Towing costs after an accident</a>. Breakdown cover or club membership can also cover the help. Check your documents before you pay. General reference prices for towing services in Germany are in our <a href="en-ratgeber-abschleppdienst-kosten.html">general cost guide</a>.</p>
+<h2>Who pays, who drives?</h2>
+<p>Faster is based in Antwerp, Belgium. In and around Cologne, we work with partners who carry out the job on the ground. We coordinate the help and discuss the cost with you before anything starts.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Why don't you quote prices here?</summary><div>The cost depends on too many factors. We discuss your specific case with you personally.</div></details>
+<details><summary>Is towing more expensive at night?</summary><div>Often, yes. Ask for the final price including all surcharges.</div></details>
+<details><summary>Does crossing the Rhine cost more?</summary><div>It can lengthen the route. Tell us your location and destination, and we'll work it out.</div></details>
+</div></section>
+@@CTA@@
