@@ -1,7 +1,7 @@
 use strict; use warnings; use FindBin qw($Bin);
 binmode(STDOUT,':raw');
 my $OUT = "$Bin/..";
-my $WA  = 'https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug%20in%20K%C3%B6ln.';
+my $WA  = 'https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.';
 
 my $header = <<'EOT';
 <header class="site-header"><div class="wrap nav">
@@ -12,11 +12,11 @@ my $header = <<'EOT';
 EOT
 my $footer = <<'EOT';
 <footer class="site-footer"><div class="wrap foot-grid">
-  <div><strong>Faster Abschleppdienst</strong><p>Abschleppdienst und Pannenhilfe in Köln sowie zwischen Karlsruhe und Offenburg. Persönlich und rund um die Uhr erreichbar.</p></div>
+  <div><strong>Faster Abschleppdienst</strong><p>Abschleppdienst und Pannenhilfe in ganz Deutschland, mit Schwerpunkt Köln und Karlsruhe bis Offenburg. Persönlich und rund um die Uhr erreichbar.</p></div>
   <div><strong>Kontakt</strong><p><a href="tel:+4917641956993">+49 176 41956993</a><br><a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a><br>Sitz: De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p></div>
   <div><strong>Köln</strong><p><a href="index.html">Abschleppdienst Köln</a><br><a href="pannenhilfe-koeln.html">Pannenhilfe Köln</a><br><a href="abschleppen-bergung-koeln.html">Abschleppen &amp; Bergung Köln</a><br><a href="abschleppdienst-koeln-stadtteile.html">Stadtbezirke und Rheinbrücken</a><br><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a><br><a href="pannenhilfe-a3-koeln.html">Panne auf der A3</a><br><a href="pannenhilfe-a4-koeln.html">Panne auf der A4</a><br><a href="pannenhilfe-a1-koeln.html">Panne auf der A1</a></p></div>
   <div><strong>Karlsruhe bis Offenburg</strong><p><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden</a><br><a href="abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="abschleppdienst-a5.html">Panne auf der A5</a></p></div>
-  <div><strong>Ratgeber &amp; Rechtliches</strong><p><a href="ratgeber.html">Alle Ratgeber</a><br><a href="kontakt.html">Kontakt</a><br><a href="impressum.html">Impressum</a><br><a href="datenschutz.html">Datenschutz</a></p></div>
+  <div><strong>Ratgeber &amp; Rechtliches</strong><p><a href="staedte.html">Alle Städte</a><br><a href="bundeslaender.html">Bundesländer</a><br><a href="autobahnen.html">Autobahnen</a><br><a href="ratgeber.html">Alle Ratgeber</a><br><a href="kontakt.html">Kontakt</a><br><a href="impressum.html">Impressum</a><br><a href="datenschutz.html">Datenschutz</a></p></div>
 </div><div class="wrap foot-bottom">© 2026 Faster Abschleppdienst</div></footer>
 EOT
 my $ld = <<'EOT';
@@ -70,7 +70,7 @@ sub schema_for {
 # ---- SEO layer: canonical, Open Graph, breadcrumbs, related links, varied CTAs, sitemap ----
 # BASE must be changed to the real domain before launch (canonical, og:url, sitemap use it).
 my $BASE = 'https://abschleppdienst-faster.de/';
-my $TODAY = '2026-09-26';
+my $TODAY = sprintf('%04d-%02d-%02d', (localtime)[5]+1900, (localtime)[4]+1, (localtime)[3]);
 my %CRUMB_PARENT = (
   'pannenhilfe-koeln'=>['index','Pannenhilfe Köln'], 'abschleppen-bergung-koeln'=>['index','Abschleppen &amp; Bergung Köln'],
   'pannenhilfe-koelner-autobahnring'=>['index','Kölner Autobahnring'], 'pannenhilfe-a3-koeln'=>['pannenhilfe-koelner-autobahnring','Panne auf der A3'], 'pannenhilfe-a4-koeln'=>['pannenhilfe-koelner-autobahnring','Panne auf der A4'], 'pannenhilfe-a1-koeln'=>['pannenhilfe-koelner-autobahnring','Panne auf der A1'], 'abschleppdienst-koeln-stadtteile'=>['index','Köln: Stadtbezirke und Rheinbrücken'],
@@ -183,6 +183,91 @@ my (@GEO_CITY,@GEO_AB);
     '<section class="section"><div class="wrap narrow copy"><h2>Autobahnen und Abschnitte</h2>'."\n".$tbl->(\@abr,'Autobahn','Seite')."\n".
     '<p>Allgemeine Schritte bei einer Panne, von Warnblinker bis Notrufsäule, finden Sie im <a href="ratgeber-panne-autobahn.html">Ratgeber zur Panne auf der Autobahn</a>. Die Einsätze übernehmen Partner vor Ort, Faster (Antwerpen, Belgien) koordiniert die Hilfe.</p>'."\n".'</div></section>'."\n".'@@CTA@@'."\n" };
   push @order,'autobahnen' unless grep { $_ eq 'autobahnen' } @order;
+}
+# ---- Layer 2: Bundesland hubs (/bundeslaender/), neighbour + services blocks on city pages, /staedte/ index with search ----
+{
+  my $blslug = sub { my $s = lc shift; $s =~ s/\xc3\xa4/ae/g; $s =~ s/\xc3\xb6/oe/g; $s =~ s/\xc3\xbc/ue/g; $s =~ s/\xc3\x9f/ss/g; $s =~ s/[^a-z0-9]+/-/g; $s =~ s/^-|-$//g; $s };
+  my $esc = sub { my $s = shift; $s =~ s/&(?!amp;)/&amp;/g; $s };
+  my %BYST; push @{$BYST{$_->[2]}}, $_ for @GEO_CITY;
+  my %LABEL = map { $_->[0] => $_->[1] } @GEO_CITY;
+  my %STATE = map { $_->[0] => $_->[2] } @GEO_CITY;
+  my %INTRO;
+  if (open(my $sf,'<:raw',"$Bin/content/bundeslaender.txt")) { my $k; while (my $l=<$sf>) { if ($l =~ /^=== (.+?) ===\s*$/) { $k=$1; next } $INTRO{$k} .= $l if defined $k } close $sf }
+  my $wabtn = '<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p>';
+  # Bundesland hubs
+  my @states = sort keys %BYST;
+  for my $name (@states) {
+    my $sl = $blslug->($name); my $slug = "bl-$sl"; $PATH{$slug} = "bundeslaender/$sl"; $CRUMB_PARENT{$slug} = ['home', $esc->($name)];
+    my $n = $esc->($name); my @c = sort { $a->[1] cmp $b->[1] } @{$BYST{$name}};
+    my $links = join(', ', map { qq{<a href="$_->[0].html">$_->[1]</a>} } @c);
+    my $intro = $INTRO{$name} // '';
+    my $cnt = scalar(@c);
+    $P{$slug} = { title => "Abschleppdienst in $n: Städte, Autobahnen | Faster Abschleppdienst",
+      desc => "Pannenhilfe und Abschleppen in $n: Städte mit eigenen Seiten, wichtige Autobahnen und Hinweise, wie Sie Ihren Standort nennen.", flag => 'hub',
+      body => qq{<!--AREAS: $n -->\n<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bundesland</p><h1>Abschleppdienst in $n</h1><p class="lead">Pannenhilfe und Abschleppen in $n: Zu den Städten unten gibt es eigene Seiten mit Stadtteilen, Straßen und Hinweisen für Ihren Standort. Rufen Sie an oder schreiben Sie per WhatsApp.</p>$wabtn</div></section>\n<section class="section"><div class="wrap narrow copy">\n$intro<h2>Städte in $n mit eigener Seite</h2>\n<p>$links</p>\n<p>Insgesamt sind es derzeit $cnt Seiten in $n. Weitere Städte in ganz Deutschland finden Sie unter <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>, alle Bundesländer unter <a href="bundeslaender.html">Bundesländer</a>, die Autobahnen unter <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>.</p>\n<h2>So arbeiten wir in $n</h2>\n<p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze in $n übernimmt ein Partner vor Ort, den wir für Sie koordinieren. Sie erreichen uns rund um die Uhr, wir bleiben Ihr Ansprechpartner am Telefon und nennen Ihnen den Preis, bevor jemand losfährt.</p>\n</div></section>\n<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu $n</h2>\n<details><summary>Für welche Städte in $n gibt es eigene Seiten?</summary><div>Aktuell für $cnt Orte, sie stehen oben in der Liste. Auch für alle anderen Orte in $n können Sie uns anrufen: Wir klären dann, welcher Partner in Frage kommt.</div></details>\n<details><summary>Was kostet Abschleppen in $n?</summary><div>Einen festen Preis nennen wir nicht, weil er von Fahrzeug, Uhrzeit, Strecke und Aufwand abhängt. Am Telefon nennen wir Ihnen den Preis, bevor jemand losfährt.</div></details>\n<details><summary>Was tue ich zuerst, wenn ich auf der Autobahn in $n liegen bleibe?</summary><div>Warnblinker einschalten, Warnweste anziehen, alle aussteigen und hinter die Leitplanke gehen, Warndreieck aufstellen, dann uns anrufen. Nennen Sie Autobahn, Fahrtrichtung und Kilometer oder Ausfahrt.</div></details>\n</div></section>\n\@\@CTA\@\@\n} };
+    push @order, $slug unless grep { $_ eq $slug } @order;
+  }
+  # Bundeslaender index
+  $PATH{'bundeslaender'} = 'bundeslaender'; $CRUMB_PARENT{'bundeslaender'} = ['home','Bundesländer'];
+  { my $rows = join('', map { my $nm=$_; my $sl=$blslug->($nm); my $c=scalar(@{$BYST{$nm}}); '<li><a href="bl-'.$sl.'.html">'.$esc->($nm)."</a> ($c)</li>\n" } @states);
+    $P{'bundeslaender'} = { title => 'Abschleppdienst nach Bundesland | Faster Abschleppdienst', desc => 'Abschleppdienst und Pannenhilfe in allen Bundesländern: Übersicht mit Städten, Autobahnen und Hinweisen für Ihren Standort.', flag => 'hub',
+      body => qq{<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Deutschlandweit</p><h1>Abschleppdienst nach Bundesland</h1><p class="lead">Wählen Sie Ihr Bundesland. Dort finden Sie die Städte mit eigenen Seiten und die wichtigsten Autobahnen.</p></div></section>\n<section class="section"><div class="wrap narrow copy"><ul class="citylist" style="columns:2">\n$rows</ul>\n<p>Alle Städte alphabetisch nach Bundesland: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Die Autobahnen: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>.</p></div></section>\n\@\@CTA\@\@\n} };
+    push @order, 'bundeslaender'; }
+  # /staedte/ index grouped by Bundesland with search
+  { my $sec = join('', map { my $nm=$_; my $sl=$blslug->($nm); '<div class="cityblock"><h2><a href="bl-'.$sl.'.html">'.$esc->($nm).'</a></h2><ul class="citylist">'.join('', map { qq{<li><a href="$_->[0].html">$_->[1]</a></li>} } sort { $a->[1] cmp $b->[1] } @{$BYST{$nm}})."</ul></div>\n" } @states);
+    my $js = q{<script>(function(){var q=document.getElementById('cityq');if(!q){return;}var items=document.querySelectorAll('.citylist li');var blocks=document.querySelectorAll('.cityblock');q.addEventListener('input',function(){var v=q.value.trim().toLowerCase();for(var i=0;i<items.length;i++){items[i].style.display=(!v||items[i].textContent.toLowerCase().indexOf(v)>-1)?'':'none';}for(var j=0;j<blocks.length;j++){var lis=blocks[j].querySelectorAll('li');var any=false;for(var k=0;k<lis.length;k++){if(lis[k].style.display!=='none'){any=true;}}blocks[j].style.display=any?'':'none';}});})();</script>};
+    $P{'staedte'}{body} = qq{<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Deutschlandweit</p><h1>Abschleppdienst in Ihrer Stadt</h1><p class="lead">Zu jeder Stadt in dieser Übersicht gibt es eine eigene Seite mit Stadtteilen, Autobahnen und Hinweisen, wie Sie Ihren Standort beschreiben. Rufen Sie an oder schreiben Sie per WhatsApp: wir organisieren die Hilfe.</p></div></section>\n<section class="section"><div class="wrap narrow copy"><p><label for="cityq"><strong>Stadt suchen</strong></label><br><input class="citysearch" id="cityq" type="search" placeholder="Stadt eingeben, zum Beispiel Kassel" autocomplete="off"></p>\n$sec<h2>Ihre Stadt fehlt?</h2><p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze in Deutschland übernehmen Partner vor Ort. Wenn Ihre Stadt hier noch nicht aufgeführt ist, rufen Sie trotzdem an oder schreiben Sie uns per WhatsApp mit Ihrem Standort: wir klären dann, welcher Partner in Frage kommt. Auf den <a href="autobahnen.html">Autobahn-Seiten</a> finden Sie Ausfahrten und Hinweise zu den wichtigsten Strecken, die Bundesländer finden Sie unter <a href="bundeslaender.html">Bundesländer</a>.</p>\n</div></section>\n$js\n\@\@CTA\@\@\n};  }
+  # city pages: crumbs -> Bundesland, neighbours, services block, extra FAQ
+  my %NB; if (open(my $nf,'<:raw',"$Bin/content/geo_nb.txt")) { while (my $l=<$nf>) { chomp $l; next if $l =~ /^\s*(#|$)/; my ($s,$n,$a)=split /\t/,$l; $NB{$s}=[$n//'',$a//''] } close $nf }
+  my $tok = sub { my $t=shift; return 'index' if $t eq 'koeln'; return 'abschleppdienst-karlsruhe' if $t eq 'karlsruhe'; return "stadt-$t" };
+  my $abslug = sub { my $t=shift; return 'autobahn-a5-hessen-baden' if $t eq 'a5'; return "autobahn-$t" };
+  for my $c (@GEO_CITY) {
+    my ($slug,$lab,$state) = @$c; next unless $slug =~ /^stadt-/;
+    my $ssl = $blslug->($state);
+    $CRUMB_PARENT{$slug} = ["bl-$ssl", $lab];
+    $CRUMB_PARENT{"bl-$ssl"} = ['home', $esc->($state)];
+    my $b = $P{$slug}{body}; my $v = 0; my $hsum = 0; $hsum = ($hsum*31 + ord($_)) % 1000003 for split //, $slug; $v = $hsum % 6; my $w = int($hsum/7) % 8; my $x = int($hsum/13) % 3;
+    my @nbs = grep { $_ ne $slug && $P{$_} } map { $tok->($_) } split /,/, ($NB{$slug}[0] // '');
+    @nbs = @nbs[0..7] if @nbs > 8;
+    my @abs = grep { $P{$_} } map { $abslug->($_) } split /,/, ($NB{$slug}[1] // '');
+    my $nblinks = join(', ', map { qq{<a href="$_.html">}.($LABEL{$_} // $_).'</a>' } @nbs);
+    my $ablinks = join(', ', map { my $t=$_; $t =~ s/^autobahn-//; $t =~ s/-.*//; qq{<a href="$_.html">Pannenhilfe auf der A}.substr($t,1).'</a>' } @abs);
+    # varied "Was wir tun" paragraph, headings and FAQ wording to keep city pages distinct
+    my @tun = (
+      "Wir nehmen Ihren Anruf oder Ihre WhatsApp entgegen und organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in $lab fährt ein Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr und Standort abhängt.",
+      "Sie schildern uns Standort, Fahrzeug und Problem, den Rest koordinieren wir. Der Einsatz in $lab wird von einem Partnerbetrieb gefahren, denn Faster sitzt in Antwerpen (Belgien). Wie lange die Anfahrt dauert, lässt sich vorab nicht seriös sagen.",
+      "In $lab arbeiten wir mit Partnern zusammen, die den Einsatz übernehmen, Faster selbst hat seinen Sitz in Antwerpen (Belgien). Wir sind rund um die Uhr am Telefon erreichbar und bleiben Ihr Ansprechpartner, bis das Fahrzeug abgeholt ist.",
+      "Ein Anruf genügt: Wir klären, was mit dem Fahrzeug los ist und wohin es soll, und beauftragen dann einen Partner vor Ort. Unser Sitz ist Antwerpen (Belgien), gefahren wird in $lab von dem Betrieb, den wir für Sie koordinieren.",
+      "Sie sagen uns, wo Sie stehen und was passiert ist. Wir suchen einen geeigneten Partner in der Nähe von $lab, stimmen den Preis mit Ihnen ab und halten Sie auf dem Laufenden. Faster ist ein Unternehmen mit Sitz in Antwerpen (Belgien).",
+      "Wir kümmern uns darum, dass jemand zu Ihnen kommt: Nach Ihrem Anruf organisieren wir für $lab einen Partnerbetrieb, der den Einsatz übernimmt. Die Koordination läuft über uns (Sitz: Antwerpen, Belgien), eine feste Zeit versprechen wir nicht.",
+      "Wer Ihnen in $lab hilft, ist ein Partnerbetrieb in der Region, den wir für den Einzelfall auswählen. Wir selbst, Faster mit Sitz in Antwerpen (Belgien), nehmen den Anruf an, klären die Einzelheiten und bleiben bis zum Schluss erreichbar.",
+      "Der Ablauf ist einfach: Sie melden sich per Telefon oder WhatsApp, wir besprechen die Lage und vermitteln einen Partner für $lab. Der Betrieb fährt den Einsatz, wir bleiben dabei Ihr Kontakt. Faster hat seinen Sitz in Antwerpen (Belgien).",
+    );
+    my @tunh = ("Was wir in $lab tun", "So läuft ein Einsatz in $lab ab", "Unsere Rolle in $lab", "Wie wir Ihnen in $lab helfen");
+    my @nenn = ("So nennen Sie Ihren Standort in $lab", "Standort in $lab richtig angeben", "Was wir von Ihnen wissen müssen");
+    $b =~ s{<h2>Was wir in [^<]+ tun</h2>\s*<p>.*?</p>}{'<h2>'.$tunh[int($hsum/11) % 4].'</h2><p>'.$tun[$w].'</p>'}se;
+    $b =~ s{<h2>So nennen Sie Ihren Standort in [^<]+</h2>}{'<h2>'.$nenn[$x].'</h2>'}se;
+    my $svc;
+    if ($v==0) { $svc = qq{<h2>Was wir in $lab koordinieren</h2><p>Sie rufen an oder schreiben per WhatsApp, wir klären Fahrzeug, Standort und Ziel und organisieren einen Partner in Ihrer Nähe. Den Preis nennen wir am Telefon, bevor jemand losfährt.</p><ul class="ticks"><li>Abschleppen und Transport zur Werkstatt oder nach Hause, mehr unter <a href="ratgeber-abschleppdienst-kosten.html">Was kostet ein Abschleppdienst?</a></li><li>Pannenhilfe wie <a href="ratgeber-starthilfe-batterie.html">Starthilfe</a> und <a href="ratgeber-reifenpanne.html">Reifenpanne</a></li><li>Fahrzeuge nach einem Unfall, siehe <a href="ratgeber-unfall-abschleppkosten.html">Abschleppkosten nach einem Unfall</a></li><li><a href="ratgeber-e-auto-abschleppen.html">E-Autos</a>, <a href="ratgeber-motorrad-transport.html">Motorräder</a> und <a href="ratgeber-transporter-abschleppen.html">Transporter bis 3,5 t</a></li></ul>}; }
+    elsif ($v==1) { $svc = qq{<h2>Abschleppen und Pannenhilfe in $lab</h2><p>Für $lab organisieren wir das Abschleppen und den Transport, etwa in die Werkstatt, außerdem <a href="ratgeber-starthilfe-batterie.html">Starthilfe</a>, Hilfe bei einer <a href="ratgeber-reifenpanne.html">Reifenpanne</a> und den Abtransport nach einem Unfall. Auch <a href="ratgeber-e-auto-abschleppen.html">Elektroautos</a>, <a href="ratgeber-motorrad-transport.html">Motorräder</a> und <a href="ratgeber-transporter-abschleppen.html">Transporter bis 3,5 Tonnen</a> gehören dazu. Ein Partner vor Ort übernimmt den Einsatz, wir bleiben am Telefon Ihr Ansprechpartner. Wovon die Kosten abhängen, erklärt der Ratgeber <a href="ratgeber-abschleppdienst-kosten.html">Was kostet ein Abschleppdienst?</a>, nach einem Schaden hilft <a href="ratgeber-unfall-abschleppkosten.html">Abschleppkosten nach einem Unfall</a>.</p>}; }
+    elsif ($v==3) { $svc = qq{<h2>Hilfe bei Panne und Unfall in $lab</h2><p>Bleibt Ihr Fahrzeug in $lab liegen, klären wir am Telefon, was passiert ist und wohin es soll. Dann geht ein Partner vor Ort los. Häufige Anlässe sind eine leere Batterie (<a href="ratgeber-starthilfe-batterie.html">Starthilfe</a>), ein platter Reifen (<a href="ratgeber-reifenpanne.html">Reifenpanne</a>) oder ein Unfallschaden (<a href="ratgeber-unfall-abschleppkosten.html">wer die Kosten trägt</a>). Elektroautos (<a href="ratgeber-e-auto-abschleppen.html">Hinweise</a>), Motorräder (<a href="ratgeber-motorrad-transport.html">Transport</a>) und Transporter bis 3,5 t (<a href="ratgeber-transporter-abschleppen.html">Abschleppen</a>) sind kein Sonderfall. Einen Preis nennen wir Ihnen vor der Abfahrt, Hintergründe dazu: <a href="ratgeber-abschleppdienst-kosten.html">Was kostet ein Abschleppdienst?</a></p>}; }
+    elsif ($v==4) { $svc = qq{<h2>Unsere Leistungen für $lab</h2><ul class="ticks"><li>Abschleppen und Bergung, wenn das Fahrzeug nicht mehr fahren kann (<a href="ratgeber-abschleppdienst-kosten.html">Kostenfaktoren</a>)</li><li>Transport in die Werkstatt Ihrer Wahl oder an einen anderen Ort</li><li>Hilfe bei leerer Batterie: <a href="ratgeber-starthilfe-batterie.html">Starthilfe</a></li><li>Hilfe bei plattem Reifen: <a href="ratgeber-reifenpanne.html">Reifenpanne</a></li><li>Abtransport nach einem Unfall (<a href="ratgeber-unfall-abschleppkosten.html">Kostenübernahme</a>)</li><li><a href="ratgeber-e-auto-abschleppen.html">Elektroautos</a>, <a href="ratgeber-motorrad-transport.html">Motorräder</a>, <a href="ratgeber-transporter-abschleppen.html">Transporter</a> bis 3,5 t</li></ul><p>Die Arbeit vor Ort erledigt ein Partner, wir koordinieren ihn. Den Preis erfahren Sie am Telefon, bevor er losfährt.</p>}; }
+    elsif ($v==5) { $svc = qq{<h2>Was Sie von uns in $lab erwarten können</h2><p>Wir sind rund um die Uhr erreichbar, hören uns Ihren Fall an und vermitteln einen passenden Partner. Der übernimmt je nach Lage das Abschleppen, den Transport in eine Werkstatt, <a href="ratgeber-starthilfe-batterie.html">Starthilfe</a> oder die Hilfe bei einer <a href="ratgeber-reifenpanne.html">Reifenpanne</a>. Nach einem Unfall gibt es eine eigene Übersicht zu den <a href="ratgeber-unfall-abschleppkosten.html">Kosten</a>. Ob <a href="ratgeber-e-auto-abschleppen.html">E-Auto</a>, <a href="ratgeber-motorrad-transport.html">Motorrad</a> oder <a href="ratgeber-transporter-abschleppen.html">Transporter</a>: Sagen Sie uns Fahrzeug und Gewicht, dann passt der Einsatz. Was ein Einsatz kostet, hängt von mehreren Dingen ab, siehe <a href="ratgeber-abschleppdienst-kosten.html">Was kostet ein Abschleppdienst?</a></p>}; }
+    else { $svc = qq{<h2>Wobei wir Ihnen in $lab helfen</h2><ul class="ticks"><li>Ihr Auto springt nicht an oder die Batterie ist leer: <a href="ratgeber-starthilfe-batterie.html">Starthilfe</a></li><li>Reifen platt: <a href="ratgeber-reifenpanne.html">Reifenpanne</a>, Pannenset oder Transport</li><li>Fahrzeug nach Unfall oder Defekt: Abtransport, dazu <a href="ratgeber-unfall-abschleppkosten.html">Abschleppkosten nach einem Unfall</a></li><li>Besondere Fahrzeuge: <a href="ratgeber-e-auto-abschleppen.html">E-Auto</a>, <a href="ratgeber-motorrad-transport.html">Motorrad</a>, <a href="ratgeber-transporter-abschleppen.html">Transporter</a></li></ul><p>Die Einsätze fährt ein Partner vor Ort, wir koordinieren ihn und nennen Ihnen den Preis am Telefon, bevor jemand losfährt. Wovon er abhängt, steht im Ratgeber <a href="ratgeber-abschleppdienst-kosten.html">Was kostet ein Abschleppdienst?</a></p>}; }
+    my $near = '<h2>In der Nähe von '.$lab.'</h2><p>'.($nblinks ? ($v==1 ? "Ebenfalls mit eigener Seite: $nblinks. " : "Nachbarstädte mit eigener Seite: $nblinks. ") : '').'Übersicht für das Bundesland: <a href="bl-'.$ssl.'.html">Abschleppdienst in '.$esc->($state).'</a>.'.($ablinks ? ($v==2 ? " Passende Autobahnen: $ablinks." : " Autobahnseiten zur Strecke: $ablinks.") : '').'</p>';
+    my $blk = $svc.$near;
+    my $m1 = "</div></section>\n<section class=\"section grey\">"; my $i1 = index($b,$m1);
+    if ($i1 >= 0) { substr($b,$i1,0) = $blk; } else { warn "no marker in $slug\n"; }
+    my $nb1 = $nbs[0] ? ($LABEL{$nbs[0]} // '') : '';
+    my @cost = ('Einen festen Preis nennen wir hier nicht, weil er von Fahrzeug, Uhrzeit, Strecke und Aufwand abhängt. Am Telefon nennen wir Ihnen den Preis, bevor jemand losfährt.','Pauschal lässt sich das nicht sagen: Fahrzeugtyp, Tageszeit, Entfernung zum Ziel und der Aufwand vor Ort bestimmen den Preis. Sie erfahren ihn am Telefon, bevor ein Fahrzeug zu Ihnen losfährt.','Der Preis hängt davon ab, was am Fahrzeug zu tun ist, wann und wohin es gebracht wird. Wir nennen ihn Ihnen vor der Abfahrt, damit Sie entscheiden können.');
+    my $faq = qq{<details><summary>Was kostet Abschleppen in $lab?</summary><div>$cost[int($hsum/17) % 3]</div></details>\n};
+    my @hlp = ("Wir organisieren Einsätze in der Region um $lab. Nennen Sie uns Ort und Straße, am besten mit Ihrem Standort per WhatsApp, dann klären wir, welcher Partner in Frage kommt.","Rufen Sie an und sagen Sie uns, wo Sie stehen. Wir prüfen, welcher Partner rund um $lab den Einsatz übernehmen kann, und melden uns mit dem Preis, bevor jemand losfährt.","Das hängt vom genauen Ort ab. Schicken Sie uns Ihren Standort per WhatsApp oder rufen Sie an, dann klären wir die Anfahrt mit einem Partner in der Nähe."); $faq .= qq{<details><summary>Helfen Sie auch in der Umgebung, zum Beispiel in $nb1?</summary><div>$hlp[int($hsum/19) % 3]</div></details>\n} if $nb1;
+    my $m2 = "</div></section>\n\@\@CTA\@\@"; my $i2 = rindex($b,$m2);
+    if ($i2 >= 0) { substr($b,$i2,0) = $faq; } else { warn "no faq marker in $slug\n"; }
+    my $nbl = join(', ', map { ($LABEL{$_} // $_) } @nbs); $nbl =~ s/<[^>]+>//g;
+    $b =~ s/<!--AREAS: (.*?) -->/'<!--AREAS: '.$1.($nbl ? ', '.$nbl : '').' -->'/e;
+    $P{$slug}{body} = $b;
+  }
 }
 
 sub service_ld {

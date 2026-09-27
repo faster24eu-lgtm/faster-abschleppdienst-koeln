@@ -62,7 +62,7 @@
 </div></section>
 @@CTA@@
 
-=== stadt-gelsenkirchen | Abschleppdienst Gelsenkirchen: Pannenhilfe A2, A42, A52 | Pannenhilfe und Abschleppen in Gelsenkirchen: fünf Stadtbezirke, Emscher, A2 an der Veltins-Arena, A42, A52 und Rhein-Herne-Kanal. Standort richtig nennen. | page ===
+=== stadt-gelsenkirchen | Abschleppdienst Gelsenkirchen: Pannenhilfe A2, A42, A52 | Pannenhilfe und Abschleppen in Gelsenkirchen: fünf Stadtbezirke, Emscher, A2 an der Veltins-Arena, A42, A52 und Rhein-Herne-Kanal. Standort nennen. | page ===
 <!--AREAS: Gelsenkirchen, Gelsenkirchen-Buer, Gelsenkirchen-Horst, Gelsenkirchen-Scholven, Gelsenkirchen-Schalke -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gelsenkirchen</p><h1>Abschleppdienst Gelsenkirchen</h1><p class="lead">Gelsenkirchen liegt im Zentrum des Ruhrgebiets an A2, A42 und A52. Der Rhein-Herne-Kanal und die Emscher teilen die Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
