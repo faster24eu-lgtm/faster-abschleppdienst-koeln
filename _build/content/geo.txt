@@ -56,3 +56,7 @@ stadt-luebeck	Lübeck	Schleswig-Holstein
 stadt-oberhausen	Oberhausen	Nordrhein-Westfalen	
 stadt-erfurt	Erfurt	Thüringen	
 stadt-mainz	Mainz	Rheinland-Pfalz	
+stadt-regensburg	Regensburg	Bayern	
+stadt-ingolstadt	Ingolstadt	Bayern	
+stadt-wuerzburg	Würzburg	Bayern	
+stadt-wolfsburg	Wolfsburg	Niedersachsen	
