@@ -39,15 +39,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Magdeburg</p><h1>Abschleppdienst Magdeburg</h1><p class="lead">Magdeburg liegt an der Elbe und ist ein Verkehrsknotenpunkt: im Norden die A2, dazu die A14 und mehrere Straßentunnel. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Hauptstadt Sachsen-Anhalts an der Elbe</h2>
-<p>Magdeburg ist die Hauptstadt des Landes Sachsen-Anhalt und eines der drei Oberzentren des Landes. Mit 244.494 Einwohnern am 31. Dezember 2025 ist sie die größte Stadt Sachsen-Anhalts nach Einwohnern. Die Stadt ist in 40 Stadtteile gegliedert, in denen es weitere Unterteilungen gibt, die sich im Lauf der Geschichte eingebürgert haben, meist Neubausiedlungen oder Wohngebiete. Wenn Sie in Magdeburg liegen bleiben, nennen Sie uns Stadtteil, Straße und ob Sie westlich oder östlich der Elbe stehen.</p>
+<p>Magdeburg ist die Hauptstadt des Landes Sachsen-Anhalt und in 40 Stadtteile gegliedert. Wenn Sie in Magdeburg liegen bleiben, nennen Sie uns Stadtteil, Straße und ob Sie westlich oder östlich der Elbe stehen.</p>
 <h2>Die A2 im Norden und das Kreuz Magdeburg</h2>
-<p>Nördlich der Stadt verläuft die Ost-West-Magistrale A2 (Europastraße E30) Oberhausen–Dortmund–Hannover–Magdeburg–Berlin, in Sachsen-Anhalt sechsstreifig. Am Kreuz Magdeburg kreuzt die A2 die A14 Dresden–Leipzig–Halle–Magdeburg, deren Teilstück von Halle bis Magdeburg erst nach 1990 entstand. Der Lückenschluss der Nordverlängerung, der Altmark-Autobahn nach Schwerin, ist noch nicht vollständig. Auf der A2 nördlich der Stadt überqueren Sie Rothenseer Verbindungskanal und Elbe. Mehr auf der Seite <a href="autobahn-a2.html">Panne auf der A2</a>. Nennen Sie uns bei einer Panne dort Richtung und Kreuz.</p>
+<p>Nördlich der Stadt verläuft die Ost-West-Magistrale A2 (Europastraße E30) Oberhausen–Dortmund–Hannover–Magdeburg–Berlin, in Sachsen-Anhalt sechsstreifig. Am Kreuz Magdeburg kreuzt die A2 die A14 Dresden–Leipzig–Halle–Magdeburg. Auf der A2 nördlich der Stadt überqueren Sie Rothenseer Verbindungskanal und Elbe. Mehr auf der Seite <a href="autobahn-a2.html">Panne auf der A2</a>. Nennen Sie uns bei einer Panne dort Richtung und Kreuz.</p>
 <h2>Drei Straßentunnel im Stadtgebiet</h2>
-<p>Im Stadtgebiet gibt es drei relevante Straßentunnel. Der erste am Askanischen Platz wurde 1998 fertiggestellt und unterläuft die B1. Am Universitätsplatz wurde 2005 der zweite Tunnel eröffnet, der die B1 unter dem Verkehrsknotenpunkt hindurchführt. Wenn Sie in einem Tunnel liegen bleiben, gelten die Regeln für Tunnel, siehe <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>. Nennen Sie uns dann den Tunnel und die Fahrtrichtung.</p>
+<p>Im Stadtgebiet gibt es mehrere Straßentunnel, unter anderem am Askanischen Platz und am Universitätsplatz, beide führen die B1 unter dem jeweiligen Verkehrsknotenpunkt hindurch. Wenn Sie in einem Tunnel liegen bleiben, gelten die Regeln für Tunnel, siehe <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>. Nennen Sie uns dann den Tunnel und die Fahrtrichtung.</p>
 <h2>Wasserstraßenkreuz und Häfen</h2>
-<p>Im Norden Magdeburgs liegt das Wasserstraßenkreuz Magdeburg, das nach ersten Vorstellungen im Jahr 1877 über 100 Jahre später, am 10. Oktober 2003, fertiggestellt wurde. Der Mittellandkanal kreuzt die Elbe in einer Trogbrücke und verbindet Berlin, Hannover, Halle/Leipzig und das Ruhrgebiet. Ein Komplex aus vier Binnenhäfen liegt an Elbe, Mittellandkanal und Elbe-Havel-Kanal. Im Hafengebiet und an den Kanälen brauchen wir Tor, Kai oder Straße.</p>
+<p>Im Norden Magdeburgs liegt das Wasserstraßenkreuz Magdeburg. Der Mittellandkanal kreuzt dort die Elbe in einer Trogbrücke und verbindet Berlin, Hannover, Halle/Leipzig und das Ruhrgebiet. Ein Komplex aus vier Binnenhäfen liegt an Elbe, Mittellandkanal und Elbe-Havel-Kanal. Im Hafengebiet und an den Kanälen brauchen wir Tor, Kai oder Straße.</p>
 <h2>Was wir in Magdeburg tun</h2>
-<p>Wir nehmen Ihren Anruf oder Ihre WhatsApp entgegen und organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Magdeburg fahren Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr und Standort abhängt.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Magdeburg</h2>
+<p>Auf der A2 oder A14: Warnblinker einschalten und alle Mitfahrer hinter die Leitplanke bringen, das Warndreieck folgt nur, wenn es der Verkehr zulässt. In einem der Straßentunnel: Warnblinker an, Fahrzeug wenn möglich zur Nothaltebucht bewegen und die Tunnelnotrufsäule nutzen statt selbst nachzuschauen. Am Wasserstraßenkreuz oder im Hafengebiet: Warnblinker an und nicht auf Brücken oder direkt am Kai halten.</p>
+<h2>Wo es in Magdeburg oft passiert</h2>
+<p>Am Kreuz Magdeburg, wo A2 und A14 aufeinandertreffen, ist der Verkehr durch den Fahrstreifenwechsel dichter. In den Straßentunneln am Askanischen Platz und am Universitätsplatz ist eine Panne besonders heikel, weil wenig Platz zum sicheren Halten bleibt. Rund um das Wasserstraßenkreuz und die Häfen ist mit Schwerlastverkehr zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Magdeburg</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer, Querstraße und die Elbseite.</li>
@@ -58,10 +62,10 @@
 <p>Weitere Städte: <a href="stadt-halle.html">Halle (Saale)</a> und <a href="stadt-hannover.html">Hannover</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Magdeburg</h2>
-<details><summary>Wie viele Stadtteile hat Magdeburg?</summary><div>40 Stadtteile.</div></details>
-<details><summary>Wo trifft die A2 auf die A14?</summary><div>Am Kreuz Magdeburg nördlich der Stadt.</div></details>
-<details><summary>Welche Straßentunnel gibt es?</summary><div>Unter anderem am Askanischen Platz (1998) und am Universitätsplatz (2005), beide führen die B1 unterirdisch.</div></details>
-<details><summary>Was ist das Wasserstraßenkreuz Magdeburg?</summary><div>Ein Bauwerk im Norden der Stadt, das den Mittellandkanal in einer Trogbrücke über die Elbe führt und am 10. Oktober 2003 fertiggestellt wurde.</div></details>
+<details><summary>Ich stehe im Tunnel am Universitätsplatz. Was mache ich?</summary><div>Warnblinker an, wenn möglich zur Nothaltebucht rollen und die Notrufsäule im Tunnel nutzen. Bleiben Sie nach Möglichkeit im oder am Fahrzeug, bis Hilfe kommt.</div></details>
+<details><summary>Können Sie mein Auto von Magdeburg zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Magdeburg liegt oder etwa in Halle oder Hannover.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Magdeburg?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, rufen Sie uns rund um die Uhr an oder schreiben Sie per WhatsApp, wir vermitteln auch nachts einen Partner vor Ort.</div></details>
 </div></section>
 @@CTA@@
 
@@ -70,15 +74,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Freiburg im Breisgau</p><h1>Abschleppdienst Freiburg im Breisgau</h1><p class="lead">Freiburg liegt am Rand des Schwarzwalds mit dem größten Höhenunterschied unter den deutschen Großstädten. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Stadt zwischen Rhein und Schwarzwald</h2>
-<p>Freiburg im Breisgau, inoffiziell auch Schwarzwaldhauptstadt genannt, war von 1945 bis zur Gründung des Landes Baden-Württemberg am 25. April 1952 die Hauptstadt des Landes Baden. Mit dem südöstlich gelegenen 1.284 Meter hohen Schauinsland gehört einer der höchsten Berge des Schwarzwaldes zum Stadtgebiet. Mit mehr als 1.000 Metern ist Freiburg unter den deutschen Großstädten jene mit dem größten Höhenunterschied. Für eine Panne bedeutet das: Vieles hängt davon ab, ob Sie in der Rheinebene oder an einem Hang stehen. Sagen Sie uns, ob Sie bergauf oder bergab stehen und wie eng die Straße ist.</p>
+<p>Freiburg im Breisgau liegt am Rand des Schwarzwalds. Mit dem südöstlich gelegenen, gut 1.280 Meter hohen Schauinsland gehört einer der höheren Berge des Schwarzwaldes zum Stadtgebiet, der Höhenunterschied im Stadtgebiet ist entsprechend groß. Für eine Panne bedeutet das: Vieles hängt davon ab, ob Sie in der Rheinebene oder an einem Hang stehen. Sagen Sie uns, ob Sie bergauf oder bergab stehen und wie eng die Straße ist.</p>
 <h2>28 Stadtteile, 42 Stadtbezirke</h2>
-<p>Freiburg hat 28 Stadtteile, die vorwiegend zu statistischen Zwecken in 42 Stadtbezirke gegliedert sind. Mehrere Stadtteile wie Ebnet, Hochdorf, Kappel, Lehen und Munzingen wurden bei der Kreisreform des ehemaligen Landkreises Freiburg eingegliedert. Wenn Sie in diesen ländlicheren Stadtteilen liegen bleiben, sagen Sie uns Stadtteil und Straße, denn die Straßen dort ähneln denen von Dörfern und haben oft keine großen Hinweisschilder.</p>
-<h2>Die A5 und die nicht gebaute A86</h2>
-<p>Freiburg liegt verkehrsgeografisch günstig an den großen europäischen Verkehrsachsen Rhein–Saône–Rhône–Mittelmeer und Rhein–Gotthard–Italien. Die A5 verbindet Freiburg in Richtung Norden mit Straßburg, Karlsruhe, Mannheim und Frankfurt. In den 1960er Jahren war die A86 über Freiburg und Donaueschingen geplant: Die "Schwarzwaldautobahn" sollte von der Ausfahrt Freiburg-Nord am nördlichen Stadtrand vorbei durch mehrere Tunnel in den Schwarzwald führen, wurde aber nicht gebaut. Wenn Sie auf der A5 bei Freiburg liegen bleiben, sagen Sie uns Richtung und Anschlussstelle. Mehr zur Strecke lesen Sie auf der Seite <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>.</p>
+<p>Freiburg hat 28 Stadtteile, die zu statistischen Zwecken in 42 Stadtbezirke gegliedert sind. Mehrere Stadtteile wie Ebnet, Hochdorf, Kappel, Lehen und Munzingen liegen eher ländlich am Stadtrand. Wenn Sie in diesen Stadtteilen liegen bleiben, sagen Sie uns Stadtteil und Straße, denn die Straßen dort ähneln denen von Dörfern und haben oft keine großen Hinweisschilder.</p>
+<h2>Die A5</h2>
+<p>Freiburg liegt an den großen europäischen Verkehrsachsen Rhein–Saône–Rhône–Mittelmeer und Rhein–Gotthard–Italien. Die A5 verbindet Freiburg in Richtung Norden mit Straßburg, Karlsruhe, Mannheim und Frankfurt. Wenn Sie auf der A5 bei Freiburg liegen bleiben, sagen Sie uns Richtung und Anschlussstelle. Mehr zur Strecke lesen Sie auf der Seite <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>.</p>
 <h2>Radverkehr und Straßen</h2>
-<p>Im Vergleich mit Städten ähnlicher Größe ist der Anteil des Pkw-Verkehrs am innerstädtischen Verkehrsaufkommen gering, der Anteil des Radverkehrs dagegen sehr hoch. Das Straßen-, Rad- und Fußwegenetz ist rund 1.290 Kilometer lang, davon 191 Kilometer Hauptverkehrsstraßen. Wer in der Innenstadt liegen bleibt, muss mit vielen Radfahrern und eingeschränkten Zufahrten rechnen. Das Fahrzeug sollte nicht auf einem Radweg stehen bleiben, wenn es sich vermeiden lässt. Nennen Sie uns die Straße, und ob Sie auf einem Radweg oder einer Fahrbahn stehen.</p>
+<p>In Freiburg ist der Anteil des Radverkehrs am innerstädtischen Verkehr hoch, der des Pkw-Verkehrs vergleichsweise gering. Wer in der Innenstadt liegen bleibt, muss mit vielen Radfahrern und eingeschränkten Zufahrten rechnen. Das Fahrzeug sollte nicht auf einem Radweg stehen bleiben, wenn es sich vermeiden lässt. Nennen Sie uns die Straße, und ob Sie auf einem Radweg oder einer Fahrbahn stehen.</p>
 <h2>Was wir in Freiburg tun</h2>
-<p>Sie beschreiben Standort, Fahrzeug und Problem, wir organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Freiburg fahren Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr, Wetter und Standort abhängt. Bei Panne im Schwarzwald und im Winter gelten zusätzliche Hinweise, siehe <a href="ratgeber-winterpanne-schwarzwald.html">Ratgeber Winterpanne</a>.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Freiburg</h2>
+<p>Auf der A5: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. An einem Hang: Fahrzeug wenn möglich so abstellen, dass es für bergauf und bergab fahrende Autos gut sichtbar ist, besonders vor Kuppen. In der Innenstadt am Radweg: Fahrzeug wenn möglich auf die Fahrbahn statt auf den Radweg stellen und Warnblinker einschalten.</p>
+<h2>Wo es in Freiburg oft passiert</h2>
+<p>An den steileren Zufahrten zu den Hanglagen ist eine Panne bei Nässe oder Glätte heikler als in der Ebene. In der Innenstadt mit viel Radverkehr ist es unübersichtlicher, wenn ein Fahrzeug liegen bleibt. Bei Panne im Schwarzwald und im Winter gelten zusätzliche Hinweise, siehe <a href="ratgeber-winterpanne-schwarzwald.html">Ratgeber Winterpanne</a>.</p>
 <h2>So nennen Sie Ihren Standort in Freiburg</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -89,10 +97,11 @@
 <p>Weitere Städte in der Nähe: <a href="abschleppdienst-offenburg.html">Offenburg</a> und <a href="abschleppdienst-karlsruhe.html">Karlsruhe</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Freiburg</h2>
-<details><summary>Wie viele Stadtteile hat Freiburg?</summary><div>28 Stadtteile, die zu statistischen Zwecken in 42 Stadtbezirke gegliedert sind.</div></details>
-<details><summary>Wie hoch ist der Schauinsland?</summary><div>1.284 Meter, er gehört zum Freiburger Stadtgebiet.</div></details>
-<details><summary>Wurde die A86 gebaut?</summary><div>Nein. Die in den 1960er Jahren geplante Schwarzwaldautobahn von Freiburg nach Donaueschingen wurde nicht gebaut.</div></details>
+<details><summary>Ich stehe auf der A5 bei Freiburg. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und die nächste Anschlussstelle.</div></details>
 <details><summary>Ich stehe an einem Hang. Was sage ich?</summary><div>Bergauf oder bergab, Straße und Hausnummer. Bei Steigungen prüft der Fahrer, welches Fahrzeug passt.</div></details>
+<details><summary>Können Sie mein Auto von Freiburg zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Freiburg liegt oder etwa in Offenburg oder Karlsruhe.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Freiburg?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Ich habe eine Panne im Schwarzwald bei Schnee. Helfen Sie auch dort?</summary><div>Ja, sagen Sie uns die Straße oder den nächsten Ort und ob Schneeketten oder Winterausrüstung nötig sind, dann klären wir den passenden Partner.</div></details>
 </div></section>
 @@CTA@@
 
@@ -101,15 +110,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Krefeld</p><h1>Abschleppdienst Krefeld</h1><p class="lead">Krefeld liegt am linken Niederrhein und wird von der A57 in Nord-Süd-Richtung durchquert. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Samt- und Seidenstadt am Niederrhein</h2>
-<p>Krefeld ist eine linksrheinisch gelegene Großstadt am Niederrhein, kreisfrei im Regierungsbezirk Düsseldorf. Wegen der Seidenstoffproduktion des 18. und 19. Jahrhunderts wird sie auch "Samt- und Seidenstadt" genannt. Bis zum 25. November 1925 hieß sie offiziell Crefeld. Das Stadtgebiet gliedert sich in die fünf Stadtbezirke Mitte, Nord, West, Süd und Ost, jeder mit eigener Bezirksvertretung und Bezirksvorsteher. Bei einer Panne zählen Stadtteil und Straße, zum Beispiel Uerdingen, Oppum, Linn oder Hüls, dazu die Angabe, ob Sie an einer Hauptstraße oder in einer Wohnstraße stehen.</p>
+<p>Krefeld ist eine linksrheinisch gelegene Großstadt am Niederrhein, im Beinamen auch "Samt- und Seidenstadt" genannt. Das Stadtgebiet gliedert sich in die fünf Stadtbezirke Mitte, Nord, West, Süd und Ost. Bei einer Panne zählen Stadtteil und Straße, zum Beispiel Uerdingen, Oppum, Linn oder Hüls, dazu die Angabe, ob Sie an einer Hauptstraße oder in einer Wohnstraße stehen.</p>
 <h2>A57: Nord-Süd-Achse mit zwei Kreuzen</h2>
-<p>In nordsüdlicher Richtung führt die A57 (Köln–Nimwegen) durch das Stadtgebiet. Südlich von Krefeld trifft sie am Kreuz Meerbusch die A44 (Aachen–Kassel), nördlich am Kreuz Moers die A40. Die Geismühle, heute an der gleichnamigen Autobahnraststätte der A57, wurde wahrscheinlich im 14. Jahrhundert als Wachtturm der Linner Burg errichtet, sie tritt 1575 erstmals als Mühle in Erscheinung und ist seit 2007 wieder vollständig hergestellt. Die Raststätte ist ein bekannter Orientierungspunkt. Mehr zur A57 im Kölner Raum lesen Sie auf der Seite <a href="koeln-a57.html">Panne auf der A57</a>.</p>
+<p>In nordsüdlicher Richtung führt die A57 (Köln–Nimwegen) durch das Stadtgebiet. Südlich von Krefeld trifft sie am Kreuz Meerbusch die A44 (Aachen–Kassel), nördlich am Kreuz Moers die A40. Die Geismühle, ein historischer Turm an der gleichnamigen Autobahnraststätte der A57, ist ein bekannter Orientierungspunkt. Mehr zur A57 im Kölner Raum lesen Sie auf der Seite <a href="koeln-a57.html">Panne auf der A57</a>.</p>
 <h2>B9, B57 und Krefeld-Zentrum</h2>
 <p>Durch Krefeld führen außerdem die Bundesstraßen B9 und B57, die an der Anschlussstelle Krefeld-Zentrum in die A57 übergeht. Die B288 beginnt in Krefeld, die B509 endet hier. Wenn Sie an einem dieser Übergänge liegen bleiben, sagen Sie uns Straße und Fahrtrichtung, denn der Wechsel zwischen Bundesstraße und Autobahn ist nicht immer als solcher erkennbar.</p>
 <h2>Nähe zu Düsseldorf und zum Flughafen</h2>
 <p>Der Flughafen Düsseldorf ist etwa 20 Kilometer vom Krefelder Stadtzentrum entfernt und über die A57 und A44 erreichbar. Wenn Sie nach einer Reise am Flughafen liegen bleiben, nennen Sie uns Terminal oder Parkhaus und Ebene, siehe <a href="stadt-duesseldorf.html">Abschleppdienst Düsseldorf</a>.</p>
 <h2>Was wir in Krefeld tun</h2>
-<p>Wir nehmen Ihren Anruf oder Ihre WhatsApp entgegen und organisieren den Einsatz. Faster hat seinen Sitz in Antwerpen (Belgien), in Krefeld fahren Partner vor Ort. Eine feste Ankunftszeit nennen wir nicht, weil sie von Verkehr und Standort abhängt.</p>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Krefeld</h2>
+<p>Auf A57 oder A44: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. An der Geismühle oder einem Kreuz: sagen Sie uns genau, ob Sie noch vor oder schon hinter dem Punkt stehen, dort wechseln viele Fahrzeuge die Spur. In einer Wohnstraße abseits der Hauptachsen: Warnblinker an und Fahrzeug möglichst platzsparend abstellen.</p>
+<h2>Wo es in Krefeld oft passiert</h2>
+<p>Am Kreuz Meerbusch und am Kreuz Moers ist der Verkehr durch den Fahrstreifenwechsel dichter. An der Anschlussstelle Krefeld-Zentrum, wo B57 und A57 ineinander übergehen, ist der Wechsel für Ortsfremde nicht immer erkennbar. Rund um den Flughafen Düsseldorf ist mit Reiseverkehr zu bestimmten Tageszeiten zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Krefeld</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -120,9 +133,9 @@
 <p>Nachbarstädte: <a href="stadt-duisburg.html">Duisburg</a> und <a href="stadt-moenchengladbach.html">Mönchengladbach</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Krefeld</h2>
-<details><summary>Wie viele Stadtbezirke hat Krefeld?</summary><div>Fünf: Mitte, Nord, West, Süd und Ost.</div></details>
-<details><summary>Welche Autobahnen treffen Krefeld?</summary><div>Die A57 in Nord-Süd-Richtung, die südlich am Kreuz Meerbusch auf die A44 und nördlich am Kreuz Moers auf die A40 trifft.</div></details>
-<details><summary>Was ist die Geismühle?</summary><div>Ein Turm aus dem 14. Jahrhundert, der heute an der gleichnamigen Autobahnraststätte der A57 steht.</div></details>
+<details><summary>Ich stehe auf der A57 kurz vor dem Kreuz Meerbusch. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und die Entfernung zum Kreuz.</div></details>
+<details><summary>Können Sie mein Auto von Krefeld zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Krefeld liegt oder etwa in Duisburg oder Mönchengladbach.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Krefeld?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Wie weit ist der Flughafen Düsseldorf?</summary><div>Etwa 20 Kilometer vom Krefelder Stadtzentrum, erreichbar über A57 und A44.</div></details>
 </div></section>
 @@CTA@@
