@@ -1,0 +1,288 @@
+=== en-ratgeber-wohnmobil-gespann-panne | Motorhome or Trailer Breakdown: What Applies | Motorhome, caravan or trailer combination broken down: the 3.5-tonne weight limit, uncoupling, securing it, and what details matter for recovery. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Motorhome or Trailer Breakdown</h1><p class="lead">With a motorhome or caravan, weight and length decide who can help. Tell us early, and finding the right vehicle goes faster.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Secure the scene first, then call</h2>
+<ol>
+<li>Hazard lights on, put on a hi-vis vest, get everyone behind the crash barrier or somewhere safe.</li>
+<li>With a trailer combination: secure the caravan against rolling away (handbrake, wheel chocks), but only if it's safe to do so.</li>
+<li>Turn off the gas supply on the caravan or motorhome if there's smoke, a burning smell, or it's been in an accident. Call 112 for a fire.</li>
+</ol>
+<h2>The 3.5-tonne threshold</h2>
+<p>Many motorhomes weigh more than 3.5 tonnes. Above that limit, the vehicles and equipment used for cars and small vans aren't enough. Some automobile clubs don't provide roadside assistance for vehicles over 3.5 tonnes at all. For us too, everyday business covers vehicles up to a 3.5-tonne gross weight limit. For anything heavier, tell us the length, height and weight, and we'll tell you honestly whether and with whom we can help.</p>
+<h2>Trailer combination: which part is affected, the towing vehicle or the caravan?</h2>
+<ul class="ticks">
+<li><strong>Towing vehicle broken, caravan fine:</strong> the whole combination can be taken to the nearest garage together, or the caravan is uncoupled and transported separately. What's possible depends on weight and length.</li>
+<li><strong>Caravan broken, towing vehicle fine:</strong> usually it's enough to collect just the caravan. If it can no longer roll, it needs a vehicle with a loading bed or a winch.</li>
+<li><strong>Both affected:</strong> then both vehicles need transporting, possibly one after the other.</li>
+</ul>
+<h2>Details that help us</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Detail</th><th>Why it matters</th></tr></thead><tbody>
+<tr><td>Make, model, year</td><td>Length, wheelbase, drivetrain</td></tr>
+<tr><td>Gross weight limit and actual weight</td><td>Decides which vehicle can carry or pull it</td></tr>
+<tr><td>Length and height</td><td>Loading bed, bridges, underground garages</td></tr>
+<tr><td>Combination: total length and caravan weight</td><td>Whether both can be moved together</td></tr>
+<tr><td>Whether the vehicle rolls and steers</td><td>Whether towing or loading is needed</td></tr>
+<tr><td>Location and access (motorway, campsite, rest area)</td><td>Where a vehicle can position itself</td></tr>
+</tbody></table></div>
+<h2>If you want to tow it yourself</h2>
+<p>A motorhome is heavy, and a tow rope has to hold that load. As a minimum, ropes or bars rated to carry at least 3,500 kilograms are recommended for trailer combinations. The towing vehicle must be suitable and rated for the load. Legally this is more complicated, see <a href="en-ratgeber-abschleppseil-oder-abschleppdienst.html">Tow rope or towing service?</a> and <a href="en-ratgeber-transporter-abschleppen.html">Towing a van</a>.</p>
+<h2>On the motorway</h2>
+<p>If you break down with a trailer combination or motorhome on the motorway, the effort increases because the hard shoulder is often tight for that length. Tell us the motorway, direction and exit. How securing the scene works on the motorway is covered in <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>; for our region, for example <a href="en-abschleppdienst-a5.html">Breakdown on the A5</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Do you also tow motorhomes over 3.5 tonnes?</summary><div>Vehicles up to a 3.5-tonne gross weight limit are our everyday business. For anything heavier, tell us the length, height and weight, and we'll work out on the phone whether and with whom we can help.</div></details>
+<details><summary>Can the caravan be uncoupled?</summary><div>If it's standing safely, yes. It's then transported separately from the towing vehicle.</div></details>
+<details><summary>Do I need to turn off the gas?</summary><div>Yes, for smoke, a burning smell, or after an accident, if it's safe to do so. For a simple breakdown, it's advisable to switch off the gas and appliances before transport anyway.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-winterpanne-schwarzwald | Winter Breakdown: The Schwarzwaldhochstraße and Mountain Roads | Stuck in snow and ice on mountain roads like the B500: winter-tyre rules, what to do inside the vehicle, and details for the towing service. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides · Central Baden</p><h1>Winter Breakdown on the Schwarzwaldhochstraße and Other Mountain Roads</h1><p class="lead">The B500 runs for over 60 kilometres through the heights of the northern Black Forest between Baden-Baden and Freudenstadt. In winter, a small breakdown there can quickly turn into a long wait.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What makes the route different in winter</h2>
+<p>The Schwarzwaldhochstraße runs for long stretches at around 800 to 1,000 metres elevation. It's cleared when it snows, but that doesn't always happen fast enough. In a severe winter storm, the road can be closed at times. Snow chains are only mandatory for cars in exceptional cases; for trucks, a chain requirement has already been ordered on individual sections, for example between Alexanderschanze and Kniebis. It's worth checking the current traffic situation before you drive.</p>
+<h2>Winter tyres: what's required</h2>
+<p>Germany has a situational winter-tyre requirement (§ 2 para. 3a StVO): in black ice, snow, slush, or icy/frosty conditions, you must drive on winter tyres. Since October 2024, only tyres with the Alpine symbol, a mountain with a snowflake, count for this. Driving without suitable tyres in these conditions risks a fine of at least €60 and a point on your licence. If you obstruct or endanger others, it's at least €80. A vehicle on summer tyres stuck in snow can quickly block the whole road.</p>
+<h2>If you get stuck</h2>
+<ol>
+<li><strong>Switch on your hazard lights</strong> and have a hi-vis vest ready. Only get out if the spot is safe.</li>
+<li><strong>Don't keep spinning the wheels.</strong> That digs the vehicle in deeper and, on an automatic, overheats the transmission. Roll back carefully and straighten the wheels.</li>
+<li><strong>Keep the exhaust clear</strong> if you run the engine for heat. A snow-covered exhaust can send fumes into the cabin.</li>
+<li><strong>Stay warm:</strong> put on a jacket and blanket, use the heating only intermittently, and charge your phone.</li>
+<li><strong>Note your location:</strong> a car park, a viewpoint, or a distance marker, for example Mummelsee, Hundseck or Ruhestein.</li>
+</ol>
+<h2>Typical winter breakdowns on mountain roads</h2>
+<ul class="ticks">
+<li><strong>Flat battery after the night:</strong> it delivers less power in frost, see <a href="en-ratgeber-starthilfe-batterie.html">Jump-starting and a flat battery</a>.</li>
+<li><strong>Handbrake frozen:</strong> see <a href="en-ratgeber-handbremse-loest-sich-nicht.html">Handbrake won't release</a>.</li>
+<li><strong>Vehicle slides into a ditch:</strong> recovery instead of towing. Tell us how the vehicle is positioned and whether anyone is injured. If anyone is injured, 112 first.</li>
+<li><strong>Engine overheating or brakes glowing</strong> after a long descent, see <a href="en-ratgeber-motor-ueberhitzt.html">Engine overheating</a>.</li>
+<li><strong>No signal:</strong> if your phone has no reception, try to reach a spot with signal, such as a crest, or ask passing drivers for help.</li>
+</ul>
+<h2>What to tell a towing service</h2>
+<ul class="ticks">
+<li>The road and section: the B500 with a section or the nearest car park, or a location in the valley</li>
+<li>Whether the road is cleared, and whether you're on an incline or a bend</li>
+<li>Tyres: winter tyres or not, chains available</li>
+<li>Vehicle, drivetrain, and whether it can still move</li>
+</ul>
+<p>On mountain roads, towing vehicles themselves need winter equipment, and nobody gets through on closed sections. We'll tell you honestly if it's going to take longer. For the Baden-Baden area, see <a href="en-abschleppdienst-baden-baden.html">Towing Service Baden-Baden</a>, for the Achertal, <a href="en-abschleppdienst-achern.html">Towing Service Achern</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Are snow chains required on the Schwarzwaldhochstraße?</summary><div>For cars, only in exceptional cases of unusually heavy snowfall. For trucks, a chain requirement has already been ordered on individual sections. Watch for the signage.</div></details>
+<details><summary>Are M+S tyres enough in winter?</summary><div>For the winter-tyre requirement, only tyres with the Alpine symbol have counted since October 2024.</div></details>
+<details><summary>What do I do if I'm stuck with no phone signal?</summary><div>Switch on hazard lights, stay in the warm vehicle if it's safe, and try to get help from passing drivers. Share your location as soon as you have signal.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-panne-kehl-strassburg | Breakdown Near Kehl and Strasbourg: Rules Across the Border | Breakdown near Kehl and Strasbourg: what's different in France, the Crit'Air low-emission zone, hi-vis vests, and cross-border transport. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides · Ortenau</p><h1>Breakdown Near Kehl and Strasbourg: What Applies Across the Border</h1><p class="lead">Only the Rhine separates Kehl and Strasbourg. But different rules apply on each side in a breakdown, and it's worth knowing them before you set off.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Two countries, one bridge</h2>
+<p>The Europe Bridge between Kehl and Strasbourg is a four-lane road bridge from 1960. From the A5 you reach Kehl via the Appenweier exit and the B28, see <a href="en-abschleppdienst-offenburg.html">Towing Service Offenburg</a>. If your vehicle breaks down on one side and the garage is on the other, a breakdown quickly becomes a cross-border case.</p>
+<h2>On French motorways: not something we can do</h2>
+<p>According to the German motoring organisation ADAC, private breakdown services aren't allowed to help directly on French motorways. You must use the emergency phones or call 112, and an official towing service will come and take the vehicle to the nearest garage. Towing fees there are set by law and paid on the spot. On country roads and in towns it's different. In practice: for motorway breakdowns in France, we can't help you directly, but for questions about transport starting from the border area, get in touch.</p>
+<h2>Hi-vis vests and warning triangles in France</h2>
+<p>In France, a hi-vis vest must be kept in the vehicle and put on before getting out in a breakdown or accident. On motorways, you're not supposed to set up a warning triangle; all occupants wait behind the crash barrier instead. That's different from the German approach, see <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>. If you commute between the two countries, it's worth knowing the rules on both sides.</p>
+<h2>Strasbourg's low-emission zone</h2>
+<p>Strasbourg and 32 other municipalities of the Eurométropole form a low-emission zone. Only vehicles with a French Crit'Air sticker may drive there; vehicles without a sticker, or with Crit'Air 5, are excluded. German environmental stickers aren't recognised in France. According to the city of Kehl, a ban on Crit'Air 4 has applied since 1 January 2024, the transition period for Crit'Air 3 ends in late 2026, and further restrictions follow from 2028. The bans don't apply on motorways and major bypass roads. This matters if your vehicle needs to drive back into the city itself after a repair. Check the current rules before you drive, since they and their deadlines change.</p>
+<h2>What we can do for you</h2>
+<ul class="ticks">
+<li>Roadside assistance and towing on the German side, for example in Kehl, Appenweier and Offenburg.</li>
+<li>We speak German, French, Dutch and English. If you're coming from France and break down in the Ortenau, you can speak to us in French.</li>
+<li>We discuss cross-border transports case by case: tell us the vehicle, pickup location and destination.</li>
+</ul>
+<h2>Documents to have ready</h2>
+<p>Useful for any vehicle transport: ID, registration document, licence plate, and proof of insurance if you have it. For vehicles without registration or with export plates, the process is different, so tell us this in advance.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Do you help on French motorways too?</summary><div>No. Under French rules, an official towing service responds to an emergency call there. We help on the German side.</div></details>
+<details><summary>Does my German green sticker work in Strasbourg?</summary><div>No. German environmental stickers aren't recognised in France. For the zone you need a Crit'Air sticker.</div></details>
+<details><summary>Can I call in French?</summary><div>Yes. We speak German, French, Dutch and English.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-auto-springt-nicht-an | Car Won't Start: Finding the Cause by Symptom | Car won't start: what clicking, cranking, or silence mean, the likely causes, and when to call for help. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Car Won't Start: Finding the Cause by Symptom</h1><p class="lead">The key question is: what happens when you try to start it? The answer already narrows down the cause a lot.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>First question: does the starter motor turn?</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>What you hear</th><th>What it usually means</th></tr></thead><tbody>
+<tr><td>Nothing, no lights on the dashboard</td><td>Flat battery or a loose terminal</td></tr>
+<tr><td>A single click, nothing else</td><td>Battery too weak, starter motor, or a connection</td></tr>
+<tr><td>Starter turns slowly</td><td>Weak battery, often in cold weather</td></tr>
+<tr><td>Starter turns quickly, engine doesn't start</td><td>Fuel, ignition, the glow system on a diesel, or sensors</td></tr>
+<tr><td>Starter doesn't respond, dashboard lights up</td><td>Immobiliser, key, starter, or start-permission system</td></tr>
+</tbody></table></div>
+<p>In most cases, it's a weak or flat battery. Next come the starter motor and the fuel supply.</p>
+<h2>Starter motor doesn't turn</h2>
+<ul class="ticks">
+<li><strong>Battery:</strong> lights, radio or central locking work poorly or not at all. Jump-starting is the first thing to try, see <a href="en-ratgeber-starthilfe-batterie.html">Jump-starting and a flat battery</a>.</li>
+<li><strong>Terminals:</strong> loose or corroded terminals interrupt the current. If you can safely reach them, check them.</li>
+<li><strong>Automatic:</strong> is the selector in P or N? Press the brake pedal while starting.</li>
+<li><strong>Immobiliser:</strong> if the key has a faulty transponder, or the vehicle doesn't recognise it, the system refuses to start. Try the spare key. With keyless-go, a weak key-fob battery can be the cause.</li>
+</ul>
+<h2>Starter turns, engine doesn't start</h2>
+<ul class="ticks">
+<li><strong>Fuel:</strong> tank empty? Wrong fuel? Then stop trying, see <a href="en-ratgeber-falsch-getankt.html">Wrong fuel</a>. A faulty fuel pump or a blocked filter also cuts the supply.</li>
+<li><strong>Diesel engine in winter:</strong> faulty glow plugs often prevent a cold start, while the warm engine still starts.</li>
+<li><strong>Ignition or sensor:</strong> the ignition system, crankshaft sensor, or control unit. This can only be checked at a garage.</li>
+<li><strong>Marten damage:</strong> chewed-through cables or hoses can prevent starting.</li>
+</ul>
+<h2>What not to do</h2>
+<ul class="ticks">
+<li>Don't crank it for minutes on end. That drains the battery and can overload the starter motor. Pause a few seconds to a few minutes between attempts.</li>
+<li>Don't spray starter fluid into the intake unless you know exactly what you're doing.</li>
+<li>Don't push-start if your vehicle has an automatic transmission, a catalytic converter, or sensitive electronics. Many modern cars aren't designed for it.</li>
+</ul>
+<h2>When you should call for help</h2>
+<p>If jump-starting doesn't help, warning lights are on (see <a href="en-ratgeber-warnleuchten-auto.html">Warning lights in your car</a>), there's smoke from the engine bay, or you're somewhere dangerous. The vehicle is then taken to a garage on a flatbed. For hybrids and electric cars, that's the safe route anyway, see <a href="en-ratgeber-e-auto-abschleppen.html">Towing an electric car</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>My car just clicks. Is the starter motor broken?</summary><div>Usually the battery is too weak. Only if jump-starting doesn't help does the starter motor become a likely candidate.</div></details>
+<details><summary>Why does my diesel only fail to start in cold weather?</summary><div>On diesel engines, faulty glow plugs can prevent a cold start. A warm engine often still starts.</div></details>
+<details><summary>Am I allowed to push-start my car?</summary><div>On many modern vehicles, especially automatics, this isn't designed to work. Read the owner's manual.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-kupplung-defekt | Clutch Failure: Symptoms and What to Do Now | Clutch pedal stuck, gears won't engage, clutch slipping: symptoms, why you shouldn't keep driving, and how the vehicle gets transported. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Clutch Failure: Symptoms and What to Do Now</h1><p class="lead">If no gear will engage, or the pedal stays down, continuing to drive isn't a good idea.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>How to recognise a failed clutch</h2>
+<ul class="ticks">
+<li><strong>The clutch won't disengage:</strong> the clutch disc still touches the flywheel even with the pedal pressed. Gears only engage with force, or not at all.</li>
+<li><strong>The clutch pedal stays down or doesn't return.</strong> Often the cause is a sticking slave cylinder or a broken return spring.</li>
+<li><strong>The pedal feels soft</strong> or suddenly has a lot of free play.</li>
+<li><strong>The clutch slips:</strong> engine revs rise, but the car doesn't accelerate accordingly.</li>
+<li><strong>A burning smell,</strong> jerking when pulling away, or noises when pressing the pedal.</li>
+</ul>
+<h2>What to do immediately</h2>
+<ol>
+<li>Switch on hazard lights and, as long as you can, coast to a safe spot.</li>
+<li>If you can no longer change gear but still roll: let it coast, stop the vehicle, don't force a gear.</li>
+<li>Apply the handbrake, put on a hi-vis vest, and get behind the crash barrier if you're on a fast road. See <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</li>
+<li>Don't keep driving. Safe gear changes usually aren't possible any more, and you risk further damage to the transmission.</li>
+</ol>
+<h2>Why towing with a rope rarely works here</h2>
+<p>A vehicle with a failed clutch can sometimes be towed with a rope if it's out of gear. But if the pedal is stuck or a gear is engaged, the wheels can't turn freely. On a flatbed, the vehicle is easier to move, and the transmission and drivetrain stay unstressed. Rules for towing your own vehicle are in <a href="en-ratgeber-abschleppseil-oder-abschleppdienst.html">Tow rope or towing service?</a></p>
+<h2>Details about the fault</h2>
+<ul class="ticks">
+<li>Whether a gear is engaged and whether the vehicle can be pushed</li>
+<li>Whether the pedal stays down or feels soft</li>
+<li>Manual or automatic (automatic transmissions don't have a clutch in the traditional sense, see <a href="en-ratgeber-automatik-abschleppen.html">Towing an automatic car</a>)</li>
+<li>Where the vehicle is and where it should go</li>
+</ul>
+<h2>After the transport</h2>
+<p>The garage checks whether the cause is the master or slave cylinder, the return spring, the clutch disc, or the cable. Ask for a cost estimate before the repair begins. Describe how the fault first appeared, since that helps the diagnosis.</p>
+<h2>Slipping, dragging, not disengaging: three different faults</h2>
+<p>A failed clutch doesn't always look the same. If it <strong>slips</strong>, revs rise without the car accelerating accordingly, often with a smell of burnt friction material. If it doesn't <strong>disengage</strong> cleanly, gears only engage with force or noise, and the car can lurch forward when a gear is engaged. If it <strong>drags</strong>, noises appear when pressing or releasing the pedal. A pedal that stays on the floor after being pressed, or gives way with no resistance, points more towards the hydraulics than the friction material.</p>
+<h2>Where the fault can come from</h2>
+<ul>
+<li><strong>Wear on the clutch disc</strong> after many kilometres, frequent stop-and-go driving, or towing a trailer.</li>
+<li><strong>Hydraulics:</strong> the master or slave cylinder or a line can develop a leak; air in the system makes the pedal feel soft.</li>
+<li><strong>Cable</strong> on older vehicles: it can stretch, snap, or be mis-adjusted.</li>
+<li><strong>Release bearing or dual-mass flywheel</strong>, which announce themselves through noise when the clutch is used.</li>
+</ul>
+<h2>Pulling away without a clutch: not a good plan</h2>
+<p>You sometimes hear the tip of pulling away in gear without the clutch, or changing gear without pressing it. That's an emergency workaround for extreme situations, for example getting out of a dangerous spot. As a long-term solution it strains the starter motor and transmission and can cause further damage. It's not enough to get you to a garage. If you can no longer operate the clutch safely, have the vehicle transported.</p>
+<h2>Automatics and dual-clutch transmissions</h2>
+<p>On vehicles with a dual-clutch or automatic transmission, a fault looks different: the vehicle jerks when pulling away, misfires, or shifts gears erratically, often with a warning message. Even then, don't keep driving on your own judgement. How an automatic vehicle is transported is covered in our guide <a href="en-ratgeber-automatik-abschleppen.html">Towing an automatic car</a>.</p>
+<h2>Stopping safely</h2>
+<p>Don't stay stopped with a failed clutch at a junction or in the carriageway; coast with your remaining speed to the side. Switch on hazard lights, apply the parking brake, and secure the vehicle, with a warning triangle if needed. On a slope, engage a gear or turn the wheels against the kerb so the vehicle doesn't roll away.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I still drive to a garage with a failed clutch?</summary><div>We advise against it. Safe gear changes usually aren't possible any more, and you risk transmission damage. Have the vehicle transported.</div></details>
+<details><summary>Why does my clutch pedal stay down?</summary><div>Often the slave cylinder is sticking or a spring has broken. A garage needs to check it.</div></details>
+<details><summary>How do I recognise a hydraulic fault?</summary><div>The pedal feels soft, sinks slowly to the floor, or stays down. Often the brake-fluid reservoir is also low, since the brake and clutch sometimes share the same reservoir.</div></details>
+<details><summary>Can I still drive to the garage?</summary><div>If gears no longer engage cleanly or the clutch slips, transport on a flatbed is safer. Continuing to drive can damage the transmission and starter motor.</div></details>
+<details><summary>Does towing a trailer cause clutch wear?</summary><div>It puts more strain on the clutch, especially pulling away on a hill. Whether that's the cause in your case is for the garage to determine.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-wildunfall | Animal Collision: What to Do, Who Pays, When to Tow | Collision with a deer or wild boar: police, wildlife-collision certificate, partial comprehensive cover, and whether the car may still be driven. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Animal Collision: What to Do, and When the Car Should Be Towed</h1><p class="lead">An animal runs onto the road, and there's a crash. After the shock, the right order of steps matters, because it also affects whether your insurer reimburses you.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Immediately at the scene</h2>
+<ol>
+<li><strong>Switch on hazard lights,</strong> put on a hi-vis vest, and set up a warning triangle if it's safe to do so. On fast roads, get behind the crash barrier, see <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</li>
+<li><strong>If anyone is injured:</strong> call 112 and give first aid.</li>
+<li><strong>Call the police.</strong> They document that it was an animal collision and usually inform the relevant hunter or forester.</li>
+<li><strong>Take photos:</strong> the scene, the animal, the damage to the vehicle.</li>
+</ol>
+<h2>Don't touch the animal</h2>
+<p>Don't touch injured or dead animals, partly because of the risk of rabies and infection. Leave that to the hunting leaseholder or forester. If you absolutely must move a dead animal off the road, wear gloves. Don't take a dead animal with you: that can count as poaching under German law.</p>
+<h2>Wildlife-collision certificate</h2>
+<p>Get a wildlife-collision certificate from the police, the forester, or the hunting leaseholder. It's your proof to the insurer that the damage was caused by an animal.</p>
+<h2>Who pays?</h2>
+<p>Damage to your own vehicle from game animals like deer or wild boar is usually covered by partial comprehensive insurance. Report the damage to your insurer before the vehicle is cleaned, repaired, scrapped, or sold. The exact conditions are in your policy. Breakdown cover or club membership can additionally cover the towing costs.</p>
+<h2>Drive on, or have it towed?</h2>
+<p>In an animal collision, the front of the car is often damaged: the radiator, headlights, bonnet. Check before continuing:</p>
+<ul class="ticks">
+<li>Is coolant, oil or fuel leaking?</li>
+<li>Do the headlights and indicators work?</li>
+<li>Is the bonnet secure, or could it fly open?</li>
+<li>Is the temperature gauge normal, or is there steam? See <a href="en-ratgeber-motor-ueberhitzt.html">Engine overheating</a>.</li>
+<li>Are new warning lights on? See <a href="en-ratgeber-warnleuchten-auto.html">Warning lights in your car</a>.</li>
+</ul>
+<p>If the answer to any of these is "yes", don't keep driving. Further criteria are in <a href="en-ratgeber-nach-unfall-fahrbereit.html">After the accident: still roadworthy or towed?</a> Electric and hybrid vehicles need special care, see <a href="en-ratgeber-e-auto-abschleppen.html">Towing an electric car</a>.</p>
+<h2>What to tell a towing service</h2>
+<ul class="ticks">
+<li>Where you are: road, section, car park, or on a motorway the direction and exit</li>
+<li>How the vehicle is positioned and whether parts are loose or lying on the road</li>
+<li>Whether the police are already there or on their way</li>
+<li>Vehicle and drivetrain</li>
+</ul>
+<p>If the police or highways authority are on site, a contracted company may be assigned on a motorway, see <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Do I have to call the police after an animal collision?</summary><div>It's advisable, so the police can document the collision and inform the hunter. You'll usually need a wildlife-collision certificate for your insurer.</div></details>
+<details><summary>Can I take the dead animal with me?</summary><div>No. That can count as poaching under German law. Leave the animal to the hunting leaseholder or forester.</div></details>
+<details><summary>Does partial comprehensive cover pay for every animal collision?</summary><div>For game animals like deer or wild boar, usually yes. Check your policy, since conditions and exclusions vary.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-wasserschlag-ueberschwemmung | Car Stalled in Water: Hydrolock | Stalled after driving through water or flooding: don't restart the engine, recognise hydrolock, inform your insurer, and arrange transport. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Car Stalled in Water: Don't Restart It</h1><p class="lead">After driving through water, the engine stutters or cuts out. The most important rule first: don't try to start it again.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>What hydrolock is</h2>
+<p>If the engine draws in water instead of air, that's called hydrolock. Water can't be compressed, so the engine stops abruptly. This can bend connecting rods, break valves, and in the worst case crack the engine block. Typical signs are an engine that won't restart after driving through water, or one that cuts out mid-drive.</p>
+<h2>Do this immediately</h2>
+<ol>
+<li><strong>Switch off the engine if it's still running,</strong> and don't restart it. A start attempt can significantly increase the damage.</li>
+<li><strong>Switch on hazard lights</strong> and get out if the spot is safe. If the water is rising, leave the vehicle before the doors can no longer be opened.</li>
+<li><strong>Don't wade through moving water.</strong> Even shallow water can sweep you off your feet.</li>
+<li><strong>Call for help:</strong> 112 if anyone is in danger, otherwise a towing service.</li>
+<li><strong>Take photos:</strong> the water level, the vehicle, the surroundings. You'll need them for your insurer.</li>
+</ol>
+<h2>Why the car shouldn't drive itself</h2>
+<p>A vehicle that has drawn in water can look fine on the outside. The damage is inside the engine. Don't tow it with the driven wheels turning, since that spins the engine over. Transport on a flatbed is the safe solution, especially for electric and hybrid vehicles. For those, water can also affect high-voltage components and connectors, see <a href="en-ratgeber-e-auto-abschleppen.html">Towing an electric car</a>.</p>
+<h2>Informing your insurer</h2>
+<p>Report the damage to your insurer before the vehicle is repaired. Whether and how much is paid depends on your policy and the circumstances, for example whether it was a flood or a deliberate drive through flooded roads. The garage should document the damage and establish the cause.</p>
+<h2>What to tell the towing service</h2>
+<ul class="ticks">
+<li>Where the vehicle is and how deep the water is</li>
+<li>Whether the water is still rising or the road is closed</li>
+<li>Vehicle and drivetrain</li>
+<li>Whether the engine was started again after contact with water</li>
+<li>Whether the doors and locks still work</li>
+</ul>
+<p>If your car is in water in an underground garage or underpass, our guide <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Underground garage and car park</a> can help.</p>
+<h2>Preventing it</h2>
+<p>Don't drive through flooded roads. If it's unavoidable, drive slowly and steadily so no bow wave forms, and keep the engine revs constant.</p>
+<h2>Wading depth and the air intake</h2>
+<p>Every vehicle has a maximum wading depth, stated by the manufacturer in the handbook. It mainly depends on where the engine draws in air. If the intake sits low, even a puddle can be enough for water to reach the engine. Water can't be compressed, so the engine can be seriously damaged when it draws it in, with connecting rods breaking in the worst case. If the engine stalls while driving through water, that's often the exact moment the damage happens or is about to happen.</p>
+<h2>What water does to the electrics and electronics</h2>
+<p>Modern vehicles have control units, wiring harnesses and sensors located throughout the car, some in footwells or under seats. Water can corrode connectors and damage control units, even if the engine itself was untouched. On hybrid and electric vehicles, the high-voltage system is also affected, and special caution applies, see <a href="en-ratgeber-e-auto-abschleppen.html">Towing an electric car</a>. A vehicle that's been standing in water shouldn't be put back into use until a garage has checked it.</p>
+<h2>The oil reveals it</h2>
+<p>A sign of water inside the engine is milky-grey oil on the dipstick or in the filler neck. Rough running or water in the air-filter housing are also signs. Tell the garage about these findings, since they determine the scope of the repair.</p>
+<h2>Don't push-start or roll-start it</h2>
+<p>The vehicle shouldn't be pushed or roll-started to start the engine. The momentum can damage the engine further if water is sitting in the cylinders. Automatic transmissions shouldn't simply be towed either, see <a href="en-ratgeber-automatik-abschleppen.html">Towing an automatic car</a>. The safe route is transport on a flatbed.</p>
+<h2>After the water: what to document</h2>
+<ul>
+<li>Photos of the vehicle and surroundings showing the water level, as far as it's safe to take them.</li>
+<li>Time, place and weather conditions.</li>
+<li>Whether the engine was running when the water got in, and when it stopped.</li>
+<li>Invoices for transport and inspection, since they can matter for your insurer.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I just try starting it once more, briefly?</summary><div>No. Don't start the engine after water contact until a garage has checked it.</div></details>
+<details><summary>What does hydrolock mean?</summary><div>The engine draws in water instead of air and stops abruptly. This can damage connecting rods, valves and the engine block.</div></details>
+<details><summary>How deep can I drive through water?</summary><div>The manufacturer sets this as the wading depth in the handbook. If in doubt, don't drive through, since the depth of the road is hard to judge.</div></details>
+<details><summary>Can I try starting the engine again after it stalled?</summary><div>No. If water was drawn in, a further start attempt can destroy the engine completely. Have the vehicle transported.</div></details>
+<details><summary>What about electric cars in water?</summary><div>For electric and hybrid vehicles, keep your distance if water has reached the vehicle or the battery, and tell the specialist garage about it before transport.</div></details>
+</div></section>
+@@CTA@@
