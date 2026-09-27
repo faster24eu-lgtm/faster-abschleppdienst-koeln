@@ -18,7 +18,7 @@ for my $p (@pages) {
   my ($d) = $h =~ /name="description" content="(.*?)"/s; bad("$p: no description") unless $d;
   (my $dd = $d//'') =~ s/&amp;/&/g; bad("$p: description >155 (".length($dd).")") if length($dd) > 155;
   bad("$p: no canonical") unless $h =~ /<link rel="canonical" href="https:\/\/abschleppdienst-faster\.de\//;
-  if ($p =~ m{^(impressum|datenschutz|danke)/index\.html$}) {
+  if ($p =~ m{^(?:en/)?(impressum|datenschutz|danke)/index\.html$}) {
     bad("$p: missing noindex") unless $h =~ /<meta name="robots" content="noindex, nofollow"/;
   } else {
     bad("$p: unexpected noindex") if $h =~ /<meta name="robots" content="noindex, nofollow"/;
@@ -43,7 +43,7 @@ for my $p (@pages) {
 # reachability from home within 3 clicks
 my %depth = ('index.html'=>0); my @q = ('index.html');
 while (@q) { my $c = shift @q; for my $n (@{$out{$c}||[]}) { next if exists $depth{$n}; $depth{$n} = $depth{$c}+1; push @q,$n } }
-for my $p (@pages) { next if $p =~ m{^danke/}; if (!exists $depth{$p}) { bad("$p: not reachable from home") } elsif ($depth{$p} > 3) { bad("$p: needs $depth{$p} clicks") } }
+for my $p (@pages) { next if $p =~ m{^(?:en/)?danke/}; if (!exists $depth{$p}) { bad("$p: not reachable from home") } elsif ($depth{$p} > 3) { bad("$p: needs $depth{$p} clicks") } }
 my %hist; $hist{$depth{$_}}++ for grep { exists $depth{$_} } @pages;
 print "pages: ".scalar(@pages)."  errors: $errors  click depth: ".join(', ', map {"$_=>$hist{$_}"} sort keys %hist)."\n";
 exit($errors ? 1 : 0);

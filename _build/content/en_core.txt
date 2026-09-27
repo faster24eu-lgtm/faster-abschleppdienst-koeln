@@ -1,0 +1,37 @@
+=== en-impressum | Legal Notice | Legal notice (Impressum) for Faster Abschleppdienst. | noindex ===
+<section class="page-head"><div class="wrap narrow"><h1>Legal Notice</h1></div></section>
+<section class="section"><div class="wrap narrow copy">
+<p><mark>DRAFT: The marked details must be completed before publication.</mark></p>
+<h2>Information under § 5 DDG (German Digital Services Act)</h2>
+<p><mark>[Add company name and legal form as registered]</mark><br>De Bosschaertstraat 248<br>2020 Antwerp, Belgium</p>
+<h2>Contact</h2>
+<p>Phone: +49 176 41956993<br>Email: <a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a></p>
+<h2>Company register and VAT</h2>
+<p>Company number (KBO/BCE): <mark>[to add]</mark><br>VAT identification number (BTW): <mark>[to add]</mark></p>
+<h2>Authorised representative</h2>
+<p><mark>[Add name of managing director]</mark></p>
+<h2>Responsible for content under § 18 para. 2 MStV</h2>
+<p><mark>[Add name of managing director]</mark><br>De Bosschaertstraat 248<br>2020 Antwerp, Belgium</p>
+<p class="fine">Note: please have this legal notice reviewed by a qualified professional before publication.</p>
+</div></section>
+=== en-datenschutz | Privacy Policy | Privacy policy for this website. | noindex ===
+<section class="page-head"><div class="wrap narrow"><h1>Privacy Policy</h1></div></section>
+<section class="section"><div class="wrap narrow copy">
+<p><mark>DRAFT: Please have this reviewed by a qualified professional before publication, and complete the marked details.</mark></p>
+<h2>1. Data controller</h2>
+<p><mark>[Company name]</mark>, De Bosschaertstraat 248, 2020 Antwerp, Belgium. Email: <a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a>, phone: +49 176 41956993.</p>
+<h2>2. Hosting</h2>
+<p>This website is hosted via GitHub Pages, a service of GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. When you access the pages, GitHub processes technically necessary data in server log files, in particular your IP address, the date and time of access, and the browser used. The legal basis is Art. 6 para. 1 lit. f GDPR (legitimate interest in a functional and secure website). This may involve the transfer of personal data to the USA; GitHub, Inc. is certified under the EU-US Data Privacy Framework, which provides for an adequate level of data protection. More information is available in <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">GitHub's privacy statement</a>.</p>
+<h2>3. Contact form</h2>
+<p>If you use the form, your details are sent to us by email via the FormSubmit.co service and used exclusively to process your enquiry. The legal basis is Art. 6 para. 1 lit. b or lit. f GDPR. FormSubmit.co is based outside the EU.</p>
+<h2>4. Contact by phone, email and WhatsApp</h2>
+<p>If you call us, send an email, or use the WhatsApp link, we process the data you provide (with WhatsApp, also your location if you send it) exclusively to process your enquiry. The legal basis is Art. 6 para. 1 lit. b GDPR (pre-contractual measure or contract performance). WhatsApp is operated by Meta Platforms Ireland Limited; using WhatsApp is additionally subject to its own privacy terms, over whose content we have no influence.</p>
+<h2>5. Google Ads: conversion and call tracking</h2>
+<p>This website includes the Google tag from Google Ads (provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland). We use it to measure whether a visit from a Google ad leads to a phone call: the phone number visible in the text is replaced in the browser with a Google number, through which the call still reaches us; we also anonymously record whether the phone number or the WhatsApp button was clicked. This processing only takes place if you have previously consented via the cookie banner; without your consent, tracking stays disabled. The legal basis is your consent under Art. 6 para. 1 lit. a GDPR in conjunction with § 25 para. 1 TDDDG (German Telecommunications-Telemedia Data Protection Act). This may involve data being transferred to Google in the USA. You can withdraw or change your consent at any time, with future effect, via the "Cookie settings" link in this page's footer.</p>
+<h2>6. Your rights</h2>
+<p>You have the right to access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection supervisory authority, in Belgium the Gegevensbeschermingsautoriteit (Data Protection Authority).</p>
+<h2>7. Retention period</h2>
+<p>We store personal data from your enquiry only for as long as necessary to process it, and delete it afterwards unless legal retention obligations require otherwise. Your cookie choice is stored exclusively in your own browser (localStorage), not on our servers.</p>
+</div></section>
+=== en-danke | Thank You | Your enquiry has been sent. | noindex ===
+<section class="page-head"><div class="wrap narrow"><h1>Thank You for Your Enquiry</h1><p class="lead">We'll get back to you as soon as possible. For urgent cases, you can reach us any time by phone or WhatsApp.</p><p><a class="btn btn-y" href="en-index.html">Back to Home</a></p></div></section>
