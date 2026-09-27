@@ -1,0 +1,110 @@
+=== en-autobahn-a6 | Breakdown on the A6: Saarbrücken to the Czech Border | Breakdown on the A6 from Saarbrücken via Kaiserslautern, Mannheim, Heilbronn, the Kochertal bridge, Nuremberg to the Czech border. Interchanges, climbs. | page ===
+<!--AREAS: A6, Saarbrücken, Kaiserslautern, Mannheim, Heilbronn, Nürnberg, Amberg -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Motorway</p><h1>Breakdown on the A6</h1><p class="lead">The A6 is about 480 kilometres long, running through southern Germany from the French border near Saarbrücken to the Czech border. It crosses the Palatinate Forest, the Rhine-Neckar region, Hohenlohe, and the Frankenhöhe. Tell us your direction and the nearest junction, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>From the Goldene Bremm border crossing eastward</h2>
+<p>The A6 begins as a four-lane motorway at the former Goldene Bremm border crossing on the southern edge of Saarbrücken, continuing the French Autoroute A320. The former border station was converted into a staffed service area after border checks ended. At the Saarbrücken triangle, the A620 ends, and the A6 switches onto the route of Saarbrücken's city motorway. Drivers heading the opposite way must leave the main carriageway. Because the triangle is built as a fork, there's a ramp at the Saarbrücken-Fechingen exit for changing direction. In a breakdown there, tell us whether you're heading towards Mannheim or towards France.</p>
+<h2>The Saarland and the Palatinate: valley bridges, Ramstein, Kaiserslautern</h2>
+<p>After that, the route takes on a low-mountain character, with a third lane per direction on some climbs. Past three larger valley bridges and past St. Ingbert, it crosses the A8 at the Neunkirchen interchange. Near Waldmohr the A6 crosses into Rhineland-Palatinate; at the Landstuhl-West interchange it crosses the A62. Past the Ramstein-Miesenbach exit, the motorway has six lanes but mostly no hard shoulder. Breaking down there means standing with no shoulder to pull onto. It then bypasses Ramstein Air Base in a wide arc, and west of Kaiserslautern it runs right past a barracks site. The town is bypassed to the north on a route laid out back in the 1930s.</p>
+<h2>The Palatinate Forest: the Platte, the Leininger Berg, the Laumersheimer Berg</h2>
+<p>Past Kaiserslautern, the A6 is four lanes again, but with extra lanes on climbs. It crosses the forested low mountains of the Palatinate Forest at its northern end, reaching the highest point between Saarbrücken and Mannheim at the Platte hill, over 420 metres above sea level. Near Wattenheim, a long, staged descent into the Upper Rhine lowlands follows. At the Leininger Berg comes a sharp combination of bends with a steep descent, right past Neuleiningen with its castle ruin; past Grünstadt, a second descent follows at the Laumersheimer Berg. On a descent in wet conditions, securing the scene matters especially, more in our guide <a href="en-ratgeber-bremsen-versagen.html">Brakes failing</a>.</p>
+<h2>Rhine-Neckar: Frankenthal, Mannheim, Hockenheim</h2>
+<p>At the Frankenthal interchange it crosses the A61, which together with the A6 forms a motorway ring around Mannheim and Ludwigshafen. It crosses the Rhine on the Theodor-Heuss-Brücke, which has a footpath for pedestrians in the central reservation. On the right bank of the Rhine, the A6 crosses into Baden-Württemberg and runs past Mannheim's northern districts to the Viernheim triangle, where the A67 ends. Shortly after, the Viernheim interchange follows with the A659, the first cross-link to the parallel A5. At the Mannheim interchange it crosses the A656, a second east-west connection. At the Hockenheim triangle the A61 ends, and the six-lane route runs right past the grandstands of the Hockenheimring through the Schwetzinger Hardt forest. At the Walldorf interchange, the parallel run with the A5 ends, see <a href="en-autobahn-a5-hessen-baden.html">Breakdown on the A5</a> and <a href="en-stadt-mannheim.html">Towing Service Mannheim</a>.</p>
+<h2>The Kraichgau, Heilbronn, the Weinsberg interchange</h2>
+<p>Near Wiesloch it climbs into the Kraichgau, which separates the Odenwald to the north from the Black Forest to the south. Near Sinsheim, several leisure facilities sit right by the motorway; near Bad Rappenau there's a wide view into the Neckar basin. North of Heilbronn, the Neckar is crossed near a coal power station on a long bridge. Near Neckarsulm begin the vineyard-covered foothills of the Schwäbisch-Fränkische Waldberge. At the Weinsberg interchange, the six-lane main carriageway of the A6 continues onto the crossing A81 heading south; drivers wanting to stay on the A6 heading east must turn off. If you break down there, tell us whether you're on the A6 or the A81.</p>
+<h2>Hohenlohe, the Kochertal bridge, the Frankenhöhe</h2>
+<p>Past Bretzfeld, the Hohenlohe plain opens up, the route is six lanes again, and runs along the northern flank of the Schwäbischer Wald. Past Schwäbisch Hall, the Kocher river is crossed on the 185-metre-high Kochertal bridge, the highest bridge in Germany. Near Crailsheim follow the deeply cut valleys of the Jagst and Gronach; the A6 then crosses into Bavaria, where the border runs along the westernmost ridge of the Frankenhöhe, climbed with a fairly steep gradient. In the Wörnitz valley, the A6 crosses the A7 at the Feuchtwangen/Crailsheim interchange, more at <a href="en-autobahn-a7.html">Breakdown on the A7</a>.</p>
+<h2>Nuremberg and the Upper Palatinate</h2>
+<p>Then follow Nuremberg-Süd, the Nuremberg-Ost interchange with the A9, and the Altdorf interchange with the A3, after which the A6 runs through the Upper Palatinate to the Czech border. More on the region at <a href="en-stadt-nuernberg.html">Towing Service Nuremberg</a>.</p>
+<h2>What we do on the A6</h2>
+<p>You describe your location, vehicle and problem, and we organise the callout. Faster is based in Antwerp, Belgium; partners on the ground drive out on the A6. We don't give a fixed arrival time, since it depends on the section, traffic and weather.</p>
+<h2>How to describe your location on the A6</h2>
+<ul class="ticks">
+<li>Direction of travel: towards Mannheim, Nuremberg, or Saarbrücken/Waidhaus.</li>
+<li>Last or next interchange, triangle, or exit.</li>
+<li>Whether a hard shoulder is present (for example near Ramstein).</li>
+<li>The landscape or landmark: the Palatinate Forest, the Kochertal bridge, the Hockenheimring.</li>
+</ul>
+<p>All motorway pages: <a href="autobahnen.html">Breakdown help on the motorway</a> (German). General steps: <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About the A6</h2>
+<details><summary>How long is the A6?</summary><div>About 480 kilometres, from the French border near Saarbrücken to the Czech border.</div></details>
+<details><summary>How high is the Kochertal bridge?</summary><div>185 metres. It's the highest bridge in Germany, crossing the Kocher river past Schwäbisch Hall.</div></details>
+<details><summary>I'm near Ramstein with no hard shoulder. What do I do?</summary><div>Switch on hazard lights, move as far right as you can, put on a hi-vis vest, use the emergency phone. Tell us your direction and the exit.</div></details>
+<details><summary>Which motorways cross the A6?</summary><div>Among others, the A8, A62, A61, A67, A659, A656, A5, A81, A7, A9 and A3, at the interchanges mentioned.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-mannheim | Towing Service Mannheim: Roadside Assistance A6, A656, A659 | Roadside assistance and towing in Mannheim: the grid squares, the Rhine and Neckar, the A6/A61 ring, the A656, A659, and the Theodor-Heuss-Brücke. | page ===
+<!--AREAS: Mannheim, Mannheim-Neckarau, Mannheim-Rheinau, Mannheim-Käfertal, Ludwigshafen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Mannheim</p><h1>Towing Service Mannheim</h1><p class="lead">Mannheim sits where the Neckar meets the Rhine, forming one continuous urban area with Ludwigshafen. Tell us which bank of the Rhine you're on, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Between the Rhine and the Neckar</h2>
+<p>Mannheim sits at the tri-state corner of Baden-Württemberg, Rhineland-Palatinate and Hesse, separated from its sister city Ludwigshafen am Rhein by the Rhine, with which it forms one continuous urban area. Mannheim's districts lie on the right bank of the Rhine, on both sides of the Neckar. For your location, we need the district, the street, and whether you're north or south of the Neckar.</p>
+<h2>The grid squares</h2>
+<p>The city centre has no ordinary street network but a grid pattern of building blocks instead of streets. These blocks are called "Quadrate" (squares) and are labelled with letters and numbers, for example "C 4". If you break down in the centre, tell us the square and the street, and a driver will find the spot immediately. Without that, even locals take longer to search.</p>
+<h2>The A6 and A61: the ring around Mannheim and Ludwigshafen</h2>
+<p>At the Frankenthal interchange, the A61 crosses, which together with the A6 forms a motorway ring around Mannheim and Ludwigshafen. Past Frankenthal, the Ludwigshafen-Nord exit connects to the B9, which also serves BASF's main site. The A6 crosses the Rhine on the Theodor-Heuss-Brücke, which has a footpath for pedestrians in the central reservation. On the right bank, the A6 crosses into Baden-Württemberg and runs past the northern districts straight to the Viernheim triangle, where the A67 ends. Just before the triangle it briefly crosses into Hesse. Along the eastern edge it crosses the Neckar, and at the Mannheim interchange the A656 follows as a second east-west link. More on the whole route at <a href="en-autobahn-a6.html">Breakdown on the A6</a>.</p>
+<h2>The A656 and A659: links to the A5</h2>
+<p>The A656 connects Mannheim with Heidelberg and the A5. The A659 runs from the Weinheim interchange to the Viernheim interchange, serving as an approach road to the Bergstraße motorway (A5). Right past the Weinheim interchange there's a tight S-bend, limited to 80 km/h towards Weinheim in wet conditions. For you, that means: breaking down there in rain puts you on a bend where other vehicles need to slow down, so secure the scene especially carefully.</p>
+<h2>A67: the connection to Darmstadt</h2>
+<p>The A67 runs from the Mönchhof triangle near Rüsselsheim via Darmstadt to the Viernheim triangle near Mannheim. The A5 runs largely parallel to it. If you break down between the A5 and A67, tell us the motorway and direction, since the two run close together, see <a href="en-autobahn-a5-hessen-baden.html">Breakdown on the A5</a>.</p>
+<h2>What we do in Mannheim</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Mannheim and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Mannheim</h2>
+<p>On the A6, A61, A656 or A659: hazard lights on, everyone behind the crash barrier. At the Weinheim S-bend on the A659 in wet weather: set up the warning triangle far enough before the bend so other drivers get enough warning. On the Theodor-Heuss-Brücke: keep driving to the next exit if the vehicle still allows it, rather than stopping on the bridge itself.</p>
+<h2>Where it often happens in Mannheim</h2>
+<p>At the Frankenthal interchange and the Viernheim triangle, several converging motorways make traffic denser. The Weinheim S-bend on the A659 is a known spot for skids in wet weather. In the city centre's grid squares, it's tight and confusing when a vehicle breaks down there.</p>
+<h2>How to describe your location in Mannheim</h2>
+<ul class="ticks">
+<li>District and street; in the city centre, the grid square and street.</li>
+<li>Bank of the Rhine: Mannheim or Ludwigshafen, plus the bridge.</li>
+<li>On the A6, A61, A656, A659 or A67: number, direction, exit, interchange or triangle.</li>
+<li>In rain on the A659: the Weinheim S-bend and direction of travel.</li>
+</ul>
+<p>Other nearby cities: <a href="en-abschleppdienst-karlsruhe.html">Karlsruhe</a> and <a href="en-stadt-frankfurt.html">Frankfurt am Main</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German). General steps: <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Mannheim</h2>
+<details><summary>I'm in one of the grid squares downtown. How do I describe that?</summary><div>Tell us the square, for example "C 4", and the street. That lets a driver find the spot immediately, even without knowing the city centre.</div></details>
+<details><summary>I'm in Ludwigshafen. Do you come there too?</summary><div>Yes, Mannheim and Ludwigshafen are the same service area for us. Tell us the district and street, and we'll work out the approach via the Rhine bridge.</div></details>
+<details><summary>What does a towing service cost in Mannheim?</summary><div>That depends on location and destination. We tell you the price on the phone before anyone drives out.</div></details>
+<details><summary>Does someone come at night or on weekends too?</summary><div>Yes, we're reachable around the clock by phone and WhatsApp, and arrange a partner on the ground at night too.</div></details>
+<details><summary>My electric car has broken down. Can you help with that too?</summary><div>Yes, electric cars are transported on a flatbed so no driven axle turns. Tell us on the phone that it's an electric car.</div></details>
+</div></section>
+@@CTA@@
+=== en-stadt-muenster | Towing Service Münster: Roadside Assistance A1, A43, Aasee | Roadside assistance and towing in Münster: six boroughs, the A1 "Hansalinie", the Münster-Süd interchange, the Dortmund-Ems canal, the B51 and B219. | page ===
+<!--AREAS: Münster, Münster-Hiltrup, Münster-Amelsbüren, Münster-Coerde, Münster-Nienberge -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Münster</p><h1>Towing Service Münster</h1><p class="lead">Münster sits on the A1 and has canals, a lake, and bypass roads. Tell us which borough and street you're on, and we'll coordinate the help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Seat of the administrative region</h2>
+<p>Münster in Westphalia sits on the Münstersche Aa river between the Ruhr area and Osnabrück, and is one of Germany's larger university towns. For a breakdown, that means: around the university and city centre, vehicles are parked close together.</p>
+<h2>Six boroughs</h2>
+<p>The city is divided into six boroughs: Mitte, Nord, Ost, West, Süd-Ost, and Hiltrup. The official names sometimes differ from everyday usage. Tell us the district you're in, for example Hiltrup, Coerde or Amelsbüren.</p>
+<h2>Canals, the city harbour, and the Aasee</h2>
+<p>The Dortmund-Ems canal and the historic Max-Clemens canal run through the city. The Dortmund-Ems canal passes through Amelsbüren, Hiltrup, the harbour area, Coerde and Gelmer, among others. The Aasee is a reservoir lake south-west of the city centre, lined with parks, promenades, and the Allwetterzoo. If you break down by a canal or the lake, tell us the nearest car park or bridge.</p>
+<h2>The A1: the "Hansalinie" through the west</h2>
+<p>The A1 runs north-south through the city. Known here as the "Hansalinie", it curves in a wide arc through the west of the city, physically separating some districts. After its second crossing of the Dortmund-Ems canal near Münster-Amelsbüren, the six-lane section ends, and the A1 becomes four lanes, running through the forested Davert towards Ascheberg and Hamm. If you break down here, tell us your direction of travel and the exit.</p>
+<h2>The A43, B219 and B51</h2>
+<p>The A43, coming from Wuppertal via Bochum and Recklinghausen, passes under the A1 at the Münster-Süd interchange and becomes the B219 and B51 a few kilometres further on. The B219 runs north through the city towards Greven and Ibbenbüren. The B51 curves widely north-east as a bypass around Münster via Georgsmarienhütte, Osnabrück and Diepholz to Bremen. On the A43, see also <a href="en-stadt-bochum.html">Towing Service Bochum</a>.</p>
+<h2>What we do in Münster</h2>
+<p>We take your call or WhatsApp message, ask about your vehicle, the problem, and your destination, then find a partner near you in Münster and tell you the price before anyone drives out. That covers towing and transport to a garage or home, roadside help like jump-starts and tyre changes, recovery after an accident, and transport for electric cars, motorcycles, and vans up to 3.5 tonnes. A partner on the ground carries out the job; we coordinate and stay your point of contact by phone.</p>
+<h2>Waiting safely in Münster</h2>
+<p>On the A1 or A43: hazard lights on, everyone behind the crash barrier, set up a warning triangle if it's safe to do so. By a canal or the Aasee: hazard lights on and move the vehicle as far from the carriageway as possible, not right at the water's edge. In the university district with narrow access roads: hazard lights on and, if possible, keep cycle paths clear.</p>
+<h2>Where it often happens in Münster</h2>
+<p>At the Münster-Süd interchange, where the A1 and A43 meet, traffic is denser because of lane changes. Around the university and city centre, dense buildings and many cyclists make it more confusing than elsewhere. At the canal bridges, the carriageway is often narrower than on the open road.</p>
+<h2>How to describe your location in Münster</h2>
+<ul class="ticks">
+<li>District and street, plus house number or cross street.</li>
+<li>On the A1, A43, B51 or B219: number, direction, exit or interchange.</li>
+<li>By a canal or the Aasee: nearest car park, bridge, or access point.</li>
+<li>In the university district: street and a note about narrow access.</li>
+</ul>
+<p>Neighbouring cities: <a href="en-stadt-dortmund.html">Dortmund</a> and <a href="en-stadt-bielefeld.html">Bielefeld</a>. All cities: <a href="staedte.html">Towing service in your city</a> (German). General steps: <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions About Münster</h2>
+<details><summary>I'm on the A1 just before the Münster-Süd interchange. What do I do?</summary><div>Hazard lights on, get behind the crash barrier, set up a warning triangle if it's safe to do so. Tell us your direction of travel and the distance to the interchange, and we'll find you quickly.</div></details>
+<details><summary>Can you take my car from Münster to my garage, even outside the city?</summary><div>Yes, we'll tell you the price for the route in advance on the phone, whether the garage is in Münster or, say, Dortmund or Bielefeld.</div></details>
+<details><summary>What does a towing service cost in Münster?</summary><div>That depends on location and destination. We tell you the price on the phone before anyone drives out.</div></details>
+<details><summary>Does someone come at night or on weekends too?</summary><div>Yes, we're reachable around the clock by phone and WhatsApp, and arrange a partner on the ground at night too.</div></details>
+<details><summary>My electric car has broken down. Can you help with that too?</summary><div>Yes, electric cars are transported on a flatbed so no driven axle turns. Tell us on the phone that it's an electric car.</div></details>
+</div></section>
+@@CTA@@
