@@ -1,0 +1,28 @@
+=== stadt-paderborn | Abschleppdienst Paderborn: Pannenhilfe A33, A44, B1 | Pannenhilfe und Abschleppen in Paderborn: acht Stadtbezirke, Pader-Quellen, A33 mit fünf Ausfahrten, A44, B1, B64 und Flughafen Paderborn/Lippstadt. | page ===
+<!--AREAS: Paderborn, Paderborn-Schloß Neuhaus, Paderborn-Elsen, Paderborn-Sande, Büren -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Paderborn</p><h1>Abschleppdienst Paderborn</h1><p class="lead">Paderborn liegt an der A33, die A2 und A44 verbindet. Der Flughafen Paderborn/Lippstadt ist etwa 15 Kilometer entfernt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Stadt der Pader-Quellen</h2>
+<p>Paderborn ist mit 155.906 Einwohnern (Stand 31. Dezember 2025) eine Großstadt im östlichen Teil von Nordrhein-Westfalen, Kreisstadt des gleichnamigen Kreises, Universitätsstadt, Oberzentrum und Mittelpunkt der Region Hochstift Paderborn. Der Name weist auf die Quellen der Pader im heutigen Stadtzentrum hin. Zu Paderborn gehören die acht Ortsteile rund um die Kernstadt, die Kernstadt selbst gliedert sich in acht Stadtbezirke. In den Stadtbezirken Schloß Neuhaus/Sande und Elsen gibt es jeweils eine Bezirksverwaltungsstelle. Nennen Sie uns bei einer Panne Ortsteil oder Stadtbezirk und die Straße.</p>
+<h2>A33 mit fünf Ausfahrten</h2>
+<p>Paderborn ist mit fünf Ausfahrten an die A33 angeschlossen, die die A2 Oberhausen–Berlin mit der A44 Dortmund–Kassel verbindet. Parallel zur A33 führt eine 380-Kilovolt-Höchstspannungsleitung direkt durch Paderborn und endet im Umspannwerk in Paderborn-Elsen. Zur A33 lesen Sie auch <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a> und <a href="autobahn-a44.html">Panne auf der A44</a>. Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Ausfahrt.</p>
+<h2>B1, B64 und die Zufahrten</h2>
+<p>Von Westen wird die Stadt aus Richtung Dortmund und Soest über die B1 erreicht, die im weiteren Verlauf nach Nordosten Richtung Detmold und Hameln führt. Von Osten aus Richtung Höxter gelangt man über die B64, die in nordwestlicher Richtung weiter nach Münster führt. Wenn Sie auf einer dieser Bundesstraßen liegen bleiben, sagen Sie uns Straße, Ortsteil und Fahrtrichtung. Mehr auf <a href="stadt-muenster.html">Abschleppdienst Münster</a>.</p>
+<h2>Flughafen Paderborn/Lippstadt</h2>
+<p>Der Flughafen Paderborn/Lippstadt liegt rund 15 Kilometer südwestlich der Stadtmitte in unmittelbarer Nähe des Ortsteils Ahden der Stadt Büren. Er bietet Linienverkehr nach München sowie Charterverkehr in Urlaubsregionen. Er ist über die B1 und den Flughafenzubringer sowie von der A44 über die Abfahrt Büren zu erreichen. Vom Hauptbahnhof verkehrt im 30-Minuten-Takt ein Schnellbus, der nach 20 Minuten am Flughafen eintrifft. Der Flugplatz Paderborn-Haxterberg im äußersten Süden des Stadtgebiets dient hauptsächlich dem Individualluftverkehr. Wenn Ihr Fahrzeug nach einer Reise am Flughafen nicht startet, nennen Sie uns Parkplatz und Bereich.</p>
+<h2>So nennen Sie Ihren Standort in Paderborn</h2>
+<ul class="ticks">
+<li>Ortsteil oder Stadtbezirk und Straße, dazu Hausnummer oder Querstraße.</li>
+<li>Auf der A33 oder A44: Richtung, Ausfahrt (bei der A44 zum Beispiel Büren).</li>
+<li>Auf B1 oder B64: Richtung und Ortsteil.</li>
+<li>Am Flughafen: Parkplatz, Zufahrt oder Bereich.</li>
+</ul>
+<p>Weitere Städte in der Nähe: <a href="stadt-guetersloh.html">Gütersloh</a> und <a href="stadt-hamm.html">Hamm</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Paderborn</h2>
+<details><summary>Wie viele Stadtbezirke hat die Paderborner Kernstadt?</summary><div>Acht Stadtbezirke, dazu kommen acht Ortsteile rund um die Kernstadt.</div></details>
+<details><summary>Wie viele Ausfahrten hat die A33 in Paderborn?</summary><div>Fünf, die A33 verbindet die A2 mit der A44.</div></details>
+<details><summary>Wie erreiche ich den Flughafen Paderborn/Lippstadt?</summary><div>Über die B1 und den Flughafenzubringer oder von der A44 über die Abfahrt Büren. Der Flughafen liegt rund 15 Kilometer südwestlich.</div></details>
+<details><summary>Kommen Sie auch nach Büren?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+</div></section>
+@@CTA@@

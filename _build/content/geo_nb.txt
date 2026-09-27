@@ -79,3 +79,4 @@ stadt-guetersloh	bielefeld,paderborn,muenster,hamm,osnabrueck,dortmund,herford,m
 stadt-witten	bochum,dortmund,hagen,essen,herne,wuppertal,gelsenkirchen,recklinghausen	
 stadt-hanau	frankfurt,offenbach,darmstadt,aschaffenburg,fulda,giessen,wiesbaden,mainz	a3
 stadt-schwerin	rostock,luebeck,hamburg,kiel,berlin,wismar,potsdam,bremen	
+stadt-paderborn	bielefeld,guetersloh,hamm,kassel,muenster,detmold,hoexter,soest	a2
