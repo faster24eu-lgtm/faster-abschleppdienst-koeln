@@ -102,13 +102,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Saarbrücken</p><h1>Abschleppdienst Saarbrücken</h1><p class="lead">Saarbrücken ist die Landeshauptstadt des Saarlandes an der französischen Grenze. Mehrere Autobahnen beginnen hier, die A620 ist Stadtautobahn. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Landeshauptstadt an der Saar</h2>
-<p>Saarbrücken ist die Landeshauptstadt des Saarlandes und mit 182.859 Einwohnern dessen größte Stadt und einzige Großstadt. Die Universitätsstadt liegt an der Saar und entstand 1909 aus dem Zusammenschluss dreier bis dahin selbstständiger Städte. Der Name bedeutet genau das, als was er heute erscheint: eine Brücke über die Saar, urkundlich zuerst 999 als "Sarabruca" genannt. Die Alte Brücke über die Saar wurde 1546 bis 1548 begonnen. Das Stadtgebiet ist in die vier Stadtbezirke Mitte, Dudweiler, West und Halberg gegliedert. Nennen Sie uns bei einer Panne Stadtbezirk oder Stadtteil und Straße und ob Sie links oder rechts der Saar stehen.</p>
+<p>Saarbrücken ist die Landeshauptstadt des Saarlandes und liegt an der Saar. Das Stadtgebiet ist in die vier Stadtbezirke Mitte, Dudweiler, West und Halberg gegliedert. Nennen Sie uns bei einer Panne Stadtbezirk oder Stadtteil und Straße und ob Sie links oder rechts der Saar stehen.</p>
 <h2>Vier Autobahnen beginnen in Saarbrücken</h2>
 <p>In Saarbrücken beginnen mehrere Autobahnen: in Richtung Osten die A6 (nach Waidhaus über Kaiserslautern, Mannheim, Heilbronn und Nürnberg), in Richtung Nordosten die A623 als Zubringer zur A8 Richtung Pirmasens, von Saarbrücken-Dudweiler bis zum Dreieck Friedrichsthal, und nach Norden die A1 (nach Heiligenhafen über Trier, Köln, Dortmund, Münster, Bremen, Hamburg und Lübeck). An der Goldenen Bremm an der südlichen Stadtgrenze beginnt die französische A320, ein Zubringer zur A4 Richtung Paris. Über die A620 nach Saarlouis ist Saarbrücken an die A8 angebunden. Mehr zur A6 lesen Sie auf der Seite <a href="autobahn-a6.html">Panne auf der A6</a>, zur A8 auf <a href="autobahn-a8.html">Panne auf der A8</a>.</p>
 <h2>Die A620 als Stadtautobahn</h2>
-<p>Die A620 fungiert zwischen den Anschlussstellen Saarbrücken-Güdingen (AS 21) und Saarbrücken-Klarenthal (AS 11) als Stadtautobahn für Saarbrücken. Zu den umfassendsten Eingriffen in den historischen Saarbrücker Stadtgrundriss zählt der Bau der Stadtautobahn im Wiederaufbau nach dem Krieg. Wenn Sie auf der A620 liegen bleiben, sagen Sie uns Fahrtrichtung und die nächste Anschlussstelle mit ihrer Nummer. Das Dreieck Saarbrücken ist als Gabelung ausgeführt, an der Anschlussstelle Fechingen gibt es eine Rampe zum Wechseln der Fahrtrichtung.</p>
+<p>Die A620 fungiert zwischen den Anschlussstellen Saarbrücken-Güdingen (AS 21) und Saarbrücken-Klarenthal (AS 11) als Stadtautobahn für Saarbrücken. Wenn Sie auf der A620 liegen bleiben, sagen Sie uns Fahrtrichtung und die nächste Anschlussstelle mit ihrer Nummer. Das Dreieck Saarbrücken ist als Gabelung ausgeführt, an der Anschlussstelle Fechingen gibt es eine Rampe zum Wechseln der Fahrtrichtung.</p>
 <h2>Goldene Bremm und die Grenze</h2>
-<p>Die A6 beginnt am früheren Grenzübergang Goldene Bremm am südlichen Stadtrand. Die ehemalige Grenzstation wurde nach Wegfall der Grenzkontrollen in eine bewirtschaftete Rastanlage umgebaut. Für Fahrzeuge, die aus Frankreich kommen, gelten andere Regeln, siehe <a href="ratgeber-panne-kehl-strassburg.html">Panne im Grenzgebiet</a>. Nennen Sie uns, auf welcher Seite der Grenze Sie stehen.</p>
+<p>Die A6 beginnt am früheren Grenzübergang Goldene Bremm am südlichen Stadtrand. Die ehemalige Grenzstation ist heute eine bewirtschaftete Rastanlage. Für Fahrzeuge, die aus Frankreich kommen, gelten andere Regeln, siehe <a href="ratgeber-panne-kehl-strassburg.html">Panne im Grenzgebiet</a>. Nennen Sie uns, auf welcher Seite der Grenze Sie stehen.</p>
+<h2>Was wir in Saarbrücken tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Saarbrücken</h2>
+<p>Auf A6, A620, A1 oder A623: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Auf der A620 als Stadtautobahn: nicht am Dreieck Saarbrücken selbst halten, sondern wenn möglich bis zur nächsten Anschlussstelle weiterfahren. An der Goldenen Bremm: sagen Sie uns, ob Sie noch in Deutschland oder schon in Frankreich stehen.</p>
+<h2>Wo es in Saarbrücken oft passiert</h2>
+<p>Auf der A620 zwischen Güdingen und Klarenthal ist der Verkehr durch die Stadtautobahn-Funktion dichter als auf freier Strecke. Am Dreieck Saarbrücken sorgt die Gabelung für Verwirrung bei Ortsfremden. An der Goldenen Bremm ist mit Grenzverkehr aus Frankreich zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Saarbrücken</h2>
 <ul class="ticks">
 <li>Stadtbezirk oder Stadtteil und Straße, dazu Saarseite.</li>
@@ -118,10 +124,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Saarbrücken</h2>
-<details><summary>Wie viele Stadtbezirke hat Saarbrücken?</summary><div>Vier: Mitte, Dudweiler, West und Halberg.</div></details>
-<details><summary>Welche Autobahnen beginnen in Saarbrücken?</summary><div>Die A6 nach Osten, die A1 nach Norden und die A623 nach Nordosten. Die A620 führt nach Saarlouis und ist Stadtautobahn.</div></details>
-<details><summary>Was ist die Goldene Bremm?</summary><div>Der frühere Grenzübergang an der südlichen Stadtgrenze, an dem die A6 beginnt und der heute eine Rastanlage ist.</div></details>
-<details><summary>Ich stehe auf der A620. Was sage ich?</summary><div>Fahrtrichtung und die Anschlussstelle mit ihrer Nummer, zum Beispiel Güdingen (21) oder Klarenthal (11).</div></details>
+<details><summary>Ich stehe auf der A620 zwischen zwei Anschlussstellen. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und die Anschlussstelle mit ihrer Nummer, zum Beispiel Güdingen (21) oder Klarenthal (11).</div></details>
+<details><summary>Können Sie mein Auto von Saarbrücken zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal wo die Werkstatt liegt.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Saarbrücken?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Ich komme aus Frankreich und stehe an der Goldenen Bremm. Helfen Sie auch dort?</summary><div>Sagen Sie uns, auf welcher Seite der Grenze Sie stehen, dann klären wir den passenden Partner für Ihren Standort.</div></details>
 </div></section>
 @@CTA@@
 
@@ -130,13 +136,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Mülheim an der Ruhr</p><h1>Abschleppdienst Mülheim an der Ruhr</h1><p class="lead">Mülheim liegt an der Ruhr zwischen Duisburg und Essen. Im Norden verläuft die A40 mit einem der höchsten Verkehrsaufkommen Deutschlands. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Stadt an der Ruhr</h2>
-<p>Mülheim an der Ruhr ist eine kreisfreie Großstadt im westlichen Ruhrgebiet und als Mittelzentrum eingestuft. Sie liegt unmittelbar an der Ruhr zwischen den Oberzentren Duisburg und Essen. Seit 1975 ist Mülheim in die drei Stadtbezirke Linksruhr, Rechtsruhr-Nord und Rechtsruhr-Süd gegliedert, die je eine Bezirksvertretung mit einem Bezirksbürgermeister haben. Für die Standortangabe gilt: Die Ruhr teilt die Stadt, nennen Sie uns deshalb, ob Sie links oder rechts der Ruhr stehen, dazu Stadtteil und Straße.</p>
-<h2>A40: über 130.000 Fahrzeuge pro Tag</h2>
-<p>Das Stadtgebiet wird von Autobahnen umrahmt. Im Norden verläuft die A40 von Duisburg nach Dortmund, die Schnellstraße mit einem der höchsten Verkehrsaufkommen in Deutschland (mehr als 130.000 Fahrzeuge pro Tag). Zwischen Mülheim-Winkhausen und Bochum-Werne regeln Pförtnerampeln den Verkehrszufluss auf die Autobahn. Im Süden führt die A52 mit der 1.830 Meter langen Mintarder Ruhrtalbrücke im Stadtteil Mintard über das Ruhrtal, die längste Stahlbrücke Deutschlands. Bei einer Panne auf der A40 nennen Sie uns Fahrtrichtung und Anschlussstelle. Mehr auf <a href="stadt-essen.html">Abschleppdienst Essen</a> und <a href="stadt-bochum.html">Abschleppdienst Bochum</a>.</p>
-<h2>Die Kettenbrücke und die Ruhrfurt</h2>
-<p>Zwischen 1842 und 1844 wurde an der Ruhrfurt zwischen Broich und Stadtmitte mit der Kettenbrücke die erste Hängebrücke Deutschlands in Eisenbauweise errichtet. Die Brücke musste 1909 einer Betonbrücke weichen. Das Stadtlogo, ein doppeltes M, steht als symbolische Brücke. Für Sie zählt: Über die Ruhr führen nur wenige Brücken, die Innenstadt ist entsprechend belastet.</p>
-<h2>Warum es keine A31 gibt</h2>
-<p>Das Hexbachtal konnte als Naherholungsgebiet und teilweise als Naturschutzgebiet erhalten werden, weil durch den Einsatz von Bürgern (Aktionsgemeinschaft A31) im Jahr 1980 der Bau der Autobahn A31 verhindert wurde. Wenn Sie im Hexbachtal am Rand von Wald liegen bleiben, nennen Sie uns Parkplatz oder Zufahrt.</p>
+<p>Mülheim an der Ruhr ist eine kreisfreie Großstadt im westlichen Ruhrgebiet zwischen Duisburg und Essen. Das Stadtgebiet ist in die drei Stadtbezirke Linksruhr, Rechtsruhr-Nord und Rechtsruhr-Süd gegliedert. Für die Standortangabe gilt: Die Ruhr teilt die Stadt, nennen Sie uns deshalb, ob Sie links oder rechts der Ruhr stehen, dazu Stadtteil und Straße.</p>
+<h2>A40: sehr hohes Verkehrsaufkommen</h2>
+<p>Das Stadtgebiet wird von Autobahnen umrahmt. Im Norden verläuft die A40 von Duisburg nach Dortmund, eine der am stärksten befahrenen Schnellstraßen im Ruhrgebiet. Zwischen Mülheim-Winkhausen und Bochum-Werne regeln Pförtnerampeln den Verkehrszufluss auf die Autobahn. Im Süden führt die A52 mit der Mintarder Ruhrtalbrücke im Stadtteil Mintard über das Ruhrtal. Bei einer Panne auf der A40 nennen Sie uns Fahrtrichtung und Anschlussstelle. Mehr auf <a href="stadt-essen.html">Abschleppdienst Essen</a> und <a href="stadt-bochum.html">Abschleppdienst Bochum</a>.</p>
+<h2>Brücken über die Ruhr</h2>
+<p>An der Ruhrfurt zwischen Broich und Stadtmitte führt seit Langem eine Brücke über den Fluss, das Stadtlogo mit dem doppelten M steht als symbolische Brücke dafür. Für Sie zählt: Über die Ruhr führen nur wenige Brücken, die Innenstadt ist entsprechend belastet.</p>
+<h2>Das Hexbachtal</h2>
+<p>Das Hexbachtal im Norden der Stadt ist ein Naherholungsgebiet mit teilweise geschütztem Wald, dort gibt es keine Autobahn. Wenn Sie im Hexbachtal am Rand von Wald liegen bleiben, nennen Sie uns Parkplatz oder Zufahrt.</p>
+<h2>Was wir in Mülheim tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Mülheim</h2>
+<p>Auf der A40 oder A52: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Auf der Mintarder Ruhrtalbrücke: nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt. An einer Ruhrbrücke in der Innenstadt: Warnblinker an, weil dort wenig Platz zum Ausweichen bleibt.</p>
+<h2>Wo es in Mülheim oft passiert</h2>
+<p>Auf der A40 ist wegen des sehr hohen Verkehrsaufkommens fast durchgehend mehr Verkehr als auf vergleichbaren Autobahnabschnitten. An den Pförtnerampeln zwischen Mülheim-Winkhausen und Bochum-Werne staut sich der Verkehr zu Stoßzeiten zurück. An den wenigen Ruhrbrücken der Innenstadt ist es entsprechend eng.</p>
 <h2>So nennen Sie Ihren Standort in Mülheim</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu die Ruhrseite.</li>
@@ -146,10 +158,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Mülheim an der Ruhr</h2>
-<details><summary>Wie viele Stadtbezirke hat Mülheim?</summary><div>Drei: Linksruhr, Rechtsruhr-Nord und Rechtsruhr-Süd, seit 1975.</div></details>
-<details><summary>Wie stark befahren ist die A40?</summary><div>Bei Mülheim mit mehr als 130.000 Fahrzeugen pro Tag, einem der höchsten Verkehrsaufkommen Deutschlands.</div></details>
-<details><summary>Was ist die Mintarder Ruhrtalbrücke?</summary><div>Eine 1.830 Meter lange Stahlbrücke der A52, die längste Stahlbrücke Deutschlands.</div></details>
-<details><summary>Was sind Pförtnerampeln?</summary><div>Ampeln an den Anschlussstellen der A40 zwischen Mülheim-Winkhausen und Bochum-Werne, die den Zufluss auf die Autobahn regeln.</div></details>
+<details><summary>Ich stehe auf der A40 an einer Pförtnerampel. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und die nächste Anschlussstelle.</div></details>
+<details><summary>Können Sie mein Auto von Mülheim zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Mülheim liegt oder etwa in Essen oder Duisburg.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Mülheim?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, rufen Sie uns rund um die Uhr an oder schreiben Sie per WhatsApp, wir vermitteln auch nachts einen Partner vor Ort.</div></details>
 </div></section>
 @@CTA@@
 
@@ -158,13 +170,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Potsdam</p><h1>Abschleppdienst Potsdam</h1><p class="lead">Potsdam liegt an der Havel südwestlich von Berlin, angebunden über den Berliner Ring A10 und die A115. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Hauptstadt Brandenburgs an der Havel</h2>
-<p>Potsdam ist die Hauptstadt des Landes Brandenburg und mit knapp 190.000 Einwohnern auch dessen bevölkerungsreichste Stadt. Sie liegt an der Havel im Ballungsraum Berlin und grenzt südwestlich an Berlin. Die Stadt gliedert sich in 8 Stadtbezirke und weiter in 32 Stadtteile, die in 86 statistische Bezirke unterteilt sind. Mit dem Bau der Berliner Mauer verlor Potsdam 1961 den direkten Anschluss an die Nachbarstadt West-Berlin. Heute ist die Stadt ein Kultur-, Dienstleistungs- und Forschungszentrum. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
+<p>Potsdam ist die Hauptstadt des Landes Brandenburg. Sie liegt an der Havel im Ballungsraum Berlin und grenzt südwestlich an Berlin. Die Stadt gliedert sich in acht Stadtbezirke und weiter in 32 Stadtteile. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
 <h2>A10 und A115</h2>
 <p>Im Westen und Süden ist Potsdam durch den Berliner Ring (A10) mit dem Autobahndreieck Potsdam und im Osten durch die A115, im Berliner Stadtgebiet auch AVUS genannt, an das Bundesautobahnnetz angeschlossen. Am Dreieck Potsdam bei Ferch beginnt die <a href="autobahn-a9.html">A9</a> Richtung Süden. Mehr zur A115 auf der Seite <a href="stadt-berlin.html">Abschleppdienst Berlin</a>. Wenn Sie an einem dieser Knoten liegen bleiben, nennen Sie uns Autobahn, Richtung und ob Sie vor oder hinter dem Dreieck stehen.</p>
 <h2>Bundesstraßen und Nuthe-Schnellstraße</h2>
 <p>Durch das Stadtgebiet verlaufen die B1, B2 und B273. Die Landesstraße L40 verbindet Potsdam mit den Bundesstraßen B101, B96 und B179, erschließt das südliche Berliner Umland über Stahnsdorf, Teltow, Mahlow und Schönefeld bis Berlin-Treptow-Köpenick und trägt im Potsdamer Stadtgebiet die Bezeichnung Nuthe-Schnellstraße. Auf einer solchen Schnellstraße sagen Sie uns bitte Richtung und die nächste Anschlussstelle.</p>
 <h2>Havel, Hafen und Brücken</h2>
-<p>Potsdam wird von der Unteren Havel-Wasserstraße tangiert, der wichtigsten Ost-West-Verbindung der Binnenschifffahrt zwischen Oder, Berlin und Elbe. Die Frachtschifffahrt benutzt den Sacrow-Paretzer Kanal, der Hafen an der Langen Brücke wird von Schiffen genutzt. Jährlich im April startet ein Drittelmarathon auf einem Rundkurs mit Start und Ziel auf der Glienicker Brücke. Bei Veranstaltungen ändern sich Zufahrten, nennen Sie uns dann bitte Straße und Brücke. Die Stadt war Garnisonstadt und besaß eine Stadtmauer mit Stadttoren, von denen drei erhalten sind, darunter das Brandenburger Tor.</p>
+<p>Potsdam wird von der Unteren Havel-Wasserstraße tangiert, einer wichtigen Ost-West-Verbindung der Binnenschifffahrt zwischen Oder, Berlin und Elbe. Die Frachtschifffahrt benutzt den Sacrow-Paretzer Kanal, der Hafen an der Langen Brücke wird von Schiffen genutzt. Bei Veranstaltungen an der Glienicker Brücke oder anderen Brücken ändern sich Zufahrten, nennen Sie uns dann bitte Straße und Brücke. Von der alten Stadtmauer ist unter anderem das Brandenburger Tor als Landmarke erhalten.</p>
+<h2>Was wir in Potsdam tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Potsdam</h2>
+<p>Auf A10 oder A115: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Auf der Nuthe-Schnellstraße: sagen Sie uns Richtung und die nächste Anschlussstelle, ähnlich wie auf einer Autobahn. An Glienicker oder Langer Brücke: Warnblinker an und nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt.</p>
+<h2>Wo es in Potsdam oft passiert</h2>
+<p>Am Dreieck Potsdam, wo A10 und A9 zusammenlaufen, ist der Verkehr durch den Fahrstreifenwechsel dichter. An den Havelbrücken wie der Glienicker Brücke ist wenig Platz zum Ausweichen. Bei Veranstaltungen in der Innenstadt ändern sich Zufahrten kurzfristig.</p>
 <h2>So nennen Sie Ihren Standort in Potsdam</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -174,10 +192,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Potsdam</h2>
-<details><summary>Wie viele Stadtbezirke hat Potsdam?</summary><div>Acht Stadtbezirke, die in 32 Stadtteile und 86 statistische Bezirke unterteilt sind.</div></details>
-<details><summary>Welche Autobahnen führen nach Potsdam?</summary><div>Der Berliner Ring A10 mit dem Dreieck Potsdam im Westen und Süden und die A115 im Osten.</div></details>
-<details><summary>Was ist die Nuthe-Schnellstraße?</summary><div>Die Bezeichnung der Landesstraße L40 im Potsdamer Stadtgebiet, die Potsdam mit dem südlichen Berliner Umland und Berlin verbindet.</div></details>
-<details><summary>Kommen Sie auch nach Berlin?</summary><div>Wir organisieren Einsätze in Berlin und im Berliner Umland. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Ich stehe am Dreieck Potsdam kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn, Fahrtrichtung und ob Sie vor oder hinter dem Dreieck stehen.</div></details>
+<details><summary>Kommen Sie auch nach Berlin?</summary><div>Ja, wir organisieren Einsätze in Berlin und im Berliner Umland. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Potsdam?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Können Sie mein Auto von Potsdam zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Potsdam liegt oder etwa in Berlin.</div></details>
 </div></section>
 @@CTA@@
 
@@ -186,11 +204,17 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ludwigshafen</p><h1>Abschleppdienst Ludwigshafen am Rhein</h1><p class="lead">Ludwigshafen ist die größte Stadt der Pfalz und bildet mit Mannheim ein zusammenhängendes Stadtgebiet. Sagen Sie uns, auf welcher Rheinseite Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Größte Stadt der Pfalz</h2>
-<p>Ludwigshafen am Rhein ist die größte Stadt der Pfalz, mit 177.222 Einwohnern am 31. Dezember 2024 nach Mainz die zweitgrößte Stadt in Rheinland-Pfalz und nach Mannheim die zweitgrößte Stadt der Metropolregion Rhein-Neckar. Das Stadtgebiet ist in zehn Ortsbezirke gegliedert. 1607 gründete Kurfürst Friedrich IV. von der Pfalz am Westufer des Rheins die Mannheimer Rheinschanze als Brückenkopf der Festung Mannheim, aus der die spätere Stadt entstand. Für die Standortangabe gilt: Der Rhein trennt Ludwigshafen von Mannheim, und die Brücken sind die einzigen Verbindungen. Nennen Sie uns deshalb immer, auf welcher Seite Sie stehen.</p>
+<p>Ludwigshafen am Rhein ist die größte Stadt der Pfalz. Das Stadtgebiet ist in zehn Ortsbezirke gegliedert. Für die Standortangabe gilt: Der Rhein trennt Ludwigshafen von Mannheim, und die Brücken sind die einzigen Verbindungen. Nennen Sie uns deshalb immer, auf welcher Seite Sie stehen.</p>
 <h2>A6, A61, A65 und A650</h2>
 <p>Durch das nördliche Stadtgebiet führt die A6 Saarbrücken–Nürnberg, im Westen der Stadt die A61 Speyer–Koblenz vorbei. Hier beginnen außerdem die A65, die als Ersatz für die B38 in Richtung Neustadt an der Weinstraße führt, und die A650 in Richtung Bad Dürkheim. Über die Anschlussstelle Ludwigshafen-Nord besteht ein Anschluss an die B9, die auch das Stammgelände der BASF anschließt. Durch das Stadtgebiet führen außerdem die B9 von Süden nach Norden, die B37 nach Bad Dürkheim und die B44 nach Süden. Bei einer Panne auf einer Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle oder Kreuz. Mehr zu den Strecken: <a href="autobahn-a6.html">Panne auf der A6</a> und <a href="autobahn-a61.html">Panne auf der A61</a>.</p>
 <h2>Rheinbrücken und Mannheim</h2>
 <p>Auf der Theodor-Heuss-Brücke wird der Rhein von der A6 überquert, für Fußgänger besteht im Mittelstreifen ein Steg. Die Rheinbrücken sind bei einer Panne empfindliche Stellen: Ein liegengebliebenes Fahrzeug blockiert schnell einen Teil des Verkehrs. Schalten Sie den Warnblinker ein und rufen Sie uns an, sobald Sie sicher stehen. Mehr zur anderen Rheinseite auf der Seite <a href="stadt-mannheim.html">Abschleppdienst Mannheim</a>.</p>
+<h2>Was wir in Ludwigshafen tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Ludwigshafen</h2>
+<p>Auf A6, A61, A65 oder A650: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Auf der Theodor-Heuss-Brücke: nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt, fahren Sie wenn möglich bis zum anderen Ufer weiter. Am BASF-Werksgelände: Warnblinker an und Straße und Tor so genau wie möglich beschreiben.</p>
+<h2>Wo es in Ludwigshafen oft passiert</h2>
+<p>Auf der Theodor-Heuss-Brücke ist eine Panne heikel, weil kaum Platz zum Ausweichen bleibt und schnell Verkehr blockiert wird. An der Anschlussstelle Ludwigshafen-Nord ist wegen des Werksverkehrs zur BASF oft mehr los als anderswo. Im Bereich der zusammenlaufenden A65 und A650 ist der Verkehr durch den Fahrstreifenwechsel dichter.</p>
 <h2>So nennen Sie Ihren Standort in Ludwigshafen</h2>
 <ul class="ticks">
 <li>Ortsbezirk und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -200,9 +224,9 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Ludwigshafen</h2>
-<details><summary>Wie viele Ortsbezirke hat Ludwigshafen?</summary><div>Zehn Ortsbezirke.</div></details>
-<details><summary>Welche Autobahnen führen nach Ludwigshafen?</summary><div>Die A6 im Norden, die A61 im Westen, dazu beginnen hier die A65 und die A650.</div></details>
-<details><summary>Ich stehe auf einer Rheinbrücke. Was sage ich?</summary><div>Die Brücke, die Fahrtrichtung und ob Sie noch vor oder schon auf der anderen Rheinseite stehen. Ein Standort per WhatsApp hilft.</div></details>
-<details><summary>Kommen Sie auch nach Mannheim?</summary><div>Wir organisieren Einsätze in der Region Rhein-Neckar. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Ich stehe auf der Theodor-Heuss-Brücke. Was mache ich?</summary><div>Warnblinker an. Wenn das Fahrzeug es zulässt, möglichst bis zum anderen Ufer weiterfahren statt auf der Brücke zu halten, und uns Fahrtrichtung und Rheinseite nennen.</div></details>
+<details><summary>Kommen Sie auch nach Mannheim?</summary><div>Ja, wir organisieren Einsätze in der Region Rhein-Neckar. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Ludwigshafen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Können Sie mein Auto von Ludwigshafen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Ludwigshafen liegt oder etwa in Mannheim oder Speyer.</div></details>
 </div></section>
 @@CTA@@

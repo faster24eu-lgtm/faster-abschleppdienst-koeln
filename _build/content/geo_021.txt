@@ -7,7 +7,13 @@
 <h2>Autobahnring aus A28, A29, A293 und Nordtangente</h2>
 <p>Oldenburg ist von mehreren Autobahnen umgeben. Die A29 führt in Richtung Norden nach Wilhelmshaven und nach Süden zum Autobahndreieck Ahlhorner Heide. Die A293 stellt die Verbindung zwischen der A28 am Dreieck Oldenburg-West und der A29 am Autobahnkreuz Oldenburg-Nord her und geht dort in die B211 Richtung Brake und zum Wesertunnel über. Die vierstreifig autobahnähnlich ausgebaute Nordtangente (K347/L865n) schließt den Autobahnring, sie verbindet die A29 und die A293 und führt durch die Stadtteile Ohmstede und Nadorst. Die A28 und A293 sowie die Nordtangente sind typische Stadtautobahnen, die das Stadtgebiet durchschneiden, einen erheblichen Teil des innerstädtischen Verkehrs aufnehmen und eine hohe Dichte an Auf- und Abfahrten haben. Die B401 beginnt an der Anschlussstelle Oldenburg-Eversten der A28 und führt nach Westen ins Emsland. Wenn Sie hier liegen bleiben, nennen Sie uns Autobahn, Richtung und Anschlussstelle.</p>
 <h2>Das Fahrrad als Hauptverkehrsmittel</h2>
-<p>Nach der Erhebung Modal Split 2023 wurden 47 Prozent der Wege innerhalb der Stadt mit dem Fahrrad zurückgelegt, dahinter folgten der motorisierte Individualverkehr mit 28 Prozent, Fußwege mit 21 Prozent und der öffentliche Personennahverkehr mit 4 Prozent. Oldenburg hat damit den höchsten Radverkehrsanteil Deutschlands. Jeder Haushalt hat durchschnittlich 2,6 Fahrräder. Für Sie als Fahrer hat das eine praktische Folge: Wenn Ihr Fahrzeug in der Innenstadt liegen bleibt, sollte es nicht auf einem Radweg stehen. Sagen Sie uns bitte, ob Sie auf einem Radweg oder auf der Fahrbahn stehen.</p>
+<p>In Oldenburg wird ein sehr großer Teil der Wege in der Stadt mit dem Fahrrad zurückgelegt, einer der höchsten Radverkehrsanteile in Deutschland. Für Sie als Fahrer hat das eine praktische Folge: Wenn Ihr Fahrzeug in der Innenstadt liegen bleibt, sollte es nicht auf einem Radweg stehen. Sagen Sie uns bitte, ob Sie auf einem Radweg oder auf der Fahrbahn stehen.</p>
+<h2>Was wir in Oldenburg tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Oldenburg</h2>
+<p>Auf A28, A29 oder A293: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Auf der Nordtangente: Warnblinker an, weil dort viele Auf- und Abfahrten dicht aufeinander folgen. In der Innenstadt auf oder neben einem Radweg: Fahrzeug wenn möglich auf die Fahrbahn statt auf den Radweg stellen.</p>
+<h2>Wo es in Oldenburg oft passiert</h2>
+<p>Am Dreieck Oldenburg-West und am Kreuz Oldenburg-Nord ist der Verkehr durch den Fahrstreifenwechsel dichter. Auf der Nordtangente mit ihrer hohen Dichte an Auf- und Abfahrten ist es unübersichtlicher als auf einer normalen Autobahn. In der Innenstadt mit sehr viel Radverkehr ist eine liegen gebliebene Panne besonders unübersichtlich.</p>
 <h2>So nennen Sie Ihren Standort in Oldenburg</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -17,10 +23,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Oldenburg</h2>
-<details><summary>Wie viele Stadtbezirke hat Oldenburg?</summary><div>Neun Stadtbezirke, die wiederum in Stadtteile untergliedert sind.</div></details>
-<details><summary>Welche Autobahnen führen nach Oldenburg?</summary><div>Die A28, die A29 und die A293, dazu die vierstreifige Nordtangente, die den Autobahnring schließt.</div></details>
-<details><summary>Was ist der Radverkehrsanteil in Oldenburg?</summary><div>Nach dem Modal Split 2023 47 Prozent der Wege innerhalb der Stadt, der höchste Wert Deutschlands laut Wikipedia.</div></details>
-<details><summary>Wohin führt die B211 ab Oldenburg-Nord?</summary><div>Von der A293 aus Richtung Brake und zum Wesertunnel.</div></details>
+<details><summary>Ich stehe auf der Nordtangente. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und den Stadtteil, durch den die Straße gerade führt.</div></details>
+<details><summary>Mein Auto steht auf einem Radweg in der Innenstadt. Ist das ein Problem?</summary><div>Wenn möglich, schieben Sie es auf die Fahrbahn oder einen Parkstreifen. Sagen Sie uns in jedem Fall, ob Sie auf dem Radweg oder der Fahrbahn stehen.</div></details>
+<details><summary>Können Sie mein Auto von Oldenburg zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal wo die Werkstatt liegt.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Oldenburg?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
@@ -29,13 +35,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Leverkusen</p><h1>Abschleppdienst Leverkusen</h1><p class="lead">In Leverkusen kreuzen sich A1 und A3 am Kreuz Leverkusen, und die A1 quert den Rhein auf der Rheinbrücke Leverkusen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Wo die Wupper in den Rhein mündet</h2>
-<p>Leverkusen ist eine kreisfreie Stadt und Mittelzentrum im südlichen Nordrhein-Westfalen, im Regierungsbezirk Köln gelegen und geografisch im Bergischen Land. Hier mündet die Wupper in den Rhein. Die heutige Stadt entstand 1975 durch den Zusammenschluss von Leverkusen mit der Kreisstadt Opladen und der Stadt Bergisch Neukirchen und der Eingliederung des Stadtteils Hitdorf der Stadt Monheim am Rhein. Seither ist das Stadtgebiet in drei Stadtbezirke, 13 Stadtteile und 16 Statistische Bezirke unterteilt, seit 2003 zusätzlich in 77 Quartiere. Bei einer Panne helfen Ihnen Stadtteil und Straße, etwa Wiesdorf, Opladen, Schlebusch oder Hitdorf.</p>
+<p>Leverkusen liegt im südlichen Nordrhein-Westfalen, geografisch im Bergischen Land. Hier mündet die Wupper in den Rhein. Das Stadtgebiet ist in drei Stadtbezirke und 13 Stadtteile unterteilt. Bei einer Panne helfen Ihnen Stadtteil und Straße, etwa Wiesdorf, Opladen, Schlebusch oder Hitdorf.</p>
 <h2>Kreuz Leverkusen: A1 und A3</h2>
-<p>Im Stadtgebiet kreuzen sich die A1 (Saarbrücken–Köln–Dortmund–Hamburg–Heiligenhafen) und die A3 (Passau–Frankfurt–Köln–Oberhausen–Emmerich) am Autobahnkreuz Leverkusen. Dort hat die A3 acht Fahrstreifen und ist laut Wikipedia der verkehrsreichste Autobahnabschnitt Deutschlands. Die A1 quert bei Wiesdorf auf der Rheinbrücke Leverkusen den Rhein. Zum Verlauf lesen Sie <a href="pannenhilfe-a3-koeln.html">Panne auf der A3 bei Köln</a>, <a href="pannenhilfe-a1-koeln.html">Panne auf der A1 bei Köln</a> und <a href="koeln-leverkusener-bruecke.html">Panne an der Leverkusener Brücke</a>. Am Kreuz Leverkusen sollten Sie uns immer sagen, auf welcher der beiden Autobahnen Sie stehen und in welche Richtung.</p>
+<p>Im Stadtgebiet kreuzen sich die A1 (Saarbrücken–Köln–Dortmund–Hamburg–Heiligenhafen) und die A3 (Passau–Frankfurt–Köln–Oberhausen–Emmerich) am Autobahnkreuz Leverkusen. Dort hat die A3 acht Fahrstreifen und gehört zu den am dichtesten befahrenen Autobahnabschnitten Deutschlands. Die A1 quert bei Wiesdorf auf der Rheinbrücke Leverkusen den Rhein. Zum Verlauf lesen Sie <a href="pannenhilfe-a3-koeln.html">Panne auf der A3 bei Köln</a>, <a href="pannenhilfe-a1-koeln.html">Panne auf der A1 bei Köln</a> und <a href="koeln-leverkusener-bruecke.html">Panne an der Leverkusener Brücke</a>. Am Kreuz Leverkusen sollten Sie uns immer sagen, auf welcher der beiden Autobahnen Sie stehen und in welche Richtung.</p>
 <h2>A59 und Bundesstraßen</h2>
-<p>Die A59 führt im Westen des Stadtgebiets in Richtung Norden nach Düsseldorf. Ferner verlaufen die Bundesstraßen B8 und B51 sowie die ehemalige B232 durch das Stadtgebiet. Wenn Sie auf einer dieser Straßen liegen bleiben, sagen Sie uns Straße und Fahrtrichtung. Der Rhein trennt Leverkusen vom rechtsrheinischen Köln, mehr auf <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke</a>.</p>
+<p>Die A59 führt im Westen des Stadtgebiets in Richtung Norden nach Düsseldorf. Ferner verlaufen die Bundesstraßen B8 und B51 durch das Stadtgebiet. Wenn Sie auf einer dieser Straßen liegen bleiben, sagen Sie uns Straße und Fahrtrichtung. Der Rhein trennt Leverkusen vom rechtsrheinischen Köln, mehr auf <a href="abschleppdienst-koeln-stadtteile.html">Köln: Stadtbezirke</a>.</p>
 <h2>Werksgelände und Zufahrten</h2>
 <p>Das Bayer-Werk prägt Wiesdorf und die Rheinseite der Stadt. Für Fahrzeuge in der Nähe von Werksgeländen brauchen wir Straße und Tor. Der Zugang zu Betriebsgelände hängt vom Betreiber ab, wir klären ihn im Einzelfall mit Ihnen.</p>
+<h2>Was wir in Leverkusen tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Leverkusen</h2>
+<p>Auf A1, A3 oder A59: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Am Kreuz Leverkusen: sagen Sie uns genau, auf welcher der beiden Autobahnen Sie stehen und ob Sie vor oder hinter dem Kreuz sind. Auf der Rheinbrücke Leverkusen: nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt.</p>
+<h2>Wo es in Leverkusen oft passiert</h2>
+<p>Am Kreuz Leverkusen, einem der am dichtesten befahrenen Autobahnabschnitte Deutschlands, ist mit dichtem Verkehr und häufigem Stau zu rechnen. Auf der Rheinbrücke Leverkusen ist wenig Platz zum Ausweichen. Rund um das Bayer-Werk in Wiesdorf ist mit Werksverkehr zu bestimmten Zeiten zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Leverkusen</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -45,10 +57,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Leverkusen</h2>
-<details><summary>Wie viele Stadtbezirke hat Leverkusen?</summary><div>Drei Stadtbezirke und 13 Stadtteile seit 1975, dazu 77 Quartiere seit 2003.</div></details>
-<details><summary>Welche Autobahnen kreuzen sich in Leverkusen?</summary><div>Die A1 und die A3 am Autobahnkreuz Leverkusen. Die A59 führt im Westen Richtung Düsseldorf.</div></details>
-<details><summary>Wo überquert die A1 den Rhein?</summary><div>Bei Wiesdorf auf der Rheinbrücke Leverkusen.</div></details>
-<details><summary>Ich stehe am Kreuz Leverkusen. Was sage ich?</summary><div>Autobahn (A1 oder A3), Fahrtrichtung und ob Sie vor oder hinter dem Kreuz stehen. Ein Standort per WhatsApp hilft.</div></details>
+<details><summary>Ich stehe am Kreuz Leverkusen. Was sage ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn (A1 oder A3), Fahrtrichtung und ob Sie vor oder hinter dem Kreuz stehen.</div></details>
+<details><summary>Können Sie mein Auto von Leverkusen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Leverkusen liegt oder etwa in Köln oder Düsseldorf.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Leverkusen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, rufen Sie uns rund um die Uhr an oder schreiben Sie per WhatsApp, wir vermitteln auch nachts einen Partner vor Ort.</div></details>
 </div></section>
 @@CTA@@
 
@@ -57,13 +69,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Osnabrück</p><h1>Abschleppdienst Osnabrück</h1><p class="lead">In Osnabrück schneiden sich europäische Verkehrsachsen: die A1 im Nordwesten, die A30 im Süden und die A33 im Osten. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>23 nummerierte Stadtteile</h2>
-<p>Osnabrück ist eine kreisfreie Großstadt in Niedersachsen, Sitz des Landkreises Osnabrück und ein Oberzentrum des Landes. Das Stadtgebiet ist in 23 Stadtteile unterteilt, die fortlaufend nummeriert sind. Ihre Namen gehen meist auf historische Bezeichnungen oder die geografische Lage zurück. Nennen Sie uns bei einer Panne den Stadtteil und die Straße die Nummer brauchen Sie nicht, denn im Alltag ist sie kaum bekannt.</p>
+<p>Osnabrück ist eine kreisfreie Großstadt in Niedersachsen. Das Stadtgebiet ist in 23 Stadtteile unterteilt, die fortlaufend nummeriert sind. Nennen Sie uns bei einer Panne den Stadtteil und die Straße, die Nummer brauchen Sie nicht, denn im Alltag ist sie kaum bekannt.</p>
 <h2>A1, A30 und A33</h2>
-<p>Durch Osnabrück führen mehrere Autobahnen: im Nordwesten die A1 "Hansalinie" Puttgarden–Saarbrücken, im Süden die A30 Bad Oeynhausen–Bad Bentheim und im Osten die A33 Osnabrück–Bad Wünnenberg. Die A30 kreuzt im Südwesten, im Autobahnkreuz Lotte/Osnabrück, die A1 und im Südosten, im Autobahnkreuz Osnabrück-Süd, die A33. Auf den Autobahnen rund um Osnabrück gab es zeitweise mehrere Bauprojekte. Im Stadtteil Atter wurde das Verkehrsbauwerk Dütebrücke, über das die A1 die Düte und die Bahnstrecke Löhne–Rheine überquert, neu gebaut. Wenn Sie an Kreuzen oder Brücken liegen bleiben, sagen Sie uns Autobahn, Richtung und Anschlussstelle. Zur A33 lesen Sie auch <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a>.</p>
+<p>Durch Osnabrück führen mehrere Autobahnen: im Nordwesten die A1 "Hansalinie" Puttgarden–Saarbrücken, im Süden die A30 Bad Oeynhausen–Bad Bentheim und im Osten die A33 Osnabrück–Bad Wünnenberg. Die A30 kreuzt im Südwesten, im Autobahnkreuz Lotte/Osnabrück, die A1 und im Südosten, im Autobahnkreuz Osnabrück-Süd, die A33. Im Stadtteil Atter überquert die A1 auf der Dütebrücke die Düte und die Bahnstrecke Löhne–Rheine. Wenn Sie an Kreuzen oder Brücken liegen bleiben, sagen Sie uns Autobahn, Richtung und Anschlussstelle. Zur A33 lesen Sie auch <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a>.</p>
 <h2>Bundesstraßen und Flughafen</h2>
 <p>Durch die Stadt führen die Bundesstraßen B68, B51 und B65. Der nächste Verkehrsflughafen ist der Flughafen Münster/Osnabrück, etwa 30 Kilometer entfernt. Wenn Sie nach einer Reise am Flughafen liegen bleiben, nennen Sie uns Terminal, Parkhaus und Ebene, Hinweise dazu: <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Tiefgarage und Parkhaus</a>.</p>
-<h2>Dütetal und Feuchtgebiete</h2>
-<p>Ein bedeutendes Feuchtgebiet im Stadtgebiet ist die Aue der Düte mit Nebengewässern. Sie umfasst naturnahe Abschnitte der Düte sowie Feuchtwiesen, Kleingewässer und Auwälder. Wenn Sie am Rand eines Schutzgebiets stehen, nennen Sie uns die nächste Straße und den Namen des Weges oder Parkplatzes.</p>
+<h2>Die Düte im Stadtgebiet</h2>
+<p>Die Düte durchfließt das Stadtgebiet mit naturnahen Abschnitten. Wenn Sie am Rand dieses Bereichs liegen bleiben, nennen Sie uns die nächste Straße und den Namen des Weges oder Parkplatzes.</p>
+<h2>Was wir in Osnabrück tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Osnabrück</h2>
+<p>Auf A1, A30 oder A33: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. An der Dütebrücke: nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt. Am Flughafen: Warnblinker an und Terminal, Parkhaus und Ebene so genau wie möglich nennen.</p>
+<h2>Wo es in Osnabrück oft passiert</h2>
+<p>Am Kreuz Lotte/Osnabrück und am Kreuz Osnabrück-Süd ist der Verkehr durch den Fahrstreifenwechsel dichter. An der Dütebrücke ist die Fahrbahn oft schmaler als auf freier Strecke. Rund um den Flughafen Münster/Osnabrück ist zu bestimmten Reisezeiten mit mehr Verkehr zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Osnabrück</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -73,9 +91,9 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Osnabrück</h2>
-<details><summary>Wie viele Stadtteile hat Osnabrück?</summary><div>23 Stadtteile, fortlaufend nummeriert.</div></details>
-<details><summary>Welche Autobahnen führen durch Osnabrück?</summary><div>Die A1 im Nordwesten, die A30 im Süden und die A33 im Osten.</div></details>
-<details><summary>Wo kreuzen sich A30 und A1?</summary><div>Am Autobahnkreuz Lotte/Osnabrück im Südwesten. Im Südosten kreuzt die A30 die A33 am Kreuz Osnabrück-Süd.</div></details>
+<details><summary>Ich stehe am Kreuz Lotte/Osnabrück kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn, Fahrtrichtung und ob Sie vor oder hinter dem Kreuz stehen.</div></details>
+<details><summary>Können Sie mein Auto von Osnabrück zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Osnabrück liegt oder etwa in Bielefeld oder Münster.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Osnabrück?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Wie weit ist der Flughafen?</summary><div>Der Flughafen Münster/Osnabrück liegt etwa 30 Kilometer entfernt.</div></details>
 </div></section>
 @@CTA@@
@@ -85,13 +103,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Solingen</p><h1>Abschleppdienst Solingen</h1><p class="lead">Solingen liegt im Bergischen Land, zwischen Bachtälern und Höhenrücken, und hat keinen direkten Autobahnanschluss. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Bergische Großstadt mit fünf Stadtbezirken</h2>
-<p>Solingen ist eine kreisfreie Großstadt im Regierungsbezirk Düsseldorf. Sie gehört zum Bergischen Land und zum Bergischen Städtedreieck. Das Stadtgebiet besteht aus fünf Stadtbezirken mit eigener Bezirksvertretung. Der westlichste Bezirk Ohligs/Aufderhöhe/Merscheid ist mit über 43.000 Einwohnern der größte. Historisch gibt es mehr als 400 Ortsteile und Wohnviertel mit eigenem Namen, darunter Hofschaften, die für das Bergische Land typisch sind. Für Ihre Standortangabe heißt das: Nennen Sie uns den Ortsteil oder Hofschaftsnamen und die Straße, denn die Straßennamen wiederholen sich in einer Stadt mit so vielen Ortsteilen.</p>
+<p>Solingen gehört zum Bergischen Land und zum Bergischen Städtedreieck. Das Stadtgebiet besteht aus fünf Stadtbezirken, der westlichste ist Ohligs/Aufderhöhe/Merscheid. Daneben gibt es viele Ortsteile und Wohnviertel mit eigenem Namen, darunter Hofschaften, die für das Bergische Land typisch sind. Für Ihre Standortangabe heißt das: Nennen Sie uns den Ortsteil oder Hofschaftsnamen und die Straße, denn die Straßennamen wiederholen sich in einer Stadt mit so vielen Ortsteilen.</p>
 <h2>Bachtäler und Höhenrücken</h2>
-<p>Charakteristisch sind die vielen Bachtäler zwischen den Höhenrücken, die eine Gesamtlänge von rund 200 Kilometern aufweisen. Links und rechts der Bäche erstrecken sich meist dichte Wälder oder Wiesen, kleine Brücken oder Dämme ermöglichen von Zeit zu Zeit die Querung. Wenn Sie in einem Tal oder an einer schmalen Brücke liegen bleiben, sind die Zufahrten für große Fahrzeuge begrenzt. Sagen Sie uns bitte, wie breit die Straße ist und ob es eine Wendemöglichkeit gibt.</p>
+<p>Charakteristisch sind die vielen Bachtäler zwischen den Höhenrücken. Links und rechts der Bäche erstrecken sich meist dichte Wälder oder Wiesen, kleine Brücken oder Dämme ermöglichen von Zeit zu Zeit die Querung. Wenn Sie in einem Tal oder an einer schmalen Brücke liegen bleiben, sind die Zufahrten für große Fahrzeuge begrenzt. Sagen Sie uns bitte, wie breit die Straße ist und ob es eine Wendemöglichkeit gibt.</p>
 <h2>Keine Autobahn in der Stadt</h2>
-<p>Solingen und Reutlingen sind die einzigen Großstädte in Deutschland, die nicht direkt an das Autobahnnetz angeschlossen sind. Die Autobahnanschlussstelle Solingen an der A3 befindet sich wenige Kilometer südlich von Ohligs auf dem Gebiet der Stadt Langenfeld. Die Stadtautobahn Viehbachtalstraße verläuft von Solingen-Mitte (Auffahrt Frankfurter Damm) bis nach Solingen-Ohligs beziehungsweise Aufderhöhe. Sie hat keinen direkten Anschluss an das Fernstraßennetz. Wenn Sie auf der Viehbachtalstraße liegen bleiben, sagen Sie uns Fahrtrichtung und Auffahrt. Die A3 lesen Sie auf der Seite <a href="autobahn-a3.html">Panne auf der A3</a>.</p>
+<p>Solingen gehört zu den wenigen Großstädten in Deutschland, die nicht direkt an das Autobahnnetz angeschlossen sind. Die Autobahnanschlussstelle Solingen an der A3 befindet sich wenige Kilometer südlich von Ohligs auf dem Gebiet der Stadt Langenfeld. Die Stadtautobahn Viehbachtalstraße verläuft von Solingen-Mitte (Auffahrt Frankfurter Damm) bis nach Solingen-Ohligs beziehungsweise Aufderhöhe. Sie hat keinen direkten Anschluss an das Fernstraßennetz. Wenn Sie auf der Viehbachtalstraße liegen bleiben, sagen Sie uns Fahrtrichtung und Auffahrt. Die A3 lesen Sie auf der Seite <a href="autobahn-a3.html">Panne auf der A3</a>.</p>
 <h2>Müngstener Brücke und Korkenziehertrasse</h2>
-<p>Im Brückenpark Müngsten, einem Gemeinschaftsprojekt der Städte Solingen, Remscheid und Wuppertal, liegt ein Landschaftspark unter der Müngstener Brücke. Die Korkenziehertrasse, aus einer früheren Bahntrasse zu einem Radweg umgebaut, verbindet den Solinger Südpark ohne nennenswerte Steigung mit den Stadtteilen Wald und Gräfrath. Auf Rad- und Fußwegen dürfen Autos nicht stehen bleiben, wenn es sich vermeiden lässt.</p>
+<p>Im Brückenpark Müngsten, einem Gemeinschaftsprojekt der Städte Solingen, Remscheid und Wuppertal, liegt ein Landschaftspark unter der Müngstener Brücke. Die Korkenziehertrasse, eine ehemalige Bahntrasse, die heute als Radweg dient, verbindet den Solinger Südpark ohne nennenswerte Steigung mit den Stadtteilen Wald und Gräfrath. Auf Rad- und Fußwegen dürfen Autos nicht stehen bleiben, wenn es sich vermeiden lässt.</p>
+<h2>Was wir in Solingen tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Solingen</h2>
+<p>Auf der Viehbachtalstraße oder der A3: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. In einem Bachtal an einer schmalen Straße: Fahrzeug möglichst platzsparend abstellen, damit andere Fahrzeuge noch vorbeikommen. An der Korkenziehertrasse oder anderen Radwegen: Fahrzeug wenn möglich nicht auf dem Weg stehen lassen.</p>
+<h2>Wo es in Solingen oft passiert</h2>
+<p>Auf der Viehbachtalstraße ohne direkten Fernstraßenanschluss ist der Verkehr zu Stoßzeiten dichter als erwartet. In den engen Bachtälern ist wenig Platz zum Ausweichen, besonders für größere Fahrzeuge. An der Anschlussstelle Solingen auf Langenfelder Gebiet ist der Zubringerverkehr zur A3 spürbar.</p>
 <h2>So nennen Sie Ihren Standort in Solingen</h2>
 <ul class="ticks">
 <li>Stadtbezirk, Ortsteil oder Hofschaft und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -101,10 +125,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Solingen</h2>
-<details><summary>Wie viele Stadtbezirke hat Solingen?</summary><div>Fünf Stadtbezirke, der größte ist Ohligs/Aufderhöhe/Merscheid mit über 43.000 Einwohnern.</div></details>
 <details><summary>Hat Solingen einen Autobahnanschluss?</summary><div>Nicht direkt. Die Anschlussstelle Solingen der A3 liegt wenige Kilometer südlich von Ohligs auf dem Gebiet der Stadt Langenfeld.</div></details>
-<details><summary>Was ist die Viehbachtalstraße?</summary><div>Eine Stadtautobahn von Solingen-Mitte bis nach Ohligs beziehungsweise Aufderhöhe ohne direkten Anschluss an das Fernstraßennetz.</div></details>
-<details><summary>Kommen Sie auch in enge Täler?</summary><div>Das hängt von der Zufahrt ab. Sagen Sie uns Straße, Breite und Wendemöglichkeit, dann klären wir, welches Fahrzeug passt.</div></details>
+<details><summary>Kommen Sie auch in enge Täler?</summary><div>Ja, sagen Sie uns Straße, Breite und Wendemöglichkeit, dann klären wir, welches Fahrzeug passt.</div></details>
+<details><summary>Können Sie mein Auto von Solingen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Solingen liegt oder etwa in Wuppertal oder Remscheid.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Solingen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
@@ -113,13 +137,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Heidelberg</p><h1>Abschleppdienst Heidelberg</h1><p class="lead">Heidelberg liegt am Neckar, wo er den Odenwald verlässt, mit A5 im Westen und A656 nach Mannheim. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Stadt am Neckar zwischen Odenwald und Rheinebene</h2>
-<p>Heidelberg ist eine Großstadt mit 156.092 Einwohnern (31. Dezember 2025) in Baden-Württemberg. Sie liegt am Neckar an der Stelle, wo dieser den Odenwald verlässt und in die oberrheinische Tiefebene eintritt. Die ehemalige kurpfälzische Residenzstadt ist in 15 Stadtteile und 47 Stadtbezirke gegliedert, dazu gehören sieben ehemalige Nachbardörfer, die bis 1975 eingemeindet wurden. Für die Standortangabe brauchen wir Stadtteil und Straße, zum Beispiel Handschuhsheim, Neuenheim, Rohrbach oder Kirchheim, und die Neckarseite.</p>
+<p>Heidelberg liegt am Neckar in Baden-Württemberg, an der Stelle, wo dieser den Odenwald verlässt und in die oberrheinische Tiefebene eintritt. Die Stadt ist in 15 Stadtteile gegliedert. Für die Standortangabe brauchen wir Stadtteil und Straße, zum Beispiel Handschuhsheim, Neuenheim, Rohrbach oder Kirchheim, und die Neckarseite.</p>
 <h2>A5, A656 und das Kreuz Heidelberg</h2>
 <p>Heidelberg wird im Westen von der A5 tangiert, die die Region in Richtung Norden mit Frankfurt am Main und in Richtung Süden mit Karlsruhe verbindet. Die westlich der Innenstadt beginnende A656, die zwischen zwei Teilstücken der B37 liegt, verbindet Heidelberg mit Mannheim. Beide Autobahnen treffen sich auf Heidelberger Stadtgebiet im Autobahnkreuz Heidelberg. Die A656 trifft am Kreuz Mannheim die A6. Zur A5 lesen Sie <a href="autobahn-a5-hessen-baden.html">Panne auf der A5</a>, zur Nachbarstadt <a href="stadt-mannheim.html">Abschleppdienst Mannheim</a>. Nennen Sie uns bei einer Panne Autobahn, Richtung und Anschlussstelle.</p>
 <h2>B3, B37 und Bismarckplatz</h2>
 <p>Ferner durchziehen die Stadt in Nord-Süd-Richtung die B3 (Frankfurt am Main–Karlsruhe) und in Ost-West-Richtung die B37 (Mannheim–Eberbach). Beide treffen sich im Stadtzentrum am Bismarckplatz. Die B535 beginnt im Süden Heidelbergs und führt nach Schwetzingen. Der Bismarckplatz ist ein dichter Verkehrsknoten, wenn Sie dort liegen bleiben, sagen Sie uns die Straße und Richtung.</p>
 <h2>Alte Brücke und Altstadt</h2>
-<p>Die Alte Brücke, auch Karl-Theodor-Brücke genannt, ist ein Wahrzeichen der Stadt, sie wurde am 29. März 1945 von der Wehrmacht gesprengt und später wieder aufgebaut. Die Altstadt hat einen planmäßigen rechtwinkligen Grundriss seit dem 13. Jahrhundert mit engen Straßen und dem Marktplatz im Zentrum. Für Ihr Fahrzeug in der Altstadt heißt das: Zufahrten sind begrenzt, Fahrzeuge stehen dicht. Nennen Sie uns Straße und Hausnummer und ob es eng ist.</p>
+<p>Die Alte Brücke, auch Karl-Theodor-Brücke genannt, ist ein Wahrzeichen der Stadt. Die Altstadt hat einen rechtwinkligen Grundriss mit engen Straßen und dem Marktplatz im Zentrum. Für Ihr Fahrzeug in der Altstadt heißt das: Zufahrten sind begrenzt, Fahrzeuge stehen dicht. Nennen Sie uns Straße und Hausnummer und ob es eng ist.</p>
+<h2>Was wir in Heidelberg tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Heidelberg</h2>
+<p>Auf A5 oder A656: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Am Bismarckplatz: Warnblinker an, dort treffen mehrere Straßen dicht aufeinander. In der Altstadt mit ihren engen Gassen: Warnblinker an und Fahrzeug möglichst platzsparend abstellen.</p>
+<h2>Wo es in Heidelberg oft passiert</h2>
+<p>Am Kreuz Heidelberg, wo A5 und A656 zusammentreffen, ist der Verkehr durch den Fahrstreifenwechsel dichter. Am Bismarckplatz, wo B3 und B37 aufeinandertreffen, ist es zu Stoßzeiten besonders eng. In der Altstadt mit ihren engen historischen Straßen ist eine liegen gebliebene Panne unübersichtlicher als anderswo.</p>
 <h2>So nennen Sie Ihren Standort in Heidelberg</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße und Neckarseite.</li>
@@ -129,10 +159,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Heidelberg</h2>
-<details><summary>Wie viele Stadtteile hat Heidelberg?</summary><div>15 Stadtteile, die in 47 Stadtbezirke gegliedert sind.</div></details>
-<details><summary>Welche Autobahnen führen nach Heidelberg?</summary><div>Die A5 im Westen und die A656 nach Mannheim, die sich im Autobahnkreuz Heidelberg treffen.</div></details>
-<details><summary>Wo treffen sich B3 und B37?</summary><div>Im Stadtzentrum am Bismarckplatz.</div></details>
+<details><summary>Ich stehe am Kreuz Heidelberg kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn, Fahrtrichtung und ob Sie vor oder hinter dem Kreuz stehen.</div></details>
 <details><summary>Ich stehe in der Altstadt. Was sage ich?</summary><div>Straße, Hausnummer und ob die Zufahrt eng ist.</div></details>
+<details><summary>Können Sie mein Auto von Heidelberg zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Heidelberg liegt oder etwa in Mannheim.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Heidelberg?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
@@ -141,13 +171,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Herne</p><h1>Abschleppdienst Herne</h1><p class="lead">Herne liegt mitten im Ruhrgebiet, wo sich A42 und A43 am Kreuz Herne treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Vier Stadtbezirke im Ruhrgebiet</h2>
-<p>Herne ist eine kreisfreie Großstadt im Ruhrgebiet, im Regierungsbezirk Arnsberg und in der Landesplanung als Mittelzentrum ausgewiesen. Das Stadtgebiet besteht aus vier Stadtbezirken mit je einer Bezirksvertretung, die in Ortsteile unterteilt sind. Zwei der Bezirke heißen Eickel und Wanne. Bei einer Panne helfen Ihnen die Ortsteile und die Straße, denn "Herne" allein ist bei einer so dichten Bebauung zu ungenau.</p>
+<p>Herne ist eine kreisfreie Großstadt im Ruhrgebiet. Das Stadtgebiet besteht aus vier Stadtbezirken, die in Ortsteile unterteilt sind. Zwei der Bezirke heißen Eickel und Wanne. Bei einer Panne helfen Ihnen die Ortsteile und die Straße, denn "Herne" allein ist bei einer so dichten Bebauung zu ungenau.</p>
 <h2>Kreuz Herne: A42 und A43</h2>
-<p>Durch das Stadtgebiet führen die A42 (Kamp-Lintfort–Dortmund, der Emscherschnellweg) und die A43 (Münster–Wuppertal). Beide treffen sich in der Mitte des Stadtgebiets am Autobahnkreuz Herne. Die frühere B51 Recklinghausen–Bochum führte durch den Stadtbezirk Herne-Mitte, wurde zur Landesstraße L551 umgewidmet und im Stadtgebiet durch die A43 ersetzt. Das gesamte Straßennetz hat eine Länge von rund 390 Kilometern, davon 14,8 Kilometer Autobahnen und 7,5 Kilometer Bundesstraßen. Bei einer Panne am Kreuz sagen Sie uns Autobahn, Richtung und Anschlussstelle. Mehr zur Region auf den Seiten <a href="stadt-bochum.html">Abschleppdienst Bochum</a> und <a href="stadt-gelsenkirchen.html">Abschleppdienst Gelsenkirchen</a>.</p>
+<p>Durch das Stadtgebiet führen die A42 (Kamp-Lintfort–Dortmund, der Emscherschnellweg) und die A43 (Münster–Wuppertal). Beide treffen sich in der Mitte des Stadtgebiets am Autobahnkreuz Herne. Bei einer Panne am Kreuz sagen Sie uns Autobahn, Richtung und Anschlussstelle. Mehr zur Region auf den Seiten <a href="stadt-bochum.html">Abschleppdienst Bochum</a> und <a href="stadt-gelsenkirchen.html">Abschleppdienst Gelsenkirchen</a>.</p>
 <h2>B226 und die Kanalbrücken</h2>
-<p>Die B226 führt von Bochum nach Gelsenkirchen durch das westliche Stadtgebiet in den Stadtbezirken Eickel und Wanne. Kanal und Emscher bilden im Stadtgebiet Barrieren, die nur an Brücken überquert werden können. Wenn Sie an einer Brücke liegen bleiben, nennen Sie uns Brücke oder Straße und die Fahrtrichtung. Wegen Brückenschäden an der Emschertalbrücke bei Herne darf die A43 laut Wikipedia zwischen Kreuz Recklinghausen und Kreuz Herne nur von Fahrzeugen bis 3,5 Tonnen zulässigem Gesamtgewicht befahren werden, für schwerere Fahrzeuge gibt es eine Umleitung. Sagen Sie uns bei einem Transporter oder Lkw daher das Gewicht, siehe <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>.</p>
+<p>Die B226 führt von Bochum nach Gelsenkirchen durch das westliche Stadtgebiet in den Stadtbezirken Eickel und Wanne. Kanal und Emscher bilden im Stadtgebiet Barrieren, die nur an Brücken überquert werden können. Wenn Sie an einer Brücke liegen bleiben, nennen Sie uns Brücke oder Straße und die Fahrtrichtung. An der Emschertalbrücke bei Herne gilt auf der A43 zwischen Kreuz Recklinghausen und Kreuz Herne eine Gewichtsbeschränkung bis 3,5 Tonnen zulässigem Gesamtgewicht, für schwerere Fahrzeuge gibt es eine Umleitung. Sagen Sie uns bei einem Transporter oder Lkw daher das Gewicht, siehe <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>.</p>
 <h2>Vier Stadtbezirke und ihre Ortsteile</h2>
-<p>Das Stadtgebiet Hernes besteht aus vier Stadtbezirken mit jeweils einer Bezirksvertretung. Stadtbezirk Wanne: Unser Fritz/Crange, Wanne und Baukau-West. Stadtbezirk Eickel: Röhlinghausen, Wanne-Süd und Eickel. Stadtbezirk Herne-Mitte: Holsterhausen, Baukau-Ost, Herne-Mitte und Herne-Süd. Stadtbezirk Sodingen: Horsthausen, Sodingen und Börnig/Holthausen. Die Nordgrenze der Stadt wird auf langen Strecken durch die Emscher gebildet, in deren Tal der Rhein-Herne-Kanal verläuft. Naturräumlich hat die Stadt zur Hälfte Anteil am Westenhellweg und in den nördlichen Stadtteilen am Emscherland. Nennen Sie uns bei einer Panne Stadtbezirk, Ortsteil und Straße. Straße und Hausnummer helfen uns mehr als der Ortsteilname allein.</p>
+<p>Das Stadtgebiet Hernes besteht aus vier Stadtbezirken. Stadtbezirk Wanne: Unser Fritz/Crange, Wanne und Baukau-West. Stadtbezirk Eickel: Röhlinghausen, Wanne-Süd und Eickel. Stadtbezirk Herne-Mitte: Holsterhausen, Baukau-Ost, Herne-Mitte und Herne-Süd. Stadtbezirk Sodingen: Horsthausen, Sodingen und Börnig/Holthausen. Die Nordgrenze der Stadt wird auf langen Strecken durch die Emscher gebildet, in deren Tal der Rhein-Herne-Kanal verläuft. Nennen Sie uns bei einer Panne Stadtbezirk, Ortsteil und Straße. Straße und Hausnummer helfen uns mehr als der Ortsteilname allein.</p>
+<h2>Was wir in Herne tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Herne</h2>
+<p>Auf A42 oder A43: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. An einer Kanal- oder Emscherbrücke: Warnblinker an und nicht auf der Brücke selbst stehen bleiben, wenn das Fahrzeug noch rollt. An der Emschertalbrücke mit Transporter oder Lkw: sagen Sie uns unbedingt das zulässige Gesamtgewicht.</p>
+<h2>Wo es in Herne oft passiert</h2>
+<p>Am Kreuz Herne, wo A42 und A43 aufeinandertreffen, ist der Verkehr durch den Fahrstreifenwechsel dichter. An der Emschertalbrücke sorgt die Gewichtsbeschränkung für Ausweichverkehr über andere Strecken. An den Kanal- und Emscherbrücken ist die Fahrbahn oft schmaler als auf freier Strecke.</p>
 <h2>So nennen Sie Ihren Standort in Herne</h2>
 <ul class="ticks">
 <li>Stadtbezirk, Ortsteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -157,10 +193,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Herne</h2>
-<details><summary>Wie viele Stadtbezirke hat Herne?</summary><div>Vier Stadtbezirke, in Ortsteile unterteilt.</div></details>
-<details><summary>Wo treffen sich A42 und A43?</summary><div>Am Autobahnkreuz Herne in der Mitte des Stadtgebiets.</div></details>
-<details><summary>Wie viel Autobahn gibt es in Herne?</summary><div>Rund 14,8 Kilometer Autobahnen im Stadtgebiet, dazu 7,5 Kilometer Bundesstraßen.</div></details>
-<details><summary>Gilt auf der A43 eine Gewichtsbeschränkung?</summary><div>Nach Wikipedia bis 3,5 Tonnen zwischen Kreuz Recklinghausen und Kreuz Herne wegen Schäden an der Emschertalbrücke. Aktuelle Regelungen erfahren Sie im Verkehrsfunk.</div></details>
+<details><summary>Gilt auf der A43 eine Gewichtsbeschränkung?</summary><div>Ja, bis 3,5 Tonnen zwischen Kreuz Recklinghausen und Kreuz Herne wegen der Emschertalbrücke. Aktuelle Regelungen erfahren Sie im Verkehrsfunk.</div></details>
+<details><summary>Ich stehe am Kreuz Herne kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn, Fahrtrichtung und ob Sie vor oder hinter dem Kreuz stehen.</div></details>
+<details><summary>Können Sie mein Auto von Herne zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Herne liegt oder etwa in Bochum oder Gelsenkirchen.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Herne?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
