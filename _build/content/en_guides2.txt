@@ -1,0 +1,260 @@
+=== en-ratgeber-warnleuchten-auto | Warning Lights in Your Car: When to Stop Immediately | Red and amber warning lights: oil pressure, coolant, battery, brakes, engine warning light. What they mean and when you must stop driving. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Warning Lights in Your Car: When to Stop Immediately</h1><p class="lead">Not every light on the dashboard is an emergency. The colour tells you how urgent it is, and for some red symbols the rule is: pull over, engine off.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>The colours in brief</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Colour</th><th>Meaning</th><th>What to do</th></tr></thead><tbody>
+<tr><td>Green or blue</td><td>A function is active, for example lights or cruise control</td><td>Nothing</td></tr>
+<tr><td>Amber or orange</td><td>A system is reporting a fault or needs attention</td><td>You can keep driving; visit a garage soon</td></tr>
+<tr><td>Red</td><td>A fault that risks safety or the engine</td><td>For the symbols below, stop safely immediately</td></tr>
+</tbody></table></div>
+<p>This is the general logic manufacturers use. The exact meaning of a symbol is in your owner's manual and differs between makes and models.</p>
+<h2>Red lights that mean you should stop</h2>
+<ul class="ticks">
+<li><strong>Oil pressure (oil can):</strong> oil pressure is too low. Without enough pressure, bearings and cylinder walls stop being lubricated, and engine damage can happen within minutes. Switch off the engine immediately.</li>
+<li><strong>Coolant temperature (thermometer in waves):</strong> the engine may be overheating. See <a href="ratgeber-motor-ueberhitzt.html">Engine overheating: what to do?</a></li>
+<li><strong>Battery:</strong> usually a problem with the alternator or power supply. The vehicle may soon stall because the battery is no longer charging.</li>
+<li><strong>Brake (exclamation mark in a circle):</strong> if it's lit with the handbrake released, there may be a lack of brake fluid or a loss of pressure. Braking performance can drop. Don't keep driving.</li>
+</ul>
+<h2>The flashing engine warning light</h2>
+<p>If the amber engine warning light stays on continuously, the engine control unit has detected a fault, for example in the emissions system. You can usually keep driving briefly, but should visit a garage soon. If it flashes, that's more serious: the catalytic converter can be damaged. Ease off the accelerator, stop, and consult a professional.</p>
+<h2>What to do when stopping</h2>
+<ol>
+<li>Indicate, switch on hazard lights, and coast to the next safe stopping place.</li>
+<li>Switch off the engine; don't restart it just to check if the light has gone.</li>
+<li>Put on a hi-vis vest and set up a warning triangle, if it's safe to do so. On the motorway, also get behind the crash barrier, see <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</li>
+<li>If you're unsure whether you can keep driving: don't. Transport to a garage is cheaper than engine damage.</li>
+</ol>
+<h2>If the light goes off again</h2>
+<p>Some lights only flicker briefly or go off after a restart. That doesn't mean the fault is gone. The control units usually store a fault code that a garage can read out. For red lights, have the vehicle checked before a longer journey regardless.</p>
+<h2>When towing is needed</h2>
+<ul class="ticks">
+<li>The oil-pressure or brake light is on and can't be explained</li>
+<li>The engine runs roughly, knocks, smokes, or smells burnt</li>
+<li>The vehicle loses power or steering and braking no longer feel right</li>
+<li>The battery light is on and there's still a long way to a garage</li>
+</ul>
+<p>Electric and hybrid vehicles have their own high-voltage battery warnings. For such a warning, transport on a flatbed is the safe choice, see <a href="en-ratgeber-e-auto-abschleppen.html">Towing an electric car</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>I'm driving with the amber engine light on. Is that risky?</summary><div>Usually not in the short term. But have the fault read out soon, so a small issue doesn't become a big one.</div></details>
+<details><summary>Can I ignore the oil-level light if the level looks normal?</summary><div>No. Low oil pressure can occur even with a sufficient level, for example due to a faulty pump. Stop the vehicle.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-motor-ueberhitzt | Engine Overheating: Immediate Steps and Causes | Engine overheating or a coolant warning: what to do when you stop, why the radiator cap stays shut, and when a towing service is needed. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Engine Overheating: What to Do?</h1><p class="lead">The temperature gauge is rising, steam is coming from under the bonnet, or a red thermometer symbol lights up. Every minute counts, but rushing doesn't help.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Immediately, while still driving</h2>
+<ol>
+<li>Switch off the air conditioning. It puts extra strain on the engine.</li>
+<li>Turn the heating to its highest setting. It's unpleasant, but it draws heat out of the cooling circuit.</li>
+<li>Ease off the accelerator, don't rev the engine, and find a safe place to stop.</li>
+<li>As soon as the gauge is in the red zone or a warning appears, switch off the engine.</li>
+</ol>
+<h2>After stopping</h2>
+<ul class="ticks">
+<li>Switch on hazard lights, turn off the engine, put on a hi-vis vest.</li>
+<li>Open the bonnet so the heat can escape. Keep your distance from any steam.</li>
+<li><strong>Don't open the radiator cap.</strong> The cooling system is under pressure, and hot coolant can spray out. Wait around fifteen minutes for everything to cool down.</li>
+<li>Then check the coolant and oil level, and look for leaks.</li>
+</ul>
+<h2>How to recognise overheating</h2>
+<ul class="ticks">
+<li>The coolant temperature rises sharply, or the warning light comes on</li>
+<li>The fan runs continuously</li>
+<li>Steam or smoke from under the bonnet</li>
+<li>A sweet smell of coolant</li>
+<li>The engine loses power</li>
+</ul>
+<h2>Common causes</h2>
+<p>The most common causes are a faulty thermostat that doesn't open the cooling circuit, a failed water pump, a blocked radiator, or a faulty radiator fan. Too little coolant due to a leak can also be the reason.</p>
+<h2>Top up coolant: yes or no?</h2>
+<p>If you're carrying coolant and the engine has cooled down, you can top it up. But afterwards only drive as far as the nearest garage, and watch the gauge. Topping up doesn't fix the cause. If the coolant disappears again immediately, there's a leak.</p>
+<h2>Keep driving, or get towed?</h2>
+<p>An overheated engine can suffer expensive damage, for example to the cylinder-head gasket. So: if the temperature rises again after cooling down and topping up, don't keep driving. Call a towing service. The vehicle is taken to a garage on a flatbed. If instead the engine simply cuts out while driving, see <a href="ratgeber-motor-geht-aus.html">Engine cutting out while driving</a>.</p>
+<p>On the motorway, also remember: get behind the crash barrier, put on the hi-vis vest, then make phone calls, see <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>. What the individual symbols mean is covered in our guide <a href="en-ratgeber-warnleuchten-auto.html">Warning lights in your car</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I top up with water instead of coolant?</summary><div>In an emergency, yes, to get to a garage. But coolant contains antifreeze and corrosion protection. Have it properly refilled afterwards.</div></details>
+<details><summary>How long does the engine need to cool down?</summary><div>About fifteen minutes before you touch the radiator cap. Longer if in doubt.</div></details>
+<details><summary>Is overheating dangerous in a traffic jam?</summary><div>It can happen if the radiator no longer gets enough airflow or the fan isn't running. Switch off the air conditioning and turn the heating to full if the temperature rises.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-automatik-abschleppen | Towing an Automatic Car: Position N and Its Limits | Towing an automatic vehicle: why position N is needed, what the parking-lock manual release does, and why loading it is often the better solution. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Towing an Automatic Car: What to Know</h1><p class="lead">An automatic transmission copes badly with the wheels turning while the engine is off. So towing with a rope is a last resort, and often not even that.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Why automatics are different</h2>
+<p>With a manual gearbox, you can disconnect the engine from the drivetrain by pressing the clutch. With an automatic, a lot depends on the transmission fluid, which is only properly circulated while the engine runs. If the wheels turn with the engine off, the transmission can be damaged. That's why many manufacturers say: only with the selector in position N, only short distances, only slowly.</p>
+<h2>The rules of thumb</h2>
+<ul class="ticks">
+<li><strong>Position N:</strong> this is the only way an automatic vehicle can be towed over a short distance, since it disconnects the engine from the driven wheels.</li>
+<li><strong>Short distance, low speed:</strong> many manufacturers allow only a few kilometres to the nearest garage and a maximum of around 50 km/h. Longer distances or higher speeds almost always cause transmission damage.</li>
+<li><strong>Read the owner's manual:</strong> it states whether and how your model may be towed.</li>
+</ul>
+<h2>If the selector lever is stuck</h2>
+<p>Without power, for example with a flat battery, the selector often can't be moved out of position P. Many vehicles have a mechanical manual release for the selector-lever lock. Its location varies by model, usually under a small cover on the selector lever or in the centre console. The owner's manual describes it. Vehicles with an electronic selector or rotary dial have other workarounds.</p>
+<div class="note"><p>If you're not sure how this works on your vehicle: don't force the lever. That can damage the mechanism.</p></div>
+<h2>Why loading is often the better choice</h2>
+<p>On a flatbed vehicle, the wheels don't turn. The transmission stays unstressed, and you don't need to worry about position N or a maximum distance. If the selector lock is stuck, please tell us on the phone. We'll then work out how the vehicle can be loaded. Also tell us that it's an automatic and which position the lever is in.</p>
+<h2>What to tell us</h2>
+<ul class="ticks">
+<li>Make, model and year</li>
+<li>Which position the selector is in (P, N, D)</li>
+<li>Whether the engine runs or the battery is flat</li>
+<li>Whether it's a hybrid or electric car, see <a href="en-ratgeber-e-auto-abschleppen.html">Towing an electric car</a></li>
+</ul>
+<p>General rules for towing with a rope are in our guide <a href="en-ratgeber-abschleppseil-oder-abschleppdienst.html">Tow rope or towing service?</a></p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I tow an automatic car with a rope at all?</summary><div>Sometimes, with the selector in N, for a few kilometres, and slowly. It's allowed according to the manufacturer's specifications. Transport on a flatbed is safer.</div></details>
+<details><summary>Why won't the selector lever move?</summary><div>Often there's no power, for example with a flat battery. Many vehicles have a manual release, see the owner's manual.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-nach-unfall-fahrbereit | After the Accident: Still Roadworthy or Towed? | When you shouldn't keep driving a car after an accident: criteria for roadworthiness and traffic safety, and how to decide. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>After the Accident: Still Roadworthy or Towed?</h1><p class="lead">The car still starts and rolls. Does that mean you can keep driving it? Not necessarily.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p>This text offers general guidance and doesn't replace an inspection. In doubt, an expert assessor or a garage decides.</p></div>
+<h2>"Still runs" isn't the same as "roadworthy"</h2>
+<p>A vehicle can still drive and still be dangerous. Assessors therefore distinguish between: roadworthy (fully usable), conditionally roadworthy (can drive to a garage), and not roadworthy (must not be driven at all). Driving a vehicle that isn't roadworthy risks trouble with your insurer and possible liability if there's a follow-up accident.</p>
+<h2>Signs that towing is needed</h2>
+<ul class="ticks">
+<li><strong>Fluid is leaking:</strong> oil, coolant, fuel or brake fluid under the vehicle.</li>
+<li><strong>Steering or brakes feel different,</strong> the vehicle pulls to one side, or the pedal gives way.</li>
+<li><strong>A wheel is deformed, drags, or the tyre is damaged.</strong></li>
+<li><strong>Warning lights are on</strong> that weren't on before (see <a href="en-ratgeber-warnleuchten-auto.html">Warning lights in your car</a>).</li>
+<li><strong>Lights don't work:</strong> headlights, brake lights or indicators have failed.</li>
+<li><strong>Sharp edges or loose parts</strong> stick out from the bodywork or drag on the ground.</li>
+<li><strong>Doors or the bonnet don't close securely.</strong></li>
+<li><strong>For electric or hybrid vehicles:</strong> a high-voltage battery warning, smoke, or an unusual smell, see <a href="en-ratgeber-e-auto-abschleppen.html">Towing an electric car</a>.</li>
+</ul>
+<h2>If it's just a scratch</h2>
+<p>For minor damage with no fluid leak and no loss of function, you can usually drive to a garage. Check the lights, tyres and brakes first. If you're unsure, transport is the safer choice.</p>
+<h2>What this means for costs</h2>
+<p>If the vehicle isn't roadworthy, the towing costs can be reimbursable after an accident that wasn't your fault, see <a href="en-ratgeber-unfall-abschleppkosten.html">Towing costs after an accident</a>. If you have a roadworthy, driveable vehicle towed anyway, expect the insurer to review whether it was necessary.</p>
+<h2>At the scene</h2>
+<p>For a collision with an animal, special steps apply, see <a href="ratgeber-wildunfall.html">Animal collision</a>.</p>
+<ol>
+<li>Secure the scene: hazard lights, hi-vis vest, warning triangle.</li>
+<li>Attend to anyone injured; call 112.</li>
+<li>Take photos before moving the vehicle.</li>
+<li>Check: fluids, wheels, lights.</li>
+<li>If in doubt, have it towed and name a garage or an assessor.</li>
+</ol>
+<h2>Call the police or not?</h2>
+<p>There's no general legal duty to call the police after every accident. But it's sensible or advisable in these cases:</p>
+<ul class="ticks">
+<li>There are injuries.</li>
+<li>The property damage is significant.</li>
+<li>Fault is unclear or there's a dispute with the other driver.</li>
+<li>Alcohol or drugs are involved.</li>
+<li>The other party won't share their details.</li>
+<li>A rental car, a company vehicle, or a foreign-registered vehicle is involved.</li>
+</ul>
+<p>Regardless, German traffic law (§ 34 StVO) requires everyone involved to: stop, secure the traffic, help anyone injured, and allow the necessary details to be established. If the other party isn't there, wait a reasonable time and inform the police rather than simply driving off.</p>
+<h2>Before the vehicles are moved</h2>
+<p>Photograph the scene from different angles before the vehicles are driven away or loaded, along with close-ups of the damage and licence plates. If you have a European accident report form, fill it in together with the other driver. Tell the towing service if the documentation isn't finished yet, so nothing gets moved too soon.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I drive a damaged car to a garage myself?</summary><div>If it's roadworthy, yes. If the brakes, steering, tyres or lights are affected, have it transported instead.</div></details>
+<details><summary>Who decides whether my car is roadworthy?</summary><div>In a dispute, an expert assessor. For the first decision on the scene, the criteria above and a garage's advice help.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-handbremse-loest-sich-nicht | Handbrake Won't Release: Causes and What Helps | Handbrake frozen or seized? What you can try yourself, what to avoid, and when the car needs a flatbed. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Handbrake Won't Release: What Helps</h1><p class="lead">The car won't roll, or drags, even though the handbrake is down. Usually it's moisture or rust, and it can often be fixed without a garage.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Why the brake is stuck</h2>
+<p>A mechanical handbrake is operated by a cable. If moisture gets into the cable and it freezes, the cable can seize up. On vehicles with rear drum brakes, moisture can collect in the drum. If the car sits for a long time with the handbrake applied, rust can also form there. With an electric parking brake, prolonged standing in severe frost can likewise cause the rear axle to lock.</p>
+<h2>What you can try</h2>
+<ol>
+<li><strong>Pull away carefully.</strong> Sometimes the brake releases after just a few centimetres. Rolling gently forward and back a few times often helps.</li>
+<li><strong>Warm it with a hairdryer</strong> at the rear axle, if you can reach it. A hot-air gun or an open flame are off-limits, though; they can damage rubber parts and paint.</li>
+<li><strong>Wait it out:</strong> ice often melts by itself in a thaw, or after driving into a garage.</li>
+</ol>
+<div class="note"><p>Don't drive off at speed if you sense a wheel is still braking. A dragging wheel gets hot, smells burnt, and can destroy the brake and the tyre.</p></div>
+<h2>Signs the brake is still dragging</h2>
+<ul class="ticks">
+<li>The vehicle only moves with noticeably more throttle</li>
+<li>There's a burning smell or smoke from a rear wheel</li>
+<li>A rear wheel is noticeably hot after a short drive</li>
+<li>The car pulls to one side, or there's a squealing noise</li>
+</ul>
+<h2>Preventing it in winter</h2>
+<p>In frost, and when parking for a long time, don't leave the handbrake pulled on hard. On level ground, engage a gear instead, or position P on an automatic. On a slope, also place a wheel chock under one wheel. The same applies to an electric parking brake: in severe frost and long standing times, don't leave it engaged continuously if the situation allows otherwise.</p>
+<h2>If nothing helps: towing</h2>
+<p>If the vehicle won't move at all, or a wheel is locked, don't pull it with a rope or bar. A locked wheel drags across the asphalt, destroying the tyre, and the axle can be damaged. Tell us on the phone that a wheel is locked, whether it's the front or rear axle, and whether the vehicle has an automatic selector. We'll then work out how to load it. More rules on towing are in our guides <a href="en-ratgeber-abschleppseil-oder-abschleppdienst.html">Tow rope or towing service?</a> and <a href="en-ratgeber-automatik-abschleppen.html">Towing an automatic car</a>.</p>
+<h2>Fault message on the electric parking brake</h2>
+<p>If the display shows a fault, or the parking brake won't release, it's sometimes down to a weak battery. If you can release the brake after a jump-start, that was the cause. If it persists, a garage needs to look at it. See <a href="en-ratgeber-starthilfe-batterie.html">Jump-starting and a flat battery</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I drive a short distance with the handbrake on to release it?</summary><div>No. That causes overheating and damage. Release it as far as possible first, or have the vehicle transported.</div></details>
+<details><summary>Is a frozen handbrake a job for a towing service?</summary><div>Usually not. If it releases with patience and warmth, you don't need one. If a wheel stays locked, transport on a flatbed is the safe solution.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-motor-geht-aus | Engine Cutting Out While Driving: Causes and What to Do | Engine cuts out while driving: how to stop safely, what to check, and possible causes (fuel, alternator, timing belt). | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Engine Cutting Out While Driving</h1><p class="lead">Suddenly the engine is off, the steering wheel gets heavy, and the brake pedal feels hard. Stay calm, the car can still be steered.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>The first few seconds</h2>
+<ol>
+<li><strong>Switch on hazard lights,</strong> press the clutch or move the selector to N, and let the vehicle coast.</li>
+<li><strong>Steer and brake firmly.</strong> Without the engine, power steering and brake assist stop working, but you can still steer and brake. It just needs noticeably more force.</li>
+<li><strong>Coast to a safe spot:</strong> to the right, into a lay-by, a car park, or the next exit, otherwise onto the hard shoulder.</li>
+<li><strong>Put on the hi-vis vest, get out, go behind the crash barrier.</strong> On the motorway, see <a href="en-ratgeber-panne-autobahn.html">Breaking down on the motorway</a>.</li>
+</ol>
+<h2>What you can check afterwards</h2>
+<ul class="ticks">
+<li><strong>Fuel:</strong> is the tank empty, or was the wrong fuel used? If it's the wrong fuel: don't restart, see <a href="en-ratgeber-falsch-getankt.html">Wrong fuel</a>.</li>
+<li><strong>Warning lights:</strong> is the battery or oil-pressure light on? See <a href="en-ratgeber-warnleuchten-auto.html">Warning lights in your car</a>.</li>
+<li><strong>Fuel pump:</strong> on some vehicles you hear a brief hum when switching on the ignition. If it's missing, the pump may have failed.</li>
+<li><strong>Noises beforehand:</strong> jerking, a loss of power, or rattling give clues for the garage.</li>
+</ul>
+<h2>Common causes</h2>
+<ul class="ticks">
+<li><strong>Fuel supply:</strong> a failed fuel pump or a blocked filter. The engine doesn't get enough fuel.</li>
+<li><strong>Alternator:</strong> if it fails, it stops supplying the car with power. If the battery goes flat, the car stalls. Usually the red battery light comes on beforehand.</li>
+<li><strong>Timing belt or chain:</strong> damage, for example to a tensioner pulley, can stall the engine. It must not be restarted afterwards, as that can cause major damage.</li>
+<li><strong>Diesel particulate filter:</strong> a blocked filter can stall a diesel engine, often on high-mileage vehicles.</li>
+</ul>
+<h2>Don't just keep restarting</h2>
+<p>A second start attempt is fine if you're standing safely and no red light is on. But repeated cranking drains the battery further and can destroy the engine if there's timing-belt damage. If the engine stalls again after starting, or sounds unusual, leave it. The garage reads the fault memory, which is the first step to a diagnosis.</p>
+<h2>When you should call us</h2>
+<ul class="ticks">
+<li>The engine won't start again, or stalls immediately</li>
+<li>A red warning light or unusual noises before it stalled</li>
+<li>You're somewhere dangerous, such as a motorway, tunnel, or bridge</li>
+</ul>
+<p>The vehicle is then taken to a garage on a flatbed. For hybrids and electric cars, that's the safe route anyway, see <a href="en-ratgeber-e-auto-abschleppen.html">Towing an electric car</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Can I keep driving if the engine starts again?</summary><div>Only if no red light is on and the engine runs normally. Have the cause checked soon, since the fault can return.</div></details>
+<details><summary>Why does the steering wheel suddenly get heavy?</summary><div>Without the engine running, power steering doesn't work. You can still steer, but you'll need more force.</div></details>
+</div></section>
+@@CTA@@
+=== en-ratgeber-transporter-abschleppen | Van Broken Down: Towing Up to 3.5 Tonnes | Van broken down: weight, load, height, licence. What to tell us on the phone, and why loading is often necessary. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Guides</p><h1>Towing a Van: What You Need to Tell Us</h1><p class="lead">Vans are heavier, taller, and often loaded. A few details decide which vehicle needs to come.</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Why a van is different from a car</h2>
+<p>Weight, length and height are greater, and many vans carry a load. A car-towing vehicle has limits on the weight and length of its loading bed. The payload counts too: a van with a 3.5-tonne gross weight limit weighs significantly more loaded than empty. That's why we ask for more than just the make and model.</p>
+<h2>The details that help us most</h2>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Detail</th><th>Why it matters</th></tr></thead><tbody>
+<tr><td>Make, model, year</td><td>Wheelbase, length, drivetrain</td></tr>
+<tr><td>Gross weight limit and load</td><td>Which vehicle can carry the weight</td></tr>
+<tr><td>Length and height (including roof fittings)</td><td>Loading bed, underground garages, bridges</td></tr>
+<tr><td>Front-, rear- or all-wheel drive</td><td>How the vehicle may be loaded</td></tr>
+<tr><td>Manual or automatic</td><td>See <a href="en-ratgeber-automatik-abschleppen.html">Towing an automatic car</a></td></tr>
+<tr><td>Can the load be removed?</td><td>Allows a lighter vehicle, keeps the load safe</td></tr>
+<tr><td>Location: street, yard, building site, motorway</td><td>Access, room to load</td></tr>
+</tbody></table></div>
+<h2>The 3.5-tonne threshold</h2>
+<p>With a category B licence, you may drive vehicles up to a 3.5-tonne gross weight limit. That's why this threshold is also the point where requirements for vehicle and driver change in everyday use. Vehicles above it, such as larger delivery vans or motorhomes, need a different towing vehicle, see <a href="ratgeber-wohnmobil-gespann-panne.html">Motorhome or trailer breakdown</a>. In that case, tell us the length, height and weight so we can work out who can take it on.</p>
+<h2>Towing it yourself? Better not to</h2>
+<p>A van can only be pulled with a rope with a great deal of care: the towing vehicle's braking power is often not enough for a loaded vehicle behind it, and without the engine running, power steering and brake assist are off. Whether towing is even permitted on your own licence also depends on whether it counts as emergency assistance towing or hauling under the law, which isn't straightforward. A towing service takes that question off your hands. Rules at a glance: <a href="en-ratgeber-abschleppseil-oder-abschleppdienst.html">Tow rope or towing service?</a></p>
+<h2>Load and tools</h2>
+<p>Whatever stays in the vehicle ends up on the loading bed during transport. Valuable tools, machinery and materials should be removed or secured if possible. Tell us on the phone if the load can't be removed, and we'll plan around it.</p>
+<h2>After the breakdown</h2>
+<p>If the van is in an underground garage or car park, our guide <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Underground garage and car park</a> can help. If it's on a building site or company premises, tell us who can open access and where the vehicle should be collected from.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>Up to what weight do you help?</summary><div>Vehicles up to a 3.5-tonne gross weight limit are our everyday business. For anything heavier, tell us the length, height and weight, and we'll work out who can help.</div></details>
+<details><summary>Does the load need to be removed?</summary><div>If possible, yes. Tell us if that's not feasible, and we'll plan around the actual weight.</div></details>
+<details><summary>Can I tow a van with a category B licence?</summary><div>The vehicle-weight limit is 3.5 tonnes. The detailed rules on towing are more complicated. If in doubt, contact the vehicle licensing authority or use a towing service.</div></details>
+</div></section>
+@@CTA@@
