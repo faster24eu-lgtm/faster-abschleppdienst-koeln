@@ -1,4 +1,4 @@
-=== autobahn-a2 | Pannenhilfe auf der A2: Oberhausen bis Berlin | Panne auf der A2 von Oberhausen über Dortmund, Bielefeld, Hannover, Braunschweig, Magdeburg bis zum Dreieck Werder. Kreuze, Kanäle, Grenzübergang Helmstedt. | page ===
+=== autobahn-a2 | Pannenhilfe auf der A2: Oberhausen bis Berlin | Panne auf der A2 von Oberhausen über Dortmund, Bielefeld, Hannover, Braunschweig, Magdeburg bis zum Dreieck Werder. Kreuze, Kanäle, Helmstedt. | page ===
 <!--AREAS: A2, Oberhausen, Dortmund, Bielefeld, Hannover, Braunschweig, Magdeburg -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A2</h1><p class="lead">Die A2 verbindet das Ruhrgebiet mit Berlin und durchquert dafür fünf Bundesländer, vom dichten Ballungsraum bis zur Magdeburger Börde. Nennen Sie uns Richtung und Kreuz, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
