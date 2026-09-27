@@ -118,3 +118,9 @@ stadt-schweinfurt	wuerzburg,bamberg,fulda,aschaffenburg,erfurt,bayreuth,nuernber
 stadt-villingen-schwenningen	freiburg,konstanz,offenburg,tuebingen,reutlingen,ulm	a81
 stadt-sindelfingen	stuttgart,esslingen,ludwigsburg,reutlingen,tuebingen,pforzheim,heilbronn	a81,a8
 stadt-goeppingen	esslingen,stuttgart,ulm,ludwigsburg,tuebingen,reutlingen,augsburg	a8
+stadt-delmenhorst	bremen,oldenburg,bremerhaven,wilhelmshaven,osnabrueck,hannover	a28,a1
+stadt-neubrandenburg	rostock,schwerin,stralsund,greifswald,berlin,potsdam	a20
+stadt-dessau-rosslau	halle,magdeburg,leipzig,potsdam,cottbus,wolfsburg	a9
+stadt-ratingen	duesseldorf,essen,muelheim,duisburg,wuppertal,neuss,krefeld,leverkusen	a3,a44,a52
+stadt-ruesselsheim	mainz,wiesbaden,frankfurt,darmstadt,offenbach,hanau	a60,a67,a3
+stadt-straubing	regensburg,landshut,passau,ingolstadt,muenchen,nuernberg	a3,a92

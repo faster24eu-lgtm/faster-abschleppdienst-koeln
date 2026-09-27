@@ -167,3 +167,9 @@ stadt-schweinfurt	Schweinfurt	Bayern
 stadt-villingen-schwenningen	Villingen-Schwenningen	Baden-Württemberg	
 stadt-sindelfingen	Sindelfingen	Baden-Württemberg	
 stadt-goeppingen	Göppingen	Baden-Württemberg	
+stadt-delmenhorst	Delmenhorst	Niedersachsen	
+stadt-neubrandenburg	Neubrandenburg	Mecklenburg-Vorpommern	
+stadt-dessau-rosslau	Dessau-Roßlau	Sachsen-Anhalt	
+stadt-ratingen	Ratingen	Nordrhein-Westfalen	
+stadt-ruesselsheim	Rüsselsheim am Main	Hessen	
+stadt-straubing	Straubing	Bayern	

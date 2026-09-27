@@ -314,3 +314,9 @@ stadt-schweinfurt	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schrit
 stadt-villingen-schwenningen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-sindelfingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-goeppingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-delmenhorst	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-neubrandenburg	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-dessau-rosslau	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-ratingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-ruesselsheim	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+stadt-straubing	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick

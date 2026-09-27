@@ -1,0 +1,167 @@
+=== stadt-delmenhorst | Abschleppdienst Delmenhorst: Pannenhilfe A28, B75, B213 | Pannenhilfe und Abschleppen in Delmenhorst: A28 mit Dreieck Delmenhorst, vierspurige B75 nach Bremen, B213 zur A1, zehn Stadtbezirke. | page ===
+<!--AREAS: Delmenhorst, Delmenhorst-Deichhorst, Delmenhorst-Stickgras, Delmenhorst-Düsternort, Stuhr, Bremen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Delmenhorst</p><h1>Abschleppdienst Delmenhorst</h1><p class="lead">Delmenhorst liegt im Oldenburger Land zwischen Oldenburg und Bremen an der A28. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Kreisfreie Stadt im Oldenburger Land</h2>
+<p>Delmenhorst ist eine kreisfreie Stadt im Oldenburger Land in Niedersachsen, gehört zur Metropolregion Nordwest und zum Kommunalverbund Niedersachsen/Bremen und ist eine von acht kreisfreien Städten Niedersachsens. Zu statistischen Zwecken ist sie in zehn Stadtbezirke gegliedert. Nennen Sie uns bei einer Panne Stadtbezirk und Straße. Die Lange Straße ist als Fußgängerzone die Haupteinkaufsstraße, eine wichtige Durchgangsstraße in Mitte ist die Bismarckstraße.</p>
+<h2>A28 und Dreieck Delmenhorst</h2>
+<p>Delmenhorst liegt an der A28, die in der Gemeinde Stuhr am Dreieck Stuhr in die A1 mündet. Von der A28 am Dreieck Delmenhorst führt die B75, die als vierspurige Kfz-Straße ausgebaut ist, nach Bremen. Bei einer Panne auf der A28 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a28.html">Panne auf der A28</a> und <a href="stadt-bremen.html">Abschleppdienst Bremen</a>.</p>
+<h2>B213 und B212</h2>
+<p>Die B213 führt von der A28 (Anschluss Delmenhorst-Deichhorst) ins südliche Umland und bei Wildeshausen an die A1, während die B212 nah bei Delmenhorst im Landkreis Oldenburg ins nördliche Umland und in den Landkreis Wesermarsch führt. Wenn Sie auf einer dieser Straßen liegen bleiben, sagen Sie uns die Straße, die Fahrtrichtung und die nächste Ortschaft. Mehr auf <a href="autobahn-a1.html">Panne auf der A1</a> und <a href="stadt-oldenburg.html">Abschleppdienst Oldenburg</a>.</p>
+<h2>Delme, Graft und Straßendamm</h2>
+<p>Delmenhorst liegt etwa 35 Kilometer ostsüdöstlich von Oldenburg, die Delme durchfließt die Stadt, im Osten und Nordosten fließen Klosterbach und Varreler Bäke. Auf der Burginsel in den heutigen Graftanlagen begann 1247 der Ausbau einer Wasserburg. Durch den 1311 erfolgten Bau des Straßendammes Bremen–Delmenhorst wurde der flämische Handelsweg über die Stadt geführt, die Verbindung nach Bremen ist damit eine der ältesten der Stadt. Am 1. Mai 1903 wurde Delmenhorst kreisfreie Stadt. Wenn Sie in der Nähe von Graft oder Wasserläufen liegen bleiben, nennen Sie uns die Straße und die nächste Brücke, denn Zufahrten führen dort oft über Brücken.</p>
+<h2>So nennen Sie Ihren Standort in Delmenhorst</h2>
+<ul class="ticks">
+<li>Stadtbezirk, Straße und Hausnummer oder nächste Kreuzung.</li>
+<li>Auf der A28: Richtung und Anschlussstelle, Dreieck Delmenhorst.</li>
+<li>Auf der B75: Fahrtrichtung und Querstraße.</li>
+<li>Auf B213 oder B212: Fahrtrichtung, nächster Ort.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-wilhelmshaven.html">Wilhelmshaven</a> und <a href="stadt-bremerhaven.html">Bremerhaven</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Delmenhorst</h2>
+<details><summary>Welche Autobahn führt nach Delmenhorst?</summary><div>Die A28, die in Stuhr am Dreieck Stuhr in die A1 mündet.</div></details>
+<details><summary>Wie komme ich nach Bremen?</summary><div>Vom Dreieck Delmenhorst über die vierspurige B75.</div></details>
+<details><summary>Wie viele Stadtbezirke hat Delmenhorst?</summary><div>Zehn, zu statistischen Zwecken.</div></details>
+<details><summary>Wohin führt die B213?</summary><div>Von Delmenhorst-Deichhorst ins südliche Umland und bei Wildeshausen an die A1.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-neubrandenburg | Abschleppdienst Neubrandenburg: Pannenhilfe A20, B96, B104 | Pannenhilfe und Abschleppen in Neubrandenburg: A20 mit Anschlussstellen Nord und Ost, Kreisverkehr Friedrich-Engels-Ring, B96, B104 und B192. | page ===
+<!--AREAS: Neubrandenburg, Neubrandenburg-Datzeberg, Neubrandenburg-Oststadt, Neubrandenburg-Reitbahnviertel, Trollenhagen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neubrandenburg</p><h1>Abschleppdienst Neubrandenburg</h1><p class="lead">Neubrandenburg liegt in der Mecklenburgischen Seenplatte, die A20 verläuft östlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Drittgrößte Stadt Mecklenburg-Vorpommerns</h2>
+<p>Neubrandenburg ist die Kreisstadt des Landkreises Mecklenburgische Seenplatte in Mecklenburg-Vorpommern, die drittgrößte Stadt des Landes und eines der vier Oberzentren. Das Datzeviertel mit dem Datzeberg liegt auf einem Hügel nördlich der Innenstadt und ist nach einem kleinen Flüsschen benannt. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-rostock.html">Abschleppdienst Rostock</a> und <a href="stadt-schwerin.html">Abschleppdienst Schwerin</a>.</p>
+<h2>A20 östlich der Stadt</h2>
+<p>Die A20 mit den Anschlussstellen Neubrandenburg-Nord und Neubrandenburg-Ost verläuft östlich der Stadt. Bei einer Panne auf der A20 nennen Sie uns Fahrtrichtung und Anschlussstelle, mehr auf <a href="autobahn-a20.html">Panne auf der A20</a>. Zu Greifswald: <a href="stadt-greifswald.html">Abschleppdienst Greifswald</a>.</p>
+<h2>Friedrich-Engels-Ring: vier Kilometer Kreisverkehr</h2>
+<p>Um die Innenstadt verlaufen die Bundesstraßen B96 (Sassnitz–Stralsund und Neubrandenburg–Berlin–Zittau) und B104 (Lübeck–Neubrandenburg–Linken) in einem etwa vier Kilometer langen Kreisverkehr, dem Friedrich-Engels-Ring. Die B192 (Neubrandenburg–Wismar) beginnt im Westen der Stadt, die B197 (Neubrandenburg–Anklam) acht Kilometer östlich. Ein Kreisverkehr dieser Größe heißt für Ihre Standortangabe: Nennen Sie uns die Ausfahrt, die Sie zuletzt genommen haben oder nehmen wollten, und die Fahrtrichtung. Der Flughafen Neubrandenburg liegt an der nördlichen Stadtgrenze in der Nachbargemeinde Trollenhagen.</p>
+<h2>So nennen Sie Ihren Standort in Neubrandenburg</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße und Hausnummer oder nächste Kreuzung.</li>
+<li>Auf der A20: Richtung, Anschlussstelle Nord oder Ost.</li>
+<li>Am Friedrich-Engels-Ring: zuletzt genommene Ausfahrt und Richtung.</li>
+<li>Auf B96, B104, B192 oder B197: Fahrtrichtung, nächster Ort.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-potsdam.html">Potsdam</a> und <a href="stadt-stralsund.html">Stralsund</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Neubrandenburg</h2>
+<details><summary>Welche Autobahnanschlüsse hat Neubrandenburg?</summary><div>Neubrandenburg-Nord und Neubrandenburg-Ost an der A20, östlich der Stadt.</div></details>
+<details><summary>Was ist der Friedrich-Engels-Ring?</summary><div>Ein etwa vier Kilometer langer Kreisverkehr um die Innenstadt, auf dem B96 und B104 verlaufen.</div></details>
+<details><summary>Wohin führt die B192?</summary><div>Von Neubrandenburg im Westen der Stadt nach Wismar.</div></details>
+<details><summary>Wo liegt der Flughafen?</summary><div>An der nördlichen Stadtgrenze in der Nachbargemeinde Trollenhagen.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-dessau-rosslau | Abschleppdienst Dessau-Roßlau: Pannenhilfe A9, B184, B185, B187 | Pannenhilfe und Abschleppen in Dessau-Roßlau: 25 Stadtbezirke, A9 mit Dessau-Süd und Dessau-Ost, B184, B185, B187, Roßlauer Elbbrücke. | page ===
+<!--AREAS: Dessau-Roßlau, Dessau, Roßlau, Vockerode, Coswig, Elbe -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dessau-Roßlau</p><h1>Abschleppdienst Dessau-Roßlau</h1><p class="lead">Dessau-Roßlau liegt in Sachsen-Anhalt beiderseits der Elbe an der A9. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Zwei Städte, eine Stadt</h2>
+<p>Dessau-Roßlau ist eine kreisfreie Stadt in Sachsen-Anhalt, bei der Kreisreform am 1. Juli 2007 aus der Fusion der kreisfreien Stadt Dessau und der Stadt Roßlau (Elbe) entstanden. Das Stadtgebiet ist für statistische Zwecke in zwei Stadtteile und 25 Stadtbezirke eingeteilt: Die Stadtbezirke 1 bis 21 gehören zum Stadtteil Dessau, 22 bis 25 zu Roßlau (Elbe). Nennen Sie uns bei einer Panne, ob Sie in Dessau oder Roßlau stehen, dazu Straße und Ortsteil.</p>
+<h2>A9: Dessau-Süd, Dessau-Ost, Vockerode</h2>
+<p>Durch das südöstliche Stadtgebiet führt die 1938 erbaute und bis zum Jahr 2000 sechsstreifig ausgebaute A9 (Berlin–München). Dazu gehören die Anschlussstellen Dessau-Süd (an der B184) und Dessau-Ost (an der B185). Die Stadt ist auch von der Anschlussstelle Vockerode der A9 über eine Landesstraße und nördlich der Elbe von der Anschlussstelle Coswig über die B187 in Richtung Magdeburg nach Roßlau erreichbar. Bei einer Panne auf der A9 nennen Sie uns Fahrtrichtung und Anschlussstelle, mehr auf <a href="autobahn-a9.html">Panne auf der A9</a>. Mehr auf <a href="stadt-halle.html">Abschleppdienst Halle</a>, <a href="stadt-magdeburg.html">Abschleppdienst Magdeburg</a> und <a href="stadt-potsdam.html">Abschleppdienst Potsdam</a>.</p>
+<h2>Roßlauer Elbbrücke und die Bundesstraßen</h2>
+<p>Aufgrund der Roßlauer Elbbrücke war die Stadt schon früh ein Kreuzungspunkt von Handelswegen. Heute führen die B184, B185 und B187 sowie mehrere Landesstraßen durch Dessau-Roßlau. Wenn Sie an der Elbbrücke oder zwischen Dessau und Roßlau liegen bleiben, sagen Sie uns, auf welcher Seite der Elbe Sie stehen. Bei einer Panne an einer Brücke: Warnblinker, Warnweste, hinter die Schutzplanke, mehr im <a href="ratgeber-panne-autobahn.html">Ratgeber</a>.</p>
+<h2>So nennen Sie Ihren Standort in Dessau-Roßlau</h2>
+<ul class="ticks">
+<li>Dessau oder Roßlau, Stadtbezirk, Straße.</li>
+<li>Auf der A9: Richtung, Anschlussstelle Dessau-Süd, Dessau-Ost oder Vockerode.</li>
+<li>Auf B184, B185 oder B187: Fahrtrichtung.</li>
+<li>An der Elbe: Brücke oder Fährhinweis, Elbseite.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-leipzig.html">Leipzig</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Dessau-Roßlau</h2>
+<details><summary>Wie ist Dessau-Roßlau entstanden?</summary><div>Am 1. Juli 2007 aus der Fusion der Stadt Dessau und der Stadt Roßlau (Elbe).</div></details>
+<details><summary>Welche Anschlussstellen der A9 gibt es?</summary><div>Dessau-Süd (B184) und Dessau-Ost (B185), dazu Vockerode und Coswig für Zufahrten.</div></details>
+<details><summary>Wie viele Stadtbezirke gibt es?</summary><div>25, davon 1 bis 21 in Dessau, 22 bis 25 in Roßlau.</div></details>
+<details><summary>Wann wurde die A9 hier gebaut?</summary><div>1938, bis zum Jahr 2000 sechsstreifig ausgebaut.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-ratingen | Abschleppdienst Ratingen: Pannenhilfe A3, A44, A52, A524 | Pannenhilfe und Abschleppen in Ratingen: vier Autobahnen mit zehn Anschlussstellen, A3, A44, A52 und A524, sechs Gemeindebezirke, B1 und B227. | page ===
+<!--AREAS: Ratingen, Ratingen-Ost, Ratingen-West, Ratingen-Lintorf, Ratingen-Homberg, Breitscheid -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratingen</p><h1>Abschleppdienst Ratingen</h1><p class="lead">Ratingen liegt nordöstlich von Düsseldorf an vier Autobahnen mit zehn Anschlussstellen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Größte Stadt des Kreises Mettmann</h2>
+<p>Ratingen ist eine große kreisangehörige Stadt im nordrhein-westfälischen Kreis Mettmann, in der Metropolregion Rhein-Ruhr im Übergangsbereich zwischen Niederrheinischem Tiefland und Niederbergischem Land. Mit mehr als 88.000 Einwohnern ist sie die größte Stadt des Kreises. Ratingen gliedert sich in sechs Gemeindebezirke, die sich jeweils in ein oder zwei Stadtteile unterteilen. 1929 behauptete Ratingen seine Selbstständigkeit, die Gemeinde Eckamp mit den heutigen Stadtteilen Tiefenbroich und Ratingen-West wurde 1930 eingegliedert. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-duesseldorf.html">Abschleppdienst Düsseldorf</a>.</p>
+<h2>Vier Autobahnen, zehn Anschlussstellen</h2>
+<p>Insgesamt vier Autobahnen mit zehn Anschlussstellen und Knotenpunkten liegen auf Ratinger Stadtgebiet. Ratingen Mitte liegt im Dreieck der A3 (Köln–Oberhausen), der A52 (Düsseldorf–Essen) und der A44 (Mönchengladbach–Ratingen Ost, Weiterbau ab 2025). Die A524 ist über das Dreieck Breitscheid angebunden. Mit so vielen Anschlussstellen ist die Autobahnnummer für Ihre Standortangabe wichtiger als der Ortsname. Mehr auf <a href="autobahn-a3.html">Panne auf der A3</a>, <a href="autobahn-a44.html">Panne auf der A44</a>, <a href="autobahn-a52.html">Panne auf der A52</a> und <a href="stadt-duisburg.html">Abschleppdienst Duisburg</a>.</p>
+<h2>B1 und B227</h2>
+<p>Die B1 und die B227 verlaufen ebenfalls durch das Stadtgebiet. Das benachbarte Düsseldorf ist über mehrere Autobahnen und Ortsstraßen erreichbar. Wenn Sie an einer Bundesstraße liegen bleiben, nennen Sie uns Straße und Fahrtrichtung.</p>
+<h2>So nennen Sie Ihren Standort in Ratingen</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße und Hausnummer oder nächste Kreuzung.</li>
+<li>Auf der Autobahn: Nummer (A3, A44, A52 oder A524), Richtung, Anschlussstelle.</li>
+<li>Am Dreieck Breitscheid oder Ratingen Mitte: Fahrtrichtung.</li>
+<li>Auf B1 oder B227: Fahrtrichtung.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-muelheim.html">Mülheim</a> und <a href="stadt-essen.html">Essen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Ratingen</h2>
+<details><summary>Welche Autobahnen liegen in Ratingen?</summary><div>A3, A44, A52 und A524, mit zehn Anschlussstellen und Knotenpunkten.</div></details>
+<details><summary>Wie viele Gemeindebezirke hat Ratingen?</summary><div>Sechs, die sich jeweils in ein oder zwei Stadtteile unterteilen.</div></details>
+<details><summary>Wo ist das Dreieck Breitscheid?</summary><div>Dort wird die A524 angebunden.</div></details>
+<details><summary>Wie viele Einwohner hat Ratingen?</summary><div>Mehr als 88.000.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-ruesselsheim | Abschleppdienst Rüsselsheim am Main: Pannenhilfe A60, A67, B43 | Pannenhilfe und Abschleppen in Rüsselsheim am Main: A60 Mitte und Königstädten, A67, Mainspitz-Dreieck, B43 und Anbindung an A3 und A671. | page ===
+<!--AREAS: Rüsselsheim, Rüsselsheim-Königstädten, Rüsselsheim-Haßloch, Bauschheim, Mainspitz-Dreieck, Flörsheim -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rüsselsheim am Main</p><h1>Abschleppdienst Rüsselsheim am Main</h1><p class="lead">Rüsselsheim liegt am Main im Rhein-Main-Gebiet an A60 und A67. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Größte Stadt des Kreises Groß-Gerau</h2>
+<p>Rüsselsheim am Main (bis zum 30. Juli 2015 Rüsselsheim) ist mit rund 67.000 Einwohnern die größte Stadt des Landkreises Groß-Gerau im Regierungsbezirk Darmstadt innerhalb des Rhein-Main-Gebietes, die zehntgrößte Stadt Hessens und Teil der Stadtregion Frankfurt. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-frankfurt.html">Abschleppdienst Frankfurt</a>, <a href="stadt-mainz.html">Abschleppdienst Mainz</a> und <a href="stadt-wiesbaden.html">Abschleppdienst Wiesbaden</a>.</p>
+<h2>A60 und A67</h2>
+<p>Mit dem Fernverkehrsnetz der Bundesautobahnen ist Rüsselsheim im Süden durch die A60 mit den Anschlussstellen Rüsselsheim-Mitte und Rüsselsheim-Königstädten verbunden. Die A60 verlässt den Mainzer Autobahnring am Mainspitz-Dreieck und mündet am Rüsselsheimer Dreieck in die A67. Diese tangiert den Osten der Stadt vom Mönchhof-Dreieck kommend, führt nach Darmstadt und ist mit der B486 verknüpft. Bei einer Panne nennen Sie uns Autobahnnummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a67.html">Panne auf der A67</a>.</p>
+<h2>B43, A671 und A3</h2>
+<p>Durch Rüsselsheim führt die B43 von Mainz nach Frankfurt und verbindet die am südlichen Mainufer liegenden Orte. Über das Mainspitz-Dreieck oder die B43 gibt es eine Verbindung zur A671 nach Wiesbaden. Ferner verbindet die B43 Rüsselsheim mit der A3 und so mit den Städten Köln und Frankfurt sowie mit dem Flughafen Frankfurt. Wenn Sie auf der Strecke zum Flughafen liegen bleiben, nennen Sie uns Fahrtrichtung und Querstraße, mehr auf <a href="autobahn-a3.html">Panne auf der A3</a>.</p>
+<h2>Opel-Brücke am Main</h2>
+<p>Seit dem 26. August 1928 bot die Opel-Brücke eine Straßenverbindung zu dem am anderen Mainufer liegenden Flörsheim. Sie wurde 1979 abgerissen. Wenn Sie in der Nähe von Mainbrücken liegen bleiben, nennen Sie uns die Brücke, die Uferseite und die Fahrtrichtung.</p>
+<h2>So nennen Sie Ihren Standort in Rüsselsheim</h2>
+<ul class="ticks">
+<li>Stadtteil, Straße und Hausnummer oder nächste Kreuzung.</li>
+<li>Auf A60 oder A67: Nummer, Richtung, Anschlussstelle, Mainspitz-Dreieck.</li>
+<li>Auf der B43: Fahrtrichtung, Querstraße.</li>
+<li>Am Main: Uferseite und Brücke.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-darmstadt.html">Darmstadt</a> und <a href="stadt-offenbach.html">Offenbach</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Rüsselsheim</h2>
+<details><summary>Welche Autobahnen führen nach Rüsselsheim?</summary><div>Die A60 mit den Anschlussstellen Rüsselsheim-Mitte und Königstädten und die A67, die den Osten der Stadt tangiert.</div></details>
+<details><summary>Wo mündet die A60 in die A67?</summary><div>Am Rüsselsheimer Dreieck.</div></details>
+<details><summary>Wohin führt die B43?</summary><div>Von Mainz über Rüsselsheim nach Frankfurt, mit Verbindung zur A3.</div></details>
+<details><summary>Wie viele Einwohner hat Rüsselsheim?</summary><div>Rund 67.000, es ist die zehntgrößte Stadt Hessens.</div></details>
+</div></section>
+@@CTA@@
+
+=== stadt-straubing | Abschleppdienst Straubing: Pannenhilfe A3, A92, B8, B20 | Pannenhilfe und Abschleppen in Straubing: kreisfreie Stadt in Niederbayern, B8, B20-Zubringer zur A3 und A92, Gewerbegebiete Alburg und Straubing-Ost. | page ===
+<!--AREAS: Straubing, Straubing-Alburg, Straubing-Ittling, Straubing-Kagers, Straubing-Ost, Bogen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Straubing</p><h1>Abschleppdienst Straubing</h1><p class="lead">Straubing liegt in Niederbayern an der B8 mit Zubringer B20 zu A3 und A92. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Hauptstadt eines Teilherzogtums im Mittelalter</h2>
+<p>Straubing ist eine kreisfreie Stadt im Regierungsbezirk Niederbayern in Ostbayern mit 49.775 Einwohnern (31. Dezember 2023). Im späten Mittelalter war sie neben München, Landshut und Ingolstadt eine der Hauptstädte der bayerischen Teilherzogtümer. Straubing ist nicht in Stadtbezirke unterteilt. Bei der Gebietsreform zwischen 1972 und 1976 wurden Nachbargemeinden wie Alburg, Ittling, Kagers und Hornstorf eingemeindet. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-regensburg.html">Abschleppdienst Regensburg</a> und <a href="stadt-landshut.html">Abschleppdienst Landshut</a>.</p>
+<h2>B8, B20, A3 und A92</h2>
+<p>Straubing ist über die B8 und über den Zubringer B20 auch von den Autobahnen A3 und A92 erreichbar. Bei einer Panne auf der Zufahrt nennen Sie uns Straße, Fahrtrichtung und die nächste Ausfahrt, mehr auf <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="autobahn-a92.html">Panne auf der A92</a>. Zur Nachbarstadt: <a href="stadt-passau.html">Abschleppdienst Passau</a>.</p>
+<h2>Gewerbegebiete an den Bundesstraßen</h2>
+<p>Der Gewerbepark Alburg hat 141.000 Quadratmeter Gesamtfläche und direkte Anbindung an die B8, das Gewerbegebiet Straubing-Ost 206 Hektar Gesamtfläche und liegt in unmittelbarer Nähe zur B20. Wenn Ihr Transporter dort liegen bleibt, nennen Sie uns Straße oder Firmenname des Geländes, siehe <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>.</p>
+<h2>Parkleitsystem in der Innenstadt</h2>
+<p>In der Stadt umfasst das Parkleitsystem sieben Parkhäuser, Tiefgaragen und Parkebenen in der Innenstadt mit rund 1.100 Parkplätzen. Wenn Ihr Fahrzeug in einem dieser Parkhäuser nicht anspringt, nennen Sie uns Parkhaus und Ebene, siehe <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Panne im Parkhaus</a>.</p>
+<h2>So nennen Sie Ihren Standort in Straubing</h2>
+<ul class="ticks">
+<li>Ortsteil, Straße und Hausnummer oder nächste Kreuzung.</li>
+<li>Auf B8 oder B20: Fahrtrichtung, Querstraße.</li>
+<li>Auf A3 oder A92: Richtung, Anschlussstelle.</li>
+<li>Im Parkhaus: Name und Ebene.</li>
+</ul>
+<p>Weitere Städte: <a href="stadt-ingolstadt.html">Ingolstadt</a> und <a href="stadt-rosenheim.html">Rosenheim</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Straubing</h2>
+<details><summary>Welche Autobahnen sind erreichbar?</summary><div>Die A3 und die A92, über die B8 und den Zubringer B20.</div></details>
+<details><summary>Wie viele Einwohner hat Straubing?</summary><div>49.775 am 31. Dezember 2023.</div></details>
+<details><summary>Hat Straubing Stadtbezirke?</summary><div>Nein, die Stadt ist nicht in Stadtbezirke unterteilt.</div></details>
+<details><summary>Wie viele Parkplätze hat das Parkleitsystem?</summary><div>Rund 1.100 in sieben Parkhäusern, Tiefgaragen und Parkebenen.</div></details>
+</div></section>
+@@CTA@@
