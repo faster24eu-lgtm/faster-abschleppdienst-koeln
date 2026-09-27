@@ -7,7 +7,7 @@ my $header = <<'EOT';
 <header class="site-header"><div class="wrap nav">
   <a class="brand" href="home.html" aria-label="Faster Abschleppdienst - Startseite"><img src="assets/faster-logo-de-600.png" alt="Faster Abschleppdienst Logo" width="110" height="38"><span><strong>FASTER</strong><small>ABSCHLEPPDIENST &amp; PANNENHILFE</small></span></a>
   <nav class="menu" aria-label="Hauptnavigation">@@MENU@@</nav>
-  <div class="nav-cta"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp</a><a class="btn btn-y hide-s" href="tel:+4917641956993">+49 176 41956993</a></div>
+  <div class="nav-cta">@@LANGSWITCH@@<a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp</a><a class="btn btn-y hide-s" href="tel:+4917641956993">+49 176 41956993</a></div>
 </div></header>
 EOT
 my $footer = <<'EOT';
@@ -17,6 +17,24 @@ my $footer = <<'EOT';
   <div><strong>Köln</strong><p><a href="index.html">Abschleppdienst Köln</a><br><a href="pannenhilfe-koeln.html">Pannenhilfe Köln</a><br><a href="abschleppen-bergung-koeln.html">Abschleppen &amp; Bergung Köln</a><br><a href="abschleppdienst-koeln-stadtteile.html">Stadtbezirke und Rheinbrücken</a><br><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a><br><a href="pannenhilfe-a3-koeln.html">Panne auf der A3</a><br><a href="pannenhilfe-a4-koeln.html">Panne auf der A4</a><br><a href="pannenhilfe-a1-koeln.html">Panne auf der A1</a></p></div>
   <div><strong>Karlsruhe bis Offenburg</strong><p><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden</a><br><a href="abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="abschleppdienst-a5.html">Panne auf der A5</a></p></div>
   <div><strong>Ratgeber &amp; Rechtliches</strong><p><a href="staedte.html">Alle Städte</a><br><a href="bundeslaender.html">Bundesländer</a><br><a href="autobahnen.html">Autobahnen</a><br><a href="ratgeber.html">Alle Ratgeber</a><br><a href="kontakt.html">Kontakt</a><br><a href="impressum.html">Impressum</a><br><a href="datenschutz.html">Datenschutz</a><br><a href="#" onclick="return window.openCookieBanner &amp;&amp; window.openCookieBanner(event)">Cookie-Einstellungen</a></p></div>
+</div><div class="wrap foot-bottom">© 2026 Faster Abschleppdienst</div></footer>
+EOT
+# English mirror of header/footer. Nav/footer links point to en-* pages where they exist yet, otherwise
+# fall back to the German page (better than a dead link; swap in as more pages get translated).
+my $header_en = <<'EOT';
+<header class="site-header"><div class="wrap nav">
+  <a class="brand" href="en-home.html" aria-label="Faster Abschleppdienst - Home"><img src="assets/faster-logo-de-600.png" alt="Faster Abschleppdienst Logo" width="110" height="38"><span><strong>FASTER</strong><small>TOWING &amp; ROADSIDE ASSISTANCE</small></span></a>
+  <nav class="menu" aria-label="Main navigation">@@MENU@@</nav>
+  <div class="nav-cta">@@LANGSWITCH@@<a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp</a><a class="btn btn-y hide-s" href="tel:+4917641956993">+49 176 41956993</a></div>
+</div></header>
+EOT
+my $footer_en = <<'EOT';
+<footer class="site-footer"><div class="wrap foot-grid">
+  <div><strong>Faster Abschleppdienst</strong><p>Towing and roadside assistance all over Germany, with a focus on Cologne and Karlsruhe to Offenburg. Personal service, reachable around the clock.</p></div>
+  <div><strong>Contact</strong><p><a href="tel:+4917641956993">+49 176 41956993</a><br><a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a><br>Registered office: De Bosschaertstraat 248<br>2020 Antwerp, Belgium</p></div>
+  <div><strong>Cologne</strong><p><a href="en-index.html">Towing Service Cologne</a><br><a href="en-pannenhilfe-koeln.html">Roadside Assistance Cologne</a><br><a href="en-abschleppen-bergung-koeln.html">Towing &amp; Recovery Cologne</a><br><a href="en-abschleppdienst-koeln-stadtteile.html">Districts &amp; Rhine Bridges</a><br><a href="en-pannenhilfe-koelner-autobahnring.html">Cologne Motorway Ring</a><br><a href="en-pannenhilfe-a3-koeln.html">Breakdown on the A3</a><br><a href="en-pannenhilfe-a4-koeln.html">Breakdown on the A4</a><br><a href="en-pannenhilfe-a1-koeln.html">Breakdown on the A1</a></p></div>
+  <div><strong>Karlsruhe to Offenburg</strong><p><a href="en-abschleppdienst-mittelbaden.html">Central Baden Overview</a><br><a href="en-abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="en-abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="en-abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="en-abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="en-abschleppdienst-a5.html">Breakdown on the A5</a></p></div>
+  <div><strong>Guides &amp; Legal</strong><p><a href="staedte.html">All Cities (German)</a><br><a href="bundeslaender.html">States (German)</a><br><a href="autobahnen.html">Motorways (German)</a><br><a href="ratgeber.html">All Guides (German)</a><br><a href="kontakt.html">Contact</a><br><a href="impressum.html">Legal Notice</a><br><a href="datenschutz.html">Privacy Policy</a><br><a href="#" onclick="return window.openCookieBanner &amp;&amp; window.openCookieBanner(event)">Cookie Settings</a></p></div>
 </div><div class="wrap foot-bottom">© 2026 Faster Abschleppdienst</div></footer>
 EOT
 # Consent Mode default: must be present before the gtag.js loader on every page.
@@ -85,6 +103,38 @@ my $cookie_banner = <<'EOT';
 })();
 </script>
 EOT
+# English cookie banner — same mechanism/keys, translated text, for pages served under /en/.
+my $cookie_banner_en = <<'EOT';
+<div class="cookie-banner" id="cookie-banner" hidden>
+  <div class="wrap cookie-in">
+    <p>We use Google cookies to measure whether our ads lead to calls. You can accept or decline. More in our <a href="datenschutz.html">privacy policy</a>.</p>
+    <div class="cookie-actions">
+      <button type="button" class="cookie-btn cookie-decline" id="cookie-decline">Decline</button>
+      <button type="button" class="cookie-btn cookie-accept" id="cookie-accept">Accept</button>
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+  var KEY = 'faster_cookie_consent';
+  var banner = document.getElementById('cookie-banner');
+  function apply(choice){
+    if (choice === 'granted') {
+      gtag('consent', 'update', {'ad_storage':'granted','ad_user_data':'granted','ad_personalization':'granted','analytics_storage':'granted'});
+    } else if (choice === 'denied') {
+      gtag('consent', 'update', {'ad_storage':'denied','ad_user_data':'denied','ad_personalization':'denied','analytics_storage':'denied'});
+    }
+  }
+  function stored(){ try { return localStorage.getItem(KEY); } catch(e){ return null; } }
+  function store(v){ try { localStorage.setItem(KEY, v); } catch(e){} }
+  var choice = stored();
+  if (choice) { apply(choice); } else if (banner) { banner.hidden = false; }
+  var acc = document.getElementById('cookie-accept'); if (acc) acc.addEventListener('click', function(){ store('granted'); apply('granted'); if (banner) banner.hidden = true; });
+  var dec = document.getElementById('cookie-decline'); if (dec) dec.addEventListener('click', function(){ store('denied'); apply('denied'); if (banner) banner.hidden = true; });
+  window.openCookieBanner = function(e){ if (e) e.preventDefault(); if (banner) banner.hidden = false; return false; };
+})();
+</script>
+EOT
 my $ld = <<'EOT';
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"LocalBusiness","name":"Faster Abschleppdienst","description":"Abschleppdienst und Pannenhilfe für Köln und Umgebung.","email":"faster@takeldienstfaster.be","telephone":"+4917641956993","address":{"@type":"PostalAddress","streetAddress":"De Bosschaertstraat 248","postalCode":"2020","addressLocality":"Antwerpen","addressCountry":"BE"},"areaServed":{"@type":"City","name":"Köln"},"knowsLanguage":["de","nl","fr","en"]}
@@ -124,7 +174,7 @@ sub schema_for {
 # extra pages: marker "=== slug | title | description | flag ===", optional body comment <!--AREAS: a, b -->. Later files override earlier slugs.
 {
   my $dir = "$Bin/content";
-  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_guides14.txt extra_koeln5.txt extra_koeln6.txt extra_guides15.txt extra_home.txt), (map { s{.*/}{}r } sort glob("$Bin/content/geo_*.txt")), qw(extra_ratgeber.txt)) {
+  for my $name (qw(extra_pages.txt extra_koeln.txt extra_region.txt extra_guides.txt extra_guides2.txt extra_guides3.txt extra_koeln2.txt extra_koeln3.txt extra_koeln4.txt extra_guides4.txt extra_guides5.txt extra_guides6.txt extra_guides7.txt extra_guides8.txt extra_guides9.txt extra_guides10.txt extra_guides11.txt extra_guides12.txt extra_guides13.txt extra_guides14.txt extra_koeln5.txt extra_koeln6.txt extra_guides15.txt extra_home.txt), (map { s{.*/}{}r } sort glob("$Bin/content/geo_*.txt")), qw(extra_ratgeber.txt en_home.txt en_koeln.txt en_region.txt)) {
     open(my $ex,"<:raw","$dir/$name") or next; my $c;
     while (my $l=<$ex>) {
       if ($l =~ /^=== (\S+) \| (.*?) \| (.*) \| (\w+) ===\s*$/) { $c=$1; push @order,$c unless $P{$c}; $P{$c}={title=>"$2 | Faster Abschleppdienst",desc=>$3,flag=>$4,body=>""}; next }
@@ -169,6 +219,13 @@ sub related_for {
 }
 sub cta_for {
   my $slug = shift;
+  if ($slug =~ /^en-/) {
+    my ($h,$t);
+    if ($slug =~ /^en-(index|.*koeln.*)$/) { ($h,$t)=('Broken down in Cologne?','Call us or send your location on WhatsApp.'); }
+    elsif ($slug =~ /^en-abschleppdienst-(karlsruhe|baden-baden|achern|offenburg|a5|mittelbaden)$/) { ($h,$t)=('Broken down between Karlsruhe and Offenburg?','Call us or share your location on WhatsApp. We tell you the price before anyone drives out.'); }
+    else { ($h,$t)=('Reach us directly','Phone and WhatsApp: available around the clock.'); }
+    return qq{<section class="cta"><div class="wrap cta-in"><div><h2>$h</h2><p>$t</p></div><div class="actions"><a class="btn btn-dark" href="\@\@WA\@\@" target="_blank" rel="noopener">Send location on WhatsApp</a><a class="btn btn-out" href="tel:+4917641956993">+49 176 41956993</a></div></div></section>};
+  }
   my ($h,$t);
   if ($slug =~ /^(index|.*koeln.*)$/) { ($h,$t)=('Panne in Köln?','Rufen Sie an oder schreiben Sie per WhatsApp und schicken Sie Ihren Standort.'); }
   elsif ($slug =~ /^abschleppdienst-(karlsruhe|baden-baden|achern|offenburg|a5|mittelbaden)$/) { ($h,$t)=('Liegen geblieben zwischen Karlsruhe und Offenburg?','Rufen Sie an oder teilen Sie Ihren Standort per WhatsApp. Den Preis nennen wir vor der Abfahrt.'); }
@@ -191,8 +248,15 @@ my %PATH = (
   'ratgeber'=>'ratgeber',
 );
 $PATH{"koeln-$_"} = "koeln/$_" for qw(innenstadt ehrenfeld nippes lindenthal rodenkirchen porz kalk muelheim chorweiler);
+# ---- English mirror: /en/... — same structure, "en-" prefixed slugs. Add new en-<slug> entries here as pages get translated.
+$PATH{'en-home'} = 'en';
+$PATH{'en-index'} = 'en/koeln'; $PATH{'en-pannenhilfe-koeln'} = 'en/koeln/pannenhilfe'; $PATH{'en-abschleppen-bergung-koeln'} = 'en/koeln/abschleppen-bergung';
+$PATH{'en-pannenhilfe-koelner-autobahnring'} = 'en/koeln/autobahnring'; $PATH{'en-pannenhilfe-a1-koeln'} = 'en/koeln/a1'; $PATH{'en-pannenhilfe-a3-koeln'} = 'en/koeln/a3'; $PATH{'en-pannenhilfe-a4-koeln'} = 'en/koeln/a4';
+$PATH{'en-abschleppdienst-koeln-stadtteile'} = 'en/koeln/stadtteile';
+$PATH{'en-abschleppdienst-mittelbaden'} = 'en/karlsruhe'; $PATH{'en-abschleppdienst-karlsruhe'} = 'en/karlsruhe/stadt'; $PATH{'en-abschleppdienst-baden-baden'} = 'en/karlsruhe/baden-baden';
+$PATH{'en-abschleppdienst-achern'} = 'en/karlsruhe/achern'; $PATH{'en-abschleppdienst-offenburg'} = 'en/karlsruhe/offenburg'; $PATH{'en-abschleppdienst-a5'} = 'en/karlsruhe/a5';
 sub path_for { my $s=shift; return $PATH{$s} if exists $PATH{$s}; return "ratgeber/$1" if $s =~ /^ratgeber-(.+)$/; return $s; }
-sub region_for { my $pa=shift; return 'koeln' if $pa =~ m{^koeln}; return 'karlsruhe' if $pa =~ m{^karlsruhe}; return 'shared'; }
+sub region_for { my $pa=shift; $pa =~ s{^en/}{}; return 'koeln' if $pa =~ m{^koeln}; return 'karlsruhe' if $pa =~ m{^karlsruhe}; return 'shared'; }
 sub depth_of { my $pa=shift; return $pa eq '' ? 0 : scalar(split m{/}, $pa); }
 sub relurl { my ($from,$to)=@_; my $d=depth_of($from); my $up = $d ? ('../' x $d) : './'; return $to eq '' ? $up : ($d ? $up : './').$to.'/'; }
 sub fix_links {
@@ -206,10 +270,31 @@ my %MENU = (
   karlsruhe => [['Karlsruhe &amp; Mittelbaden','abschleppdienst-mittelbaden'],['Karlsruhe','abschleppdienst-karlsruhe'],['A5','abschleppdienst-a5'],['Alle Städte','staedte'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
   shared    => [['Köln','index'],['Karlsruhe &amp; Mittelbaden','abschleppdienst-mittelbaden'],['Alle Städte','staedte'],['Ratgeber','ratgeber'],['Kontakt','kontakt']],
 );
+# English nav (same target pages; "All Cities"/"Guides"/"Contact" fall back to the German pages until those are translated too).
+my %MENU_EN = (
+  koeln     => [['Cologne','en-index'],['Roadside Assistance','en-pannenhilfe-koeln'],['Motorways','en-pannenhilfe-koelner-autobahnring'],['Districts','en-abschleppdienst-koeln-stadtteile'],['All Cities','staedte'],['Guides','ratgeber'],['Contact','kontakt']],
+  karlsruhe => [['Karlsruhe &amp; Central Baden','en-abschleppdienst-mittelbaden'],['Karlsruhe','en-abschleppdienst-karlsruhe'],['A5','en-abschleppdienst-a5'],['All Cities','staedte'],['Guides','ratgeber'],['Contact','kontakt']],
+  shared    => [['Cologne','en-index'],['Karlsruhe &amp; Central Baden','en-abschleppdienst-mittelbaden'],['All Cities','staedte'],['Guides','ratgeber'],['Contact','kontakt']],
+);
 $CRUMB_PARENT{'index'} = ['home','Köln &amp; Umgebung'];
 $CRUMB_PARENT{'abschleppdienst-mittelbaden'} = ['home','Karlsruhe &amp; Mittelbaden'];
 $CRUMB_PARENT{$_} = ['home', {ratgeber=>'Ratgeber',kontakt=>'Kontakt',impressum=>'Impressum',datenschutz=>'Datenschutz'}->{$_}] for qw(ratgeber kontakt impressum datenschutz);
 $CRUMB_PARENT{'abschleppdienst-koeln-stadtteile'} = ['index','Stadtbezirke und Rheinbrücken'];
+# English breadcrumb parents for the translated pages.
+$CRUMB_PARENT{'en-index'} = ['home','Cologne &amp; Area'];
+$CRUMB_PARENT{'en-abschleppdienst-mittelbaden'} = ['home','Karlsruhe &amp; Central Baden'];
+$CRUMB_PARENT{'en-abschleppdienst-koeln-stadtteile'} = ['en-index','Districts &amp; Rhine Bridges'];
+$CRUMB_PARENT{'en-pannenhilfe-koeln'} = ['en-index','Roadside Assistance'];
+$CRUMB_PARENT{'en-abschleppen-bergung-koeln'} = ['en-index','Towing &amp; Recovery'];
+$CRUMB_PARENT{'en-pannenhilfe-koelner-autobahnring'} = ['en-index','Cologne Motorway Ring'];
+$CRUMB_PARENT{'en-pannenhilfe-a1-koeln'} = ['en-pannenhilfe-koelner-autobahnring','A1 Breakdown'];
+$CRUMB_PARENT{'en-pannenhilfe-a3-koeln'} = ['en-pannenhilfe-koelner-autobahnring','A3 Breakdown'];
+$CRUMB_PARENT{'en-pannenhilfe-a4-koeln'} = ['en-pannenhilfe-koelner-autobahnring','A4 Breakdown'];
+$CRUMB_PARENT{'en-abschleppdienst-karlsruhe'} = ['en-abschleppdienst-mittelbaden','Karlsruhe'];
+$CRUMB_PARENT{'en-abschleppdienst-baden-baden'} = ['en-abschleppdienst-mittelbaden','Baden-Baden &amp; Rastatt'];
+$CRUMB_PARENT{'en-abschleppdienst-achern'} = ['en-abschleppdienst-mittelbaden','Achern &amp; Bühl'];
+$CRUMB_PARENT{'en-abschleppdienst-offenburg'} = ['en-abschleppdienst-mittelbaden','Offenburg &amp; Kehl'];
+$CRUMB_PARENT{'en-abschleppdienst-a5'} = ['en-abschleppdienst-mittelbaden','A5 Breakdown'];
 my %DISTRICT = (innenstadt=>'Innenstadt', ehrenfeld=>'Ehrenfeld', nippes=>'Nippes', lindenthal=>'Lindenthal', rodenkirchen=>'Rodenkirchen', porz=>'Porz', kalk=>'Kalk', muelheim=>'Mülheim', chorweiler=>'Chorweiler');
 $CRUMB_PARENT{"koeln-$_"} = ['abschleppdienst-koeln-stadtteile', "Köln-$DISTRICT{$_}"] for keys %DISTRICT;
 $CRUMB_PARENT{'koeln-a57'} = ['pannenhilfe-koelner-autobahnring','Panne auf der A57'];
@@ -362,29 +447,51 @@ my (@GEO_CITY,@GEO_AB);
 }
 
 sub service_ld {
-  my ($slug,$name,$curl,$areas)=@_;
+  my ($slug,$name,$curl,$areas,$is_en)=@_;
   my $ar = join(',', map { '{"@type":"City","name":"'.$_.'"}' } @$areas);
   $name =~ s/"/\\"/g;
-  return '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"'.$name.'","serviceType":"Abschleppdienst und Pannenhilfe","url":"'.$curl.'","provider":{"@type":"Organization","name":"Faster Abschleppdienst","telephone":"+4917641956993","email":"faster@takeldienstfaster.be"},"areaServed":['.$ar.'],"availableLanguage":["de","nl","fr","en"]}</script>'."\n";
+  my $stype = $is_en ? 'Towing and roadside assistance' : 'Abschleppdienst und Pannenhilfe';
+  return '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"'.$name.'","serviceType":"'.$stype.'","url":"'.$curl.'","provider":{"@type":"Organization","name":"Faster Abschleppdienst","telephone":"+4917641956993","email":"faster@takeldienstfaster.be"},"areaServed":['.$ar.'],"availableLanguage":["de","nl","fr","en"]}</script>'."\n";
 }
 sub article_ld {
-  my ($name,$curl)=@_; $name =~ s/"/\\"/g;
-  return '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"'.$name.'","inLanguage":"de","mainEntityOfPage":"'.$curl.'","publisher":{"@type":"Organization","name":"Faster Abschleppdienst"}}</script>'."\n";
+  my ($name,$curl,$is_en)=@_; $name =~ s/"/\\"/g;
+  return '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"'.$name.'","inLanguage":"'.($is_en?'en':'de').'","mainEntityOfPage":"'.$curl.'","publisher":{"@type":"Organization","name":"Faster Abschleppdienst"}}</script>'."\n";
 }
 
 # wipe old flat pages in the repo root (new pages are written as folder/index.html)
 unlink glob("$OUT/*.html");
 
+# Bilingual pairing: any "en-<slug>" page automatically links back to and from its German original "<slug>",
+# provided that page exists. Add a page here (en_home.txt / en_koeln.txt / en_region.txt / future en_*.txt)
+# and this pairing — and the language-switch button — pick it up with no further wiring.
+my %TRANSLATE;
+for my $s (@order) {
+  next unless $s =~ /^en-(.+)$/;
+  my $base = $1;
+  next unless $P{$base};
+  $TRANSLATE{$base} = $s; $TRANSLATE{$s} = $base;
+}
+
 for my $slug (@order) {
   my $p=$P{$slug}; my $body=$p->{body};
   my $path = path_for($slug); my $region = region_for($path);
+  my $is_en = ($slug =~ /^en-/) ? 1 : 0;
   my $wa = ($region eq 'koeln') ? $WA : 'https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.';
   $body =~ s/\@\@CTA\@\@/related_for($slug).cta_for($slug)/ge;
-  $body =~ s/Wir nennen Ihnen den Preis, bevor jemand losfährt\./Wir besprechen Ihre Situation und sagen Ihnen, wie es weitergeht./ if $region eq 'koeln';
+  $body =~ s/Wir nennen Ihnen den Preis, bevor jemand losfährt\./Wir besprechen Ihre Situation und sagen Ihnen, wie es weitergeht./ if $region eq 'koeln' && !$is_en;
   $body =~ s/\@\@WA\@\@/$wa/g;
-  # header with region menu
-  my $menu = join('', map { sprintf('<a href="%s.html">%s</a>', $_->[1], $_->[0]) } @{$MENU{$region}});
-  my $hd = $header; $hd =~ s/\@\@MENU\@\@/$menu/; $hd =~ s/\@\@WA\@\@/$wa/g;
+  # language switch: German pages link to their translated en- counterpart if one exists yet (else fall back
+  # to the English homepage, so the button always works); English pages always link back to their German original.
+  my $counterpart = $TRANSLATE{$slug};
+  my ($switch_slug, $switch_label) = $is_en ? ($counterpart, 'DE') : ($counterpart // 'en-home', 'EN');
+  my $langswitch = qq{<a class="btn-lang" href="$switch_slug.html" aria-label="}.($is_en ? 'Auf Deutsch anzeigen' : 'View in English').qq{">$switch_label</a>};
+  # header with region menu (English pages get the English nav labels, same target region)
+  my $menuset = $is_en ? $MENU_EN{$region} : $MENU{$region};
+  my $menu = join('', map { sprintf('<a href="%s.html">%s</a>', $_->[1], $_->[0]) } @$menuset);
+  my $hdr = $is_en ? $header_en : $header;
+  $hdr =~ s/\@\@MENU\@\@/$menu/; $hdr =~ s/\@\@WA\@\@/$wa/g; $hdr =~ s/\@\@LANGSWITCH\@\@/$langswitch/;
+  my $ftr = $is_en ? $footer_en : $footer;
+  my $cbanner = $is_en ? $cookie_banner_en : $cookie_banner;
   # Site is live: pages are indexable unless their marker's flag is explicitly "noindex" (impressum, datenschutz, danke).
   my $robots = (($p->{flag}//'') eq 'noindex') ? qq{<meta name="robots" content="noindex, nofollow">\n} : '';
   # title / description (max 60 / 155 characters)
@@ -393,15 +500,22 @@ for my $slug (@order) {
   $tt .= $suffix if plainlen($tt.$suffix) <= 60;
   my $curl  = $path eq '' ? $BASE : "$BASE$path/";
   my $canon = qq{<link rel="canonical" href="$curl">\n};
-  my $og = qq{<meta property="og:type" content="website"><meta property="og:locale" content="de_DE"><meta property="og:site_name" content="Faster Abschleppdienst"><meta property="og:title" content="$tt"><meta property="og:description" content="$p->{desc}"><meta property="og:url" content="$curl"><meta property="og:image" content="${BASE}assets/faster-road-transport.jpg">\n};
+  my $og = qq{<meta property="og:type" content="website"><meta property="og:locale" content="}.($is_en?'en_US':'de_DE').qq{"><meta property="og:site_name" content="Faster Abschleppdienst"><meta property="og:title" content="$tt"><meta property="og:description" content="$p->{desc}"><meta property="og:url" content="$curl"><meta property="og:image" content="${BASE}assets/faster-road-transport.jpg">\n};
+  # hreflang: only emitted for pages that are part of a real translation pair (not the en-home fallback case).
+  my $hreflang = '';
+  if ($counterpart) {
+    my $cpath = path_for($counterpart); my $curl2 = $cpath eq '' ? $BASE : "$BASE$cpath/";
+    my ($de_url,$en_url) = $is_en ? ($curl2,$curl) : ($curl,$curl2);
+    $hreflang = qq{<link rel="alternate" hreflang="de" href="$de_url">\n<link rel="alternate" hreflang="en" href="$en_url">\n<link rel="alternate" hreflang="x-default" href="$de_url">\n};
+  }
   # structured data: Service (service pages) or Article (guides), FAQPage, BreadcrumbList. No LocalBusiness / no German address.
   my $json = '';
   (my $h1 = ($body =~ m{<h1[^>]*>(.*?)</h1>}s ? $1 : $tt)) =~ s/<[^>]+>//g; $h1 =~ s/&amp;/&/g;
   my $areas_txt = ($body =~ m{<!--AREAS: (.*?) -->}) ? $1 : ($region eq 'koeln' ? 'Köln' : $region eq 'karlsruhe' ? 'Karlsruhe, Baden-Baden, Achern, Offenburg' : 'Köln, Karlsruhe, Offenburg');
   my @areas = split /, /, $areas_txt;
   $body =~ s/<!--AREAS: .*? -->\n?//;
-  if ($slug =~ /^ratgeber-/) { $json .= article_ld($h1,$curl); }
-  elsif ($slug !~ /^(ratgeber|kontakt|impressum|datenschutz|danke)$/) { $json .= service_ld($slug,$h1,$curl,\@areas); }
+  if ($slug =~ /^ratgeber-/) { $json .= article_ld($h1,$curl,$is_en); }
+  elsif ($slug !~ /^(ratgeber|kontakt|impressum|datenschutz|danke)$/) { $json .= service_ld($slug,$h1,$curl,\@areas,$is_en); }
   my @qa;
   while ($body =~ m{<details><summary>(.*?)</summary><div>(.*?)</div></details>}sg) {
     push @qa, '{"@type":"Question","name":"'.jesc($1).'","acceptedAnswer":{"@type":"Answer","text":"'.jesc($2).'"}}';
@@ -412,20 +526,20 @@ for my $slug (@order) {
   if ($slug ne 'home' && $CRUMB_PARENT{$slug}) {
     my ($par,$lab) = @{$CRUMB_PARENT{$slug}}; my @chain = ([$slug,$lab]);
     while ($par && $par ne 'home') { my $pp = $CRUMB_PARENT{$par}; unshift @chain, [$par, $pp ? $pp->[1] : $CRUMB_LABEL{$par}]; $par = $pp ? $pp->[0] : undef; }
-    unshift @chain, ['home','Start'];
+    unshift @chain, [($is_en ? 'en-home' : 'home'), $is_en ? 'Home' : 'Start'];
     my (@li,@jl); my $i=0;
     for my $c (@chain) { $i++; my ($cs,$cl)=@$c; my $cp = path_for($cs); my $u = $cp eq '' ? $BASE : "$BASE$cp/";
       (my $lj=$cl) =~ s/&amp;/&/g; $lj =~ s/"/\\"/g;
       push @jl, qq({"\@type":"ListItem","position":$i,"name":"$lj","item":"$u"});
       push @li, $i==@chain ? qq{<span aria-current="page">$cl</span>} : sprintf('<a href="%s.html">%s</a>', $cs, $cl); }
-    $crumbs = '<nav class="crumbs" aria-label="Brotkrumen"><div class="wrap">'.join(' &rsaquo; ',@li)."</div></nav>\n";
+    $crumbs = '<nav class="crumbs" aria-label="'.($is_en?'Breadcrumb':'Brotkrumen').'"><div class="wrap">'.join(' &rsaquo; ',@li)."</div></nav>\n";
     $bcjson = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":['.join(',',@jl).']}</script>'."\n";
   }
   $json .= $bcjson;
   push @SITEMAP, [$curl,$slug] unless $slug eq 'danke';
   warn "TITLE>60 ($slug): ".plainlen($tt)." $tt\n" if plainlen($tt) > 60;
   warn "DESC>155 ($slug): ".plainlen($p->{desc})."\n" if plainlen($p->{desc}) > 155;
-  my $html = qq{<!doctype html>\n<html lang="de">\n<head>\n<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">\n<title>$tt</title>\n<meta name="description" content="$p->{desc}">\n$robots$canon$og<meta name="theme-color" content="#121212">\n<link rel="icon" href="assets/favicon.ico" sizes="any"><link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">\n<link rel="stylesheet" href="styles.css">\n$consent_default$gtag_script$click_script$json</head>\n<body>\n$hd<main>\n$crumbs$body</main>\n$footer$cookie_banner</body>\n</html>\n};
+  my $html = qq{<!doctype html>\n<html lang="}.($is_en?'en':'de').qq{">\n<head>\n<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">\n<title>$tt</title>\n<meta name="description" content="$p->{desc}">\n$robots$canon$hreflang$og<meta name="theme-color" content="#121212">\n<link rel="icon" href="assets/favicon.ico" sizes="any"><link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">\n<link rel="stylesheet" href="styles.css">\n$consent_default$gtag_script$click_script$json</head>\n<body>\n$hdr<main>\n$crumbs$body</main>\n$ftr$cbanner</body>\n</html>\n};
   $html =~ s/<\/head>/<!-- GSC-VERIFICATION -->\n<\/head>/ if $slug eq 'home';
   $html = fix_links($html,$path);
   my $dir = $path eq '' ? $OUT : "$OUT/$path";

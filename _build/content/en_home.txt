@@ -1,0 +1,27 @@
+=== en-home | Towing &amp; Roadside Assistance All Over Germany | Towing and roadside assistance all over Germany, with a focus on Cologne and Karlsruhe to Offenburg. Reachable 24/7, partners on site. | home ===
+<section class="hero"><div class="wrap hero-grid"><div>
+<p class="eyebrow">Towing &amp; Roadside Assistance</p>
+<h1>Towing and Roadside Assistance All Over Germany</h1>
+<p class="lead">Stuck by the roadside with your vehicle and need someone to organise help? Call now or message us on WhatsApp. We coordinate a partner near you right away, with a focus on Cologne and the stretch between Karlsruhe and Offenburg.</p>
+<div class="actions"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a><a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></div>
+<ul class="proof"><li><strong>Around the clock</strong>by phone and WhatsApp, no ticket system</li><li><strong>Nationwide</strong>partners near you</li><li><strong>Four languages</strong>German, Dutch, French, English</li></ul>
+</div><div><img class="hero-img" src="assets/faster-road-transport.jpg" alt="Faster tow truck with vehicles on the road" width="1200" height="900" fetchpriority="high"></div></div></section>
+<section class="section"><div class="wrap"><h2>Where do you need help?</h2><p class="sub">Pick your region or your city. There you'll find exits, roads and tips for describing where you are.</p>
+<div class="regions">
+<a class="region-card" href="en-index.html"><span class="eyebrow">Region 1</span><h3>Cologne &amp; Area</h3><p>Roadside assistance and towing in Cologne, with pages on the nine districts, the motorway ring and the A1, A3, A4, A57, A59 and A555.</p><strong>Go to the Cologne page →</strong></a>
+<a class="region-card" href="en-abschleppdienst-mittelbaden.html"><span class="eyebrow">Region 2</span><h3>Karlsruhe &amp; Central Baden</h3><p>Roadside assistance between Karlsruhe, Baden-Baden, Achern and Offenburg, with every exit of the A5 from Karlsruhe to Lahr.</p><strong>Go to the Central Baden page →</strong></a>
+</div><p class="sub" style="margin-top:22px">More places: <a href="staedte.html">all cities</a>, <a href="bundeslaender.html">states</a> and <a href="autobahnen.html">breakdown help on the motorway</a> (German pages).</p></div></section>
+<section class="section grey"><div class="wrap narrow copy"><h2>What happens after you call?</h2>
+<p>You tell us briefly what happened and give us your location, fastest by WhatsApp. We check with you what's needed and tell you the price before anyone drives out. After that our partner on the ground takes over, and you stay in touch with us until everything's sorted.</p>
+<h2>How we work</h2>
+<p>Faster is based in Antwerp, Belgium. In Germany we work with partners who carry out the job on site, for example in Cologne, Karlsruhe, Baden-Baden, Achern and Offenburg, but also in many other cities from Hamburg to Munich. You can reach us around the clock, we coordinate the help and stay your point of contact on the phone.</p>
+<p>If you have time, have a look at our guides (currently in German): <a href="ratgeber.html">Ratgeber</a> explain what to do after a breakdown, what matters when towing a vehicle, and who pays after an accident.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
+<details><summary>How fast can you get there?</summary><div>That depends on your location, traffic and availability. We give you a realistic estimate on the call rather than a fixed promise.</div></details>
+<details><summary>What does the help cost?</summary><div>That depends on location, destination, vehicle and situation, so it can't be quoted flat on a website. Call or message us and we'll tell you the price on the phone before anyone drives out.</div></details>
+<details><summary>Are you reachable at night and on weekends?</summary><div>Yes, by phone and WhatsApp we're reachable around the clock, including nights, weekends and public holidays.</div></details>
+<details><summary>Do you help outside Cologne and Karlsruhe too?</summary><div>Yes, we coordinate partners nationwide. Tell us your location and we'll work out how we can help.</div></details>
+<details><summary>Where is Faster based, and who actually comes to me?</summary><div>Faster is based in Antwerp, Belgium. The jobs on the ground are carried out by partners; we coordinate the help and stay your point of contact on the phone.</div></details>
+</div></section>
+@@CTA@@
