@@ -1,15 +1,19 @@
-=== stadt-kassel | Abschleppdienst Kassel: Pannenhilfe A7, A44, A49 | Pannenhilfe und Abschleppen in Kassel: 23 Ortsbezirke, Fulda, A7 mit Kaufunger Wald, Kreuze A44 und A49, Lohfeldener Rüssel und Bundesstraßen. | page ===
+=== stadt-kassel | Abschleppdienst Kassel: Panne auf A7, A44, A49 | Pannenhilfe und Abschleppen in Kassel: steiles A7-Gefälle am Kaufunger Wald, Doppelkreuz A44/A49, Lohfeldener Rüssel. 24/7 per Telefon und WhatsApp. | page ===
 <!--AREAS: Kassel, Kassel-Bad Wilhelmshöhe, Kassel-Wahlershausen, Kassel-Waldau, Lohfelden -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kassel</p><h1>Abschleppdienst Kassel</h1><p class="lead">Kassel ist die einzige Großstadt Nordhessens und liegt an den Autobahnen A7, A44 und A49. Von Norden kommt die A7 über den steilen Kaufunger Wald. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kassel</p><h1>Abschleppdienst Kassel</h1><p class="lead">Liegen geblieben in Kassel? Rufen Sie an oder schicken Sie Ihren Standort per WhatsApp, wir kümmern uns um den Rest. Das gilt auf der Straße genauso wie auf der A7, A44 oder A49.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Nordhessens Großstadt</h2>
-<p>Kassel, bis 1926 amtlich Cassel, ist eine kreisfreie Stadt, Verwaltungssitz des gleichnamigen Regierungsbezirks und des Landkreises Kassel. Nach Frankfurt am Main und Wiesbaden ist sie die drittgrößte Stadt Hessens und eines von zehn Oberzentren des Landes. Das Stadtgebiet ist in 23 Ortsbezirke eingeteilt, jeder mit einem Ortsbeirat. Innerhalb der Ortsbezirke gibt es Siedlungen mit eigenen Namen, etwa Mulang, Marbachshöhe und Wahlershausen im Ortsbezirk Bad Wilhelmshöhe. Für Ihre Standortangabe reichen Ortsbezirk und Straße, wenn Sie im Zweifel auch den Siedlungsnamen nennen.</p>
-<h2>Die A7 zwischen Kaufunger Wald und Fuldatal</h2>
-<p>Von Norden kommend führt die A7 bei Hann. Münden auf einer 60 Meter hohen Brücke über das Werratal, dann in einem kurvigen Aufstieg auf den Hauptkamm des Kaufunger Walds mit bis zu 8 Prozent Längsneigung, einem der steilsten Autobahnabschnitte Europas. Auf der anderen Seite führt sie vom Großen Staufenberg in einer geraden Gefällestrecke hinab nach Kassel, hoch über dem Fuldatal mit einem Panorama auf die Stadt. Am Sandershäuser Berg erreicht sie das Stadtgebiet und umfährt die Stadt weiträumig im Osten. Wer auf diesem Gefälle liegen bleibt, sollte das unbedingt am Telefon sagen. Mehr zur Strecke lesen Sie auf der Seite <a href="autobahn-a7.html">Panne auf der A7</a>, zu Bremsproblemen im Gefälle im <a href="ratgeber-bremsen-versagen.html">Ratgeber Bremsen versagen</a>.</p>
-<h2>Kreuze A49 und A44, Rastkomplex Lohfeldener Rüssel</h2>
-<p>Östlich von Kassel folgen kurz hintereinander zwei Autobahnkreuze, an denen die A49 und die A44 angebunden werden. Zwischen beiden liegt ein großer Rastkomplex mit einer Autobahnraststätte und einem Autohof, der Lohfeldener Rüssel. Kassel liegt damit an den Bundesautobahnen A7, A44 und A49. Bei einer Panne am Kreuz oder am Rastkomplex helfen Ihnen Autobahnnummer, Fahrtrichtung und die Angabe, ob Sie vor oder hinter dem Kreuz stehen.</p>
+<h2>Was wir in Kassel tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Die A7 über den Kaufunger Wald</h2>
+<p>Von Norden kommend führt die A7 bei Hann. Münden über eine hohe Brücke im Werratal, dann in einem kurvigen Aufstieg auf den Kaufunger Wald mit bis zu 8 Prozent Längsneigung, einem der steilsten Autobahnabschnitte Deutschlands. Auf der Kasseler Seite geht es vom Großen Staufenberg in einem langen, geraden Gefälle hinab ins Fuldatal. Wer in diesem Gefälle liegen bleibt, etwa mit heißen Bremsen oder einem Getriebeschaden, sollte das am Telefon so sagen: Wir richten die Bergung darauf ein. Mehr zur Strecke auf <a href="autobahn-a7.html">Panne auf der A7</a>, zu überhitzten Bremsen im <a href="ratgeber-bremsen-versagen.html">Ratgeber Bremsen versagen</a>.</p>
+<h2>Doppelkreuz A44/A49 und Lohfeldener Rüssel</h2>
+<p>Östlich von Kassel folgen die Autobahnkreuze zur A49 und zur A44 kurz hintereinander, dazwischen liegt der Rastkomplex Lohfeldener Rüssel mit Autobahnraststätte und Autohof. Auf diesem kurzen Abschnitt wechseln Fahrspuren häufig, der Verkehr ist entsprechend dicht. Bei einer Panne an einem der beiden Kreuze oder am Rastkomplex nennen Sie uns die Autobahn, die Fahrtrichtung und ob Sie vor oder hinter dem Kreuz beziehungsweise auf dem Rastplatz stehen.</p>
 <h2>Bundesstraßen und die Fulda</h2>
-<p>Durch die Stadt führen die Bundesstraßen B3, B7, B83 und B251. Die Fulda durchquert das Stadtgebiet, im Bereich ihrer Überschwemmungsgebiete liegen Vogelschutzgebiete, etwa die Fuldaaue in Waldau und das Lossedelta am Hafen. Das Naturschutzgebiet Dönche wurde in den Nachkriegsjahren als Manövergebiet der Bundeswehr genutzt. An Flussufern und in Schutzgebieten gibt es Parkplätze ohne Hausnummern, nennen Sie uns dann Parkplatz und nächste größere Straße.</p>
+<p>Durch die Stadt führen die Bundesstraßen B3, B7, B83 und B251, die Fulda durchquert das Stadtgebiet mit mehreren Brücken. An den Flussufern gibt es Parkplätze ohne Hausnummer, etwa bei Waldau, nennen Sie uns dort den Parkplatz oder die nächste größere Straße und die nächste Brücke.</p>
+<h2>Sicher warten in Kassel</h2>
+<p>Auf der A7, besonders im Gefälle am Kaufunger Wald oder zwischen den Kreuzen A44 und A49: Warnblinker an, alle Insassen steigen aus und gehen hinter die Leitplanke, Warndreieck weit genug vor dem Fahrzeug aufstellen, wenn es gefahrlos möglich ist. Auf den Bundesstraßen und am Flussufer reicht es meist, das Fahrzeug so weit wie möglich an den Rand zu stellen und die Warnblinkanlage einzuschalten, bevor Sie uns anrufen.</p>
+<h2>Wo es in Kassel oft passiert</h2>
+<p>Das steile Gefälle der A7 am Kaufunger Wald überfordert bei falscher Fahrweise Bremsen und Getriebe, fahren Sie es im niedrigen Gang statt zu bremsen. Am Doppelkreuz A44/A49 kommt es durch die kurzen Abstände zwischen den Ausfahrten häufiger zu Auffahrunfällen, besonders bei Stau Richtung Lohfeldener Rüssel. An den Fuldabrücken kann Seitenwind Motorräder und hohe Fahrzeuge treffen.</p>
 <h2>So nennen Sie Ihren Standort in Kassel</h2>
 <ul class="ticks">
 <li>Ortsbezirk und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -19,10 +23,11 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Kassel</h2>
-<details><summary>Wie viele Ortsbezirke hat Kassel?</summary><div>23 Ortsbezirke, jeder mit einem Ortsbeirat.</div></details>
-<details><summary>Welche Autobahnen führen nach Kassel?</summary><div>Die A7, die A44 und die A49.</div></details>
-<details><summary>Wie steil ist die A7 bei Kassel?</summary><div>Im Kaufunger Wald nördlich von Kassel gibt es bis zu 8 Prozent Längsneigung, einen der steilsten Autobahnabschnitte Europas.</div></details>
-<details><summary>Was ist der Lohfeldener Rüssel?</summary><div>Ein großer Rastkomplex zwischen den Kreuzen A49 und A44 östlich von Kassel, mit Autobahnraststätte und Autohof.</div></details>
+<details><summary>Ich stehe auf der A7 im Gefälle am Kaufunger Wald. Was jetzt?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es sicher möglich ist, dann anrufen und uns die Fahrtrichtung und die letzte Anschlussstelle nennen. Wir richten die Bergung auf das Gefälle ein.</div></details>
+<details><summary>Können Sie mein Auto von Kassel zu meiner Werkstatt in einer anderen Stadt bringen?</summary><div>Ja, wir bringen Ihr Fahrzeug zur eigenen Werkstatt, zur Vertragswerkstatt oder nach Hause, auch außerhalb Kassels. Sagen Sie uns das Ziel, dann sprechen wir die Fahrt mit dem Partner ab.</div></details>
+<details><summary>Was kostet Abschleppen in Kassel?</summary><div>Das hängt von Fahrzeug, Uhrzeit, Strecke und Aufwand ab. Wir nennen Ihnen den Preis am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Helfen Sie auch nachts und am Wochenende?</summary><div>Ja, Sie erreichen uns rund um die Uhr per Telefon und WhatsApp.</div></details>
+<details><summary>Mein E-Auto ist auf der A7 liegen geblieben, geht das auch?</summary><div>Ja, E-Autos werden auf einem Plattformwagen transportiert, das gilt besonders im Gefälle am Kaufunger Wald. Sagen Sie uns, dass es sich um ein E-Auto handelt.</div></details>
 </div></section>
 @@CTA@@
 

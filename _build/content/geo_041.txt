@@ -141,18 +141,22 @@
 </div></section>
 @@CTA@@
 
-=== stadt-straubing | Abschleppdienst Straubing: Pannenhilfe A3, A92, B8, B20 | Pannenhilfe und Abschleppen in Straubing: kreisfreie Stadt in Niederbayern, B8, B20-Zubringer zur A3 und A92, Gewerbegebiete Alburg und Straubing-Ost. | page ===
+=== stadt-straubing | Abschleppdienst Straubing: Panne auf B8, B20, A3, A92 | Pannenhilfe und Abschleppen in Straubing: B8 durch die Stadt, Zubringer B20 zu A3 und A92, Gewerbegebiete Alburg und Straubing-Ost. 24/7 erreichbar. | page ===
 <!--AREAS: Straubing, Straubing-Alburg, Straubing-Ittling, Straubing-Kagers, Straubing-Ost, Bogen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Straubing</p><h1>Abschleppdienst Straubing</h1><p class="lead">Straubing liegt in Niederbayern an der B8 mit Zubringer B20 zu A3 und A92. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Straubing</p><h1>Abschleppdienst Straubing</h1><p class="lead">Liegen geblieben in Straubing? Rufen Sie an oder schicken Sie Ihren Standort per WhatsApp. Wir organisieren die Hilfe, egal ob auf der B8, dem Zubringer B20 oder im Parkhaus.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Hauptstadt eines Teilherzogtums im Mittelalter</h2>
-<p>Straubing ist eine kreisfreie Stadt im Regierungsbezirk Niederbayern in Ostbayern mit 49.775 Einwohnern (31. Dezember 2023). Im späten Mittelalter war sie neben München, Landshut und Ingolstadt eine der Hauptstädte der bayerischen Teilherzogtümer. Straubing ist nicht in Stadtbezirke unterteilt. Bei der Gebietsreform zwischen 1972 und 1976 wurden Nachbargemeinden wie Alburg, Ittling, Kagers und Hornstorf eingemeindet. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-regensburg.html">Abschleppdienst Regensburg</a> und <a href="stadt-landshut.html">Abschleppdienst Landshut</a>.</p>
-<h2>B8, B20, A3 und A92</h2>
-<p>Straubing ist über die B8 und über den Zubringer B20 auch von den Autobahnen A3 und A92 erreichbar. Bei einer Panne auf der Zufahrt nennen Sie uns Straße, Fahrtrichtung und die nächste Ausfahrt, mehr auf <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="autobahn-a92.html">Panne auf der A92</a>. Zur Nachbarstadt: <a href="stadt-passau.html">Abschleppdienst Passau</a>.</p>
-<h2>Gewerbegebiete an den Bundesstraßen</h2>
-<p>Der Gewerbepark Alburg hat 141.000 Quadratmeter Gesamtfläche und direkte Anbindung an die B8, das Gewerbegebiet Straubing-Ost 206 Hektar Gesamtfläche und liegt in unmittelbarer Nähe zur B20. Wenn Ihr Transporter dort liegen bleibt, nennen Sie uns Straße oder Firmenname des Geländes, siehe <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>.</p>
+<h2>Was wir in Straubing tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>B8 durch die Stadt, Zubringer B20 zur Autobahn</h2>
+<p>Die B8 führt mitten durch Straubing, eine eigene Autobahn hat die Stadt nicht. Wer zur A3 oder A92 will, fährt über den Zubringer B20. Bei einer Panne auf der Zufahrt nennen Sie uns die Straße, die Fahrtrichtung und die nächste Kreuzung oder Ausfahrt, mehr zur Autobahn selbst auf <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="autobahn-a92.html">Panne auf der A92</a>.</p>
+<h2>Gewerbegebiete Alburg und Straubing-Ost</h2>
+<p>Der Gewerbepark Alburg liegt direkt an der B8, das Gewerbegebiet Straubing-Ost in unmittelbarer Nähe zur B20. Wenn Ihr Transporter oder Lkw dort liegen bleibt, nennen Sie uns Straße oder Firmenname des Geländes, siehe <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>.</p>
 <h2>Parkleitsystem in der Innenstadt</h2>
-<p>In der Stadt umfasst das Parkleitsystem sieben Parkhäuser, Tiefgaragen und Parkebenen in der Innenstadt mit rund 1.100 Parkplätzen. Wenn Ihr Fahrzeug in einem dieser Parkhäuser nicht anspringt, nennen Sie uns Parkhaus und Ebene, siehe <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Panne im Parkhaus</a>.</p>
+<p>Mehrere Parkhäuser und Tiefgaragen der Innenstadt sind über ein Parkleitsystem ausgeschildert. Wenn Ihr Fahrzeug dort nicht mehr anspringt, nennen Sie uns Parkhaus und Ebene, siehe <a href="ratgeber-tiefgarage-parkhaus-liegengeblieben.html">Panne im Parkhaus</a>.</p>
+<h2>Sicher warten in Straubing</h2>
+<p>Auf der B8 oder dem Zubringer B20: Warnblinker an, wenn möglich auf einen Seitenstreifen oder Parkplatz ausweichen, Warndreieck aufstellen und abseits der Fahrbahn warten. Im Parkhaus reicht es meist, die Warnblinkanlage einzuschalten und, wenn eine Rampe oder Zufahrt blockiert ist, andere Fahrer kurz zu warnen, bevor Sie uns anrufen.</p>
+<h2>Wo es in Straubing oft passiert</h2>
+<p>Auf dem Zubringer B20 zur A3/A92 kommt es an den Einmündungen zur Autobahn öfter zu stockendem Verkehr, wer dort mit Motorschaden oder platten Reifen liegen bleibt, sollte zuerst auf einen Seitenstreifen kommen, wenn das noch möglich ist. In den Gewerbegebieten Alburg und Straubing-Ost sind die Zufahrten oft eng und stark von Lkw befahren, in den Parkhäusern der Innenstadt sind es niedrige Einfahrten und enge Rampen.</p>
 <h2>So nennen Sie Ihren Standort in Straubing</h2>
 <ul class="ticks">
 <li>Ortsteil, Straße und Hausnummer oder nächste Kreuzung.</li>
@@ -160,12 +164,12 @@
 <li>Auf A3 oder A92: Richtung, Anschlussstelle.</li>
 <li>Im Parkhaus: Name und Ebene.</li>
 </ul>
-<p>Weitere Städte: <a href="stadt-ingolstadt.html">Ingolstadt</a> und <a href="stadt-rosenheim.html">Rosenheim</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Straubing</h2>
-<details><summary>Welche Autobahnen sind erreichbar?</summary><div>Die A3 und die A92, über die B8 und den Zubringer B20.</div></details>
-<details><summary>Wie viele Einwohner hat Straubing?</summary><div>49.775 am 31. Dezember 2023.</div></details>
-<details><summary>Hat Straubing Stadtbezirke?</summary><div>Nein, die Stadt ist nicht in Stadtbezirke unterteilt.</div></details>
-<details><summary>Wie viele Parkplätze hat das Parkleitsystem?</summary><div>Rund 1.100 in sieben Parkhäusern, Tiefgaragen und Parkebenen.</div></details>
+<details><summary>Ich stehe auf dem Zubringer B20 kurz vor der A3. Was jetzt?</summary><div>Wenn möglich auf einen Seitenstreifen oder Parkplatz fahren, Warnblinker an, dann anrufen und uns Fahrtrichtung und die nächste Ausfahrt oder Kreuzung nennen.</div></details>
+<details><summary>Können Sie mein Auto von Straubing zu meiner Werkstatt in Regensburg oder Landshut bringen?</summary><div>Ja, wir bringen Ihr Fahrzeug zur eigenen Werkstatt, zur Vertragswerkstatt oder nach Hause, auch in eine Nachbarstadt. Sagen Sie uns das Ziel, dann sprechen wir die Fahrt mit dem Partner ab.</div></details>
+<details><summary>Was kostet Abschleppen in Straubing?</summary><div>Das hängt von Fahrzeug, Uhrzeit, Strecke und Aufwand ab. Wir nennen Ihnen den Preis am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Helfen Sie auch nachts und am Wochenende?</summary><div>Ja, Sie erreichen uns rund um die Uhr per Telefon und WhatsApp.</div></details>
+<details><summary>Mein E-Auto ist liegen geblieben, geht das auch?</summary><div>Ja, E-Autos werden auf einem Plattformwagen transportiert. Sagen Sie uns, dass es sich um ein E-Auto handelt, dann organisieren wir den passenden Transport.</div></details>
 </div></section>
 @@CTA@@

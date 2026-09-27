@@ -75,6 +75,12 @@
 
 === Thüringen ===
 <h2>Autobahnen in Thüringen</h2>
-<p>Am Erfurter Kreuz treffen die A4 (Frankfurt–Dresden) und die A71 (Schweinfurt–Sangerhausen) aufeinander. Die <a href="autobahn-a9.html">A9</a> führt vom Hermsdorfer Kreuz durch das Thüringer Schiefergebirge zur Saale, an der bis 1990 die Grenze zwischen DDR und Bundesrepublik lag. Die A73 beginnt am Dreieck Suhl mit der 82 Meter hohen Haseltalbrücke.</p>
-<p>Typische Stellen: die bergigen Abschnitte der A9 und A71, Wildwechsel im Wald und im Winter Schnee und Glätte im Thüringer Wald.</p>
+<p>Am Erfurter Kreuz treffen die A4 (Frankfurt–Dresden) und die A71 (Schweinfurt–Sangerhausen) aufeinander. Die <a href="autobahn-a9.html">A9</a> führt vom Hermsdorfer Kreuz durch das Thüringer Schiefergebirge zur Saale. Die A73 beginnt am Dreieck Suhl mit der 82 Meter hohen Haseltalbrücke. Die A71 quert den Thüringer Wald durch den rund 7,9 Kilometer langen Rennsteigtunnel bei Oberhof, einen der längsten Straßentunnel Deutschlands.</p>
+<p>Typische Stellen: die bergigen Abschnitte der A9 und A71 rund um den Thüringer Wald, Wildwechsel in den Waldstrecken und der Rennsteigtunnel, in dem bei einer Panne die Nothaltebuchten und die Notrufsäulen alle 150 Meter wichtig sind. Im Winter kommt es im Thüringer Wald auf A71 und A73 durch die Höhenlage häufiger zu Schnee und Glätte als im Flachland, rechnen Sie dort mit längeren Räum- und Streuzeiten.</p>
+<h2>Sicher warten in Thüringen</h2>
+<p>Auf der Autobahn: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Im Rennsteigtunnel auf der A71 gilt zusätzlich: nicht wenden oder zurücksetzen, zur nächsten Nothaltebucht fahren, wenn das Fahrzeug das noch zulässt, sonst Warnblinker an und über die Notrufsäule oder Notruf 112 melden.</p>
+@@FAQ@@
+<details><summary>Ich stehe im Rennsteigtunnel auf der A71. Was jetzt?</summary><div>Wenn möglich bis zur nächsten Nothaltebucht fahren, sonst Warnblinker an und über die Notrufsäule oder Notruf 112 melden, dann uns anrufen und die Nothaltebucht oder Tunnelkilometer nennen.</div></details>
+<details><summary>Wie ist die Lage im Winter auf A9, A71 und A73 im Thüringer Wald?</summary><div>In den höheren Lagen kommt es früher und häufiger zu Schnee und Glätte als im Flachland. Nennen Sie uns bei einer Panne dort unbedingt die Wetterlage und ob Sie Winterreifen oder Ketten montiert haben.</div></details>
+<details><summary>Können Sie von Thüringen auch in ein Nachbarbundesland abschleppen?</summary><div>Ja, wir bringen Ihr Fahrzeug zur eigenen Werkstatt, zur Vertragswerkstatt oder nach Hause, auch über die Landesgrenze hinweg. Nennen Sie uns das Ziel, dann sprechen wir die Fahrt mit dem Partner ab.</div></details>
 
