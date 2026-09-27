@@ -129,13 +129,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Siegen</p><h1>Abschleppdienst Siegen</h1><p class="lead">Siegen liegt im Siegerland zwischen Bergen und Tälern, an der A45 mit der Siegtalbrücke. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Universitätsstadt in Westfalen</h2>
-<p>Siegen ist eine Großstadt und Universitätsstadt in Nordrhein-Westfalen im Landesteil Westfalen, gehört zum Regierungsbezirk Arnsberg und ist Verwaltungssitz des Kreises Siegen-Wittgenstein. Das Stadtgebiet ist in sechs Bezirke eingeteilt, die aus mehreren Orts- beziehungsweise Stadtteilen bestehen. Jeder Bezirk hat einen Bezirksausschuss. Auf Höhe von Siegen, dem Oberzentrum Südwestfalens und der größten Stadt entlang der A45 zwischen Ruhrgebiet und Aschaffenburg, steht mit der 106 Meter hohen Siegtalbrücke die höchste Brücke der gesamten Autobahnstrecke. Nennen Sie uns bei einer Panne Ortsteil und Straße, denn "Siegen" ist bei sechs Bezirken zu allgemein.</p>
+<p>Siegen ist eine Großstadt und Universitätsstadt in Nordrhein-Westfalen im Landesteil Westfalen. Das Stadtgebiet ist in sechs Bezirke eingeteilt, die aus mehreren Orts- beziehungsweise Stadtteilen bestehen. Auf Höhe von Siegen steht mit der 106 Meter hohen Siegtalbrücke eine der höchsten Brücken entlang der A45. Nennen Sie uns bei einer Panne Ortsteil und Straße, denn "Siegen" ist bei sechs Bezirken zu allgemein.</p>
 <h2>A45 mit der Siegtalbrücke</h2>
-<p>Südlich von Olpe wird das Sauerland verlassen und das Siegerland erreicht, auf Höhe von Siegen liegt die 106 Meter hohe Siegtalbrücke. Anschließend beginnt eine weitere Steigungs- beziehungsweise Gefällestrecke, auf 16 Kilometern mit 180 Metern Höhenunterschied und dem höchsten Punkt bei 504,55 Metern an der Wasserscheide zwischen Lahn und Sieg am Berg Kalteiche, kurz hinter der hessischen Landesgrenze. Wenn Sie hier liegen bleiben, sind Steigung, Brücken und Wetter wichtig, siehe <a href="autobahn-a45.html">Panne auf der A45</a> und <a href="ratgeber-winterpanne-schwarzwald.html">Winterpanne im Mittelgebirge</a>.</p>
+<p>Südlich von Olpe wird das Sauerland verlassen und das Siegerland erreicht, auf Höhe von Siegen liegt die 106 Meter hohe Siegtalbrücke. Anschließend beginnt eine weitere Steigungs- beziehungsweise Gefällestrecke bis zur Wasserscheide zwischen Lahn und Sieg am Berg Kalteiche, kurz hinter der hessischen Landesgrenze. Wenn Sie hier liegen bleiben, sind Steigung, Brücken und Wetter wichtig, siehe <a href="autobahn-a45.html">Panne auf der A45</a> und <a href="ratgeber-winterpanne-schwarzwald.html">Winterpanne im Mittelgebirge</a>.</p>
 <h2>A4 und Hüttentalstraße</h2>
-<p>Der westliche Teil der A4 endet auf rund 480 Metern über NN oberhalb von Kreuztal an der B54, die als autobahnähnliche Straße (Hüttentalstraße) weiter nach Kreuztal und schließlich ins Siegener Stadtgebiet führt. Die Verbindung von der A4 bei Wenden zur Hüttentalstraße wurde 2006 fertiggestellt. Wenn Sie auf der Hüttentalstraße liegen bleiben, sagen Sie uns Richtung und Ausfahrt. Zur A4 lesen Sie <a href="autobahn-a4.html">Panne auf der A4</a>.</p>
-<h2>Löhrtor-Brücke und die erste Kunststraße</h2>
-<p>Für den 6. September 1777 ist in Siegen die Entstehung der Löhrtor-Brücke an der ersten westdeutschen Kunststraße Hagen–Olpe–Krombach–Siegen verzeichnet. Diese Strecke ist eine historische Verkehrsachse, die heute als Bundes- und Landesstraße weiterläuft. Im Talkessel der Innenstadt sind Straßen eng und steil. Wenn Sie an einem Hang liegen bleiben, sagen Sie uns bergauf oder bergab und wie breit die Straße ist.</p>
+<p>Der westliche Teil der A4 endet oberhalb von Kreuztal an der B54, die als autobahnähnliche Straße (Hüttentalstraße) weiter nach Kreuztal und schließlich ins Siegener Stadtgebiet führt. Wenn Sie auf der Hüttentalstraße liegen bleiben, sagen Sie uns Richtung und Ausfahrt. Zur A4 lesen Sie <a href="autobahn-a4.html">Panne auf der A4</a>.</p>
+<h2>Enge, steile Innenstadt</h2>
+<p>Im Talkessel der Innenstadt, an historischen Verkehrsachsen wie der Strecke Hagen–Olpe–Krombach–Siegen gelegen, sind die Straßen eng und steil. Wenn Sie an einem Hang liegen bleiben, sagen Sie uns bergauf oder bergab und wie breit die Straße ist.</p>
+<h2>Was wir in Siegen tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Siegen</h2>
+<p>Auf der A45, besonders auf der Siegtalbrücke: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Auf der Hüttentalstraße: Warnblinker an und Richtung und Ausfahrt nennen. Im engen, steilen Talkessel der Innenstadt: Fahrzeug mit Feststellbremse und Gang sichern und angeben, ob Sie bergauf oder bergab stehen.</p>
+<h2>Wo es in Siegen oft passiert</h2>
+<p>Auf der Siegtalbrücke und der anschließenden Steigungsstrecke zur Wasserscheide ist eine Panne bei Nässe oder Glätte heikler als in der Ebene. Auf der Hüttentalstraße als autobahnähnlicher Zufahrt ist zu Stoßzeiten mehr Verkehr als erwartet. Im engen Talkessel der Innenstadt ist wenig Platz zum Ausweichen.</p>
 <h2>So nennen Sie Ihren Standort in Siegen</h2>
 <ul class="ticks">
 <li>Bezirk, Ortsteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -146,9 +152,9 @@
 <p>Weitere Städte: <a href="stadt-hagen.html">Hagen</a> und <a href="stadt-koblenz.html">Koblenz</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Siegen</h2>
-<details><summary>Wie viele Bezirke hat Siegen?</summary><div>Sechs Bezirke, die aus mehreren Orts- beziehungsweise Stadtteilen bestehen.</div></details>
-<details><summary>Wie hoch ist die Siegtalbrücke?</summary><div>106 Meter, die höchste Brücke entlang der A45.</div></details>
-<details><summary>Was ist die Hüttentalstraße?</summary><div>Die B54 als autobahnähnliche Verbindung von der A4 bei Kreuztal ins Siegener Stadtgebiet.</div></details>
+<details><summary>Ich stehe auf der Siegtalbrücke. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Ihre Fahrtrichtung.</div></details>
 <details><summary>Ich stehe an einer steilen Straße. Was tun?</summary><div>Fahrzeug sichern, Warnblinker an und uns sagen, ob Sie bergauf oder bergab stehen.</div></details>
+<details><summary>Können Sie mein Auto von Siegen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Siegen liegt oder etwa in Hagen oder Koblenz.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Siegen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@

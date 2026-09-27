@@ -89,12 +89,18 @@
 <!--AREAS: Ratingen, Ratingen-Ost, Ratingen-West, Ratingen-Lintorf, Ratingen-Homberg, Breitscheid -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratingen</p><h1>Abschleppdienst Ratingen</h1><p class="lead">Ratingen liegt nordöstlich von Düsseldorf an vier Autobahnen mit zehn Anschlussstellen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Größte Stadt des Kreises Mettmann</h2>
-<p>Ratingen ist eine große kreisangehörige Stadt im nordrhein-westfälischen Kreis Mettmann, in der Metropolregion Rhein-Ruhr im Übergangsbereich zwischen Niederrheinischem Tiefland und Niederbergischem Land. Mit mehr als 88.000 Einwohnern ist sie die größte Stadt des Kreises. Ratingen gliedert sich in sechs Gemeindebezirke, die sich jeweils in ein oder zwei Stadtteile unterteilen. 1929 behauptete Ratingen seine Selbstständigkeit, die Gemeinde Eckamp mit den heutigen Stadtteilen Tiefenbroich und Ratingen-West wurde 1930 eingegliedert. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-duesseldorf.html">Abschleppdienst Düsseldorf</a>.</p>
+<h2>Große Stadt im Kreis Mettmann</h2>
+<p>Ratingen ist eine große kreisangehörige Stadt im nordrhein-westfälischen Kreis Mettmann, in der Metropolregion Rhein-Ruhr im Übergangsbereich zwischen Niederrheinischem Tiefland und Niederbergischem Land. Ratingen gliedert sich in sechs Gemeindebezirke, die sich jeweils in ein oder zwei Stadtteile unterteilen. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-duesseldorf.html">Abschleppdienst Düsseldorf</a>.</p>
 <h2>Vier Autobahnen, zehn Anschlussstellen</h2>
-<p>Insgesamt vier Autobahnen mit zehn Anschlussstellen und Knotenpunkten liegen auf Ratinger Stadtgebiet. Ratingen Mitte liegt im Dreieck der A3 (Köln–Oberhausen), der A52 (Düsseldorf–Essen) und der A44 (Mönchengladbach–Ratingen Ost, Weiterbau ab 2025). Die A524 ist über das Dreieck Breitscheid angebunden. Mit so vielen Anschlussstellen ist die Autobahnnummer für Ihre Standortangabe wichtiger als der Ortsname. Mehr auf <a href="autobahn-a3.html">Panne auf der A3</a>, <a href="autobahn-a44.html">Panne auf der A44</a>, <a href="autobahn-a52.html">Panne auf der A52</a> und <a href="stadt-duisburg.html">Abschleppdienst Duisburg</a>.</p>
+<p>Insgesamt vier Autobahnen mit zehn Anschlussstellen und Knotenpunkten liegen auf Ratinger Stadtgebiet. Ratingen Mitte liegt im Dreieck der A3 (Köln–Oberhausen), der A52 (Düsseldorf–Essen) und der A44 (Mönchengladbach–Ratingen Ost, im weiteren Ausbau). Die A524 ist über das Dreieck Breitscheid angebunden. Mit so vielen Anschlussstellen ist die Autobahnnummer für Ihre Standortangabe wichtiger als der Ortsname. Mehr auf <a href="autobahn-a3.html">Panne auf der A3</a>, <a href="autobahn-a44.html">Panne auf der A44</a>, <a href="autobahn-a52.html">Panne auf der A52</a> und <a href="stadt-duisburg.html">Abschleppdienst Duisburg</a>.</p>
 <h2>B1 und B227</h2>
 <p>Die B1 und die B227 verlaufen ebenfalls durch das Stadtgebiet. Das benachbarte Düsseldorf ist über mehrere Autobahnen und Ortsstraßen erreichbar. Wenn Sie an einer Bundesstraße liegen bleiben, nennen Sie uns Straße und Fahrtrichtung.</p>
+<h2>Was wir in Ratingen tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Ratingen</h2>
+<p>Auf A3, A44, A52 oder A524: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. An Ratingen Mitte oder am Dreieck Breitscheid: sagen Sie uns genau, auf welcher Autobahn Sie stehen, dort laufen mehrere Strecken zusammen. Auf B1 oder B227: Warnblinker an und Fahrtrichtung nennen.</p>
+<h2>Wo es in Ratingen oft passiert</h2>
+<p>An Ratingen Mitte, wo A3, A44 und A52 zusammenlaufen, ist der Verkehr durch den Fahrstreifenwechsel dichter. Am Dreieck Breitscheid mit der A524 ist es für Ortsfremde nicht immer eindeutig, welcher Autobahn sie folgen. Mit zehn Anschlussstellen auf so kleinem Raum ist die Orientierung insgesamt schwieriger als in vergleichbaren Städten.</p>
 <h2>So nennen Sie Ihren Standort in Ratingen</h2>
 <ul class="ticks">
 <li>Stadtteil, Straße und Hausnummer oder nächste Kreuzung.</li>
@@ -105,10 +111,10 @@
 <p>Weitere Städte: <a href="stadt-muelheim.html">Mülheim</a> und <a href="stadt-essen.html">Essen</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Ratingen</h2>
-<details><summary>Welche Autobahnen liegen in Ratingen?</summary><div>A3, A44, A52 und A524, mit zehn Anschlussstellen und Knotenpunkten.</div></details>
-<details><summary>Wie viele Gemeindebezirke hat Ratingen?</summary><div>Sechs, die sich jeweils in ein oder zwei Stadtteile unterteilen.</div></details>
+<details><summary>Ich stehe an Ratingen Mitte und weiß nicht, auf welcher Autobahn. Was sage ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Ihre Fahrtrichtung und die letzte Anschlussstelle, dann klären wir die genaue Autobahn.</div></details>
+<details><summary>Können Sie mein Auto von Ratingen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Ratingen liegt oder etwa in Düsseldorf oder Essen.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Ratingen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Wo ist das Dreieck Breitscheid?</summary><div>Dort wird die A524 angebunden.</div></details>
-<details><summary>Wie viele Einwohner hat Ratingen?</summary><div>Mehr als 88.000.</div></details>
 </div></section>
 @@CTA@@
 

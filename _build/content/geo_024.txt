@@ -72,14 +72,20 @@
 <!--AREAS: Hildesheim, Hildesheim-Mitte, Hildesheim-Himmelsthür, Hildesheim-Ochtersum, Hildesheim-Drispenstedt -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hildesheim</p><h1>Abschleppdienst Hildesheim</h1><p class="lead">Hildesheim liegt rund 30 Kilometer südöstlich von Hannover, mit der A7 östlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Oberzentrum südöstlich von Hannover</h2>
-<p>Hildesheim ist eine Stadt und ein Oberzentrum in Niedersachsen, rund 30 Kilometer südöstlich der Landeshauptstadt Hannover und Sitz des katholischen Bistums. Die Stadt ist eine Einheitsgemeinde und besteht aus 14 Ortschaften beziehungsweise Stadtteilen nach dem Niedersächsischen Kommunalverfassungsgesetz. Nennen Sie uns bei einer Panne Ortschaft oder Stadtteil und die Straße, denn "Hildesheim" allein ist zu ungenau.</p>
+<h2>Stadt südöstlich von Hannover</h2>
+<p>Hildesheim liegt in Niedersachsen, rund 30 Kilometer südöstlich der Landeshauptstadt Hannover. Die Stadt ist eine Einheitsgemeinde und besteht aus 14 Ortschaften beziehungsweise Stadtteilen. Nennen Sie uns bei einer Panne Ortschaft oder Stadtteil und die Straße, denn "Hildesheim" allein ist zu ungenau.</p>
 <h2>A7 östlich der Stadt</h2>
 <p>An Hildesheim vorbei führt die A7. Nach der Bördelandschaft nördlich der Mittelgebirgsschwelle wird östlich der Stadt mit dem Vorholz der erste Höhenzug der Mittelgebirge erreicht, auf den die Autobahn nun wieder vierstreifig hinaufführt und den sie der Länge nach durchquert. Nach dem Abstieg ins Innerstetal mündet am Autobahndreieck Salzgitter die A39 in die A7. Für Ihre Standortangabe: Nennen Sie uns Fahrtrichtung und Anschlussstelle und sagen Sie, ob Sie im Vorholz auf der Steigung stehen. Mehr zur A7 auf der Seite <a href="autobahn-a7.html">Panne auf der A7</a>, zum Nachbarn <a href="stadt-hannover.html">Abschleppdienst Hannover</a>.</p>
-<h2>Verkehrsmittelwahl</h2>
-<p>Die Mobilitätsuntersuchung des Landkreises Hildesheim (2017/2018) ergab folgende Verkehrsmittelwahl der Hildesheimer Bevölkerung: Pkw und Kraftrad 61 Prozent, Radverkehr 15 Prozent, Fußverkehr 14 Prozent und ÖPNV 10 Prozent. Das Auto ist damit das Hauptverkehrsmittel, die Straßen sind entsprechend belastet. Wenn Sie in der Innenstadt liegen bleiben, sagen Sie uns Straße und Hausnummer.</p>
+<h2>Verkehr in der Innenstadt</h2>
+<p>In Hildesheim ist das Auto das mit Abstand meistgenutzte Verkehrsmittel, die Straßen in der Innenstadt sind entsprechend belastet. Wenn Sie in der Innenstadt liegen bleiben, sagen Sie uns Straße und Hausnummer.</p>
 <h2>Vierzehn Ortschaften und Stadtteile, drei Hochschulen</h2>
-<p>Hildesheim ist eine Einheitsgemeinde und besteht aus 14 Ortschaften beziehungsweise Stadtteilen: Stadtmitte und Neustadt, Marienburger Höhe mit dem Galgenberg, Moritzberg mit den Siedlungen Waldquelle, Godehardikamp und Bockfeld, Nordstadt mit Steuerwald, Oststadt mitsamt dem Stadtfeld, Achtum-Uppen, Bavenstedt, Drispenstedt, Einum, Himmelsthür, Itzum-Marienburg, Neuhof/Hildesheimer Wald/Marienrode, Ochtersum und Sorsum. Die Stadt ist Standort von drei Hochschulen: der Universität Hildesheim, der HAWK und der Norddeutschen Hochschule für Rechtspflege. Zur Bavenstedter Gemarkung gehören Flächen östlich der A7. Nennen Sie uns bei einer Panne Stadtteil, Straße und Hausnummer, an den Hochschulen das Gebäude oder den Campus.</p>
+<p>Hildesheim besteht aus 14 Ortschaften beziehungsweise Stadtteilen: Stadtmitte und Neustadt, Marienburger Höhe mit dem Galgenberg, Moritzberg mit den Siedlungen Waldquelle, Godehardikamp und Bockfeld, Nordstadt mit Steuerwald, Oststadt mitsamt dem Stadtfeld, Achtum-Uppen, Bavenstedt, Drispenstedt, Einum, Himmelsthür, Itzum-Marienburg, Neuhof/Hildesheimer Wald/Marienrode, Ochtersum und Sorsum. Die Stadt ist Standort von drei Hochschulen: der Universität Hildesheim, der HAWK und der Norddeutschen Hochschule für Rechtspflege. Nennen Sie uns bei einer Panne Stadtteil, Straße und Hausnummer, an den Hochschulen das Gebäude oder den Campus.</p>
+<h2>Was wir in Hildesheim tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Hildesheim</h2>
+<p>Auf der A7, besonders im Vorholz auf der Steigung: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. In der Innenstadt: Warnblinker an und Fahrzeug möglichst platzsparend abstellen, das Auto ist hier das meistgenutzte Verkehrsmittel. An den Hochschulen: Warnblinker an und Gebäude oder Campus nennen, damit der Fahrer die Zufahrt findet.</p>
+<h2>Wo es in Hildesheim oft passiert</h2>
+<p>Im Vorholz, wo die A7 den ersten Höhenzug der Mittelgebirge durchquert, ist eine Panne auf der Steigung heikler als in der Ebene. Am Dreieck Salzgitter, wo die A39 in die A7 mündet, ist der Verkehr durch den Fahrstreifenwechsel dichter. In der Innenstadt ist wegen des hohen Autoanteils oft mehr Verkehr als in vergleichbaren Städten.</p>
 <h2>So nennen Sie Ihren Standort in Hildesheim</h2>
 <ul class="ticks">
 <li>Ortschaft oder Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -90,10 +96,10 @@
 <p>Weitere Städte: <a href="stadt-braunschweig.html">Braunschweig</a> und <a href="stadt-goettingen.html">Göttingen</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Hildesheim</h2>
-<details><summary>Wie viele Stadtteile hat Hildesheim?</summary><div>14 Ortschaften beziehungsweise Stadtteile.</div></details>
-<details><summary>Welche Autobahn führt an Hildesheim vorbei?</summary><div>Die A7 östlich der Stadt, mit dem Vorholz als erstem Höhenzug der Mittelgebirge.</div></details>
+<details><summary>Ich stehe im Vorholz auf der A7 auf der Steigung. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und Anschlussstelle.</div></details>
 <details><summary>Wie weit ist Hannover?</summary><div>Rund 30 Kilometer nordwestlich.</div></details>
-<details><summary>Wie verteilt sich der Verkehr in Hildesheim?</summary><div>Nach der Mobilitätsuntersuchung 2017/2018: Pkw und Kraftrad 61 Prozent, Rad 15, Fuß 14, ÖPNV 10 Prozent.</div></details>
+<details><summary>Können Sie mein Auto von Hildesheim zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Hildesheim liegt oder etwa in Hannover oder Braunschweig.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Hildesheim?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
@@ -101,18 +107,24 @@
 <!--AREAS: Cottbus, Cottbus-Sielow, Cottbus-Madlow, Cottbus-Sachsendorf, Cottbus-Ströbitz -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cottbus</p><h1>Abschleppdienst Cottbus</h1><p class="lead">Cottbus liegt in der Niederlausitz an der A15 Richtung Polen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Zweitgrößte Stadt Brandenburgs</h2>
-<p>Cottbus, niedersorbisch Chóśebuz, ist eine kreisfreie Stadt mit 95.140 Einwohnern (Stand 31. Dezember 2025) in der Niederlausitz und nach Potsdam die bevölkerungsreichste Stadt Brandenburgs. Das Stadtgebiet ist in 19 Ortsteile gegliedert. Nennen Sie uns bei einer Panne Ortsteil und Straße.</p>
+<h2>Stadt in der Niederlausitz</h2>
+<p>Cottbus, niedersorbisch Chóśebuz, ist eine kreisfreie Stadt in der Niederlausitz. Das Stadtgebiet ist in 19 Ortsteile gegliedert. Nennen Sie uns bei einer Panne Ortsteil und Straße.</p>
 <h2>A15: drei Anschlussstellen</h2>
-<p>Durch das südliche Stadtgebiet führt die A15, die vom Dreieck Spreewald (A13 Dresden–Berlin) kommt und als Teil der Europastraße 36 Richtung Polen und Ukraine führt. Die Autobahn ist vierspurig und hat drei Anschlussstellen in Cottbus: Cottbus-West, Cottbus-Süd und die 2026 neu gebaute Anschlussstelle Cottbus-Ost. Bei einer Panne auf der A15 nennen Sie uns Richtung und Anschlussstelle. Mehr zur A13 auf der Seite <a href="stadt-dresden.html">Abschleppdienst Dresden</a>, zu Berlin <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
+<p>Durch das südliche Stadtgebiet führt die A15, die vom Dreieck Spreewald (A13 Dresden–Berlin) kommt und als Teil der Europastraße 36 Richtung Polen und Ukraine führt. Die Autobahn ist vierspurig und hat drei Anschlussstellen in Cottbus: Cottbus-West, Cottbus-Süd und Cottbus-Ost. Bei einer Panne auf der A15 nennen Sie uns Richtung und Anschlussstelle. Mehr zur A13 auf der Seite <a href="stadt-dresden.html">Abschleppdienst Dresden</a>, zu Berlin <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
 <h2>Bundesstraßen und Stadtring</h2>
-<p>Cottbus wird von den Bundesstraßen B97, B168 und B169 durchzogen. Die B169 bildet zugleich den südlichen und östlichen Teil des Stadtrings. Bis Ende 2004 verlief auch die B115 durch Cottbus, die als heutige L49 quer durch das Stadtzentrum führt. Wenn Sie auf dem Stadtring liegen bleiben, sagen Sie uns Querstraße und Fahrtrichtung.</p>
+<p>Cottbus wird von den Bundesstraßen B97, B168 und B169 durchzogen. Die B169 bildet zugleich den südlichen und östlichen Teil des Stadtrings. Wenn Sie auf dem Stadtring liegen bleiben, sagen Sie uns Querstraße und Fahrtrichtung.</p>
 <h2>Lange Strecken in der Niederlausitz</h2>
 <p>Zwischen den Ortsteilen und Nachbargemeinden liegen oft weite Strecken durch Wald und Feld. Wenn Sie an einer Landstraße stehen, nennen Sie uns die Straße, den nächsten Ort und die Fahrtrichtung. Bei Wildwechsel im Wald gilt der Hinweis aus dem <a href="ratgeber-wildunfall.html">Ratgeber Wildunfall</a>.</p>
-<h2>Orientierung: Sport, Universität, Tagebau</h2>
-<p>Cottbus ist ein Dienstleistungs-, Sport-, Wissenschafts- und Verwaltungszentrum mit einem Olympiastützpunkt, dem Staatstheater und dem Campus der Brandenburgischen Technischen Universität Cottbus-Senftenberg. Der Sportverein Energie Cottbus hat mit über 6.300 Mitgliedern (April 2026) die meisten Mitglieder im Land Brandenburg und ist seit 2026 wieder in der 2. Bundesliga vertreten. Für den Freizeitsport stehen 50 Sporthallen, 49 Sportplätze und Stadien und vier Badeseen zur Verfügung. Der Braunkohletagebau Cottbus-Nord im östlichen Stadtgebiet wurde im Dezember 2015 eingestellt und wird seitdem rekultiviert, dort besteht der Cottbuser Ostsee. Für Ihre Standortangabe: Nennen Sie uns bei großen Veranstaltungen Straße und Stadion oder Halle, am Campus Straße und Gebäude, an den Badeseen den Parkplatz.</p>
+<h2>Orientierung: Sport, Universität, Cottbuser Ostsee</h2>
+<p>Cottbus ist ein Dienstleistungs-, Sport-, Wissenschafts- und Verwaltungszentrum mit einem Olympiastützpunkt, dem Staatstheater und dem Campus der Brandenburgischen Technischen Universität Cottbus-Senftenberg. Im östlichen Stadtgebiet liegt der Cottbuser Ostsee, ein gefluteter früherer Tagebau. Für Ihre Standortangabe: Nennen Sie uns bei großen Veranstaltungen Straße und Stadion oder Halle, am Campus Straße und Gebäude, an den Badeseen den Parkplatz.</p>
 <h2>Park und Gewerbe</h2>
-<p>Gemessen an der Größe gibt es in Cottbus viele Park- und Grünanlagen, wie den Branitzer Park. Photovoltaik-Freiflächenanlagen mit 91 Megawatt befinden sich unter anderem auf dem ehemaligen Flugplatz Cottbus-Nord und südlich von Dissenchen, auf dem Cottbuser Ostsee besteht eine schwimmende Photovoltaik-Anlage mit 29 Megawatt. Solche Flächen liegen abseits der Wohngebiete. Wenn Sie an einer Zufahrt zu solchen Anlagen oder am Ostsee liegen bleiben, nennen Sie uns die Straße und den nächsten Ortsteil.</p>
+<p>Gemessen an der Größe gibt es in Cottbus viele Park- und Grünanlagen, wie den Branitzer Park. Photovoltaik-Freiflächenanlagen befinden sich unter anderem auf dem ehemaligen Flugplatz Cottbus-Nord und südlich von Dissenchen, auf dem Cottbuser Ostsee besteht eine schwimmende Photovoltaik-Anlage. Solche Flächen liegen abseits der Wohngebiete. Wenn Sie an einer Zufahrt zu solchen Anlagen oder am Ostsee liegen bleiben, nennen Sie uns die Straße und den nächsten Ortsteil.</p>
+<h2>Was wir in Cottbus tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Cottbus</h2>
+<p>Auf der A15: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Auf dem Stadtring: Warnblinker an und Querstraße nennen. Auf einer Landstraße in der Niederlausitz: Warnblinker an, gerade in der Dämmerung ist dort mit Wild zu rechnen.</p>
+<h2>Wo es in Cottbus oft passiert</h2>
+<p>An den Anschlussstellen der A15 wird es durch den Ein- und Ausfädelverkehr eng. Auf dem Stadtring ist zu Stoßzeiten mehr Verkehr als auf den umliegenden Straßen. Auf den langen Landstraßen durch Wald und Feld ist bei Dämmerung besonders auf Wildwechsel zu achten.</p>
 <h2>So nennen Sie Ihren Standort in Cottbus</h2>
 <ul class="ticks">
 <li>Ortsteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -122,10 +134,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Cottbus</h2>
-<details><summary>Wie viele Ortsteile hat Cottbus?</summary><div>19 Ortsteile.</div></details>
-<details><summary>Welche Anschlussstellen hat die A15 in Cottbus?</summary><div>Cottbus-West, Cottbus-Süd und die 2026 neu gebaute Anschlussstelle Cottbus-Ost.</div></details>
-<details><summary>Wo beginnt die A15?</summary><div>Am Dreieck Spreewald an der A13, sie führt als Teil der E36 Richtung Polen.</div></details>
-<details><summary>Was ist die B169?</summary><div>Eine Bundesstraße, die im Süden und Osten von Cottbus den Stadtring bildet.</div></details>
+<details><summary>Ich stehe auf der A15 an einer der drei Anschlussstellen. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und die Anschlussstelle (West, Süd oder Ost).</div></details>
+<details><summary>Können Sie mein Auto von Cottbus zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal wo die Werkstatt liegt.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Cottbus?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Ich stehe auf einer Landstraße außerhalb der Stadt. Was sage ich?</summary><div>Die Straße, den nächsten Ort und Ihre Fahrtrichtung, dann finden wir Sie auch abseits des Stadtgebiets.</div></details>
 </div></section>
 @@CTA@@
 
@@ -134,15 +146,17 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gütersloh</p><h1>Abschleppdienst Gütersloh</h1><p class="lead">Gütersloh liegt an der A2 in Ostwestfalen-Lippe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Kreisstadt in Ostwestfalen-Lippe</h2>
-<p>Gütersloh ist eine Stadt in Nordrhein-Westfalen im Regierungsbezirk Detmold und Verwaltungssitz des Kreises Gütersloh. Der Stadtteil Gütersloh existiert in seiner amtlich ausgewiesenen Größe nur auf dem Papier: Tatsächlich besteht er aus den sieben Stadtteilen Gütersloh (Stadtmitte), Pavenstädt, Flughafen, Blankenhagen und weiteren. Das Gütersloher Stadtgebiet ist damit anders gegliedert, als man vermutet. Nennen Sie uns bei einer Panne Stadtteil und Straße, zum Beispiel Pavenstädt, Kattenstroth oder Blankenhagen.</p>
+<p>Gütersloh ist eine Stadt in Nordrhein-Westfalen und Verwaltungssitz des Kreises Gütersloh. Der amtlich als ein Stadtteil ausgewiesene Bereich "Gütersloh" besteht tatsächlich aus sieben Stadtteilen: Gütersloh (Stadtmitte), Pavenstädt, Flughafen, Blankenhagen, Nordhorn, Sundern und Kattenstroth. Nennen Sie uns bei einer Panne Stadtteil und Straße, zum Beispiel Pavenstädt, Kattenstroth oder Blankenhagen, denn die amtliche Bezeichnung "Gütersloh" ist weit gefasst.</p>
 <h2>A2 mit eigener Anschlussstelle</h2>
 <p>Gütersloh liegt an der bedeutenden Ost-West-Achse A2 und hat eine eigene Anschlussstelle an die A2. Speziell die Stadtteile Pavenstädt und Kattenstroth sind aus Richtung Ruhrgebiet kommend besser über die Anschlussstelle Rheda-Wiedenbrück/Gütersloh-Süd zu erreichen. Die A2 führt nach Rheda-Wiedenbrück und Gütersloh und erreicht dann Ostwestfalen, weiter zum Bielefelder Berg. Zur Strecke lesen Sie <a href="autobahn-a2.html">Panne auf der A2</a> und <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a>. Bei einer Panne auf der A2 nennen Sie uns Richtung und Anschlussstelle.</p>
-<h2>Stadtteil Flughafen</h2>
-<p>Zu den Stadtteilen zählt der Stadtteil Flughafen. Fahrzeuge in dessen Nähe brauchen Zufahrt oder Straße. Wir klären mit Ihnen, ob der Zugang frei ist.</p>
-<h2>Bahnstrecke und Rekordfahrt</h2>
-<p>Gütersloh liegt an der Stammstrecke der Köln-Mindener Eisenbahn-Gesellschaft. Am 26. November 1985 stellte der ICE-Vorläufer InterCityExperimental auf der Bahnstrecke zwischen Gütersloh und Hamm mit 317 km/h einen kurzfristigen Weltrekord für Drehstrom-Schienenfahrzeuge auf. Wenn Sie an der A2 liegen bleiben, sagen Sie uns die letzte Anschlussstelle.</p>
-<h2>Stadtteile und Dalke</h2>
-<p>Der amtlich als ein Stadtteil ausgewiesene Bereich „Gütersloh“ besteht tatsächlich aus sieben Stadtteilen: Gütersloh (Stadtmitte), Pavenstädt, Flughafen, Blankenhagen, Nordhorn, Sundern und Kattenstroth, die nur amtlich zusammengefasst sind, weil sie bereits 1910 eingemeindet wurden. Das Stadtgebiet hat keine nennenswerten Erhebungen, der niedrigste Punkt liegt mit 64 Metern in den Emsniederungen in der Nähe des Gütersloher Flughafens, der höchste mit 105 Metern im Osten. Die Dalke durchfließt die Stadt von Osten nach Westen, durch den Stadtpark und die Innenstadt, und mündet unweit der Stadtgrenze in die Ems. Nennen Sie uns bei einer Panne den Stadtteil, denn die amtliche Bezeichnung „Gütersloh“ ist weit gefasst. Am Klinikum oder Flughafen nennen Sie uns Straße und Zugang.</p>
+<h2>Stadtteil Flughafen und die Dalke</h2>
+<p>Zu den Stadtteilen zählt der Stadtteil Flughafen. Fahrzeuge in dessen Nähe brauchen Zufahrt oder Straße, wir klären mit Ihnen, ob der Zugang frei ist. Die Dalke durchfließt die Stadt von Osten nach Westen, durch den Stadtpark und die Innenstadt, und mündet unweit der Stadtgrenze in die Ems. Am Klinikum oder Flughafen nennen Sie uns Straße und Zugang.</p>
+<h2>Was wir in Gütersloh tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Gütersloh</h2>
+<p>Auf der A2: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Am Flughafen: Warnblinker an und Straße und Zufahrt so genau wie möglich beschreiben. An der Dalke in der Innenstadt: Warnblinker an und nicht auf Rad- oder Fußwegen am Ufer stehen bleiben.</p>
+<h2>Wo es in Gütersloh oft passiert</h2>
+<p>An der Anschlussstelle Rheda-Wiedenbrück/Gütersloh-Süd ist der Zubringerverkehr aus Richtung Ruhrgebiet dichter. Rund um den Flughafen ist mit Reiseverkehr zu bestimmten Tageszeiten zu rechnen. In der Innenstadt entlang der Dalke ist wenig Platz zum Ausweichen.</p>
 <h2>So nennen Sie Ihren Standort in Gütersloh</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -152,10 +166,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Gütersloh</h2>
-<details><summary>Welche Autobahn führt nach Gütersloh?</summary><div>Die A2, mit einer eigenen Anschlussstelle Gütersloh und der Anschlussstelle Rheda-Wiedenbrück/Gütersloh-Süd.</div></details>
-<details><summary>Warum ist der Stadtteil Gütersloh besonders?</summary><div>Er existiert in der amtlichen Größe nur auf dem Papier und besteht tatsächlich aus mehreren Stadtteilen.</div></details>
-<details><summary>Zu welchem Kreis gehört Gütersloh?</summary><div>Es ist Verwaltungssitz des Kreises Gütersloh im Regierungsbezirk Detmold.</div></details>
-<details><summary>Kommen Sie auch nach Rheda-Wiedenbrück?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Ich stehe auf der A2 an der Anschlussstelle Gütersloh. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung und die Anschlussstelle.</div></details>
+<details><summary>Kommen Sie auch nach Rheda-Wiedenbrück?</summary><div>Ja, wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Können Sie mein Auto von Gütersloh zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Gütersloh liegt oder etwa in Bielefeld.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Gütersloh?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
@@ -164,27 +178,33 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Witten</p><h1>Abschleppdienst Witten</h1><p class="lead">Witten liegt im Südosten des Ruhrgebiets an A43, A448 und A45. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Große kreisangehörige Stadt an der Ruhr</h2>
-<p>Witten liegt im Südosten des Ruhrgebiets in Nordrhein-Westfalen und ist eine große kreisangehörige Stadt des Ennepe-Ruhr-Kreises im Regierungsbezirk Arnsberg. Bis 1974 war Witten kreisfrei. Das Stadtgebiet ist in sieben Stadtteile eingeteilt, die in mehrere Statistische Bezirke unterteilt sind. Nennen Sie uns bei einer Panne Stadtteil und Straße, etwa Heven, Herbede, Stockum oder Annen.</p>
+<p>Witten liegt im Südosten des Ruhrgebiets in Nordrhein-Westfalen und ist eine große kreisangehörige Stadt des Ennepe-Ruhr-Kreises. Das Stadtgebiet ist in sieben Stadtteile eingeteilt. Nennen Sie uns bei einer Panne Stadtteil und Straße, etwa Heven, Herbede, Stockum oder Annen.</p>
 <h2>Drei Autobahnen, acht Anschlussstellen</h2>
 <p>Witten ist durch die A43, A448 und A45 an das Autobahnnetz angebunden. An der A43 liegen die Anschlussstellen Witten-Heven und Witten-Herbede, an der A448 Witten-Zentrum, Witten-Stockum und Witten-Annen, dazu kommen Anschlussstellen an der A45. Die A448 ist die Südumfahrung Bochum, die A43 verbindet Münster mit Wuppertal. Zu den Strecken lesen Sie <a href="stadt-bochum.html">Abschleppdienst Bochum</a>. Bei einer Panne nennen Sie uns Autobahn, Richtung und Anschlussstelle.</p>
-<h2>Chaussee und Verkehrsknoten Crengeldanz</h2>
-<p>Gegen Ende des 18. Jahrhunderts erhielt die Stadt mit der Chaussee Hagen–Witten–Bochum–Steele einen wichtigen Verkehrsanschluss. Diese Straße verlief nicht mitten durch die heutige Innenstadt, Witten war durch Hauptstraße und Oberstraße angebunden. Am Crengeldanz zweigte von der Chaussee die Straße in Richtung Dortmund ab, dort entstand ein lokal wie regional bedeutender Verkehrsknoten. Ab 1803 verkehrte hier eine Postkutschenroute von Essen. Diese historischen Achsen sind bis heute Hauptstraßen. Wenn Sie an einem dieser Knoten liegen bleiben, sagen Sie uns die Querstraße.</p>
+<h2>Verkehrsknoten Crengeldanz</h2>
+<p>Am Crengeldanz zweigt seit jeher eine Hauptstraße in Richtung Dortmund ab, dort besteht bis heute ein lokal wie regional bedeutender Verkehrsknoten. Wenn Sie an diesem Knoten liegen bleiben, sagen Sie uns die Querstraße.</p>
 <h2>Universitätsstadt an der Ruhr</h2>
-<p>Das Stadtgebiet Wittens ist in sieben Stadtteile eingeteilt, die in mehrere Statistische Bezirke unterteilt sind. Seit 1982 ist Witten Universitätsstadt und Standort der privaten Universität Witten/Herdecke, seit 2015 darf sich die Stadt „Universitätsstadt an der Ruhr“ nennen. Es gibt siebzehn Grundschulen und zwei Krankenhäuser, das katholische Marienhospital und das Evangelische Krankenhaus Witten. Im Sommer verkehrt auf der Ruhr das Ausflugsschiff Schwalbe II der Stadtwerke, am Freizeitbad Heveney gibt es eine Umsteigemöglichkeit zum Ausflugsschiff auf dem seit 1979 bestehenden Kemnader Stausee. Wenn Sie an einer Anlegestelle, an der Uferstraße oder am Stausee liegen bleiben, nennen Sie uns Straße, Parkplatz und Anleger, dort gibt es oft keine Hausnummern.</p>
+<p>Witten ist Universitätsstadt und Standort der privaten Universität Witten/Herdecke, dazu gibt es das katholische Marienhospital und das Evangelische Krankenhaus Witten. Im Sommer verkehrt auf der Ruhr das Ausflugsschiff Schwalbe II der Stadtwerke, am Freizeitbad Heveney gibt es eine Umsteigemöglichkeit zum Ausflugsschiff auf dem Kemnader Stausee. Wenn Sie an einer Anlegestelle, an der Uferstraße oder am Stausee liegen bleiben, nennen Sie uns Straße, Parkplatz und Anleger, dort gibt es oft keine Hausnummern.</p>
+<h2>Was wir in Witten tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Witten</h2>
+<p>Auf A43, A448 oder A45: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Am Crengeldanz: Warnblinker an und die Querstraße nennen, dort treffen mehrere Hauptstraßen aufeinander. Am Kemnader Stausee oder an der Ruhr: Warnblinker an und nicht auf Rad- oder Fußwegen am Ufer stehen bleiben.</p>
+<h2>Wo es in Witten oft passiert</h2>
+<p>Am Crengeldanz ist der Verkehr durch die zusammenlaufenden Hauptstraßen dichter. An den Anschlussstellen der A448, der Südumfahrung Bochum, ist zu Stoßzeiten mehr Verkehr als auf den umliegenden Straßen. Am Kemnader Stausee ist an schönen Tagen mit mehr Fußgänger- und Radverkehr zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Witten</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
 <li>Auf A43, A448 oder A45: Richtung und Anschlussstelle.</li>
 <li>An der Ruhr: Brücke und Richtung.</li>
-<li>Bei Transportern: zulässiges Gesamtgewicht (Gewichtsbeschränkung auf der A43 laut Wikipedia bei Herne).</li>
+<li>Bei Transportern: zulässiges Gesamtgewicht (Gewichtsbeschränkung auf der A43 bei Herne).</li>
 </ul>
 <p>Weitere Städte: <a href="stadt-dortmund.html">Dortmund</a> und <a href="stadt-hagen.html">Hagen</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Witten</h2>
-<details><summary>Wie viele Stadtteile hat Witten?</summary><div>Sieben Stadtteile, in mehrere Statistische Bezirke unterteilt.</div></details>
-<details><summary>Welche Anschlussstellen hat die A448 in Witten?</summary><div>Witten-Zentrum, Witten-Stockum und Witten-Annen.</div></details>
-<details><summary>Ist Witten kreisfrei?</summary><div>Nein. Bis 1974 war Witten kreisfrei, heute ist es eine große kreisangehörige Stadt des Ennepe-Ruhr-Kreises.</div></details>
-<details><summary>Was ist der Crengeldanz?</summary><div>Ein historischer Verkehrsknoten, an dem die Straße nach Dortmund von der Chaussee Hagen–Witten–Bochum abzweigte.</div></details>
+<details><summary>Ich stehe am Crengeldanz. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Querstraße, dort treffen mehrere Hauptstraßen aufeinander.</div></details>
+<details><summary>Können Sie mein Auto von Witten zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Witten liegt oder etwa in Dortmund oder Hagen.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Witten?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Ich stehe am Kemnader Stausee. Was sage ich?</summary><div>Straße, Parkplatz und den nächsten Anleger, dort gibt es oft keine Hausnummern.</div></details>
 </div></section>
 @@CTA@@
 
@@ -192,14 +212,20 @@
 <!--AREAS: Hanau, Hanau-Kesselstadt, Hanau-Steinheim, Hanau-Großauheim, Hanau-Wolfgang -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hanau</p><h1>Abschleppdienst Hanau</h1><p class="lead">Hanau liegt östlich von Frankfurt, wo sich A45 und A66 am Hanauer Kreuz treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Kleinste kreisfreie Stadt Hessens</h2>
-<p>Hanau ist eine kreisfreie Stadt mit 98.582 Einwohnern (31. Dezember 2025) im hessischen Regierungsbezirk Darmstadt. Sie ist hinsichtlich der Bevölkerungszahl die sechstgrößte und zugleich kleinste kreisfreie Stadt Hessens. Hanau ist in zehn Stadtteile aufgeteilt, die wiederum in Stadtbezirke gegliedert sind. Nennen Sie uns bei einer Panne Stadtteil und Straße, zum Beispiel Kesselstadt, Steinheim, Großauheim oder Wolfgang.</p>
+<h2>Kreisfreie Stadt östlich von Frankfurt</h2>
+<p>Hanau ist eine kreisfreie Stadt im hessischen Regierungsbezirk Darmstadt und in zehn Stadtteile aufgeteilt, die wiederum in Stadtbezirke gegliedert sind. Nennen Sie uns bei einer Panne Stadtteil und Straße, zum Beispiel Kesselstadt, Steinheim, Großauheim oder Wolfgang.</p>
 <h2>A45, A66 und das Hanauer Kreuz</h2>
 <p>Die Bundesautobahnen A45 und A66 führen durch das Hanauer Stadtgebiet und sind durch das Hanauer Kreuz miteinander verbunden. Die A66 ist die Kinzigtalautobahn nach Fulda, die A45 die Sauerlandlinie Richtung Gießen. Die A3 hat eine Anschlussstelle Hanau außerhalb des Stadtgebiets in der Nähe von Obertshausen, über die autobahnähnliche B45 gibt es eine Verbindung nach Hanau und über das Hanauer Kreuz zurück ans Autobahnnetz. Wenn Sie hier liegen bleiben, nennen Sie uns Autobahn, Richtung und Anschlussstelle. Mehr auf den Seiten <a href="stadt-frankfurt.html">Abschleppdienst Frankfurt</a> und <a href="autobahn-a3.html">Panne auf der A3</a>.</p>
 <h2>Flughafen Frankfurt</h2>
 <p>Hanau besitzt keinen eigenen Flugplatz, Kleinmaschinen fliegen Zellhausen oder das benachbarte Langenselbold an. Die Entfernung zum Frankfurter Flughafen beträgt vom Stadtzentrum aus etwa 30 Kilometer. Wenn Ihr Fahrzeug nach einer Reise am Flughafen nicht startet und Sie in Hanau wohnen, sagen Sie uns Parkhaus und Ebene und Ihr Ziel in Hanau.</p>
-<h2>Zehn Stadtteile und ein neu gebautes Zentrum</h2>
-<p>Hanau ist in zehn Stadtteile aufgeteilt, die wiederum in Stadtbezirke gegliedert sind. Die ehemalige Residenzstadt der Herren und Grafen von Hanau wurde durch Luftangriffe 1944 und 1945 vollständig zerstört, in der Altstadt standen nur noch sieben von vormals 450 Häusern. Die Architektur der Innenstadt ist deshalb durch die Nachkriegsjahre geprägt, seit einigen Jahren laufen dort massive Modernisierungsprogramme. Nennen Sie uns Straße, Hausnummer und die nächste Querstraße, in den Stadtteilen zusätzlich den Stadtteilnamen.</p>
+<h2>Innenstadt und Wiederaufbauarchitektur</h2>
+<p>Die Architektur der Innenstadt ist stark durch die Nachkriegsjahre geprägt, seit einigen Jahren laufen dort massive Modernisierungsprogramme. Nennen Sie uns Straße, Hausnummer und die nächste Querstraße, in den Stadtteilen zusätzlich den Stadtteilnamen.</p>
+<h2>Was wir in Hanau tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Hanau</h2>
+<p>Auf A45 oder A66: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Am Hanauer Kreuz: sagen Sie uns genau, auf welcher Autobahn Sie stehen und Ihre Fahrtrichtung. In der Innenstadt mit laufenden Modernisierungsarbeiten: Warnblinker an und auf wechselnde Baustellen achten.</p>
+<h2>Wo es in Hanau oft passiert</h2>
+<p>Am Hanauer Kreuz, wo A45 und A66 aufeinandertreffen, ist der Verkehr durch den Fahrstreifenwechsel dichter. Auf der B45 zwischen der A3-Anschlussstelle bei Obertshausen und Hanau ist zu Stoßzeiten mehr Verkehr als auf der Autobahn selbst. In der Innenstadt mit Baustellen der Modernisierung ändert sich die Verkehrsführung öfter als anderswo.</p>
 <h2>So nennen Sie Ihren Standort in Hanau</h2>
 <ul class="ticks">
 <li>Stadtteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -209,10 +235,10 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Hanau</h2>
-<details><summary>Wie viele Stadtteile hat Hanau?</summary><div>Zehn Stadtteile, in Stadtbezirke gegliedert.</div></details>
-<details><summary>Wo verbinden sich A45 und A66?</summary><div>Am Hanauer Kreuz im Stadtgebiet.</div></details>
+<details><summary>Ich stehe am Hanauer Kreuz kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn (A45 oder A66) und Ihre Fahrtrichtung.</div></details>
 <details><summary>Hat Hanau einen Flugplatz?</summary><div>Nein. Kleinmaschinen fliegen Zellhausen oder Langenselbold an, der Frankfurter Flughafen ist etwa 30 Kilometer entfernt.</div></details>
-<details><summary>Wie groß ist Hanau?</summary><div>98.582 Einwohner am 31. Dezember 2025, die kleinste kreisfreie Stadt Hessens.</div></details>
+<details><summary>Können Sie mein Auto von Hanau zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Hanau liegt oder etwa in Frankfurt.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Hanau?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 </div></section>
 @@CTA@@
 
@@ -221,13 +247,19 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Schwerin</p><h1>Abschleppdienst Schwerin</h1><p class="lead">Schwerin ist die kleinste Landeshauptstadt Deutschlands und liegt südlich an der A24, wo im Kreuz Schwerin die A14 nach Wismar abzweigt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Kleinste Landeshauptstadt</h2>
-<p>Schwerin ist die Hauptstadt des Landes Mecklenburg-Vorpommern. Die kreisfreie Mittelstadt ist die kleinste Landeshauptstadt der Bundesrepublik Deutschland. Das Stadtgebiet ist in 17 Ortsteile mit je einem Ortsbeirat eingeteilt, die aus einem oder mehreren Stadtteilen bestehen. Nennen Sie uns bei einer Panne Ortsteil oder Stadtteil und Straße, etwa Lankow, Großer Dreesch oder Zippendorf, und in welcher Richtung Sie zu den Seen stehen. Schwerin liegt zwischen mehreren Seen, die Brücken und Dämme bilden Engstellen.</p>
+<p>Schwerin ist die Hauptstadt des Landes Mecklenburg-Vorpommern und gilt als kleinste Landeshauptstadt Deutschlands. Das Stadtgebiet ist in 17 Ortsteile eingeteilt, die aus einem oder mehreren Stadtteilen bestehen. Nennen Sie uns bei einer Panne Ortsteil oder Stadtteil und Straße, etwa Lankow, Großer Dreesch oder Zippendorf, und in welcher Richtung Sie zu den Seen stehen. Schwerin liegt zwischen mehreren Seen, die Brücken und Dämme bilden Engstellen.</p>
 <h2>A24 und Kreuz Schwerin</h2>
-<p>Südlich von Schwerin verläuft die A24 von Hamburg nach Berlin. Von ihr zweigt am Autobahnkreuz Schwerin das nördliche Teilstück der A14 nach Norden in Richtung Wismar ab. Der Ausbau bis zum bereits fertiggestellten Teilstück bei Wismar, in dem die A20 gekreuzt wird, wurde nach jahrelangen Verzögerungen Ende 2009 abgeschlossen, der Abschnitt wurde am 21. Dezember 2009 dem Verkehr übergeben. Neben den Anschlüssen Schwerin-Ost und Schwerin-Nord gibt es Planungen für eine Anschlussstelle Schwerin-Süd. Zu den Autobahnen lesen Sie <a href="stadt-rostock.html">Abschleppdienst Rostock</a> und <a href="stadt-luebeck.html">Abschleppdienst Lübeck</a>. Bei einer Panne nennen Sie uns Autobahn, Richtung und Anschlussstelle.</p>
+<p>Südlich von Schwerin verläuft die A24 von Hamburg nach Berlin. Von ihr zweigt am Autobahnkreuz Schwerin das nördliche Teilstück der A14 nach Norden in Richtung Wismar ab, wo die A20 gekreuzt wird. Neben den Anschlüssen Schwerin-Ost und Schwerin-Nord gibt es Planungen für eine Anschlussstelle Schwerin-Süd. Zu den Autobahnen lesen Sie <a href="stadt-rostock.html">Abschleppdienst Rostock</a> und <a href="stadt-luebeck.html">Abschleppdienst Lübeck</a>. Bei einer Panne nennen Sie uns Autobahn, Richtung und Anschlussstelle.</p>
 <h2>B104, B106 und B321</h2>
 <p>Durch das Stadtgebiet führen die B104 in Ost-West-Richtung, die B106 in Nord-Süd-Richtung und die B321 in Südwest-Südost-Richtung. Die beiden letzteren sind im Stadtgebiet größtenteils vierspurig ausgebaut. Wenn Sie auf einer vierspurigen Bundesstraße liegen bleiben, sagen Sie uns Fahrtrichtung und Querstraße.</p>
 <h2>Stadt der sieben Seen und Wälder</h2>
-<p>Schwerin liegt im Westen Mecklenburg-Vorpommerns am Südwestufer des Schweriner Sees in einer waldreichen Seenlandschaft, die Einwohner nennen sie gern „Stadt der sieben Seen und Wälder“. Weitere Seen im Stadtgebiet sind der Burgsee und der Faule See. Die nächsten größeren Städte sind Lübeck etwa 54 Kilometer nordwestlich, Rostock etwa 69 Kilometer nordöstlich und Hamburg rund 94 Kilometer westlich. Das Stadtgebiet ist in 17 Ortsteile mit je einem Ortsbeirat eingeteilt, die aus einem oder mehreren Stadtteilen bestehen. Wirtschaftlich dominieren Technologieunternehmen, Behörden, die Deutsche Bahn, Maschinenbau, Gesundheitswirtschaft und Kliniken. Nennen Sie uns bei einer Panne Ortsteil, Straße und Hausnummer, an den Seen die Uferstraße und den nächsten Parkplatz.</p>
+<p>Schwerin liegt im Westen Mecklenburg-Vorpommerns am Südwestufer des Schweriner Sees in einer waldreichen Seenlandschaft, die Einwohner nennen sie gern „Stadt der sieben Seen und Wälder“. Weitere Seen im Stadtgebiet sind der Burgsee und der Faule See. Die nächsten größeren Städte sind Lübeck etwa 54 Kilometer nordwestlich, Rostock etwa 69 Kilometer nordöstlich und Hamburg rund 94 Kilometer westlich. Nennen Sie uns bei einer Panne Ortsteil, Straße und Hausnummer, an den Seen die Uferstraße und den nächsten Parkplatz.</p>
+<h2>Was wir in Schwerin tun</h2>
+<p>Platzhalter, wird automatisch ersetzt.</p>
+<h2>Sicher warten in Schwerin</h2>
+<p>Auf A24 oder A14: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Auf einem Damm zwischen zwei Seen: Warnblinker an, dort ist oft wenig Platz zum Ausweichen. Am Seeufer: Warnblinker an und nicht auf Rad- oder Fußwegen stehen bleiben.</p>
+<h2>Wo es in Schwerin oft passiert</h2>
+<p>Am Kreuz Schwerin, wo A24 und A14 aufeinandertreffen, ist der Verkehr durch den Fahrstreifenwechsel dichter. Auf den Dämmen und Brücken zwischen den Seen ist wenig Platz zum Ausweichen. Rund um den Schweriner See ist an schönen Tagen mit mehr Fußgänger- und Radverkehr zu rechnen.</p>
 <h2>So nennen Sie Ihren Standort in Schwerin</h2>
 <ul class="ticks">
 <li>Ortsteil und Straße, dazu Hausnummer oder Querstraße.</li>
@@ -237,9 +269,9 @@
 </ul>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Schwerin</h2>
-<details><summary>Wie viele Ortsteile hat Schwerin?</summary><div>17 Ortsteile mit je einem Ortsbeirat.</div></details>
-<details><summary>Welche Autobahn verläuft bei Schwerin?</summary><div>Die A24 Hamburg–Berlin südlich der Stadt. Am Kreuz Schwerin zweigt die A14 nach Wismar ab.</div></details>
-<details><summary>Wann wurde die A14 nach Wismar eröffnet?</summary><div>Der Abschnitt wurde am 21. Dezember 2009 dem Verkehr übergeben.</div></details>
-<details><summary>Ist Schwerin die kleinste Landeshauptstadt?</summary><div>Ja, die kleinste Landeshauptstadt Deutschlands, nach Wikipedia.</div></details>
+<details><summary>Ich stehe am Kreuz Schwerin kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn (A24 oder A14) und Ihre Fahrtrichtung.</div></details>
+<details><summary>Können Sie mein Auto von Schwerin zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Schwerin liegt oder etwa in Rostock oder Lübeck.</div></details>
+<details><summary>Was kostet ein Abschleppdienst in Schwerin?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Ich stehe auf einem Damm zwischen zwei Seen. Was sage ich?</summary><div>Den Namen der Straße oder des Damms und Ihre Fahrtrichtung, dort ist oft wenig Platz zum Ausweichen.</div></details>
 </div></section>
 @@CTA@@
