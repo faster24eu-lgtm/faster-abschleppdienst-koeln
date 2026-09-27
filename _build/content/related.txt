@@ -374,3 +374,9 @@ autobahn-a70	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im
 autobahn-a100	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel am Rathenauplatz und Innsbrucker Platz
 autobahn-a99	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Allach und Aubing
 autobahn-a70	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Schwarzer Berg
+autobahn-a11	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a12	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a15	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a19	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a19	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Warnowtunnel
+autobahn-a19	ratgeber-wohnmobil-gespann-panne.html	Wohnmobil und Gespann	Auf dem Weg zur Fähre

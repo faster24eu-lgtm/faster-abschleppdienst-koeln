@@ -1,0 +1,113 @@
+=== autobahn-a11 | Pannenhilfe auf der A11: Pomellen bis Berlin | Panne auf der A11 von Pomellen an der polnischen Grenze durch die Uckermark zum Berliner Ring: 110,1 Kilometer, Kreuz Uckermark, Schorfheide. | page ===
+<!--AREAS: A11, Pomellen, Gramzow, Kreuz Uckermark, Joachimsthal, Chorin, Wandlitz, Panketal, Schorfheide -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A11</h1><p class="lead">Die A11 führt auf 110,1 Kilometern von der polnischen Grenze bei Pomellen zum Berliner Ring. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Von Pomellen nach Panketal</h2>
+<p>Die A11 führt auf 110,1 Kilometern von der Grenzübergangsstelle Pomellen zu Polen durch Mecklenburg-Vorpommern und Brandenburg bis zum Dreieck Barnim in Panketal nahe der Grenze zu Berlin und ist Teilstück der Europastraße 28. Sie beginnt in Pomellen im Anschluss an die polnische Autostrada A6, verläuft zunächst 19 Kilometer durch Mecklenburg-Vorpommern und überschreitet in Höhe der Anschlussstelle Schmölln die Grenze zu Brandenburg, danach führt sie über 91 Kilometer durch Brandenburg. Am Kreuz Uckermark schließt die A20 an, die aus Richtung Lübeck, Rostock und Stralsund kommt, mit Anschlüssen von den Inseln Rügen und Usedom. Die Kilometrierung beginnt am Dreieck Barnim, der Grenzübergang liegt bei Kilometer 109,9, die Anschlussstellen sind jedoch von der Grenze aus aufsteigend Richtung Berlin nummeriert. Nennen Sie uns bei einer Panne die Anschlussstelle, nicht nur den Kilometerstein. Mehr auf <a href="autobahn-a20.html">Panne auf der A20</a>, <a href="autobahn-a10.html">Berliner Ring A10</a> und <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
+<h2>Schorfheide-Chorin ohne Standstreifen</h2>
+<p>Als Besonderheit hat die A11 im Bereich des Biosphärenreservates Schorfheide-Chorin keinen Standstreifen, obwohl der Neuausbau nach 2000 stattfand. Auf mehreren längeren Abschnitten ohne Standstreifen gilt aus Sicherheitsgründen eine Höchstgeschwindigkeit von 120 km/h. Die Anschlussstelle Chorin wurde erst nach 1945 errichtet, das erklärt den für Reichsautobahnen geringen Abstand zur Anschlussstelle Joachimsthal von etwa 1,5 Kilometern. Bei einer Panne ohne Standstreifen gilt: Warnblinker, Warnweste, wenn möglich bis zur nächsten Ausfahrt rollen, hinter die Schutzplanke, siehe <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>. Nennen Sie uns bitte, ob ein Standstreifen vorhanden ist.</p>
+<h2>Reichsautobahn nach Stettin und Grenzübergang</h2>
+<p>Die Bauplanungen für das Stettiner Dreieck, das heutige Dreieck Barnim, begannen im April 1935. Die Strecke vom Berliner Ring bis Joachimsthal wurde am 4. April 1936 freigegeben, bis zum 27. September desselben Jahres war die Autobahn bis Stettin-Süd befahrbar. Der Grenzübergang Pomellen/Kołbaskowo zwischen der DDR und der Volksrepublik Polen wurde 1962 eröffnet. Die Anschlussstelle Wandlitz wurde 1971 zur besseren Erreichbarkeit der Waldsiedlung nachträglich angelegt. Der Abzweig vom Berliner Ring hieß in der DDR Abzweig Penkun beziehungsweise Prenzlau. Bis zur Wiedervereinigung 1990 trug der West-Berliner Teil der Transitautobahn nach Hamburg die Bezeichnung A11, sie heißt jetzt A111.</p>
+<h2>Sanierung seit 1991</h2>
+<p>Im Jahr 1991 wurde als erste größere Baumaßnahme nach 1936 die stark frequentierte Anschlussstelle Gramzow an der B198 komplett neu gebaut, über sie verlief in der DDR-Zeit fast der gesamte Autoverkehr zwischen Berlin und der Ostsee. Seit 1996 wird die A11 auf dem Großteil ihrer Strecke durch einen modernen Fahrbahnbelag und teilweise neue Standstreifen grunderneuert. Wenn Sie in einem Sanierungsbereich liegen bleiben, sagen Sie uns, ob Sie in einer Baustelle stehen.</p>
+<h2>So nennen Sie Ihren Standort auf der A11</h2>
+<ul class="ticks">
+<li>Richtung: Berlin oder Stettin/Pomellen.</li>
+<li>Letzte oder nächste Anschlussstelle, Kreuz Uckermark, Gramzow, Joachimsthal, Chorin, Wandlitz, Dreieck Barnim.</li>
+<li>Bundesland: Mecklenburg-Vorpommern oder Brandenburg.</li>
+<li>Ob ein Standstreifen vorhanden ist (Schorfheide).</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A11</h2>
+<details><summary>Wie lang ist die A11?</summary><div>110,1 Kilometer, von Pomellen bis zum Dreieck Barnim.</div></details>
+<details><summary>Warum hat die A11 in der Schorfheide keinen Standstreifen?</summary><div>Im Bereich des Biosphärenreservats Schorfheide-Chorin wurde sie auch beim Neuausbau nach 2000 ohne Standstreifen gebaut, dort gilt auf längeren Abschnitten 120 km/h.</div></details>
+<details><summary>Wo kreuzt die A20 die A11?</summary><div>Am Kreuz Uckermark.</div></details>
+<details><summary>Welche Europastraße ist die A11?</summary><div>Die E28.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a12 | Pannenhilfe auf der A12: Berlin, Fürstenwalde, Frankfurt (Oder) | Panne auf der A12 vom Dreieck Spreeau über Fürstenwalde nach Frankfurt (Oder) und zur Oderbrücke: Autobahn der Freiheit, Umgehung Fürstenwalde. | page ===
+<!--AREAS: A12, Königs Wusterhausen, Fürstenwalde, Frankfurt (Oder), Oderbrücke, Spreeau, Berkenbrück -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A12</h1><p class="lead">Die A12 verbindet Berlin mit Frankfurt (Oder) und Polen. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Berlin–Warschau</h2>
+<p>Die A12, mit dem Beinamen „Autobahn der Freiheit“, verbindet Berlin mit Frankfurt (Oder) und Polen und ist Teil der Europastraße 30. Die Fortsetzung auf polnischem Gebiet ist die A2, die seit Juni 2012 nach Posen, Łódź und Warschau durchgängig befahrbar ist, sodass A12 und A2 die beiden Hauptstädte Berlin und Warschau verbinden und Teil einer wichtigen Straßenverbindung zwischen West-, Mittel- und Osteuropa sind. Die A12 beginnt am Dreieck Spreeau am Berliner Ring bei Königs Wusterhausen und verläuft auf der gesamten Länge im Land Brandenburg. Nennen Sie uns bei einer Panne Richtung und Anschlussstelle. Mehr auf <a href="autobahn-a10.html">Berliner Ring A10</a> und <a href="stadt-frankfurt-oder.html">Abschleppdienst Frankfurt (Oder)</a>.</p>
+<h2>Geschichte bis zur Oder</h2>
+<p>Die heutige A12 wurde in zwei Abschnitten als Strecke 58 im August und Dezember 1937 bis Frankfurt (Oder) eröffnet, die Ausfahrt lag als Provisorium an der Reichsstraße 87. Der weitere Abschnitt bis zur Grenze nach Polen wurde 1957 eröffnet, allerdings nur einbahnig, vierstreifig ausgebaut wurde er erst 1992. Die A12 endet auf der Oderbrücke. Die Bezeichnung A12 wurde bei Einführung des heutigen Nummerierungssystems am 1. Januar 1975 bereits für die in der DDR liegende Autobahn reserviert. Nennen Sie uns bei einer Panne kurz vor der Grenze, ob Sie vor oder auf der Oderbrücke stehen.</p>
+<h2>Fürstenwalde: Umgehung und Tankstelle</h2>
+<p>Im Jahr 2000 wurde die Umgehungsstraße nördlich von Fürstenwalde/Spree eröffnet und 2001 die neue Ausfahrt Fürstenwalde-Ost, damit konnte erheblich mehr Transportverkehr über Fürstenwalde nach Polen oder ins deutsche Binnenland erfolgen. Die Ausfahrt Berkenbrück-Fürstenwalde wurde 2003 geschlossen und teilweise zurückgebaut. An einem Messpunkt bei Fürstenwalde wurden im Jahr 2006 täglich 33.500 Fahrzeuge gezählt, davon 9.300 Lkw. An der Ausfahrt Fürstenwalde-West steht die ehemalige Reichsautobahn-Tankstelle, eine der ersten regulären Tankstellen an einer Autobahn und die letzte ihrer Art in Deutschland, sie steht unter Denkmalschutz. Wenn Sie in diesem Bereich liegen bleiben, nennen Sie uns Ausfahrt und Richtung, denn Ausfahrten wurden verlegt.</p>
+<h2>Autobahn der Freiheit</h2>
+<p>Die polnische A2 erhielt am 4. Juni 2014, dem 25. Jahrestag der polnischen Parlamentswahlen von 1989, den Ehrennamen „Autobahn der Freiheit“, die A12 am 9. Oktober 2014 ebenfalls. Der Name erinnert an das Ende der Volksrepublik. Wenn Sie an der Grenze liegen bleiben, nennen Sie uns, ob Sie auf deutscher Seite stehen. Mehr auf <a href="stadt-berlin-marzahn-hellersdorf.html">Berlin Marzahn-Hellersdorf</a> und <a href="stadt-cottbus.html">Abschleppdienst Cottbus</a>.</p>
+<h2>So nennen Sie Ihren Standort auf der A12</h2>
+<ul class="ticks">
+<li>Richtung: Berlin oder Frankfurt (Oder)/Polen.</li>
+<li>Letzte oder nächste Anschlussstelle, Dreieck Spreeau, Fürstenwalde-West oder -Ost.</li>
+<li>Oderbrücke oder Grenzbereich.</li>
+<li>Rastanlage oder Tankstelle als Landmarke.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A12</h2>
+<details><summary>Wo beginnt und endet die A12?</summary><div>Am Dreieck Spreeau am Berliner Ring und auf der Oderbrücke bei Frankfurt (Oder).</div></details>
+<details><summary>Welche Straße führt in Polen weiter?</summary><div>Die A2 nach Posen, Łódź und Warschau, seit Juni 2012 durchgängig befahrbar.</div></details>
+<details><summary>Wann wurde die A12 eröffnet?</summary><div>Als Reichsautobahn bis Frankfurt (Oder) im August und Dezember 1937.</div></details>
+<details><summary>Warum heißt sie Autobahn der Freiheit?</summary><div>Der Ehrenname wurde am 9. Oktober 2014 verliehen, in Anlehnung an die polnische A2.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a15 | Pannenhilfe auf der A15: Spreewald, Cottbus, Forst | Panne auf der A15 vom Dreieck Spreewald über Vetschau und Cottbus zur polnischen Grenze bei Forst: Spreewaldautobahn, lange Geraden. | page ===
+<!--AREAS: A15, Spreewald, Vetschau, Cottbus, Forst, Bademeusel, Lausitzer Neiße -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A15</h1><p class="lead">Die A15, die Spreewaldautobahn, führt vom Dreieck Spreewald über Cottbus zur polnischen Grenze bei Forst. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Spreewaldautobahn</h2>
+<p>Die A15 ist eine Autobahn in Brandenburg. Sie führt vom Dreieck Spreewald, wo sie die Verlängerung der von Berlin kommenden A13 bildet, über Cottbus zur polnischen Grenze bei Forst, wo sich die polnische Autostrada A18 fortsetzt. Sie ist Teil der Europastraße 36 und heißt nach der Landschaft auch Spreewaldautobahn. Von Berlin kommend muss man am Dreieck Spreewald die Fahrbahn verlassen, um weiter auf der A13 Richtung Dresden zu fahren. Nennen Sie uns bei einer Panne am Dreieck Ihre Fahrtrichtung. Mehr auf <a href="autobahn-a13.html">Panne auf der A13</a> und <a href="stadt-cottbus.html">Abschleppdienst Cottbus</a>.</p>
+<h2>Vetschau, Cottbus und Forst</h2>
+<p>In östliche bis südöstliche Richtung führt die Autobahn südlich am Spreewald vorbei, typisch sind lange gerade Abschnitte, gepaart mit vereinzelten Kurven, wie bei Reichsautobahnen generell. Hinter Vetschau durchquert die Strecke mehrere Waldgebiete, ehe die südlichen Stadtteile von Cottbus erreicht werden, die Stadt und ihre Ortsteile werden mit drei Anschlussstellen angebunden. Nach der Überquerung der Spree folgt erneut Wald, dann erreicht die Strecke die Grenzstadt Forst und führt mit einigen Kilometern Abstand parallel zur Lausitzer Neiße. Hinter der Anschlussstelle Bademeusel, der letzten auf deutschem Gebiet, wird die Neiße überquert und damit die Grenze zu Polen. Auf polnischer Seite setzt sich die seit 2023 durchgehend als Autobahn gewidmete Autostrada A18 fort, die auf der Trasse der alten Reichsautobahn zum Knoten Krzyżowa führt und dort in die A4 mündet. Nennen Sie uns bei einer Panne die Anschlussstelle, auf den langen Geraden fehlen Landmarken. Mehr auf <a href="stadt-goerlitz.html">Abschleppdienst Görlitz</a>.</p>
+<h2>Von der Reichsautobahn Berlin–Breslau zur vierstreifigen A15</h2>
+<p>Die Strecke gehört zu den ältesten Autobahnen in Deutschland und wurde bereits in den 1930er Jahren als Teil einer Reichsautobahn von Berlin über Breslau nach Oberschlesien errichtet, damals nur mit einer Richtungsfahrbahn. Während der östliche Teil nach Kriegsende in Polen lag, kam es auf dem in Deutschland verbliebenen Abschnitt zu DDR-Zeiten zu keinem Ausbau auf Autobahnstandard. Erst nach der Wiedervereinigung begann Anfang der 1990er Jahre der Vollausbau mit zweiter Richtungsfahrbahn, der 1995 abgeschlossen wurde. Der Bau begann am 21. März 1934, dem Tag der „Arbeitsschlacht“ mit Spatenstichen an 21 Stellen. Zu DDR-Zeiten wurde ein langes, schnurgerades Stück parallel zur Neiße als Behelfsflugplatz benutzt und war, abgesehen von einem kurzen Abschnitt am Dreieck Spreewald, der einzige Abschnitt mit zweiter Richtungsfahrbahn.</p>
+<h2>So nennen Sie Ihren Standort auf der A15</h2>
+<ul class="ticks">
+<li>Richtung: Cottbus/Forst/Polen oder Dreieck Spreewald/Berlin.</li>
+<li>Letzte oder nächste Anschlussstelle, Vetschau, Cottbus, Forst, Bademeusel.</li>
+<li>Ob Sie vor oder hinter der Neiße stehen.</li>
+<li>Wald oder Gerade: Kilometerstein, falls erkennbar.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A15</h2>
+<details><summary>Wo beginnt die A15?</summary><div>Am Dreieck Spreewald als Verlängerung der A13.</div></details>
+<details><summary>Was ist die Spreewaldautobahn?</summary><div>Ein anderer Name für die A15 nach der Landschaft Spreewald.</div></details>
+<details><summary>Wie viele Anschlussstellen hat Cottbus an der A15?</summary><div>Drei.</div></details>
+<details><summary>Wo endet die A15?</summary><div>An der Grenze zu Polen bei Forst, wo die Autostrada A18 beginnt.</div></details>
+</div></section>
+@@CTA@@
+
+=== autobahn-a19 | Pannenhilfe auf der A19: Rostock, Warnowtunnel, Müritz, Wittstock | Panne auf der A19 von Rostock über die Mecklenburgische Seenplatte zum Dreieck Wittstock/Dosse: Überseehafen, Warnowtunnel, Ferienverkehr zur Ostsee. | page ===
+<!--AREAS: A19, Rostock, Warnowtunnel, Kavelstorf, Krakow am See, Röbel, Wittstock, Überseehafen -->
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Autobahn</p><h1>Pannenhilfe auf der A19</h1><p class="lead">Die A19 verbindet Rostock mit der A24 bei Wittstock/Dosse. Nennen Sie uns Richtung und Anschlussstelle, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<h2>Von Rostock in die Seenplatte</h2>
+<p>Die A19 verbindet die Hansestadt Rostock mit der A24 bei Wittstock/Dosse, die gesamte A19 ist Teilstück der Europastraße 55. Sie beginnt im Norden Rostocks an der östlichen Ausfahrt des Warnowtunnels südlich des Rostocker Überseehafens, verläuft östlich der Stadt in Richtung Süden, kreuzt die A20 am Kreuz Rostock, zieht sich durch den Landkreis Rostock, überquert die Schaalbeke, verläuft östlich des Krakower Sees und durchschneidet die Mecklenburgische Seenplatte. Nördlich von Wittstock/Dosse wird die Landesgrenze nach Brandenburg überquert, südlich der Stadt endet die A19 am Dreieck Wittstock/Dosse an der A24. Nennen Sie uns bei einer Panne Richtung und Anschlussstelle. Mehr auf <a href="stadt-rostock.html">Abschleppdienst Rostock</a>, <a href="autobahn-a20.html">Panne auf der A20</a> und <a href="autobahn-a24.html">Panne auf der A24</a>.</p>
+<h2>Überseehafen und Fähren</h2>
+<p>Für den internationalen Verkehr ist die A19 wegen des direkten Zugangs zum Rostocker Überseehafen wichtig, der einen Kilometer von der A19 entfernt liegt. Fährverbindungen bestehen von dort in mehrere Ostseestaaten, nach Gedser in Dänemark, Trelleborg in Schweden, Helsinki in Finnland, Tallinn in Estland und Ventspils in Lettland. Wenn Sie mit Wohnmobil oder Anhänger unterwegs zur Fähre liegen bleiben, nennen Sie uns das Fahrzeug, siehe <a href="ratgeber-wohnmobil-gespann-panne.html">Wohnmobil und Gespann</a>. Nach der Fertigstellung des Warnowtunnels wurde der ursprüngliche Verlauf der Autobahn geändert, ursprünglich führte sie über die heutige Straße direkt zum Überseehafen. Im Tunnel: <a href="ratgeber-panne-im-tunnel.html">Panne im Tunnel</a>.</p>
+<h2>Ferienverkehr, Sturm und Sichtbehinderung</h2>
+<p>Während der Ferienreisewelle gibt es auf der A19 mitunter Staus, da der Verkehr zu den Ostseestränden, etwa nach Rügen oder Graal-Müritz, über sie läuft. Am 8. April 2011 ereignete sich wegen eines Sandsturms nahe Kavelstorf eine Massenkarambolage mit rund 85 Fahrzeugen. Bei eingeschränkter Sicht gilt: Abstand halten, Licht an, nicht auf dem Standstreifen im Fahrzeug bleiben, siehe <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>. Nennen Sie uns bei starkem Wind oder Nebel, ob die Sicht schlecht ist.</p>
+<h2>Größter Abstand zwischen zwei Anschlussstellen</h2>
+<p>Der Abschnitt zwischen den Anschlussstellen Röbel und Wittstock/Dosse hat nach der genutzten Quelle mit 24 Kilometern Länge den größten Abstand zwischen zwei Anschlussstellen in Deutschland. Das heißt: Wenn Sie hier liegen bleiben, ist die nächste Ausfahrt weit. Sagen Sie uns Kilometerstein oder Parkplatz. Der Bau wurde im Januar 1970 begonnen und das letzte Teilstück der Autobahn Berlin–Rostock 1978 dem Verkehr übergeben.</p>
+<h2>So nennen Sie Ihren Standort auf der A19</h2>
+<ul class="ticks">
+<li>Richtung: Rostock oder Wittstock/Berlin.</li>
+<li>Letzte oder nächste Anschlussstelle, Kreuz Rostock, Röbel, Wittstock/Dosse.</li>
+<li>Warnowtunnel oder Überseehafen als Landmarke.</li>
+<li>Parkplatz oder Kilometerstein zwischen Röbel und Wittstock.</li>
+</ul>
+<p>Alle Seiten: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>. Wir koordinieren Partner vor Ort, Faster sitzt in Antwerpen (Belgien), eine feste Ankunftszeit nennen wir nicht.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zur A19</h2>
+<details><summary>Wo beginnt und endet die A19?</summary><div>An der östlichen Ausfahrt des Warnowtunnels in Rostock und am Dreieck Wittstock/Dosse an der A24.</div></details>
+<details><summary>Wie weit ist der Überseehafen von der A19 entfernt?</summary><div>Einen Kilometer.</div></details>
+<details><summary>Wann wurde die A19 fertiggestellt?</summary><div>Das letzte Teilstück der Autobahn Berlin–Rostock wurde 1978 dem Verkehr übergeben.</div></details>
+<details><summary>Welche Europastraße ist die A19?</summary><div>Die E55.</div></details>
+</div></section>
+@@CTA@@

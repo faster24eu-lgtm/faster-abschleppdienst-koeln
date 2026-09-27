@@ -215,3 +215,7 @@ autobahn-a64	A64 Luxemburg bis Trier	A64
 autobahn-a100	A100 Berlin Stadtring	A100	
 autobahn-a99	A99 München Ring	A99	
 autobahn-a70	A70 Schweinfurt bis Bayreuth	A70	
+autobahn-a11	A11 Pomellen bis Berlin	A11	
+autobahn-a12	A12 Berlin bis Frankfurt (Oder)	A12	
+autobahn-a15	A15 Spreewald bis Forst	A15	
+autobahn-a19	A19 Rostock bis Wittstock	A19	
