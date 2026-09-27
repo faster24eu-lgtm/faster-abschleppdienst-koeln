@@ -354,3 +354,6 @@ stadt-memmingen	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte
 stadt-iserlohn	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
 stadt-velbert	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel Birth
 stadt-minden	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Weserauentunnel
+autobahn-a46	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a39	ratgeber-panne-autobahn.html	Panne auf der Autobahn	Die Schritte im Überblick
+autobahn-a46	ratgeber-panne-im-tunnel.html	Panne im Tunnel	Tunnel bei Arnsberg

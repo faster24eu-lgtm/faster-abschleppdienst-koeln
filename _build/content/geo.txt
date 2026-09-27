@@ -202,3 +202,5 @@ stadt-minden	Minden	Nordrhein-Westfalen
 stadt-gladbeck	Gladbeck	Nordrhein-Westfalen	
 stadt-memmingen	Memmingen	Bayern	
 stadt-iserlohn	Iserlohn	Nordrhein-Westfalen	
+autobahn-a46	A46 Heinsberg bis Olsberg	A46	
+autobahn-a39	A39 Hamburg bis Salzgitter	A39	
