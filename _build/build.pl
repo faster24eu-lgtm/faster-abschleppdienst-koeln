@@ -444,6 +444,30 @@ my (@GEO_CITY,@GEO_AB);
     # four steps, then added the same service list and price FAQ on every city.
     # That is the repeated part. The local roads stay in the source.
     $b =~ s{<h2>Was wir in [^<]+ tun</h2>\s*<p>.*?</p>\s*}{}s;
+    # Cut encyclopedia lines. A sentence stays if it tells the driver where to stand or what to say.
+    $b =~ s{<details>(.*?)</details>\s*}{
+      my $block = $1;
+      my ($sum) = $block =~ /<summary>(.*?)<\/summary>/s;
+      $sum //= '';
+      my $drop = $sum =~ /Einwohner|Stadtrecht|Jahrhundert|gegründet|Mittelalter|Museum|Kapelle|Garnison|hieß|schwäbisch|Oberzentrum|Gebietsreform/i
+        && $sum !~ /Autobahn|Standstreifen|Tunnel|Anschluss|Panne|Ausfahrt|\bA\d|\bB\d|Straße/i;
+      $drop ? '' : "<details>$block</details>\n"
+    }gse;
+    $b =~ s{<p>(.*?)</p>}{
+      my $inner = $1;
+      my $keep = sub {
+        my $s = shift;
+        return 1 if $s =~ /nennen Sie|sagen Sie|schicken Sie|senden Sie|WhatsApp|Panne|Standort|Fahrtrichtung|Anschluss|Ausfahrt|Warnblinker|Leitplanke|bergauf|bergab|Tunnel|Parkplatz|Zufahrt|Autobahn|Bundesstra|\bA\s?\d|\bB\s?\d|Ortsteil|Straße|Strasse|links oder rechts|Notruf|Wohnplatz|Wohngebiet/i;
+        return 0 if $s =~ /Einwohner|gegründet|Jahrhundert|Gebietsreform|Regierungsbezirk|Oberzentrum|Stadtrecht|Mittelalter|Hektar|Quadratmeter|Jungsteinzeit|Eisenzeit|Garnison|Museum|Kapelle|Residenz|Fürsten|Kneipp|Heilbad|Denkmal|Reichsstadt|Stadtbefestigung|Stadtmauer|allergiker|Einwohnerzahl|Kaserne|Kloster|\bKirche\b|\bTurm\b|M[uü]nz|statistische Bezirk/i;
+        return 1;
+      };
+      $inner =~ s/(\d)\.(\s+)/$1\x01$2/g;
+      my @sent = split /(?<=[.!?])\s+/, $inner;
+      @sent = map { s/\x01/./g; $_ } @sent;
+      my @keep = grep { $keep->($_) } @sent;
+      @keep ? '<p>'.join(' ', @keep).'</p>' : ''
+    }gse;
+    $b =~ s{(<h2>[^<]*</h2>)\s*(?=<h2>|</div>)}{}sg;
     my @nbs = grep { $_ ne $slug && $P{$_} } map { $tok->($_) } split /,/, ($NB{$slug}[0] // '');
     @nbs = @nbs[0..7] if @nbs > 8;
     my @abs = grep { $P{$_} } map { $abslug->($_) } split /,/, ($NB{$slug}[1] // '');
@@ -454,6 +478,12 @@ my (@GEO_CITY,@GEO_AB);
     if ($i1 >= 0) { substr($b,$i1,0) = $near; } else { warn "no marker in $slug\n"; }
     my $nbl = join(', ', map { ($LABEL{$_} // $_) } @nbs); $nbl =~ s/<[^>]+>//g;
     $b =~ s/<!--AREAS: (.*?) -->/'<!--AREAS: '.$1.($nbl ? ', '.$nbl : '').' -->'/e;
+    $P{$slug}{body} = $b;
+  }
+  for my $slug (keys %P) {
+    next unless $slug =~ /^en-stadt-/;
+    my $b = $P{$slug}{body} // next;
+    $b =~ s{<h2>What we do in [^<]+</h2>\s*<p>.*?</p>\s*}{}s;
     $P{$slug}{body} = $b;
   }
 }
