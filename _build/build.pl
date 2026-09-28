@@ -417,7 +417,7 @@ my (@GEO_CITY,@GEO_AB);
     my $cnt = scalar(@c);
     $P{$slug} = { title => "Abschleppdienst in $n: Städte, Autobahnen | Faster Abschleppdienst",
       desc => "Pannenhilfe und Abschleppen in $n: Städte mit eigenen Seiten, wichtige Autobahnen und Hinweise, wie Sie Ihren Standort nennen.", flag => 'hub',
-      body => qq{<!--AREAS: $n -->\n<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bundesland</p><h1>Abschleppdienst in $n</h1><p class="lead">Pannenhilfe und Abschleppen in $n: Zu den Städten unten gibt es eigene Seiten mit Stadtteilen, Straßen und Hinweisen für Ihren Standort. Rufen Sie an oder schreiben Sie per WhatsApp.</p>$wabtn</div></section>\n<section class="section"><div class="wrap narrow copy">\n$intro<h2>Städte in $n mit eigener Seite</h2>\n<p>$links</p>\n<p>Insgesamt sind es derzeit $cnt Seiten in $n. Weitere Städte in ganz Deutschland finden Sie unter <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>, alle Bundesländer unter <a href="bundeslaender.html">Bundesländer</a>, die Autobahnen unter <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>.</p>\n<h2>So läuft es ab in $n</h2>\n<p>Sie rufen an oder schreiben per WhatsApp und schicken Ihren Standort. Wir fragen kurz nach Fahrzeug, Problem und Ziel, suchen dann einen Partner in $n und nennen Ihnen den Preis, bevor jemand losfährt. Der Partner kommt, schleppt ab oder hilft direkt vor Ort. Faster hat seinen Sitz in Antwerpen (Belgien), gefahren wird von einem Partnerbetrieb vor Ort.</p>\n</div></section>\n<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu $n</h2>\n$extra_faq<details><summary>Für welche Städte in $n gibt es eigene Seiten?</summary><div>Aktuell für $cnt Orte, sie stehen oben in der Liste. Auch für alle anderen Orte in $n können Sie uns anrufen: Wir klären dann, welcher Partner in Frage kommt.</div></details>\n<details><summary>Was kostet Abschleppen in $n?</summary><div>Einen festen Preis nennen wir nicht, weil er von Fahrzeug, Uhrzeit, Strecke und Aufwand abhängt. Am Telefon nennen wir Ihnen den Preis, bevor jemand losfährt.</div></details>\n<details><summary>Was tue ich zuerst, wenn ich auf der Autobahn in $n liegen bleibe?</summary><div>Warnblinker einschalten, Warnweste anziehen, alle aussteigen und hinter die Leitplanke gehen, Warndreieck aufstellen, dann uns anrufen. Nennen Sie Autobahn, Fahrtrichtung und Kilometer oder Ausfahrt.</div></details>\n</div></section>\n\@\@CTA\@\@\n} };
+      body => qq{<!--AREAS: $n -->\n<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bundesland</p><h1>Abschleppdienst in $n</h1><p class="lead">Unten stehen die Autobahnen und die Stellen, an denen eine Panne in $n typisch ist, danach die Städte mit eigener Seite.</p>$wabtn</div></section>\n<section class="section"><div class="wrap narrow copy">\n$intro<h2>Städte in $n mit eigener Seite</h2>\n<p>$links</p>\n</div></section>\n}.($extra_faq =~ /\S/ ? qq{<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu $n</h2>\n$extra_faq</div></section>\n} : '').qq{\@\@CTA\@\@\n} };
     push @order, $slug unless grep { $_ eq $slug } @order;
   }
   # Bundeslaender index
@@ -439,68 +439,19 @@ my (@GEO_CITY,@GEO_AB);
     my $ssl = $blslug->($state);
     $CRUMB_PARENT{$slug} = ["bl-$ssl", $lab];
     $CRUMB_PARENT{"bl-$ssl"} = ['home', $esc->($state)];
-    my $b = $P{$slug}{body}; my $v = 0; my $hsum = 0; $hsum = ($hsum*31 + ord($_)) % 1000003 for split //, $slug; $v = $hsum % 6; my $w = int($hsum/7) % 8; my $x = int($hsum/13) % 3;
+    my $b = $P{$slug}{body};
+    # The old block rewrote "Was wir in X tun" into eight paraphrases of the same
+    # four steps, then added the same service list and price FAQ on every city.
+    # That is the repeated part. The local roads stay in the source.
+    $b =~ s{<h2>Was wir in [^<]+ tun</h2>\s*<p>.*?</p>\s*}{}s;
     my @nbs = grep { $_ ne $slug && $P{$_} } map { $tok->($_) } split /,/, ($NB{$slug}[0] // '');
     @nbs = @nbs[0..7] if @nbs > 8;
     my @abs = grep { $P{$_} } map { $abslug->($_) } split /,/, ($NB{$slug}[1] // '');
     my $nblinks = join(', ', map { qq{<a href="$_.html">}.($LABEL{$_} // $_).'</a>' } @nbs);
     my $ablinks = join(', ', map { my $t=$_; $t =~ s/^autobahn-//; $t =~ s/-.*//; qq{<a href="$_.html">Pannenhilfe auf der A}.substr($t,1).'</a>' } @abs);
-    # varied "So läuft es ab" paragraph (4 steps), headings and FAQ wording to keep city pages distinct
-    my @tun = (
-      "Erstens: Sie rufen an oder schreiben per WhatsApp und schicken Ihren Standort. Zweitens: Wir fragen kurz nach Fahrzeug, Problem und Ziel. Drittens: Wir finden einen Partner in der Nähe von $lab und nennen Ihnen den Preis, bevor jemand losfährt. Viertens: Der Partner kommt, schleppt ab oder hilft direkt vor Ort.",
-      "So läuft es ab: Anruf oder WhatsApp mit Standort, dann klären wir Fahrzeug, Problem und Ziel. Danach suchen wir für $lab einen passenden Partner und sagen Ihnen den Preis am Telefon, bevor er losfährt. Zum Schluss übernimmt der Partner vor Ort, ob Abschleppen oder Pannenhilfe.",
-      "Vier Schritte bis zur Hilfe in $lab: Sie melden sich mit Ihrem Standort, wir fragen nach Fahrzeug, Problem und Ziel, wir vermitteln einen Partner in der Region und nennen den Preis vorab, und der Partner fährt vor, um abzuschleppen oder direkt zu helfen.",
-      "Melden Sie sich per Telefon oder WhatsApp und schicken Sie Ihren Standort. Wir fragen nach Fahrzeug, Problem und Zielort, suchen dann einen Partner in $lab und nennen Ihnen den Preis, bevor jemand losfährt. Der Partner übernimmt anschließend Abschleppen oder Pannenhilfe vor Ort.",
-      "In $lab läuft es so: Erst Anruf oder WhatsApp mit Standort, dann ein paar Fragen zu Fahrzeug, Problem und Ziel, danach die Vermittlung an einen Partner in der Region mit Preisangabe vorab, und schließlich die Hilfe oder das Abschleppen vor Ort.",
-      "Sie kontaktieren uns mit Ihrem Standort, wir klären Fahrzeug, Problem und Ziel, organisieren einen Partner für $lab und sagen Ihnen den Preis, bevor die Fahrt losgeht. Vor Ort übernimmt der Partner dann das Abschleppen oder die Pannenhilfe.",
-      "Der Ablauf in vier Schritten: Kontakt mit Standort per Telefon oder WhatsApp, kurze Fragen zu Fahrzeug, Problem und Ziel, Vermittlung eines Partners in der Nähe von $lab samt Preis vorab, und zuletzt die Hilfe oder das Abschleppen durch den Partner.",
-      "Zuerst schicken Sie uns Ihren Standort per Anruf oder WhatsApp. Dann fragen wir nach Fahrzeug, Problem und Ziel. Anschließend suchen wir einen Partner in $lab und nennen den Preis, bevor er fährt. Am Ende steht die Hilfe oder das Abschleppen vor Ort.",
-    );
-    my @tunh = ("So läuft es ab in $lab", "In 4 Schritten zur Hilfe in $lab", "So läuft ein Einsatz in $lab ab", "Der Ablauf in $lab");
-    my @nenn = ("So nennen Sie Ihren Standort in $lab", "Standort in $lab richtig angeben", "Was wir von Ihnen wissen müssen");
-    $b =~ s{<h2>Was wir in [^<]+ tun</h2>\s*<p>.*?</p>}{'<h2>'.$tunh[int($hsum/11) % 4].'</h2><p>'.$tun[$w].'</p>'}se;
-    $b =~ s{<h2>So nennen Sie Ihren Standort in [^<]+</h2>}{'<h2>'.$nenn[$x].'</h2>'}se;
-    my $svc;
-    {
-      my $LK = sub { my ($u,$t)=@_; qq{<a href="$u.html">$t</a>} };
-      my @head = ("Was wir in $lab koordinieren","Abschleppen und Pannenhilfe in $lab","Wobei wir Ihnen in $lab helfen","Unsere Leistungen für $lab");
-      my @intro = ("Sie rufen an oder schreiben per WhatsApp, wir klären Fahrzeug, Standort und Ziel und organisieren einen Partner in Ihrer Nähe.",
-        "Für $lab läuft es so: Sie schildern uns die Lage, wir suchen einen Partner in der Umgebung und nennen Ihnen den Preis, bevor er losfährt.",
-        "Was ist passiert, wo stehen Sie, wohin soll das Fahrzeug? Mit diesen drei Antworten können wir in $lab einen Partnerbetrieb beauftragen.",
-        "Bleibt Ihr Fahrzeug in $lab liegen, ist der erste Schritt ein Anruf. Danach vermitteln wir einen Betrieb, der zu Fahrzeug und Situation passt.",
-        "");
-      my @ia = ("Abschleppen und Transport zur Werkstatt oder nach Hause (".$LK->('ratgeber-abschleppdienst-kosten','Was kostet ein Abschleppdienst?').")",
-        "Wenn das Fahrzeug nicht mehr fahren kann: Abschleppen oder Transport auf der Ladefläche, Hintergründe unter ".$LK->('ratgeber-abschleppdienst-kosten','Kosten eines Abschleppdienstes'),
-        "Bergung und Transport in die Werkstatt Ihrer Wahl, siehe ".$LK->('ratgeber-abschleppdienst-kosten','Was kostet ein Abschleppdienst?'));
-      my @ib = ("Pannenhilfe wie ".$LK->('ratgeber-starthilfe-batterie','Starthilfe')." und ".$LK->('ratgeber-reifenpanne','Reifenpanne'),
-        "Leere Batterie (".$LK->('ratgeber-starthilfe-batterie','Starthilfe').") oder platter Reifen (".$LK->('ratgeber-reifenpanne','Reifenpanne').")",
-        "Hilfe bei ".$LK->('ratgeber-starthilfe-batterie','Starthilfe')."-Fällen und bei einer ".$LK->('ratgeber-reifenpanne','Reifenpanne'));
-      my @ic = ("Abtransport nach einem Unfall, dazu ".$LK->('ratgeber-unfall-abschleppkosten','Abschleppkosten nach einem Unfall'),
-        "Fahrzeuge nach einem Unfallschaden, ".$LK->('ratgeber-unfall-abschleppkosten','wer die Kosten trägt'),
-        "Unfallfahrzeuge, siehe ".$LK->('ratgeber-unfall-abschleppkosten','Kosten nach einem Unfall'));
-      my @id = ($LK->('ratgeber-e-auto-abschleppen','E-Autos').", ".$LK->('ratgeber-motorrad-transport','Motorräder')." und ".$LK->('ratgeber-transporter-abschleppen','Transporter bis 3,5 t'),
-        "Besondere Fahrzeuge: ".$LK->('ratgeber-e-auto-abschleppen','Elektroauto').", ".$LK->('ratgeber-motorrad-transport','Motorrad').", ".$LK->('ratgeber-transporter-abschleppen','Transporter'),
-        "Auch für ".$LK->('ratgeber-e-auto-abschleppen','Elektroautos').", ".$LK->('ratgeber-motorrad-transport','Motorräder')." und ".$LK->('ratgeber-transporter-abschleppen','Transporter')." bis 3,5 Tonnen");
-      my @close = ("Die Einsätze fährt ein Partner vor Ort, wir koordinieren ihn und nennen Ihnen den Preis am Telefon, bevor jemand losfährt.",
-        "Der Preis hängt von Fahrzeug, Zeit und Strecke ab, Sie erfahren ihn vor der Abfahrt.",
-        "Wer bei Ihnen ankommt, ist ein Partnerbetrieb in der Region. Wir bleiben bis zum Schluss Ihr Ansprechpartner.",
-        "Ob Tag oder Nacht: Rufen Sie an, wir sind rund um die Uhr erreichbar.",
-        "");
-      my $hi = int($hsum/3)%5; my $ha = int($hsum/5)%3; my $hb = int($hsum/7)%3; my $hc = int($hsum/11)%3; my $hd = int($hsum/13)%3; my $he = int($hsum/17)%5; my $hh = int($hsum/23)%4;
-      $svc = '<h2>'.$head[$hh].'</h2>'.($intro[$hi] ne '' ? '<p>'.$intro[$hi].'</p>' : '')
-        .'<ul class="ticks"><li>'.$ia[$ha].'</li><li>'.$ib[$hb].'</li><li>'.$ic[$hc].'</li><li>'.$id[$hd].'</li></ul>'
-        .($close[$he] ne '' ? '<p>'.$close[$he].'</p>' : '');
-    }
-    my $near = '<h2>In der Nähe von '.$lab.'</h2><p>'.($nblinks ? ($v==1 ? "Ebenfalls mit eigener Seite: $nblinks. " : "Nachbarstädte mit eigener Seite: $nblinks. ") : '').'Übersicht für das Bundesland: <a href="bl-'.$ssl.'.html">Abschleppdienst in '.$esc->($state).'</a>.'.($ablinks ? ($v==2 ? " Passende Autobahnen: $ablinks." : " Autobahnseiten zur Strecke: $ablinks.") : '').'</p>';
-    my $blk = $svc.$near;
+    my $near = '<h2>In der Nähe von '.$lab.'</h2><p>'.($nblinks ? "Nachbarstädte mit eigener Seite: $nblinks. " : '').'Übersicht für das Bundesland: <a href="bl-'.$ssl.'.html">Abschleppdienst in '.$esc->($state).'</a>.'.($ablinks ? " Autobahnseiten zur Strecke: $ablinks." : '').'</p>';
     my $m1 = "</div></section>\n<section class=\"section grey\">"; my $i1 = index($b,$m1);
-    if ($i1 >= 0) { substr($b,$i1,0) = $blk; } else { warn "no marker in $slug\n"; }
-    my $nb1 = $nbs[0] ? ($LABEL{$nbs[0]} // '') : '';
-    my @cost = ('Einen festen Preis nennen wir hier nicht, weil er von Fahrzeug, Uhrzeit, Strecke und Aufwand abhängt. Am Telefon nennen wir Ihnen den Preis, bevor jemand losfährt.','Pauschal lässt sich das nicht sagen: Fahrzeugtyp, Tageszeit, Entfernung zum Ziel und der Aufwand vor Ort bestimmen den Preis. Sie erfahren ihn am Telefon, bevor ein Fahrzeug zu Ihnen losfährt.','Der Preis hängt davon ab, was am Fahrzeug zu tun ist, wann und wohin es gebracht wird. Wir nennen ihn Ihnen vor der Abfahrt, damit Sie entscheiden können.');
-    my $faq = qq{<details><summary>Was kostet Abschleppen in $lab?</summary><div>$cost[int($hsum/17) % 3]</div></details>\n};
-    my @hlp = ("Wir organisieren Einsätze in der Region um $lab. Nennen Sie uns Ort und Straße, am besten mit Ihrem Standort per WhatsApp, dann klären wir, welcher Partner in Frage kommt.","Rufen Sie an und sagen Sie uns, wo Sie stehen. Wir prüfen, welcher Partner rund um $lab den Einsatz übernehmen kann, und melden uns mit dem Preis, bevor jemand losfährt.","Das hängt vom genauen Ort ab. Schicken Sie uns Ihren Standort per WhatsApp oder rufen Sie an, dann klären wir die Anfahrt mit einem Partner in der Nähe."); $faq .= qq{<details><summary>Helfen Sie auch in der Umgebung, zum Beispiel in $nb1?</summary><div>$hlp[int($hsum/19) % 3]</div></details>\n} if $nb1;
-    my $m2 = "</div></section>\n\@\@CTA\@\@"; my $i2 = rindex($b,$m2);
-    if ($i2 >= 0) { substr($b,$i2,0) = $faq; } else { warn "no faq marker in $slug\n"; }
+    if ($i1 >= 0) { substr($b,$i1,0) = $near; } else { warn "no marker in $slug\n"; }
     my $nbl = join(', ', map { ($LABEL{$_} // $_) } @nbs); $nbl =~ s/<[^>]+>//g;
     $b =~ s/<!--AREAS: (.*?) -->/'<!--AREAS: '.$1.($nbl ? ', '.$nbl : '').' -->'/e;
     $P{$slug}{body} = $b;
