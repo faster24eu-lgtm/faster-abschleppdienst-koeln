@@ -17,9 +17,14 @@ img{max-width:100%;height:auto;display:block}a{color:inherit}
 h1{font-size:clamp(32px,5vw,56px);line-height:1.05;margin:0 0 18px;letter-spacing:-.02em}
 h2{font-size:clamp(24px,3.4vw,36px);line-height:1.12;margin:0 0 16px;letter-spacing:-.01em}h3{margin:0 0 8px;font-size:20px}
 .lead{font-size:19px;color:#444;max-width:640px}.sub{color:var(--muted);max-width:640px;margin:-6px 0 26px}
-.hero{background:var(--paper);border-bottom:1px solid var(--line);padding:56px 0}
+.hero{position:relative;isolation:isolate;background-color:#0a0612;background-image:linear-gradient(180deg,rgba(8,6,14,.55) 0%,rgba(10,8,16,.68) 45%,rgba(12,10,18,.82) 100%),url("assets/hero-neon-map.jpg");background-size:cover;background-position:center;border-bottom:1px solid rgba(255,255,255,.08);padding:64px 0;color:#f4f0f8}
+.hero .eyebrow{color:#ffb3b3}
+.hero h1{color:#fff;text-shadow:0 2px 18px rgba(0,0,0,.45)}
+.hero .lead{color:#e8e2ee}
+.hero .proof{border-top-color:rgba(255,255,255,.16);color:#d8d0dc}
+.hero .proof strong{color:#fff}
 .hero-grid{display:grid;grid-template-columns:1.05fr 1fr;gap:40px;align-items:center}
-.hero-img{border:1px solid var(--line);width:100%;aspect-ratio:4/3;object-fit:cover}
+.hero-img{border:1px solid rgba(255,255,255,.12);width:100%;aspect-ratio:4/3;object-fit:cover;opacity:.82;box-shadow:0 12px 40px rgba(0,0,0,.35)}
 .actions{display:flex;gap:10px;flex-wrap:wrap;margin:22px 0}
 .proof{list-style:none;margin:26px 0 0;padding:18px 0 0;border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(3,1fr);gap:14px;font-size:13px;color:var(--muted)}.proof strong{display:block;color:var(--ink);font-size:17px}
 .section{padding:72px 0}.grey{background:var(--paper)}
@@ -53,10 +58,8 @@ details{border:1px solid var(--line);padding:16px 18px;margin:0 0 10px;backgroun
 @media(max-width:520px){.brand span{display:none}.brand img{height:40px}.nav{min-height:0;padding-bottom:0;gap:12px}.nav-cta{margin-left:auto}}
 @media(max-width:900px){.menu{scrollbar-width:none}.menu::-webkit-scrollbar{display:none}}
 .regions{display:grid;grid-template-columns:1fr 1fr;gap:20px}.region-card{display:block;border:2px solid #111;background:#fff;padding:30px 28px;text-decoration:none;color:inherit}.region-card h3{font-size:clamp(26px,3.4vw,38px);line-height:1.05;margin:6px 0 12px}.region-card p{color:var(--muted);margin:0 0 18px}.region-card strong{font-weight:900}.region-card:hover{background:#f8eaea}.region-card:hover p{color:#222}@media(max-width:900px){.regions{grid-template-columns:1fr}}
-
 .citysearch{width:100%;max-width:420px;padding:12px;border:1px solid #ccc;font:inherit;border-radius:2px;margin-top:6px}.cityblock h2{font-size:20px;margin:26px 0 8px}.citylist{list-style:none;padding:0;margin:0 0 8px;columns:3;column-gap:24px}.citylist li{break-inside:avoid;margin:0 0 6px}
 @media(max-width:900px){.citylist{columns:2}}
-
 .cookie-banner{position:fixed;left:0;right:0;bottom:0;z-index:200;background:#fff;border-top:1px solid var(--line);box-shadow:0 -2px 14px rgba(0,0,0,.12)}
 .cookie-banner[hidden]{display:none}
 .cookie-in{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px 24px;padding:16px 0}
