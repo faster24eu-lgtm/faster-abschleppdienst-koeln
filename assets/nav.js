@@ -1,4 +1,9 @@
 (function(){
+  if (typeof gtag === 'function') {
+    gtag('config', 'AW-10963026341/1eHUCNemnIwdEKWDyuso', {
+      'phone_conversion_number': '+49 176 41956993'
+    });
+  }
   var nav=document.querySelector("nav.menu");
   var path=location.pathname;
   var en=/^\/en(\/|$)/.test(path);
