@@ -58,6 +58,9 @@ gtag('config', 'AW-10963026341');
 gtag('config', 'AW-10963026341/6YcCCJqizocdEKWDyuso', {
   'phone_conversion_number': '+49 176 41956993'
 });
+gtag('config', 'AW-10963026341/1eHUCNemnIwdEKWDyuso', {
+  'phone_conversion_number': '+49 176 41956993'
+});
 </script>
 EOT
 # Reporting-only click events for phone and WhatsApp links (event delegation, no send_to/conversion label).
