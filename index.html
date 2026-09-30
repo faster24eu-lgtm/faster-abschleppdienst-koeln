@@ -37,7 +37,6 @@ document.addEventListener('click', function(e){
 </script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Abschleppdienst und Pannenhilfe","serviceType":"Abschleppdienst und Pannenhilfe","url":"https://abschleppdienst-faster.de/","provider":{"@type":"Organization","name":"Faster Abschleppdienst","telephone":"+4917641956993","email":"faster@takeldienstfaster.be"},"areaServed":"DE","availableLanguage":["de","nl","fr","en"]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Wie schnell sind Sie da?","acceptedAnswer":{"@type":"Answer","text":"Das hängt von Standort, Verkehr und Verfügbarkeit ab. Wir geben Ihnen beim Anruf eine realistische Einschätzung statt eines festen Versprechens."}},{"@type":"Question","name":"Was kostet die Hilfe?","acceptedAnswer":{"@type":"Answer","text":"Den Preis hören Sie, bevor jemand losfährt. Kurze Einsätze in der Nähe liegen oft bei 125 Euro. Strecke, Bergung und Fahrzeugart ändern den Betrag."}},{"@type":"Question","name":"Sind Sie auch nachts und am Wochenende erreichbar?","acceptedAnswer":{"@type":"Answer","text":"Ja, per Telefon und WhatsApp sind wir rund um die Uhr erreichbar, auch nachts, am Wochenende und an Feiertagen."}},{"@type":"Question","name":"Helfen Sie auch außerhalb von Köln und Karlsruhe?","acceptedAnswer":{"@type":"Answer","text":"Ja, wir koordinieren Partner bundesweit. Sagen Sie uns Ihren Standort, dann klären wir, wie wir Ihnen helfen können."}},{"@type":"Question","name":"Wo sitzt Faster, und wer fährt zu mir?","acceptedAnswer":{"@type":"Answer","text":"Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze übernehmen Partner vor Ort, wir koordinieren die Hilfe und bleiben Ihr Ansprechpartner am Telefon."}}]}</script>
-<!-- GSC-VERIFICATION -->
 </head>
 <body>
 <header class="site-header"><div class="wrap nav">
@@ -52,7 +51,7 @@ document.addEventListener('click', function(e){
 <p class="lead">Sie stehen am Rand, das Auto geht nicht weiter. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor jemand losfährt, und setzen einen lokalen Partner in Bewegung – bundesweit, nicht nur in einer Stadt. Viele kurze Einsätze beginnen bei 125&nbsp;€.</p>
 <div class="actions"><a class="btn btn-wa" href="https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug." target="_blank" rel="noopener">WhatsApp mit Standort senden</a><a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></div>
 <ul class="proof"><li><strong>Preis vorab</strong>oft ab 125&nbsp;€, Zahl bevor jemand fährt</li><li><strong>Partner vor Ort</strong>bundesweit, nicht nur Köln</li><li><strong>Vier Sprachen</strong>Deutsch, NL, FR, EN · 24/7</li></ul>
-</div><div><img class="hero-img" src="/image600.jpg" alt="Abschleppwagen von Faster mit verladenen Fahrzeugen auf der Straße" width="1200" height="900" fetchpriority="high"></div></div></section>
+</div><div><img class="hero-img" id="heroTruck" src="/image600.jpg" alt="Abschleppwagen von Faster mit verladenen Fahrzeugen" width="1600" height="1200" fetchpriority="high"></div></div></section>
 <section class="section"><div class="wrap"><h2>Wo stehen Sie gerade?</h2><p class="sub">Regionseiten helfen beim Nachlesen. Wenn Sie jetzt Hilfe brauchen: anrufen oder WhatsApp.</p>
 <div class="regions">
 <a class="region-card" href="./koeln/"><span class="eyebrow">Region 1</span><h3>Köln & Umgebung</h3><p>Pannenhilfe und Abschleppen in Köln, mit Seiten zu den neun Stadtbezirken, dem Autobahnring und den Zubringern A1, A3, A4, A57, A59 und A555.</p><strong>Zur Kölner Seite →</strong></a>
@@ -108,6 +107,47 @@ document.addEventListener('click', function(e){
   var acc = document.getElementById('cookie-accept'); if (acc) acc.addEventListener('click', function(){ store('granted'); apply('granted'); if (banner) banner.hidden = true; });
   var dec = document.getElementById('cookie-decline'); if (dec) dec.addEventListener('click', function(){ store('denied'); apply('denied'); if (banner) banner.hidden = true; });
   window.openCookieBanner = function(e){ if (e) e.preventDefault(); if (banner) banner.hidden = false; return false; };
+})();
+</script>
+<script>
+(function(){
+  var img = document.getElementById('heroTruck');
+  if (!img) return;
+  function knock(){
+    try{
+      var c = document.createElement('canvas');
+      c.width = img.naturalWidth; c.height = img.naturalHeight;
+      var ctx = c.getContext('2d');
+      ctx.drawImage(img,0,0);
+      var data = ctx.getImageData(0,0,c.width,c.height);
+      var p = data.data, w = c.width, h = c.height, n = w*h;
+      var seen = new Uint8Array(n);
+      var q = [];
+      function isBg(i){
+        var r=p[i], g=p[i+1], b=p[i+2];
+        var mx=Math.max(r,g,b), mn=Math.min(r,g,b);
+        return mx>155 && (mx-mn)<28;
+      }
+      function push(x,y){
+        if(x<0||y<0||x>=w||y>=h) return;
+        var idx=y*w+x;
+        if(seen[idx]) return;
+        if(!isBg(idx*4)) return;
+        seen[idx]=1; q.push(idx);
+      }
+      for(var x=0;x<w;x++){ push(x,0); push(x,h-1); }
+      for(var y=0;y<h;y++){ push(0,y); push(w-1,y); }
+      while(q.length){
+        var idx=q.pop(), x=idx%w, y=(idx-x)/w;
+        p[idx*4+3]=0;
+        push(x+1,y); push(x-1,y); push(x,y+1); push(x,y-1);
+      }
+      ctx.putImageData(data,0,0);
+      img.src = c.toDataURL('image/png');
+    }catch(e){}
+  }
+  if(img.complete && img.naturalWidth) knock();
+  else img.addEventListener('load', knock, {once:true});
 })();
 </script>
 </body>
