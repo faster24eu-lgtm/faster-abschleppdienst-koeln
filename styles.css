@@ -25,11 +25,11 @@ h1{font-size:clamp(32px,5vw,56px);line-height:1.05;margin:0 0 18px;letter-spacin
 h2{font-size:clamp(24px,3.4vw,36px);line-height:1.12;margin:0 0 16px;letter-spacing:-.01em}h3{margin:0 0 8px;font-size:20px}
 .lead{font-size:19px;color:#444;max-width:640px}.sub{color:var(--muted);max-width:640px;margin:-6px 0 26px}
 .hero{position:relative;isolation:isolate;background-color:#12081c;background-image:linear-gradient(180deg,rgba(10,6,18,.28) 0%,rgba(10,6,18,.38) 100%),url("/langenhagen_emerald_20260930_015206.png");background-size:cover;background-position:center;border-bottom:1px solid rgba(255,255,255,.08);padding:64px 0;color:#f4f0f8}
-.hero .eyebrow{color:#ffb3b3}
-.hero h1{color:#fff;text-shadow:0 2px 18px rgba(0,0,0,.45)}
-.hero .lead{color:#e8e2ee}
-.hero .proof{border-top-color:rgba(255,255,255,.16);color:#d8d0dc}
-.hero .proof strong{color:#fff}
+.hero .eyebrow{color:#ffc4c4;font-weight:800}
+.hero h1{color:#fff;font-weight:800;letter-spacing:-.01em;text-shadow:0 2px 14px rgba(0,0,0,.55)}
+.hero .lead{color:#fff;font-weight:600;line-height:1.55;text-shadow:0 1px 10px rgba(0,0,0,.6)}
+.hero .proof{border-top-color:rgba(255,255,255,.16);color:#f0eaf4;font-weight:500}
+.hero .proof strong{color:#fff;font-weight:800}
 .hero-grid{display:grid;grid-template-columns:1.05fr 1fr;gap:40px;align-items:center}
 .hero-img{border:1px solid rgba(255,255,255,.12);width:100%;aspect-ratio:4/3;object-fit:cover;opacity:.82;box-shadow:0 12px 40px rgba(0,0,0,.35)}
 .hero .actions .btn{padding:16px 22px;font-size:16px;min-height:52px}
