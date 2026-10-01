@@ -80,3 +80,13 @@ details{border:1px solid var(--line);padding:16px 18px;margin:0 0 10px;backgroun
 @media(max-width:520px){.cookie-in{flex-direction:column;align-items:stretch;padding:14px 0}.cookie-banner p{max-width:none}.cookie-actions{width:100%}.cookie-btn{flex:1}}
 @media(max-width:520px){.citylist{columns:1}}
 .sticky-call{display:none!important}
+
+.land-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:8px}
+.land-btn{display:flex;align-items:center;justify-content:center;text-align:center;min-height:52px;padding:12px 10px;border:1px solid #111;background:#fff;text-decoration:none;font-weight:700;font-size:15px;color:#111}
+.land-btn:hover{background:#8b0e0e;color:#fff;border-color:#8b0e0e}
+.citylist{list-style:none;padding:0;margin:16px 0 0;display:grid;grid-template-columns:repeat(4,1fr);gap:10px;columns:unset}
+.citylist li{break-inside:auto;margin:0}
+.citylist a{display:flex;align-items:center;justify-content:center;text-align:center;min-height:48px;padding:10px 8px;border:1px solid #111;background:#fff;text-decoration:none;font-weight:700;font-size:14px;color:#111}
+.citylist a:hover{background:#8b0e0e;color:#fff;border-color:#8b0e0e}
+@media(max-width:900px){.land-grid,.citylist{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:520px){.land-grid,.citylist{grid-template-columns:1fr}}
