@@ -2,6 +2,17 @@
 <!--AREAS: Rosenheim, Kolbermoor, Bad Aibling, Stephanskirchen, Autobahndreieck Inntal -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rosenheim</p><h1>Abschleppdienst Rosenheim</h1><p class="lead">Rosenheim liegt im Inntal zwischen München, Salzburg und Innsbruck an der A8 und A93. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Rosenheim: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Rosenheim oder an A8, A93 und B15. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Rosenheim fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Rosenheim abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A8, A93, B15 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Verkehrsknoten im Inntal</h2>
 <p>Die kreisfreie Stadt Rosenheim liegt in Oberbayern im Alpenvorland am Zusammenfluss von Mangfall und Inn, auf 446 Metern Höhe, mit über 65.000 Einwohnern. Sie ist ein wichtiger Verkehrsknotenpunkt zwischen München (etwa 60 Kilometer nordwestlich), Salzburg (etwa 80 Kilometer östlich) und Innsbruck (etwa 110 Kilometer südwestlich) sowie dem Brennerpass nach Italien (etwa 130 Kilometer). Im Umkreis von etwa 25 Kilometern liegen Chiemsee und Alpen. Für Ihre Standortangabe heißt das: Wer in Richtung Berge fährt, sollte uns Ortsteil, Straße oder Anschlussstelle nennen, nicht nur „vor dem Brenner“.</p>
 <h2>A8, A93 und Dreieck Inntal</h2>
@@ -24,6 +35,9 @@
 <details><summary>Wo liegt das Dreieck Inntal?</summary><div>Nahe der Stadt, dort zweigt die Inntal-Autobahn von der A8 ab.</div></details>
 <details><summary>Wie viele Fahrstreifen hat die B15 bei Rosenheim?</summary><div>Vier zwischen Autobahn und Panorama-Kreuzung, seit dem Ausbau im Sommer 2005.</div></details>
 <details><summary>Kommen Sie auch nach Kolbermoor und Bad Aibling?</summary><div>Wir vermitteln Einsätze im gesamten Raum Rosenheim. Sagen Sie uns Ort und Straße, wir prüfen die Anfahrt mit dem Partner.</div></details>
+<details><summary>Was kostet die Hilfe in Rosenheim?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Rosenheim?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,6 +45,17 @@
 <!--AREAS: Passau, Passau-Innstadt, Passau-Hacklberg, Passau-Grubweg, Schalding, Suben -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Passau</p><h1>Abschleppdienst Passau</h1><p class="lead">Passau liegt an der Grenze zu Österreich am Zusammenfluss von Donau, Inn und Ilz, an der A3. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Passau: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Passau oder an A3, A94, B8 und B12. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Passau fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Passau abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A3, A94, B8, B12 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Dreiflüssestadt an der Grenze</h2>
 <p>Passau ist eine kreisfreie Universitätsstadt in Niederbayern mit rund 53.000 Einwohnern, die nach Landshut zweitgrößte Stadt des Regierungsbezirks. Die Altstadt liegt auf einer langgestreckten Halbinsel zwischen Donau und Inn, nördlich der Donau läuft der Bayerische Wald aus. Offizielle oder politische Stadtteile gibt es nicht, die Aufteilung in Stadtteile ist eher statistischer Natur. Nennen Sie uns bei einer Panne deshalb die Straße und den Ortsteil, etwa Hacklberg, Grubweg oder die Innstadt. Bedingt durch die wasserreichen Flüsse kommt es in den Flussniederungen häufig zu Nebel, sagen Sie uns, wenn die Sicht schlecht ist.</p>
 <h2>A3, Donaubrücke Schalding und Innkreisautobahn</h2>
@@ -55,6 +80,9 @@
 <details><summary>Wie lang ist die Donaubrücke Schalding?</summary><div>1,02 Kilometer, die längste Brücke der A3 und die längste deutsche Donaubrücke.</div></details>
 <details><summary>Welche Autobahn führt nach Österreich?</summary><div>Die A3, die dort mit der Innkreisautobahn in Richtung Wels verbunden ist.</div></details>
 <details><summary>Gibt es offizielle Stadtteile?</summary><div>Nein, die Aufteilung ist statistischer Natur.</div></details>
+<details><summary>Was kostet die Hilfe in Passau?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Passau?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -62,6 +90,17 @@
 <!--AREAS: Görlitz, Görlitz-Königshufen, Görlitz-Hagenwerder, Görlitz-Weinhübel, Zgorzelec, Ludwigsdorf -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Görlitz</p><h1>Abschleppdienst Görlitz</h1><p class="lead">Görlitz liegt an der Lausitzer Neiße an der Grenze zu Polen, am Ende der A4. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Görlitz: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Görlitz oder an A4, B6, B99 und B115. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Görlitz fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Görlitz abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A4, B6, B99, B115 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Östlichste Stadt Deutschlands</h2>
 <p>Görlitz ist die östlichste Stadt Deutschlands, Kreisstadt des Landkreises Görlitz in Sachsen und die größte Stadt der Oberlausitz. Sie liegt am westlichen Ufer der Lausitzer Neiße, die seit 1945 die Grenze zu Polen bildet. Die östlichen Stadtteile jenseits des Flusses bilden die eigenständige polnische Stadt Zgorzelec. Seit 1998 bilden beide zusammen eine Europastadt. Die historische Altstadt blieb im Zweiten Weltkrieg fast völlig verschont, mit über 4.000 Kultur- und Baudenkmalen ist Görlitz das flächengrößte zusammenhängende Denkmalgebiet Deutschlands. Nennen Sie uns bei einer Panne Ortsteil und Straße und ob Sie auf deutscher Seite stehen.</p>
 <h2>A4 und Grenzübergang Ludwigsdorf</h2>
@@ -84,6 +123,9 @@
 <details><summary>Welche Autobahn endet in Görlitz?</summary><div>Die A4 von Erfurt über Dresden, die dahinter als polnische A4 weiterführt.</div></details>
 <details><summary>Wie lang ist das Straßennetz in Görlitz?</summary><div>Rund 217 Kilometer, davon 3,7 Kilometer Autobahn.</div></details>
 <details><summary>Kommen Sie auch nach Zgorzelec?</summary><div>Das ist eine Frage des Einzelfalls. Nennen Sie uns Ort und Straße, dann klären wir, ob eine Anfahrt möglich ist.</div></details>
+<details><summary>Was kostet die Hilfe in Görlitz?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Görlitz?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -91,6 +133,17 @@
 <!--AREAS: Greifswald, Greifswald-Eldena, Greifswald-Schönwalde, Wieck, Ostseeviertel, Jarmen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Greifswald</p><h1>Abschleppdienst Greifswald</h1><p class="lead">Greifswald liegt in Vorpommern, südwestlich der Stadt verläuft die A20. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Greifswald: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Greifswald oder an A20, B105 und B109. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Greifswald fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Greifswald abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A20, B105, B109 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Hansestadt in Vorpommern</h2>
 <p>Greifswald ist eine Hansestadt in Mecklenburg-Vorpommern an der Ostsee und Universitätsstadt. Für Reisende ist sie Ausgangspunkt zu den Inseln: Von Greifswald aus kommt man mit dem Pkw in etwa 30 Minuten zur Insel Usedom oder zur Insel Rügen. Wenn Ihr Fahrzeug bei einem Ausflug ausfällt, nennen Sie uns Straße, Ortsteil und Fahrtrichtung.</p>
 <h2>A20 und Bundesstraßen</h2>
@@ -115,6 +168,9 @@
 <details><summary>Welche Bundesstraßen führen durch die Stadt?</summary><div>Die B105 und die B109.</div></details>
 <details><summary>Wie weit ist es nach Usedom oder Rügen?</summary><div>Mit dem Pkw etwa 30 Minuten.</div></details>
 <details><summary>Kommen Sie auch nach Wieck?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet die Hilfe in Greifswald?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Greifswald?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -122,6 +178,17 @@
 <!--AREAS: Stralsund, Stralsund-Grünhufe, Stralsund-Knieper, Dänholm, Altefähr, Rügen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stralsund</p><h1>Abschleppdienst Stralsund</h1><p class="lead">Stralsund liegt am Strelasund und gilt als Tor zur Insel Rügen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Stralsund: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Stralsund oder an A20, B96, B105 und B194. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Stralsund fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Stralsund abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A20, B96, B105, B194 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Altstadtinsel am Strelasund</h2>
 <p>Stralsund ist die Kreisstadt des Landkreises Vorpommern-Rügen und wird wegen ihrer Lage am Strelasund, einer Meerenge der Ostsee zwischen Festland und der Insel Rügen, „Tor zur Insel Rügen“ genannt. Die Altstadt gehört seit 2002 zusammen mit Wismar zum UNESCO-Weltkulturerbe. Sie ist vom Strelasund und den drei Stadtteichen Knieperteich, Frankenteich und Moorteich umgeben und liegt dadurch nahezu rundum von Wasser begrenzt als Altstadtinsel. Für Ihre Standortangabe heißt das: Zufahrten zur Altstadt laufen über wenige Dämme und Brücken, nennen Sie uns Straße und Zufahrt.</p>
 <h2>Rügenbrücke und Rügendamm</h2>
@@ -142,6 +209,9 @@
 <details><summary>Welche Bundesstraßen führen nach Stralsund?</summary><div>B105, B194 und B96.</div></details>
 <details><summary>Warum ist die Altstadt eine Insel?</summary><div>Sie ist vom Strelasund und drei Stadtteichen fast rundum von Wasser umgeben.</div></details>
 <details><summary>Kommen Sie auch nach Altefähr?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet die Hilfe in Stralsund?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Stralsund?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -149,6 +219,17 @@
 <!--AREAS: Celle, Celle-Altencelle, Celle-Garßen, Celle-Groß Hehlen, Celle-Vorwerk, Celle-Wietzenbruch -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Celle</p><h1>Abschleppdienst Celle</h1><p class="lead">Celle liegt im Urstromtal der Aller, das Netz der Bundesstraßen führt in alle Richtungen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Celle: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Celle oder an A7, B3, B214 und B191. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Celle fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Celle abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A7, B3, B214, B191 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Südliches Tor zur Lüneburger Heide</h2>
 <p>Celle ist eine große selbständige Stadt in Niedersachsen mit 66.930 Einwohnern (31. Dezember 2025) und Kreisstadt des Landkreises Celle. Sie gilt als südliches Tor zur Lüneburger Heide und hat eine Altstadt mit über 400 Fachwerkhäusern und ein Renaissance- und Barockschloss. Celle liegt im Urstromtal der Aller, zur Landeshauptstadt Hannover sind es rund 40 Kilometer, Braunschweig liegt 55 Kilometer südöstlich, nach Hamburg sind es 120 Kilometer. Nach Lüneburg ist Celle die zweitgrößte Stadt zwischen Hannover und Hamburg. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-hannover.html">Abschleppdienst Hannover</a> und <a href="stadt-lueneburg.html">Abschleppdienst Lüneburg</a>.</p>
 <h2>B3, B214 und B191</h2>
@@ -171,6 +252,9 @@
 <details><summary>Welche Bundesstraßen führen nach Celle?</summary><div>B3, B214 und B191.</div></details>
 <details><summary>Wie erreiche ich die A7 von Celle?</summary><div>Über Landesstraßen, zum Beispiel die L310 nach Mellendorf oder die L180 zur Raststätte Allertal.</div></details>
 <details><summary>Wie weit ist es nach Hannover?</summary><div>Rund 40 Kilometer.</div></details>
+<details><summary>Was kostet die Hilfe in Celle?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Celle?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -178,6 +262,17 @@
 <!--AREAS: Gießen, Gießen-Wieseck, Gießen-Kleinlinden, Gießen-Lützellinden, Wettenberg, Lich -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gießen</p><h1>Abschleppdienst Gießen</h1><p class="lead">Gießen liegt in Mittelhessen an einem Teil-Autobahnnetz, dem Gießener Ring, zwischen A5 und A45. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Gießen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Gießen oder an A5, A45, A485 und B49. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Gießen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Gießen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A5, A45, A485, B49 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Verwaltungszentrum Mittelhessens</h2>
 <p>Gießen ist eine Universitätsstadt im gleichnamigen Landkreis in Mittelhessen mit 88.544 Einwohnern (31. Dezember 2025), die siebtgrößte Stadt des Landes Hessen und eine der sechs Sonderstatusstädte des Landes. Als Sitz des Regierungsbezirks Gießen und des Landkreises ist sie Verwaltungszentrum Mittelhessens und bedeutender Verkehrsknotenpunkt. Mit dem zwölf Kilometer westlich gelegenen Wetzlar bildet sie einen Agglomerationsraum mit etwa 200.000 Einwohnern. Marburg liegt 30 Kilometer nördlich, Fulda 80 Kilometer östlich, Frankfurt 65 Kilometer südlich. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
 <h2>Gießener Ring: A480, A485, B429, B49</h2>
@@ -200,5 +295,8 @@
 <details><summary>Welche Autobahnen führen bei Gießen vorbei?</summary><div>Die A5 von Frankfurt nach Kassel und die A45 von Dortmund nach Aschaffenburg.</div></details>
 <details><summary>Welche Straße ersetzte die B3?</summary><div>Im Gießener Raum ersetzt die A485 die frühere B3.</div></details>
 <details><summary>Wie weit ist Wetzlar entfernt?</summary><div>Zwölf Kilometer westlich, beide Städte bilden einen Agglomerationsraum.</div></details>
+<details><summary>Was kostet die Hilfe in Gießen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Gießen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

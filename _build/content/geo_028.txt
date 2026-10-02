@@ -2,6 +2,17 @@
 <!--AREAS: Kaiserslautern, Kaiserslautern-Morlautern, Kaiserslautern-Erfenbach, Ramstein-Miesenbach, Landstuhl -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kaiserslautern</p><h1>Abschleppdienst Kaiserslautern</h1><p class="lead">Kaiserslautern liegt am nordwestlichen Rand des Pfälzerwalds an der A6. Westlich der Stadt hat die Autobahn abschnittsweise keinen Standstreifen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Kaiserslautern: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Kaiserslautern oder an A6 und A62. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Kaiserslautern fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Kaiserslautern abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A6, A62 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Stadt am Pfälzerwald</h2>
 <p>Kaiserslautern ist eine kreisfreie Großstadt, Industrie- und Universitätsstadt am nordwestlichen Rand des Pfälzerwalds im Süden von Rheinland-Pfalz und Sitz der Kreisverwaltung des Landkreises Kaiserslautern. Mit der Eingemeindung der umliegenden Ortschaften am 7. Juni 1969 erhielten die neuen Ortsteile einen Ortsbeirat und einen Ortsvorsteher. Nennen Sie uns bei einer Panne Ortsbezirk und Straße, zum Beispiel Morlautern oder Erfenbach, denn "Kaiserslautern" allein sagt bei so vielen eingemeindeten Orten wenig.</p>
 <h2>A6: Ramstein-Miesenbach und die Kasernen</h2>
@@ -24,6 +35,9 @@
 <details><summary>Gibt es Abschnitte ohne Standstreifen?</summary><div>Hinter der Anschlussstelle Ramstein-Miesenbach hat die A6 sechs Fahrstreifen, größtenteils ohne Standstreifen.</div></details>
 <details><summary>Wo liegt der höchste Punkt der A6 zwischen Saarbrücken und Mannheim?</summary><div>Am Berg Platte im Pfälzerwald mit über 420 Metern über NHN.</div></details>
 <details><summary>Kommen Sie auch nach Ramstein oder Landstuhl?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet die Hilfe in Kaiserslautern?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Kaiserslautern?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -62,12 +76,21 @@
 <!--AREAS: Flensburg, Flensburg-Mürwik, Flensburg-Jürgensby, Flensburg-Weiche, Harrislee -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Flensburg</p><h1>Abschleppdienst Flensburg</h1><p class="lead">Flensburg liegt an der Förde im Norden Schleswig-Holsteins, kurz vor der dänischen Grenze. Die A7 verläuft westlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Flensburg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Flensburg oder an A7, B199 und B200. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Flensburg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Flensburg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A7, B199, B200 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Mittelstadt an der Förde</h2>
 <p>Flensburg ist eine große kreisfreie Mittelstadt im Norden Schleswig-Holsteins. Sie ist in 13 Stadtteile untergliedert, die sich in 38 statistische Bezirke unterteilen. Die Grenzen der Stadtteile und Bezirke folgen nur näherungsweise den historischen Ortsteilen. Gegenüber dem Stadtzentrum betreiben Vereine seit 1979 den Museumshafen mit historischen Berufsseglern, ständiger Gast ist der 1931 erbaute Haikutter Dagmar Aaen. Nennen Sie uns bei einer Panne den Stadtteil und die Straße, zum Beispiel Mürwik, Jürgensby oder Weiche.</p>
 <h2>A7 und Westtangente</h2>
 <p>Die A7 aus Richtung Hamburg verläuft westlich der Stadt und wird in Dänemark als Europastraße 45 weitergeführt. Ferner führen die Bundesstraßen B199 und B200 (Westtangente) durch das Stadtgebiet. Wenn Sie auf der A7 liegen bleiben, nennen Sie uns Richtung und Anschlussstelle, mehr zur Strecke auf der Seite <a href="autobahn-a7.html">Panne auf der A7</a>. Auf der B200 als Westtangente sagen Sie uns Querstraße und Fahrtrichtung.</p>
-<h2>Förde und Museumshafen</h2>
-<p>Am Ufer der Flensburger Förde liegen Häfen, Werften und der Museumshafen. Parkplätze am Hafen haben oft keine Hausnummern. Nennen Sie uns dann Kai, Parkplatz oder Straße.</p>
 <h2>Nähe zu Dänemark</h2>
 <p>Die dänische Grenze ist nur wenige Kilometer entfernt. Wenn Ihr Fahrzeug auf dänischer Seite liegen bleibt, sagen Sie uns das gleich: Unsere Einsätze betreffen Deutschland. Auf deutscher Seite hilft uns Ihr genauer Standort. Hinweise zur Panne im Grenzgebiet finden Sie im <a href="ratgeber-panne-kehl-strassburg.html">Ratgeber</a>.</p>
 <h2>13 Stadtteile und Vororte an der Grenze</h2>
@@ -86,6 +109,9 @@
 <details><summary>Wo verläuft die A7?</summary><div>Westlich der Stadt. Sie wird in Dänemark als Europastraße 45 weitergeführt.</div></details>
 <details><summary>Was ist die Westtangente?</summary><div>Die B200, die als Westtangente durch das Stadtgebiet führt.</div></details>
 <details><summary>Kommen Sie auch nach Dänemark?</summary><div>Unsere Einsätze betreffen Deutschland. Für Fahrzeuge im Ausland gelten andere Regeln.</div></details>
+<details><summary>Was kostet die Hilfe in Flensburg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Flensburg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -93,6 +119,17 @@
 <!--AREAS: Jena, Jena-Lobeda, Jena-Winzerla, Jena-Burgau, Jena-Wenigenjena -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Jena</p><h1>Abschleppdienst Jena</h1><p class="lead">Jena liegt im Saaletal, mit Tunneln und Talbrücken der A4 im Süden. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Jena: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Jena oder an A4. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Jena fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Jena abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A4 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Universitätsstadt an der Saale</h2>
 <p>Jena ist eine Universitätsstadt und kreisfreie Großstadt in Thüringen in der Metropolregion Mitteldeutschland. Sie liegt an der Saale zwischen Muschelkalkhängen der Ilm-Saale-Platte. Die Verwaltung ist in 30 Ortsteile unterteilt, meist räumlich getrennte, früher selbstständige Orte. Nennen Sie uns bei einer Panne den Ortsteil und die Straße, zum Beispiel Lobeda, Winzerla, Burgau oder Wenigenjena, und ob Sie an einem Hang stehen.</p>
 <h2>A4: Jagdbergtunnel und Lobdeburgtunnel</h2>
@@ -121,6 +158,9 @@
 <details><summary>Können Sie mein Auto von Jena zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Jena liegt oder etwa in Erfurt oder Halle.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Jena?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Ich stehe auf einer Saalebrücke. Was sage ich?</summary><div>Den Namen der Brücke und Ihre Fahrtrichtung. Ein Standort per WhatsApp hilft zusätzlich.</div></details>
+<details><summary>Was kostet die Hilfe in Jena?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Jena?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -128,6 +168,17 @@
 <!--AREAS: Siegen, Siegen-Geisweid, Siegen-Weidenau, Siegen-Eiserfeld, Kreuztal -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Siegen</p><h1>Abschleppdienst Siegen</h1><p class="lead">Siegen liegt im Siegerland zwischen Bergen und Tälern, an der A45 mit der Siegtalbrücke. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Siegen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Siegen oder an A45, B54 und A4. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Siegen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Siegen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A45, B54, A4 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Universitätsstadt in Westfalen</h2>
 <p>Siegen ist eine Großstadt und Universitätsstadt in Nordrhein-Westfalen im Landesteil Westfalen. Das Stadtgebiet ist in sechs Bezirke eingeteilt, die aus mehreren Orts- beziehungsweise Stadtteilen bestehen. Auf Höhe von Siegen steht mit der 106 Meter hohen Siegtalbrücke eine der höchsten Brücken entlang der A45. Nennen Sie uns bei einer Panne Ortsteil und Straße, denn "Siegen" ist bei sechs Bezirken zu allgemein.</p>
 <h2>A45 mit der Siegtalbrücke</h2>
@@ -156,5 +207,8 @@
 <details><summary>Ich stehe an einer steilen Straße. Was tun?</summary><div>Fahrzeug sichern, Warnblinker an und uns sagen, ob Sie bergauf oder bergab stehen.</div></details>
 <details><summary>Können Sie mein Auto von Siegen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Siegen liegt oder etwa in Hagen oder Koblenz.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Siegen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Siegen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Siegen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

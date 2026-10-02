@@ -2,6 +2,17 @@
 <!--AREAS: Lüdenscheid, Brügge, Volmetal, Rahmedetal, Versetal, Nordtangente, Sauerfeld, Wilhelmstraße -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lüdenscheid</p><h1>Abschleppdienst Lüdenscheid</h1><p class="lead">Lüdenscheid liegt als Bergstadt im nordwestlichen Sauerland, die A45 führt im Halbkreis östlich um die Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Lüdenscheid: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Lüdenscheid oder an A45, B54 und B229. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Lüdenscheid fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Lüdenscheid abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A45, B54, B229 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Bergstadt in der Lüdenscheider Mulde</h2>
 <p>Lüdenscheid ist Kreisstadt des Märkischen Kreises und zählt 70.810 Einwohner (31. Dezember 2025). Die Stadt liegt im nordwestlichen Sauerland auf 232 bis 539 Metern Höhe in der Lüdenscheider Mulde mit dem Kernbereich in der Quellmulde der Rahmede. Als Bergstadt wirkt sie, wenn man sich aus den umliegenden Tälern nähert, etwa aus dem Rahmedetal Richtung Altena, dem Versetal Richtung Werdohl oder dem Volmetal bei Brügge. Bei einer Panne in einem Tal oder an einem Anstieg sagen Sie uns, ob Sie bergauf oder bergab stehen. Das Straßennetz besteht laut Quelle aus 13,9 Kilometern Autobahn, 20,3 Kilometern Bundesstraßen, 62,4 Kilometern Landstraßen und 265,2 Kilometern Gemeindestraßen. Mehr auf <a href="stadt-hagen.html">Abschleppdienst Hagen</a>, <a href="stadt-iserlohn.html">Abschleppdienst Iserlohn</a> und <a href="stadt-arnsberg.html">Abschleppdienst Arnsberg</a>.</p>
 <h2>A45, B54 und B229</h2>
@@ -22,6 +33,9 @@
 <details><summary>Wo verläuft die A45?</summary><div>Im Osten im Halbkreis um die Stadt.</div></details>
 <details><summary>Welche Tunnel gibt es?</summary><div>Den Rathaus-Tunnel und den Oberstadt-Tunnel für den Durchgangsverkehr.</div></details>
 <details><summary>Was ist die Nordtangente?</summary><div>Eine in den 1980er Jahren gebaute Umgehung, die mit anderen Straßen und B54/B229 einen Ring um die Kernstadt bildet.</div></details>
+<details><summary>Was kostet die Hilfe in Lüdenscheid?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Lüdenscheid?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -29,6 +43,17 @@
 <!--AREAS: Coburg, Ketschendorf, Cortendorf, Creidlitz, Scheuerfeld, Neuses, Bertelsdorf, Itz, Veste Coburg -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Coburg</p><h1>Abschleppdienst Coburg</h1><p class="lead">Coburg liegt im Norden der Metropolregion Nürnberg unweit der thüringischen Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Coburg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Coburg oder an A73, B4, B303 und A71. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Coburg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Coburg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A73, B4, B303, A71 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Residenzstadt im Itztal</h2>
 <p>Coburg ist eine kreisfreie Mittelstadt in Oberfranken und war vom 16./17. Jahrhundert bis 1918 Residenzstadt der Herzöge von Sachsen-Coburg. Sie liegt zwischen dem südlichen Vorland des Thüringer Waldes, den Langen Bergen und dem Maintal und wird von der Itz durchflossen, in die bei der Heiligkreuzkirche die Lauter mündet. Coburg besteht aus der Kernstadt und zwölf weiteren Stadtteilen, zwei Drittel der Bevölkerung wohnen in der Kernstadt im Itztal, die äußeren Stadtteile Rögen sowie Neu- und Neershof haben noch einen stark dörflichen Charakter. Die Veste Coburg erhebt sich 170 Meter über der Stadt. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-bamberg.html">Abschleppdienst Bamberg</a>, <a href="stadt-bayreuth.html">Abschleppdienst Bayreuth</a> und <a href="stadt-schweinfurt.html">Abschleppdienst Schweinfurt</a>.</p>
 <h2>A73, B4 und B303</h2>
@@ -51,6 +76,9 @@
 <details><summary>Welche Bundesstraßen gibt es?</summary><div>B4 als Nord-Süd-Achse durch die Stadt, B303 als West-Ost-Achse am Stadtkern.</div></details>
 <details><summary>Wie viele Brücken führen über die Itz?</summary><div>20 im Stadtgebiet.</div></details>
 <details><summary>Wie viele Stadtteile hat Coburg?</summary><div>Die Kernstadt und zwölf weitere Stadtteile.</div></details>
+<details><summary>Was kostet die Hilfe in Coburg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Coburg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -58,6 +86,17 @@
 <!--AREAS: Freising, Weihenstephan, Lerchenfeld, Attaching, Vötting, Achering, Freisinger Moos, Flughafen München -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Freising</p><h1>Abschleppdienst Freising</h1><p class="lead">Freising liegt an der Isar etwa 30 Kilometer nördlich von München, die A92 durchquert den Süden. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Freising: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Freising oder an A92, B301, A9 und B11. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Freising fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Freising abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A92, B301, A9, B11 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Universitätsstadt am Flughafen</h2>
 <p>Freising ist Große Kreisstadt und Universitätsstadt in Oberbayern und Oberzentrum in der Region München. Rund um das ehemalige Kloster Weihenstephan liegen das Wissenschaftszentrum der Technischen Universität München und die Hochschule Weihenstephan-Triesdorf. Die Bevölkerungszahl stieg von etwa 38.500 im Jahr 1991 auf etwa 50.000 im Jahr 2016, auch wegen des 1992 unmittelbar vor der Stadt eröffneten Flughafens München und des Wissenschaftszentrums. Freising ist nach München die zweitgrößte Stadt der Planungsregion München. Zum Stadtgebiet gehören unter anderem Lerchenfeld, Attaching, Vötting und Achering. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-ingolstadt.html">Abschleppdienst Ingolstadt</a> und <a href="stadt-landshut.html">Abschleppdienst Landshut</a>.</p>
 <h2>A92, A9 und die Bundesstraße B301</h2>
@@ -80,6 +119,9 @@
 <details><summary>Welche Anschlussstellen hat die A92 in Freising?</summary><div>Freising Süd, Freising Mitte und Freising Ost.</div></details>
 <details><summary>Welche Isarbrücke nimmt den meisten Verkehr auf?</summary><div>Die Luitpoldbrücke, die Korbinianbrücke ist nur für Busse, Fußgänger und Radfahrer frei.</div></details>
 <details><summary>Wohin führt die B301?</summary><div>Durch die Hallertau nach Abensberg.</div></details>
+<details><summary>Was kostet die Hilfe in Freising?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Freising?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -87,6 +129,17 @@
 <!--AREAS: Dachau, Dachau-Ost, Dachau-Süd, Dachauer Moos, Amper, Prittlbach, Mitterndorf, Karlsfeld -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dachau</p><h1>Abschleppdienst Dachau</h1><p class="lead">Dachau liegt an der Amper nordwestlich von München, am Südrand verläuft die B471. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Dachau: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Dachau oder an B304, B471, A8 und A92. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Dachau fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Dachau abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B304, B471, A8, A92 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Stadt an der Amper zwischen Moos und Hügelland</h2>
 <p>Dachau ist Große Kreisstadt im gleichnamigen oberbayerischen Landkreis und liegt nordwestlich von München in der Metropolregion München. Die Stadt liegt an der Amper an der Nahtstelle zwischen der Münchner Schotterebene mit dem Dachauer Moos und dem nördlich angrenzenden tertiären Donau-Isar-Hügelland. Die Amper strömt von Westen kommend südlich der Altstadt vorbei, ändert ihren Lauf ab der ehemaligen Papierfabrik Richtung Nordost und tritt bei Prittlbach kurz hinter der Würmmühle in die Gemeinde Hebertshausen über. Zahlreiche Bäche wie Prittlbach, Webelsbach, Ascherbach und Gröbenbach münden in die Amper. Die Würm durchquert von Karlsfeld kommend Dachau-Ost und streift die KZ-Gedenkstätte. Nennen Sie uns bei einer Panne Stadtteil, Straße und ob Sie in der Altstadt am Hügel oder in der Ebene stehen. Mehr auf <a href="stadt-augsburg.html">Abschleppdienst Augsburg</a> und <a href="stadt-ingolstadt.html">Abschleppdienst Ingolstadt</a>.</p>
 <h2>B304, B471, A8 und A92</h2>
@@ -107,6 +160,9 @@
 <details><summary>Wie komme ich zur A92?</summary><div>Über die B471 nach Osten Richtung Flughafen München und Deggendorf.</div></details>
 <details><summary>Wohin führt die B304?</summary><div>Im Süden der Stadt nach München.</div></details>
 <details><summary>An welchem Fluss liegt Dachau?</summary><div>An der Amper.</div></details>
+<details><summary>Was kostet die Hilfe in Dachau?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Dachau?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -114,6 +170,17 @@
 <!--AREAS: Detmold, Hiddesen, Hermannsdenkmal, Teutoburger Wald, Osning, Lippe, Externsteine -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Detmold</p><h1>Abschleppdienst Detmold</h1><p class="lead">Detmold liegt am Teutoburger Wald in Ostwestfalen-Lippe, die nächste Autobahnanschlussstelle ist etwa 22 Kilometer entfernt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Detmold: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Detmold oder an B239, B238, A2 und A44. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Detmold fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Detmold abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B239, B238, A2, A44 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Größte Stadt im Kreis Lippe</h2>
 <p>Detmold hat 74.438 Einwohner (31. Dezember 2025) und ist die größte Stadt im Kreis Lippe. Sie liegt im Zentrum der Region Ostwestfalen-Lippe am Rande des Naturparks Teutoburger Wald/Eggegebirge, der Süden des Stadtgebiets wird vom Teutoburger Wald bedeckt, die eigentliche Stadt liegt nördlich davon. Von 1468 bis 1918 war Detmold Residenzstadt der Herren, Grafen und Fürsten zur Lippe. Nach der Hauptsatzung gliedert sich die Stadt in 27 Ortsteile. Das Hermannsdenkmal, die höchste Statue Deutschlands, steht im Teutoburger Wald bei Detmold-Hiddesen. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a>, <a href="stadt-paderborn.html">Abschleppdienst Paderborn</a> und <a href="stadt-herford.html">Abschleppdienst Herford</a>.</p>
 <h2>Keine Autobahn und keine vierspurige Straße</h2>
@@ -134,6 +201,9 @@
 <details><summary>Welche Bundesstraßen gibt es?</summary><div>Die B239 verläuft durch die Stadt, sie ist Ausgangspunkt der B238.</div></details>
 <details><summary>Wie viele Ortsteile hat Detmold?</summary><div>27 nach der Hauptsatzung.</div></details>
 <details><summary>Wo steht das Hermannsdenkmal?</summary><div>Im Teutoburger Wald bei Detmold-Hiddesen.</div></details>
+<details><summary>Was kostet die Hilfe in Detmold?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Detmold?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -141,6 +211,17 @@
 <!--AREAS: Bad Salzuflen, Schötmar, Werl-Aspe, Wüsten, Lockhausen, Salze, Bega, Werre, Kurpark -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bad Salzuflen</p><h1>Abschleppdienst Bad Salzuflen</h1><p class="lead">Bad Salzuflen liegt im Kreis Lippe direkt an der A2. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Bad Salzuflen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Bad Salzuflen oder an A2 und B239. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Bad Salzuflen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Bad Salzuflen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A2, B239 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Thermal-Heilbad mit zwölf Ortsteilen</h2>
 <p>Bad Salzuflen ist ein Thermal-Heilbad im Kreis Lippe, seit 2015 gilt die Stadt als „allergikerfreundliche Kommune“ und seit Juni 2024 ist das Staatsbad als Kneippheilbad zertifiziert. Sie liegt am östlichen Rand der Ravensberger Mulde am Zusammenfluss von Salze und Bega mit der Werre, dörflich geprägte Ortsteile umgeben die Kernstadt. Die Stadt gliedert sich in zwölf Ortsteile, darunter Lockhausen, Schötmar, Werl-Aspe und Wüsten. Die bevölkerungsreichsten sind Bad Salzuflen selbst mit etwa 19.500 Einwohnern, Schötmar mit 8.700, Werl-Aspe mit 7.400 und Wüsten mit 3.800 (Stand 31. Dezember 2013). Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-herford.html">Abschleppdienst Herford</a>, <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a> und <a href="stadt-detmold.html">Abschleppdienst Detmold</a>.</p>
 <h2>A2 und B239</h2>
@@ -163,6 +244,9 @@
 <details><summary>Was ist die B239 hier?</summary><div>Die Umgehungsstraße östlich um die Innenstadt, sie verbindet Bad Salzuflen mit Herford und Lage.</div></details>
 <details><summary>Wie viele Ortsteile hat Bad Salzuflen?</summary><div>Zwölf.</div></details>
 <details><summary>Seit wann ist Salzuflen Kneippheilbad?</summary><div>Seit Juni 2024 ist das Staatsbad als Kneippheilbad zertifiziert.</div></details>
+<details><summary>Was kostet die Hilfe in Bad Salzuflen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Bad Salzuflen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -170,6 +254,17 @@
 <!--AREAS: Amberg, Amberg-West, Amberg-Süd, Amberg-Ost, Vils, Stadtbrille, Bayerische Eisenstraße, Waidhaus -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Amberg</p><h1>Abschleppdienst Amberg</h1><p class="lead">Amberg liegt an der Vils in der mittleren Oberpfalz an der A6. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Amberg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Amberg oder an A6, B85 und B299. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Amberg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Amberg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A6, B85, B299 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Oberzentrum der mittleren Oberpfalz</h2>
 <p>Amberg ist eine kreisfreie Stadt im Regierungsbezirk Oberpfalz in Ostbayern und gehört zur Metropolregion Nürnberg. Sie liegt an der Bayerischen Eisenstraße und rund 55 Kilometer östlich von Nürnberg und 50 Kilometer nördlich von Regensburg an der Vils. Die Hochschulstadt ist Oberzentrum der mittleren Oberpfalz. Die Altstadt ist von einer fast vollständig erhaltenen mittelalterlichen Ringmauer mit vier Toren umgeben: Nabburger Tor, Ziegeltor, Vilstor und Wingershofer Tor. Eine Besonderheit ist die Stadtbrille, ein fünftes Tor über die Vils, dessen Mauer den Fluss in zwei Bögen überspannt. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-nuernberg.html">Abschleppdienst Nürnberg</a>, <a href="stadt-regensburg.html">Abschleppdienst Regensburg</a> und <a href="stadt-weiden.html">Abschleppdienst Weiden</a>.</p>
 <h2>A6 mit drei Anschlussstellen</h2>
@@ -192,6 +287,9 @@
 <details><summary>Welche Bundesstraßen führen durch Amberg?</summary><div>B85 und B299.</div></details>
 <details><summary>Wie weit ist Nürnberg?</summary><div>Rund 55 Kilometer westlich.</div></details>
 <details><summary>Was ist die Stadtbrille?</summary><div>Ein fünftes Tor über die Vils, dessen Stadtmauer den Fluss in zwei Bögen überspannt.</div></details>
+<details><summary>Was kostet die Hilfe in Amberg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Amberg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -199,6 +297,17 @@
 <!--AREAS: Weiden in der Oberpfalz, Muglhof, Rothenstadt, Ullersricht, Waldnaab, Oberpfälzer Wald -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Weiden in der Oberpfalz</p><h1>Abschleppdienst Weiden i. d. OPf.</h1><p class="lead">Weiden liegt 100 Kilometer östlich von Nürnberg an der Waldnaab, die A93 verbindet Hof und Regensburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Weiden i. d. OPf.: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Weiden i. d. OPf. oder an A93, B22, B470 und B15. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Weiden i. d. OPf. fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Weiden i. d. OPf. abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A93, B22, B470, B15 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisfreie Stadt am Oberpfälzer Wald</h2>
 <p>Weiden in der Oberpfalz ist eine kreisfreie Stadt im ostbayerischen Regierungsbezirk Oberpfalz, 100 Kilometer östlich von Nürnberg und 35 Kilometer westlich der tschechischen Grenze am Fluss Waldnaab und am Westrand des Oberpfälzer Waldes. Mit rund 43.000 Einwohnern ist sie nach Regensburg und Amberg die drittgrößte Stadt der Oberpfalz. Sie liegt an der Schnittstelle von Oberpfälzer Hügelland und Vorderem Oberpfälzer Wald, im Stadtgebiet liegen weitläufige Waldgebiete. Es gibt 15 Stadtteile, die in insgesamt 83 statistische Bezirke untergliedert sind, dazu gehören durch Eingemeindungen unter anderem Muglhof (mit Matzlesrieth, Mitterhöll, Unterhöll, Oedenthal und Trauschendorf) und Rothenstadt (mit Maierhof, Mallersricht, Neubau und Ullersricht, seit 1978). Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-amberg.html">Abschleppdienst Amberg</a>, <a href="stadt-bayreuth.html">Abschleppdienst Bayreuth</a> und <a href="stadt-hof.html">Abschleppdienst Hof</a>.</p>
 <h2>A93, B22 und B470</h2>
@@ -219,5 +328,8 @@
 <details><summary>Was ist mit der B15?</summary><div>Sie war vor dem Autobahnbau die Hauptverbindung nach Regensburg und ist heute als Staatsstraße 2657 durch die Stadt herabgestuft.</div></details>
 <details><summary>Welche Bundesstraßen führen nach Weiden?</summary><div>B22 und B470.</div></details>
 <details><summary>Wie viele Stadtteile hat Weiden?</summary><div>15 Stadtteile mit 83 statistischen Bezirken.</div></details>
+<details><summary>Was kostet die Hilfe in Weiden i. d. OPf.?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Weiden i. d. OPf.?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

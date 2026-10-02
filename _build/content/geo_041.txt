@@ -2,6 +2,17 @@
 <!--AREAS: Delmenhorst, Delmenhorst-Deichhorst, Delmenhorst-Stickgras, Delmenhorst-Düsternort, Stuhr, Bremen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Delmenhorst</p><h1>Abschleppdienst Delmenhorst</h1><p class="lead">Delmenhorst liegt im Oldenburger Land zwischen Oldenburg und Bremen an der A28. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Delmenhorst: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Delmenhorst oder an A28, B75, B213 und A1. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Delmenhorst fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Delmenhorst abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A28, B75, B213, A1 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisfreie Stadt im Oldenburger Land</h2>
 <p>Delmenhorst ist eine kreisfreie Stadt im Oldenburger Land in Niedersachsen, zwischen Oldenburg und Bremen. Zu statistischen Zwecken ist sie in zehn Stadtbezirke gegliedert. Nennen Sie uns bei einer Panne Stadtbezirk und Straße. Die Lange Straße ist als Fußgängerzone die Haupteinkaufsstraße, eine wichtige Durchgangsstraße in Mitte ist die Bismarckstraße.</p>
 <h2>A28 und Dreieck Delmenhorst</h2>
@@ -30,6 +41,9 @@
 <details><summary>Können Sie mein Auto von Delmenhorst zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Delmenhorst liegt oder etwa in Bremen oder Oldenburg.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Delmenhorst?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Wohin führt die B213?</summary><div>Von Delmenhorst-Deichhorst ins südliche Umland und bei Wildeshausen an die A1.</div></details>
+<details><summary>Was kostet die Hilfe in Delmenhorst?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Delmenhorst?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -37,6 +51,17 @@
 <!--AREAS: Neubrandenburg, Neubrandenburg-Datzeberg, Neubrandenburg-Oststadt, Neubrandenburg-Reitbahnviertel, Trollenhagen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neubrandenburg</p><h1>Abschleppdienst Neubrandenburg</h1><p class="lead">Neubrandenburg liegt in der Mecklenburgischen Seenplatte, die A20 verläuft östlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Neubrandenburg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Neubrandenburg oder an A20, B96, B104 und B192. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Neubrandenburg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Neubrandenburg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A20, B96, B104, B192 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Drittgrößte Stadt Mecklenburg-Vorpommerns</h2>
 <p>Neubrandenburg ist die Kreisstadt des Landkreises Mecklenburgische Seenplatte in Mecklenburg-Vorpommern, die drittgrößte Stadt des Landes und eines der vier Oberzentren. Das Datzeviertel mit dem Datzeberg liegt auf einem Hügel nördlich der Innenstadt und ist nach einem kleinen Flüsschen benannt. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-rostock.html">Abschleppdienst Rostock</a> und <a href="stadt-schwerin.html">Abschleppdienst Schwerin</a>.</p>
 <h2>A20 östlich der Stadt</h2>
@@ -61,6 +86,9 @@
 <details><summary>Was ist der Friedrich-Engels-Ring?</summary><div>Ein etwa vier Kilometer langer Kreisverkehr um die Innenstadt, auf dem B96 und B104 verlaufen.</div></details>
 <details><summary>Wohin führt die B192?</summary><div>Von Neubrandenburg im Westen der Stadt nach Wismar.</div></details>
 <details><summary>Wo liegt der Flughafen?</summary><div>An der nördlichen Stadtgrenze in der Nachbargemeinde Trollenhagen.</div></details>
+<details><summary>Was kostet die Hilfe in Neubrandenburg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Neubrandenburg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -68,6 +96,17 @@
 <!--AREAS: Dessau-Roßlau, Dessau, Roßlau, Vockerode, Coswig, Elbe -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dessau-Roßlau</p><h1>Abschleppdienst Dessau-Roßlau</h1><p class="lead">Dessau-Roßlau liegt in Sachsen-Anhalt beiderseits der Elbe an der A9. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Dessau-Roßlau: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Dessau-Roßlau oder an A9, B184, B185 und B187. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Dessau-Roßlau fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Dessau-Roßlau abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A9, B184, B185, B187 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Zwei Städte, eine Stadt</h2>
 <p>Dessau-Roßlau ist eine kreisfreie Stadt in Sachsen-Anhalt, bei der Kreisreform am 1. Juli 2007 aus der Fusion der kreisfreien Stadt Dessau und der Stadt Roßlau (Elbe) entstanden. Das Stadtgebiet ist für statistische Zwecke in zwei Stadtteile und 25 Stadtbezirke eingeteilt: Die Stadtbezirke 1 bis 21 gehören zum Stadtteil Dessau, 22 bis 25 zu Roßlau (Elbe). Nennen Sie uns bei einer Panne, ob Sie in Dessau oder Roßlau stehen, dazu Straße und Ortsteil.</p>
 <h2>A9: Dessau-Süd, Dessau-Ost, Vockerode</h2>
@@ -88,6 +127,9 @@
 <details><summary>Welche Anschlussstellen der A9 gibt es?</summary><div>Dessau-Süd (B184) und Dessau-Ost (B185), dazu Vockerode und Coswig für Zufahrten.</div></details>
 <details><summary>Wie viele Stadtbezirke gibt es?</summary><div>25, davon 1 bis 21 in Dessau, 22 bis 25 in Roßlau.</div></details>
 <details><summary>Wann wurde die A9 hier gebaut?</summary><div>1938, bis zum Jahr 2000 sechsstreifig ausgebaut.</div></details>
+<details><summary>Was kostet die Hilfe in Dessau-Roßlau?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Dessau-Roßlau?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -95,6 +137,17 @@
 <!--AREAS: Ratingen, Ratingen-Ost, Ratingen-West, Ratingen-Lintorf, Ratingen-Homberg, Breitscheid -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratingen</p><h1>Abschleppdienst Ratingen</h1><p class="lead">Ratingen liegt nordöstlich von Düsseldorf an vier Autobahnen mit zehn Anschlussstellen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Ratingen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Ratingen oder an A3, A44, A52 und A524. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Ratingen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Ratingen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A3, A44, A52, A524 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Große Stadt im Kreis Mettmann</h2>
 <p>Ratingen ist eine große kreisangehörige Stadt im nordrhein-westfälischen Kreis Mettmann, in der Metropolregion Rhein-Ruhr im Übergangsbereich zwischen Niederrheinischem Tiefland und Niederbergischem Land. Ratingen gliedert sich in sechs Gemeindebezirke, die sich jeweils in ein oder zwei Stadtteile unterteilen. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-duesseldorf.html">Abschleppdienst Düsseldorf</a>.</p>
 <h2>Vier Autobahnen, zehn Anschlussstellen</h2>
@@ -121,6 +174,9 @@
 <details><summary>Können Sie mein Auto von Ratingen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Ratingen liegt oder etwa in Düsseldorf oder Essen.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Ratingen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Wo ist das Dreieck Breitscheid?</summary><div>Dort wird die A524 angebunden.</div></details>
+<details><summary>Was kostet die Hilfe in Ratingen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Ratingen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -128,6 +184,17 @@
 <!--AREAS: Rüsselsheim, Rüsselsheim-Königstädten, Rüsselsheim-Haßloch, Bauschheim, Mainspitz-Dreieck, Flörsheim -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rüsselsheim am Main</p><h1>Abschleppdienst Rüsselsheim am Main</h1><p class="lead">Rüsselsheim liegt am Main im Rhein-Main-Gebiet an A60 und A67. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Rüsselsheim am Main: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Rüsselsheim am Main oder an A60, A67, B43 und A3. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Rüsselsheim am Main fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Rüsselsheim am Main abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A60, A67, B43, A3 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Größte Stadt des Kreises Groß-Gerau</h2>
 <p>Rüsselsheim am Main ist die größte Stadt des Landkreises Groß-Gerau im Regierungsbezirk Darmstadt innerhalb des Rhein-Main-Gebietes und Teil der Stadtregion Frankfurt. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-frankfurt.html">Abschleppdienst Frankfurt</a>, <a href="stadt-mainz.html">Abschleppdienst Mainz</a> und <a href="stadt-wiesbaden.html">Abschleppdienst Wiesbaden</a>.</p>
 <h2>A60 und A67</h2>
@@ -156,6 +223,9 @@
 <details><summary>Können Sie mein Auto von Rüsselsheim zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Rüsselsheim liegt oder etwa in Frankfurt, Mainz oder Wiesbaden.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Rüsselsheim?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Wohin führt die B43?</summary><div>Von Mainz über Rüsselsheim nach Frankfurt, mit Verbindung zur A3.</div></details>
+<details><summary>Was kostet die Hilfe in Rüsselsheim am Main?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Rüsselsheim am Main?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -163,6 +233,17 @@
 <!--AREAS: Straubing, Straubing-Alburg, Straubing-Ittling, Straubing-Kagers, Straubing-Ost, Bogen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Straubing</p><h1>Abschleppdienst Straubing</h1><p class="lead">Liegen geblieben in Straubing? Rufen Sie an oder schicken Sie Ihren Standort per WhatsApp. Wir organisieren die Hilfe, egal ob auf der B8, dem Zubringer B20 oder im Parkhaus.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Straubing: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Straubing oder an B8, B20, A3 und A92. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Straubing fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Straubing abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B8, B20, A3, A92 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Was wir in Straubing tun</h2>
 <p>Platzhalter, wird automatisch ersetzt.</p>
 <h2>B8 durch die Stadt, Zubringer B20 zur Autobahn</h2>
@@ -189,5 +270,8 @@
 <details><summary>Was kostet Abschleppen in Straubing?</summary><div>Das hängt von Fahrzeug, Uhrzeit, Strecke und Aufwand ab. Wir nennen Ihnen den Preis am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Helfen Sie auch nachts und am Wochenende?</summary><div>Ja, Sie erreichen uns rund um die Uhr per Telefon und WhatsApp.</div></details>
 <details><summary>Mein E-Auto ist liegen geblieben, geht das auch?</summary><div>Ja, E-Autos werden auf einem Plattformwagen transportiert. Sagen Sie uns, dass es sich um ein E-Auto handelt, dann organisieren wir den passenden Transport.</div></details>
+<details><summary>Was kostet die Hilfe in Straubing?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Straubing?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

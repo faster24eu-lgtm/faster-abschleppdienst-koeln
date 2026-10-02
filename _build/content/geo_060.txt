@@ -2,6 +2,17 @@
 <!--AREAS: Düren, Birkesdorf, Arnoldsweiler, Gürzenich, Lendersdorf, Niederau, Merken, Rölsdorf, Distelrath, Rur -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Düren</p><h1>Abschleppdienst Düren</h1><p class="lead">Düren liegt an der Rur zwischen Aachen und Köln am Nordrand der Eifel. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Düren: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Düren oder an A4, B56, B264 und B399. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Düren fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Düren abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A4, B56, B264, B399 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisstadt zwischen Börde und Rureifel</h2>
 <p>Düren hat über 94.000 Einwohner, ist Kreisstadt des gleichnamigen Kreises und Mitglied der Euregio Maas-Rhein und nennt sich „Das Tor zur Nordeifel“. Nach Norden erstreckt sich die fruchtbare Jülich-Zülpicher Börde, im Südwesten liegt die Rureifel mit der Rurtalsperre. Das alte Stadtgebiet umfasst die inneren Stadtbezirke Düren-Nord, Düren-Ost (mit der Satellitenstadt und Distelrath), Düren-Süd und Rölsdorf sowie das Siedlungsgebiet Grüngürtel, dazu kommen Stadtteile, die aus 15 ehemals selbstständigen Orten entstanden sind, etwa Arnoldsweiler, Birkesdorf, Gürzenich, Lendersdorf, Merken und Niederau. Nennen Sie uns bei einer Panne Stadtteil und Straße, nicht nur „Düren“. Mehr auf <a href="stadt-aachen.html">Abschleppdienst Aachen</a>, <a href="stadt-bergisch-gladbach.html">Abschleppdienst Bergisch Gladbach</a> und <a href="index.html">Abschleppdienst Köln</a>.</p>
 <h2>A4 im Norden, B56, B264 und B399</h2>
@@ -24,6 +35,9 @@
 <details><summary>Welche Bundesstraßen führen nach Düren?</summary><div>B56, B264 und B399.</div></details>
 <details><summary>Was ist der Friedrich-Ebert-Platz?</summary><div>Der große, mehrspurige Kreisverkehr, zentraler Verkehrsknoten der Stadt.</div></details>
 <details><summary>Welche Regionalzüge halten in Düren?</summary><div>RE1 und RE9 stündlich, dazu die Euregiobahn RB20 Richtung Aachen.</div></details>
+<details><summary>Was kostet die Hilfe in Düren?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Düren?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,6 +45,17 @@
 <!--AREAS: Euskirchen, Kuchenheim, Stotzheim, Kreuzweingarten, Großbüllesheim, Flamersheim, Kreuz Bliesheim, Erft -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Euskirchen</p><h1>Abschleppdienst Euskirchen</h1><p class="lead">Euskirchen liegt südwestlich von Bonn und Köln an der A1. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Euskirchen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Euskirchen oder an A1, A61, B56 und B51. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Euskirchen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Euskirchen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A1, A61, B56, B51 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisstadt mit 22 Stadtteilen</h2>
 <p>Euskirchen ist seit 1827 Sitz des gleichnamigen Kreises im Südwesten Nordrhein-Westfalens und hat knapp 60.000 Einwohner. Neben der Kernstadt mit den inoffiziellen Stadtvierteln Altstadt, Ost-, West-, Nord- und Südstadt gibt es 22 weitere statistische Stadtteile, darunter Billig, Dom-Esch, Flamersheim, Kuchenheim, Stotzheim, Kreuzweingarten und Großbüllesheim. Im Nordwesten und Westen verläuft die Grenze zu Zülpich entlang der A1, nur Oberwichterich und Frauenberg liegen westlich der Autobahn. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-bonn.html">Abschleppdienst Bonn</a>, <a href="stadt-dueren.html">Abschleppdienst Düren</a> und <a href="index.html">Abschleppdienst Köln</a>.</p>
 <h2>A1, A61 und Kreuz Bliesheim</h2>
@@ -39,20 +64,15 @@
 <p>Die B56 verbindet Euskirchen mit Bonn und führt nach Westen nach Zülpich und Düren. Die B51, die heute teilweise auf der A1 verläuft, verbindet Euskirchen mit Köln und der Eifel, die B266 führt von Simmerath nach Linz am Rhein durch Euskirchen. Den Stadtkern umschließt eine Ringstraße, die bereits 1904 geplant und erst 2003 vollständig geschlossen wurde. Vierspurige Straßen führen zur B56 nach Bonn, zur B51 nach Köln und Bad Münstereifel und zur A1. Innerhalb des mittelalterlichen Mauerrings liegt die Fußgängerzone, sagen Sie uns dort die Zufahrt, über die ein Fahrzeug erreichbar ist.</p>
 <h2>Bahnknoten und Busnetz</h2>
 <p>Der Bahnhof ist ein Knotenpunkt der Eifelstrecke Köln–Euskirchen–Gerolstein–Trier, von der die Voreifelbahn nach Bonn, die Erfttalbahn nach Bad Münstereifel und die Bördebahn nach Düren abzweigen. Das Stadtbusnetz besteht aus 13 Linien und fährt tagsüber alle 20 Minuten. Der Haltepunkt Zuckerfabrik wurde durch das Hochwasser im Juli 2021 zerstört und aufgegeben.</p>
-<h2>So nennen Sie Ihren Standort in Euskirchen</h2>
-<ul class="ticks">
-<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
-<li>Auf der A1 oder A61: Richtung, Anschlussstelle.</li>
-<li>Auf B56, B51 oder B266: Fahrtrichtung, Ort.</li>
-<li>Auf der Ringstraße: Fahrtrichtung, Querstraße.</li>
-</ul>
-<p>Weitere Städte: <a href="stadt-koblenz.html">Koblenz</a> und <a href="stadt-trier.html">Trier</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Euskirchen</h2>
 <details><summary>Welche Autobahnen liegen bei Euskirchen?</summary><div>Die A1, die nördlich über das Kreuz Bliesheim zur A61 führt.</div></details>
 <details><summary>Wohin führt die B56?</summary><div>Nach Bonn und in Gegenrichtung nach Zülpich und Düren.</div></details>
 <details><summary>Gibt es eine Ringstraße?</summary><div>Ja, sie umschließt den Stadtkern und wurde 2003 vollständig geschlossen.</div></details>
 <details><summary>Wie viele Stadtteile hat Euskirchen?</summary><div>22 statistische Stadtteile neben der Kernstadt.</div></details>
+<details><summary>Was kostet die Hilfe in Euskirchen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Euskirchen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -60,6 +80,17 @@
 <!--AREAS: Kerpen, Horrem, Sindorf, Türnich, Buir, Blatzheim, Manheim, Mödrath, Kreuz Kerpen, Erft -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kerpen</p><h1>Abschleppdienst Kerpen</h1><p class="lead">Kerpen liegt wenige Kilometer westlich von Köln, hier kreuzen sich A4 und A61. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Kerpen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Kerpen oder an A4, A61 und A1. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Kerpen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Kerpen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A4, A61, A1 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kolpingstadt im Rheinischen Braunkohlerevier</h2>
 <p>Kerpen ist mit 66.377 Einwohnern (31. Dezember 2025) die bevölkerungsreichste Stadt des Rhein-Erft-Kreises und trägt seit dem 19. März 2012 den offiziellen Zusatz Kolpingstadt. Sie liegt im Rheinischen Braunkohlerevier und in der Kölner Bucht wenige Kilometer westlich von Köln. Östlich des Stadtzentrums verläuft die Erft mit den Erftauen, weiter östlich liegt die Ville. Das heutige Kerpen entstand am 1. Januar 1975 aus der damaligen Stadt und sieben eigenständigen Gemeinden, die Stadtteile sind überwiegend durch große freie Flächen voneinander getrennt und haben sich deshalb eine gewisse Eigenständigkeit erhalten. Nennen Sie uns bei einer Panne den Stadtteil, etwa Horrem, Sindorf, Türnich, Buir, Blatzheim oder Manheim, und die Straße. Mehr auf <a href="index.html">Abschleppdienst Köln</a>, <a href="stadt-frechen.html">Abschleppdienst Frechen</a> und <a href="stadt-dueren.html">Abschleppdienst Düren</a>.</p>
 <h2>Autobahnkreuz Kerpen: A4 und A61</h2>
@@ -82,6 +113,9 @@
 <details><summary>Welche Anschlussstellen liegen auf dem Stadtgebiet?</summary><div>7b Elsdorf und 8 Kerpen (A4) sowie 21 Türnich (A61).</div></details>
 <details><summary>Wie viele Einwohner hat Kerpen?</summary><div>66.377 am 31. Dezember 2025.</div></details>
 <details><summary>Was ist mit Manheim?</summary><div>Der Ort wurde wegen des Tagebaus Hambach umgesiedelt, der Neuort heißt seit 2025 wieder Manheim.</div></details>
+<details><summary>Was kostet die Hilfe in Kerpen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Kerpen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -89,6 +123,17 @@
 <!--AREAS: Frechen, Königsdorf, Buschbell, Hücheln, Bachem, Habbelrath, Grefrath, Benzelrath, Kreuz Köln-West -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Frechen</p><h1>Abschleppdienst Frechen</h1><p class="lead">Frechen grenzt westlich an Köln, die A1 verläuft am Autobahnkreuz Köln-West. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Frechen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Frechen oder an A1, A4 und B264. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Frechen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Frechen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A1, A4, B264 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Mittelstadt an der Ville</h2>
 <p>Frechen ist eine Mittelstadt des Rheinischen Braunkohlereviers im Rhein-Erft-Kreis und grenzt westlich an Köln. Der ursprüngliche Siedlungskern liegt als langgestrecktes Straßendorf am Nordostabhang der Ville. Zur Stadt gehören unter anderem Königsdorf, Buschbell, Hücheln, Bachem, Habbelrath und Grefrath, Buschbell und Hücheln sind weitgehend zu einem Doppelort zusammengewachsen. Seit den 1970er Jahren hat sich Frechen von der Braunkohle, dem Quarzsand und dem Ton zu einer Stadt des Handels, des Verkehrs und der Dienstleistungen entwickelt. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="index.html">Abschleppdienst Köln</a> und <a href="stadt-kerpen.html">Abschleppdienst Kerpen</a>.</p>
 <h2>A1 und A4</h2>
@@ -111,5 +156,8 @@
 <details><summary>Ist Frechen Nord voll nutzbar?</summary><div>Nein, die Teilanschlussstelle an der A4 ist nur für den Verkehr von und nach Aachen benutzbar.</div></details>
 <details><summary>Wie fährt die Stadtbahn?</summary><div>Die Linie 7 verbindet Frechen mit Köln.</div></details>
 <details><summary>Welche Bundesstraße führt südlich um Frechen?</summary><div>Die B264.</div></details>
+<details><summary>Was kostet die Hilfe in Frechen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Frechen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

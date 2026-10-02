@@ -2,6 +2,17 @@
 <!--AREAS: Berlin-Mitte, Wedding, Moabit, Tiergarten, Gesundbrunnen, Hansaviertel, Alexanderplatz -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin · Bezirk Mitte</p><h1>Abschleppdienst Berlin-Mitte</h1><p class="lead">Der Bezirk Mitte umfasst Mitte, Moabit, Hansaviertel, Tiergarten, Wedding und Gesundbrunnen. Nennen Sie uns Ortsteil und Straße, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Berlin-Mitte: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Berlin-Mitte oder an B1, B2, B5 und B96. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Berlin-Mitte fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Berlin-Mitte abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B1, B2, B5, B96 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Sechs Ortsteile, ein Bezirk</h2>
 <p>Mitte ist der erste Verwaltungsbezirk von Berlin und hatte am 31. Dezember 2025 365.741 Einwohner. Er entstand 2001 mit der Verwaltungsreform durch Zusammenlegung der bis dahin eigenständigen Bezirke Wedding, Tiergarten und Mitte und unterteilt sich in sechs Ortsteile. Sowohl der Regierungssitz als auch die meisten Verfassungsorgane der Bundesrepublik befinden sich hier. Wenn im Alltag von „Mitte“ die Rede ist, ist meist der Ortsteil Mitte gemeint, nicht der ganze Bezirk. Für Ihre Standortangabe ist das wichtig: Nennen Sie den Ortsteil, etwa Wedding oder Moabit, und die Straße. Gesamtübersicht: <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
 <h2>B1, B2, B5 und B96</h2>
@@ -24,6 +35,9 @@
 <details><summary>Wie lang ist der Tunnel Tiergarten Spreebogen?</summary><div>2.392 Meter, er wurde 2006 fertiggestellt und ist der längste Straßentunnel Berlins.</div></details>
 <details><summary>Welche Bundesstraßen führen durch Mitte?</summary><div>B1, B2, B5 und B96.</div></details>
 <details><summary>Ist Mitte dasselbe wie der Bezirk Mitte?</summary><div>Nicht ganz: Mitte ist ein Ortsteil, der Bezirk Mitte umfasst sechs Ortsteile.</div></details>
+<details><summary>Was kostet die Hilfe in Berlin-Mitte?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Berlin-Mitte?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,6 +45,17 @@
 <!--AREAS: Friedrichshain, Kreuzberg, Ostkreuz, Karl-Marx-Allee, Oberbaumbrücke, Görlitzer Park -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin · Bezirk Friedrichshain-Kreuzberg</p><h1>Abschleppdienst Berlin Friedrichshain-Kreuzberg</h1><p class="lead">Friedrichshain-Kreuzberg ist der flächenkleinste und am dichtesten besiedelte Bezirk Berlins. Nennen Sie uns Ortsteil und Straße, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Berlin Friedrichshain-Kreuzberg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Berlin Friedrichshain-Kreuzberg oder an B1, B5 und B96. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Berlin Friedrichshain-Kreuzberg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Berlin Friedrichshain-Kreuzberg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B1, B5, B96 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Zwei Ortsteile an der Spree</h2>
 <p>Friedrichshain-Kreuzberg ist der zweite Berliner Bezirk und hatte am 31. Dezember 2025 267.258 Einwohner. Der flächenkleinste der zwölf Bezirke hat zugleich die höchste Bevölkerungsdichte und das geringste Durchschnittsalter. Er entstand 2001 durch Fusion der bis dahin durch die Spree getrennten Bezirke Friedrichshain und Kreuzberg. In der Nähe der Alexandrinenstraße 12 im Ortsteil Kreuzberg liegt der geometrische Schwerpunkt Berlins. Nennen Sie uns bei einer Panne, ob Sie in Friedrichshain oder Kreuzberg stehen. Gesamtübersicht: <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
 <h2>B1, B5, B96, B96a und die Karl-Marx-Allee</h2>
@@ -53,6 +78,9 @@
 <details><summary>Wie breit ist die Karl-Marx-Allee?</summary><div>Über 60 Meter, damit gehört sie zu den breitesten Berliner Innenstadtstraßen.</div></details>
 <details><summary>Warum den Ortsteil nennen?</summary><div>Friedrichshain und Kreuzberg liegen beiderseits der Spree, viele Straßen haben ähnliche Namen.</div></details>
 <details><summary>Wie hoch ist die Pkw-Dichte?</summary><div>171 Pkw je 1.000 Einwohner (2023), die niedrigste unter den Berliner Bezirken.</div></details>
+<details><summary>Was kostet die Hilfe in Berlin Friedrichshain-Kreuzberg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Berlin Friedrichshain-Kreuzberg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -60,6 +88,17 @@
 <!--AREAS: Pankow, Prenzlauer Berg, Weißensee, Buch, Karow, Heinersdorf, Rosenthal, Wilhelmsruh -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin · Bezirk Pankow</p><h1>Abschleppdienst Berlin-Pankow</h1><p class="lead">Pankow ist der bevölkerungsreichste Berliner Bezirk und reicht von Prenzlauer Berg bis zum Berliner Ring. Nennen Sie uns Ortsteil und Straße, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Berlin-Pankow: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Berlin-Pankow oder an A114, B2, B109 und A10. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Berlin-Pankow fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Berlin-Pankow abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A114, B2, B109, A10 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Dreizehn Ortsteile im Nordosten</h2>
 <p>Pankow ist der dritte Verwaltungsbezirk von Berlin. Am 31. Dezember 2025 hatte er 411.133 Einwohner. Die Verwaltungsreform von 2001 legte den innerstädtischen Bezirk Prenzlauer Berg und die äußeren Bezirke Pankow und Weißensee unter dem Namen Pankow zum bevölkerungsreichsten Berliner Bezirk zusammen. Flächenmäßig ist er der zweitgrößte. Es gibt 13 Ortsteile: Prenzlauer Berg, Weißensee, Blankenburg, Heinersdorf, Karow, Stadtrandsiedlung Malchow, Pankow, Blankenfelde, Buch, Französisch Buchholz, Niederschönhausen, Rosenthal und Wilhelmsruh. Der nördlichste Punkt liegt im Ortsteil Buch, dem nördlichsten Ortsteil Berlins. Nennen Sie uns bei einer Panne den Ortsteil und die Straße. Gesamtübersicht: <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
 <h2>Drei Bundesstraßen nach Norden</h2>
@@ -82,6 +121,9 @@
 <details><summary>Welche Bundesstraßen führen durch Pankow?</summary><div>B96a, B109 und B2 als radiale Straßen, die B109 mündet am S-Bahnhof Pankow-Heinersdorf in die A114.</div></details>
 <details><summary>Wie viele Einwohner hat Pankow?</summary><div>411.133 am 31. Dezember 2025, damit ist es der bevölkerungsreichste Bezirk.</div></details>
 <details><summary>Wo liegt der nördlichste Ortsteil Berlins?</summary><div>Buch, im Bezirk Pankow.</div></details>
+<details><summary>Was kostet die Hilfe in Berlin-Pankow?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Berlin-Pankow?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -89,6 +131,17 @@
 <!--AREAS: Charlottenburg, Wilmersdorf, Westend, Grunewald, Schmargendorf, Halensee, Charlottenburg-Nord, Kurfürstendamm -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin · Bezirk Charlottenburg-Wilmersdorf</p><h1>Abschleppdienst Berlin Charlottenburg-Wilmersdorf</h1><p class="lead">Charlottenburg-Wilmersdorf liegt im Westen Berlins mit der City West und drei Autobahnen. Nennen Sie uns Ortsteil und Straße, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Berlin Charlottenburg-Wilmersdorf: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Berlin Charlottenburg-Wilmersdorf oder an A100, A111, A115 und B2. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Berlin Charlottenburg-Wilmersdorf fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Berlin Charlottenburg-Wilmersdorf abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A100, A111, A115, B2 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Sieben Ortsteile</h2>
 <p>Der Bezirk Charlottenburg-Wilmersdorf unterteilt sich in sieben Ortsteile: Charlottenburg, Wilmersdorf, Schmargendorf, Grunewald, Westend, Charlottenburg-Nord und Halensee. Der Ortsteil Charlottenburg umfasst unter anderem die historische Altstadt Charlottenburg mit dem Schloss und das ehemalige Zooviertel, heute City West. Die Gegend um den Bahnhof Zoo mit dem Boulevard Kurfürstendamm nimmt eine Zentrumsfunktion für große Teile des Berliner Westens ein. Nennen Sie uns bei einer Panne Ortsteil und Straße. Gesamtübersicht: <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
 <h2>A100, A111, A115, B2 und B5</h2>
@@ -113,6 +166,9 @@
 <details><summary>Wie viele Ortsteile hat der Bezirk?</summary><div>Sieben.</div></details>
 <details><summary>Was sind die Kant-Garagen?</summary><div>Die älteste erhaltene Hochgarage Europas, in Charlottenburg.</div></details>
 <details><summary>Was ist die City West?</summary><div>Das ehemalige Zooviertel in Charlottenburg um den Bahnhof Zoo mit dem Kurfürstendamm.</div></details>
+<details><summary>Was kostet die Hilfe in Berlin Charlottenburg-Wilmersdorf?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Berlin Charlottenburg-Wilmersdorf?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -120,6 +176,17 @@
 <!--AREAS: Spandau, Haselhorst, Siemensstadt, Staaken, Gatow, Kladow, Hakenfelde, Falkenhagener Feld, Wilhelmstadt -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin · Bezirk Spandau</p><h1>Abschleppdienst Berlin-Spandau</h1><p class="lead">Spandau liegt im Westen Berlins an Havel und Spree, die A10 verläuft etwa 15 Kilometer westlich. Nennen Sie uns Ortsteil und Straße, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Berlin-Spandau: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Berlin-Spandau oder an B2, B5 und A10. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Berlin-Spandau fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Berlin-Spandau abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B2, B5, A10 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Neun Ortsteile im Westen</h2>
 <p>Der Bezirk Spandau unterteilt sich in neun Ortsteile: Spandau, Haselhorst, Siemensstadt, Staaken, Gatow, Kladow, Hakenfelde, Falkenhagener Feld und Wilhelmstadt. Die Havel prägt den Bezirk, in Hakenfelde liegt die Flussinsel Großer Wall, die kurioserweise dem Bezirksamt Friedrichshain-Kreuzberg unterstellt ist. Nennen Sie uns bei einer Panne Ortsteil und Straße. Gesamtübersicht: <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
 <h2>B2, B5 und der Berliner Ring</h2>
@@ -144,6 +211,9 @@
 <details><summary>Welche Bundesstraßen führen durch Spandau?</summary><div>B2 und B5.</div></details>
 <details><summary>Wie weit ist der Berliner Ring entfernt?</summary><div>Rund 15 Kilometer westlich, erreichbar über die B5.</div></details>
 <details><summary>Wie viele Buslinien halten am Rathaus Spandau?</summary><div>15 tagsüber und drei Nachtbuslinien.</div></details>
+<details><summary>Was kostet die Hilfe in Berlin-Spandau?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Berlin-Spandau?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -151,6 +221,17 @@
 <!--AREAS: Steglitz, Lichterfelde, Lankwitz, Zehlendorf, Dahlem, Nikolassee, Wannsee, Schlachtensee, Glienicker Brücke -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Berlin · Bezirk Steglitz-Zehlendorf</p><h1>Abschleppdienst Berlin Steglitz-Zehlendorf</h1><p class="lead">Steglitz-Zehlendorf liegt im Südwesten Berlins mit drei Autobahnen und der Glienicker Brücke. Nennen Sie uns Ortsteil und Straße, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Berlin Steglitz-Zehlendorf: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Berlin Steglitz-Zehlendorf oder an A100, A103, A115 und B1. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Berlin Steglitz-Zehlendorf fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Berlin Steglitz-Zehlendorf abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A100, A103, A115, B1 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Acht Ortsteile im Südwesten</h2>
 <p>Steglitz-Zehlendorf ist der sechste Verwaltungsbezirk von Berlin und hatte am 31. Dezember 2025 295.082 Einwohner. Er entstand 2001 durch die Zusammenlegung der Bezirke Steglitz und Zehlendorf und unterteilt sich in acht Ortsteile: Steglitz, Lichterfelde, Lankwitz, Zehlendorf, Dahlem, Nikolassee, Wannsee und Schlachtensee. In Steglitz und Lichterfelde lebt die Hälfte der Bevölkerung. Wannsee ist der größte Ortsteil. Die Hochschul- und Forschungslandschaft ist international renommiert. Nennen Sie uns bei einer Panne Ortsteil und Straße. Gesamtübersicht: <a href="stadt-berlin.html">Abschleppdienst Berlin</a>.</p>
 <h2>A100, A103, A115 und B1</h2>
@@ -175,5 +256,8 @@
 <details><summary>Welcher Ortsteil ist der größte?</summary><div>Wannsee ist der größte Ortsteil des Bezirks.</div></details>
 <details><summary>Was verbindet die Glienicker Brücke?</summary><div>Berlin und Potsdam, sie ist Teil der B1.</div></details>
 <details><summary>Wie viele Ortsteile gibt es?</summary><div>Acht.</div></details>
+<details><summary>Was kostet die Hilfe in Berlin Steglitz-Zehlendorf?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Berlin Steglitz-Zehlendorf?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

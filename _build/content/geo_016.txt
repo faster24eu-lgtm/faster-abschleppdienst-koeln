@@ -76,6 +76,17 @@
 <!--AREAS: Gelsenkirchen, Gelsenkirchen-Buer, Gelsenkirchen-Horst, Gelsenkirchen-Scholven, Gelsenkirchen-Schalke -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gelsenkirchen</p><h1>Abschleppdienst Gelsenkirchen</h1><p class="lead">Gelsenkirchen liegt im Zentrum des Ruhrgebiets an A2, A42 und A52. Der Rhein-Herne-Kanal und die Emscher teilen die Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Gelsenkirchen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Gelsenkirchen oder an A2, A42, A52 und B224. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Gelsenkirchen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Gelsenkirchen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A2, A42, A52, B224 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Fünf Stadtbezirke, geteilt von der Emscher</h2>
 <p>Gelsenkirchen liegt im zentralen Ruhrgebiet, das Stadtgebiet besteht aus fünf Stadtbezirken, die drei nördlich der Emscher heißen Nord, West und Ost. Für Ihre Standortangabe brauchen wir den Stadtteil, etwa Buer, Horst, Schalke oder Scholven, und die Straße, dazu ob Sie nördlich oder südlich der Emscher stehen.</p>
 <h2>A2, A42 und A52</h2>
@@ -84,20 +95,6 @@
 <p>Gelsenkirchen liegt am Rhein-Herne-Kanal, an dem der Hafen Gelsenkirchen als Industrie- und Handelshafen besteht. Bei Fahrzeugen im Hafengebiet brauchen wir Straße, Kai oder Tor.</p>
 <h2>Nordsternpark und Horst</h2>
 <p>Der Nordsternpark in Gelsenkirchen-Horst liegt nördlich des Rhein-Herne-Kanals, der Landschaftspark Heßler südlich davon. Parks und Kanalufer haben Parkplätze ohne klare Adressen. Nennen Sie uns den Namen des Parkplatzes oder des Zugangs und die nächste größere Straße.</p>
-<h2>Was wir in Gelsenkirchen tun</h2>
-<p>Platzhalter, wird automatisch ersetzt.</p>
-<h2>Sicher warten in Gelsenkirchen</h2>
-<p>Auf A2, A42 oder A52: Warnblinker an, alle Insassen hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. An der Veltins-Arena bei einer Veranstaltung: Warnblinker an und im dichten Verkehr besonders auf Fußgänger achten. Am Kanalhafen: Warnblinker an, nicht direkt am Kai halten.</p>
-<h2>Wo es in Gelsenkirchen oft passiert</h2>
-<p>An der Veltins-Arena wird es bei Veranstaltungen durch den Zu- und Abfahrtsverkehr eng. Auf der A42, dem Emscherschnellweg, ist im Berufsverkehr oft mehr los als auf den anderen Autobahnen der Stadt. Rund um den Kanalhafen fahren viele Lkw, seien Sie dort an Kreuzungen besonders vorsichtig.</p>
-<h2>So nennen Sie Ihren Standort in Gelsenkirchen</h2>
-<ul class="ticks">
-<li>Stadtteil und Straße, dazu Hausnummer oder Querstraße, und ob Sie nördlich oder südlich der Emscher stehen.</li>
-<li>Auf A2, A42 oder A52: Richtung, Anschlussstelle, Kreuz.</li>
-<li>An der Arena: Parkplatz, Tor oder Zufahrt.</li>
-<li>Im Hafen: Kai oder Straße.</li>
-</ul>
-<p>Nachbarstädte: <a href="stadt-essen.html">Essen</a>, <a href="stadt-bochum.html">Bochum</a> und <a href="stadt-dortmund.html">Dortmund</a>. Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Allgemeine Schritte: <a href="ratgeber-panne-autobahn.html">Panne auf der Autobahn</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Gelsenkirchen</h2>
 <details><summary>Ich stehe auf der A2 bei der Veltins-Arena. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns Fahrtrichtung, gerade bei einer Veranstaltung ist der Verkehr dort dicht.</div></details>
@@ -106,6 +103,9 @@
 <details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, wir sind rund um die Uhr per Telefon und WhatsApp erreichbar und vermitteln auch nachts einen Partner vor Ort.</div></details>
 <details><summary>Ich habe ein E-Auto, das liegen geblieben ist. Geht das auch?</summary><div>Ja, E-Autos werden auf einem Plateauwagen transportiert, damit keine Antriebsachse dreht. Sagen Sie uns am Telefon, dass es ein E-Auto ist.</div></details>
 <details><summary>Wie groß ist der Hafen Gelsenkirchen?</summary><div>Rund 120 Hektar Wasserfläche und 4,9 Millionen Tonnen Jahresumschlag (Stand 2022).</div></details>
+<details><summary>Was kostet die Hilfe in Gelsenkirchen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Gelsenkirchen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 

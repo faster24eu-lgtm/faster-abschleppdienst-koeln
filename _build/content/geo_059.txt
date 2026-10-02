@@ -2,6 +2,17 @@
 <!--AREAS: Viersen, Alt-Viersen, Dülken, Süchteln, Boisheim, Mackenstein, Kreuz Mönchengladbach -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Viersen</p><h1>Abschleppdienst Viersen</h1><p class="lead">Viersen liegt am linken Niederrhein an der A61. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe mit Partnerbetrieben.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Viersen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Viersen oder an A61 und A52. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Viersen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Viersen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A61, A52 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Drei ehemalige Städte, vier Stadtbezirke</h2>
 <p>Viersen ist Sitz des Kreises Viersen und eine große kreisangehörige Stadt am linken Niederrhein, der Stadtkern liegt etwa 28 Kilometer westnordwestlich von Düsseldorf. Die Stadt besteht aus den drei ehemals selbständigen Städten Viersen, Dülken und Süchteln, die sich 1970 zusammenschlossen, dazu kam 1968 die Gemeinde Boisheim. Das Stadtgebiet ist in vier Stadtbezirke gegliedert: Alt-Viersen (39.096 Einwohner nach dem Stand vom 31. März 2022), Dülken (20.566), Süchteln (16.074) und Boisheim (2.102). Bei einer Panne reicht „Viersen“ deshalb nicht: Nennen Sie uns Stadtbezirk oder Ortsteil und die Straße. Zu Alt-Viersen gehören zum Beispiel Beberich, Hamm, Heimer und Rahser, zu Dülken unter anderem Bistard und Schirick. Mehr auf <a href="stadt-moenchengladbach.html">Abschleppdienst Mönchengladbach</a>, <a href="stadt-krefeld.html">Abschleppdienst Krefeld</a> und <a href="stadt-neuss.html">Abschleppdienst Neuss</a>.</p>
 <h2>A61 mit drei Anschlussstellen</h2>
@@ -24,6 +35,9 @@
 <details><summary>Wo kreuzen sich A61 und A52?</summary><div>Im Autobahnkreuz Mönchengladbach an der Grenze zu Viersen.</div></details>
 <details><summary>Aus welchen Stadtbezirken besteht Viersen?</summary><div>Alt-Viersen, Dülken, Süchteln und Boisheim.</div></details>
 <details><summary>Gehört Viersen zum VRR?</summary><div>Ja, der Nahverkehr ist im Tarif des VRR nutzbar.</div></details>
+<details><summary>Was kostet die Hilfe in Viersen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Viersen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,6 +45,17 @@
 <!--AREAS: Dormagen, Horrem, Nievenheim, Zons, Stürzelberg, Delrath, Hackenbroich, Chempark -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dormagen</p><h1>Abschleppdienst Dormagen</h1><p class="lead">Dormagen liegt links des Rheins zwischen Düsseldorf und Köln an der A57. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Dormagen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Dormagen oder an A57, B9 und B477. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Dormagen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Dormagen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A57, B9, B477 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Rhein im Norden und Osten, Köln im Süden</h2>
 <p>Dormagen ist eine große kreisangehörige Stadt im Rhein-Kreis Neuss mit 65.170 Einwohnern (31. Dezember 2023). Im Norden und Osten grenzt sie unmittelbar an den Rhein, am anderen Ufer liegen Düsseldorf sowie Monheim am Rhein und Leverkusen. Im Süden grenzt Dormagen an Köln, die Stadtgrenze ist zugleich die Grenze zwischen den Regierungsbezirken Düsseldorf und Köln. Wer in Grenznähe liegen bleibt, nennt uns am besten Ortsteil und Straße, denn ein Straßenname kann in beiden Städten vorkommen. Zu Dormagen gehören unter anderem Horrem, Nievenheim, Zons, Stürzelberg, Delrath und Hackenbroich. Mehr auf <a href="stadt-neuss.html">Abschleppdienst Neuss</a>, <a href="stadt-leverkusen.html">Abschleppdienst Leverkusen</a> und <a href="index.html">Abschleppdienst Köln</a>.</p>
 <h2>A57, B9 und B477</h2>
@@ -53,6 +78,9 @@
 <details><summary>Wo verläuft die B9?</summary><div>Als Umgehungsstraße östlich am Stadtkern vorbei, früher lief sie durch die Kölner Straße.</div></details>
 <details><summary>Liegt der Haltepunkt Chempark in Dormagen?</summary><div>Nein, er liegt trotz des Namens vollständig auf Kölner Stadtgebiet im Stadtteil Worringen.</div></details>
 <details><summary>Wie viele Einwohner hat Dormagen?</summary><div>65.170 am 31. Dezember 2023.</div></details>
+<details><summary>Was kostet die Hilfe in Dormagen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Dormagen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -60,6 +88,17 @@
 <!--AREAS: Bocholt, Barlo, Stenern, Biemenhorst, Mussum, Westringtunnel, Bocholter Aa -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bocholt</p><h1>Abschleppdienst Bocholt</h1><p class="lead">Bocholt liegt im Westmünsterland an der niederländischen Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Bocholt: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Bocholt oder an B67, B473, A3 und A31. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Bocholt fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Bocholt abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B67, B473, A3, A31 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Größte Stadt im Kreis Borken</h2>
 <p>Bocholt hat 73.048 Einwohner und ist die einzige große kreisangehörige Stadt und zugleich die größte Stadt des Kreises Borken. Nach Aachen ist sie die zweitgrößte deutsche Stadt an der deutsch-niederländischen Grenze, die Stadtgrenze im Norden ist zugleich die Staatsgrenze. Im Südwesten grenzt Bocholt an den Kreis Wesel und damit an den Regierungsbezirk Düsseldorf. Das Stadtgebiet umfasst rund 119 Quadratkilometer, mehr als 65 Prozent sind landwirtschaftlich genutzt, durch die Stadt fließt die Bocholter Aa. Nach der Hauptsatzung gibt es sieben Stadtbezirke: Mitte, Nordost, Ost, Südost, Südwest, West und Nordwest. Im Osten liegen Barlo, Stenern und Biemenhorst. Nennen Sie uns bei einer Panne Stadtbezirk oder Ortsteil und Straße. Mehr auf <a href="stadt-muenster.html">Abschleppdienst Münster</a> und <a href="stadt-rheine.html">Abschleppdienst Rheine</a>.</p>
 <h2>B473, B67 und die Ringe</h2>
@@ -82,6 +121,9 @@
 <details><summary>Was verbindet die B67?</summary><div>Die A3 mit der A31, südlich an Bocholt vorbei seit 2006.</div></details>
 <details><summary>Gibt es einen Tunnel in Bocholt?</summary><div>Ja, den Westringtunnel für den Verkehr Richtung Niederlande, seit Sommer 2006.</div></details>
 <details><summary>Wie viele Stadtbezirke hat Bocholt?</summary><div>Sieben.</div></details>
+<details><summary>Was kostet die Hilfe in Bocholt?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Bocholt?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -89,6 +131,17 @@
 <!--AREAS: Herford, Elverdissen, Schwarzenmoor, Stiftberg, Werre, Bad Salzuflen, Vlotho, Kirchlengern -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Herford</p><h1>Abschleppdienst Herford</h1><p class="lead">Herford liegt im Ravensberger Hügelland an der A2. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Herford: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Herford oder an A2, A30, B239 und B61. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Herford fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Herford abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A2, A30, B239, B61 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Hansestadt zwischen Teutoburger Wald und Wiehengebirge</h2>
 <p>Die Hansestadt Herford hat 67.074 Einwohner und ist Kreisstadt des Kreises Herford im Regierungsbezirk Detmold. Sie liegt im Ravensberger Hügelland zwischen Teutoburger Wald und Wiehengebirge, 15 Kilometer nordöstlich von Bielefeld und 46 Kilometer östlich von Osnabrück. Dortmund und Hannover sind über die A2 und die Bahnstrecke Hamm–Minden jeweils rund 100 Kilometer entfernt, entlang dieser Achse erstreckt sich das ostwestfälische Verdichtungsgebiet von Gütersloh bis Minden. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a>, <a href="stadt-minden.html">Abschleppdienst Minden</a> und <a href="stadt-guetersloh.html">Abschleppdienst Gütersloh</a>.</p>
 <h2>A2 streift den Osten</h2>
@@ -113,6 +166,9 @@
 <details><summary>Wo ist die A30 erreichbar?</summary><div>Im Norden über die Anschlussstelle Kirchlengern.</div></details>
 <details><summary>Welche Bundesstraßen umgehen Herford?</summary><div>Die B239 und die B61 dienen als Umgehungsstraße für den Fernverkehr.</div></details>
 <details><summary>Wie weit ist Bielefeld?</summary><div>Etwa 15 Kilometer südwestlich.</div></details>
+<details><summary>Was kostet die Hilfe in Herford?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Herford?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -120,6 +176,17 @@
 <!--AREAS: Unna, Königsborn, Massen, Hemmerde, Billmerich, Siddinghausen, Hellweg, Kamen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Unna</p><h1>Abschleppdienst Unna</h1><p class="lead">Unna liegt am östlichen Rand des Ruhrgebiets, A1 und A44 verlaufen direkt an der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Unna: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Unna oder an A1, A44, B1 und B233. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Unna fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Unna abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A1, A44, B1, B233 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisstadt am Hellweg</h2>
 <p>Unna ist eine große kreisangehörige Stadt und Kreisstadt des Kreises Unna im östlichen Ruhrgebiet, nach Lünen die zweitgrößte Stadt des Kreises. Sie liegt etwa 15 Kilometer östlich von Dortmund am Westfälischen Hellweg in der Hellwegbörde zwischen Ruhr und Lippe. Das Stadtgebiet reicht von 65 Metern über NN am Afferder Bach bis 225 Metern an der Hemmerder Schelk, es gibt also Steigungen und Gefälle. Der Stadtkern ist von gemischten Wohngebieten umgeben, im Übergang zum nördlichen Stadtteil Königsborn sowie an der Morgenstraße im Osten und um den Bornekamp im Süden stehen viele größere Einfamilienhäuser, größere Mehrfamilienhaussiedlungen liegen vor allem im äußeren Südwesten. Nennen Sie uns bei einer Panne Stadtteil, Straße und Hausnummer. Mehr auf <a href="stadt-dortmund.html">Abschleppdienst Dortmund</a>, <a href="stadt-hamm.html">Abschleppdienst Hamm</a> und <a href="stadt-luenen.html">Abschleppdienst Lünen</a>.</p>
 <h2>A1 und A44 direkt an der Stadt</h2>
@@ -142,6 +209,9 @@
 <details><summary>Wie verläuft die B1?</summary><div>In West-Ost-Richtung durch das Stadtgebiet.</div></details>
 <details><summary>Wie weit ist Dortmund?</summary><div>Etwa 15 Kilometer westlich.</div></details>
 <details><summary>Ist Unna die größte Stadt im Kreis Unna?</summary><div>Nein, Lünen hat mehr Einwohner, Unna ist die zweitgrößte Stadt des Kreises.</div></details>
+<details><summary>Was kostet die Hilfe in Unna?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Unna?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -149,8 +219,17 @@
 <!--AREAS: Lünen, Altlünen, Horstmar, Beckinghausen, Lippe, Datteln-Hamm-Kanal, Seepark, Stadthafen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lünen</p><h1>Abschleppdienst Lünen</h1><p class="lead">Lünen liegt an der Lippe zwischen Münsterland und Hellwegregion. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Einwohnerreichste Stadt im Kreis Unna</h2>
-<p>Lünen ist mit rund 88.000 Einwohnern die einwohnerreichste Stadt des Kreises Unna und ein Mittelzentrum im nordöstlichen Ruhrgebiet am südlichen Rand des Münsterlandes. Im Süden schließt das Stadtgebiet unmittelbar an die nördlichen Vororte Dortmunds an, im Westen grenzt Lünen an Waltrop, im Norden an Selm und Werne, im Osten an Bergkamen und Kamen. Nennen Sie uns bei einer Panne Ortsteil und Straße und die Nachbarstadt, an deren Grenze Sie stehen. Die historisch gewachsenen Ortsteile wie Altlünen im Norden oder Horstmar decken sich wegen verschobener Grenzen oft nicht mehr mit den statistischen Bezirken. Mehr auf <a href="stadt-dortmund.html">Abschleppdienst Dortmund</a>, <a href="stadt-hamm.html">Abschleppdienst Hamm</a> und <a href="stadt-unna.html">Abschleppdienst Unna</a>.</p>
+<h2>Panne in Lünen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Lünen oder an A2, B54 und B236. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Lünen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Lünen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A2, B54, B236 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>A2, B54 und B236</h2>
 <p>An das überregionale Verkehrsnetz ist Lünen durch die A2 (Oberhausen–Hannover–Berlin) und den Datteln-Hamm-Kanal angeschlossen. Die B54 kommt von Münster über Werne nach Lünen, ab dort führt sie rund fünf Kilometer lang gemeinsam mit der B236 weiter Richtung Dortmund. Die B236 beginnt in Olfen, durchquert Selm und Lünen. Auf dem gemeinsamen Abschnitt sind beide Nummern gültig, nennen Sie uns deshalb Fahrtrichtung und Querstraße statt nur eine Nummer. Bei einer Panne auf der Autobahn sagen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a2.html">Panne auf der A2</a>.</p>
 <h2>Lippe, Kanal und Seseke</h2>
@@ -171,6 +250,9 @@
 <details><summary>Was ist mit B54 und B236?</summary><div>Beide verlaufen etwa fünf Kilometer lang gemeinsam von Lünen Richtung Dortmund.</div></details>
 <details><summary>Welcher Fluss fließt durch Lünen?</summary><div>Die Lippe, direkt durch die Innenstadt.</div></details>
 <details><summary>Wie viele Einwohner hat Lünen?</summary><div>Rund 88.000, die meisten im Kreis Unna.</div></details>
+<details><summary>Was kostet die Hilfe in Lünen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Lünen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -178,6 +260,17 @@
 <!--AREAS: Lingen, Altenlingen, Baccum, Holthausen, Laxten, Schepsdorf, Darme, Lingener Höhe, Dortmund-Ems-Kanal -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lingen (Ems)</p><h1>Abschleppdienst Lingen (Ems)</h1><p class="lead">Lingen liegt an der Ems im Süden des Emslandes, nahe der A31. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Lingen (Ems): Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Lingen (Ems) oder an A31, B70, B213 und B214. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Lingen (Ems) fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Lingen (Ems) abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A31, B70, B213, B214 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Größte Stadt im Emsland</h2>
 <p>Lingen (Ems) ist eine Mittelstadt im Süden des Landkreises Emsland in Niedersachsen und mit 56.539 Einwohnern die mit Abstand größte Stadt des Landkreises. Sie liegt überwiegend am östlichen Ufer der Ems und grenznah zu den Niederlanden, ostsüdöstlich befindet sich die Lingener Höhe. Die Stadt besteht aus der historischen Kernstadt mit Altstadt und den Stadtteilen Reuschberge, Stroot, Damaschke, Heukamps-Tannen und Telgenkamp sowie aus zehn Ortschaften: Altenlingen, Baccum, Bramsche, Brockhausen, Brögbern, Clusorth-Bramhar, Darme, Holthausen, Laxten und Schepsdorf. Nennen Sie uns bei einer Panne Ortschaft oder Stadtteil und die Straße. Mehr auf <a href="stadt-rheine.html">Abschleppdienst Rheine</a>, <a href="stadt-osnabrueck.html">Abschleppdienst Osnabrück</a> und <a href="stadt-emden.html">Abschleppdienst Emden</a>.</p>
 <h2>A31 und drei Bundesstraßen</h2>
@@ -200,5 +293,8 @@
 <details><summary>Welche Bundesstraßen kreuzen sich in Lingen?</summary><div>B70, B213 und B214, als Umgehungsstraßen seit Ende der 1970er Jahre.</div></details>
 <details><summary>Aus welchen Teilen besteht Lingen?</summary><div>Aus der Kernstadt und zehn Ortschaften.</div></details>
 <details><summary>Wie viele Einwohner hat Lingen?</summary><div>56.539 laut der genutzten Quelle, 55.092 nach dem Zensus vom 15. Mai 2022.</div></details>
+<details><summary>Was kostet die Hilfe in Lingen (Ems)?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Lingen (Ems)?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

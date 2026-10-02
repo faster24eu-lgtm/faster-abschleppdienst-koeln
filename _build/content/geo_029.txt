@@ -2,6 +2,17 @@
 <!--AREAS: Worms, Worms-Hochheim, Worms-Pfeddersheim, Worms-Herrnsheim, Worms-Neuhausen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Worms</p><h1>Abschleppdienst Worms</h1><p class="lead">Worms liegt am linken Rheinufer an der A61, mit der Nibelungenbrücke als Verbindung nach Hessen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Worms: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Worms oder an A61, B9, B47 und A6. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Worms fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Worms abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A61, B9, B47, A6 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Nibelungenstadt am Rhein</h2>
 <p>Worms, inoffiziell Nibelungenstadt genannt, ist eine kreisfreie Stadt am linken Rheinufer im Südosten von Rheinland-Pfalz. Sie ist in acht Stadtbezirke mit 19 Stadtteilen gegliedert. Die 13 eingemeindeten Stadtteile, die Untergliederungen der Stadtbezirke 4 bis 7, bilden neben der zentralen Gemarkung Worms jeweils eigene Gemarkungen. Nennen Sie uns bei einer Panne Stadtteil und Straße, zum Beispiel Pfeddersheim, Herrnsheim oder Hochheim.</p>
 <h2>A61, B9 und B47</h2>
@@ -22,6 +33,9 @@
 <details><summary>Welche Autobahn führt an Worms vorbei?</summary><div>Die linksrheinische A61. Die B9 hat eine Verbindung zur A6.</div></details>
 <details><summary>Wie viele Fahrstreifen haben die Nibelungenbrücken?</summary><div>Auf beiden Brücken zusammen vier, seit der Sanierung der alten Brücke im September 2013.</div></details>
 <details><summary>Ich stehe an der Bahnunterführung der B9. Was sage ich?</summary><div>Straße und Fahrtrichtung, dazu dass Sie an einer zweispurigen Engstelle stehen.</div></details>
+<details><summary>Was kostet die Hilfe in Worms?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Worms?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -29,6 +43,17 @@
 <!--AREAS: Bamberg, Bamberg-Gaustadt, Bamberg-Bug, Bamberg-Wildensorg, Hallstadt -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bamberg</p><h1>Abschleppdienst Bamberg</h1><p class="lead">Bamberg liegt an zwei Armen der Regnitz in Oberfranken, mit der A73 in Richtung Nürnberg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Bamberg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Bamberg oder an A73, A70 und B4. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Bamberg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Bamberg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A73, A70, B4 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Größte Mittelstadt Bayerns</h2>
 <p>Bamberg ist eine kreisfreie Stadt im bayerischen Regierungsbezirk Oberfranken und Standort des Landratsamtes Bamberg. Sie ist die größte Mittelstadt Bayerns, ein Universitäts-, Schul- und Verwaltungsstandort. Am 1. Januar 1970 wurden die Ortsteile Kramersfeld und Bruckertshof der Gemeinde Hallstadt ins Stadtgebiet eingegliedert, am 1. Juli 1972 folgten im Rahmen der Gebietsreform Bug, Gaustadt, Wildensorg und weitere. Nennen Sie uns bei einer Panne Stadtteil und Straße, etwa Gaustadt, Bug oder Wildensorg.</p>
 <h2>Zwei Regnitzarme und ihre Brücken</h2>
@@ -49,6 +74,9 @@
 <details><summary>Welche Autobahn führt durch Bamberg?</summary><div>Die A73, die von Suhl über Coburg und Bamberg nach Nürnberg führt.</div></details>
 <details><summary>Was ist das Brückenrathaus?</summary><div>Das Alte Rathaus auf der Oberen Brücke, ein Wahrzeichen der Stadt.</div></details>
 <details><summary>Ich stehe in der Altstadt. Was sage ich?</summary><div>Straße, Hausnummer und die nächste Brücke, dazu ob die Zufahrt eng ist.</div></details>
+<details><summary>Was kostet die Hilfe in Bamberg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Bamberg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -56,6 +84,17 @@
 <!--AREAS: Bayreuth, Bayreuth-Laineck, Bayreuth-Bindlach, Bayreuth-Innenstadt, Bayreuth-Saas -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bayreuth</p><h1>Abschleppdienst Bayreuth</h1><p class="lead">Bayreuth liegt in Oberfranken an der A9 mit dem Dreieck Bayreuth/Kulmbach. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Bayreuth: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Bayreuth oder an A9, A70, B2 und B22. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Bayreuth fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Bayreuth abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A9, A70, B2, B22 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Mittelstadt in Oberfranken</h2>
 <p>Bayreuth ist eine fränkische kreisfreie Stadt im bayerischen Regierungsbezirk Oberfranken mit 72.919 Einwohnern (31. Dezember 2025) und nach Bamberg die zweitgrößte Stadt Oberfrankens. Offiziell besteht die Stadt aus 30 Stadtteilen und 39 Distrikten. Nennen Sie uns bei einer Panne Stadtteil und Straße und ob Sie im Zentrum oder am Stadtrand stehen.</p>
 <h2>A9 und A70: Dreieck Bayreuth/Kulmbach</h2>
@@ -78,6 +117,9 @@
 <details><summary>Wo zweigt die A70 von der A9 ab?</summary><div>Am Dreieck Bayreuth/Kulmbach nördlich der Stadt.</div></details>
 <details><summary>Was ist die Einhausung bei Laineck?</summary><div>Eine rund 360 Meter lange Lärmschutz-Einhausung der A9, entstanden beim Ausbau auf sechs Fahrstreifen.</div></details>
 <details><summary>Welche Bundesstraßen führen durch Bayreuth?</summary><div>Die B2, B22 und B85, heute über den Stadtkernring geführt.</div></details>
+<details><summary>Was kostet die Hilfe in Bayreuth?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Bayreuth?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -85,6 +127,17 @@
 <!--AREAS: Ludwigsburg, Ludwigsburg-Eglosheim, Ludwigsburg-Hoheneck, Ludwigsburg-Pflugfelden, Bietigheim-Bissingen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ludwigsburg</p><h1>Abschleppdienst Ludwigsburg</h1><p class="lead">Ludwigsburg liegt etwa zwölf Kilometer nördlich der Stuttgarter Innenstadt an A81 und B27. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Ludwigsburg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Ludwigsburg oder an A81 und B27. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Ludwigsburg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Ludwigsburg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A81, B27 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Stadt nördlich von Stuttgart</h2>
 <p>Ludwigsburg hat 93.002 Einwohner (31. Dezember 2025) und liegt etwa zwölf Kilometer nördlich der Stuttgarter Innenstadt in der Region Stuttgart. Das Stadtgebiet besteht aus der Kernstadt und sieben Stadtteilen. Die Kernstadt wird in die Stadtteile Mitte, West, Nord, Ost und Süd unterteilt, weitere Stadtteile sind Pflugfelden, Eglosheim und Hoheneck. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
 <h2>A81: Anschlussstellen Nord und Süd</h2>
@@ -107,6 +160,9 @@
 <details><summary>Wie stark befahren ist die B27?</summary><div>Mit rund 70.000 Fahrzeugen pro Tag, teilweise sechsstreifig.</div></details>
 <details><summary>Wie viele Stadtteile hat Ludwigsburg?</summary><div>Die Kernstadt und sieben Stadtteile.</div></details>
 <details><summary>Kommen Sie auch nach Bietigheim?</summary><div>Wir organisieren Einsätze in der Region Stuttgart. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet die Hilfe in Ludwigsburg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Ludwigsburg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -114,6 +170,17 @@
 <!--AREAS: Landshut, Landshut-Altstadt, Landshut-Peter und Paul, Landshut-Schönbrunn, Landshut-Frauenberg -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Landshut</p><h1>Abschleppdienst Landshut</h1><p class="lead">Landshut liegt an der Isar in Niederbayern, an der A92 und im Einzugsbereich des Münchner Flughafens. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Landshut: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Landshut oder an A92. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Landshut fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Landshut abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A92 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Regierungssitz Niederbayerns</h2>
 <p>Landshut ist eine kreisfreie Stadt im südöstlichen Bayern, Sitz der Regierung von Niederbayern und des gleichnamigen Bezirks, mit 71.863 Einwohnern (Stand 31. Dezember 2024). Neben den Stadtteilen gibt es über die gesamte kreisfreie Stadt verteilt 54 amtlich benannte Gemeindeteile. Inoffizielle Stadtteile sind Auloh, Mitterwöhr auf der gleichnamigen Isarinsel, Schweinbach und Zwischen den Brücken auf der Mühleninsel. Nennen Sie uns bei einer Panne Stadtteil oder Gemeindeteil und die Straße.</p>
 <h2>Isar, Mühleninsel und Hofberg</h2>
@@ -136,5 +203,8 @@
 <details><summary>Was ist der Josef-Deimer-Tunnel?</summary><div>Ein 1999 fertiggestellter Tunnel, früher Hofbergtunnel genannt, der eine zügige Durchquerung des Stadtgebiets ermöglicht.</div></details>
 <details><summary>Zu welchem Bezirk gehört Landshut?</summary><div>Landshut ist Sitz der Regierung von Niederbayern.</div></details>
 <details><summary>Ich stehe auf der Mühleninsel. Was sage ich?</summary><div>Straße, Brücke und Hinweis auf die Insel, dazu ob die Zufahrt eng ist.</div></details>
+<details><summary>Was kostet die Hilfe in Landshut?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Landshut?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

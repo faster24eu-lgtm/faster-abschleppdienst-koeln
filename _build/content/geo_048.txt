@@ -2,6 +2,17 @@
 <!--AREAS: Velbert, Velbert-Mitte, Neviges, Langenberg, Tönisheide, Heiligenhaus, Wuppertal -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Velbert</p><h1>Abschleppdienst Velbert</h1><p class="lead">Velbert liegt im Niederbergischen Land zwischen Düsseldorf, Essen und Wuppertal an A44, A535 und A46. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Velbert: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Velbert oder an A44, A535, A46 und B227. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Velbert fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Velbert abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A44, A535, A46, B227 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Herz des Niederbergischen Landes</h2>
 <p>Velbert ist eine große kreisangehörige Stadt des Kreises Mettmann mit rund 82.000 Einwohnern. Sie liegt rund 20 Kilometer nordöstlich von Düsseldorf, 18 Kilometer südlich von Essen und 12 Kilometer nordwestlich von Wuppertal auf den Höhen des Bergischen Landes und wird auch „Herz des Niederbergischen Landes“ genannt. Das Rathaus liegt etwa 248 Meter über dem Meer, der höchste Punkt liegt auf 303 Metern, der niedrigste im Deilbach an der Grenze zu Essen bei Langenberg auf 70,6 Metern. Die Stadt gliedert sich in die drei Stadtbezirke Velbert-Mitte, Neviges und Langenberg. Wegen der Höhenunterschiede nennen Sie uns bei einer Panne Stadtbezirk, Straße und ob Sie bergauf oder bergab stehen. Mehr auf <a href="stadt-wuppertal.html">Abschleppdienst Wuppertal</a>, <a href="stadt-essen.html">Abschleppdienst Essen</a> und <a href="stadt-ratingen.html">Abschleppdienst Ratingen</a>.</p>
 <h2>A44 mit Tunnel Birth</h2>
@@ -22,6 +33,9 @@
 <details><summary>Wie viele Stadtbezirke hat Velbert?</summary><div>Drei: Velbert-Mitte, Neviges und Langenberg.</div></details>
 <details><summary>Was ist DüBoDo?</summary><div>Der Name der geplanten A44 zwischen Düsseldorf, Bochum und Dortmund.</div></details>
 <details><summary>Was ist die A535?</summary><div>Die frühere B224, seit Ende 2008 als Autobahn geführt.</div></details>
+<details><summary>Was kostet die Hilfe in Velbert?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Velbert?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -29,6 +43,17 @@
 <!--AREAS: Minden, Minden-Häverstädt, Minden-Dützen, Minden-Haddenhausen, Porta Westfalica, Weser -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Minden</p><h1>Abschleppdienst Minden</h1><p class="lead">Minden liegt beiderseits der Weser im Nordosten Nordrhein-Westfalens, A2 und A30 verlaufen rund 15 Kilometer südlich. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Minden: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Minden oder an B65, B61, A2 und A30. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Minden fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Minden abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B65, B61, A2, A30 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Mittelstadt an der Weser</h2>
 <p>Minden ist eine Große kreisangehörige Stadt im Nordosten Nordrhein-Westfalens und Verwaltungssitz des Kreises Minden-Lübbecke mit 83.598 Einwohnern, die viertgrößte Stadt der Region Ostwestfalen-Lippe. Das Stadtgebiet wird in 19 Stadtbezirke eingeteilt, die Stadt reicht mit den Ortsteilen Häverstädt, Dützen und Haddenhausen bis an den Kamm des Wiehengebirges heran. Nennen Sie uns bei einer Panne Stadtbezirk und Straße. Mehr auf <a href="stadt-bielefeld.html">Abschleppdienst Bielefeld</a> und <a href="stadt-hannover.html">Abschleppdienst Hannover</a>.</p>
 <h2>A2, A30, B65 und B61</h2>
@@ -49,6 +74,9 @@
 <details><summary>Welche Bundesstraßen kreuzen sich in Minden?</summary><div>Die B65 und die B61, dazu die B482 östlich des Stadtgebiets.</div></details>
 <details><summary>Wie viele Stadtbezirke hat Minden?</summary><div>19.</div></details>
 <details><summary>Welche Brücken führen über die Weser?</summary><div>Die Weserbrücke, die Gustav-Heinemann-Brücke im Norden und die Theodor-Heuss-Brücke im Süden.</div></details>
+<details><summary>Was kostet die Hilfe in Minden?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Minden?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -56,14 +84,23 @@
 <!--AREAS: Gladbeck, Gladbeck-Mitte, Rentfort, Brauck, Butendorf, Ellinghorst, Zweckel, Schultendorf -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gladbeck</p><h1>Abschleppdienst Gladbeck</h1><p class="lead">Gladbeck liegt im nördlichen Ruhrgebiet an drei Autobahnen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Gladbeck: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Gladbeck oder an A2, A31, A52 und B224. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Gladbeck fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Gladbeck abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A2, A31, A52, B224 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Ehemalige Bergarbeiterstadt</h2>
 <p>Gladbeck liegt im nördlichen Ruhrgebiet im Nordwesten Nordrhein-Westfalens und ist eine große kreisangehörige Stadt des Kreises Recklinghausen. Sie entwickelte sich ab dem späten 19. Jahrhundert mit dem Kohleabbau zu einer typischen Bergarbeiterstadt, die letzte Zeche wurde 1971 geschlossen. Seit dem 1. Januar 1978 sind die sechs Stadtteile in Stadtbezirke unterteilt. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-bottrop.html">Abschleppdienst Bottrop</a> und <a href="stadt-gelsenkirchen.html">Abschleppdienst Gelsenkirchen</a>.</p>
 <h2>A2, A31 und A52</h2>
 <p>Gladbeck ist über drei Autobahnen angebunden: die A2 (E34) Oberhausen–Dortmund–Hannover–Berlin mit den Anschlussstellen 5 (Essen/Gladbeck) und 4 (Gladbeck-Ellinghorst), die A31 Bottrop–Gronau–Emden mit der Anschlussstelle 41 (Gladbeck) und die A52 mit der Anschlussstelle 42 (Gelsenkirchen Buer-West/Gladbeck). Dazu kommt die B224 Raesfeld–Dorsten–Gladbeck–Essen–Velbert–Wuppertal–Solingen mit den Anschlussstellen Gladbeck-Zentrum, Schloss Wittringen, Gladbeck A2 und Kösheide. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a2.html">Panne auf der A2</a>, <a href="autobahn-a31.html">Panne auf der A31</a> und <a href="autobahn-a52.html">Panne auf der A52</a>.</p>
 <h2>Europabrücke und getrennte Stadtteile</h2>
 <p>Der Stadtteil Mitte wird über die Europabrücke mit den Stadtteilen Rentfort und Schultendorf verbunden. Die beiden südlichen Stadtteile Butendorf und Brauck werden nach Nordwesten durch die B224 von Ellinghorst und Mitte getrennt, die Trasse der A2 wiederum trennt die beiden Ortsteile heute voneinander. Wenn Sie an einer Trasse liegen bleiben, nennen Sie uns, auf welcher Seite der Autobahn oder der B224 Sie stehen. Im Innovationszentrum Wiesenbusch zwischen dem Stadtteil Rentfort und der A31 befinden sich Gewerbebetriebe, nennen Sie uns dort Straße und Firmenname.</p>
-<h2>Von der Zeche zur Strukturwandel-Stadt</h2>
-<p>Die erste Zeche wurde ab 1873 abgeteuft, ab 1878 Kohle gefördert. Die kleine Dorfgemeinde wuchs zur Industrieansiedlung und erhielt am 21. Juli 1919 die Stadtrechte, zum 1. Januar 1921 wurde sie kreisfreie Stadt. Bis 1960 stieg die Einwohnerzahl auf bis zu 84.000 und liegt heute bei rund 77.000. Die letzte Gladbecker Zeche, Graf Moltke, wurde 1971 geschlossen, seitdem bemüht sich die Stadt um Strukturwandel. 1975 gehörte Gladbeck kurz zu Bottrop, die Eingemeindung wurde nach einer Klage der Stadt aber rückgängig gemacht. Nennen Sie uns bei einer Panne in einem der Zechen- oder Werkssiedlungsgebiete Straße und Hausnummer.</p>
 <h2>So nennen Sie Ihren Standort in Gladbeck</h2>
 <ul class="ticks">
 <li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
@@ -78,6 +115,9 @@
 <details><summary>Wann wurde die letzte Zeche geschlossen?</summary><div>1971.</div></details>
 <details><summary>Welche Bundesstraße führt durch Gladbeck?</summary><div>Die B224 von Raesfeld über Dorsten, Gladbeck und Essen nach Solingen.</div></details>
 <details><summary>Wie viele Stadtteile hat Gladbeck?</summary><div>Sechs, seit 1978 in Stadtbezirke unterteilt.</div></details>
+<details><summary>Was kostet die Hilfe in Gladbeck?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Gladbeck?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -85,6 +125,17 @@
 <!--AREAS: Memmingen, Amendingen, Buxach, Steinheim, Dickenreishausen, Eisenburg, Iller -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Memmingen</p><h1>Abschleppdienst Memmingen</h1><p class="lead">Memmingen liegt in Bayerisch-Schwaben am Autobahnkreuz von A7 und A96. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Memmingen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Memmingen oder an A7, A96, B300 und B312. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Memmingen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Memmingen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A7, A96, B300, B312 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Freie Reichsstadt an der Iller</h2>
 <p>Memmingen ist eine kreisfreie Stadt im bayerischen Regierungsbezirk Schwaben, Oberzentrum sowie Schul-, Verwaltungs- und Handelszentrum in der Region Donau-Iller. Mit 44.378 Einwohnern (31. Dezember 2025) ist sie die fünftgrößte Stadt im Regierungsbezirk Schwaben. Das Stadtgebiet grenzt im Westen an die Iller, die hier die Grenze zu Baden-Württemberg bildet, und ist im Norden, Osten und Süden vom Landkreis Unterallgäu umgeben. Sie liegt auf einem alten Gletscherplateau, mit gut erhaltener mittelalterlicher Altstadt. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-ulm.html">Abschleppdienst Ulm</a> und <a href="stadt-augsburg.html">Abschleppdienst Augsburg</a>.</p>
 <h2>Kreuz Memmingen: A7 und A96</h2>
@@ -105,6 +156,9 @@
 <details><summary>Welche Bundesstraßen führen nach Memmingen?</summary><div>B300 und B312.</div></details>
 <details><summary>Wie viele Einwohner hat Memmingen?</summary><div>44.378 am 31. Dezember 2025.</div></details>
 <details><summary>Was gilt in der Innenstadt?</summary><div>Eine einheitliche Höchstgeschwindigkeit von 30 km/h, die Altstadt hat eine rund ein Kilometer lange Fußgängerzone.</div></details>
+<details><summary>Was kostet die Hilfe in Memmingen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Memmingen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -112,6 +166,17 @@
 <!--AREAS: Iserlohn, Letmathe, Hemer, Seilersee, Iserlohn-Kalthof, Sümmern, Märkischer Kreis -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Iserlohn</p><h1>Abschleppdienst Iserlohn</h1><p class="lead">Iserlohn ist die größte Stadt des Sauerlandes und liegt an der A46 im Märkischen Kreis. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Iserlohn: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Iserlohn oder an A46, B7, B233 und B236. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Iserlohn fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Iserlohn abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A46, B7, B233, B236 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Größte Stadt des Sauerlandes</h2>
 <p>Iserlohn ist eine große kreisangehörige Stadt und Mittelstadt im Märkischen Kreis in Nordrhein-Westfalen und mit rund 93.000 Einwohnern die größte Stadt des Märkischen Kreises und des Sauerlandes. Im 18. und 19. Jahrhundert erlebte sie dank der Metallindustrie einen wirtschaftlichen Aufschwung und war jahrzehntelang zweitgrößte Stadt Westfalens. Heute ist die Wirtschaft neben der Metallweiterverarbeitung vor allem durch chemische und medizinische Produktion und Dienstleistungen geprägt. Iserlohn ist offiziell nicht in Stadtbezirke gegliedert, zum 1. Januar 1975 wurden die Städte Iserlohn und Letmathe sowie mehrere kleine Gemeinden zusammengeschlossen. Nennen Sie uns bei einer Panne Ortsteil und Straße, Letmathe und Iserlohn sind unterschiedliche Ortskerne. Mehr auf <a href="stadt-hagen.html">Abschleppdienst Hagen</a> und <a href="stadt-dortmund.html">Abschleppdienst Dortmund</a>.</p>
 <h2>A46 und drei Bundesstraßen</h2>
@@ -132,5 +197,8 @@
 <details><summary>Welche Bundesstraßen gibt es?</summary><div>B7, B233 und B236.</div></details>
 <details><summary>Gibt es Stadtbezirke?</summary><div>Nein, Iserlohn ist offiziell nicht in Stadtbezirke gegliedert.</div></details>
 <details><summary>Wo endet die A46 vorläufig?</summary><div>Am Anschluss Hemer, einen Kilometer hinter der Autobahnbrücke über den Seilersee.</div></details>
+<details><summary>Was kostet die Hilfe in Iserlohn?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Iserlohn?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

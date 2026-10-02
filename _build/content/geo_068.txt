@@ -2,6 +2,17 @@
 <!--AREAS: Soest, Soester Börde, Ostönnen, Meiningsen, Deiringsen, Hellweg, Welver, Bad Sassendorf -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Soest</p><h1>Abschleppdienst Soest</h1><p class="lead">Soest liegt auf halbem Weg zwischen Dortmund und Paderborn am alten Hellweg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Soest: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Soest oder an B1, B475 und B229. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Soest fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Soest abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B1, B475, B229 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisstadt in der Soester Börde</h2>
 <p>Soest ist Kreisstadt des gleichnamigen Kreises im Regierungsbezirk Arnsberg und hat 47.752 Einwohner. Die Stadt liegt auf halbem Weg zwischen Dortmund und Paderborn in der fruchtbaren Soester Börde, einem Teil der Hellwegbörden. Zum 1. Juli 1969 wurde die alte Stadt Soest durch das Soest-Beckum-Gesetz mit 18 ursprünglich selbstständigen Gemeinden zusammengeschlossen, die heute Ortsteile sind. Die historische Gliederung der Kernstadt bestand aus den sechs sogenannten „Hofen“ und dem Umland, der Börde. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-unna.html">Abschleppdienst Unna</a>, <a href="stadt-hamm.html">Abschleppdienst Hamm</a> und <a href="stadt-arnsberg.html">Abschleppdienst Arnsberg</a>.</p>
 <h2>B1 als alter Hellweg</h2>
@@ -24,6 +35,9 @@
 <details><summary>Welche weiteren Bundesstraßen gibt es?</summary><div>Die B475 ins Münsterland und die B229 ins Sauerland.</div></details>
 <details><summary>Wie viele Ortsteile hat Soest?</summary><div>18, seit der Zusammenlegung 1969.</div></details>
 <details><summary>Wie viele Einwohner hat Soest?</summary><div>47.752.</div></details>
+<details><summary>Was kostet die Hilfe in Soest?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Soest?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,6 +45,17 @@
 <!--AREAS: Nordhorn, Bookholt, Deegfeld, Blanke, Vechte, Grafschaft Bentheim -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Nordhorn</p><h1>Abschleppdienst Nordhorn</h1><p class="lead">Nordhorn liegt an der Vechte direkt an der niederländischen Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Nordhorn: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Nordhorn oder an A30, A31, B403 und B213. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Nordhorn fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Nordhorn abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A30, A31, B403, B213 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisstadt der Grafschaft Bentheim</h2>
 <p>Nordhorn ist Kreisstadt des Landkreises Grafschaft Bentheim im äußersten Südwesten Niedersachsens an der Vechte und grenzt direkt an die Niederlande. Als große Mittelstadt ist sie Mitglied der Euregio und raumplanerisch Mittelzentrum mit Teilfunktion eines Oberzentrums. Im Innenstadtbereich gibt es rund 2.800 Parkplätze, aufgeteilt in die drei Parkbereiche City-Nordwest, -Ost und -Süd. Nennen Sie uns bei einer Panne Stadtteil und Straße, dazu welcher Parkbereich am nächsten liegt. Mehr auf <a href="stadt-lingen.html">Abschleppdienst Lingen</a> und <a href="stadt-rheine.html">Abschleppdienst Rheine</a>.</p>
 <h2>Nähe zu A30 und A31, Schnittpunkt B403/B213</h2>
@@ -53,6 +78,9 @@
 <details><summary>Welche Bundesstraßen kreuzen sich?</summary><div>B403 und B213.</div></details>
 <details><summary>Seit wann gibt es die Nordumgehung?</summary><div>Seit 2019.</div></details>
 <details><summary>Was ist mit dem Bahnhof Nordhorn?</summary><div>Er wurde 2023 zum „Bahnhof des Jahres“ gekürt.</div></details>
+<details><summary>Was kostet die Hilfe in Nordhorn?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Nordhorn?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -60,6 +88,17 @@
 <!--AREAS: Nienburg, Weser, Verden, Walsrode, Mittelweserregion -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Nienburg/Weser</p><h1>Abschleppdienst Nienburg/Weser</h1><p class="lead">Nienburg liegt an der Weser in der Mittelweserregion, ohne eigenen Autobahnanschluss. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Nienburg/Weser: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Nienburg/Weser oder an B6, B214, B215 und A27. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Nienburg/Weser fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Nienburg/Weser abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B6, B214, B215, A27 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisstadt ohne eigenen Autobahnanschluss</h2>
 <p>Nienburg/Weser ist Kreisstadt des gleichnamigen Landkreises in Niedersachsen und liegt an der Weser in der Norddeutschen Tiefebene, in der Mittelweserregion. Die geplanten Autobahnen A32 und A35 wurden nie realisiert, damit hat Nienburg keinen direkten Anschluss an das Autobahnnetz, die nächsten Autobahnen sind etwa 40 Kilometer entfernt. Ziele im Norden sind über die A27 erreichbar, mit den Anschlussstellen Verden-Nord, Verden-Ost und Walsrode-West. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-verden.html">Abschleppdienst Verden</a>, <a href="stadt-hannover.html">Abschleppdienst Hannover</a> und <a href="stadt-osnabrueck.html">Abschleppdienst Osnabrück</a>.</p>
 <h2>B6, B214 und B215</h2>
@@ -82,6 +121,9 @@
 <details><summary>Welche Bundesstraßen führen durch Nienburg?</summary><div>B6, B214 und B215.</div></details>
 <details><summary>Gibt es einen ICE-Halt?</summary><div>Ja, seit 2012 morgens und abends zusätzlich zur IC-Linie 56.</div></details>
 <details><summary>An welchem Fluss liegt Nienburg?</summary><div>An der Weser.</div></details>
+<details><summary>Was kostet die Hilfe in Nienburg/Weser?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Nienburg/Weser?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -89,6 +131,17 @@
 <!--AREAS: Verden, Verdener Heide, Geestrücken, Aller, Weser, Mittelweserregion -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Verden (Aller)</p><h1>Abschleppdienst Verden (Aller)</h1><p class="lead">Verden liegt an der Mündung der Aller in die Weser, direkt an der A27. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Verden (Aller): Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Verden (Aller) oder an A27 und B215. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Verden (Aller) fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Verden (Aller) abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A27, B215 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Reiterstadt an Aller und Weser</h2>
 <p>Verden (Aller) ist Kreisstadt des Landkreises Verden in Niedersachsen und liegt in der Mittelweserregion an der Aller, unmittelbar vor deren Mündung in die Weser. Als Zentrum der Pferdezucht und des Pferdesports trägt sie den Beinamen Reiterstadt. Vorstädte und Neubauviertel erstrecken sich östlich um den Bahnhof sowie nördlich und südlich der Altstadt auf dem Geestrücken der Verdener Heide, am Fuß der Geest liegt nordwestlich ein Gewerbegebiet. Links der Aller gibt es nur wenig städtische Bebauung, die eingemeindeten Dörfer dort wachsen aber zunehmend zu Vorstadtsiedlungen an. Nennen Sie uns bei einer Panne Stadtteil und Straße, dazu ob Sie links oder rechts der Aller stehen. Mehr auf <a href="stadt-nienburg.html">Abschleppdienst Nienburg/Weser</a> und <a href="stadt-bremen.html">Abschleppdienst Bremen</a>.</p>
 <h2>A27 und B215</h2>
@@ -111,5 +164,8 @@
 <details><summary>Welche Bundesstraße führt durch Verden?</summary><div>Die B215 (Rotenburg (Wümme)–Nienburg/Weser–Minden).</div></details>
 <details><summary>Warum heißt Verden „Reiterstadt“?</summary><div>Als Zentrum der Pferdezucht und des Pferdesports.</div></details>
 <details><summary>An welchem Fluss liegt Verden?</summary><div>An der Aller, kurz vor deren Mündung in die Weser.</div></details>
+<details><summary>Was kostet die Hilfe in Verden (Aller)?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Verden (Aller)?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

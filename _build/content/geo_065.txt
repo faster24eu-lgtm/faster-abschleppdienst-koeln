@@ -2,6 +2,17 @@
 <!--AREAS: Neustadt an der Weinstraße, Hambach, Gimmeldingen, Haardt, Mußbach, Königsbach, Winzingen, Deutsche Weinstraße -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neustadt an der Weinstraße</p><h1>Abschleppdienst Neustadt an der Weinstraße</h1><p class="lead">Neustadt an der Weinstraße liegt an der Haardt in der Pfalz, zwei Anschlussstellen führen zur A65. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Neustadt an der Weinstraße: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Neustadt an der Weinstraße oder an A65. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Neustadt an der Weinstraße fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Neustadt an der Weinstraße abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A65 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisfreie Stadt an der Deutschen Weinstraße</h2>
 <p>Neustadt an der Weinstraße ist eine kreisfreie Stadt in Rheinland-Pfalz und Teil der Metropolregion Rhein-Neckar, eines der Zentren des deutschen Weinbaus. 1969 wurden die bis dahin eigenständigen Gemeinden Diedesfeld, Geinsheim, Gimmeldingen, Haardt, Hambach, Königsbach, Lachen-Speyerdorf und Mußbach eingemeindet, 1974 folgte Duttweiler, sie liegen zwischen einem und zehn Kilometern von der Kernstadt entfernt. Winzingen, heute ein Stadtviertel, wurde bereits 774 urkundlich erwähnt. Der höchste Punkt liegt bei 614 Metern am Hohe-Loog-Haus in der Haardt, der tiefste bei 108 Metern im Südosten. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-landau.html">Abschleppdienst Landau</a>, <a href="stadt-ludwigshafen.html">Abschleppdienst Ludwigshafen</a> und <a href="stadt-mannheim.html">Abschleppdienst Mannheim</a>.</p>
 <h2>A65 mit zwei Anschlussstellen</h2>
@@ -24,6 +35,9 @@
 <details><summary>Wie lange dauert es nach Mannheim?</summary><div>Etwa 30 Minuten bei freier Strecke.</div></details>
 <details><summary>Was ist der Hauptbahnhof für die Region?</summary><div>Der größte Schienenverkehrsknotenpunkt im Süden von Rheinland-Pfalz.</div></details>
 <details><summary>Seit wann gehören die Stadtteile dazu?</summary><div>Die meisten seit 1969, Duttweiler seit 1974.</div></details>
+<details><summary>Was kostet die Hilfe in Neustadt an der Weinstraße?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Neustadt an der Weinstraße?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,6 +45,17 @@
 <!--AREAS: Landau in der Pfalz, Arzheim, Godramstein, Queichtal, Pfälzerwald, Südliche Weinstraße -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Landau in der Pfalz</p><h1>Abschleppdienst Landau in der Pfalz</h1><p class="lead">Landau liegt an der Südlichen Weinstraße am Pfälzerwald, drei Anschlussstellen führen zur A65. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Landau in der Pfalz: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Landau in der Pfalz oder an A65, B10 und B38. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Landau in der Pfalz fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Landau in der Pfalz abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A65, B10, B38 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Sechstgrößte Stadt der Pfalz</h2>
 <p>Landau in der Pfalz ist Verwaltungssitz des Landkreises Südliche Weinstraße, dem sie selbst nicht angehört, und nach Einwohnerzahl die sechstgrößte Stadt der Pfalz. Der Osten der Stadt liegt in der Oberrheinischen Tiefebene, der Westen mit der Kernstadt gehört zur Weinstraße, dazu kommen ausgedehnte Waldgebiete des Pfälzerwaldes. Die Stadtwald-Exklave Taubensuhl/Fassendeich liegt über zwei Kilometer entfernt bei Eusserthal. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-neustadt-weinstrasse.html">Abschleppdienst Neustadt an der Weinstraße</a>, <a href="abschleppdienst-karlsruhe.html">Abschleppdienst Karlsruhe</a> und <a href="stadt-pirmasens.html">Abschleppdienst Pirmasens</a>.</p>
 <h2>A65 mit drei Anschlussstellen, B10 und B38</h2>
@@ -53,6 +78,9 @@
 <details><summary>Welche Bundesstraßen führen durch Landau?</summary><div>B10 und B38.</div></details>
 <details><summary>Wie viele Bahnstationen gibt es?</summary><div>Den Hauptbahnhof sowie Landau West und Landau Süd an der Queichtalbahn.</div></details>
 <details><summary>Wo liegt der Zoo?</summary><div>Im Stadtgebiet, gegründet am 24. Juli 1904.</div></details>
+<details><summary>Was kostet die Hilfe in Landau in der Pfalz?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Landau in der Pfalz?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -60,6 +88,17 @@
 <!--AREAS: Frankenthal, Mörsch, Studernheim, Flomersheim, Eppstein, Isenach, Rhein -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Frankenthal (Pfalz)</p><h1>Abschleppdienst Frankenthal (Pfalz)</h1><p class="lead">Frankenthal liegt in der Oberrheinischen Tiefebene zwischen Pfälzerwald und Rhein, die A6 verläuft direkt nördlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Frankenthal (Pfalz): Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Frankenthal (Pfalz) oder an A6 und B9. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Frankenthal (Pfalz) fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Frankenthal (Pfalz) abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A6, B9 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Zwischen Pfälzerwald und Rhein</h2>
 <p>Frankenthal (Pfalz) liegt in der Oberrheinischen Tiefebene zwischen dem Pfälzerwald im Westen und dem Rhein im Osten. Durch die Stadt fließt die Isenach, die sechs Kilometer weiter in den Rhein mündet, ihr früherer Zufluss Fuchsbach ist im Stadtgebiet verrohrt. Auf der Gemarkung, nur wenige hundert Meter vom Rhein entfernt im nordöstlichen Vorort Mörsch, liegt mit 87,3 Metern über NHN der tiefste Punkt der Pfalz. 1919 wurden die drei nahe der Stadt liegenden Dörfer Flomersheim, Mörsch und Studernheim eingemeindet. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-ludwigshafen.html">Abschleppdienst Ludwigshafen</a>, <a href="stadt-worms.html">Abschleppdienst Worms</a> und <a href="stadt-mannheim.html">Abschleppdienst Mannheim</a>.</p>
 <h2>A6 im Norden, B9 aus dem Süden</h2>
@@ -82,6 +121,9 @@
 <details><summary>Welche Bundesstraße kommt aus Süden?</summary><div>Die B9 (Speyer–Worms).</div></details>
 <details><summary>Wo liegt der tiefste Punkt der Pfalz?</summary><div>Im Vorort Mörsch, auf 87,3 Metern über NHN.</div></details>
 <details><summary>Seit wann gehören Flomersheim, Mörsch und Studernheim dazu?</summary><div>Seit 1919.</div></details>
+<details><summary>Was kostet die Hilfe in Frankenthal (Pfalz)?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Frankenthal (Pfalz)?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -89,27 +131,31 @@
 <!--AREAS: Neunkirchen, Furpach, Wiebelskirchen, Wellesweiler, Hangard, Münchwies, Bliestal, Eisenwerk -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neunkirchen (Saar)</p><h1>Abschleppdienst Neunkirchen (Saar)</h1><p class="lead">Neunkirchen liegt im Bliestal an der A8, das ehemalige Eisenwerk prägt bis heute die Innenstadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Neunkirchen (Saar): Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Neunkirchen (Saar) oder an A8. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Neunkirchen (Saar) fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Neunkirchen (Saar) abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A8 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Ehemalige Eisenwerksstadt im Bliestal</h2>
 <p>Neunkirchen im Saarland wurde durch das 1593 im Bliestal errichtete Neunkircher Eisenwerk geprägt, das die Geschicke des Ortes über Jahrhunderte bestimmte. 1922 wurden die Gemeinden Kohlhof mit Furpach, Niederneunkirchen und Wellesweiler eingegliedert, am 1. Januar 1974 folgten Hangard, Münchwies und Wiebelskirchen. Das Eisenwerk schloss 1982 bis auf die Walzstraße, Teile sind als Industriedenkmal „Altes Hüttenareal“ erhalten. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-saarbruecken.html">Abschleppdienst Saarbrücken</a> und <a href="stadt-saarlouis.html">Abschleppdienst Saarlouis</a>.</p>
 <h2>A8 bei Furpach</h2>
 <p>Der Stadtteil Furpach, ein Wohn- und Naherholungsgebiet rund dreieinhalb Kilometer südöstlich der Innenstadt, liegt an der A8. Bei einer Panne auf der A8 nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a8.html">Panne auf der A8</a>. Wenn Sie zwischen Innenstadt und Furpach unterwegs sind, sagen Sie uns, welchen der beiden Orte Sie zuletzt passiert haben.</p>
 <h2>Saarpark-Center auf der Industriebrache</h2>
 <p>Ende der 1980er Jahre wurde auf der Industriebrache des Eisenwerks das Saarpark-Center gebaut, die Einweihung fand 1989 statt. Es zieht an normalen Tagen bis zu 25.000 und zur Weihnachtszeit bis zu 50.000 Besucher an, dadurch ist die Innenstadt an solchen Tagen stark befahren. Wenn Sie dort liegen bleiben, nennen Sie uns Parkebene oder Straße und Zufahrt.</p>
-<h2>Wiebelskirchen und Wellesweiler</h2>
-<p>Die 1974 eingemeindeten Stadtteile Wiebelskirchen, Hangard und Münchwies liegen abseits der Innenstadt, ebenso Wellesweiler seit 1922. Nennen Sie uns bei einer Panne dort den Stadtteil, da Straßennamen sich wiederholen können.</p>
-<h2>So nennen Sie Ihren Standort in Neunkirchen</h2>
-<ul class="ticks">
-<li>Stadtteil (Furpach, Wiebelskirchen, Wellesweiler …), Straße, Hausnummer.</li>
-<li>Auf der A8: Richtung, Anschlussstelle bei Furpach.</li>
-<li>Am Saarpark-Center: Parkebene, Straße.</li>
-<li>Am Alten Hüttenareal: Straße, Zufahrt.</li>
-</ul>
-<p>Weitere Städte: <a href="stadt-zweibruecken.html">Zweibrücken</a> und <a href="stadt-kaiserslautern.html">Kaiserslautern</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Neunkirchen</h2>
 <details><summary>Welche Autobahn führt an Neunkirchen vorbei?</summary><div>Die A8, beim Stadtteil Furpach.</div></details>
 <details><summary>Was ist das Saarpark-Center?</summary><div>Ein 1989 eröffnetes Einkaufszentrum auf der ehemaligen Industriebrache des Eisenwerks.</div></details>
 <details><summary>Wann schloss das Eisenwerk?</summary><div>1982, bis auf die Walzstraße, die weiter betrieben wurde.</div></details>
 <details><summary>Seit wann gehören Hangard, Münchwies und Wiebelskirchen dazu?</summary><div>Seit dem 1. Januar 1974.</div></details>
+<details><summary>Was kostet die Hilfe in Neunkirchen (Saar)?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Neunkirchen (Saar)?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

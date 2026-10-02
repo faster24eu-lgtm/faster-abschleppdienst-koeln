@@ -2,6 +2,17 @@
 <!--AREAS: Saarlouis, Roden, Fraulautern, Lisdorf, Picard, Beaumarais, Neuforweiler -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Saarlouis</p><h1>Abschleppdienst Saarlouis</h1><p class="lead">Saarlouis liegt im mittleren Saartal an der A8 und A620. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Saarlouis: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Saarlouis oder an A8, A620, B51 und B269. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Saarlouis fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Saarlouis abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A8, A620, B51, B269 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Fünftgrößte Stadt des Saarlandes</h2>
 <p>Saarlouis ist mit rund 37.000 Einwohnern die fünftgrößte Stadt des Saarlandes und Verwaltungssitz des Landkreises Saarlouis, ein wirtschaftlicher Schwerpunkt ist die Automobilindustrie. Zur Stadt gehören die Kernstadt und die Stadtteile Beaumarais, Fraulautern, Lisdorf, Neuforweiler, Picard und Roden, die meisten davon 1936 eingemeindet, Neuforweiler 1970. Die Kernstadt ist im Uhrzeigersinn von Roden, Fraulautern, Lisdorf, Picard und Beaumarais umgeben. Nennen Sie uns bei einer Panne Stadtteil und Straße. Der Große Markt mit der Ludwigskirche bildet das Zentrum des Saarlouiser Beckens, das rund 15 Kilometer von Nord nach Süd und rund neun Kilometer von West nach Ost misst.</p>
 <h2>A8 und A620</h2>
@@ -24,6 +35,9 @@
 <details><summary>Welche Bundesstraßen gibt es?</summary><div>B51, B269 und B405.</div></details>
 <details><summary>Welche Stadtteile hat Saarlouis?</summary><div>Beaumarais, Fraulautern, Lisdorf, Neuforweiler, Picard und Roden.</div></details>
 <details><summary>Wo liegt das Zentrum?</summary><div>Am Großen Markt mit der Ludwigskirche im Saarlouiser Becken.</div></details>
+<details><summary>Was kostet die Hilfe in Saarlouis?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Saarlouis?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,27 +45,31 @@
 <!--AREAS: Neunkirchen (Saar), Furpach, Wellesweiler, Ottweiler, Blies, Oberstadt -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neunkirchen (Saar)</p><h1>Abschleppdienst Neunkirchen (Saar)</h1><p class="lead">Neunkirchen liegt an der Blies nordöstlich von Saarbrücken an A6, A8 und B41. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Neunkirchen (Saar): Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Neunkirchen (Saar) oder an A6, A8 und B41. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Neunkirchen (Saar) fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Neunkirchen (Saar) abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A6, A8, B41 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Zweitgrößte Stadt des Saarlandes</h2>
 <p>Neunkirchen ist eine saarländische Kreisstadt an der Blies, etwa 20 Kilometer nordöstlich von Saarbrücken, mit 46.896 Einwohnern (31. Dezember 2025) nach Saarbrücken die zweitgrößte Stadt des Saarlandes. Sie ist Kreisstadt des gleichnamigen Landkreises, der Landrat sitzt allerdings in Ottweiler. Der Namenszusatz „(Saar)“ steht als Kurzbezeichnung für die Lage im ehemaligen Saargebiet und bedeutet nicht „an der Saar“. Nennen Sie uns deshalb bei einer Panne bitte „Neunkirchen im Saarland“ und die Straße. Mehr auf <a href="stadt-saarbruecken.html">Abschleppdienst Saarbrücken</a>.</p>
 <h2>A6, A8 und B41</h2>
 <p>Neunkirchen ist über die A6 (Saarbrücken–Waidhaus) und A8 (Perl–Bad Reichenhall) sowie die B41 (Saarbrücken–Bad Kreuznach) an das überregionale Straßennetz angebunden. Furpach, ein Wohn- und Naherholungsgebiet, liegt rund dreieinhalb Kilometer südöstlich der Innenstadt an der A8. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a6.html">Panne auf der A6</a> und <a href="autobahn-a8.html">Panne auf der A8</a>. Zur Nachbarstadt: <a href="stadt-kaiserslautern.html">Kaiserslautern</a>.</p>
 <h2>Kernstadt zwischen Blies und Hügeln</h2>
 <p>Die Kernstadt erstreckt sich von der Blies, wo ein modernes Einkaufszentrum errichtet wurde, auf die Hügel vor allem südlich des Flusses. Das alte Stadtzentrum, die Oberstadt, gruppiert sich um den Oberen Markt. Eschweilerhof und Hofgut Menschenhaus kamen 1974 durch die Gebiets- und Verwaltungsreform des Saarlandes zu Neunkirchen. Wenn Sie am Einkaufszentrum liegen bleiben, nennen Sie uns Parkplatz oder Parkebene, in der Oberstadt Straße und Hausnummer.</p>
-<h2>Bergbau und Denkmäler</h2>
-<p>Die Bergbauanlagen der Stadt sind inzwischen zu Denkmälern geworden. Wenn Sie in der Nähe von Haldenflächen oder Wanderwegen liegen bleiben, nennen Sie uns die Straße und den nächsten Ortsteil.</p>
-<h2>So nennen Sie Ihren Standort in Neunkirchen</h2>
-<ul class="ticks">
-<li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
-<li>Auf A6 oder A8: Richtung, Anschlussstelle.</li>
-<li>Auf der B41: Fahrtrichtung, nächster Ort.</li>
-<li>Am Einkaufszentrum: Parkplatz oder Ebene.</li>
-</ul>
-<p>Weitere Städte: <a href="stadt-zweibruecken.html">Zweibrücken</a> und <a href="stadt-pirmasens.html">Pirmasens</a>.</p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu Neunkirchen (Saar)</h2>
 <details><summary>Welche Autobahnen führen nach Neunkirchen?</summary><div>Die A6 (Saarbrücken–Waidhaus) und die A8 (Perl–Bad Reichenhall).</div></details>
 <details><summary>Wie weit ist Saarbrücken?</summary><div>Etwa 20 Kilometer südwestlich.</div></details>
 <details><summary>Was bedeutet der Zusatz (Saar)?</summary><div>Er bezeichnet die Lage im ehemaligen Saargebiet, nicht die Lage an der Saar.</div></details>
 <details><summary>Wo liegt Furpach?</summary><div>Rund dreieinhalb Kilometer südöstlich der Innenstadt an der A8.</div></details>
+<details><summary>Was kostet die Hilfe in Neunkirchen (Saar)?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Neunkirchen (Saar)?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

@@ -2,6 +2,17 @@
 <!--AREAS: Salzgitter, Salzgitter-Lebenstedt, Salzgitter-Bad, Salzgitter-Thiede, Salzgitter-Gebhardshagen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Salzgitter</p><h1>Abschleppdienst Salzgitter</h1><p class="lead">Salzgitter liegt nördlich des Harzes im Südosten Niedersachsens, an A39 und A36 und nahe dem Dreieck Salzgitter an der A7. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Salzgitter: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Salzgitter oder an A39, A36, A7 und B6. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Salzgitter fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Salzgitter abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A39, A36, A7, B6 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Sieben Ortschaften, 31 Stadtteile</h2>
 <p>Salzgitter ist eine Großstadt nördlich des Harzes im Südosten Niedersachsens, kreisfrei und Sitz der Salzgitter AG. Das Stadtgebiet besteht aus sieben Ortschaften, die sich aus insgesamt 31 Stadtteilen zusammensetzen und teils weit auseinanderliegen. Nennen Sie uns bei einer Panne Stadtteil und Straße, denn die Entfernungen zwischen den Stadtteilen sind groß.</p>
 <h2>Lebenstedt und Salzgitter-Bad</h2>
@@ -29,6 +40,9 @@
 <details><summary>Was verbindet Lebenstedt und Salzgitter-Bad?</summary><div>Die Nord-Süd-Straße verbindet die beiden größten Stadtteile.</div></details>
 <details><summary>Können Sie mein Auto von Salzgitter zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Salzgitter liegt oder etwa in Braunschweig oder Wolfsburg.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Salzgitter?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Salzgitter?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Salzgitter?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -36,6 +50,17 @@
 <!--AREAS: Fürth, Fürth-Atzenhof, Fürth-Poppenreuth, Fürth-Stadeln, Nürnberg -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Fürth</p><h1>Abschleppdienst Fürth</h1><p class="lead">Fürth bildet mit Nürnberg und Erlangen das Kerngebiet des Ballungsraums Nürnberg. Am Kreuz Fürth/Erlangen kreuzen A3 und A73. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Fürth: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Fürth oder an A73 und A3. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Fürth fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Fürth abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A73, A3 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Städtedreieck im Nürnberger Raum</h2>
 <p>Fürth ist eine kreisfreie Großstadt im bayerischen Regierungsbezirk Mittelfranken. Sie bildet mit Nürnberg und Erlangen das Kerngebiet des Ballungsraums Nürnberg, zu dem auch Schwabach zählt, und ist Teil der Metropolregion Nürnberg. Die drei Städte gehen im Stadtgebiet ineinander über. Das bedeutet bei einer Panne: Sagen Sie uns nicht nur "Fürth", sondern Stadtteil und Straße, denn eine Straße kann auf der Grenze zu Nürnberg liegen. Nennen Sie uns bei Grenzstraßen die Hausnummer.</p>
 <h2>Kreuz Fürth/Erlangen: A3 und A73</h2>
@@ -65,6 +90,9 @@
 <details><summary>Ich stehe an der Grenze zu Nürnberg. Was sage ich?</summary><div>Straße und Hausnummer und dass die Straße auf der Stadtgrenze liegt.</div></details>
 <details><summary>Können Sie mein Auto von Fürth zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Fürth liegt oder etwa in Nürnberg oder Erlangen.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Fürth?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Fürth?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Fürth?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -72,6 +100,17 @@
 <!--AREAS: Hildesheim, Hildesheim-Mitte, Hildesheim-Himmelsthür, Hildesheim-Ochtersum, Hildesheim-Drispenstedt -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hildesheim</p><h1>Abschleppdienst Hildesheim</h1><p class="lead">Hildesheim liegt rund 30 Kilometer südöstlich von Hannover, mit der A7 östlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Hildesheim: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Hildesheim oder an A7 und A39. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Hildesheim fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Hildesheim abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A7, A39 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Stadt südöstlich von Hannover</h2>
 <p>Hildesheim liegt in Niedersachsen, rund 30 Kilometer südöstlich der Landeshauptstadt Hannover. Die Stadt ist eine Einheitsgemeinde und besteht aus 14 Ortschaften beziehungsweise Stadtteilen. Nennen Sie uns bei einer Panne Ortschaft oder Stadtteil und die Straße, denn "Hildesheim" allein ist zu ungenau.</p>
 <h2>A7 östlich der Stadt</h2>
@@ -100,6 +139,9 @@
 <details><summary>Wie weit ist Hannover?</summary><div>Rund 30 Kilometer nordwestlich.</div></details>
 <details><summary>Können Sie mein Auto von Hildesheim zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Hildesheim liegt oder etwa in Hannover oder Braunschweig.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Hildesheim?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Hildesheim?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Hildesheim?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -107,6 +149,17 @@
 <!--AREAS: Cottbus, Cottbus-Sielow, Cottbus-Madlow, Cottbus-Sachsendorf, Cottbus-Ströbitz -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cottbus</p><h1>Abschleppdienst Cottbus</h1><p class="lead">Cottbus liegt in der Niederlausitz an der A15 Richtung Polen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Cottbus: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Cottbus oder an A15, B97, B168 und B169. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Cottbus fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Cottbus abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A15, B97, B168, B169 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Stadt in der Niederlausitz</h2>
 <p>Cottbus, niedersorbisch Chóśebuz, ist eine kreisfreie Stadt in der Niederlausitz. Das Stadtgebiet ist in 19 Ortsteile gegliedert. Nennen Sie uns bei einer Panne Ortsteil und Straße.</p>
 <h2>A15: drei Anschlussstellen</h2>
@@ -138,6 +191,9 @@
 <details><summary>Können Sie mein Auto von Cottbus zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal wo die Werkstatt liegt.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Cottbus?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Ich stehe auf einer Landstraße außerhalb der Stadt. Was sage ich?</summary><div>Die Straße, den nächsten Ort und Ihre Fahrtrichtung, dann finden wir Sie auch abseits des Stadtgebiets.</div></details>
+<details><summary>Was kostet die Hilfe in Cottbus?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Cottbus?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -145,6 +201,17 @@
 <!--AREAS: Gütersloh, Gütersloh-Pavenstädt, Gütersloh-Kattenstroth, Gütersloh-Blankenhagen, Rheda-Wiedenbrück -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gütersloh</p><h1>Abschleppdienst Gütersloh</h1><p class="lead">Gütersloh liegt an der A2 in Ostwestfalen-Lippe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Gütersloh: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Gütersloh oder an A2. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Gütersloh fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Gütersloh abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A2 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisstadt in Ostwestfalen-Lippe</h2>
 <p>Gütersloh ist eine Stadt in Nordrhein-Westfalen und Verwaltungssitz des Kreises Gütersloh. Der amtlich als ein Stadtteil ausgewiesene Bereich "Gütersloh" besteht tatsächlich aus sieben Stadtteilen: Gütersloh (Stadtmitte), Pavenstädt, Flughafen, Blankenhagen, Nordhorn, Sundern und Kattenstroth. Nennen Sie uns bei einer Panne Stadtteil und Straße, zum Beispiel Pavenstädt, Kattenstroth oder Blankenhagen, denn die amtliche Bezeichnung "Gütersloh" ist weit gefasst.</p>
 <h2>A2 mit eigener Anschlussstelle</h2>
@@ -170,6 +237,9 @@
 <details><summary>Kommen Sie auch nach Rheda-Wiedenbrück?</summary><div>Ja, wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
 <details><summary>Können Sie mein Auto von Gütersloh zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Gütersloh liegt oder etwa in Bielefeld.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Gütersloh?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Gütersloh?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Gütersloh?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -177,6 +247,17 @@
 <!--AREAS: Witten, Witten-Heven, Witten-Herbede, Witten-Stockum, Witten-Annen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Witten</p><h1>Abschleppdienst Witten</h1><p class="lead">Witten liegt im Südosten des Ruhrgebiets an A43, A448 und A45. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Witten: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Witten oder an A43, A448 und A45. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Witten fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Witten abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A43, A448, A45 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Große kreisangehörige Stadt an der Ruhr</h2>
 <p>Witten liegt im Südosten des Ruhrgebiets in Nordrhein-Westfalen und ist eine große kreisangehörige Stadt des Ennepe-Ruhr-Kreises. Das Stadtgebiet ist in sieben Stadtteile eingeteilt. Nennen Sie uns bei einer Panne Stadtteil und Straße, etwa Heven, Herbede, Stockum oder Annen.</p>
 <h2>Drei Autobahnen, acht Anschlussstellen</h2>
@@ -205,6 +286,9 @@
 <details><summary>Können Sie mein Auto von Witten zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Witten liegt oder etwa in Dortmund oder Hagen.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Witten?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Ich stehe am Kemnader Stausee. Was sage ich?</summary><div>Straße, Parkplatz und den nächsten Anleger, dort gibt es oft keine Hausnummern.</div></details>
+<details><summary>Was kostet die Hilfe in Witten?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Witten?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -212,6 +296,17 @@
 <!--AREAS: Hanau, Hanau-Kesselstadt, Hanau-Steinheim, Hanau-Großauheim, Hanau-Wolfgang -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hanau</p><h1>Abschleppdienst Hanau</h1><p class="lead">Hanau liegt östlich von Frankfurt, wo sich A45 und A66 am Hanauer Kreuz treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Hanau: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Hanau oder an A45, A66, A3 und B45. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Hanau fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Hanau abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A45, A66, A3, B45 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisfreie Stadt östlich von Frankfurt</h2>
 <p>Hanau ist eine kreisfreie Stadt im hessischen Regierungsbezirk Darmstadt und in zehn Stadtteile aufgeteilt, die wiederum in Stadtbezirke gegliedert sind. Nennen Sie uns bei einer Panne Stadtteil und Straße, zum Beispiel Kesselstadt, Steinheim, Großauheim oder Wolfgang.</p>
 <h2>A45, A66 und das Hanauer Kreuz</h2>
@@ -239,6 +334,9 @@
 <details><summary>Hat Hanau einen Flugplatz?</summary><div>Nein. Kleinmaschinen fliegen Zellhausen oder Langenselbold an, der Frankfurter Flughafen ist etwa 30 Kilometer entfernt.</div></details>
 <details><summary>Können Sie mein Auto von Hanau zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Hanau liegt oder etwa in Frankfurt.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Hanau?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Hanau?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Hanau?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -246,6 +344,17 @@
 <!--AREAS: Schwerin, Schwerin-Lankow, Schwerin-Großer Dreesch, Schwerin-Neumühle, Schwerin-Zippendorf -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Schwerin</p><h1>Abschleppdienst Schwerin</h1><p class="lead">Schwerin ist die kleinste Landeshauptstadt Deutschlands und liegt südlich an der A24, wo im Kreuz Schwerin die A14 nach Wismar abzweigt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Schwerin: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Schwerin oder an A24, A14, B104 und B106. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Schwerin fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Schwerin abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A24, A14, B104, B106 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kleinste Landeshauptstadt</h2>
 <p>Schwerin ist die Hauptstadt des Landes Mecklenburg-Vorpommern und gilt als kleinste Landeshauptstadt Deutschlands. Das Stadtgebiet ist in 17 Ortsteile eingeteilt, die aus einem oder mehreren Stadtteilen bestehen. Nennen Sie uns bei einer Panne Ortsteil oder Stadtteil und Straße, etwa Lankow, Großer Dreesch oder Zippendorf, und in welcher Richtung Sie zu den Seen stehen. Schwerin liegt zwischen mehreren Seen, die Brücken und Dämme bilden Engstellen.</p>
 <h2>A24 und Kreuz Schwerin</h2>
@@ -273,5 +382,8 @@
 <details><summary>Können Sie mein Auto von Schwerin zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Schwerin liegt oder etwa in Rostock oder Lübeck.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Schwerin?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Ich stehe auf einem Damm zwischen zwei Seen. Was sage ich?</summary><div>Den Namen der Straße oder des Damms und Ihre Fahrtrichtung, dort ist oft wenig Platz zum Ausweichen.</div></details>
+<details><summary>Was kostet die Hilfe in Schwerin?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Schwerin?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

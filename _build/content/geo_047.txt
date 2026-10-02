@@ -2,6 +2,17 @@
 <!--AREAS: Moers, Moers-Asberg, Moers-Hülsdonk, Kapellen, Rheinkamp, Meerbeck, Repelen, Eick, Kamp-Lintfort -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Moers</p><h1>Abschleppdienst Moers</h1><p class="lead">Moers liegt am unteren Niederrhein am westlichen Rand des Ruhrgebiets an A40, A42 und A57. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Moers: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Moers oder an A40, A42 und A57. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Moers fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Moers abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A40, A42, A57 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Drehscheibe am Niederrhein</h2>
 <p>Moers ist eine kreisangehörige Großstadt in der Metropolregion Rhein-Ruhr. Wegen der Lage im Norden der Rheinschiene und im Westen des Ruhrgebiets wird sie „Drehscheibe am Niederrhein“ genannt. Moers liegt in der niederrheinischen Tiefebene zwischen dem Rhein und einer Reihe von Moränenhügeln, etwa 7 Kilometer westlich der Ruhrmündung in Duisburg und 13 Kilometer nördlich von Krefeld. Im Osten grenzt Duisburg (Rheinhausen und Homberg) an die Stadt, im Süden Krefeld, im Norden und Westen Rheinberg, Kamp-Lintfort und Neukirchen-Vluyn. Nennen Sie uns bei einer Panne deshalb auch, ob Sie kurz vor der Stadtgrenze stehen. Mehr auf <a href="stadt-duisburg.html">Abschleppdienst Duisburg</a> und <a href="stadt-krefeld.html">Abschleppdienst Krefeld</a>.</p>
 <h2>Drei Stadtteile, 22 Ortsteile</h2>
@@ -30,5 +41,8 @@
 <details><summary>Kommen Sie auch nach Kamp-Lintfort?</summary><div>Ja, wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
 <details><summary>Können Sie mein Auto von Moers zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Moers liegt oder etwa in Duisburg oder Krefeld.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Moers?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Moers?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Moers?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

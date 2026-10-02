@@ -35,6 +35,17 @@
 <!--AREAS: Hagen, Hagen-Hohenlimburg, Hagen-Elsey, Hagen-Wehringhausen, Hagen-Vorhalle -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hagen</p><h1>Abschleppdienst Hagen</h1><p class="lead">Hagen ist das Tor zum Sauerland am Südostrand des Ruhrgebiets, mit Autobahnen und steilen Straßen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Hagen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Hagen oder an A1, A45, A46 und B7. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Hagen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Hagen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A1, A45, A46, B7 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Tor zum Sauerland</h2>
 <p>Hagen ist eine kreisfreie Großstadt in Nordrhein-Westfalen am südöstlichen Rand des Ruhrgebiets und wird oft als "das Tor zum Sauerland" bezeichnet. Die Stadt gliedert sich in fünf Stadtbezirke. In den dichtbesiedelten Tälern von Volme und Ennepe sowie im Hagener Norden entspricht das gewachsene Stadtbild der typischen Baugestalt von Ruhrgebietsstädten, die südlichen Stadtteile gehören topografisch zum Sauerland. Für eine Panne bedeutet das: Wenn Sie im Tal liegen bleiben, sind die Straßen eng und dicht befahren, wenn Sie am Hang liegen bleiben, sind sie steil.</p>
 <h2>Drei Autobahnen im Stadtgebiet</h2>
@@ -60,6 +71,9 @@
 <details><summary>Ich stehe an einer steilen Straße. Was tun?</summary><div>Sichern Sie das Fahrzeug mit Feststellbremse und Gang, schalten Sie den Warnblinker ein und sagen Sie uns, ob Sie bergauf oder bergab stehen.</div></details>
 <details><summary>Können Sie mein Auto von Hagen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal wo die Werkstatt liegt.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Hagen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Hagen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Hagen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -67,6 +81,17 @@
 <!--AREAS: Hamm, Hamm-Uentrop, Hamm-Rhynern, Hamm-Herringen, Hamm-Heessen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hamm</p><h1>Abschleppdienst Hamm</h1><p class="lead">Hamm liegt zwischen den Autobahnen A1 und A2 am Nordostrand des Ruhrgebiets. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Hamm: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Hamm oder an A1, A2, A445 und B63. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Hamm fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Hamm abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A1, A2, A445, B63 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Sieben Stadtbezirke</h2>
 <p>Hamm liegt am Nordostrand des Ruhrgebiets und ist ein wichtiger Knotenpunkt mehrerer Eisenbahnstrecken. Das Stadtgebiet ist in die sieben Stadtbezirke Hamm-Mitte, Hamm-Uentrop, Hamm-Rhynern, Hamm-Pelkum, Hamm-Herringen, Hamm-Bockum-Hövel und Hamm-Heessen eingeteilt. Nennen Sie uns deshalb den Stadtbezirk oder Stadtteil und die Straße.</p>
 <h2>Zwischen A1 und A2</h2>
@@ -94,6 +119,9 @@
 <details><summary>Ich stehe an einer Kanalbrücke. Was sage ich?</summary><div>Brücke oder nächste Straße und die Fahrtrichtung. Ein Standort per WhatsApp hilft.</div></details>
 <details><summary>Können Sie mein Auto von Hamm zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Hamm liegt oder etwa in Dortmund oder Münster.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Hamm?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Hamm?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Hamm?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -135,6 +163,17 @@
 <!--AREAS: Mülheim an der Ruhr, Mülheim-Mintard, Mülheim-Broich, Mülheim-Styrum, Mülheim-Winkhausen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Mülheim an der Ruhr</p><h1>Abschleppdienst Mülheim an der Ruhr</h1><p class="lead">Mülheim liegt an der Ruhr zwischen Duisburg und Essen. Im Norden verläuft die A40 mit einem der höchsten Verkehrsaufkommen Deutschlands. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Mülheim an der Ruhr: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Mülheim an der Ruhr oder an A40 und A52. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Mülheim an der Ruhr fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Mülheim an der Ruhr abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A40, A52 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Stadt an der Ruhr</h2>
 <p>Mülheim an der Ruhr ist eine kreisfreie Großstadt im westlichen Ruhrgebiet zwischen Duisburg und Essen. Das Stadtgebiet ist in die drei Stadtbezirke Linksruhr, Rechtsruhr-Nord und Rechtsruhr-Süd gegliedert. Für die Standortangabe gilt: Die Ruhr teilt die Stadt, nennen Sie uns deshalb, ob Sie links oder rechts der Ruhr stehen, dazu Stadtteil und Straße.</p>
 <h2>A40: sehr hohes Verkehrsaufkommen</h2>
@@ -162,6 +201,9 @@
 <details><summary>Können Sie mein Auto von Mülheim zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Mülheim liegt oder etwa in Essen oder Duisburg.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Mülheim?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, rufen Sie uns rund um die Uhr an oder schreiben Sie per WhatsApp, wir vermitteln auch nachts einen Partner vor Ort.</div></details>
+<details><summary>Was kostet die Hilfe in Mülheim an der Ruhr?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Mülheim an der Ruhr?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -203,6 +245,17 @@
 <!--AREAS: Ludwigshafen am Rhein, Ludwigshafen-Oggersheim, Ludwigshafen-Mundenheim, Ludwigshafen-Friesenheim, Frankenthal -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ludwigshafen</p><h1>Abschleppdienst Ludwigshafen am Rhein</h1><p class="lead">Ludwigshafen ist die größte Stadt der Pfalz und bildet mit Mannheim ein zusammenhängendes Stadtgebiet. Sagen Sie uns, auf welcher Rheinseite Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Ludwigshafen am Rhein: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Ludwigshafen am Rhein oder an A6, A61, A65 und A650. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Ludwigshafen am Rhein fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Ludwigshafen am Rhein abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A6, A61, A65, A650 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Größte Stadt der Pfalz</h2>
 <p>Ludwigshafen am Rhein ist die größte Stadt der Pfalz. Das Stadtgebiet ist in zehn Ortsbezirke gegliedert. Für die Standortangabe gilt: Der Rhein trennt Ludwigshafen von Mannheim, und die Brücken sind die einzigen Verbindungen. Nennen Sie uns deshalb immer, auf welcher Seite Sie stehen.</p>
 <h2>A6, A61, A65 und A650</h2>
@@ -228,5 +281,8 @@
 <details><summary>Kommen Sie auch nach Mannheim?</summary><div>Ja, wir organisieren Einsätze in der Region Rhein-Neckar. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Ludwigshafen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Können Sie mein Auto von Ludwigshafen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Ludwigshafen liegt oder etwa in Mannheim oder Speyer.</div></details>
+<details><summary>Was kostet die Hilfe in Ludwigshafen am Rhein?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Ludwigshafen am Rhein?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

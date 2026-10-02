@@ -36,6 +36,17 @@
 <!--AREAS: Offenbach am Main, Offenbach-Bürgel, Offenbach-Rumpenheim, Offenbach-Bieber, Frankfurt-Fechenheim -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Offenbach am Main</p><h1>Abschleppdienst Offenbach am Main</h1><p class="lead">Offenbach grenzt direkt an Frankfurt und liegt am Offenbacher Kreuz von A3 und A661. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Offenbach am Main: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Offenbach am Main oder an A3, A661 und A5. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Offenbach am Main fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Offenbach am Main abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A3, A661, A5 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Stadt im Rhein-Main-Gebiet</h2>
 <p>Offenbach am Main liegt im Rhein-Main-Gebiet und grenzt direkt an Frankfurt. Das Stadtgebiet gliedert sich in 21 Stadtteile, im Kernbereich fehlt manchmal ein gebräuchlicher Stadtteilname. Nennen Sie uns bei einer Panne Stadtteil und Straße. Hilfreich sind dann Querstraße und Hausnummer.</p>
 <h2>Offenbacher Kreuz: A3 und A661</h2>
@@ -63,6 +74,9 @@
 <details><summary>Kommen Sie auch nach Frankfurt?</summary><div>Ja, wir organisieren Einsätze in beiden Städten. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
 <details><summary>Können Sie mein Auto von Offenbach zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Offenbach liegt oder etwa in Frankfurt.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Offenbach?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Offenbach am Main?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Offenbach am Main?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -104,6 +118,17 @@
 <!--AREAS: Heilbronn, Heilbronn-Böckingen, Heilbronn-Sontheim, Heilbronn-Neckargartach, Weinsberg -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Heilbronn</p><h1>Abschleppdienst Heilbronn</h1><p class="lead">Heilbronn liegt am Neckar, wenige Kilometer vom Kreuz Weinsberg entfernt, an dem sich A6 und A81 treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Heilbronn: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Heilbronn oder an A6, A81, B27 und B39. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Heilbronn fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Heilbronn abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A6, A81, B27, B39 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Großstadt im Norden Baden-Württembergs</h2>
 <p>Heilbronn liegt am Neckar, etwa 50 Kilometer nördlich von Stuttgart, und ist ein eigener Stadtkreis. Das Stadtgebiet ist in neun Stadtteile gegliedert: Heilbronn selbst sowie die ehemals selbstständigen Gemeinden Biberach, Böckingen, Frankenbach, Horkheim, Kirchhausen, Klingenberg, Neckargartach und Sontheim. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
 <h2>A6 und A81: Kreuz Weinsberg</h2>
@@ -131,6 +156,9 @@
 <details><summary>Kommen Sie auch nach Weinsberg?</summary><div>Ja, wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
 <details><summary>Können Sie mein Auto von Heilbronn zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, das ist kein Problem. Sagen Sie uns die Zielwerkstatt, etwa in Stuttgart, und wir nennen Ihnen den Preis für die Strecke gleich am Telefon.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Heilbronn?</summary><div>Pauschal lässt sich das nicht beantworten, es kommt auf Standort und Ziel an. Am Telefon erfahren Sie den Preis, bevor der Auftrag startet.</div></details>
+<details><summary>Was kostet die Hilfe in Heilbronn?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Heilbronn?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -138,6 +166,17 @@
 <!--AREAS: Pforzheim, Pforzheim-Eutingen, Pforzheim-Huchenfeld, Pforzheim-Würm, Pforzheim-Brötzingen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Pforzheim</p><h1>Abschleppdienst Pforzheim</h1><p class="lead">Pforzheim liegt am Nordrand des Schwarzwalds am Zusammenfluss von Enz, Nagold und Würm. Die A8 verläuft nördlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Pforzheim: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Pforzheim oder an A8, B10, B294 und B463. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Pforzheim fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Pforzheim abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A8, B10, B294, B463 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Drei Flüsse, 15 Stadtteile</h2>
 <p>Pforzheim liegt im Nordwesten Baden-Württembergs am Nordrand des Schwarzwalds am Zusammenfluss von Enz, Nagold und Würm. Die Stadt besteht aus 15 Stadtteilen, dazu gehören Ortsteile mit eigener Ortschaftsverwaltung und Teilgebiete der Kernstadt. Für eine Panne bedeutet die Flusslage: Die Straßen folgen den Tälern und steigen an den Hängen an. Sagen Sie uns Stadtteil, Straße und ob Sie im Tal oder am Hang stehen.</p>
 <h2>A8: vier Ausfahrten</h2>
@@ -165,6 +204,9 @@
 <details><summary>Wie weit sind die Flughäfen?</summary><div>Der Flughafen Stuttgart liegt etwa 24 Kilometer südöstlich, der Flughafen Karlsruhe/Baden-Baden etwa 46 Kilometer südwestlich.</div></details>
 <details><summary>Können Sie mein Auto von Pforzheim zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Pforzheim liegt oder etwa in Karlsruhe oder Stuttgart.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Pforzheim?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Pforzheim?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Pforzheim?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -172,6 +214,17 @@
 <!--AREAS: Göttingen, Göttingen-Weende, Göttingen-Grone, Göttingen-Geismar, Göttingen-Nikolausberg -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Göttingen</p><h1>Abschleppdienst Göttingen</h1><p class="lead">Göttingen ist eine Universitätsstadt in Südniedersachsen, im Westen von der A7 tangiert. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Göttingen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Göttingen oder an A7, A38, B3 und B27. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Göttingen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Göttingen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A7, A38, B3, B27 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Universitätsstadt in Südniedersachsen</h2>
 <p>Göttingen ist eine Universitätsstadt in Südniedersachsen, das städtische Leben ist stark vom Betrieb der Georg-August-Universität geprägt. Das Stadtgebiet ist in 18 Stadtbezirke und Stadtteile eingeteilt. Nennen Sie uns bei einer Panne Stadtteil und Straße, etwa Weende, Grone oder Geismar.</p>
 <h2>A7 und das Dreieck Drammetal</h2>
@@ -199,6 +252,9 @@
 <details><summary>Ich stehe in der Fußgängerzone. Was tun?</summary><div>Straße, Hausnummer und dass es eine Fußgängerzone ist. Der Fahrer klärt die Zufahrt.</div></details>
 <details><summary>Können Sie mein Auto von Göttingen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Göttingen liegt oder etwa in Kassel oder Hannover.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Göttingen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Göttingen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Göttingen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -206,6 +262,17 @@
 <!--AREAS: Bottrop, Bottrop-Kirchhellen, Bottrop-Mitte, Bottrop-Süd, Gladbeck -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bottrop</p><h1>Abschleppdienst Bottrop</h1><p class="lead">Bottrop liegt im Ruhrgebiet an A2, A31 und A42. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Bottrop: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Bottrop oder an A2, A31, A42 und B224. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Bottrop fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Bottrop abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A2, A31, A42, B224 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Drei Stadtbezirke, 17 Stadtteile</h2>
 <p>Die kreisfreie Großstadt Bottrop liegt im Ruhrgebiet in Nordrhein-Westfalen. Das Stadtgebiet besteht aus den drei Stadtbezirken Bottrop-Mitte, Bottrop-Süd und Bottrop-Kirchhellen, mit 17 Stadtteilen: Stadtmitte, Fuhlenbrock, Eigen, Batenbrock, Boy, Welheim, Welheimer Mark, Ebel, Lehmkuhle, Vonderort und in Kirchhellen Kirchhellen-Mitte, Grafenwald, Holthausen, Hardinghausen, Ekel, Feldhausen und Overhagen. Kirchhellen im Norden ist ländlicher und dünner besiedelt als die dicht bebaute Mitte. Nennen Sie uns bei einer Panne den Stadtbezirk oder Stadtteil und die Straße.</p>
 <h2>A2, A31 und A42</h2>
@@ -234,6 +301,9 @@
 <details><summary>Können Sie mein Auto von Bottrop zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Bottrop liegt oder etwa in Essen oder Oberhausen.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Bottrop?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Ich stehe in Kirchhellen. Kommen Sie auch dorthin?</summary><div>Ja, sagen Sie uns die nächste Ortsdurchfahrt oder Kreuzung, dann finden wir Sie auch im ländlicheren Norden.</div></details>
+<details><summary>Was kostet die Hilfe in Bottrop?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Bottrop?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 

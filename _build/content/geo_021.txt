@@ -34,6 +34,17 @@
 <!--AREAS: Leverkusen, Leverkusen-Wiesdorf, Leverkusen-Opladen, Leverkusen-Schlebusch, Leverkusen-Hitdorf -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Leverkusen</p><h1>Abschleppdienst Leverkusen</h1><p class="lead">In Leverkusen kreuzen sich A1 und A3 am Kreuz Leverkusen, und die A1 quert den Rhein auf der Rheinbrücke Leverkusen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Leverkusen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Leverkusen oder an A1, A3, A59 und B8. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Leverkusen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Leverkusen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A1, A3, A59, B8 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Wo die Wupper in den Rhein mündet</h2>
 <p>Leverkusen liegt im südlichen Nordrhein-Westfalen, geografisch im Bergischen Land. Hier mündet die Wupper in den Rhein. Das Stadtgebiet ist in drei Stadtbezirke und 13 Stadtteile unterteilt. Bei einer Panne helfen Ihnen Stadtteil und Straße, etwa Wiesdorf, Opladen, Schlebusch oder Hitdorf.</p>
 <h2>Kreuz Leverkusen: A1 und A3</h2>
@@ -61,6 +72,9 @@
 <details><summary>Können Sie mein Auto von Leverkusen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Leverkusen liegt oder etwa in Köln oder Düsseldorf.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Leverkusen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
 <details><summary>Kommt auch nachts oder am Wochenende jemand?</summary><div>Ja, rufen Sie uns rund um die Uhr an oder schreiben Sie per WhatsApp, wir vermitteln auch nachts einen Partner vor Ort.</div></details>
+<details><summary>Was kostet die Hilfe in Leverkusen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Leverkusen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -102,6 +116,17 @@
 <!--AREAS: Solingen, Solingen-Ohligs, Solingen-Gräfrath, Solingen-Wald, Solingen-Burg, Langenfeld -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Solingen</p><h1>Abschleppdienst Solingen</h1><p class="lead">Solingen liegt im Bergischen Land, zwischen Bachtälern und Höhenrücken, und hat keinen direkten Autobahnanschluss. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Solingen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Solingen oder an A3. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Solingen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Solingen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A3 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Bergische Großstadt mit fünf Stadtbezirken</h2>
 <p>Solingen gehört zum Bergischen Land und zum Bergischen Städtedreieck. Das Stadtgebiet besteht aus fünf Stadtbezirken, der westlichste ist Ohligs/Aufderhöhe/Merscheid. Daneben gibt es viele Ortsteile und Wohnviertel mit eigenem Namen, darunter Hofschaften, die für das Bergische Land typisch sind. Für Ihre Standortangabe heißt das: Nennen Sie uns den Ortsteil oder Hofschaftsnamen und die Straße, denn die Straßennamen wiederholen sich in einer Stadt mit so vielen Ortsteilen.</p>
 <h2>Bachtäler und Höhenrücken</h2>
@@ -129,6 +154,9 @@
 <details><summary>Kommen Sie auch in enge Täler?</summary><div>Ja, sagen Sie uns Straße, Breite und Wendemöglichkeit, dann klären wir, welches Fahrzeug passt.</div></details>
 <details><summary>Können Sie mein Auto von Solingen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Solingen liegt oder etwa in Wuppertal oder Remscheid.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Solingen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Solingen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Solingen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -170,6 +198,17 @@
 <!--AREAS: Herne, Herne-Wanne, Herne-Eickel, Herne-Mitte, Herne-Sodingen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Herne</p><h1>Abschleppdienst Herne</h1><p class="lead">Herne liegt mitten im Ruhrgebiet, wo sich A42 und A43 am Kreuz Herne treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Herne: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Herne oder an A42, A43 und B226. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Herne fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Herne abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A42, A43, B226 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Vier Stadtbezirke im Ruhrgebiet</h2>
 <p>Herne ist eine kreisfreie Großstadt im Ruhrgebiet. Das Stadtgebiet besteht aus vier Stadtbezirken, die in Ortsteile unterteilt sind. Zwei der Bezirke heißen Eickel und Wanne. Bei einer Panne helfen Ihnen die Ortsteile und die Straße, denn "Herne" allein ist bei einer so dichten Bebauung zu ungenau.</p>
 <h2>Kreuz Herne: A42 und A43</h2>
@@ -197,6 +236,9 @@
 <details><summary>Ich stehe am Kreuz Herne kurz vor der Ausfahrt. Was mache ich?</summary><div>Warnblinker an, hinter die Leitplanke, Warndreieck aufstellen, wenn es gefahrlos möglich ist. Nennen Sie uns die Autobahn, Fahrtrichtung und ob Sie vor oder hinter dem Kreuz stehen.</div></details>
 <details><summary>Können Sie mein Auto von Herne zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Herne liegt oder etwa in Bochum oder Gelsenkirchen.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Herne?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Herne?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Herne?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -238,6 +280,17 @@
 <!--AREAS: Neuss, Neuss-Norf, Neuss-Grimlinghausen, Neuss-Büttgen, Düsseldorf -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neuss</p><h1>Abschleppdienst Neuss</h1><p class="lead">Neuss liegt am linken Niederrhein gegenüber von Düsseldorf, zwischen A57, A46 und A52. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Neuss: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Neuss oder an A57, A46 und A52. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Neuss fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Neuss abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A57, A46, A52 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Rheinseite gegenüber von Düsseldorf</h2>
 <p>Neuss ist eine Großstadt im Rhein-Kreis Neuss in Nordrhein-Westfalen. Sie liegt am linken Niederrhein auf der Rheinseite gegenüber der Landeshauptstadt Düsseldorf. Die Stadt ist in Stadtbezirke gegliedert, die wiederum Ortsteile und Viertel umfassen, etwa Barbaraviertel, Neusserfurth, Morgensternsheide, Weißenberg, Vogelsang oder den Berliner Platz. Nennen Sie uns bei einer Panne den Ortsteil oder das Viertel, die Straße und die Rheinseite.</p>
 <h2>A57, A46 und A52</h2>
@@ -265,5 +318,8 @@
 <details><summary>Wo überquert die A46 den Rhein?</summary><div>Auf der Fleher Brücke, nach dem Dreieck Neuss-Süd Richtung Düsseldorf.</div></details>
 <details><summary>Liegt Neuss links oder rechts des Rheins?</summary><div>Am linken Niederrhein, gegenüber von Düsseldorf.</div></details>
 <details><summary>Kommen Sie auch nach Düsseldorf?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Standort, dann klären wir die Anfahrt über die Rheinbrücke.</div></details>
+<details><summary>Was kostet die Hilfe in Neuss?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Neuss?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

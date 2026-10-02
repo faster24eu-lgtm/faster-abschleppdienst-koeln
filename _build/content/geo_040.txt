@@ -2,6 +2,17 @@
 <!--AREAS: Kempten, Kempten-Thingers, Kempten-Sankt Mang, Kempten-Lauben, Kempten-Leubas, Iller -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kempten (Allgäu)</p><h1>Abschleppdienst Kempten (Allgäu)</h1><p class="lead">Kempten ist das Zentrum des Allgäus und liegt an der A7 und der kurzen A980. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Kempten (Allgäu): Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Kempten (Allgäu) oder an A7, A980, B12 und B19. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Kempten (Allgäu) fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Kempten (Allgäu) abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A7, A980, B12, B19 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Zentrum des Allgäus</h2>
 <p>Kempten (Allgäu) ist eine kreisfreie Mittelstadt mit rund 67.645 Einwohnern (März 2026) im bayerischen Regierungsbezirk Schwaben. Sie ist das Ober-, Schul- und Verwaltungszentrum der umliegenden Region Allgäu mit rund 480.000 Einwohnern. Es gibt insgesamt 155 Ortsteile, viele davon sind mit Kempten zusammengewachsen, andere sind ländlich geprägt. Nennen Sie uns bei einer Panne Ortsteil und Straße.</p>
 <h2>A7, A980 und Bundesstraßen</h2>
@@ -24,6 +35,9 @@
 <details><summary>Welche Bundesstraßen gibt es?</summary><div>Die B12 und die B19, dazu die zur Staatsstraße 2520 herabgestufte frühere B309.</div></details>
 <details><summary>Was ist der Mittlere Ring?</summary><div>Ein durchgehend vierspuriger Ring seit den 1970er Jahren, mit bis zu vier Fahrspuren pro Richtung.</div></details>
 <details><summary>Wie viele Ortsteile hat Kempten?</summary><div>155.</div></details>
+<details><summary>Was kostet die Hilfe in Kempten (Allgäu)?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Kempten (Allgäu)?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,6 +45,17 @@
 <!--AREAS: Aschaffenburg, Aschaffenburg-Damm, Aschaffenburg-Schweinheim, Aschaffenburg-Nilkheim, Stockstadt, Mainhafen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Aschaffenburg</p><h1>Abschleppdienst Aschaffenburg</h1><p class="lead">Aschaffenburg liegt am Bayerischen Untermain an der A3 zwischen Frankfurt und Würzburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Aschaffenburg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Aschaffenburg oder an A3 und B26. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Aschaffenburg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Aschaffenburg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A3, B26 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Untermain in Unterfranken</h2>
 <p>Aschaffenburg ist eine kreisfreie Mittelstadt im bayerischen Regierungsbezirk Unterfranken, Teil der Metropolregion Frankfurt/Rhein-Main, die größte Stadt der Region Bayerischer Untermain und nach Würzburg die zweitgrößte Stadt im Regierungsbezirk. Für die statistische Einteilung nach Stadtteilen ist die Kleinräumige Gliederung 2010 maßgeblich. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-frankfurt.html">Abschleppdienst Frankfurt</a>, <a href="stadt-hanau.html">Abschleppdienst Hanau</a> und <a href="stadt-wuerzburg.html">Abschleppdienst Würzburg</a>.</p>
 <h2>A3: drei Anschlussstellen</h2>
@@ -53,6 +78,9 @@
 <details><summary>Wie weit ist Frankfurt entfernt?</summary><div>Etwa 40 Kilometer über die A3.</div></details>
 <details><summary>Was passiert an der B26?</summary><div>Seit 2022 wird sie im Stadtgebiet mit Abbiegespuren am Mainhafen auf 1,3 Kilometern vierstreifig ausgebaut.</div></details>
 <details><summary>Gibt es einen Stadtring?</summary><div>Ja, eine über 70 Jahre geplante und gebaute Städtische Ringstraße, der erste größere Abschnitt wurde Mitte der 1960er Jahre wirksam.</div></details>
+<details><summary>Was kostet die Hilfe in Aschaffenburg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Aschaffenburg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -60,6 +88,17 @@
 <!--AREAS: Schweinfurt, Schweinfurt-Oberndorf, Schweinfurt-Hafen, Werneck, Dreieck Werntal, Bergrheinfeld -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Schweinfurt</p><h1>Abschleppdienst Schweinfurt</h1><p class="lead">Schweinfurt ist ein Autobahnknoten, an dem A7, A70 und A71 zusammenlaufen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Schweinfurt: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Schweinfurt oder an A70, A71, A7 und A73. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Schweinfurt fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Schweinfurt abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A70, A71, A7, A73 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Nur die Kernstadt</h2>
 <p>Schweinfurt ist eine kreisfreie Stadt im Regierungsbezirk Unterfranken. Infolge ausgebliebener Eingemeindungen bei der bayerischen Gebietsreform besteht sie nur aus der Kernstadt. Eine Stadtgliederung im kommunalrechtlichen Sinn gibt es nicht, für amtlich-statistische Zwecke wurde das Stadtgebiet in 15 Stadtteile gegliedert. Nennen Sie uns bei einer Panne Stadtteil, Straße und Hausnummer oder Querstraße.</p>
 <h2>A70 als Südtangente, A71 als Westtangente</h2>
@@ -82,6 +121,9 @@
 <details><summary>Wie viele Anschlussstellen hat die Tangente?</summary><div>Sieben für Stadt und Vororte.</div></details>
 <details><summary>Wo liegt das Dreieck Werntal?</summary><div>Bei Schweinfurt, dort verbindet es die A70 mit der A71.</div></details>
 <details><summary>Hat Schweinfurt Stadtbezirke?</summary><div>Nur für statistische Zwecke 15 Stadtteile, eine kommunalrechtliche Stadtgliederung gibt es nicht.</div></details>
+<details><summary>Was kostet die Hilfe in Schweinfurt?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Schweinfurt?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -89,6 +131,17 @@
 <!--AREAS: Villingen-Schwenningen, Villingen, Schwenningen, Mühlhausen, Hüfingen, Bad Dürrheim -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Villingen-Schwenningen</p><h1>Abschleppdienst Villingen-Schwenningen</h1><p class="lead">Villingen-Schwenningen ist eine Doppelstadt im Südwesten Baden-Württembergs an der A81. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Villingen-Schwenningen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Villingen-Schwenningen oder an A81, B27, B33 und B523. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Villingen-Schwenningen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Villingen-Schwenningen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A81, B27, B33, B523 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Doppelstadt seit 1972</h2>
 <p>Villingen-Schwenningen ist mit fast 90.000 Einwohnern eine aus der Gemeindereform 1972 hervorgegangene badisch-württembergische Doppelstadt, ein Oberzentrum und Hochschulstandort sowie die Kreisstadt des Schwarzwald-Baar-Kreises. Das Stadtgebiet besteht aus den Stadtbezirken Villingen, Schwenningen und Mühlhausen sowie den in den 1970er Jahren eingegliederten Gemeinden. Villingen gehörte bis zur Reform dem badischen, Schwenningen dem württembergischen Landesteil an, das wirkt bis heute nach. Vieles gibt es angesichts der zwei großen Stadtteile doppelt. Nennen Sie uns deshalb bei einer Panne, ob Sie in Villingen oder Schwenningen stehen, und die Straße.</p>
 <h2>A81 und Bundesstraßen</h2>
@@ -109,6 +162,9 @@
 <details><summary>Was ist Besonderes an der B33 in Villingen?</summary><div>Sie führt kreuzungsfrei durch den Villinger Stadtkern.</div></details>
 <details><summary>Warum eine Doppelstadt?</summary><div>Sie entstand bei der Gemeindereform 1972 aus dem badischen Villingen und dem württembergischen Schwenningen.</div></details>
 <details><summary>Kommen Sie auch nach Hüfingen?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet die Hilfe in Villingen-Schwenningen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Villingen-Schwenningen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -116,6 +172,17 @@
 <!--AREAS: Sindelfingen, Sindelfingen-Maichingen, Sindelfingen-Darmsheim, Böblingen, Kreuz Stuttgart -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Sindelfingen</p><h1>Abschleppdienst Sindelfingen</h1><p class="lead">Sindelfingen liegt etwa 15 Kilometer südwestlich von Stuttgart an der A81. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Sindelfingen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Sindelfingen oder an A81, A8, B464 und B14. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Sindelfingen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Sindelfingen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A81, A8, B464, B14 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Größte Stadt des Kreises Böblingen</h2>
 <p>Sindelfingen ist eine Große Kreisstadt mit 61.428 Einwohnern (31. Dezember 2025) im Landkreis Böblingen und die bevölkerungsreichste Stadt des Landkreises. Sie liegt etwa 15 Kilometer südwestlich der Landeshauptstadt Stuttgart. Sie besteht aus der Kernstadt und den bei der Gebietsreform 1971 eingegliederten Teilorten Maichingen und Darmsheim, beide sind Ortschaften im Sinne der baden-württembergischen Gemeindeordnung. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-stuttgart.html">Abschleppdienst Stuttgart</a>.</p>
 <h2>A81, A8 und Kreuz Stuttgart</h2>
@@ -140,6 +207,9 @@
 <details><summary>Wo liegt das Kreuz Stuttgart?</summary><div>Im nordöstlichen Stadtgebiet an der Grenze zu Stuttgart, dort kreuzen A8 und A81.</div></details>
 <details><summary>Zu welchem Kreis gehört Sindelfingen?</summary><div>Zum Landkreis Böblingen.</div></details>
 <details><summary>Wie viele Einwohner hat Sindelfingen?</summary><div>61.428 am 31. Dezember 2025.</div></details>
+<details><summary>Was kostet die Hilfe in Sindelfingen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Sindelfingen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -147,6 +217,17 @@
 <!--AREAS: Göppingen, Göppingen-Faurndau, Göppingen-Holzheim, Göppingen-Jebenhausen, Göppingen-Hohenstaufen, Aichelberg -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Göppingen</p><h1>Abschleppdienst Göppingen</h1><p class="lead">Göppingen liegt etwa 40 Kilometer östlich von Stuttgart an der B10, die A8 erreichen Sie bei Aichelberg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Göppingen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Göppingen oder an B10, B297 und A8. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Göppingen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Göppingen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B10, B297, A8 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Große Kreisstadt an der Fils</h2>
 <p>Göppingen ist eine Große Kreisstadt in Baden-Württemberg, etwa 40 Kilometer östlich von Stuttgart, die größte Stadt des Landkreises Göppingen und als Teil der Region Stuttgart ein Mittelzentrum für die umliegenden Gemeinden. Das Stadtgebiet umfasst die Kernstadt und die sieben Stadtbezirke Bartenbach, Bezgenriet, Faurndau, Hohenstaufen, Holzheim, Jebenhausen und Maitis, die alle früher eigenständige Gemeinden waren. Nennen Sie uns bei einer Panne Stadtbezirk und Straße. Mehr auf <a href="stadt-esslingen.html">Abschleppdienst Esslingen</a> und <a href="stadt-ulm.html">Abschleppdienst Ulm</a>.</p>
 <h2>B10 und B297</h2>
@@ -171,5 +252,8 @@
 <details><summary>Wo ist die nächste A8-Anschlussstelle?</summary><div>In Aichelberg, etwa zehn Kilometer südlich.</div></details>
 <details><summary>Welche Bundesstraßen führen durch Göppingen?</summary><div>B10 Stuttgart–Ulm und B297 Lorch–Tübingen.</div></details>
 <details><summary>Wie weit ist Stuttgart entfernt?</summary><div>Etwa 40 Kilometer.</div></details>
+<details><summary>Was kostet die Hilfe in Göppingen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Göppingen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

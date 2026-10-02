@@ -2,6 +2,17 @@
 <!--AREAS: Bergheim, Quadrath-Ichendorf, Niederaußem, Oberaußem, Glesch, Glessen, Paffendorf, Kenten, Zieverich -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bergheim</p><h1>Abschleppdienst Bergheim</h1><p class="lead">Bergheim liegt im Rhein-Erft-Kreis rund 20 Kilometer westlich von Köln. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Bergheim: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Bergheim oder an A61, A553 und B477. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Bergheim fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Bergheim abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A61, A553, B477 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisstadt mit 15 Ortsteilen</h2>
 <p>Bergheim ist Kreisstadt des Rhein-Erft-Kreises und entstand 1975 im Zuge des Köln-Gesetzes aus dem Zusammenschluss der Stadt Bergheim mit mehreren Gemeinden. Sie liegt etwa 20 Kilometer westlich von Köln auf rund 72 Metern über NN, die höchste Erhebung besteht aus Abraum des Braunkohletagebaus. Die Stadt besteht aus 15 Ortsteilen: Ahe, Auenheim, Bergheim-Mitte, Büsdorf, Fliesteden, Glesch, Glessen, Kenten, Niederaußem, Oberaußem, Quadrath-Ichendorf (bevölkerungsreichster Ortsteil), Paffendorf, Rheidt-Hüchelhoven, Thorr und Zieverich. Nennen Sie uns bei einer Panne den Ortsteil und die Straße. Mehr auf <a href="index.html">Abschleppdienst Köln</a>, <a href="stadt-kerpen.html">Abschleppdienst Kerpen</a> und <a href="stadt-frechen.html">Abschleppdienst Frechen</a>.</p>
 <h2>A61, A553 und B477</h2>
@@ -26,6 +37,9 @@
 <details><summary>Wie viele Ortsteile hat Bergheim?</summary><div>15, seit der kommunalen Neugliederung 1975.</div></details>
 <details><summary>Welcher Ortsteil hat die meisten Einwohner?</summary><div>Quadrath-Ichendorf.</div></details>
 <details><summary>Warum ändern sich Straßen bei Bergheim öfter?</summary><div>Wegen des Braunkohletagebaus und seiner Umleitungen.</div></details>
+<details><summary>Was kostet die Hilfe in Bergheim?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Bergheim?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -33,14 +47,23 @@
 <!--AREAS: Troisdorf, Sieglar, Spich, Altenrath, Eschmar, Friedrich-Wilhelms-Hütte, Rotter See, Sieg, Agger -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Troisdorf</p><h1>Abschleppdienst Troisdorf</h1><p class="lead">Troisdorf liegt rechtsrheinisch zwischen Köln und Bonn an der Sieg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Troisdorf: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Troisdorf oder an A59, A3, B8 und B56. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Troisdorf fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Troisdorf abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A59, A3, B8, B56 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Bevölkerungsreichste Stadt im Rhein-Sieg-Kreis</h2>
 <p>Troisdorf ist die bevölkerungsreichste Stadt im Rhein-Sieg-Kreis und liegt im Südosten der Kölner Bucht zwischen den südlichen Ausläufern des Bergischen Landes und den Siegauen. Die Stadt liegt an der Sieg und an der Agger, die dort in die Sieg mündet und die Stadtgrenze zu Siegburg bildet. Troisdorf besteht aus zwölf Stadtteilen, die zugleich Ortschaften mit Ortsvorsteher sind, 1999 kamen durch Teilungen die Stadtteile Troisdorf-West und Rotter See hinzu. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-siegburg.html">Abschleppdienst Siegburg</a>, <a href="index.html">Abschleppdienst Köln</a> und <a href="stadt-bonn.html">Abschleppdienst Bonn</a>.</p>
 <h2>A59, A3, B8 und B56</h2>
 <p>Troisdorf ist über die A59 sowie über Zubringer zur A3 an das Fernstraßennetz angebunden. Durch das Stadtgebiet verläuft die B8, die südöstliche Grenze zu Siegburg bildet die B56. Bei einer Panne auf der Autobahn nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a59.html">Panne auf der A59</a> und <a href="autobahn-a3.html">Panne auf der A3</a>. Auf B8 oder B56 sagen Sie uns Fahrtrichtung, denn die B56 verläuft an der Stadtgrenze und Straßennamen können sich auf beiden Seiten wiederholen.</p>
 <h2>Sieglar, Spich und Altenrath</h2>
 <p>Die Stadtteile Sieglar, Spich und Altenrath kamen 1969 im Zuge der kommunalen Neugliederung zu Troisdorf. Von 1951 bis 2002 gab es in Spich und Altenrath je eine belgische Kaserne, das Gelände ist heute teils Wohn- und teils Parkgebiet. Der Stadtteil Spich grenzt an die Wahner Heide. Nennen Sie uns bei einer Panne in einem dieser Stadtteile die Straße und ob Sie an einem ehemaligen Kasernengelände stehen.</p>
-<h2>Kaiserbauruine als früheres Wahrzeichen</h2>
-<p>Die Kaiserbauruine, ein nie fertiggestelltes Hotel an der A59, war von 1973 bis zur Sprengung am 13. Mai 2001 ungewolltes Wahrzeichen von Troisdorf. Ältere Beschreibungen der Stadt nennen sie noch, sie existiert heute nicht mehr.</p>
 <h2>So nennen Sie Ihren Standort in Troisdorf</h2>
 <ul class="ticks">
 <li>Stadtteil (Sieglar, Spich, Altenrath …), Straße, Hausnummer.</li>
@@ -55,6 +78,9 @@
 <details><summary>Welche Bundesstraße bildet die Grenze zu Siegburg?</summary><div>Die B56.</div></details>
 <details><summary>Wie viele Stadtteile hat Troisdorf?</summary><div>Zwölf.</div></details>
 <details><summary>Was war die Kaiserbauruine?</summary><div>Ein nie fertiggestelltes Hotel an der A59, 2001 gesprengt.</div></details>
+<details><summary>Was kostet die Hilfe in Troisdorf?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Troisdorf?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -62,6 +88,17 @@
 <!--AREAS: Siegburg, Wolsdorf, Kaldauen, Seligenthal, Braschoß, Michaelsberg, Sieg, Agger -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Siegburg</p><h1>Abschleppdienst Siegburg</h1><p class="lead">Siegburg liegt an der Mündung der Agger in die Sieg, am Michaelsberg, an A3 und A560. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Siegburg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Siegburg oder an A3, A560, B8 und B56. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Siegburg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Siegburg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A3, A560, B8, B56 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisstadt am Michaelsberg</h2>
 <p>Siegburg ist Kreisstadt und Verwaltungssitz des Rhein-Sieg-Kreises und liegt etwa 8 Kilometer östlich des Rheins an der Mündung der Agger in die Sieg, begrenzt im Osten von den Höhen des Bergischen Landes und im Süden vom Pleiser Hügelland. Wahrzeichen ist der Michaelsberg, ein erloschener Vulkan, den einst die Benediktinerabtei St. Michael krönte. Das Stadtgebiet umfasst die Ortsteile Brückberg, Deichhaus, Dreesch, Zange, Wolsdorf mit Stallberg, Braschoß mit Kaldauen, Schneffelrath und Schreck sowie Seligenthal. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-troisdorf.html">Abschleppdienst Troisdorf</a>, <a href="stadt-bonn.html">Abschleppdienst Bonn</a> und <a href="index.html">Abschleppdienst Köln</a>.</p>
 <h2>A3 seit 1937 und A560</h2>
@@ -83,7 +120,10 @@
 <details><summary>Seit wann ist Siegburg an die Autobahn angeschlossen?</summary><div>Seit 1937, mit der Teilstrecke Köln-Mülheim–Siegburg der A3.</div></details>
 <details><summary>Welche Autobahn führt nach Bonn?</summary><div>Die A560.</div></details>
 <details><summary>Seit wann hat Siegburg einen ICE-Bahnhof?</summary><div>Seit 2003.</div></details>
-<details><summary>Was ist das Wahrzeichen der Stadt?</summary><div>Der Michaelsberg mit der ehemaligen Benediktinerabtei St. Michael.</div></details>
+
+<details><summary>Was kostet die Hilfe in Siegburg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Siegburg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -91,18 +131,21 @@
 <!--AREAS: Ahlen, Dolberg, Vorhelm, Borbein, Brockhausen, Halene, Rosendahl, Tönnishäuschen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ahlen</p><h1>Abschleppdienst Ahlen</h1><p class="lead">Ahlen liegt im westfälischen Münsterland, die B58 durchquert die Stadt in Ost-West-Richtung. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Ahlen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Ahlen oder an A1, A2 und B58. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Ahlen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Ahlen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A1, A2, B58 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Größte Stadt des Kreises Warendorf</h2>
 <p>Ahlen ist eine mittlere kreisangehörige Stadt im westfälischen Münsterland und die größte und wirtschaftlich bedeutendste Stadt des Kreises Warendorf. Sie grenzt an Sendenhorst, Ennigerloh, Beckum, Lippetal, Hamm und Drensteinfurt. Zur Kernstadt Ahlen gehören die Bauerschaften Borbein, Brockhausen, Ester und Oestrich sowie Halene und Rosendahl, dazu die Ortsteile Dolberg mit Gemmerich, Guissen, Henneberg und Ostdolberg sowie Vorhelm mit Tönnishäuschen und weiteren Bauerschaften. Nennen Sie uns bei einer Panne Ortsteil oder Bauerschaft und die Straße. Mehr auf <a href="stadt-hamm.html">Abschleppdienst Hamm</a> und <a href="stadt-luenen.html">Abschleppdienst Lünen</a>.</p>
 <h2>A2 und A1 in der Nähe, B58 durch die Stadt</h2>
 <p>Autobahnanschlüsse bestehen an der A2 jeweils rund 10 Kilometer östlich und südöstlich von Ahlen sowie an der A1 etwa 20 Kilometer westlich. Die B58 führt in Ost-West-Richtung durch das Stadtgebiet. Bei einer Panne auf der Autobahn nennen Sie uns Richtung und Anschlussstelle, mehr auf <a href="autobahn-a2.html">Panne auf der A2</a> und <a href="autobahn-a1.html">Panne auf der A1</a>. Auf der B58 sagen Sie uns Fahrtrichtung und den nächsten Ortsteil.</p>
-<h2>Bergbauerbe der Bergwerksgesellschaft Westfalen</h2>
-<p>Die zweite Industrialisierungsphase Ahlens begann mit der Erschließung der Kohlevorkommen am östlichen Rand des Ruhrgebiets durch die Bergwerksgesellschaft Westfalen. Nach Fertigstellung der Zechenbahn 1909 entstand eine Doppelschachtanlage mit Werkssiedlungen wie der denkmalgeschützten Zechensiedlung Neustadt. Wenn Sie in einer dieser Siedlungen liegen bleiben, nennen Sie uns Straße und Hausnummer.</p>
-<h2>Alte und neue Pfarre</h2>
-<p>Ahlen entwickelte sich im 13. Jahrhundert rasch, um 1285 kam neben der Alten Pfarre St. Bartholomäus die Neue Pfarre St. Marien hinzu. In der Innenstadt sind diese beiden historischen Kerne bis heute erkennbar, nennen Sie uns dort die Straße, denn die Altstadt hat teils enge Zufahrten.</p>
-<h2>Werse als Siedlungsursprung</h2>
-<p>Der Ursprung der Stadt liegt an einem Übergang über die Werse, der zum Schnittpunkt der Straßen Hamm–Ahlen–Warendorf und Beckum–Ahlen wurde. Bei den Stadtbränden von 1668 und 1744 wurde ein Großteil der älteren Bausubstanz im Stadtkern vernichtet, aus der Wiederaufbauzeit stammt unter anderem das Fachwerkhaus Markt 13. Seit 2007 führt der WerseRadWeg von Münster nach Rheda-Wiedenbrück durch Ahlen, die Stadt liegt außerdem an der 100-Schlösser-Route. Wenn Sie an der Werse oder auf einem Radweg liegen bleiben, nennen Sie uns Straße und Uferseite.</p>
-<h2>Wersestadion und Sportpark Nord</h2>
-<p>Die Stadt Ahlen hat zwei bedeutende Sportstätten: das kurz nach dem Zweiten Weltkrieg errichtete und 1997 modernisierte Wersestadion und seit 1983 den Sportpark Nord, Austragungsort zahlreicher überregionaler Wettkämpfe. Die Stadtbücherei wurde 1938 gegründet und befindet sich seit August 1989 in der ehemaligen Overbergschule in der Südenmauer. Wenn Sie an einer dieser Adressen liegen bleiben, nennen Sie uns Straße und Hausnummer.</p>
 <h2>So nennen Sie Ihren Standort in Ahlen</h2>
 <ul class="ticks">
 <li>Ortsteil oder Bauerschaft, Straße, Hausnummer.</li>
@@ -116,7 +159,10 @@
 <details><summary>Wie weit ist die A2 von Ahlen entfernt?</summary><div>Rund 10 Kilometer östlich beziehungsweise südöstlich.</div></details>
 <details><summary>Und die A1?</summary><div>Etwa 20 Kilometer westlich.</div></details>
 <details><summary>Welche Bundesstraße führt durch Ahlen?</summary><div>Die B58, in Ost-West-Richtung.</div></details>
-<details><summary>Woher stammt die Bergbautradition?</summary><div>Von der Bergwerksgesellschaft Westfalen, die ab Anfang des 20. Jahrhunderts Kohle förderte.</div></details>
+
+<details><summary>Was kostet die Hilfe in Ahlen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Ahlen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -124,6 +170,17 @@
 <!--AREAS: Gummersbach, Aggertalsperre, Genkeltalsperre, Agger, Innenstadtring, Lindenstadt -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gummersbach</p><h1>Abschleppdienst Gummersbach</h1><p class="lead">Gummersbach liegt an der Agger im Oberbergischen Kreis. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Gummersbach: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Gummersbach. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Gummersbach fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Gummersbach abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am der nächsten Hauptstraße nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisstadt des Oberbergischen Kreises</h2>
 <p>Gummersbach ist die Kreisstadt des Oberbergischen Kreises und wurde früher auch „Lindenstadt“ genannt, weil Lindenbäume die Hauptstraße säumten. Durch die Stadt fließt die Agger, ein Nebenfluss der Sieg und Namensgeberin der Aggertalsperre, die teilweise auf Gummersbacher Gebiet liegt, ebenso ein Teil der für die Trinkwasserversorgung wichtigen Genkeltalsperre. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-luedenscheid.html">Abschleppdienst Lüdenscheid</a>, <a href="index.html">Abschleppdienst Köln</a> und <a href="stadt-hagen.html">Abschleppdienst Hagen</a>.</p>
 <h2>Innenstadtring seit 2016</h2>
@@ -146,6 +203,9 @@
 <details><summary>Welche Bahnlinie bedient Gummersbach?</summary><div>Die Oberbergische Bahn RB25 nach Köln und Lüdenscheid.</div></details>
 <details><summary>Welche Talsperren liegen bei Gummersbach?</summary><div>Die Aggertalsperre und ein Teil der Genkeltalsperre.</div></details>
 <details><summary>Warum hieß die Stadt „Lindenstadt“?</summary><div>Weil Lindenbäume früher die Hauptstraße säumten.</div></details>
+<details><summary>Was kostet die Hilfe in Gummersbach?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Gummersbach?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -153,6 +213,17 @@
 <!--AREAS: Bad Homburg, Gonzenheim, Ober-Eschbach, Ober-Erlenbach, Dornholzhausen, Kirdorf, Taunus, Frankfurt -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bad Homburg vor der Höhe</p><h1>Abschleppdienst Bad Homburg</h1><p class="lead">Bad Homburg liegt am Fuß des Taunus in der Metropolregion Frankfurt/Rhein-Main. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Bad Homburg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Bad Homburg oder an B456. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Bad Homburg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Bad Homburg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B456 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisstadt des Hochtaunuskreises</h2>
 <p>Bad Homburg vor der Höhe ist Kreisstadt des Hochtaunuskreises mit 56.938 Einwohnern (31. Dezember 2025) und liegt in der Metropolregion Frankfurt/Rhein-Main. International bekannt wurde die Stadt durch ihre Wasserquellen als Kur- und späterer Kongressort. Für die eingegliederten Gemeinden Dornholzhausen, Ober-Eschbach und Ober-Erlenbach bestehen Ortsbezirke mit eigenem Ortsbeirat und Ortsvorsteher, ihre Grenzen folgen den früheren Gemarkungsgrenzen. Der Ortsbezirk Dornholzhausen umfasst auch Teile von Bad Homburg und Kirdorf westlich der B456. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-frankfurt.html">Abschleppdienst Frankfurt</a> und <a href="stadt-wiesbaden.html">Abschleppdienst Wiesbaden</a>.</p>
 <h2>B456 als Saalburgchaussee</h2>
@@ -175,6 +246,9 @@
 <details><summary>Wie komme ich mit der Bahn nach Frankfurt?</summary><div>Mit der S-Bahn-Linie S5 auf der Homburger Bahn.</div></details>
 <details><summary>Wie viele Einwohner hat Bad Homburg?</summary><div>56.938 am 31. Dezember 2025.</div></details>
 <details><summary>Was ist die Peters-Pneu-Kreuzung?</summary><div>Eine stark befahrene Kreuzung, für die eine Tunnellösung politisch diskutiert wird.</div></details>
+<details><summary>Was kostet die Hilfe in Bad Homburg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Bad Homburg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -182,6 +256,17 @@
 <!--AREAS: Hattingen, Blankenstein, Niederwenigern, Welper, Winz-Baak, Holthausen, Ruhr, Sprockhövel -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hattingen</p><h1>Abschleppdienst Hattingen</h1><p class="lead">Hattingen liegt an der Ruhr und grenzt unmittelbar an Wuppertal, Essen und Bochum. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Hattingen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Hattingen oder an A43, A40, A44 und A448. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Hattingen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Hattingen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A43, A40, A44, A448 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Zweitgrößte Stadt des Ennepe-Ruhr-Kreises</h2>
 <p>Hattingen ist nach Witten die zweitgrößte Stadt des Ennepe-Ruhr-Kreises und liegt im südlichen Teil des Ruhrgebiets an der Ruhr, sie grenzt unmittelbar an die Großstädte Wuppertal, Essen und Bochum. Die Stadt wurde auf einer Flussterrasse der Ruhr gegründet und hat einen gut erhaltenen historischen Kern. Sie gliedert sich in die Stadtteile Blankenstein, Bredenscheid-Stüter, Hattingen-Mitte, Holthausen, Niederbonsfeld, Niederelfringhausen, Niederwenigern, Oberelfringhausen, Oberstüter, Welper und Winz-Baak. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-bochum.html">Abschleppdienst Bochum</a>, <a href="stadt-wuppertal.html">Abschleppdienst Wuppertal</a> und <a href="stadt-witten.html">Abschleppdienst Witten</a>.</p>
 <h2>Keine Autobahn im Stadtgebiet</h2>
@@ -204,6 +289,9 @@
 <details><summary>Wurde die A44 durch Hattingen gebaut?</summary><div>Nein, die geplante Verbindung von Velbert über Hattingen nach Bochum wurde nicht umgesetzt.</div></details>
 <details><summary>Wie viele Stadtteile hat Hattingen?</summary><div>Elf.</div></details>
 <details><summary>Was sind die Eisenmänner?</summary><div>Figuren an der alten Stadtmauer nahe dem Busbahnhof, die den Zugang zur Altstadt bewachen.</div></details>
+<details><summary>Was kostet die Hilfe in Hattingen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Hattingen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -211,6 +299,17 @@
 <!--AREAS: Ravensburg, Eschach, Schmalegg, Taldorf, Schussental, Weingarten, Bodensee -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ravensburg</p><h1>Abschleppdienst Ravensburg</h1><p class="lead">Ravensburg liegt im Schussental in Oberschwaben, unweit des Bodensees. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Ravensburg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Ravensburg oder an B30, B32, B33 und A7. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Ravensburg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Ravensburg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B30, B32, B33, A7 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Ehemalige Reichsstadt im Schussental</h2>
 <p>Ravensburg ist Mittelstadt und Kreisstadt des gleichnamigen Landkreises im südlichen Oberschwaben. Die ehemalige Reichsstadt liegt im Schussental unweit des Bodensees und wurde wegen ihrer gut erhaltenen mittelalterlichen Türme früher „das schwäbische Nürnberg“ genannt. Das Stadtgebiet besteht aus der Kernstadt mit historischer Altstadt und Stadterweiterungen sowie den Ortschaften Eschach im Süden, Schmalegg im Westen und Taldorf im Südwesten, die in den 1970er Jahren eingemeindet wurden. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-friedrichshafen.html">Abschleppdienst Friedrichshafen</a> und <a href="stadt-ulm.html">Abschleppdienst Ulm</a>.</p>
 <h2>Kreuzungspunkt B30, B32 und B33</h2>
@@ -235,5 +334,8 @@
 <details><summary>Wo sind die nächsten Autobahnen?</summary><div>Bei Ulm (A7, A8), Stockach-Ost (A98) und Wangen (A96).</div></details>
 <details><summary>Warum hieß Ravensburg „schwäbisches Nürnberg“?</summary><div>Wegen der zahlreichen gut erhaltenen mittelalterlichen Türme.</div></details>
 <details><summary>Wie weit ist Friedrichshafen?</summary><div>Etwa 15 Kilometer südlich.</div></details>
+<details><summary>Was kostet die Hilfe in Ravensburg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Ravensburg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

@@ -2,6 +2,17 @@
 <!--AREAS: Wetzlar, Wetzlar-Dutenhofen, Wetzlar-Münchholzhausen, Wetzlar-Büblingshausen, Aßlar, Wetzlar-Blasbach -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wetzlar</p><h1>Abschleppdienst Wetzlar</h1><p class="lead">Wetzlar liegt an der A45 Sauerlandlinie mit dem Wetzlarer Kreuz in Mittelhessen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Wetzlar: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Wetzlar oder an A45, A480, B49 und A48. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Wetzlar fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Wetzlar abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A45, A480, B49, A48 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Verkehrsknoten in Mittelhessen</h2>
 <p>Wetzlar ist die zwölftgrößte Stadt Hessens mit 54.865 Einwohnern (31. Dezember 2025), Kreisstadt des Lahn-Dill-Kreises und wie sechs weitere Mittelstädte eine Stadt mit Sonderstatus. Von 1689 bis 1806 war sie der letzte Sitz des Reichskammergerichtes. Als Verkehrsknotenpunkt bündelt sie Verkehrsströme aus Dilltal und Lahntal: aus Norden (Ruhrgebiet, Siegen), im Osten (Gießen, Fulda, Kassel) und im Westen (Limburg, Koblenz), die Wetterau verbindet nach Süden mit Friedberg, Bad Homburg und Frankfurt. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
 <h2>A45 und Wetzlarer Kreuz</h2>
@@ -24,6 +35,9 @@
 <details><summary>Was ist die A480?</summary><div>Ein Teilstück einer nie vollständig gebauten Autobahn A48 von Trier durch den Westerwald bis zum Hattenbacher Dreieck.</div></details>
 <details><summary>Wie viele Einwohner hat Wetzlar?</summary><div>54.865 am 31. Dezember 2025.</div></details>
 <details><summary>Kommen Sie auch nach Aßlar?</summary><div>Wir organisieren Einsätze in der Region. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet die Hilfe in Wetzlar?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Wetzlar?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,6 +45,17 @@
 <!--AREAS: Marburg, Marburg-Cappel, Marburg-Wehrda, Marburg-Marbach, Cölbe, Niederweimar -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Marburg</p><h1>Abschleppdienst Marburg</h1><p class="lead">Marburg liegt an der Lahn in Mittelhessen, die B3 führt quer durch das Stadtgebiet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Marburg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Marburg oder an B3, B62, B252 und B255. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Marburg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Marburg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B3, B62, B252, B255 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Universitätsstadt beiderseits der Lahn</h2>
 <p>Marburg ist die Kreisstadt des Landkreises Marburg-Biedenkopf und mit 73.571 Einwohnern (2025) die achtgrößte Stadt Hessens. Das Stadtgebiet erstreckt sich beiderseits der Lahn westlich ins Gladenbacher Bergland hinein und östlich über die Lahnberge bis an den Rand des Amöneburger Beckens. Die Lage in einem Tal und an Hängen bedeutet für Ihre Standortangabe: Straße, Ortsteil und wenn möglich die Talseite. Nennen Sie uns außerdem, ob Sie an einer Steigung stehen.</p>
 <h2>B3 als Stadtautobahn</h2>
@@ -53,6 +78,9 @@
 <details><summary>Was ist die B3a?</summary><div>Die Stadtautobahn, die als B3 quer durch das Stadtgebiet verläuft, meist parallel zur Bahn.</div></details>
 <details><summary>Ist die B3 nach Gießen vierspurig?</summary><div>Ja, seit der Inbetriebnahme des letzten Teilstücks am 11. Mai 2011 durchgehend.</div></details>
 <details><summary>Wie viele Einwohner hat Marburg?</summary><div>73.571 im Jahr 2025.</div></details>
+<details><summary>Was kostet die Hilfe in Marburg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Marburg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -60,6 +88,17 @@
 <!--AREAS: Fulda, Fulda-Nord, Fulda-Mitte, Fulda-Süd, Neuhof, Petersberg -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Fulda</p><h1>Abschleppdienst Fulda</h1><p class="lead">Fulda liegt zentral an der A7 mit Anschluss an die A66 Richtung Frankfurt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Fulda: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Fulda oder an A7, A66, B27 und B254. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Fulda fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Fulda abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A7, A66, B27, B254 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Oberzentrum Osthessens</h2>
 <p>Fulda ist die neuntgrößte Stadt Hessens, Kreisstadt des Landkreises Fulda und Oberzentrum der Region Osthessen. Trotz der Zugehörigkeit zum nordhessischen Regierungsbezirk Kassel gehört die Stadt zum Rhein-Main-Gebiet. Sie ist eine Hochschul-, Barock- und Bischofsstadt mit dem Dom St. Salvator als Wahrzeichen. Durch die zentrale Lage in Deutschland ist Fulda im Straßen- wie im Bahnverkehr günstig an mehreren großen Strecken gelegen. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
 <h2>A7, A66 und Dreieck Fulda</h2>
@@ -82,6 +121,9 @@
 <details><summary>Was ist der Tunnel Neuhof?</summary><div>Ein Tunnel der A66 südlich von Fulda in Richtung Frankfurt.</div></details>
 <details><summary>Wann entstand die Westumfahrung?</summary><div>2008, mit Kosten von 23 Millionen Euro.</div></details>
 <details><summary>Welche Ausfahrten hat Fulda?</summary><div>Fulda-Nord (91) und Fulda-Mitte (92) an der A7, Fulda-Süd (53) an der A66.</div></details>
+<details><summary>Was kostet die Hilfe in Fulda?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Fulda?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -89,6 +131,17 @@
 <!--AREAS: Brandenburg an der Havel, Brandenburg-Görden, Brandenburg-Kirchmöser, Brandenburg-Plaue, Brandenburg-Neustadt -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Brandenburg an der Havel</p><h1>Abschleppdienst Brandenburg an der Havel</h1><p class="lead">Brandenburg an der Havel liegt an der Havel, die A2 verläuft rund zehn Kilometer südlich. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Brandenburg an der Havel: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Brandenburg an der Havel oder an A2, B1, B102 und A10. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Brandenburg an der Havel fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Brandenburg an der Havel abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A2, B1, B102, A10 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Größte kreisfreie Stadt Brandenburgs</h2>
 <p>Brandenburg an der Havel ist eine kreisfreie Stadt im Land Brandenburg mit 73.945 Einwohnern (31. Dezember 2025), die drittgrößte Stadt und gemessen an der Fläche die größte kreisfreie Stadt des Landes, eines der vier Oberzentren. Nennen Sie uns bei einer Panne Ortsteil und Straße, zum Beispiel Görden, Plaue, Kirchmöser oder die Neustadt. Die große Fläche heißt für Ihre Standortangabe: Geben Sie den Ortsteil an, nicht nur „Brandenburg“.</p>
 <h2>A2, B1 und B102</h2>
@@ -111,6 +164,9 @@
 <details><summary>Welche Bundesstraßen kreuzen sich in der Stadt?</summary><div>Die B1 und die B102.</div></details>
 <details><summary>Wie viele Brücken hat die Stadt?</summary><div>58.</div></details>
 <details><summary>Warum den Ortsteil nennen?</summary><div>Die Stadt ist flächenmäßig die größte kreisfreie Stadt Brandenburgs, der Ortsteil hilft bei der Einordnung.</div></details>
+<details><summary>Was kostet die Hilfe in Brandenburg an der Havel?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Brandenburg an der Havel?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -118,6 +174,17 @@
 <!--AREAS: Frankfurt (Oder), Frankfurt-Markendorf, Frankfurt-Hansa Nord, Frankfurt-Süd, Słubice, Rosengarten -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Frankfurt (Oder)</p><h1>Abschleppdienst Frankfurt (Oder)</h1><p class="lead">Frankfurt (Oder) liegt am Westufer der Oder an der Grenze zu Polen, mit der A12 nach Berlin. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Frankfurt (Oder): Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Frankfurt (Oder) oder an A12, B5, B87 und B112. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Frankfurt (Oder) fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Frankfurt (Oder) abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A12, B5, B87, B112 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Grenzstadt an der Oder</h2>
 <p>Frankfurt (Oder) ist eine kreisfreie Stadt in Brandenburg mit 56.586 Einwohnern (31. Dezember 2025). Die Mittelstadt liegt am Westufer der Oder und ist Grenzort zu Polen. Die polnische Nachbarstadt Słubice entstand 1945 aus dem Frankfurter Stadtteil Dammvorstadt. Seit 1999 führt Frankfurt die Zusatzbezeichnung „Kleiststadt“, die Europa-Universität Viadrina wurde neu gegründet. Der Namensteil in Klammern ist wichtig, um Verwechslungen mit Frankfurt am Main zu vermeiden: Nennen Sie uns bitte immer „Frankfurt an der Oder“ und die Straße. Frankfurt am Main finden Sie unter <a href="stadt-frankfurt.html">Abschleppdienst Frankfurt am Main</a>.</p>
 <h2>A12 zur polnischen Autostrada A2</h2>
@@ -140,6 +207,9 @@
 <details><summary>Ist Frankfurt (Oder) dasselbe wie Frankfurt am Main?</summary><div>Nein. Nennen Sie uns bitte den Zusatz „an der Oder“.</div></details>
 <details><summary>Welche Bundesstraßen gibt es?</summary><div>B5, B87, B112 und B112n im Einzugsbereich.</div></details>
 <details><summary>Kommen Sie auch nach Słubice?</summary><div>Das ist eine Frage des Einzelfalls. Nennen Sie uns Ort und Straße, dann klären wir, ob eine Anfahrt möglich ist.</div></details>
+<details><summary>Was kostet die Hilfe in Frankfurt (Oder)?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Frankfurt (Oder)?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -147,6 +217,17 @@
 <!--AREAS: Plauen, Plauen-Jößnitz, Plauen-Steinsdorf, Plauen-Chrieschwitz, Plauen-Haselbrunn, Plauen-Neundorf -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Plauen</p><h1>Abschleppdienst Plauen</h1><p class="lead">Plauen ist die größte Stadt des sächsischen Vogtlandes, die A9 erreichen Sie über die A72. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Plauen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Plauen oder an A72, B92, B173 und A9. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Plauen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Plauen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A72, B92, B173, A9 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Oberzentrum im Vogtland</h2>
 <p>Die Große Kreisstadt Plauen ist ein Oberzentrum im Südwesten des Freistaates Sachsen und Kreisstadt des Vogtlandkreises. Sie ist die größte Stadt des sächsischen Vogtlandes und die fünftgrößte Stadt im Freistaat. Seit dem 1. Januar 2025 trägt Plauen das Prädikat Hochschulstadt. Die Gemeindeteile Jößnitz und Steinsdorf haben den Status eines staatlich anerkannten Erholungsortes. Nennen Sie uns bei einer Panne Ortsteil und Straße.</p>
 <h2>A72, A9 und A4</h2>
@@ -169,6 +250,9 @@
 <details><summary>Welche Bundesstraßen führen durch Plauen?</summary><div>B92 und B173.</div></details>
 <details><summary>Was ist die Friedensbrücke?</summary><div>Das Syratalviadukt, mit 90 Metern Spannweite die größte Bruchsteinbogenbrücke der Welt, über die die B92 führt.</div></details>
 <details><summary>Kommen Sie auch nach Zwickau?</summary><div>Wir organisieren Einsätze in Südwestsachsen. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet die Hilfe in Plauen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Plauen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -176,6 +260,17 @@
 <!--AREAS: Weimar, Weimar-Legefeld, Weimar-Gelmeroda, Weimar-Tiefurt, Weimar-Schöndorf, Ettersberg -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Weimar</p><h1>Abschleppdienst Weimar</h1><p class="lead">Weimar liegt an der Ilm zwischen Erfurt und Jena an der A4. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Weimar: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Weimar oder an A4. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Weimar fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Weimar abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A4 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kulturstadt zwischen Erfurt und Jena</h2>
 <p>Weimar ist eine kreisfreie Stadt in Thüringen, bekannt für ihr kulturelles und politisches Erbe. Die Altstadt liegt an einem Bogen der Ilm südöstlich des Ettersberges, der mit 477 Metern höchsten Erhebung im Thüringer Becken. Mit rund 66.000 Einwohnern (2024) ist sie nach Erfurt, Jena und Gera die viertgrößte Gemeinde Thüringens und liegt etwa auf halbem Wege zwischen Erfurt im Westen und Jena im Osten. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-erfurt.html">Abschleppdienst Erfurt</a> und <a href="stadt-jena.html">Abschleppdienst Jena</a>.</p>
 <h2>A4: Anschlussstelle 49 Weimar</h2>
@@ -198,6 +293,9 @@
 <details><summary>Wie viele Einwohner hat Weimar?</summary><div>Rund 66.000 (2024).</div></details>
 <details><summary>Was ist die Autobahnkirche?</summary><div>Die Feiningerkirche in Gelmeroda, eine Dorfkirche, die auch als Autobahnkirche bekannt ist.</div></details>
 <details><summary>Kommen Sie auch nach Apolda?</summary><div>Wir organisieren Einsätze in Thüringen. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet die Hilfe in Weimar?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Weimar?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -205,6 +303,17 @@
 <!--AREAS: Eisenach, Eisenach-West, Eisenach-Ost, Wutha-Farnroda, Ramsborn, Wartburg -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Eisenach</p><h1>Abschleppdienst Eisenach</h1><p class="lead">Eisenach liegt im Hörseltal am Nordrand des Thüringer Waldes, die A4 verläuft seit 2010 weiter nördlich. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Eisenach: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Eisenach oder an A4, B7 und B19. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Eisenach fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Eisenach abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A4, B7, B19 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Wartburgstadt im Hörseltal</h2>
 <p>Eisenach ist eine Große Kreisstadt im Wartburgkreis in Thüringen, im Tal der Hörsel am Nordrand des Thüringer Waldes. Bekannt ist die Stadt durch die Wartburg südlich und oberhalb der Altstadt. Sie war im Mittelalter Residenzstadt der Landgrafen von Thüringen und trägt seit dem Ende der Monarchie den Beinamen Wartburgstadt, außerdem ist sie Lutherstadt. Die Lage im Tal und am Waldrand heißt für Ihre Standortangabe: Straße, Ortsteil und wenn möglich die Talseite, dazu ob es bergauf oder bergab geht.</p>
 <h2>A4 seit 2010 nördlich verlegt</h2>
@@ -227,5 +336,8 @@
 <details><summary>Was wurde aus der alten A4-Trasse?</summary><div>Sie wird zwischen Wutha-Farnroda und Eisenach-West als Umgehungsstraße verwendet, ein Teil der B19 führt über die ehemalige Autobahntrasse.</div></details>
 <details><summary>Wohin führt die B7?</summary><div>Von der Anschlussstelle Eisenach-West nach Kassel.</div></details>
 <details><summary>Kommen Sie auch nach Wutha-Farnroda?</summary><div>Wir organisieren Einsätze in Thüringen. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet die Hilfe in Eisenach?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Eisenach?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

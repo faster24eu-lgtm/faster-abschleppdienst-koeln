@@ -2,12 +2,21 @@
 <!--AREAS: Dinslaken, Hiesfeld, Lohberg, Eppinghoven, Dinslaken-West, Walsum, Voerde, Kreuz Oberhausen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dinslaken</p><h1>Abschleppdienst Dinslaken</h1><p class="lead">Dinslaken liegt am unteren Niederrhein am nordwestlichen Rand des Ruhrgebiets. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Dinslaken: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Dinslaken oder an A3, A59, B8 und A2. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Dinslaken fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Dinslaken abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A3, A59, B8, A2 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Hansestadt im Kreis Wesel</h2>
 <p>Die Hansestadt Dinslaken ist eine große kreisangehörige Stadt des Kreises Wesel im Regierungsbezirk Düsseldorf. Sie grenzt im Süden an den Duisburger Stadtteil Walsum und an Oberhausen und liegt etwa 13 Kilometer südöstlich von Wesel, im Osten schließt der Naturpark Hohe Mark-Westmünsterland an. Das Stadtgebiet ist in zehn Siedlungsbezirke gegliedert, bekannte Namen sind Hiesfeld und Lohberg, der Stadtteil Eppinghoven kam am 1. Januar 1975 von Walsum hinzu. Wer nahe der Grenze zu Duisburg oder Voerde liegen bleibt, nennt uns am besten Straße und Hausnummer und den Bezirk. Mehr auf <a href="stadt-oberhausen.html">Abschleppdienst Oberhausen</a>, <a href="stadt-duisburg.html">Abschleppdienst Duisburg</a> und <a href="stadt-wesel.html">Abschleppdienst Wesel</a>.</p>
 <h2>A3, A59 und B8</h2>
 <p>Dinslaken ist an die Autobahnen A3 und A59 sowie die B8 angebunden, die alle drei über das Stadtgebiet führen. Die A3 erreicht am nahegelegenen Autobahnkreuz Oberhausen auch die A2 und die A516. Die A59 beginnt in Dinslaken an der Anschlussstelle Dinslaken-West und hat auf Dinslakener Stadtgebiet keine Verbindung zur A3, diese Verbindung wird durch die B8 gewährleistet. Für die Standortangabe heißt das: Wer auf der A59 in Dinslaken-West steht, ist nicht auf der A3, und der Weg zur A3 führt über die B8. Bei einer Panne nennen Sie uns Nummer, Richtung und Anschlussstelle, mehr auf <a href="autobahn-a3.html">Panne auf der A3</a> und <a href="autobahn-a59.html">Panne auf der A59</a>.</p>
-<h2>Zeche Lohberg und Bergbauerbe</h2>
-<p>Bergarbeiter der Zeche Lohberg traten aus Protest gegen die Kohlepolitik der Bundesregierung in einen Hungerstreik, 1996 brannten über 100 Tage Mahnfeuer, das zeigt, wie stark der Bergbau die Stadt geprägt hat. Wenn Sie in Lohberg oder in einer ehemaligen Zechensiedlung liegen bleiben, sagen Sie uns Straße und Hausnummer.</p>
 <h2>Nahe Duisburg, Oberhausen und Wesel</h2>
 <p>Wenn Sie zwischen Dinslaken und Wesel unterwegs sind, nennen Sie uns die Anschlussstelle oder den letzten Ort, den Sie passiert haben, sowie die Fahrtrichtung.</p>
 <h2>So nennen Sie Ihren Standort in Dinslaken</h2>
@@ -24,6 +33,9 @@
 <details><summary>Wo beginnt die A59?</summary><div>In Dinslaken an der Anschlussstelle Dinslaken-West.</div></details>
 <details><summary>Wie komme ich von der A59 zur A3?</summary><div>Auf Dinslakener Stadtgebiet über die B8, eine direkte Verbindung gibt es dort nicht.</div></details>
 <details><summary>Wie viele Siedlungsbezirke hat Dinslaken?</summary><div>Zehn.</div></details>
+<details><summary>Was kostet die Hilfe in Dinslaken?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Dinslaken?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,6 +43,17 @@
 <!--AREAS: Wesel, Büderich, Bislich, Flüren, Obrighoven-Lackhausen, Fusternberg, Feldmark, Auesee, Diersfordter Wald -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wesel</p><h1>Abschleppdienst Wesel</h1><p class="lead">Wesel liegt am unteren Niederrhein, hier mündet die Lippe in den Rhein. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Wesel: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Wesel oder an A3, A57, B58 und B8. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Wesel fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Wesel abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A3, A57, B58, B8 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Hansestadt an Rhein und Lippe</h2>
 <p>Die Hansestadt Wesel ist Kreisstadt des Kreises Wesel und hat bei rund 61.000 Einwohnern den Status einer Großen kreisangehörigen Stadt. Sie gehört zur Metropolregion Rhein-Ruhr und liegt an Rhein und Lippe, das Stadtgebiet ist mit 122,56 Quadratkilometern das zweitgrößte im Kreis nach Hamminkeln. Nach der Gebietsreform gehört auch der Stadtteil Büderich auf der linken Rheinseite dazu. Die Stadt gliedert sich in fünf Stadtteile: Bislich, Büderich, Flüren, Obrighoven-Lackhausen und Wesel mit Altstadt, Blumenkamp, Feldmark, Fusternberg und Schepersfeld. Wesel hatte 2016 unter allen Kommunen Nordrhein-Westfalens den größten Wasserflächenanteil, 13,3 Prozent. Nennen Sie uns bei einer Panne Stadtteil, Straße und ob Sie links oder rechts des Rheins stehen. Mehr auf <a href="stadt-moers.html">Abschleppdienst Moers</a> und <a href="stadt-dinslaken.html">Abschleppdienst Dinslaken</a>.</p>
 <h2>A3, A57 und Bundesstraßen</h2>
@@ -53,6 +76,9 @@
 <details><summary>Gibt es mehrere Rheinbrücken im Kreis?</summary><div>Nein, die Niederrheinbrücke der B58 ist die einzige im Kreis Wesel.</div></details>
 <details><summary>Wann wurde die Niederrheinbrücke eröffnet?</summary><div>2009, als Ersatz einer Brücke aus den 1950er Jahren.</div></details>
 <details><summary>Wie viele Stadtteile hat Wesel?</summary><div>Fünf: Bislich, Büderich, Flüren, Obrighoven-Lackhausen und Wesel.</div></details>
+<details><summary>Was kostet die Hilfe in Wesel?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Wesel?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -89,12 +115,19 @@
 <!--AREAS: Kamp-Lintfort, Lintfort, Kamp, Geisbruch, Gestfeld, Niersenbruch, Hoerstgen, Kloster Kamp, Kreuz Kamp-Lintfort -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kamp-Lintfort</p><h1>Abschleppdienst Kamp-Lintfort</h1><p class="lead">Kamp-Lintfort liegt am unteren Niederrhein am westlichen Rand des Ruhrgebiets. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
-<h2>Zechenstadt mit zehn Stadtteilen</h2>
-<p>Kamp-Lintfort ist eine mittlere kreisangehörige Stadt des Kreises Wesel im Regierungsbezirk Düsseldorf, 2020 war sie Veranstaltungsort der Landesgartenschau Nordrhein-Westfalen. Sie gliedert sich in zehn Stadtteile, die geschlossene städtische Bebauung liegt größtenteils in Lintfort, Stadtkern (Kamp), Geisbruch und Gestfeld. Werkskolonien der ehemaligen Zeche Friedrich Heinrich sowie einer früheren Ziegelei prägen große Teile des Stadtbildes. Außerhalb haben die Stadtteile ländlichen Charakter bewahrt, hervorzuheben ist das Straßendorf Hoerstgen. Nennen Sie uns bei einer Panne Stadtteil und Straße. Mehr auf <a href="stadt-moers.html">Abschleppdienst Moers</a>, <a href="stadt-krefeld.html">Abschleppdienst Krefeld</a> und <a href="stadt-duisburg.html">Abschleppdienst Duisburg</a>.</p>
+<h2>Panne in Kamp-Lintfort: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Kamp-Lintfort oder an A42, A57, B510 und B528. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Kamp-Lintfort fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Kamp-Lintfort abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A42, A57, B510, B528 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreuz Kamp-Lintfort: A42 und A57</h2>
 <p>Kamp-Lintfort ist durch die A42 und die A57 sowie über die B510 an das Fernstraßennetz angebunden. Als Verlängerung der A42 wurde im Dezember 2006 die B528 als Südumgehung des Stadtgebietes gebaut. Das Autobahnkreuz Kamp-Lintfort hat mit „Kamp-Lintfort-Süd“ nun eine dritte Abfahrt neben dem Kreuz und der Ausfahrt „Asdonkshof“, sie erschließt das Gewerbegebiet Süd. Wenn Sie auf einer der Verbindungsrampen oder an einer Ausfahrt liegen bleiben, nennen Sie uns Nummer, Richtung und Ausfahrtname. Mehr auf <a href="autobahn-a42.html">Panne auf der A42</a> und <a href="autobahn-a57.html">Panne auf der A57</a>.</p>
-<h2>Kloster Kamp und Landesgartenschau</h2>
-<p>Am 31. Januar 1123 wurde in Kamp mit Unterstützung des Kölner Erzbischofs Friedrich I. das erste Zisterzienserkloster auf deutschem Boden gegründet. Wenn Sie am Kloster Kamp oder am Gelände der Landesgartenschau liegen bleiben, nennen Sie uns Parkplatz und Zufahrt.</p>
 <h2>So nennen Sie Ihren Standort in Kamp-Lintfort</h2>
 <ul class="ticks">
 <li>Stadtteil, Straße, Hausnummer oder Querstraße.</li>
@@ -109,5 +142,8 @@
 <details><summary>Was ist die B528?</summary><div>Die im Dezember 2006 gebaute Südumgehung als Verlängerung der A42.</div></details>
 <details><summary>Wie viele Stadtteile gibt es?</summary><div>Zehn.</div></details>
 <details><summary>Was gibt es in Kamp zu sehen?</summary><div>Kloster Kamp, 1123 als erstes Zisterzienserkloster auf deutschem Boden gegründet.</div></details>
+<details><summary>Was kostet die Hilfe in Kamp-Lintfort?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Kamp-Lintfort?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

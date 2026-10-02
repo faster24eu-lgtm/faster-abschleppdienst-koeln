@@ -2,6 +2,17 @@
 <!--AREAS: Wilhelmshaven, Wilhelmshaven-Heppens, Wilhelmshaven-Voslapp, Schortens, Sande, Jever -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wilhelmshaven</p><h1>Abschleppdienst Wilhelmshaven</h1><p class="lead">Wilhelmshaven liegt am Jadebusen an der Nordsee, mit der A29 als Zubringer bis zum JadeWeserPort. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Wilhelmshaven: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Wilhelmshaven oder an A29 und B210. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Wilhelmshaven fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Wilhelmshaven abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A29, B210 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Hafen- und Marinestadt am Jadebusen</h2>
 <p>Wilhelmshaven ist eine kreisfreie Stadt in Niedersachsen mit 75.324 Einwohnern, im Nordwesten an der Nordwestküste des Jadebusens gelegen, einer etwa 190 Quadratkilometer großen Meeresbucht an der Nordsee. Die Stadtgeschichte ist seit der Einweihung als „erster deutscher Kriegshafen an der Jade“ am 17. Juni 1869 eng mit der Marine verbunden. Heute ist die Stadt der größte Standort der Deutschen Marine. Auf dem Stadtgebiet liegen 645 Hektar Wasserflächen, überwiegend Hafenbecken. Für Ihre Standortangabe heißt das: Ein Teil der Zufahrten führt an Hafen und Kasernenzäunen entlang, Ihre Straße und die nächste Hafenbezeichnung helfen.</p>
 <h2>A29 und B210</h2>
@@ -24,6 +35,9 @@
 <details><summary>Welche Autobahn führt nach Wilhelmshaven?</summary><div>Die A29 von Oldenburg, die bis zum JadeWeserPort reicht.</div></details>
 <details><summary>Wann wurde der JadeWeserPort eröffnet?</summary><div>Am 21. September 2012.</div></details>
 <details><summary>Wo liegt das Wilhelmshavener Kreuz?</summary><div>Knapp hinter der Stadtgrenze in Schortens, dort schließt die B210 an die A29 an.</div></details>
+<details><summary>Was kostet die Hilfe in Wilhelmshaven?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Wilhelmshaven?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,6 +45,17 @@
 <!--AREAS: Emden, Emden-Borssum, Emden-Larrelt, Emden-Wybelsum, Emden-Petkum, Emden-Barenburg -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Emden</p><h1>Abschleppdienst Emden</h1><p class="lead">Emden liegt an der Emsmündung am Dollart und hat fünf Anschlussstellen der A31. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Emden: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Emden oder an A31, B210 und A28. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Emden fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Emden abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A31, B210, A28 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Größte Stadt Ostfrieslands</h2>
 <p>Emden liegt im Nordwesten von Niedersachsen an der Emsmündung am Nordufer des Dollarts und ist mit 49.009 Einwohnern (31. Dezember 2025) die größte Stadt Ostfrieslands und die kleinste kreisfreie Stadt Niedersachsens. Sie ist die westlichste Seehafenstadt Deutschlands. Es gibt 865 Hektar Wasserfläche innerhalb der Stadtgrenzen, rund 150 Kilometer Kanäle verlaufen durch das Stadtgebiet. Emden hat 20 Stadtteile, die drei größten sind laut städtischer Statistik das Stadtzentrum, Barenburg und Borssum/Hilmarsum. Nennen Sie uns bei einer Panne Stadtteil und Straße, im Zentrum auch das Viertel (Altstadt, Behördenviertel, Boltentor, Groß-Faldern).</p>
 <h2>A31 im Halbkreis</h2>
@@ -53,6 +78,9 @@
 <details><summary>Wie viele Stadtteile hat Emden?</summary><div>20.</div></details>
 <details><summary>Wohin führt die B210?</summary><div>Von Emden über Aurich, Wittmund und Jever nach Wilhelmshaven.</div></details>
 <details><summary>Kommen Sie auch nach Leer?</summary><div>Wir organisieren Einsätze in Ostfriesland. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet die Hilfe in Emden?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Emden?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -60,6 +88,17 @@
 <!--AREAS: Lüneburg, Lüneburg-Kaltenmoor, Lüneburg-Häcklingen, Lüneburg-Oedeme, Lüneburg-Ochtmissen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lüneburg</p><h1>Abschleppdienst Lüneburg</h1><p class="lead">Lüneburg liegt an der Ilmenau am Rand der Lüneburger Heide, rund 50 Kilometer südöstlich von Hamburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Lüneburg: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Lüneburg oder an A39, B4, B209 und B216. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Lüneburg fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Lüneburg abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A39, B4, B209, B216 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Hansestadt am Rand der Heide</h2>
 <p>Die Hansestadt Lüneburg ist eine große Mittelstadt im Nordosten von Niedersachsen, eines von neun Oberzentren des Bundeslandes und Kreisstadt des Landkreises Lüneburg mit knapp 75.000 Einwohnern. Sie liegt am Unterlauf der schiffbaren Ilmenau, etwa 30 Kilometer vor deren Zusammenfluss mit der Elbe, ungefähr 50 Kilometer südöstlich von Hamburg und gehört zur Metropolregion Hamburg. Südlich und westlich erstreckt sich die Lüneburger Heide. Die Altstadt liegt über einem Salzstock, dessen Gipskappe, der Kalkberg, der Stadt den Namen gab. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
 <h2>Mons, Pons, Fons: die Stadtteile der Altstadt</h2>
@@ -82,5 +121,8 @@
 <details><summary>Welche Autobahn führt nach Lüneburg?</summary><div>Die A39, mit Anschluss an das Stadtgebiet.</div></details>
 <details><summary>Welche Bundesstraßen führen durch Lüneburg?</summary><div>B4, B209 und B216.</div></details>
 <details><summary>Wie lange dauert der Zug nach Hamburg?</summary><div>Etwa 30 Minuten zum Hauptbahnhof.</div></details>
+<details><summary>Was kostet die Hilfe in Lüneburg?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Lüneburg?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

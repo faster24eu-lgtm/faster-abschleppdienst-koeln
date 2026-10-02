@@ -2,6 +2,17 @@
 <!--AREAS: Sankt Augustin, Hangelar, Menden, Niederpleis, Mülldorf, Buisdorf, Birlinghoven, Meindorf -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Sankt Augustin</p><h1>Abschleppdienst Sankt Augustin</h1><p class="lead">Sankt Augustin liegt im Verdichtungsraum Bonn zwischen A3, A59 und A560. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Sankt Augustin: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Sankt Augustin oder an A560, A3, A59 und B56. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Sankt Augustin fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Sankt Augustin abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A560, A3, A59, B56 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Entstanden 1969 aus dem Amt Menden</h2>
 <p>Sankt Augustin im Rhein-Sieg-Kreis entstand bei der nordrhein-westfälischen Gebietsreform 1969 durch die Auflösung des Amtes Menden und liegt im Verdichtungsraum Bonn. Die Ortsteile Hangelar, Sankt Augustin-Ort, Niederpleis und Mülldorf liegen entlang der Verbindungslinie Bonn–Siegburg und bilden den durchgängig bebauten Hauptteil der Stadt, während Menden und Meindorf im Norden, Buisdorf im Osten und Birlinghoven im Süden noch von größeren Freiflächen umgeben sind. Nennen Sie uns bei einer Panne den Ortsteil und die Straße. Mehr auf <a href="stadt-bonn.html">Abschleppdienst Bonn</a>, <a href="stadt-siegburg.html">Abschleppdienst Siegburg</a> und <a href="stadt-troisdorf.html">Abschleppdienst Troisdorf</a>.</p>
 <h2>A560 seit 1988, A3 und A59</h2>
@@ -24,6 +35,9 @@
 <details><summary>Welche Bundesstraße führt nach Bonn?</summary><div>Die B56, sie verbindet Sankt Augustin mit Bonn und Siegburg.</div></details>
 <details><summary>Wo liegt der nächste ICE-Bahnhof?</summary><div>In der Nachbarschaft: Siegburg/Bonn, über die Stadtbahn angeschlossen.</div></details>
 <details><summary>Wie viele Autobahnanbindungen hat Sankt Augustin an die A560?</summary><div>Drei: Menden, Mülldorf und Niederpleis.</div></details>
+<details><summary>Was kostet die Hilfe in Sankt Augustin?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Sankt Augustin?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -31,6 +45,17 @@
 <!--AREAS: Meerbusch, Büderich, Osterath, Lank-Latum, Ossum-Bösinghoven, Strümp, Langst-Kierst, Nierst, Ilverich, Kreuz Meerbusch -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Meerbusch</p><h1>Abschleppdienst Meerbusch</h1><p class="lead">Meerbusch liegt am linken Niederrhein zwischen Krefeld und Düsseldorf, hier kreuzen sich A44 und A57. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Meerbusch: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Meerbusch oder an A44, A52 und A57. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Meerbusch fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Meerbusch abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A44, A52, A57 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Acht Stadtteile aus ehemals selbstständigen Gemeinden</h2>
 <p>Meerbusch ist eine kreisangehörige Stadt im Rhein-Kreis Neuss und Mittelzentrum am linken Niederrhein zwischen Krefeld und Düsseldorf, geprägt von einem ländlichen Charakter. Die acht ehemals selbstständigen Gemeinden Büderich, Osterath, Lank-Latum, Ossum-Bösinghoven, Strümp, Langst-Kierst, Nierst und Ilverich bilden die heutigen Stadtteile. Das größte Meerbuscher Schützenfest findet jährlich am Pfingstwochenende in Büderich statt. Nennen Sie uns bei einer Panne den Stadtteil und die Straße. Mehr auf <a href="stadt-duesseldorf.html">Abschleppdienst Düsseldorf</a>, <a href="stadt-krefeld.html">Abschleppdienst Krefeld</a> und <a href="stadt-neuss.html">Abschleppdienst Neuss</a>.</p>
 <h2>Drei Autobahnen und das Kreuz Meerbusch</h2>
@@ -55,6 +80,9 @@
 <details><summary>Wo kreuzen sich A44 und A57?</summary><div>Im Autobahnkreuz Meerbusch auf dem Stadtgebiet.</div></details>
 <details><summary>Wie viele Stadtteile hat Meerbusch?</summary><div>Acht, aus ehemals selbstständigen Gemeinden.</div></details>
 <details><summary>Wo findet das größte Schützenfest statt?</summary><div>In Büderich, jährlich am Pfingstwochenende.</div></details>
+<details><summary>Was kostet die Hilfe in Meerbusch?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Meerbusch?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -62,6 +90,17 @@
 <!--AREAS: Rastatt, Niederbühl, Ottersdorf, Plittersdorf, Rauental, Wintersdorf, Ried, Rhein -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rastatt</p><h1>Abschleppdienst Rastatt</h1><p class="lead">Rastatt liegt in der Oberrheinischen Tiefebene zwischen Karlsruhe und Baden-Baden mit zwei Anschlüssen an die A5. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Rastatt: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Rastatt oder an A5, B3 und B36. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Rastatt fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Rastatt abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A5, B3, B36 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Barocke Residenzstadt am Rhein</h2>
 <p>Rastatt ist Kreisstadt und größte Stadt des Landkreises Rastatt, rund 22 Kilometer südwestlich von Karlsruhe und 12 Kilometer nördlich von Baden-Baden. Die Stadt liegt in der Oberrheinischen Tiefebene, im Westen bildet der Rhein die Stadtgrenze und die Grenze zu Frankreich. Das Stadtgebiet besteht aus der Kernstadt und den erst in den 1970er Jahren eingemeindeten Ortsteilen Niederbühl, Ottersdorf, Plittersdorf, Rauental und Wintersdorf, die rheinnahen Ortsteile Ottersdorf, Plittersdorf und Wintersdorf bilden das sogenannte Ried. Nennen Sie uns bei einer Panne Ortsteil und Straße, dazu ob Sie im Ried oder in der Kernstadt stehen. Mehr auf <a href="abschleppdienst-karlsruhe.html">Abschleppdienst Karlsruhe</a>, <a href="stadt-baden-baden.html">Abschleppdienst Baden-Baden</a> und <a href="stadt-bruchsal.html">Abschleppdienst Bruchsal</a>.</p>
 <h2>Zwei Anschlüsse an die A5, B3 und B36</h2>
@@ -84,6 +123,9 @@
 <details><summary>Welche Bundesstraßen führen durch Rastatt?</summary><div>B3 und B36.</div></details>
 <details><summary>Was ist das Ried?</summary><div>Die rheinnahen Stadtteile Ottersdorf, Plittersdorf und Wintersdorf.</div></details>
 <details><summary>Was ist mit dem Tunnel Rastatt?</summary><div>2017 senkte sich das Gleisbett über dem fertigen Tunnelteil ab, mit mehrwöchiger Streckensperrung.</div></details>
+<details><summary>Was kostet die Hilfe in Rastatt?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Rastatt?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -91,6 +133,17 @@
 <!--AREAS: Schwäbisch Gmünd, Bettringen, Straßdorf, Wetzgau, Herlikofen, Rechberg, Weiler, Remstal -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Schwäbisch Gmünd</p><h1>Abschleppdienst Schwäbisch Gmünd</h1><p class="lead">Schwäbisch Gmünd liegt im Remstal, die B29 führt als Kraftfahrstraße durch den Gmünder Einhorn-Tunnel. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Schwäbisch Gmünd: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Schwäbisch Gmünd oder an A7 und B29. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Schwäbisch Gmünd fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Schwäbisch Gmünd abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A7, B29 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Größte Stadt im Remstal</h2>
 <p>Schwäbisch Gmünd liegt rund 50 Kilometer östlich von Stuttgart in Ostwürttemberg und ist sowohl einwohner- als auch flächenmäßig die größte Stadt im Remstal. Die frühere Reichsstadt gehört zur Randzone der Metropolregion Stuttgart. Das Stadtgebiet umfasst die Kernstadt, den 1938 eingemeindeten Wohnplatz Wetzgau, die 1959 eingegliederte Gemeinde Bettringen sowie acht in den 1970er Jahren eingegliederte Gemeinden, darunter Bargau, Herlikofen, Rechberg, Straßdorf und Weiler. Der Ortsteil Zimmern wurde bereits im Jahr 839 urkundlich erwähnt. Nennen Sie uns bei einer Panne Ortsteil und Straße. Mehr auf <a href="stadt-aalen.html">Abschleppdienst Aalen</a>, <a href="stadt-heidenheim.html">Abschleppdienst Heidenheim</a> und <a href="stadt-waiblingen.html">Abschleppdienst Waiblingen</a>.</p>
 <h2>B29 als Kraftfahrstraße durch den Einhorn-Tunnel</h2>
@@ -113,5 +166,8 @@
 <details><summary>Wo sind die nächsten Autobahnanschlüsse?</summary><div>Aalen/Westhausen und Aalen-Süd/Oberkochen an der A7.</div></details>
 <details><summary>Gibt es noch eine Umweltzone?</summary><div>Nein, sie wurde zum 1. Mai 2023 aufgehoben.</div></details>
 <details><summary>Wann wurde Zimmern erstmals erwähnt?</summary><div>Bereits im Jahr 839.</div></details>
+<details><summary>Was kostet die Hilfe in Schwäbisch Gmünd?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Schwäbisch Gmünd?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@

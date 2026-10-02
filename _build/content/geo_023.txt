@@ -2,6 +2,17 @@
 <!--AREAS: Recklinghausen, Recklinghausen-Hillerheide, Recklinghausen-Suderwich, Recklinghausen-Süd, Herten -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Recklinghausen</p><h1>Abschleppdienst Recklinghausen</h1><p class="lead">Recklinghausen liegt im nördlichen Ruhrgebiet, wo sich A2 und A43 kreuzen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Recklinghausen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Recklinghausen oder an A2, A43 und B225. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Recklinghausen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Recklinghausen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A2, A43, B225 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Zentrum des nördlichen Ruhrgebiets</h2>
 <p>Recklinghausen ist eine Großstadt im nordrhein-westfälischen Regierungsbezirk Münster und Kreisstadt des Kreises Recklinghausen, des bevölkerungsreichsten deutschen Kreises, sowie das Zentrum des nördlichen Ruhrgebiets. Die Stadt gliedert sich in 18 Stadtteile, die gleichzeitig statistische Bezirke sind. Im Norden, an den Stadtgrenzen zu Herten, Marl und Oer-Erkenschwick, wird der ländliche Ortsteil Speckhorn/Bockholt durch den Autobahnzubringer von der A43 in Richtung Oer vom eigentlichen Stadtgebiet getrennt. Nennen Sie uns bei einer Panne den Stadtteil und die Straße.</p>
 <h2>Kreuz Recklinghausen: A2 und A43</h2>
@@ -23,6 +34,9 @@
 <details><summary>Welche Autobahnen kreuzen sich in Recklinghausen?</summary><div>Die A2 und die A43 am Kreuz Recklinghausen, an der Halde Hoheward.</div></details>
 <details><summary>Wo beginnt die B225?</summary><div>An der Anschlussstelle 11 der A43 im Stadtgebiet.</div></details>
 <details><summary>Kommen Sie auch nach Herten oder Marl?</summary><div>Wir organisieren Einsätze im nördlichen Ruhrgebiet. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
+<details><summary>Was kostet die Hilfe in Recklinghausen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Recklinghausen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -30,6 +44,17 @@
 <!--AREAS: Reutlingen, Reutlingen-Betzingen, Reutlingen-Sondelfingen, Reutlingen-Orschel-Hagen, Pfullingen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Reutlingen</p><h1>Abschleppdienst Reutlingen</h1><p class="lead">Reutlingen ist eine von nur zwei deutschen Großstädten ohne direkten Autobahnanschluss. Wer hier liegen bleibt, steht meist auf einer Bundesstraße. Sagen Sie uns, wo, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Reutlingen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Reutlingen oder an B28, B312, A8 und A81. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Reutlingen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Reutlingen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am B28, B312, A8, A81 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Neuntgrößte Stadt Baden-Württembergs</h2>
 <p>Reutlingen ist eine Großstadt im zentralen Baden-Württemberg und dessen neuntgrößte Stadt. Die Hochschulstadt und frühere Reichsstadt ist die größte Stadt und zugleich Kreisstadt des Landkreises Reutlingen. Sie gliedert sich in die Kernstadt (Reutlingen-Mitte) und 12 Stadtteile, ehemals selbstständige Gemeinden, die zwischen 1907 und 1975 eingemeindet wurden. Nennen Sie uns bei einer Panne Stadtteil und Straße, denn die eingemeindeten Orte haben oft eigene Ortsmitten.</p>
 <h2>Kein direkter Autobahnanschluss</h2>
@@ -51,6 +76,9 @@
 <details><summary>Welche Bundesstraßen führen durch Reutlingen?</summary><div>Die B28 (Tübingen–Ulm) und die B312 (Stuttgart–Biberach–Memmingen), dazu die B464 als Zubringer.</div></details>
 <details><summary>Wann wurde der Scheibengipfeltunnel eröffnet?</summary><div>Am 27. Oktober 2017. Er soll die Innenstadt vom Durchgangsverkehr entlasten.</div></details>
 <details><summary>Wie viele Stadtteile hat Reutlingen?</summary><div>Die Kernstadt und 12 Stadtteile, die zwischen 1907 und 1975 eingemeindet wurden.</div></details>
+<details><summary>Was kostet die Hilfe in Reutlingen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Reutlingen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -86,6 +114,17 @@
 <!--AREAS: Bergisch Gladbach, Bergisch Gladbach-Refrath, Bergisch Gladbach-Bensberg, Bergisch Gladbach-Bockenberg, Köln -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bergisch Gladbach</p><h1>Abschleppdienst Bergisch Gladbach</h1><p class="lead">Bergisch Gladbach grenzt im Westen unmittelbar an Köln. Im Süden verläuft die A4 nach Olpe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Bergisch Gladbach: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Bergisch Gladbach oder an A4, B55, B506 und A3. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Bergisch Gladbach fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Bergisch Gladbach abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A4, B55, B506, A3 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Kreisstadt im Bergischen Land</h2>
 <p>Bergisch Gladbach ist eine große kreisangehörige Stadt und Großstadt im Bergischen Land in Nordrhein-Westfalen. Im Westen grenzt sie unmittelbar an Köln. Die Stadt ist in sechs statistische Bezirke untergliedert, die sich in mehrere Stadtteile unterteilen: unter anderem Schildgen, Paffrath, Hebborn, Herkenrath, Bensberg und Refrath, wobei Bensberg und Refrath eigene Zentren haben. Nennen Sie uns bei einer Panne Stadtteil und Straße, zum Beispiel Refrath, Bensberg oder Paffrath.</p>
 <h2>A4 im Süden und die Verbindung nach Köln</h2>
@@ -111,6 +150,9 @@
 <details><summary>Kommen Sie auch nach Köln?</summary><div>Ja, wir organisieren Einsätze in Köln und Umgebung. Nennen Sie uns Standort und Ziel, dann klären wir die Anfahrt.</div></details>
 <details><summary>Können Sie mein Auto von Bergisch Gladbach zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Bergisch Gladbach liegt oder etwa in Köln.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Bergisch Gladbach?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Bergisch Gladbach?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Bergisch Gladbach?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -118,6 +160,17 @@
 <!--AREAS: Bremerhaven, Bremerhaven-Geestemünde, Bremerhaven-Lehe, Bremerhaven-Leherheide, Bremerhaven-Überseehafen -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bremerhaven</p><h1>Abschleppdienst Bremerhaven</h1><p class="lead">Bremerhaven liegt an der Weser als Exklave des Landes Bremen, mit dem Überseehafengebiet und der A27 im Osten. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Bremerhaven: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Bremerhaven oder an A27, B6, B212 und B71. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Bremerhaven fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Bremerhaven abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A27, B6, B212, B71 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Exklave an der Weser</h2>
 <p>Die Stadtgemeinde Bremerhaven ist eine Großstadt am Westrand des Elbe-Weser-Dreiecks, das in die Nordsee übergeht. Sie liegt länglich an der Unter- und Außenweser. Als Exklave gehört sie zum Land Freie Hansestadt Bremen. Die Stadt ist in zwei Stadtbezirke (Nord und Süd) und diese in neun Stadtteile gegliedert, die in Ortsteile unterteilt sind. Nennen Sie uns bei einer Panne Stadtteil und Straße, etwa Geestemünde, Lehe oder Leherheide.</p>
 <h2>A27, B6, B71 und B212</h2>
@@ -145,6 +198,9 @@
 <details><summary>Kommen Sie in den Überseehafen?</summary><div>Ja, wir organisieren Einsätze im Stadtgebiet. Für Hafengelände brauchen wir Tor, Kai und Straße, dann klären wir den Zugang.</div></details>
 <details><summary>Können Sie mein Auto von Bremerhaven zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Bremerhaven liegt oder etwa in Bremen.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Bremerhaven?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Bremerhaven?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Bremerhaven?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -152,6 +208,17 @@
 <!--AREAS: Erlangen, Erlangen-Tennenlohe, Erlangen-Frauenaurach, Erlangen-Bruck, Fürth -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Erlangen</p><h1>Abschleppdienst Erlangen</h1><p class="lead">Erlangen gehört zum Nürnberger Ballungsraum und liegt an der A3, mit der A73 (Frankenschnellweg) am Kreuz Fürth/Erlangen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Erlangen: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Erlangen oder an A3, A73 und B4. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Erlangen fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Erlangen abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A3, A73, B4 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Universitätsstadt in Mittelfranken</h2>
 <p>Erlangen ist eine Großstadt im Regierungsbezirk Mittelfranken des Freistaates Bayern und Universitätsstadt. Amtlich besteht sie aus neun Stadtteilen. Nennen Sie uns bei einer Panne den Stadtteil und die Straße, zum Beispiel Tennenlohe, Frauenaurach oder Bruck.</p>
 <h2>A3 und A73</h2>
@@ -179,6 +246,9 @@
 <details><summary>Kommen Sie auch nach Fürth oder Nürnberg?</summary><div>Ja, wir organisieren Einsätze im Ballungsraum Nürnberg. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
 <details><summary>Können Sie mein Auto von Erlangen zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, wir sagen Ihnen den Preis für die Strecke vorab am Telefon, egal ob die Werkstatt in Erlangen liegt oder etwa in Nürnberg oder Fürth.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Erlangen?</summary><div>Das hängt von Standort und Ziel ab, den genauen Preis nennen wir Ihnen am Telefon, bevor jemand losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Erlangen?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Erlangen?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
 
@@ -186,6 +256,17 @@
 <!--AREAS: Remscheid, Remscheid-Lennep, Remscheid-Lüttringhausen, Remscheid-Hasten, Wuppertal -->
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Remscheid</p><h1>Abschleppdienst Remscheid</h1><p class="lead">Remscheid ist eine bergische Stadt mit hügeligen Straßen und Anschluss an die A1. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
+<h2>Panne in Remscheid: Preis, bevor jemand losfährt</h2>
+<p>Sie stehen in Remscheid oder an A1, B229, B51 und B237. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
+<p>Faster sitzt in Antwerpen und koordiniert. In Remscheid fährt ein Partnerbetrieb vor Ort. Wenn Starthilfe oder ein Radwechsel reicht, sagen wir das, statt sofort abzuschleppen. Ein E-Auto oder ein Automatikwagen kommt in der Regel aufs Plateau, nicht an den Haken. Ob der Partner vor Ort das Fahrzeug nehmen kann, klären wir am Telefon, nicht erst an der Straße.</p>
+<h2>Was der Einsatz in Remscheid abdeckt</h2>
+<ul>
+<li>Pannenhilfe: leere Batterie, Reifen, falsch getankt, ausgesperrt.</li>
+<li>Abschleppen nach Panne oder Unfall, auch wenn das Fahrzeug nicht mehr rollt.</li>
+<li>Motorrad, Transporter und Wohnmobil nur mit passendem Fahrzeug. Länge, Höhe und Gewicht sagen Sie uns vorher.</li>
+<li>Ziel nach Wahl: Ihre Werkstatt, nach Hause, oder die nächste geeignete Werkstatt. Nach einem fremdverschuldeten Unfall zahlt die Haftpflicht oft nur den Weg zur nächsten geeigneten Werkstatt.</li>
+</ul>
+<p>Am A1, B229, B51, B237 nennen Sie Fahrtrichtung und die letzte Anschlussstelle oder Kreuzung. In der Stadt reichen Ortsteil, Straße und Hausnummer. Ein WhatsApp-Standort ist schneller als eine Beschreibung. Mehr zu den Kosten steht im <a href="ratgeber-abschleppdienst-kosten.html">Ratgeber Abschleppdienst-Kosten</a>, zur Autobahn im <a href="ratgeber-panne-autobahn.html">Ratgeber Panne auf der Autobahn</a>.</p>
 <h2>Bergische Stadt mit vier Stadtbezirken</h2>
 <p>Remscheid ist eine kreisfreie Großstadt, Teil des Bergischen Städtedreiecks und der Metropolregion Rhein-Ruhr. Das Stadtgebiet besteht aus vier Stadtbezirken: Alt-Remscheid, Remscheid-Süd, Lennep und Lüttringhausen. Nennen Sie uns bei einer Panne den Stadtbezirk, den Stadtteil und die Straße.</p>
 <h2>A1: Anschlussstellen Remscheid und Lennep</h2>
@@ -213,5 +294,8 @@
 <details><summary>Kommen Sie auch nach Solingen oder Wuppertal?</summary><div>Ja, wir organisieren Einsätze im Bergischen Land. Nennen Sie uns Ort und Straße, dann klären wir die Anfahrt.</div></details>
 <details><summary>Können Sie mein Auto von Remscheid zu meiner Werkstatt bringen, auch außerhalb der Stadt?</summary><div>Ja, das machen wir gern, auch nach Wuppertal oder Solingen. Den Preis für die Strecke erfahren Sie vorab am Telefon.</div></details>
 <details><summary>Was kostet ein Abschleppdienst in Remscheid?</summary><div>Der Preis richtet sich nach Standort und Ziel und wird Ihnen am Telefon genannt, noch bevor ein Fahrzeug losfährt.</div></details>
+<details><summary>Was kostet die Hilfe in Remscheid?</summary><div>Einen Festpreis für die ganze Stadt gibt es nicht. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Sie hören den Betrag, bevor jemand losfährt.</div></details>
+<details><summary>Wer fährt in Remscheid?</summary><div>Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen und bleibt Ihr Ansprechpartner.</div></details>
+<details><summary>Sind Sie nachts erreichbar?</summary><div>Ja. Telefon und WhatsApp sind rund um die Uhr besetzt. Eine feste Ankunftszeit nennen wir nicht, am Telefon eine realistische Spanne.</div></details>
 </div></section>
 @@CTA@@
