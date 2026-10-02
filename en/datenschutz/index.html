@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{'ad_storage':'denied','ad_user_data':'denied','ad_personalization':'denied','analytics_storage':'denied','wait_for_update':500});</script>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-10963026341"></script>
 <script>
@@ -35,4 +36,33 @@
 </div></section>
 </main>
 <div class="sticky-call"><a class="btn btn-y" href="tel:+4917641956993">Anrufen</a><a class="btn btn-wa" href="https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.">WhatsApp</a></div>
+<div class="cookie-banner" id="cookie-banner" hidden>
+  <div class="wrap cookie-in">
+    <p>We use Google cookies to measure whether our ads lead to calls. You can accept or decline. More in our <a href="/en/datenschutz/">privacy policy</a>.</p>
+    <div class="cookie-actions">
+      <button type="button" class="cookie-btn cookie-decline" id="cookie-decline">Decline</button>
+      <button type="button" class="cookie-btn cookie-accept" id="cookie-accept">Accept</button>
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+  var KEY = 'faster_cookie_consent';
+  var banner = document.getElementById('cookie-banner');
+  function apply(choice){
+    if (choice === 'granted') {
+      gtag('consent', 'update', {'ad_storage':'granted','ad_user_data':'granted','ad_personalization':'granted','analytics_storage':'granted'});
+    } else if (choice === 'denied') {
+      gtag('consent', 'update', {'ad_storage':'denied','ad_user_data':'denied','ad_personalization':'denied','analytics_storage':'denied'});
+    }
+  }
+  function stored(){ try { return localStorage.getItem(KEY); } catch(e){ return null; } }
+  function store(v){ try { localStorage.setItem(KEY, v); } catch(e){} }
+  var choice = stored();
+  if (choice) { apply(choice); } else if (banner) { banner.hidden = false; }
+  var acc = document.getElementById('cookie-accept'); if (acc) acc.addEventListener('click', function(){ store('granted'); apply('granted'); if (banner) banner.hidden = true; });
+  var dec = document.getElementById('cookie-decline'); if (dec) dec.addEventListener('click', function(){ store('denied'); apply('denied'); if (banner) banner.hidden = true; });
+  window.openCookieBanner = function(e){ if (e) e.preventDefault(); if (banner) banner.hidden = false; return false; };
+})();
+</script>
 </body></html>
