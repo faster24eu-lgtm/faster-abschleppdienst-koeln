@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://abschleppdienst-faster.de/sitemap.xml
-Sitemap: https://abschleppdienst-faster.de/sitemap-new.xml

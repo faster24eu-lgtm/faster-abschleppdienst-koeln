@@ -79,7 +79,8 @@ details{border:1px solid var(--line);padding:16px 18px;margin:0 0 10px;backgroun
 .cookie-decline{background:#fff;color:#111}.cookie-decline:hover{background:var(--paper)}
 @media(max-width:520px){.cookie-in{flex-direction:column;align-items:stretch;padding:14px 0}.cookie-banner p{max-width:none}.cookie-actions{width:100%}.cookie-btn{flex:1}}
 @media(max-width:520px){.citylist{columns:1}}
-.sticky-call{display:none!important}
+.sticky-call{display:none}
+@media(max-width:700px){.sticky-call{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:180;background:#111;gap:8px;padding:10px 12px;padding-bottom:calc(10px + env(safe-area-inset-bottom))}.sticky-call a{flex:1;text-align:center;text-decoration:none;font-weight:800;padding:12px 8px;border-radius:4px}body{padding-bottom:74px}}
 
 .land-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:8px}
 .land-btn{display:flex;align-items:center;justify-content:center;text-align:center;min-height:52px;padding:12px 10px;border:1px solid #111;background:#fff;text-decoration:none;font-weight:700;font-size:15px;color:#111}
