@@ -4,7 +4,7 @@
 <h1>Abschleppdienst und Pannenhilfe in ganz Deutschland</h1>
 <p class="lead">Sie stehen mit Ihrem Fahrzeug am Straßenrand und brauchen jemanden, der die Hilfe organisiert? Rufen Sie jetzt an oder schreiben Sie per WhatsApp. Wir koordinieren sofort einen Partner in Ihrer Nähe, mit Schwerpunkt rund um Köln und zwischen Karlsruhe und Offenburg.</p>
 <div class="actions"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a><a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a></div>
-<ul class="proof"><li><strong>Rund um die Uhr</strong>am Telefon und per WhatsApp, kein Ticketsystem</li><li><strong>Bundesweit</strong>Partner in Ihrer Nähe</li><li><strong>Vier Sprachen</strong>Deutsch, Niederländisch, Französisch, Englisch</li></ul>
+<ul class="proof"><li><strong>Rund um die Uhr</strong>am Telefon und per WhatsApp, kein Ticketsystem</li><li><strong>Bundesweit</strong>Partner in Ihrer Nähe</li></ul>
 </div><div><img class="hero-img" src="assets/faster-road-transport.jpg" alt="Faster Abschleppwagen mit Fahrzeugen auf der Straße" width="1200" height="900" fetchpriority="high"></div></div></section>
 <section class="section"><div class="wrap"><h2>Wo brauchen Sie Hilfe?</h2><p class="sub">Wählen Sie Ihre Region oder Ihre Stadt. Dort finden Sie Ausfahrten, Straßen und Hinweise für Ihren Standort.</p>
 <div class="regions">
