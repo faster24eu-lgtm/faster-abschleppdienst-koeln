@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://abschleppdienst-faster.de/koeln/pannenhilfe/</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://abschleppdienst-faster.de/kontakt/</loc><lastmod>2026-09-27</lastmod></url>
-  <url><loc>https://abschleppdienst-faster.de/impressum/</loc><lastmod>2026-09-27</lastmod></url>
-  <url><loc>https://abschleppdienst-faster.de/datenschutz/</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://abschleppdienst-faster.de/karlsruhe/</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://abschleppdienst-faster.de/karlsruhe/stadt/</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://abschleppdienst-faster.de/karlsruhe/baden-baden/</loc><lastmod>2026-09-27</lastmod></url>
@@ -419,9 +417,6 @@
   <url><loc>https://abschleppdienst-faster.de/en/ratgeber/panne-im-tunnel/</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://abschleppdienst-faster.de/en/ratgeber/umweltzone-koeln/</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://abschleppdienst-faster.de/en/ratgeber/abschleppen-koeln-kosten/</loc><lastmod>2026-09-27</lastmod></url>
-  <url><loc>https://abschleppdienst-faster.de/en/impressum/</loc><lastmod>2026-09-27</lastmod></url>
-  <url><loc>https://abschleppdienst-faster.de/en/datenschutz/</loc><lastmod>2026-09-27</lastmod></url>
-  <url><loc>https://abschleppdienst-faster.de/en/danke/</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://abschleppdienst-faster.de/en/staedte/berlin/</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://abschleppdienst-faster.de/en/staedte/hamburg/</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://abschleppdienst-faster.de/en/staedte/muenchen/</loc><lastmod>2026-09-28</lastmod></url>
@@ -468,4 +463,8 @@
   <url><loc>https://abschleppdienst-faster.de/bundeslaender/schleswig-holstein/</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://abschleppdienst-faster.de/bundeslaender/thueringen/</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://abschleppdienst-faster.de/bundeslaender/</loc><lastmod>2026-09-28</lastmod></url>
+  <url><loc>https://abschleppdienst-faster.de/leistungen/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://abschleppdienst-faster.de/autoentsorgung/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://abschleppdienst-faster.de/en/leistungen/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://abschleppdienst-faster.de/en/autoentsorgung/</loc><lastmod>2026-10-03</lastmod></url>
 </urlset>
