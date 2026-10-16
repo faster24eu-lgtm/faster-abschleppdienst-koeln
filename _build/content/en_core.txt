@@ -5,7 +5,7 @@
 <h2>Information under § 5 DDG (German Digital Services Act)</h2>
 <p><mark>[Add company name and legal form as registered]</mark><br>De Bosschaertstraat 248<br>2020 Antwerp, Belgium</p>
 <h2>Contact</h2>
-<p>Phone: +49 176 41956993<br>Email: <a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a></p>
+<p>Phone: +49 176 41956993<br>Email: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
 <h2>Company register and VAT</h2>
 <p>Company number (KBO/BCE): <mark>[to add]</mark><br>VAT identification number (BTW): <mark>[to add]</mark></p>
 <h2>Authorised representative</h2>
@@ -19,7 +19,7 @@
 <section class="section"><div class="wrap narrow copy">
 <p><mark>DRAFT: Please have this reviewed by a qualified professional before publication, and complete the marked details.</mark></p>
 <h2>1. Data controller</h2>
-<p><mark>[Company name]</mark>, De Bosschaertstraat 248, 2020 Antwerp, Belgium. Email: <a href="mailto:faster@takeldienstfaster.be">faster@takeldienstfaster.be</a>, phone: +49 176 41956993.</p>
+<p><mark>[Company name]</mark>, De Bosschaertstraat 248, 2020 Antwerp, Belgium. Email: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a>, phone: +49 176 41956993.</p>
 <h2>2. Hosting</h2>
 <p>This website is hosted via GitHub Pages, a service of GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. When you access the pages, GitHub processes technically necessary data in server log files, in particular your IP address, the date and time of access, and the browser used. The legal basis is Art. 6 para. 1 lit. f GDPR (legitimate interest in a functional and secure website). This may involve the transfer of personal data to the USA; GitHub, Inc. is certified under the EU-US Data Privacy Framework, which provides for an adequate level of data protection. More information is available in <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">GitHub's privacy statement</a>.</p>
 <h2>3. Contact form</h2>
