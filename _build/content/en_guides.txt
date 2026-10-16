@@ -477,7 +477,7 @@
 <p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Message on WhatsApp</a></p>
 <p><a class="btn btn-y" href="tel:+4917641956993">Call +49 176 41956993</a></p>
 <p><strong>Email:</strong> <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
-<p><strong>Registered office:</strong><br>Faster Abschleppdienst<br>De Bosschaertstraat 248<br>2020 Antwerp, Belgium</p>
+<p><strong>Address:</strong><br>Faster Abschleppdienst<br>Am Festungsgraben 2<br>10117 Berlin, Germany</p>
 <p><strong>Languages:</strong> German, Dutch, French and English.</p>
 <h2>When to call, when to use the form?</h2>
 <p><strong>Call or WhatsApp:</strong> for a breakdown, an accident, or if you're stuck somewhere. A WhatsApp location is the fastest option.</p>

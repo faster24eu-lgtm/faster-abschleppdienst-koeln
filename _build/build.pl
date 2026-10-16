@@ -13,7 +13,7 @@ EOT
 my $footer = <<'EOT';
 <footer class="site-footer"><div class="wrap foot-grid">
   <div><strong>Faster Abschleppdienst</strong><p>Abschleppdienst und Pannenhilfe in ganz Deutschland, mit Schwerpunkt Köln und Karlsruhe bis Offenburg. Persönlich und rund um die Uhr erreichbar.</p></div>
-  <div><strong>Kontakt</strong><p><a href="tel:+4917641956993">+49 176 41956993</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Sitz: De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p></div>
+  <div><strong>Kontakt</strong><p><a href="tel:+4917641956993">+49 176 41956993</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Adresse: Am Festungsgraben 2<br>10117 Berlin</p></div>
   <div><strong>Köln</strong><p><a href="index.html">Abschleppdienst Köln</a><br><a href="pannenhilfe-koeln.html">Pannenhilfe Köln</a><br><a href="abschleppen-bergung-koeln.html">Abschleppen &amp; Bergung Köln</a><br><a href="abschleppdienst-koeln-stadtteile.html">Stadtbezirke und Rheinbrücken</a><br><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a><br><a href="pannenhilfe-a3-koeln.html">Panne auf der A3</a><br><a href="pannenhilfe-a4-koeln.html">Panne auf der A4</a><br><a href="pannenhilfe-a1-koeln.html">Panne auf der A1</a></p></div>
   <div><strong>Karlsruhe bis Offenburg</strong><p><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden</a><br><a href="abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="abschleppdienst-a5.html">Panne auf der A5</a></p></div>
   <div><strong>Ratgeber &amp; Rechtliches</strong><p><a href="staedte.html">Alle Städte</a><br><a href="bundeslaender.html">Bundesländer</a><br><a href="autobahnen.html">Autobahnen</a><br><a href="ratgeber.html">Alle Ratgeber</a><br><a href="kontakt.html">Kontakt</a><br><a href="impressum.html">Impressum</a><br><a href="datenschutz.html">Datenschutz</a><br><a href="#" onclick="return window.openCookieBanner &amp;&amp; window.openCookieBanner(event)">Cookie-Einstellungen</a></p></div>
@@ -31,7 +31,7 @@ EOT
 my $footer_en = <<'EOT';
 <footer class="site-footer"><div class="wrap foot-grid">
   <div><strong>Faster Abschleppdienst</strong><p>Towing and roadside assistance all over Germany, with a focus on Cologne and Karlsruhe to Offenburg. Personal service, reachable around the clock.</p></div>
-  <div><strong>Contact</strong><p><a href="tel:+4917641956993">+49 176 41956993</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Registered office: De Bosschaertstraat 248<br>2020 Antwerp, Belgium</p></div>
+  <div><strong>Contact</strong><p><a href="tel:+4917641956993">+49 176 41956993</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Address: Am Festungsgraben 2<br>10117 Berlin, Germany</p></div>
   <div><strong>Cologne</strong><p><a href="en-index.html">Towing Service Cologne</a><br><a href="en-pannenhilfe-koeln.html">Roadside Assistance Cologne</a><br><a href="en-abschleppen-bergung-koeln.html">Towing &amp; Recovery Cologne</a><br><a href="en-abschleppdienst-koeln-stadtteile.html">Districts &amp; Rhine Bridges</a><br><a href="en-pannenhilfe-koelner-autobahnring.html">Cologne Motorway Ring</a><br><a href="en-pannenhilfe-a3-koeln.html">Breakdown on the A3</a><br><a href="en-pannenhilfe-a4-koeln.html">Breakdown on the A4</a><br><a href="en-pannenhilfe-a1-koeln.html">Breakdown on the A1</a></p></div>
   <div><strong>Karlsruhe to Offenburg</strong><p><a href="en-abschleppdienst-mittelbaden.html">Central Baden Overview</a><br><a href="en-abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="en-abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="en-abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="en-abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="en-abschleppdienst-a5.html">Breakdown on the A5</a></p></div>
   <div><strong>Guides &amp; Legal</strong><p><a href="staedte.html">All Cities (German)</a><br><a href="bundeslaender.html">States (German)</a><br><a href="autobahnen.html">Motorways (German)</a><br><a href="ratgeber.html">All Guides (German)</a><br><a href="kontakt.html">Contact</a><br><a href="impressum.html">Legal Notice</a><br><a href="datenschutz.html">Privacy Policy</a><br><a href="#" onclick="return window.openCookieBanner &amp;&amp; window.openCookieBanner(event)">Cookie Settings</a></p></div>
@@ -140,7 +140,7 @@ my $cookie_banner_en = <<'EOT';
 EOT
 my $ld = <<'EOT';
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"Faster Abschleppdienst","description":"Abschleppdienst und Pannenhilfe für Köln und Umgebung.","email":"faster24eu@gmail.com","telephone":"+4917641956993","address":{"@type":"PostalAddress","streetAddress":"De Bosschaertstraat 248","postalCode":"2020","addressLocality":"Antwerpen","addressCountry":"BE"},"areaServed":{"@type":"City","name":"Köln"},"knowsLanguage":["de","nl","fr","en"]}
+{"@context":"https://schema.org","@type":"LocalBusiness","name":"Faster Abschleppdienst","description":"Abschleppdienst und Pannenhilfe für Köln und Umgebung.","email":"faster24eu@gmail.com","telephone":"+4917641956993","address":{"@type":"PostalAddress","streetAddress":"Am Festungsgraben 2","postalCode":"10117","addressLocality":"Berlin","addressCountry":"DE"},"areaServed":{"@type":"City","name":"Köln"},"knowsLanguage":["de","nl","fr","en"]}
 </script>
 EOT
 my $cta = '<section class="cta"><div class="wrap cta-in"><div><h2>Liegengeblieben? Jetzt anrufen.</h2><p>24 Stunden erreichbar. Wir nennen Ihnen den Preis, bevor jemand losfährt.</p></div><div class="actions"><a class="btn btn-dark" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a><a class="btn btn-out" href="tel:+4917641956993">+49 176 41956993</a></div></div></section>';
@@ -667,7 +667,7 @@ __DATA__
 <p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp schreiben</a></p>
 <p><a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993 anrufen</a></p>
 <p><strong>E-Mail:</strong> <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
-<p><strong>Sitz:</strong><br>Faster Abschleppdienst<br>De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p>
+<p><strong>Adresse:</strong><br>Faster Abschleppdienst<br>Am Festungsgraben 2<br>10117 Berlin</p>
 <p><strong>Sprachen:</strong> Deutsch, Niederländisch, Französisch und Englisch.</p></div>
 <form class="formbox" action="https://formsubmit.co/faster24eu@gmail.com" method="POST">
 <input type="hidden" name="_subject" value="[DE-Köln Abschleppdienst] Neue Anfrage">
@@ -687,7 +687,8 @@ __DATA__
 <section class="section"><div class="wrap narrow copy">
 <p><mark>ENTWURF: Die markierten Angaben müssen vor der Veröffentlichung ergänzt werden.</mark></p>
 <h2>Angaben gemäß § 5 DDG</h2>
-<p><mark>[Firmenname und Rechtsform laut Handelsregister ergänzen]</mark><br>De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p>
+<p><mark>[Firmenname und Rechtsform laut Handelsregister ergänzen]</mark><br>Am Festungsgraben 2<br>10117 Berlin</p>
+<p>Sitz der Gesellschaft: De Bosschaertstraat 248, 2020 Antwerpen, Belgien</p>
 <h2>Kontakt</h2>
 <p>Telefon: +49 176 41956993<br>E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
 <h2>Unternehmensregister und Umsatzsteuer</h2>
@@ -695,7 +696,7 @@ __DATA__
 <h2>Vertretungsberechtigt</h2>
 <p><mark>[Name des Geschäftsführers ergänzen]</mark></p>
 <h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2>
-<p><mark>[Name des Geschäftsführers ergänzen]</mark><br>De Bosschaertstraat 248<br>2020 Antwerpen, Belgien</p>
+<p><mark>[Name des Geschäftsführers ergänzen]</mark><br>Am Festungsgraben 2<br>10117 Berlin</p>
 <p class="fine">Hinweis: Bitte lassen Sie das Impressum vor der Veröffentlichung von einer fachkundigen Person prüfen.</p>
 </div></section>
 === datenschutz | Datenschutzerklärung | Faster Abschleppdienst | Datenschutzerklärung dieser Website. | noindex ===
@@ -703,7 +704,7 @@ __DATA__
 <section class="section"><div class="wrap narrow copy">
 <p><mark>ENTWURF: Bitte vor der Veröffentlichung von einer fachkundigen Person prüfen lassen und die markierten Angaben ergänzen.</mark></p>
 <h2>1. Verantwortlicher</h2>
-<p><mark>[Firmenname]</mark>, De Bosschaertstraat 248, 2020 Antwerpen, Belgien. E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a>, Telefon: +49 176 41956993.</p>
+<p><mark>[Firmenname]</mark>, Am Festungsgraben 2, 10117 Berlin. E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a>, Telefon: +49 176 41956993.</p>
 <h2>2. Hosting</h2>
 <p>Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. Beim Aufruf der Seiten verarbeitet GitHub technisch notwendige Daten, insbesondere Ihre IP-Adresse, Datum und Uhrzeit des Zugriffs sowie den verwendeten Browser, in Server-Logdateien. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer funktionsfähigen und sicheren Website). Dabei ist eine Übermittlung personenbezogener Daten in die USA nicht ausgeschlossen; GitHub, Inc. ist unter dem EU-US Data Privacy Framework zertifiziert, das ein angemessenes Datenschutzniveau vorsieht. Weitere Informationen finden Sie in der <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">Datenschutzerklärung von GitHub</a>.</p>
 <h2>3. Kontaktformular</h2>
