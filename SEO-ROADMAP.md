@@ -352,3 +352,11 @@ Added Hürth (Rhein-Erft-Kreis, A1/A553/B265, Bahnhof Hürth-Kalscheuren). Expan
 ## Cycle 43 (2026-09-27 ~09:35): 4 more Mittelstädte beyond the original brief list
 Sankt Augustin, Meerbusch, Rastatt, Schwäbisch Gmünd. 375 pages, audit 0 errors, similarity max 29.9% (Kleve/Meerbusch, under threshold, no action needed).
 Owner check: Schwäbisch Gmünd Umweltzone was lifted 2023-05-01 (mentioned as historical fact, not a current restriction — verified from source, not invented); Rastatt Tunnel Rastatt 2017 gleisabsenkung affects rail, not road, traffic; Sankt Augustin A560 predates 1988 opening date confirmed from source.
+
+## Cycle 44 (2026-10-16): route guide traffic to the money pages
+Search Console: most impressions come from /ratgeber/, while /koeln/ sits around position 54 and Porz/Kalk around 8-11.
+- All 69 guides (DE + EN): call box under the intro, second call box after the article, and an "Abschleppdienst in Ihrer Nähe" / "Towing near you" block (Köln, Köln-Porz, Köln-Kalk, Karlsruhe, Offenburg, Baden-Baden, Achern, Frankfurt). Added by `scripts/ratgeber-local-cta.pl` (rerunnable, marker comments `local-cta` / `local-links`). Note: this puts back the top call box that commit 701099d removed from the Automatik and Transporter guides.
+- /koeln/: new sections for all nine districts, the Autobahns (ring, A1, A3, A4, A57, A59, A555, Leverkusener Brücke) and the vehicle types, 4 new FAQs, new meta description, AutomotiveBusiness JSON-LD (Berlin address and 24/7 as stated on the site). Title and H1 already started with "Abschleppdienst Köln" and were left as they were.
+- /koeln/porz/, /koeln/kalk/: landmarks, vehicle section, neighbour/Autobahn link cards, 2 FAQs each. FAQPage JSON-LD rebuilt from the <details> on all three pages.
+- These edits were made in the HTML, not in `_build/content/`. `perl _build/build.pl` no longer reproduces the live HTML (165 files differ, it drops the sticky call bar, and it deletes the Google verification file `ba75687b-….html`). Do not run the build until the sources are brought back in sync.
+Owner check: the new Porz/Kalk landmarks (Hauptstraße, Bahnhof Porz (Rhein), DLR Linder Höhe, Groov, Frankfurter Straße; Köln Arcaden, Krankenhaus Merheim, Olpener Straße) are marked with TODO comments. B7 is still open: Umland towns are not claimed on /koeln/.
