@@ -309,7 +309,8 @@
 <tr><td>Land Rover Discovery Sport</td><td>Hebel im Motorraum unter dem Luftfilterkasten. Luftfilter ausbauen, Hebel gegen den Uhrzeigersinn nach vorn drehen und mit einem 5-mm-Stift (Inbusschlüssel, Bohrer) sichern.</td></tr>
 <tr><td>Range Rover Evoque</td><td>Nach Erfahrung unserer Fahrer ebenfalls im Motorraum unter der Abdeckung, ähnlich wie beim Discovery Sport. Genaue Lage laut Betriebsanleitung.</td></tr>
 <tr><td>Range Rover Velar</td><td>Nach Erfahrung unserer Fahrer ebenfalls im Motorraum unter der Abdeckung. Genaue Lage laut Betriebsanleitung.</td></tr>
-<tr><td>Range Rover, Range Rover Sport (ca. 2013–2022)</td><td>Laut unseren Fahrern ein Hebel unter dem Getränkehalter in der Mittelkonsole. Boden des Getränkehalters herausnehmen, Sicherung 90° drehen, Hebel hochziehen bis er einrastet.</td></tr>
+<tr><td>Range Rover, Range Rover Sport (ca. 2013–2022)</td><td>Laut unseren Fahrern je nach Modell an einer von zwei Stellen: unter dem Getränkehalter in der Mittelkonsole (Boden des Getränkehalters herausnehmen, Sicherung 90° drehen, Hebel hochziehen bis er einrastet) oder im Motorraum unter dem Luftfilter, wie beim Discovery Sport. Schauen Sie zuerst unter den Getränkehalter.</td></tr>
+<tr><td>Weitere Land Rover und Range Rover</td><td>Bei vielen Modellen sitzt der Entriegelungshebel im Motorraum unter dem Luftfilterkasten. Genaue Lage laut Betriebsanleitung, Kapitel Fahrzeugbergung.</td></tr>
 <tr><td>Volvo mit klassischem Wählhebel (z.&nbsp;B. V40, V70)</td><td>Öffnung für den Schlüsselbart im Fach der Mittelkonsole, unter Gummimatte oder Einsatz. Bei Doppelkupplungsgetriebe nur auf dem Plateau transportieren.</td></tr>
 <tr><td>Tesla</td><td>Abschleppmodus im Display, braucht 12-Volt-Strom. Ohne Strom Radroller. Siehe <a href="ratgeber-tesla-abschleppmodus.html">Tesla Abschleppmodus</a>.</td></tr>
 <tr><td>Toyota, Lexus, Honda, Nissan, Mazda, Suzuki, Mitsubishi, Subaru, Hyundai, Kia mit klassischem Wählhebel</td><td>Kleine Abdeckung neben dem Wählhebel, oft mit der Aufschrift „Shift Lock“. Abdeckung heraushebeln, mit Schlüssel oder flachem Schraubendreher in der Öffnung nach unten drücken, dabei Bremse treten und den Hebel auf N schieben.</td></tr>
@@ -348,7 +349,7 @@
 <ul class="ticks">
 <li>Die Entriegelung steht oft nicht oder nur sehr versteckt in der Betriebsanleitung. Bei Jaguar und Land Rover findet man sie im Kapitel Fahrzeugbergung.</li>
 <li>Viele Fahrer suchen den Entriegelungshebel bei Jaguar in der Mittelkonsole, bei Allradmodellen sitzt er aber im Motorraum.</li>
-<li>Beim Range Rover Sport merkt kaum jemand, dass der Hebel unter dem Getränkehalter liegt. Erst den Gummiboden herausnehmen.</li>
+<li>Beim Range Rover Sport merkt kaum jemand, dass der Hebel unter dem Getränkehalter liegt. Erst den Gummiboden herausnehmen. Ist dort nichts, sitzt er im Motorraum unter dem Luftfilter.</li>
 <li>Wenn gar nichts geht, sind Radroller schneller und schonender als jeder Versuch mit Gewalt.</li>
 </ul>
 </div></section>
