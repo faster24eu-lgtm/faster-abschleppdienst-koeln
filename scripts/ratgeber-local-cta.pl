@@ -81,7 +81,8 @@ for my $lang ('de', 'en') {
     my $i = index($c, '<section class="page-head">');
     my $j = $i < 0 ? -1 : index($c, '</section>', $i);
     if ($j < 0) { warn "no page-head in $file\n"; $skipped++; next; }
-    substr($c, $j + length('</section>'), 0) = $top;
+    # no second call box when the intro already has call buttons (it stacked two boxes on Automatik/Transporter)
+    substr($c, $j + length('</section>'), 0) = $top unless substr($c, $i, $j - $i) =~ /href="tel:/;
     # 2. after the article and its FAQ: before "Weiterlesen", the internal-links block or the closing CTA
     my $pos = -1;
     for my $m ('<section class="section"><div class="wrap narrow"><h2>Weiterlesen</h2>', '<section class="section"><div class="wrap narrow"><h2>Read more</h2>', '<!-- internal-links:start -->', '<section class="cta">', '</main>') {
