@@ -20,6 +20,7 @@
 <article class="card"><h3>Starthilfe bei Hybrid, E-Auto und Automatik</h3><p>12-Volt-Batterie leer: wo die Starthilfepunkte sind und was beim Automatikauto gilt.</p><a href="ratgeber-starthilfe-hybrid-e-auto.html">Lesen →</a></article>
 <article class="card"><h3>Automatik auf N stellen ohne Strom</h3><p>Wählhebel steckt in P fest? Die Notentriegelung je Marke, für Transporter und Robotergetriebe.</p><a href="ratgeber-automatik-notentriegelung.html">Lesen →</a></article>
 <article class="card"><h3>Tesla Abschleppmodus</h3><p>Neutral per Display einlegen, und was gilt, wenn die 12-Volt-Batterie leer ist.</p><a href="ratgeber-tesla-abschleppmodus.html">Lesen →</a></article>
+<article class="card"><h3>Welches Auto kaufen?</h3><p>Welche Marken wir am häufigsten abschleppen, und welches Auto und welchen Transporter wir selbst kaufen würden.</p><a href="ratgeber-welches-auto-kaufen.html">Lesen →</a></article>
 <article class="card"><h3>AdBlue leer</h3><p>Warnstufen, Startsperre und was nach dem Nachfüllen zu beachten ist.</p><a href="ratgeber-adblue-leer.html">Lesen →</a></article>
 <article class="card"><h3>Lenkradsperre klemmt</h3><p>Schlüssel lässt sich nicht drehen: So lösen Sie die Sperre ohne Gewalt.</p><a href="ratgeber-lenkradsperre-klemmt.html">Lesen →</a></article>
 <article class="card"><h3>Handbremse löst sich nicht</h3><p>Festgefroren oder festgerostet: was hilft und wann das Auto auf die Ladefläche muss.</p><a href="ratgeber-handbremse-loest-sich-nicht.html">Lesen →</a></article>

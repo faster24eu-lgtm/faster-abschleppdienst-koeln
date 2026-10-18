@@ -483,3 +483,6 @@ ratgeber-automatik-notentriegelung	ratgeber-transporter-abschleppen.html	Transpo
 ratgeber-tesla-abschleppmodus	ratgeber-e-auto-abschleppen.html	E-Auto abschleppen	12-Volt-Batterie und Hochvolt
 ratgeber-tesla-abschleppmodus	ratgeber-starthilfe-hybrid-e-auto.html	Starthilfe beim E-Auto	12-Volt-Batterie leer
 ratgeber-tesla-abschleppmodus	ratgeber-automatik-notentriegelung.html	Automatik auf N ohne Strom	Notentriegelung je Marke
+ratgeber-welches-auto-kaufen	ratgeber-automatik-notentriegelung.html	Automatik auf N ohne Strom	Notentriegelung je Marke
+ratgeber-welches-auto-kaufen	ratgeber-transporter-abschleppen.html	Transporter abschleppen	Sprinter, Daily, Ducato
+ratgeber-welches-auto-kaufen	ratgeber-starthilfe-batterie.html	Auto überbrücken	Die häufigste Panne

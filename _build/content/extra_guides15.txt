@@ -399,3 +399,67 @@
 <details><summary>Warum lässt sich der Abschleppmodus nicht aktivieren?</summary><div>Häufige Gründe: Das Ladekabel steckt noch, kein Schlüssel wird erkannt oder die 12-Volt-Batterie ist leer.</div></details>
 </div></section>
 @@CTA@@
+
+=== ratgeber-welches-auto-kaufen | Welches Auto kaufen? Der Rat eines Abschleppfahrers | Welche Marken schleppen wir am häufigsten ab, und welches Auto würde ein Abschleppfahrer selbst kaufen? Ehrlicher Kaufrat von Faster, Marke für Marke, auch für Transporter. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kaufrat vom Abschleppfahrer</p><h1>Welches Auto kaufen? Der ehrliche Rat von denen, die sie jeden Tag abschleppen</h1><p class="lead">Wer wissen will, welche Autos am häufigsten liegen bleiben, sollte nicht den Verkäufer fragen, sondern den Fahrer des Abschleppwagens. Bei Faster laden wir jede Woche Autos auf, die unterwegs aufgegeben haben. Das sehen wir, Marke für Marke, und das würden wir selbst kaufen.</p><div class="actions"><a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a><a class="btn btn-wa" href="https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug." target="_blank" rel="noopener">WhatsApp mit Standort senden</a></div><p style="font-size:14px;margin:-10px 0 0;opacity:.75">24/7 erreichbar &middot; Preis vorher am Telefon</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p><strong>Kurz gesagt:</strong> Wer wirklich eine Panne haben will, kauft einen Range Rover. Wer möglichst wenig mit uns zu tun haben will, kauft etwas Einfaches: einen gut gepflegten VW Golf oder Polo, oder einen japanischen Benziner. Beim Transporter: einen Mercedes Sprinter, um den Sie sich gut kümmern.</p></div>
+<p><em>Ehrlich vorweg: Das ist unsere Erfahrung aus dem Abschleppalltag, keine wissenschaftliche Statistik. Welche Autos wir abschleppen, hängt auch davon ab, was in unserer Region unterwegs ist. Aber nach Jahren auf der Straße sieht man Muster, die in keinem Prospekt stehen.</em></p>
+<h2>Die Top 3, die wir am häufigsten auf dem Abschleppwagen haben</h2>
+<h3>1. Land Rover und Range Rover</h3>
+<p>Mit Abstand Platz eins. Vor allem die neueren Modelle sehen wir viel zu oft: Motorschäden, Elektronikprobleme, ein Wählhebel, der streikt, Fehlermeldungen, aus denen keiner schlau wird. Nennen Sie ein Bauteil, wir haben es schon ausfallen sehen. Ein Range Rover fährt sich wunderbar. Nur fährt er nach unserer Erfahrung etwas zu oft hinter uns her statt aus eigener Kraft.</p>
+<p>Auch in großen Zuverlässigkeitsstudien wie der Vehicle Dependability Study von J.D. Power landet Land Rover eher in der unteren Hälfte.</p>
+<h3>2. Jaguar</h3>
+<p>Jaguar schleppen wir seltener ab. Aber wenn einer liegen bleibt, ist es selten eine Kleinigkeit. Meist ist es ein schwerer Motorschaden oder ein kompliziertes Elektronikproblem, für das Sie einen echten Spezialisten brauchen, schon allein für die Diagnose. Keine Panne, die die Werkstatt um die Ecke mal eben behebt.</p>
+<h3>3. BMW</h3>
+<p>Da müssen wir nicht viel sagen. Schöne Motoren, tolles Fahrgefühl, aber viel Technik und viel Elektronik, und damit viel, was kaputtgehen kann. Je komplizierter ein Auto, desto größer die Chance, dass es irgendwann auf unserer Ladefläche steht.</p>
+<h2>Transporter: Hier wird es teuer</h2>
+<p>Bei Transportern sehen wir zwei Gruppen immer wieder:</p>
+<ul class="ticks">
+<li><strong>Transporter von Stellantis</strong> (Peugeot, Citroën, Fiat, Opel): viele Pannen, Bauteile, die nicht lange halten, und Motoren mit einem Zahnriemen, der in Öl läuft, einem sogenannten Nassriemen. Beim 1.2-PureTech-Benziner des Konzerns verschleißt dieser Riemen so früh, dass Stellantis die Garantie selbst auf 10 Jahre oder 175.000&nbsp;km verlängert hat.</li>
+<li><strong>Ford Transit und Transit Custom:</strong> auch hier oft Probleme mit dem Nassriemen. Beim 2.0-EcoBlue-Diesel hat Ford das Wechselintervall selbst von 10 Jahren oder 240.000&nbsp;km auf 6 Jahre oder 160.000&nbsp;km verkürzt, weil Diesel ins Öl gelangt und den Riemen angreift. Am größten ist das Risiko bei vielen Kurzstrecken, typisch für Lieferverkehr.</li>
+</ul>
+<p><strong>Unser Favorit:</strong> der <strong>Mercedes Sprinter</strong>. Unter einer Bedingung: dass Sie ihn gut behandeln. Wartung pünktlich, nichts aufschieben, nicht mit Warnleuchte weiterfahren. Ein gut gepflegter Sprinter ist für uns der beste Transporter, den Sie kaufen können.</p>
+<h2>Die sicherste Wahl: ein Volkswagen</h2>
+<p>Volkswagen sagt es selbst: Das Auto. Ein guter Golf oder ein guter Polo ist nach unserer Erfahrung die sicherste Wahl, wenn Ihr Auto einfach fahren soll. Warum? Weil sie einfach sind. Volkswagen erfindet das Rad nicht bei jedem neuen Modell neu. Die Basis ist seit Jahren bewährt, und einfache Technik heißt weniger, was schiefgehen kann, auch im Vergleich zu einem BMW.</p>
+<p>Ja, das sind langweilige Autos. Aber es geht nicht darum, wer das coolste Auto hat. Es geht darum, wer nie den Abschleppdienst rufen muss.</p>
+<h2>Benziner oder Diesel, groß oder klein</h2>
+<ul class="ticks">
+<li><strong>Benziner:</strong> nehmen Sie einen Japaner. Toyota, Honda, Mazda und Co. sind für uns die Spitze. Auch in Studien von J.D. Power und Consumer Reports gehören Lexus und Toyota zu den zuverlässigsten Marken.</li>
+<li><strong>Diesel:</strong> nehmen Sie einen Deutschen, am liebsten einen Volkswagen, vorausgesetzt Sie pflegen ihn gut.</li>
+<li><strong>Nicht zu klein:</strong> Sehr kleine Motoren, vor allem Benziner, halten nach unserer Erfahrung weniger lange. Wir würden mindestens einen 1.6 nehmen, beim Diesel gern etwas in Richtung des alten 1.9.</li>
+<li><strong>Je einfacher, desto besser.</strong> Jeder zusätzliche Turbo, jedes zusätzliche Elektroniksystem ist etwas mehr, das kaputtgehen kann.</li>
+<li><strong>Zweite Reihe:</strong> französische Marken und Ford. Nicht schlecht, aber nicht das, wo wir selbst zuerst hinschauen würden.</li>
+</ul>
+<h2>Und Hybrid und Elektro?</h2>
+<p>Ehrlich gesagt ist es dafür noch zu früh für ein Urteil. Laut ADAC-Pannenstatistik haben zwei- bis vierjährige Elektroautos weniger Pannen pro 1.000 Fahrzeuge (3,8) als Verbrenner (9,4). Die kleine 12-Volt-Batterie bleibt aber auch dort die häufigste Pannenursache. In der Pannenstatistik 2025 fielen sogar einige Toyota-Hybride auf, etwa der Yaris Cross, genau wegen dieser kleinen 12-Volt-Batterie. Also kein Motorschaden, aber trotzdem Stillstand.</p>
+<h2>Unser Rat nach Budget und Situation</h2>
+<table class="tbl">
+<thead><tr><th>Situation</th><th>Was wir kaufen würden</th></tr></thead>
+<tbody>
+<tr><td>Gebraucht, 5.000 bis 10.000 Euro</td><td>Einen gut gepflegten VW Polo oder Golf mit Scheckheft.</td></tr>
+<tr><td>Benziner</td><td>Einen Japaner mit nicht zu kleinem Motor.</td></tr>
+<tr><td>Diesel</td><td>Einen Volkswagen, und dann wirklich gut gepflegt.</td></tr>
+<tr><td>Transporter für die Arbeit</td><td>Einen Mercedes Sprinter, wenn Sie ihn gut warten.</td></tr>
+<tr><td>Sie wollen sicher sein, dass Sie uns anrufen</td><td>Einen neueren Range Rover.</td></tr>
+</tbody>
+</table>
+<h2>Tipps beim Gebrauchtwagenkauf</h2>
+<ul class="ticks">
+<li><strong>Scheckheft und Rechnungen verlangen.</strong> Ein pünktlich gewartetes Auto hält viel länger.</li>
+<li><strong>Nassriemen?</strong> Lassen Sie sich nachweisen, dass der Zahnriemen rechtzeitig gewechselt wurde, vor allem beim 1.2 PureTech oder einem Ford EcoBlue.</li>
+<li><strong>Alle Elektronik prüfen:</strong> Fenster, Bildschirme, Sensoren und Fehlermeldungen beim Start.</li>
+<li><strong>Automatik Probe fahren</strong> und auf Rucken oder Verzögerung beim Schalten achten.</li>
+<li><strong>Vor der Unterschrift</strong> von einer unabhängigen Werkstatt prüfen lassen.</li>
+</ul>
+<p>Und wenn Sie doch liegen bleiben oder Ihre Automatik in P feststeckt: Lesen Sie <a href="ratgeber-automatik-notentriegelung.html">Automatik auf N stellen ohne Strom</a>, oder rufen Sie uns einfach an.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Welche Marken schleppt Faster am häufigsten ab?</summary><div>In unserem Alltag vor allem Land Rover und Range Rover, danach Jaguar und BMW. Bei Transportern sehen wir oft Modelle von Stellantis und den Ford Transit und Transit Custom.</div></details>
+<details><summary>Was ist das zuverlässigste Auto laut einem Abschleppfahrer?</summary><div>Wir würden einen gut gepflegten VW Golf oder Polo kaufen, oder einen japanischen Benziner. Einfache Technik heißt weniger, was schiefgehen kann.</div></details>
+<details><summary>Was ist der beste Transporter?</summary><div>Für uns der Mercedes Sprinter, vorausgesetzt Sie warten ihn gut und pünktlich.</div></details>
+<details><summary>Was ist ein Nassriemen?</summary><div>Ein Zahnriemen, der im Motoröl läuft. Bei einigen Motoren verschleißt er schneller als erwartet, etwa beim 1.2 PureTech von Stellantis und beim 2.0 EcoBlue von Ford.</div></details>
+<details><summary>Sind Elektroautos zuverlässiger?</summary><div>Laut ADAC haben junge Elektroautos weniger Pannen pro 1.000 Fahrzeuge als Benziner und Diesel. Die 12-Volt-Batterie bleibt aber die häufigste Pannenursache.</div></details>
+<details><summary>Ist das eine offizielle Statistik?</summary><div>Nein. Das ist unsere eigene Erfahrung als Abschleppdienst, ergänzt um Zahlen aus öffentlichen Studien, wo es sie gibt.</div></details>
+</div></section>
+@@CTA@@
