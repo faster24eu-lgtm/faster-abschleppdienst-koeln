@@ -197,7 +197,7 @@ my %CRUMB_PARENT = (
   'ratgeber'=>['index','Ratgeber'], 'kontakt'=>['index','Kontakt'], 'impressum'=>['index','Impressum'], 'datenschutz'=>['index','Datenschutz'],
   'ratgeber-abschleppdienst-kosten'=>['ratgeber','Was kostet ein Abschleppdienst?'], 'ratgeber-panne-autobahn'=>['ratgeber','Panne auf der Autobahn'],
   'ratgeber-unfall-abschleppkosten'=>['ratgeber','Abschleppkosten nach einem Unfall'], 'ratgeber-e-auto-abschleppen'=>['ratgeber','E-Auto abschleppen'],
-  'ratgeber-starthilfe-batterie'=>['ratgeber','Starthilfe und leere Batterie'], 'ratgeber-reifenpanne'=>['ratgeber','Reifenpanne'],
+  'ratgeber-starthilfe-batterie'=>['ratgeber','Auto überbrücken'], 'ratgeber-starthilfe-booster'=>['ratgeber','Starthilfe mit Booster'], 'ratgeber-starthilfe-diesel'=>['ratgeber','Starthilfe beim Diesel'], 'ratgeber-starthilfe-hybrid-e-auto'=>['ratgeber','Starthilfe bei Hybrid und E-Auto'], 'ratgeber-reifenpanne'=>['ratgeber','Reifenpanne'],
   'ratgeber-falsch-getankt'=>['ratgeber','Falsch getankt'], 'ratgeber-ausgesperrt'=>['ratgeber','Ausgesperrt'],
   'ratgeber-motorrad-transport'=>['ratgeber','Motorrad-Transport'], 'ratgeber-abschleppseil-oder-abschleppdienst'=>['ratgeber','Abschleppseil oder Abschleppdienst?'],
   'ratgeber-warnleuchten-auto'=>['ratgeber','Warnleuchten im Auto'], 'ratgeber-motor-ueberhitzt'=>['ratgeber','Motor überhitzt'],

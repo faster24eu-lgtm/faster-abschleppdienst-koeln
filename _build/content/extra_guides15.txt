@@ -118,3 +118,151 @@
 <details><summary>Kostet eine Fahrt über den Rhein mehr?</summary><div>Sie kann den Weg verlängern. Nennen Sie Standort und Ziel, dann klären wir es.</div></details>
 </div></section>
 @@CTA@@
+
+=== ratgeber-starthilfe-booster | Starthilfe mit Booster oder Powerbank: So geht's | Auto mit Booster oder Starthilfe-Powerbank starten: Schritt für Schritt, welche Klemme zuerst, worauf Sie beim Kauf achten und wann der Booster nicht hilft. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Starthilfe mit Booster oder Powerbank: So starten Sie Ihr Auto allein</h1><p class="lead">Ein Starthilfe-Booster, oft auch Starthilfe-Powerbank genannt, ersetzt das zweite Auto und die langen Kabel. Richtig angeschlossen startet er eine leere Batterie in wenigen Minuten.</p><div class="actions"><a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a><a class="btn btn-wa" href="https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug." target="_blank" rel="noopener">WhatsApp mit Standort senden</a></div><p style="font-size:14px;margin:-10px 0 0;opacity:.75">24/7 erreichbar &middot; Preis vorher am Telefon</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p><strong>Kurz gesagt:</strong> Booster ausgeschaltet lassen, rote Klemme an den Pluspol, schwarze Klemme an Masse oder an den Minuspol, wie es die Anleitung des Boosters vorgibt. Booster einschalten, Auto starten, Booster ausschalten und zuerst die schwarze Klemme abnehmen. Eine normale Handy-Powerbank kann kein Auto starten.</p></div>
+<h2>Booster, Powerbank, Ladegerät: der Unterschied</h2>
+<ul class="ticks">
+<li><strong>Starthilfe-Booster (Jump Starter):</strong> Ein kompakter Akku mit Starthilfeklemmen, der kurzzeitig sehr hohe Ströme liefern kann. Viele Geräte haben zusätzlich einen USB-Anschluss und werden deshalb als Starthilfe-Powerbank verkauft.</li>
+<li><strong>Handy-Powerbank:</strong> Liefert nur wenige Ampere. Damit lässt sich kein Motor starten, auch nicht mit Adapter.</li>
+<li><strong>Batterieladegerät:</strong> Lädt die Batterie langsam über Stunden wieder auf. Gut zum Vorbeugen, aber keine schnelle Starthilfe.</li>
+</ul>
+<h2>Starthilfe mit dem Booster Schritt für Schritt</h2>
+<ol>
+<li><strong>Booster geladen?</strong> Prüfen Sie die Ladeanzeige. Ein fast leerer Booster schafft oft keinen Start.</li>
+<li><strong>Zündung und Verbraucher aus,</strong> Booster ausgeschaltet lassen.</li>
+<li><strong>Rote Klemme an den Pluspol</strong> der Batterie oder an den Starthilfepunkt im Motorraum.</li>
+<li><strong>Schwarze Klemme an Masse,</strong> also an ein blankes Metallteil am Motorblock, oder an den Minuspol, wenn die Anleitung des Boosters das so vorsieht.</li>
+<li><strong>Booster einschalten.</strong> Viele Geräte zeigen per Lampe an, ob die Klemmen richtig sitzen. Leuchtet eine Warnung, sofort ausschalten und die Klemmen prüfen.</li>
+<li><strong>Auto starten.</strong> Höchstens einige Sekunden am Stück orgeln lassen. Klappt es nicht, eine Minute warten, damit Booster und Anlasser nicht überhitzen.</li>
+<li><strong>Läuft der Motor:</strong> Booster ausschalten, zuerst die schwarze, dann die rote Klemme abnehmen.</li>
+<li><strong>Fahren statt stehen lassen:</strong> Mindestens etwa eine halbe Stunde fahren, damit die Lichtmaschine die Batterie wieder lädt.</li>
+</ol>
+<div class="note"><p>Die Klemmen eines eingeschalteten Boosters dürfen sich nie berühren. Halten Sie sich bei der Reihenfolge immer an die Anleitung Ihres Geräts, sie kann vom Schema oben abweichen.</p></div>
+<h2>Wenn der Booster nicht reicht</h2>
+<ul class="ticks">
+<li><strong>Batterie völlig leer:</strong> Manche Booster erkennen eine tiefentladene Batterie nicht und schalten nicht frei. Viele haben dafür eine Taste für den manuellen Modus, oft „Boost“ oder „Override“ genannt. Nur nach Anleitung verwenden.</li>
+<li><strong>Booster zu schwach:</strong> Hersteller geben an, bis zu welchem Hubraum ein Gerät reicht. Diesel und große Motoren brauchen deutlich mehr als kleine Benziner.</li>
+<li><strong>Booster kalt:</strong> Bei Frost liefert auch der Akku im Booster weniger Leistung. Lagern Sie ihn im Winter wenn möglich nicht dauerhaft im kalten Auto.</li>
+<li><strong>Der Fehler ist nicht die Batterie:</strong> Dreht der Anlasser normal, startet der Motor aber nicht, hilft auch der stärkste Booster nicht, siehe <a href="ratgeber-auto-springt-nicht-an.html">Auto springt nicht an</a>.</li>
+</ul>
+<h2>Worauf Sie beim Kauf achten sollten</h2>
+<ul class="ticks">
+<li><strong>Passend zum Motor:</strong> Achten Sie auf die Herstellerangabe zu Hubraum und Kraftstoff, nicht nur auf den beworbenen Spitzenstrom.</li>
+<li><strong>Schutzfunktionen:</strong> Verpolungsschutz, Kurzschlussschutz und Überhitzungsschutz sollten selbstverständlich sein.</li>
+<li><strong>Stabile Klemmen und Kabel,</strong> die fest auf Pol und Massepunkt sitzen.</li>
+<li><strong>Ladestand regelmäßig prüfen:</strong> Laden Sie den Booster alle paar Monate nach, auch wenn Sie ihn nicht benutzt haben.</li>
+</ul>
+<h2>Booster oder Starthilfekabel?</h2>
+<p>Mit Kabeln brauchen Sie ein zweites Auto, dafür sind sie günstig und halten ewig. Ein Booster macht Sie unabhängig, etwa in der Tiefgarage, auf einem einsamen Parkplatz oder wenn niemand helfen kann, muss aber geladen sein. Wie Starthilfe mit Kabeln geht, steht im Ratgeber <a href="ratgeber-starthilfe-batterie.html">Auto überbrücken: Starthilfe richtig geben</a>.</p>
+<h2>Wann Sie uns rufen sollten</h2>
+<ul class="ticks">
+<li>Sie haben weder Booster noch Kabel noch ein zweites Auto</li>
+<li>Das Auto springt auch mit Booster nicht an</li>
+<li>Sie stehen an einer gefährlichen Stelle, etwa auf der Autobahn</li>
+</ul>
+<p>Wir versuchen zuerst, das Fahrzeug vor Ort zu starten. Klappt das nicht, bringen wir es in die Werkstatt.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann man mit einer Powerbank ein Auto starten?</summary><div>Nur mit einer Starthilfe-Powerbank, also einem Booster mit Starthilfeklemmen. Eine normale Handy-Powerbank liefert viel zu wenig Strom.</div></details>
+<details><summary>Welche Klemme kommt beim Booster zuerst?</summary><div>Meist zuerst Rot an den Pluspol, dann Schwarz an Masse oder Minus, erst danach den Booster einschalten. Beim Abnehmen umgekehrt. Maßgeblich ist die Anleitung Ihres Geräts.</div></details>
+<details><summary>Wie viel Ampere braucht ein Booster?</summary><div>Das hängt vom Motor ab. Verlassen Sie sich auf die Herstellerangabe zu Hubraum und Kraftstoff. Diesel brauchen mehr als Benziner.</div></details>
+<details><summary>Warum startet mein Booster nicht?</summary><div>Häufige Gründe: Der Booster ist leer, die Klemmen sitzen falsch oder die Batterie ist so tief entladen, dass der Booster sie nicht erkennt. Manche Geräte haben dafür einen manuellen Modus.</div></details>
+<details><summary>Kann der Booster im Auto bleiben?</summary><div>Ja, aber Hitze im Sommer und Frost im Winter schaden dem Akku. Prüfen Sie den Ladestand regelmäßig.</div></details>
+<details><summary>Ist Starthilfe mit Booster sicherer als mit Kabeln?</summary><div>Gute Booster haben Verpolungs- und Kurzschlussschutz, das verzeiht Fehler eher. Trotzdem gilt: Klemmen nie berühren lassen und die Anleitung beachten.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-starthilfe-diesel | Starthilfe beim Diesel: Vorglühen, Kabel, Spender | Diesel springt nicht an? So geben Sie einem Diesel richtig Starthilfe: dicke Kabel, Vorglühen, passender Spender, und warum bei Frost oft der Kraftstoff schuld ist. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Starthilfe beim Diesel: Was anders ist als beim Benziner</h1><p class="lead">Ein Dieselmotor braucht zum Starten mehr Kraft und vor dem Start oft noch Strom für die Glühkerzen. Deshalb klappt Starthilfe beim Diesel nur mit guten Kabeln, einem passenden Spender und etwas Geduld.</p><div class="actions"><a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a><a class="btn btn-wa" href="https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug." target="_blank" rel="noopener">WhatsApp mit Standort senden</a></div><p style="font-size:14px;margin:-10px 0 0;opacity:.75">24/7 erreichbar &middot; Preis vorher am Telefon</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p><strong>Kurz gesagt:</strong> Kabel mit 25&nbsp;mm² Querschnitt verwenden, Spender einige Minuten laufen lassen, im Pannenauto vorglühen, bis die Glühlampe erlischt, dann starten. Die Reihenfolge der Kabel ist dieselbe wie beim Benziner. Dreht der Anlasser bei Frost kräftig, der Motor springt aber nicht an, liegt es oft am Kraftstoff, nicht an der Batterie.</p></div>
+<h2>Warum der Diesel mehr Strom braucht</h2>
+<p>Ein Diesel arbeitet mit hoher Verdichtung. Der Anlasser muss deshalb kräftiger drehen als bei einem Benziner. Vor dem Start heizen die Glühkerzen den Brennraum vor, besonders bei Kälte, und auch sie brauchen Strom. Dieselfahrzeuge haben deshalb meist größere Batterien, und eine leere Diesel-Batterie lässt sich mit einem kleinen Spender oder dünnen Kabeln oft nicht überbrücken.</p>
+<h2>Starthilfe beim Diesel Schritt für Schritt</h2>
+<ol>
+<li><strong>Kabel anschließen</strong> wie bei jedem Auto: Rot an Plus der leeren Batterie, Rot an Plus des Spenders, Schwarz an Minus des Spenders, Schwarz an Masse des Pannenautos. Details stehen im Ratgeber <a href="ratgeber-starthilfe-batterie.html">Auto überbrücken: Starthilfe richtig geben</a>.</li>
+<li><strong>Spender starten</strong> und fünf bis zehn Minuten laufen lassen. So nimmt die leere Batterie schon etwas Ladung auf.</li>
+<li><strong>Vorglühen:</strong> Zündung im Pannenauto einschalten und warten, bis die Glühkontrollleuchte (die Spirale) erlischt.</li>
+<li><strong>Starten:</strong> höchstens etwa 10 bis 15 Sekunden orgeln lassen, dann ein bis zwei Minuten Pause.</li>
+<li><strong>Nach dem Start</strong> einen großen Verbraucher einschalten, etwa die Heckscheibenheizung, dann die Kabel in umgekehrter Reihenfolge abnehmen.</li>
+<li><strong>Fahren:</strong> mindestens eine halbe Stunde, damit die Batterie wieder geladen wird.</li>
+</ol>
+<h2>Welcher Spender passt?</h2>
+<ul class="ticks">
+<li><strong>Diesel hilft Diesel:</strong> Ideal, weil die Batterien ähnlich groß sind.</li>
+<li><strong>Benziner hilft Diesel:</strong> Geht, wenn die Batterie des Benziners nicht deutlich kleiner ist. Lassen Sie den Spender dann länger laufen.</li>
+<li><strong>Kleinwagen hilft großem Diesel:</strong> Klappt oft nicht. Besser ein größerer Spender oder ein kräftiger Booster, siehe <a href="ratgeber-starthilfe-booster.html">Starthilfe mit Booster oder Powerbank</a>.</li>
+<li><strong>Diesel hilft Benziner:</strong> Problemlos.</li>
+</ul>
+<h2>Bei Frost: Batterie oder Kraftstoff?</h2>
+<p>Bei starker Kälte kann im Dieselkraftstoff Paraffin ausflocken und den Kraftstofffilter verstopfen. Dann dreht der Anlasser kräftig, der Motor springt aber nicht an. Starthilfe hilft in diesem Fall nicht. Getankter Winterdiesel ist für tiefe Temperaturen ausgelegt, Sommerdiesel aus dem Herbst kann aber noch im Tank sein. Bringen Sie das Fahrzeug dann an einen wärmeren Ort oder lassen Sie es in eine Werkstatt bringen. Mischen Sie kein Benzin in den Diesel.</p>
+<h2>Woran Sie erkennen, ob es die Batterie ist</h2>
+<table class="tbl">
+<thead><tr><th>Was passiert</th><th>Wahrscheinliche Ursache</th></tr></thead>
+<tbody>
+<tr><td>Es klickt nur oder nichts passiert</td><td>Batterie leer</td></tr>
+<tr><td>Anlasser dreht sehr langsam</td><td>Batterie schwach, Starthilfe sinnvoll</td></tr>
+<tr><td>Anlasser dreht normal, Motor springt nicht an</td><td>Kraftstoff, Glühanlage oder anderer Fehler</td></tr>
+<tr><td>Glühlampe erlischt nicht oder blinkt</td><td>Fehler in der Glühanlage oder Motorsteuerung</td></tr>
+</tbody>
+</table>
+<p>Mehr Ursachen nach Symptom: <a href="ratgeber-auto-springt-nicht-an.html">Auto springt nicht an</a>.</p>
+<h2>Wann Sie uns rufen sollten</h2>
+<ul class="ticks">
+<li>Der Diesel springt auch nach mehreren Versuchen mit Starthilfe nicht an</li>
+<li>Sie vermuten bei Frost ein Kraftstoffproblem</li>
+<li>Kein passender Spender oder Booster ist verfügbar</li>
+</ul>
+<p>Wir versuchen zuerst, das Fahrzeug vor Ort zu starten. Klappt das nicht, bringen wir es in die Werkstatt.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann ein Benziner einem Diesel Starthilfe geben?</summary><div>Ja, wenn die Batterie des Benziners nicht deutlich kleiner ist. Lassen Sie den Spender vor dem Startversuch einige Minuten laufen.</div></details>
+<details><summary>Welche Kabel brauche ich für einen Diesel?</summary><div>Starthilfekabel mit 25&nbsp;mm² Querschnitt. Dünnere Kabel werden heiß und bringen oft nicht genug Strom.</div></details>
+<details><summary>Muss ich beim Diesel vorglühen?</summary><div>Ja, besonders bei Kälte. Zündung an und warten, bis die Glühkontrollleuchte erlischt, erst dann starten.</div></details>
+<details><summary>Warum springt mein Diesel bei Frost nicht an, obwohl der Anlasser dreht?</summary><div>Oft ist der Kraftstoff durch ausgeflocktes Paraffin geliert, der Filter ist dann verstopft. Starthilfe hilft dann nicht. Das Fahrzeug muss aufgewärmt oder in eine Werkstatt gebracht werden.</div></details>
+<details><summary>Wie lange muss der Spender laufen?</summary><div>Fünf bis zehn Minuten vor dem ersten Startversuch sind beim Diesel sinnvoll.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-starthilfe-hybrid-e-auto | Starthilfe bei Hybrid, E-Auto und Automatik | 12-Volt-Batterie leer bei Hybrid oder Elektroauto? Wo die Starthilfepunkte sind, ob ein E-Auto Starthilfe geben darf und was bei Automatik und Start-Stopp gilt. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Starthilfe bei Hybrid, Elektroauto und Automatik</h1><p class="lead">Auch Elektroautos und Hybride haben eine kleine 12-Volt-Batterie. Ist sie leer, lässt sich das Fahrzeug nicht einschalten, selbst wenn der große Akku voll ist. Starthilfe ist dann oft möglich, aber nur an den richtigen Stellen.</p><div class="actions"><a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a><a class="btn btn-wa" href="https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug." target="_blank" rel="noopener">WhatsApp mit Standort senden</a></div><p style="font-size:14px;margin:-10px 0 0;opacity:.75">24/7 erreichbar &middot; Preis vorher am Telefon</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p><strong>Kurz gesagt:</strong> Bei Hybrid und Elektroauto wird nur die 12-Volt-Batterie überbrückt, nie das Hochvoltsystem. Verwenden Sie die Starthilfepunkte, die in der Betriebsanleitung beschrieben sind, und berühren Sie keine orangefarbenen Kabel. Viele Hersteller verbieten es, mit einem E-Auto oder Hybrid anderen Autos Starthilfe zu geben. Beim Automatikauto funktioniert Starthilfe wie gewohnt, Anschieben geht aber nicht.</p></div>
+<h2>Elektroauto: 12-Volt-Batterie leer</h2>
+<p>Die 12-Volt-Batterie versorgt Steuergeräte, Türen und Bildschirm und schaltet das Hochvoltsystem frei. Ist sie leer, reagiert das Auto oft gar nicht mehr, Türen öffnen sich nicht und das Display bleibt dunkel. Dann hilft Starthilfe an der 12-Volt-Batterie oder an den dafür vorgesehenen Anschlusspunkten, häufig im vorderen Kofferraum oder hinter einer Abdeckung.</p>
+<ol>
+<li><strong>Betriebsanleitung öffnen</strong> und die Starthilfepunkte suchen. Lässt sich das Auto nicht öffnen, beschreibt die Anleitung oft eine Notöffnung der Haube.</li>
+<li><strong>Spender oder Booster anschließen:</strong> Rot an Plus, Schwarz an den angegebenen Massepunkt.</li>
+<li><strong>Fahrzeug einschalten</strong> wie gewohnt, bis „Ready“ oder die Fahrbereitschaft angezeigt wird.</li>
+<li><strong>Kabel abnehmen</strong> in umgekehrter Reihenfolge und das Auto eine Weile eingeschaltet lassen oder fahren, damit die 12-Volt-Batterie geladen wird.</li>
+</ol>
+<div class="note"><p>Orangefarbene Kabel und Bauteile gehören zum Hochvoltsystem. Fassen Sie sie nie an und klemmen Sie dort nichts an.</p></div>
+<h2>Hybrid: Starthilfe nur am vorgesehenen Punkt</h2>
+<p>Auch beim Hybrid wird nur die 12-Volt-Batterie überbrückt. Sie sitzt oft im Kofferraum oder unter dem Rücksitz. Für die Starthilfe gibt es dann einen eigenen Pluspunkt im Motorraum, etwa am Sicherungskasten. Nach dem Überbrücken startet nicht der Motor wie beim Benziner, sondern das Fahrzeug wird fahrbereit. Den Verbrennungsmotor startet das System selbst, wenn es ihn braucht.</p>
+<h2>Darf ein E-Auto oder Hybrid Starthilfe geben?</h2>
+<p>Viele Hersteller raten davon ab oder verbieten es, weil die Spannungswandler nicht für die hohen Ströme eines Anlassers ausgelegt sind. Schauen Sie in die Betriebsanleitung, bevor Sie mit einem E-Auto oder Hybrid einem anderen Fahrzeug helfen. Im Zweifel ist ein Booster die bessere Lösung, siehe <a href="ratgeber-starthilfe-booster.html">Starthilfe mit Booster oder Powerbank</a>.</p>
+<h2>Automatikauto: Starthilfe ja, Anschieben nein</h2>
+<ul class="ticks">
+<li><strong>Starthilfe funktioniert wie beim Schaltwagen.</strong> Wählhebel auf P, Bremse treten, starten.</li>
+<li><strong>Anschieben oder Anschleppen geht nicht,</strong> weil der Motor beim Automatikgetriebe nicht über die Räder angeworfen werden kann. Das Getriebe kann dabei Schaden nehmen.</li>
+<li><strong>Wählhebel klemmt in P?</strong> Ohne Strom lässt er sich oft nicht bewegen. Nach der Starthilfe geht das meist wieder. Mehr dazu im Ratgeber <a href="ratgeber-automatik-abschleppen.html">Automatikauto abschleppen</a>.</li>
+</ul>
+<h2>Start-Stopp, AGM und EFB-Batterien</h2>
+<p>Autos mit Start-Stopp-Automatik haben meist eine AGM- oder EFB-Batterie und einen Batteriesensor am Minuspol. Klemmen Sie das schwarze Kabel deshalb an den vorgesehenen Massepunkt, nicht direkt an den Minuspol. Nach einer Tiefentladung funktioniert die Start-Stopp-Automatik oft erst wieder, wenn die Batterie vollständig geladen ist. Das ist normal.</p>
+<h2>Wann Sie uns rufen sollten</h2>
+<ul class="ticks">
+<li>Sie finden die Starthilfepunkte nicht oder kommen nicht ins Auto</li>
+<li>Im Display stehen Warnungen zum Hochvoltsystem</li>
+<li>Das Fahrzeug wird auch nach der Starthilfe nicht fahrbereit</li>
+</ul>
+<p>Muss ein Elektroauto oder Hybrid transportiert werden, gilt einiges Besonderes, siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Kann man einem Elektroauto Starthilfe geben?</summary><div>Ja, an der 12-Volt-Batterie oder den vorgesehenen Starthilfepunkten. Das Hochvoltsystem wird dabei nicht berührt. Wo die Punkte sind, steht in der Betriebsanleitung.</div></details>
+<details><summary>Darf ein Elektroauto anderen Autos Starthilfe geben?</summary><div>Viele Hersteller raten davon ab oder verbieten es. Prüfen Sie die Betriebsanleitung oder nutzen Sie einen Booster.</div></details>
+<details><summary>Wo ist die Batterie beim Hybrid?</summary><div>Die 12-Volt-Batterie sitzt oft im Kofferraum oder unter dem Rücksitz. Für die Starthilfe gibt es meist einen eigenen Anschlusspunkt im Motorraum.</div></details>
+<details><summary>Kann man ein Automatikauto anschieben?</summary><div>Nein. Beim Automatikgetriebe lässt sich der Motor nicht über die Räder anwerfen. Nutzen Sie Starthilfekabel oder einen Booster.</div></details>
+<details><summary>Warum funktioniert Start-Stopp nach der Starthilfe nicht?</summary><div>Das System schaltet sich ab, solange die Batterie nicht ausreichend geladen ist. Nach einer längeren Fahrt oder dem Laden mit einem Ladegerät funktioniert es meist wieder.</div></details>
+</div></section>
+@@CTA@@
