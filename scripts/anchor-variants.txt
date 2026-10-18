@@ -1,0 +1,44 @@
+# Internal anchor text variants, taken from the Search Console queries of each target page (cycle 45, 2026-10-18).
+# Used by scripts/anchor-variants.pl. Tab-separated.
+#
+# vary  <target>  <anchor set: first = current text, then variants, separated by |>
+#   Every German in-body link to <target> whose text is any member of the set gets one member,
+#   chosen by a hash of the linking page, so the anchors are spread and stay stable on rerun.
+#   A member starting with ~ is only matched (old text), never chosen.
+#   Variants must read as a noun phrase/title, because they replace text after "siehe", "im Ratgeber" and in link cards.
+#
+# add   <source>  <target>  <label>  <small text>
+#   Adds a card to the topical "related" block of <source> (not the local-links block), if <source> does not link <target> yet.
+
+vary	/ratgeber/automatik-abschleppen/	Automatikauto abschleppen|Automatik abschleppen|Pkw mit Automatikgetriebe abschleppen|Automatik-Auto mit Seil abschleppen|Automatikgetriebe abschleppen
+vary	/ratgeber/transporter-abschleppen/	Transporter abschleppen|Bus oder Transporter abschleppen|Kleintransporter abschleppen|Transporter bis 3,5 t abschleppen
+vary	/ratgeber/wohnmobil-gespann-panne/	Wohnmobil und Gespann|Wohnmobil abschleppen|Wohnwagen abschleppen|Abschleppdienst für Wohnmobile
+vary	/ratgeber/wohnmobil-gespann-panne/	Wohnmobil oder Gespann liegengeblieben|Pannenhilfe für Wohnmobil und Wohnwagen|Wohnmobil oder Wohnwagen abschleppen
+vary	/ratgeber/tiefgarage-parkhaus-liegengeblieben/	Tiefgarage und Parkhaus|Panne in der Tiefgarage|Abschleppen aus der Tiefgarage|Liegengeblieben im Parkhaus
+vary	/ratgeber/abschleppdienst-kosten/	Was kostet ein Abschleppdienst?|Abschleppkosten|Was kostet Abschleppen?|Abschleppdienst: Kosten und Preise
+vary	/ratgeber/panne-im-tunnel/	Panne im Tunnel|Panne im Tunnel: was tun?|Verhalten im Tunnel bei einer Panne|~Pannenbucht im Tunnel|~Verhalten bei einer Panne im Tunnel
+vary	/ratgeber/e-auto-abschleppen/	E-Auto abschleppen|Elektroauto abschleppen|E-Autos abschleppen|E-Auto-Bergung
+vary	/staedte/frankfurt/	Abschleppdienst Frankfurt|Pannenhilfe Frankfurt|Abschleppdienst Frankfurt am Main
+vary	/koeln/porz/	Abschleppdienst Köln-Porz|Abschleppdienst Porz|Pannenhilfe Köln-Porz
+vary	/karlsruhe/offenburg/	Abschleppdienst Offenburg|Pannenhilfe Offenburg|Abschleppdienst Offenburg und Kehl
+vary	/karlsruhe/stadt/	Abschleppdienst Karlsruhe|Pannenhilfe Karlsruhe|Abschleppdienst in Karlsruhe
+vary	/koeln/pannenhilfe/	Pannenhilfe Köln|Pannendienst Köln|Pannenhilfe in Köln
+
+# Pages with impressions but only 3 inbound body links
+add	/ratgeber/warnleuchten-auto/	/ratgeber/notlauf-auto/	Auto im Notlauf	Keine Leistung, Notlaufprogramm
+add	/ratgeber/motor-geht-aus/	/ratgeber/notlauf-auto/	Motor im Notlaufprogramm	Wenn die Leistung plötzlich fehlt
+add	/ratgeber/motor-ueberhitzt/	/ratgeber/notlauf-auto/	Notlauf: Auto hat keine Leistung	Was das Notprogramm bedeutet
+add	/ratgeber/adblue-leer/	/ratgeber/notlauf-auto/	Notlaufprogramm beim Auto	Weiterfahren oder anhalten?
+add	/ratgeber/kupplung-defekt/	/ratgeber/notlauf-auto/	Auto im Notlauf	Weiterfahren oder anhalten?
+add	/ratgeber/abschleppen-koeln-kosten/	/ratgeber/umweltzone-koeln/	Umweltzone Köln	Plakette, Abschleppen, Strafe
+add	/ratgeber/panne-kehl-strassburg/	/ratgeber/umweltzone-koeln/	Umweltzone Köln	Plakettenpflicht im Vergleich
+add	/ratgeber/falsch-getankt/	/ratgeber/umweltzone-koeln/	Umweltplakette Köln	Was in der Umweltzone gilt
+add	/koeln/innenstadt/	/ratgeber/umweltzone-koeln/	Umweltzone Köln: was gilt beim Abschleppen?	Plakette und Strafe
+add	/koeln/ehrenfeld/	/ratgeber/umweltzone-koeln/	Umweltplakette Köln	Was in der Umweltzone gilt
+add	/ratgeber/wildunfall/	/ratgeber/motorrad-transport/	Motorrad abschleppen	Nach Sturz oder Panne
+add	/ratgeber/reifenpanne/	/ratgeber/motorrad-transport/	Motorrad transportieren lassen	Plattfuß am Motorrad
+add	/ratgeber/transporter-abschleppen/	/ratgeber/motorrad-transport/	Motorrad abschleppen	Transport statt Ziehen
+add	/ratgeber/nach-unfall-fahrbereit/	/ratgeber/motorrad-transport/	Motorrad nach dem Unfall transportieren	Sicher verladen
+add	/ratgeber/transporter-abschleppen/	/ratgeber/wohnmobil-gespann-panne/	Wohnmobil abschleppen	Über 3,5 t und Gespann
+add	/ratgeber/automatik-abschleppen/	/ratgeber/automatik-notentriegelung/	Automatik auf N stellen ohne Strom	Notentriegelung je Marke
+add	/ratgeber/e-auto-abschleppen/	/ratgeber/automatik-abschleppen/	Automatik-Auto abschleppen	Stellung N, Strecke, Tempo

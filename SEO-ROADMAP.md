@@ -360,3 +360,35 @@ Search Console: most impressions come from /ratgeber/, while /koeln/ sits around
 - /koeln/porz/, /koeln/kalk/: landmarks, vehicle section, neighbour/Autobahn link cards, 2 FAQs each. FAQPage JSON-LD rebuilt from the <details> on all three pages.
 - These edits were made in the HTML, not in `_build/content/`. `perl _build/build.pl` no longer reproduces the live HTML (165 files differ, it drops the sticky call bar, and it deletes the Google verification file `ba75687b-….html`). Do not run the build until the sources are brought back in sync.
 Owner check: the new Porz/Kalk landmarks (Hauptstraße, Bahnhof Porz (Rhein), DLR Linder Höhe, Groov, Frankfurter Straße; Köln Arcaden, Krankenhaus Merheim, Olpener Straße) are marked with TODO comments. B7 is still open: Umland towns are not claimed on /koeln/.
+
+## Cycle 45 (2026-10-18): ranking without backlinks (Search Console queries → content + internal anchors)
+Method: Kasra Dash, "How I Rank Pages Without Backlinks in 2026". Cross-site playbook: `takeldienstfaster/SEO-STRATEGY-NO-BACKLINKS.md`.
+Search Console (sc-domain, 2026-09-26 to 2026-10-16, ~3 weeks of data): 89 pages with impressions, 1,697 impressions, 10 clicks.
+
+Baseline for the pages touched (impressions / avg. position; re-check from ~2026-11-08):
+| Page | Impr. | Pos. | Main queries (pos.) |
+|---|---|---|---|
+| /ratgeber/automatik-abschleppen/ | 301 | 10.3 | automatikauto abschleppen (8.8), wie schleppt man ein automatik auto ab (9.2), automatik abschleppen (16.6) |
+| /ratgeber/abschleppdienst-kosten/ | 158 | 52.6 | abschleppdienst kosten (73), abschleppen kosten (86), wie viel kostet ein abschleppdienst (6) |
+| /ratgeber/transporter-abschleppen/ | 96 | 8.0 | bus abschleppen (17.8) |
+| /ratgeber/wohnmobil-gespann-panne/ | 89 | 31.4 | wohnmobil abschleppdienst (57), wohnmobil abschleppen (35), wohnwagen abschleppen (24) |
+| /ratgeber/notlauf-auto/ | 44 | 34.3 | notlauf auto (49), motor geht in notlaufprogramm (48), auto hat keine leistung (71) |
+| /ratgeber/umweltzone-koeln/ | 31 | 32.7 | umweltzone köln (49), umweltplakette köln (32) |
+| /ratgeber/panne-im-tunnel/ | 28 | 19.4 | panne im tunnel (14) |
+| /koeln/porz/ | 29 | 20.2 | abschleppdienst köln porz (10.4), abschleppdienst porz (11.1) |
+| /karlsruhe/stadt/ | 25 | 16.2 | abschleppdienst in der nähe (12.8) |
+| /staedte/frankfurt/ | 19 | 19.7 | pannenhilfe frankfurt (3.6, 10 impressions, 0 clicks) |
+| /karlsruhe/offenburg/ | 18 | 18.3 | abschleppdienst (6.7), abschleppdienst offenburg (20.5) |
+| /koeln/pannenhilfe/ | 11 | 59.5 | pannendienst köln (70); this query also shows on 7 other Köln pages at 55–90 |
+
+Done:
+- **Anchor text variation** (`scripts/anchor-variants.pl` + `scripts/anchor-variants.txt`, rerunnable, German pages only): inbound in-body anchors of 13 target pages now rotate through their Search Console query variants instead of one fixed text (before: e.g. "Automatikauto abschleppen" 14 of 18 links, "Transporter abschleppen" 22 of 25, "Panne im Tunnel" 73 of 98). About 250 anchors changed on 107 pages. `~` in the variant list = old text that is only matched, never chosen (used to retire "Pannenbucht im Tunnel", which did not fit the sentences).
+- **More inbound links** for pages with impressions but only 3 in-body links: Notlauf 3 → 6 linking pages, Umweltzone Köln 3 → 7, Motorrad-Transport 6 → 10, plus Automatik → Notentriegelung and E-Auto → Automatik. Cards carry `data-al` in the topical "Weiterlesen" block.
+- **Content** (`scripts/cycle45-content.pl`, one-off): Automatik: overview table by gearbox type, link to the Notentriegelung guide, 2 FAQs ("Wie schleppt man…", "Kann jedes Automatikauto…"). Wohnmobil: title/H1/description lead with "Wohnmobil abschleppen", new sections "Wohnmobil abschleppen lassen" and "Wohnwagen abschleppen", 2 FAQs. Kosten: title "Abschleppkosten 2026: …", 2 FAQs ("Wie viel kostet…", "Abschleppkosten-Rechner"), both using the page's existing market ranges. Frankfurt: title/description lead with "Pannenhilfe" (position 3.6, 0 clicks). Pannenhilfe Köln: "Pannendienst" in title, description and lead.
+- FAQPage JSON-LD rebuilt from the visible FAQs (`scripts/faq-schema.pl`; on an unchanged page it reproduces the existing JSON byte for byte).
+- Audit: 14 warnings, identical to before this cycle (long descriptions on newer guides, Porz/Kalk TODO placeholders from cycle 44, one broken EN link on /en/leistungen/).
+
+Not done / next:
+- The automatik and other guides now show two call boxes directly under the intro (hero buttons + cycle-44 `local-cta` box). Consider removing the `local-cta` box where the hero already has call buttons.
+- Not touched: /en/ (English "tow truck near me" queries at 30–90, low value), /staedte/muenchen/ ("pannenhilfe holzkirchen": Holzkirchen is not covered, no page planned), competitor brand queries ("christophorus abschleppdienst köln").
+- Next targets with the same method: E-Auto abschleppen (34 impr., queries "e-fahrzeug-bergung", "elektroauto abschleppen" at 50–65), Kupplung defekt ("kupplung kaputt weiterfahren" 64), Falsch getankt (43), Umweltzone Köln content (queries "strafe", "karte", "diesel").
