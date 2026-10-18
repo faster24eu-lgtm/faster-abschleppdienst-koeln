@@ -75,3 +75,10 @@ Tone: "Aus der Praxis unserer Abschleppfahrer", no names.
 - Mercedes column selector: confirm there's no mechanical release (dollies)?
 - VW DSG yellow lever under the gaiter: which models?
 - Electronic selectors without power: jump first, then dollies?
+
+## Round 2 (2026-10-18)
+- **BMW (newer, ZF 8-speed):** under the car, **on the side of the gearbox, a screw you undo with an Allen key**. Confirmed by a Team-BHP report of a BMW mechanic: jack up, remove the splash shield, turn the release screw with an Allen key. The tow-service tool Laser 6895 (OEM 164589036300) is a hub-mounted freewheel adapter for BMW F-series and Mercedes W204/W212 etc., max 5 km/h.
+- **Land Rover / Range Rover:** some have the release **under the air filter**, even some **Range Rover Sports** (others: under the cupholder).
+- The owner says forums and mechanics are fine as sources ("they have no reason to lie").
+- Still unconfirmed: Iveco Daily, right of which seat; Sprinter 906 wording.
+- DE pages live 2026-10-18: /ratgeber/automatik-notentriegelung/ and /ratgeber/tesla-abschleppmodus/ (commit 946a8a0 + the follow-up). Next: NL and EN versions (EN also Kia/Hyundai shift lock release).
