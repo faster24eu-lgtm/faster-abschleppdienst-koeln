@@ -91,3 +91,6 @@ details{border:1px solid var(--line);padding:16px 18px;margin:0 0 10px;backgroun
 .citylist a:hover{background:#8b0e0e;color:#fff;border-color:#8b0e0e}
 @media(max-width:900px){.land-grid,.citylist{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:520px){.land-grid,.citylist{grid-template-columns:1fr}}
+
+/* mobile cookie banner: compact (flex-basis 320px was being applied to the height in column layout) */
+@media(max-width:520px){.cookie-banner p{flex:none;font-size:13px;line-height:1.4}.cookie-in{gap:10px;padding:12px 0}.cookie-btn{padding:11px 14px}}
