@@ -266,3 +266,135 @@
 <details><summary>Warum funktioniert Start-Stopp nach der Starthilfe nicht?</summary><div>Das System schaltet sich ab, solange die Batterie nicht ausreichend geladen ist. Nach einer längeren Fahrt oder dem Laden mit einem Ladegerät funktioniert es meist wieder.</div></details>
 </div></section>
 @@CTA@@
+
+=== ratgeber-automatik-notentriegelung | Automatik auf N stellen ohne Strom: Notentriegelung je Marke | Wählhebel steckt in P fest? So bringen Sie ein Automatikauto in Neutral: Notentriegelung nach Marke, Transporter, Robotergetriebe und Tesla, aus der Praxis unserer Abschleppfahrer. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Automatik auf N stellen ohne Strom: die Notentriegelung je Marke</h1><p class="lead">Batterie leer, Wählhebel steckt in P fest, und das Auto lässt sich keinen Zentimeter bewegen? Bei vielen Fahrzeugen gibt es eine versteckte Notentriegelung. Wo sie sitzt, wissen oft nicht einmal Werkstätten. Hier steht, was unsere Abschleppfahrer im Alltag tun.</p><div class="actions"><a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a><a class="btn btn-wa" href="https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug." target="_blank" rel="noopener">WhatsApp mit Standort senden</a></div><p style="font-size:14px;margin:-10px 0 0;opacity:.75">24/7 erreichbar &middot; Preis vorher am Telefon</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p><strong>Kurz gesagt:</strong> Versuchen Sie zuerst <a href="ratgeber-starthilfe-batterie.html">Starthilfe</a>. Mit Strom lässt sich fast jedes Automatikauto normal auf N stellen. Ohne Strom hilft nur eine mechanische Notentriegelung: bei vielen Autos eine kleine Öffnung am Wählhebel, bei Jaguar und Land Rover ein Hebel in der Mittelkonsole oder im Motorraum. Autos mit rein elektronischem Wählhebel und mit Robotergetriebe haben keine Mechanik, dann wird das Fahrzeug mit Radrollern verladen.</p></div>
+<h2>Zuerst die Sicherheit</h2>
+<p>Sobald die Parksperre gelöst ist, kann das Auto losrollen, auch auf scheinbar ebener Fläche. Deshalb gilt vor jeder Notentriegelung:</p>
+<ul class="ticks">
+<li><strong>Unterlegkeile</strong> vor und hinter ein Rad legen.</li>
+<li><strong>Parkbremse anziehen,</strong> soweit sie noch funktioniert, oder eine zweite Person tritt im Auto fest auf die Bremse.</li>
+<li><strong>Niemand steht vor oder hinter dem Fahrzeug,</strong> solange es entriegelt ist.</li>
+<li><strong>Die Notentriegelung ist nur zum Verladen oder kurzen Rangieren gedacht,</strong> nicht zum Abschleppen über die Straße.</li>
+<li><strong>Nach dem Transport zurückstellen,</strong> damit die Parksperre wieder greift.</li>
+</ul>
+<h2>Warum der Wählhebel in P festsitzt</h2>
+<p>In Stellung P blockiert eine Sperrklinke im Getriebe die Antriebsräder. Damit niemand versehentlich aus P schaltet, gibt der Wählhebel erst frei, wenn Zündung und Bremspedal ein elektrisches Signal liefern. Diese Sperre heißt Shift-Lock. Ist die Batterie leer, fehlt das Signal, und der Hebel bleibt in P. Bei neueren Autos mit elektronischem Wählhebel, Drehregler oder Wahlschalter am Lenkstock gibt es oft gar keine mechanische Verbindung mehr zum Getriebe.</p>
+<h2>Schritt 1: Erst Strom versuchen</h2>
+<p>Die einfachste Notentriegelung ist eine geladene Batterie. Geben Sie Starthilfe mit Kabel oder Booster, schalten Sie die Zündung ein, treten Sie die Bremse und stellen Sie den Wählhebel auf N. Bei vielen Autos bleibt N danach nur erhalten, solange die Zündung an ist. Wie Starthilfe richtig geht, steht in <a href="ratgeber-starthilfe-batterie.html">Auto überbrücken: Starthilfe richtig geben</a>, für Hybrid und Elektroauto in <a href="ratgeber-starthilfe-hybrid-e-auto.html">Starthilfe bei Hybrid, E-Auto und Automatik</a>.</p>
+<h2>Die vier Arten von Notentriegelung</h2>
+<h3>1. Öffnung am Wählhebel (Shift-Lock-Entriegelung)</h3>
+<p>Bei vielen Autos mit klassischem Wählhebel in der Mittelkonsole sitzt neben oder unter dem Hebel eine kleine Abdeckung. Darunter ist eine Öffnung, in die Sie den Schlüssel oder einen schmalen Schraubendreher stecken.</p>
+<ol>
+<li>Fahrzeug sichern (Unterlegkeile, Bremse).</li>
+<li>Die kleine Abdeckung neben oder unter dem Wählhebel vorsichtig heraushebeln, oft mit dem Schlüsselbart oder einem flachen Schraubendreher.</li>
+<li>Schlüssel oder Schraubendreher in die Öffnung stecken und nach unten drücken.</li>
+<li>Gleichzeitig das Bremspedal treten und den Wählhebel auf N schieben.</li>
+<li>Abdeckung wieder einsetzen, wenn das Fahrzeug verladen ist.</li>
+</ol>
+<h3>2. Hebel oder Seilzug in Mittelkonsole oder Motorraum</h3>
+<p>Jaguar und Land Rover arbeiten mit einem eigenen Entriegelungshebel. Er sitzt je nach Modell unter einer Abdeckung in der Mittelkonsole, unter dem Getränkehalter oder im Motorraum. Meist drehen Sie eine Sicherung um 90 Grad und ziehen den Hebel hoch, bis er einrastet. Details stehen in der Tabelle unten.</p>
+<h3>3. Elektronischer Wählhebel ohne Mechanik</h3>
+<p>Kippschalter, Drehregler, Tasten oder Wahlhebel am Lenkstock steuern das Getriebe nur noch elektrisch. Ohne Strom gibt es hier für Fahrer keine Notentriegelung. Dann hilft nur Starthilfe, oder das Auto wird mit Radrollern verladen.</p>
+<h3>4. Robotergetriebe (automatisiertes Schaltgetriebe)</h3>
+<p>Ein Robotergetriebe ist ein Schaltgetriebe, bei dem Stellmotoren kuppeln und schalten. Fällt der Strom aus, bleibt oft der zuletzt eingelegte Gang drin. Typische Beispiele sind Fiat Dualogic und Comfort-Matic, ältere Smart, Citroën und Peugeot mit ETG oder EGS sowie Renault Quickshift. Auch hier geht N nur mit Strom, sonst werden Radroller benutzt.</p>
+<h2>Notentriegelung nach Marke: Pkw</h2>
+<table class="tbl">
+<thead><tr><th>Marke und Modell</th><th>So kommen Sie auf N</th></tr></thead>
+<tbody>
+<tr><td>Jaguar XF mit Allradantrieb</td><td>Seilzug im Motorraum links neben dem Motor, unter der Motorabdeckung. Werkzeug aus dem Kofferraumboden aufstecken, Sicherung 90° gegen den Uhrzeigersinn drehen, Hebel hochziehen bis er einrastet.</td></tr>
+<tr><td>Jaguar XF mit Heckantrieb, F-Type, XJ</td><td>Hebel in der Mittelkonsole unter einer Abdeckung im Ablagefach bzw. zwischen Getränkehalter und Armlehne. Sicherung 90° drehen, Hebel hochziehen bis er einrastet.</td></tr>
+<tr><td>Land Rover Discovery Sport</td><td>Hebel im Motorraum unter dem Luftfilterkasten. Luftfilter ausbauen, Hebel gegen den Uhrzeigersinn nach vorn drehen und mit einem 5-mm-Stift (Inbusschlüssel, Bohrer) sichern.</td></tr>
+<tr><td>Range Rover Evoque</td><td>Nach Erfahrung unserer Fahrer ebenfalls im Motorraum unter der Abdeckung, ähnlich wie beim Discovery Sport. Genaue Lage laut Betriebsanleitung.</td></tr>
+<tr><td>Range Rover Velar</td><td>Nach Erfahrung unserer Fahrer ebenfalls im Motorraum unter der Abdeckung. Genaue Lage laut Betriebsanleitung.</td></tr>
+<tr><td>Range Rover, Range Rover Sport (ca. 2013–2022)</td><td>Laut unseren Fahrern ein Hebel unter dem Getränkehalter in der Mittelkonsole. Boden des Getränkehalters herausnehmen, Sicherung 90° drehen, Hebel hochziehen bis er einrastet.</td></tr>
+<tr><td>Volvo mit klassischem Wählhebel (z.&nbsp;B. V40, V70)</td><td>Öffnung für den Schlüsselbart im Fach der Mittelkonsole, unter Gummimatte oder Einsatz. Bei Doppelkupplungsgetriebe nur auf dem Plateau transportieren.</td></tr>
+<tr><td>Tesla</td><td>Abschleppmodus im Display, braucht 12-Volt-Strom. Ohne Strom Radroller. Siehe <a href="ratgeber-tesla-abschleppmodus.html">Tesla Abschleppmodus</a>.</td></tr>
+<tr><td>Toyota, Lexus, Honda, Nissan, Mazda, Suzuki, Mitsubishi, Subaru, Hyundai, Kia mit klassischem Wählhebel</td><td>Kleine Abdeckung neben dem Wählhebel, oft mit der Aufschrift „Shift Lock“. Abdeckung heraushebeln, mit Schlüssel oder flachem Schraubendreher in der Öffnung nach unten drücken, dabei Bremse treten und den Hebel auf N schieben.</td></tr>
+<tr><td>VW, Audi, Škoda, Seat, Cupra mit klassischem Wählhebel</td><td>Bei vielen Modellen mit DSG ein gelber Entriegelungshebel unter der Abdeckung oder Manschette des Wählhebels. Modelle mit kleinem Wahlschalter, etwa der Golf 8 oder die ID-Modelle: nur mit Strom.</td></tr>
+<tr><td>Mercedes-Benz</td><td>Ältere Modelle mit Wählhebel in der Mittelkonsole oft mit Entriegelung am Wählhebel. Mit DIRECT SELECT am Lenkrad: keine mechanische Notentriegelung, nur mit Strom, sonst Radroller. Mercedes empfiehlt Transport statt Abschleppen.</td></tr>
+<tr><td>BMW, Mini</td><td>Ältere Modelle mit mechanischem Wählhebel: Abdeckung am Fuß des Wählhebels, darunter eine Öffnung zum Entriegeln. Neuere Modelle mit 8-Gang-Automatik (ab ca. 2010): mechanische Notentriegelung unten am Getriebe. Fahrzeug anheben, Unterbodenverkleidung abnehmen und die Entriegelungsschraube mit einem Inbusschlüssel drehen. Das ist Arbeit für Abschleppdienst oder Werkstatt.</td></tr>
+<tr><td>Ford, Opel</td><td>Ältere Modelle mit Wählhebel: Abdeckung am Wählhebel mit Entriegelung darunter. Mit Drehregler: nur mit Strom.</td></tr>
+<tr><td>Peugeot, Citroën, DS, Opel mit Kippschalter (EAT8)</td><td>Rein elektronisch, keine mechanische Notentriegelung. Ohne Strom blockieren die Räder in P: Starthilfe, sonst Radroller.</td></tr>
+<tr><td>Renault, Dacia</td><td>Mit Wählhebel: meist Entriegelung unter der Manschette oder Abdeckung. Mit elektronischem Wählhebel: nur mit Strom.</td></tr>
+<tr><td>Fiat, Smart, Citroën, Peugeot mit Robotergetriebe</td><td>Bleiben ohne Strom oft im Gang. Starthilfe, sonst Radroller.</td></tr>
+<tr><td>Elektroautos (z.&nbsp;B. MG, BYD, Polestar, Hyundai Ioniq, Kia EV, VW ID)</td><td>Meist ein Abschlepp- oder Transportmodus im Display, der 12-Volt-Strom braucht. Ohne Strom Radroller. Siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</td></tr>
+</tbody>
+</table>
+<p>Modelle und Baujahre unterscheiden sich stark. Wenn Sie unsicher sind, schauen Sie in der Betriebsanleitung im Kapitel Abschleppen oder Pannenhilfe nach, oder rufen Sie uns an.</p>
+<h2>Transporter und Vans</h2>
+<p>Die meisten Transporter haben ein Schaltgetriebe, dann genügt Leerlauf. Bei Automatik und Robotergetriebe gilt:</p>
+<table class="tbl">
+<thead><tr><th>Fahrzeug</th><th>So kommen Sie auf N</th></tr></thead>
+<tbody>
+<tr><td>Mercedes Sprinter mit Automatik (ca. 2009–2015)</td><td>Runde Abdeckung direkt unter dem Wählhebelknauf mit einem Schraubendreher heraushebeln, Schlüssel in die Öffnung drücken und den Wählhebel auf N stellen.</td></tr>
+<tr><td>Mercedes Sprinter ab 2018, Vito, V-Klasse</td><td>Wählhebel am Lenkstock, elektronisch: nur mit Strom, sonst Radroller.</td></tr>
+<tr><td>VW Transporter T5, T6 mit DSG</td><td>Gelber Entriegelungshebel unter der Abdeckung des Wählhebels.</td></tr>
+<tr><td>Iveco Daily mit Automatik (Hi-Matic)</td><td>Entriegelung im Boden rechts neben dem Sitz. Abdeckung von Hand abnehmen und den Hebel nach hinten ziehen.</td></tr>
+<tr><td>Fiat Ducato, Peugeot Boxer, Citroën Jumper mit Comfort-Matic</td><td>Robotergetriebe: bleibt ohne Strom oft im Gang. Starthilfe, sonst Radroller.</td></tr>
+<tr><td>Fiat Ducato, Peugeot Boxer, Citroën Jumper mit 9-Gang-Automatik</td><td>Elektronischer Wählhebel: nur mit Strom.</td></tr>
+<tr><td>Renault Master, Trafic mit Quickshift</td><td>Robotergetriebe: nur mit Strom, sonst Radroller.</td></tr>
+<tr><td>Ford Transit, VW Crafter, MAN TGE, Renault Master, Opel Movano mit Automatik</td><td>Je nach Baujahr unterschiedlich, neuere meist elektronisch. Betriebsanleitung, sonst Radroller.</td></tr>
+</tbody>
+</table>
+<p>Mehr zu Gewicht, Höhe und Verladen von Transportern: <a href="ratgeber-transporter-abschleppen.html">Transporter abschleppen</a>.</p>
+<h2>Elektrische Parkbremse: lässt sie sich lösen?</h2>
+<p>Auch eine elektrische Parkbremse braucht Strom zum Lösen. Einige ältere Modelle aus der ersten Generation haben einen mechanischen Notlösehebel, zum Beispiel in der Mittelkonsole oder im Kofferraum. Bei neueren Autos gibt es für Fahrer keine Notlösung mehr. Dann wird das Auto mit Radrollern verladen. Werkstätten können die Bremse mit einem Diagnosegerät oder direkt am Stellmotor öffnen, das gehört aber nicht an den Straßenrand.</p>
+<h2>Wenn sich nichts bewegen lässt: Radroller und Kran</h2>
+<p>Lässt sich das Auto weder auf N stellen noch die Parkbremse lösen, nehmen wir Radroller, auch Dollies genannt. Sie werden unter die blockierten Räder geschoben, sodass das Fahrzeug rollt, obwohl die Räder stehen. In engen Lagen, etwa in Tiefgaragen oder nach einem Unfall, heben wir das Fahrzeug mit dem Kran. Für einige BMW- und Mercedes-Modelle gibt es außerdem ein Freilaufwerkzeug, das an die Radnabe geschraubt wird und das Fahrzeug trotz blockiertem Getriebe in Schrittgeschwindigkeit rollen lässt. Ziehen Sie ein Auto nie mit blockierten Rädern über den Boden oder auf die Ladefläche, das beschädigt Reifen, Getriebe und Antrieb.</p>
+<h2>Aus der Praxis unserer Abschleppfahrer</h2>
+<ul class="ticks">
+<li>Die Entriegelung steht oft nicht oder nur sehr versteckt in der Betriebsanleitung. Bei Jaguar und Land Rover findet man sie im Kapitel Fahrzeugbergung.</li>
+<li>Viele Fahrer suchen den Entriegelungshebel bei Jaguar in der Mittelkonsole, bei Allradmodellen sitzt er aber im Motorraum.</li>
+<li>Beim Range Rover Sport merkt kaum jemand, dass der Hebel unter dem Getränkehalter liegt. Erst den Gummiboden herausnehmen.</li>
+<li>Wenn gar nichts geht, sind Radroller schneller und schonender als jeder Versuch mit Gewalt.</li>
+</ul>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Wie bekomme ich ein Automatikauto ohne Strom auf N?</summary><div>Mit einer mechanischen Notentriegelung, wenn das Auto eine hat: meist eine kleine Öffnung am Wählhebel, bei Jaguar und Land Rover ein Hebel in der Mittelkonsole oder im Motorraum. Einfacher ist oft Starthilfe, dann lässt sich der Wählhebel normal auf N stellen.</div></details>
+<details><summary>Warum lässt sich der Wählhebel nicht aus P bewegen?</summary><div>Der Wählhebel gibt erst frei, wenn Zündung und Bremspedal ein elektrisches Signal liefern. Ist die Batterie leer oder der Bremslichtschalter defekt, bleibt er in P.</div></details>
+<details><summary>Wo ist die Notentriegelung beim Wählhebel?</summary><div>Bei vielen Autos unter einer kleinen Abdeckung neben oder unter dem Wählhebel, manchmal mit der Aufschrift „Shift Lock“. Die genaue Lage steht in der Betriebsanleitung.</div></details>
+<details><summary>Hat jedes Automatikauto eine Notentriegelung?</summary><div>Nein. Viele neuere Autos mit elektronischem Wählhebel, Drehregler oder Wahlhebel am Lenkstock haben keine mechanische Notentriegelung mehr. Dann geht N nur mit Strom.</div></details>
+<details><summary>Darf ich ein entriegeltes Automatikauto abschleppen?</summary><div>Nur wenn der Hersteller es erlaubt und nur kurz und langsam. Die Notentriegelung ist vor allem zum Verladen gedacht. Mehr dazu im Ratgeber <a href="ratgeber-automatik-abschleppen.html">Automatikauto abschleppen</a>.</div></details>
+<details><summary>Was sind Radroller?</summary><div>Kleine Rollwagen, die unter blockierte Räder geschoben werden. So lässt sich ein Auto bewegen und verladen, auch wenn Getriebe oder Parkbremse blockieren.</div></details>
+<details><summary>Muss ich die Notentriegelung danach zurückstellen?</summary><div>Ja. Sonst greift die Parksperre nicht, und das Auto kann wegrollen. Beim Jaguar etwa den Hebel wieder in die waagerechte Stellung bringen und die Sicherung zurückdrehen.</div></details>
+</div></section>
+@@CTA@@
+=== ratgeber-tesla-abschleppmodus | Tesla Abschleppmodus: So aktivieren Sie ihn | Tesla abschleppen: wie Sie den Abschleppmodus im Display aktivieren, was ohne 12-Volt-Strom gilt und warum ein Tesla nur auf dem Plateau transportiert werden sollte. | page ===
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Tesla Abschleppmodus: Neutral einlegen und richtig verladen</h1><p class="lead">Ein Tesla schaltet automatisch in P, sobald Sie aussteigen. Damit er zum Verladen frei rollt, gibt es den Abschleppmodus im Display. Er funktioniert aber nur, solange die 12-Volt-Batterie Strom liefert.</p><div class="actions"><a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a><a class="btn btn-wa" href="https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug." target="_blank" rel="noopener">WhatsApp mit Standort senden</a></div><p style="font-size:14px;margin:-10px 0 0;opacity:.75">24/7 erreichbar &middot; Preis vorher am Telefon</p></div></section>
+<section class="section"><div class="wrap narrow copy">
+<div class="note"><p><strong>Kurz gesagt:</strong> Im Display den Abschleppmodus einschalten. Der Tesla bleibt dann in N mit gelöster Parkbremse, aber nur zum Aufziehen auf einen Abschleppwagen oder zum Rangieren in Schrittgeschwindigkeit. Ohne 12-Volt-Strom lässt sich der Modus nicht aktivieren, dann wird der Tesla mit Radrollern verladen.</p></div>
+<h2>Was der Abschleppmodus macht</h2>
+<p>Normalerweise legt ein Tesla die Parkbremse ein, wenn Sie den Fahrersitz verlassen. Der Abschleppmodus hält das Fahrzeug in N und löst die Parkbremse, sodass es frei rollt. Laut Tesla ist das nur dafür gedacht, den Wagen mit der Seilwinde auf einen Abschleppwagen zu ziehen oder ihn aus einer Parklücke zu schieben. Erlaubt ist nur Schrittgeschwindigkeit, je nach Markt höchstens etwa 5 bis 8&nbsp;km/h.</p>
+<h2>So aktivieren Sie den Abschleppmodus</h2>
+<ol>
+<li><strong>Fahrzeug sichern:</strong> Unterlegkeile, denn nach dem Aktivieren rollt der Tesla frei.</li>
+<li><strong>Ladekabel abziehen:</strong> Solange der Tesla angeschlossen ist, steht der Modus nicht zur Verfügung.</li>
+<li><strong>Schlüssel im Auto:</strong> Schlüsselkarte, Smartphone-Schlüssel oder Funkschlüssel muss erkannt werden.</li>
+<li><strong>Im Display den Abschleppmodus einschalten,</strong> bei vielen Softwareständen unter Steuerung › Service. Meist muss dafür das Bremspedal getreten werden.</li>
+<li><strong>Verladen</strong> mit der Seilwinde, langsam und gerade.</li>
+<li><strong>Danach den Abschleppmodus wieder ausschalten</strong> oder auf P schalten, damit die Parkbremse wieder greift.</li>
+</ol>
+<h2>Tesla ohne Strom: 12-Volt-Batterie leer</h2>
+<p>Ist die 12-Volt-Batterie leer, reagiert der Tesla nicht mehr, die Türen öffnen sich oft nicht und der Abschleppmodus lässt sich nicht einschalten. Beim Model 3, je nach Baujahr auch beim Model Y, gibt es hinter der Abdeckung der vorderen Abschleppöse zwei Kabel, ein rotes und ein schwarzes. Ein externes 12-Volt-Gerät, etwa ein Booster, öffnet darüber den vorderen Kofferraum, mehr nicht. Darunter erreichen Sie die 12-Volt-Batterie für die Starthilfe. Tesla nennt dafür höchstens 30 Sekunden an diesen Kabeln. Wie Starthilfe beim Elektroauto funktioniert, steht in <a href="ratgeber-starthilfe-hybrid-e-auto.html">Starthilfe bei Hybrid, E-Auto und Automatik</a>.</p>
+<p>Lässt sich der Abschleppmodus trotzdem nicht einschalten, schreibt Tesla Radroller oder Reifenschlitten zum Verladen vor. Genau so machen wir es auch.</p>
+<h2>Warum ein Tesla nicht abgeschleppt werden sollte</h2>
+<p>Drehen sich die Räder eines Elektroautos, erzeugen die Motoren Strom. Über längere Strecken kann das Antrieb und Elektronik schaden, und Schäden durch falsches Abschleppen sind laut Tesla nicht von der Garantie gedeckt. Ein Tesla gehört deshalb mit allen vier Rädern auf einen Abschleppwagen, nicht an das Seil oder die Stange. Mehr dazu: <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a>.</p>
+<h2>Was Sie uns am Telefon sagen sollten</h2>
+<ul class="ticks">
+<li>Welches Modell (Model 3, Y, S, X) und ob Allrad</li>
+<li>Ob das Display noch reagiert und sich der Abschleppmodus einschalten lässt</li>
+<li>Wo der Tesla steht, etwa Straße, Tiefgarage oder Ladesäule</li>
+</ul>
+<p>Für weitere Marken siehe <a href="ratgeber-automatik-notentriegelung.html">Automatik auf N stellen ohne Strom</a>.</p>
+</div></section>
+<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
+<details><summary>Wie schalte ich einen Tesla auf Neutral?</summary><div>Mit dem Abschleppmodus im Display. Ohne ihn schaltet der Tesla beim Aussteigen automatisch auf P.</div></details>
+<details><summary>Wie schnell darf ein Tesla im Abschleppmodus rollen?</summary><div>Nur in Schrittgeschwindigkeit, je nach Markt höchstens etwa 5 bis 8&nbsp;km/h, und nur zum Verladen oder Rangieren.</div></details>
+<details><summary>Funktioniert der Abschleppmodus ohne Strom?</summary><div>Nein. Er braucht 12-Volt-Strom. Ohne Strom wird der Tesla mit Radrollern oder Reifenschlitten verladen.</div></details>
+<details><summary>Darf man einen Tesla mit dem Seil abschleppen?</summary><div>Davon rät Tesla ab. Ein Tesla sollte mit allen vier Rädern auf einem Abschleppwagen transportiert werden.</div></details>
+<details><summary>Warum lässt sich der Abschleppmodus nicht aktivieren?</summary><div>Häufige Gründe: Das Ladekabel steckt noch, kein Schlüssel wird erkannt oder die 12-Volt-Batterie ist leer.</div></details>
+</div></section>
+@@CTA@@
