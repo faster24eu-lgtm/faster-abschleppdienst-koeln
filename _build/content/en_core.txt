@@ -1,4 +1,4 @@
-=== en-impressum | Legal Notice | Legal notice (Impressum) for Faster Abschleppdienst. | noindex ===
+=== en-impressum | Legal Notice | Legal notice (Impressum) for Faster Abschleppdienst. | page ===
 <section class="page-head"><div class="wrap narrow"><h1>Legal Notice</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
 <p><mark>DRAFT: The marked details must be completed before publication.</mark></p>
@@ -15,7 +15,7 @@
 <p><mark>[Add name of managing director]</mark><br>Am Festungsgraben 2<br>10117 Berlin, Germany</p>
 <p class="fine">Note: please have this legal notice reviewed by a qualified professional before publication.</p>
 </div></section>
-=== en-datenschutz | Privacy Policy | Privacy policy for this website. | noindex ===
+=== en-datenschutz | Privacy Policy | Privacy policy for this website. | page ===
 <section class="page-head"><div class="wrap narrow"><h1>Privacy Policy</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
 <p><mark>DRAFT: Please have this reviewed by a qualified professional before publication, and complete the marked details.</mark></p>

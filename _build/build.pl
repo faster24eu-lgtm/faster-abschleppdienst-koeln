@@ -679,7 +679,7 @@ __DATA__
 <button class="btn btn-y" type="submit">Anfrage senden</button>
 <p class="fine">Mit dem Absenden stimmen Sie zu, dass Ihre Angaben zur Bearbeitung Ihrer Anfrage per E-Mail an Faster übermittelt werden. Mehr in der <a href="datenschutz.html">Datenschutzerklärung</a>.</p>
 </form></div></section>
-=== impressum | Impressum | Faster Abschleppdienst | Anbieterkennzeichnung von Faster Abschleppdienst. | noindex ===
+=== impressum | Impressum | Faster Abschleppdienst | Anbieterkennzeichnung von Faster Abschleppdienst. | page ===
 <section class="page-head"><div class="wrap narrow"><h1>Impressum</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
 <p><mark>ENTWURF: Die markierten Angaben müssen vor der Veröffentlichung ergänzt werden.</mark></p>
@@ -696,7 +696,7 @@ __DATA__
 <p><mark>[Name des Geschäftsführers ergänzen]</mark><br>Am Festungsgraben 2<br>10117 Berlin</p>
 <p class="fine">Hinweis: Bitte lassen Sie das Impressum vor der Veröffentlichung von einer fachkundigen Person prüfen.</p>
 </div></section>
-=== datenschutz | Datenschutzerklärung | Faster Abschleppdienst | Datenschutzerklärung dieser Website. | noindex ===
+=== datenschutz | Datenschutzerklärung | Faster Abschleppdienst | Datenschutzerklärung dieser Website. | page ===
 <section class="page-head"><div class="wrap narrow"><h1>Datenschutzerklärung</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
 <p><mark>ENTWURF: Bitte vor der Veröffentlichung von einer fachkundigen Person prüfen lassen und die markierten Angaben ergänzen.</mark></p>
