@@ -392,3 +392,9 @@ Not done / next:
 - The automatik and other guides now show two call boxes directly under the intro (hero buttons + cycle-44 `local-cta` box). Consider removing the `local-cta` box where the hero already has call buttons.
 - Not touched: /en/ (English "tow truck near me" queries at 30–90, low value), /staedte/muenchen/ ("pannenhilfe holzkirchen": Holzkirchen is not covered, no page planned), competitor brand queries ("christophorus abschleppdienst köln").
 - Next targets with the same method: E-Auto abschleppen (34 impr., queries "e-fahrzeug-bergung", "elektroauto abschleppen" at 50–65), Kupplung defekt ("kupplung kaputt weiterfahren" 64), Falsch getankt (43), Umweltzone Köln content (queries "strafe", "karte", "diesel").
+
+## Cycle 46 (2026-10-19): internal links refreshed from current index data
+- Search Console "Pages" report frozen at 84 indexed (last update 12/10). Real count about 100: 99 URLs had impressions 26/09–19/10, and a random sample of 10 other sitemap URLs was 10/10 not indexed (Discovered or unknown).
+- `scripts/index-status.txt` rebuilt from the current sitemap (474 URLs): I = indexed before or had impressions (99), N = the rest (375).
+- Reran `scripts/internal-links.pl`: 307 links on 59 indexed pages; every N page has at least 1 link from an indexed page, 247 of 375 have 3 or more (was 183 with the old status). Cap per page left at 9: 12 or 15 only adds 5–9 pages at 3+, the limit is relevance, not space.
+- Audit unchanged (14 known warnings).
