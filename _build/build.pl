@@ -682,26 +682,21 @@ __DATA__
 === impressum | Impressum | Faster Abschleppdienst | Anbieterkennzeichnung von Faster Abschleppdienst. | page ===
 <section class="page-head"><div class="wrap narrow"><h1>Impressum</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
-<p><mark>ENTWURF: Die markierten Angaben müssen vor der Veröffentlichung ergänzt werden.</mark></p>
 <h2>Angaben gemäß § 5 DDG</h2>
-<p><mark>[Firmenname und Rechtsform laut Handelsregister ergänzen]</mark><br>Am Festungsgraben 2<br>10117 Berlin</p>
-<p>Sitz der Gesellschaft: De Bosschaertstraat 248, 2020 Antwerpen, Belgien</p>
+<p>Abdelkarim El Farkouch<br>Einzelunternehmen nach belgischem Recht, Handelsname „Faster Depannage / Takeldienst“<br>Am Festungsgraben 2<br>10117 Berlin</p>
+<p>Geschäftssitz: De Bosschaertstraat 248, 2020 Antwerpen, Belgien</p>
 <h2>Kontakt</h2>
 <p>Telefon: +49 176 41956993<br>E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
-<h2>Unternehmensregister und Umsatzsteuer</h2>
-<p>Unternehmensnummer (KBO/BCE): <mark>[ergänzen]</mark><br>Umsatzsteuer-Identifikationsnummer (BTW): <mark>[ergänzen]</mark></p>
-<h2>Vertretungsberechtigt</h2>
-<p><mark>[Name des Geschäftsführers ergänzen]</mark></p>
+<h2>Unternehmensregister</h2>
+<p>Eingetragen in der Zentralen Datenbank der Unternehmen Belgiens (KBO/BCE)<br>Unternehmensnummer: 1003.737.489</p>
 <h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2>
-<p><mark>[Name des Geschäftsführers ergänzen]</mark><br>Am Festungsgraben 2<br>10117 Berlin</p>
-<p class="fine">Hinweis: Bitte lassen Sie das Impressum vor der Veröffentlichung von einer fachkundigen Person prüfen.</p>
+<p>Abdelkarim El Farkouch<br>Am Festungsgraben 2<br>10117 Berlin</p>
 </div></section>
 === datenschutz | Datenschutzerklärung | Faster Abschleppdienst | Datenschutzerklärung dieser Website. | page ===
 <section class="page-head"><div class="wrap narrow"><h1>Datenschutzerklärung</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
-<p><mark>ENTWURF: Bitte vor der Veröffentlichung von einer fachkundigen Person prüfen lassen und die markierten Angaben ergänzen.</mark></p>
 <h2>1. Verantwortlicher</h2>
-<p><mark>[Firmenname]</mark>, Am Festungsgraben 2, 10117 Berlin. E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a>, Telefon: +49 176 41956993.</p>
+<p>Abdelkarim El Farkouch (Faster Depannage / Takeldienst), Am Festungsgraben 2, 10117 Berlin. E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a>, Telefon: +49 176 41956993.</p>
 <h2>2. Hosting</h2>
 <p>Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. Beim Aufruf der Seiten verarbeitet GitHub technisch notwendige Daten, insbesondere Ihre IP-Adresse, Datum und Uhrzeit des Zugriffs sowie den verwendeten Browser, in Server-Logdateien. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer funktionsfähigen und sicheren Website). Dabei ist eine Übermittlung personenbezogener Daten in die USA nicht ausgeschlossen; GitHub, Inc. ist unter dem EU-US Data Privacy Framework zertifiziert, das ein angemessenes Datenschutzniveau vorsieht. Weitere Informationen finden Sie in der <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">Datenschutzerklärung von GitHub</a>.</p>
 <h2>3. Kontaktformular</h2>

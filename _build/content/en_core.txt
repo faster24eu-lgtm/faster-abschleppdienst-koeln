@@ -1,26 +1,21 @@
 === en-impressum | Legal Notice | Legal notice (Impressum) for Faster Abschleppdienst. | page ===
 <section class="page-head"><div class="wrap narrow"><h1>Legal Notice</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
-<p><mark>DRAFT: The marked details must be completed before publication.</mark></p>
 <h2>Information under § 5 DDG (German Digital Services Act)</h2>
-<p><mark>[Add company name and legal form as registered]</mark><br>Am Festungsgraben 2<br>10117 Berlin, Germany</p>
-<p>Registered office of the company: De Bosschaertstraat 248, 2020 Antwerp, Belgium</p>
+<p>Abdelkarim El Farkouch<br>Sole proprietorship under Belgian law, trading as “Faster Depannage / Takeldienst”<br>Am Festungsgraben 2<br>10117 Berlin, Germany</p>
+<p>Place of business: De Bosschaertstraat 248, 2020 Antwerp, Belgium</p>
 <h2>Contact</h2>
 <p>Phone: +49 176 41956993<br>Email: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
-<h2>Company register and VAT</h2>
-<p>Company number (KBO/BCE): <mark>[to add]</mark><br>VAT identification number (BTW): <mark>[to add]</mark></p>
-<h2>Authorised representative</h2>
-<p><mark>[Add name of managing director]</mark></p>
+<h2>Company register</h2>
+<p>Registered in the Belgian Crossroads Bank for Enterprises (KBO/BCE)<br>Company number: 1003.737.489</p>
 <h2>Responsible for content under § 18 para. 2 MStV</h2>
-<p><mark>[Add name of managing director]</mark><br>Am Festungsgraben 2<br>10117 Berlin, Germany</p>
-<p class="fine">Note: please have this legal notice reviewed by a qualified professional before publication.</p>
+<p>Abdelkarim El Farkouch<br>Am Festungsgraben 2<br>10117 Berlin, Germany</p>
 </div></section>
 === en-datenschutz | Privacy Policy | Privacy policy for this website. | page ===
 <section class="page-head"><div class="wrap narrow"><h1>Privacy Policy</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
-<p><mark>DRAFT: Please have this reviewed by a qualified professional before publication, and complete the marked details.</mark></p>
 <h2>1. Data controller</h2>
-<p><mark>[Company name]</mark>, Am Festungsgraben 2, 10117 Berlin, Germany. Email: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a>, phone: +49 176 41956993.</p>
+<p>Abdelkarim El Farkouch (Faster Depannage / Takeldienst), Am Festungsgraben 2, 10117 Berlin, Germany. Email: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a>, phone: +49 176 41956993.</p>
 <h2>2. Hosting</h2>
 <p>This website is hosted via GitHub Pages, a service of GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. When you access the pages, GitHub processes technically necessary data in server log files, in particular your IP address, the date and time of access, and the browser used. The legal basis is Art. 6 para. 1 lit. f GDPR (legitimate interest in a functional and secure website). This may involve the transfer of personal data to the USA; GitHub, Inc. is certified under the EU-US Data Privacy Framework, which provides for an adequate level of data protection. More information is available in <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">GitHub's privacy statement</a>.</p>
 <h2>3. Contact form</h2>
