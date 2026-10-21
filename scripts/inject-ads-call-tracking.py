@@ -6,23 +6,23 @@ import re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 BASE = """<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10963026341"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18517785509"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'AW-10963026341');
+  gtag('config', 'AW-18517785509');
 </script>
 """
 
 CONV = """<script>
-  gtag('config', 'AW-10963026341/1eHUCNemnIwdEKWDyuso', {
+  gtag('config', 'AW-18517785509/FgL9CJ2g8KQdEKX3-_1E', {
     'phone_conversion_number': '+49 176 41956993'
   });
 </script>
 """
 
-CONV_ID = "1eHUCNemnIwdEKWDyuso"
+CONV_ID = "FgL9CJ2g8KQdEKX3-_1E"
 
 
 def normalize_visible_phone(html: str) -> str:
@@ -38,7 +38,7 @@ def normalize_visible_phone(html: str) -> str:
 
 def inject(html: str) -> str:
     html = normalize_visible_phone(html)
-    has_base = "gtag/js?id=AW-10963026341" in html or "id=AW-10963026341" in html
+    has_base = "gtag/js?id=AW-18517785509" in html or "id=AW-18517785509" in html
     has_conv = CONV_ID in html
 
     if has_base and has_conv:
@@ -57,10 +57,10 @@ def inject(html: str) -> str:
 
     # Insert conversion immediately after first base config call.
     patterns = [
-        "gtag('config', 'AW-10963026341');",
-        'gtag("config", "AW-10963026341");',
-        "gtag('config','AW-10963026341');",
-        'gtag("config","AW-10963026341");',
+        "gtag('config', 'AW-18517785509');",
+        'gtag("config", "AW-18517785509");',
+        "gtag('config','AW-18517785509');",
+        'gtag("config","AW-18517785509");',
     ]
     for p in patterns:
         i = html.find(p)
@@ -79,7 +79,7 @@ def inject(html: str) -> str:
 
     # Fallback: after first gtag.js script tag pair
     m = re.search(
-        r'<script[^>]+src="https://www.googletagmanager.com/gtag/js\?id=AW-10963026341"[^>]*>\s*</script>',
+        r'<script[^>]+src="https://www.googletagmanager.com/gtag/js\?id=AW-18517785509"[^>]*>\s*</script>',
         html,
         flags=re.I,
     )

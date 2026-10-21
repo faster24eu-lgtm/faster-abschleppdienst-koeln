@@ -13,7 +13,7 @@ for my $f (sort @files) {
   open(my $fh,'<:raw',$f) or next; local $/; my $h = <$fh>; close $fh;
   (my $rel = $f) =~ s/\Q$ROOT\E//;
   my $c_default = () = $h =~ /gtag\('consent', 'default'/g;
-  my $c_gtagjs  = () = $h =~ /googletagmanager\.com\/gtag\/js\?id=AW-10963026341/g;
+  my $c_gtagjs  = () = $h =~ /googletagmanager\.com\/gtag\/js\?id=AW-18517785509/g;
   my $c_config  = () = $h =~ /phone_conversion_number/g;
   my $c_click   = () = $h =~ /phone_click/g;
   print "! $rel: consent-default x$c_default (want 1)\n" and $errors++ if $c_default != 1;

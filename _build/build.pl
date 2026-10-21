@@ -48,14 +48,14 @@ gtag('consent', 'default', {
 });
 </script>
 EOT
-# Google tag (Google Ads AW-10963026341) with call conversion / phone-swap config.
+# Google tag (Google Ads AW-18517785509) with call conversion / phone-swap config.
 # Phone number below must match the visible text exactly ("+49 176 41956993") for the number-swap to work.
 my $gtag_script = <<'EOT';
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10963026341"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18517785509"></script>
 <script>
 gtag('js', new Date());
-gtag('config', 'AW-10963026341');
-gtag('config', 'AW-10963026341/1eHUCNemnIwdEKWDyuso', {
+gtag('config', 'AW-18517785509');
+gtag('config', 'AW-18517785509/FgL9CJ2g8KQdEKX3-_1E', {
   'phone_conversion_number': '+49 176 41956993'
 });
 </script>
