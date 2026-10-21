@@ -17,8 +17,8 @@
 </script>
 
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Auto verschrotten lassen – kostenlose Abholung | Faster</title>
-<meta name="description" content="Auto verschrotten lassen: kostenlose Abholung, Verwertungsnachweis inklusive – und je nach Zustand gibt es noch Geld für Ihr Altauto. Anrufen oder WhatsApp.">
+<title>Auto verschrotten lassen | Kostenlose Abholung | Faster</title>
+<meta name="description" content="Auto verschrotten lassen: Altauto, Unfallwagen oder ohne TÜV – kostenlose Abholung, je nach Zustand gibt es Geld. Verwertungsnachweis inklusive.">
 <link rel="canonical" href="https://abschleppdienst-faster.de/autoentsorgung/">
 <link rel="alternate" hreflang="de" href="https://abschleppdienst-faster.de/autoentsorgung/">
 <link rel="alternate" hreflang="en" href="https://abschleppdienst-faster.de/en/autoentsorgung/">
@@ -36,8 +36,8 @@
 <main>
 <section class="page-head"><div class="wrap">
 <p class="eyebrow">Autoentsorgung</p>
-<h1>Auto verschrotten lassen – wir holen es kostenlos ab</h1>
-<p class="lead">Wrack, Unfallauto, ohne TÜV oder einfach zu alt: Wir holen Ihr Auto kostenlos ab, Sie bekommen den Verwertungsnachweis – und je nach Zustand zahlen wir Ihnen sogar noch etwas dafür. Foto per WhatsApp schicken, wir melden uns mit einem Angebot.</p>
+<h1>Auto verschrotten <span data-ort>lassen</span> – Kostenlose Abholung</h1>
+<p class="lead">Altauto, Unfallwagen oder ohne TÜV: Kostenlose Abholung – je nach Zustand gibt es Geld. Foto per WhatsApp schicken – wir sagen sofort, was Ihr Auto noch wert ist. Sie erhalten den Verwertungsnachweis für die Abmeldung.</p>
 <div class="actions"><a class="btn btn-wa" href="https://wa.me/4917641956993?text=Hallo%20Faster%2C%20Autoentsorgung" target="_blank" rel="noopener">WhatsApp</a><a class="btn btn-y" href="tel:+4917641956993">Anrufen</a></div>
 </div></section>
 <section class="section"><div class="wrap narrow copy">
@@ -110,5 +110,9 @@
   var dec = document.getElementById('cookie-decline'); if (dec) dec.addEventListener('click', function(){ store('denied'); apply('denied'); if (banner) banner.hidden = true; });
   window.openCookieBanner = function(e){ if (e) e.preventDefault(); if (banner) banner.hidden = false; return false; };
 })();
+</script>
+<script>
+/* ?ort=Koeln-style city from a city ad: the H1 then reads "Auto verschrotten in <city>" like the ad headline. Letters, spaces and hyphens only. */
+(function(){try{var o=new URLSearchParams(location.search).get("ort");if(!o)return;o=o.trim();if(!/^[A-Za-zÄÖÜäöüß .\-]{2,30}$/.test(o))return;document.querySelectorAll("[data-ort]").forEach(function(e){e.textContent="in "+o;});}catch(e){}})();
 </script>
 </body></html>
