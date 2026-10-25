@@ -16,7 +16,7 @@ my $footer = <<'EOT';
   <div><strong>Kontakt</strong><p><a href="tel:+4917641956993">+49 176 41956993</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Adresse: Am Festungsgraben 2<br>10117 Berlin</p></div>
   <div><strong>Köln</strong><p><a href="index.html">Abschleppdienst Köln</a><br><a href="pannenhilfe-koeln.html">Pannenhilfe Köln</a><br><a href="abschleppen-bergung-koeln.html">Abschleppen &amp; Bergung Köln</a><br><a href="abschleppdienst-koeln-stadtteile.html">Stadtbezirke und Rheinbrücken</a><br><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a><br><a href="pannenhilfe-a3-koeln.html">Panne auf der A3</a><br><a href="pannenhilfe-a4-koeln.html">Panne auf der A4</a><br><a href="pannenhilfe-a1-koeln.html">Panne auf der A1</a></p></div>
   <div><strong>Karlsruhe bis Offenburg</strong><p><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden</a><br><a href="abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="abschleppdienst-a5.html">Panne auf der A5</a></p></div>
-  <div><strong>Ratgeber &amp; Rechtliches</strong><p><a href="staedte.html">Alle Städte</a><br><a href="bundeslaender.html">Bundesländer</a><br><a href="autobahnen.html">Autobahnen</a><br><a href="ratgeber.html">Alle Ratgeber</a><br><a href="kontakt.html">Kontakt</a><br><a href="impressum.html">Impressum</a><br><a href="datenschutz.html">Datenschutz</a><br><a href="#" onclick="return window.openCookieBanner &amp;&amp; window.openCookieBanner(event)">Cookie-Einstellungen</a></p></div>
+  <div><strong>Ratgeber &amp; Rechtliches</strong><p><a href="staedte.html">Alle Städte</a><br><a href="autobahnen.html">Autobahnen</a><br><a href="ratgeber.html">Alle Ratgeber</a><br><a href="kontakt.html">Kontakt</a><br><a href="impressum.html">Impressum</a><br><a href="datenschutz.html">Datenschutz</a><br><a href="#" onclick="return window.openCookieBanner &amp;&amp; window.openCookieBanner(event)">Cookie-Einstellungen</a></p></div>
 </div><div class="wrap foot-bottom">© 2026 Faster Abschleppdienst</div><div class="faster-network" style="max-width:1200px;margin:0 auto;padding:14px 20px;font-size:13px;line-height:1.6;opacity:.85;display:flex;flex-wrap:wrap;gap:4px 16px"><span>Faster in Europa:</span> <a href="https://takeldienst-depannage.com/" hreflang="nl-BE" style="color:inherit;text-decoration:underline">Belgi&euml; &ndash; Takeldienst</a> <a href="https://sleepdienstfaster.nl/" hreflang="nl-NL" style="color:inherit;text-decoration:underline">Nederland &ndash; Sleepdienst</a> <a href="https://fasterbreakdownrecovery.co.uk/" hreflang="en-GB" style="color:inherit;text-decoration:underline">United Kingdom &ndash; Breakdown recovery</a></div></footer>
 EOT
 # English mirror of header/footer. Nav/footer links point to en-* pages where they exist yet, otherwise
@@ -214,6 +214,7 @@ my %RELATED = ();
 }
 sub related_for {
   my $slug = shift; my $r = $RELATED{$slug} or return '';
+  $r = [grep { my ($t) = $_->[0] =~ /^([a-z0-9-]+)\.html/; !($t && defined main::gone_to($t)) } @$r]; return '' unless @$r;
   my $h = join('', map { sprintf('<a href="%s">%s<small>%s</small></a>', $_->[0], $_->[1], $_->[2]//'') } @$r);
   return qq{\n<section class="section"><div class="wrap narrow"><h2>Weiterlesen</h2><div class="related">$h</div></div></section>\n};
 }
@@ -268,7 +269,7 @@ sub depth_of { my $pa=shift; return $pa eq '' ? 0 : scalar(split m{/}, $pa); }
 sub relurl { my ($from,$to)=@_; my $d=depth_of($from); my $up = $d ? ('../' x $d) : './'; return $to eq '' ? $up : ($d ? $up : './').$to.'/'; }
 sub fix_links {
   my ($html,$from)=@_; my $d=depth_of($from); my $R = $d ? ('../' x $d) : '';
-  $html =~ s{href="([a-z0-9-]+)\.html((?:\#[^"]*)?)"}{ exists $PATH{$1} || $1 =~ /^(ratgeber-.+|kontakt|impressum|datenschutz|danke)$/ ? 'href="'.relurl($from,path_for($1)).$2.'"' : qq{href="$1.html$2"} }ge;
+  $html =~ s{href="([a-z0-9-]+)\.html((?:\#[^"]*)?)"}{ my ($s,$f) = ($1,$2); exists $PATH{$s} || $s =~ /^(ratgeber-.+|kontakt|impressum|datenschutz|danke)$/ ? 'href="'.relurl($from,path_for($s)).$f.'"' : qq{href="$s.html$f"} }ge;
   $html =~ s{(href|src)="(assets/[^"]+|styles\.css)"}{$1="$R$2"}g;
   return $html;
 }
@@ -366,6 +367,21 @@ $CRUMB_PARENT{'ratgeber-panne-im-tunnel'} = ['ratgeber','Panne im Tunnel'];
 $CRUMB_PARENT{'ratgeber-umweltzone-koeln'} = ['ratgeber','Umweltzone Köln'];
 $CRUMB_PARENT{'ratgeber-abschleppen-koeln-kosten'} = ['ratgeber','Kosten in Köln'];
 $CRUMB_LABEL{'home'} = 'Start';
+# ---- Cut (2026-10-25): a young domain can't get 474 pages crawled. Search Console showed most small city
+# pages "discovered, not indexed", Bundesland pages at ~73 and /en/ at ~40, so they are gone.
+# KEEP_CITY = city pages that already had impressions. %GONE maps a removed slug to where its links and old
+# URL now point ('' = links become plain text, the URL 404s).
+my %KEEP_CITY = map { ("stadt-$_" => 1) } qw(aachen berlin bonn bremen chemnitz cottbus dormagen dortmund dresden duesseldorf duisburg essen frankfurt goerlitz hamburg ingolstadt kassel leipzig leverkusen luebeck muenchen passau ratingen stuttgart weimar zwickau);
+my %GONE = ('abschleppen-bergung-koeln' => 'index', 'bundeslaender' => 'staedte');   # bergung: same intent as /koeln/
+for my $s (keys %PATH) { $GONE{$s} = $P{substr($s,3)} ? substr($s,3) : 'home' if $s =~ /^en-/; }
+for my $s (keys %P) {
+  if ($s =~ /^en-/) { $GONE{$s} = $P{substr($s,3)} ? substr($s,3) : 'home'; }
+  elsif ($s =~ /^stadt-/ && !$KEEP_CITY{$s}) { $GONE{$s} = ''; }
+}
+for my $s (keys %GONE) { my $t = $GONE{$s}; $t = $GONE{$t} while $t ne q() && exists $GONE{$t}; $GONE{$s} = $t eq q() && $s =~ /^en-/ ? q(staedte) : $t; }
+delete @P{keys %GONE};
+@order = grep { $P{$_} } @order;
+sub gone_to { my $s = shift; return exists $GONE{$s} ? $GONE{$s} : $s =~ /^bl-/ ? 'staedte' : undef }
 # ---- Germany-wide layer: content/geo.txt lists city / Autobahn pages (slug<TAB>label<TAB>group). stadt-* -> /staedte/<x>/, autobahn-* -> /autobahnen/<x>/. Hubs are generated. ----
 my (@GEO_CITY,@GEO_AB);
 {
@@ -403,42 +419,17 @@ my (@GEO_CITY,@GEO_AB);
   my %BYST; push @{$BYST{$_->[2]}}, $_ for @GEO_CITY;
   my %LABEL = map { $_->[0] => $_->[1] } @GEO_CITY;
   my %STATE = map { $_->[0] => $_->[2] } @GEO_CITY;
-  my %INTRO;
-  if (open(my $sf,'<:raw',"$Bin/content/bundeslaender.txt")) { my $k; while (my $l=<$sf>) { if ($l =~ /^=== (.+?) ===\s*$/) { $k=$1; next } $INTRO{$k} .= $l if defined $k } close $sf }
-  my $wabtn = '<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p>';
-  # Bundesland hubs
   my @states = sort keys %BYST;
-  for my $name (@states) {
-    my $sl = $blslug->($name); my $slug = "bl-$sl"; $PATH{$slug} = "bundeslaender/$sl"; $CRUMB_PARENT{$slug} = ['home', $esc->($name)];
-    my $n = $esc->($name); my @c = sort { $a->[1] cmp $b->[1] } @{$BYST{$name}};
-    my $links = join(', ', map { qq{<a href="$_->[0].html">$_->[1]</a>} } @c);
-    my $intro_raw = $INTRO{$name} // '';
-    my ($intro, $extra_faq) = split /\@\@FAQ\@\@\n/, $intro_raw, 2; $intro //= ''; $extra_faq //= '';
-    my $cnt = scalar(@c);
-    $P{$slug} = { title => "Abschleppdienst in $n: Städte, Autobahnen | Faster Abschleppdienst",
-      desc => "Pannenhilfe und Abschleppen in $n: Städte mit eigenen Seiten, wichtige Autobahnen und Hinweise, wie Sie Ihren Standort nennen.", flag => 'hub',
-      body => qq{<!--AREAS: $n -->\n<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bundesland</p><h1>Abschleppdienst in $n</h1><p class="lead">Unten stehen die Autobahnen und die Stellen, an denen eine Panne in $n typisch ist, danach die Städte mit eigener Seite.</p>$wabtn</div></section>\n<section class="section"><div class="wrap narrow copy">\n$intro<h2>Städte in $n mit eigener Seite</h2>\n<p>$links</p>\n</div></section>\n}.($extra_faq =~ /\S/ ? qq{<section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen zu $n</h2>\n$extra_faq</div></section>\n} : '').qq{\@\@CTA\@\@\n} };
-    push @order, $slug unless grep { $_ eq $slug } @order;
-  }
-  # Bundeslaender index
-  $PATH{'bundeslaender'} = 'bundeslaender'; $CRUMB_PARENT{'bundeslaender'} = ['home','Bundesländer'];
-  { my $rows = join('', map { my $nm=$_; my $sl=$blslug->($nm); my $c=scalar(@{$BYST{$nm}}); '<li><a href="bl-'.$sl.'.html">'.$esc->($nm)."</a> ($c)</li>\n" } @states);
-    $P{'bundeslaender'} = { title => 'Abschleppdienst nach Bundesland | Faster Abschleppdienst', desc => 'Abschleppdienst und Pannenhilfe in allen Bundesländern: Übersicht mit Städten, Autobahnen und Hinweisen für Ihren Standort.', flag => 'hub',
-      body => qq{<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Deutschlandweit</p><h1>Abschleppdienst nach Bundesland</h1><p class="lead">Wählen Sie Ihr Bundesland. Dort finden Sie die Städte mit eigenen Seiten und die wichtigsten Autobahnen.</p></div></section>\n<section class="section"><div class="wrap narrow copy"><ul class="citylist" style="columns:2">\n$rows</ul>\n<p>Alle Städte alphabetisch nach Bundesland: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>. Die Autobahnen: <a href="autobahnen.html">Pannenhilfe auf der Autobahn</a>.</p></div></section>\n\@\@CTA\@\@\n} };
-    push @order, 'bundeslaender'; }
   # /staedte/ index grouped by Bundesland with search
-  { my $sec = join('', map { my $nm=$_; my $sl=$blslug->($nm); '<div class="cityblock"><h2><a href="bl-'.$sl.'.html">'.$esc->($nm).'</a></h2><ul class="citylist">'.join('', map { qq{<li><a href="$_->[0].html">$_->[1]</a></li>} } sort { $a->[1] cmp $b->[1] } @{$BYST{$nm}})."</ul></div>\n" } @states);
+  { my $sec = join('', map { my $nm=$_; my $sl=$blslug->($nm); '<div class="cityblock"><h2>'.$esc->($nm).'</h2><ul class="citylist">'.join('', map { qq{<li><a href="$_->[0].html">$_->[1]</a></li>} } sort { $a->[1] cmp $b->[1] } @{$BYST{$nm}})."</ul></div>\n" } @states);
     my $js = q{<script>(function(){var q=document.getElementById('cityq');if(!q){return;}var items=document.querySelectorAll('.citylist li');var blocks=document.querySelectorAll('.cityblock');q.addEventListener('input',function(){var v=q.value.trim().toLowerCase();for(var i=0;i<items.length;i++){items[i].style.display=(!v||items[i].textContent.toLowerCase().indexOf(v)>-1)?'':'none';}for(var j=0;j<blocks.length;j++){var lis=blocks[j].querySelectorAll('li');var any=false;for(var k=0;k<lis.length;k++){if(lis[k].style.display!=='none'){any=true;}}blocks[j].style.display=any?'':'none';}});})();</script>};
-    $P{'staedte'}{body} = qq{<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Deutschlandweit</p><h1>Abschleppdienst in Ihrer Stadt</h1><p class="lead">Zu jeder Stadt in dieser Übersicht gibt es eine eigene Seite mit Stadtteilen, Autobahnen und Hinweisen, wie Sie Ihren Standort beschreiben. Rufen Sie an oder schreiben Sie per WhatsApp: wir organisieren die Hilfe.</p></div></section>\n<section class="section"><div class="wrap narrow copy"><p><label for="cityq"><strong>Stadt suchen</strong></label><br><input class="citysearch" id="cityq" type="search" placeholder="Stadt eingeben, zum Beispiel Kassel" autocomplete="off"></p>\n$sec<h2>Ihre Stadt fehlt?</h2><p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze in Deutschland übernehmen Partner vor Ort. Wenn Ihre Stadt hier noch nicht aufgeführt ist, rufen Sie trotzdem an oder schreiben Sie uns per WhatsApp mit Ihrem Standort: wir klären dann, welcher Partner in Frage kommt. Auf den <a href="autobahnen.html">Autobahn-Seiten</a> finden Sie Ausfahrten und Hinweise zu den wichtigsten Strecken, die Bundesländer finden Sie unter <a href="bundeslaender.html">Bundesländer</a>.</p>\n</div></section>\n$js\n\@\@CTA\@\@\n};  }
+    $P{'staedte'}{body} = qq{<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Deutschlandweit</p><h1>Abschleppdienst in Ihrer Stadt</h1><p class="lead">Zu jeder Stadt in dieser Übersicht gibt es eine eigene Seite mit Stadtteilen, Autobahnen und Hinweisen, wie Sie Ihren Standort beschreiben. Rufen Sie an oder schreiben Sie per WhatsApp: wir organisieren die Hilfe.</p></div></section>\n<section class="section"><div class="wrap narrow copy"><p><label for="cityq"><strong>Stadt suchen</strong></label><br><input class="citysearch" id="cityq" type="search" placeholder="Stadt eingeben, zum Beispiel Kassel" autocomplete="off"></p>\n$sec<h2>Ihre Stadt fehlt?</h2><p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze in Deutschland übernehmen Partner vor Ort. Wenn Ihre Stadt hier noch nicht aufgeführt ist, rufen Sie trotzdem an oder schreiben Sie uns per WhatsApp mit Ihrem Standort: wir klären dann, welcher Partner in Frage kommt. Auf den <a href="autobahnen.html">Autobahn-Seiten</a> finden Sie Ausfahrten und Hinweise zu den wichtigsten Strecken.</p>\n</div></section>\n$js\n\@\@CTA\@\@\n};  }
   # city pages: crumbs -> Bundesland, neighbours, services block, extra FAQ
   my %NB; if (open(my $nf,'<:raw',"$Bin/content/geo_nb.txt")) { while (my $l=<$nf>) { chomp $l; next if $l =~ /^\s*(#|$)/; my ($s,$n,$a)=split /\t/,$l; $NB{$s}=[$n//'',$a//''] } close $nf }
   my $tok = sub { my $t=shift; return 'index' if $t eq 'koeln'; return 'abschleppdienst-karlsruhe' if $t eq 'karlsruhe'; return "stadt-$t" };
   my $abslug = sub { my $t=shift; return 'autobahn-a5-hessen-baden' if $t eq 'a5'; return "autobahn-$t" };
   for my $c (@GEO_CITY) {
     my ($slug,$lab,$state) = @$c; next unless $slug =~ /^stadt-/;
-    my $ssl = $blslug->($state);
-    $CRUMB_PARENT{$slug} = ["bl-$ssl", $lab];
-    $CRUMB_PARENT{"bl-$ssl"} = ['home', $esc->($state)];
     my $b = $P{$slug}{body};
     # The old block rewrote "Was wir in X tun" into eight paraphrases of the same
     # four steps, then added the same service list and price FAQ on every city.
@@ -473,7 +464,7 @@ my (@GEO_CITY,@GEO_AB);
     my @abs = grep { $P{$_} } map { $abslug->($_) } split /,/, ($NB{$slug}[1] // '');
     my $nblinks = join(', ', map { qq{<a href="$_.html">}.($LABEL{$_} // $_).'</a>' } @nbs);
     my $ablinks = join(', ', map { my $t=$_; $t =~ s/^autobahn-//; $t =~ s/-.*//; qq{<a href="$_.html">Pannenhilfe auf der A}.substr($t,1).'</a>' } @abs);
-    my $near = '<h2>In der Nähe von '.$lab.'</h2><p>'.($nblinks ? "Nachbarstädte mit eigener Seite: $nblinks. " : '').'Übersicht für das Bundesland: <a href="bl-'.$ssl.'.html">Abschleppdienst in '.$esc->($state).'</a>.'.($ablinks ? " Autobahnseiten zur Strecke: $ablinks." : '').'</p>';
+    my $near = '<h2>In der Nähe von '.$lab.'</h2><p>'.($nblinks ? "Nachbarstädte mit eigener Seite: $nblinks. " : '').'Alle Städte: <a href="staedte.html">Abschleppdienst in Ihrer Stadt</a>.'.($ablinks ? " Autobahnseiten zur Strecke: $ablinks." : '').'</p>';
     my $m1 = "</div></section>\n<section class=\"section grey\">"; my $i1 = index($b,$m1);
     if ($i1 >= 0) { substr($b,$i1,0) = $near; } else { warn "no marker in $slug\n"; }
     my $nbl = join(', ', map { ($LABEL{$_} // $_) } @nbs); $nbl =~ s/<[^>]+>//g;
@@ -487,6 +478,20 @@ my (@GEO_CITY,@GEO_AB);
     $P{$slug}{body} = $b;
   }
 }
+
+# Köln: /koeln/ owns "Abschleppdienst Köln", /koeln/pannenhilfe/ owns "Pannenhilfe/Pannendienst Köln",
+# district pages lead with the district name instead of repeating "Abschleppdienst Köln".
+$P{"koeln-$_"}{title} = "Abschleppdienst $DISTRICT{$_} (Köln): Pannenhilfe 24/7" for grep { $P{"koeln-$_"} } keys %DISTRICT;
+# Guides already on page 1 with almost no clicks: answer the question in the title and description.
+my %RETITLE = (
+  'ratgeber-automatik-abschleppen' => ['Automatikauto abschleppen: Ja, in N und max. 50 km/h',
+    'Ja, aber nur kurz: Wählhebel auf N, langsam, wenige Kilometer. Wann das Getriebe leidet und wann nur der Abschleppwagen hilft. 24/7 erreichbar.'],
+  'ratgeber-transporter-abschleppen' => ['Transporter &amp; Bus abschleppen: Sprinter bis 3,5 t',
+    'Sprinter, Transit oder Kleinbus liegengeblieben? Ob Sie selbst abschleppen dürfen, was der Abschleppwagen wissen muss und was Sie am Telefon sagen. 24/7.'],
+  'ratgeber-tiefgarage-parkhaus-liegengeblieben' => ['Auto in Tiefgarage oder Parkhaus liegengeblieben? So geht’s',
+    'Panne in Tiefgarage oder Parkhaus: Durchfahrtshöhe prüfen, Fahrzeug sichern, die richtigen Angaben machen. Wir organisieren die Bergung, 24/7 erreichbar.'],
+);
+for my $s (keys %RETITLE) { next unless $P{$s}; $P{$s}{title} = $RETITLE{$s}[0]; $P{$s}{desc} = $RETITLE{$s}[1]; }
 
 sub service_ld {
   my ($slug,$name,$curl,$areas,$is_en)=@_;
@@ -526,7 +531,7 @@ for my $slug (@order) {
   # to the English homepage, so the button always works); English pages always link back to their German original.
   my $counterpart = $TRANSLATE{$slug};
   my ($switch_slug, $switch_label) = $is_en ? ($counterpart, 'DE') : ($counterpart // 'en-home', 'EN');
-  my $langswitch = qq{<a class="btn-lang" href="$switch_slug.html" aria-label="}.($is_en ? 'Auf Deutsch anzeigen' : 'View in English').qq{">$switch_label</a>};
+  my $langswitch = !$P{$switch_slug} ? '' : qq{<a class="btn-lang" href="$switch_slug.html" aria-label="}.($is_en ? 'Auf Deutsch anzeigen' : 'View in English').qq{">$switch_label</a>};
   # header with region menu (English pages get the English nav labels, same target region)
   my $menuset = $is_en ? $MENU_EN{$region} : $MENU{$region};
   my $menu = join('', map { sprintf('<a href="%s.html">%s</a>', $_->[1], $_->[0]) } @$menuset);
@@ -583,6 +588,8 @@ for my $slug (@order) {
   warn "DESC>155 ($slug): ".plainlen($p->{desc})."\n" if plainlen($p->{desc}) > 155;
   my $html = qq{<!doctype html>\n<html lang="}.($is_en?'en':'de').qq{">\n<head>\n<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">\n<title>$tt</title>\n<meta name="description" content="$p->{desc}">\n$robots$canon$hreflang$og<meta name="theme-color" content="#121212">\n<link rel="icon" href="assets/favicon.ico" sizes="any"><link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">\n<link rel="stylesheet" href="styles.css">\n$consent_default$gtag_script$click_script$json</head>\n<body>\n$hdr<main>\n$crumbs$body</main>\n$ftr$cbanner</body>\n</html>\n};
   $html =~ s/<\/head>/<!-- GSC-VERIFICATION -->\n<\/head>/ if $slug eq 'home';
+  # links to removed pages: point at their replacement, or keep just the text
+  $html =~ s{<a href="([a-z0-9-]+)\.html"[^>]*>(.*?)</a>}{ my ($all,$s,$t) = ($&,$1,$2); my $g = gone_to($s); !defined $g ? $all : $g eq '' ? $t : qq{<a href="$g.html">$t</a>} }gse;
   $html = fix_links($html,$path);
   my $dir = $path eq '' ? $OUT : "$OUT/$path";
   require File::Path; File::Path::make_path($dir);
@@ -594,6 +601,20 @@ for my $slug (@order) {
   for my $u (@SITEMAP) { $x .= "  <url><loc>$u->[0]</loc><lastmod>$TODAY</lastmod></url>\n"; }
   $x .= "</urlset>\n";
   open(my $sm,'>:raw',"$OUT/sitemap.xml") or die; print $sm $x; close $sm; print "wrote sitemap.xml (".scalar(@SITEMAP)." urls)\n";
+}
+# removed pages: old URL forwards to the replacement page, or the folder is deleted (404)
+{
+  require File::Path;
+  my %stub = map { my $t = $GONE{$_}; ($t eq '' ? () : (path_for($_) => $t)) } keys %GONE;
+  $stub{"bundeslaender/$_"} = 'staedte' for map { m{/bundeslaender/([^/]+)/?$} ? $1 : () } grep { -d } glob("$OUT/bundeslaender/*");
+  for my $old (sort keys %stub) {
+    my $to = path_for($stub{$old}); my $u = $to eq '' ? $BASE : "$BASE$to/";
+    File::Path::make_path("$OUT/$old");
+    open(my $o,'>:raw',"$OUT/$old/index.html") or die; print $o qq{<!doctype html>\n<html lang="de"><head><meta charset="utf-8"><title>Weitergeleitet</title><link rel="canonical" href="$u"><meta name="robots" content="noindex"><meta http-equiv="refresh" content="0; url=$u"></head><body><p><a href="$u">Weiter zu $u</a></p></body></html>\n}; close $o;
+  }
+  my @del = grep { -d } map { m/^stadt-(.+)$/ ? "$OUT/staedte/$1" : () } grep { $GONE{$_} eq '' } keys %GONE;
+  File::Path::remove_tree(@del) if @del;
+  print "redirects: ".scalar(keys %stub).", removed folders: ".scalar(@del)."\n";
 }
 
 __DATA__

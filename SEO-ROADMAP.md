@@ -407,3 +407,12 @@ Owner confirmed 2026-10-21 (all five true): (1) pickup "oft innerhalb von 1 Stun
 
 ## 2026-10-21 – Google Ads policy fix ("Government documents & official services")
 Ads flagged /autoentsorgung/. Removed every mention of Verwertungsnachweis, Zulassungsstelle/-behörde/-bescheinigung, Abmeldung, Kennzeichen, Kfz-Steuer, Fahrzeugpapiere and the Altfahrzeug-Verordnung from /autoentsorgung/, /en/autoentsorgung/ and the Ads page /autowrack-verkaufen/ (incl. meta description and FAQ JSON-LD). "Was das Gesetz verlangt" + "Abmelden nicht vergessen" replaced by one sentence: "Die Verwertung übernimmt ein anerkannter Partnerbetrieb." Home and /leistungen/ (DE+EN) were already clean. Do not reintroduce these terms on Ads landing pages; /ratgeber/ left unchanged.
+
+## 2026-10-25 – Cut to the pages that can rank (474 → 172 sitemap URLs)
+Search Console (30 days): only ~110 of 474 sitemap URLs had impressions; most small city pages "Discovered – currently not indexed"; Bundesland pages averaged position ~73, /en/ ~40.
+- Deleted (404): 194 city pages without impressions. Kept 26 cities that had impressions: aachen berlin bonn bremen chemnitz cottbus dormagen dortmund dresden duesseldorf duisburg essen frankfurt goerlitz hamburg ingolstadt kassel leipzig leverkusen luebeck muenchen passau ratingen stuttgart weimar zwickau. All 69 Autobahn pages stay.
+- Redirect stubs (meta refresh + canonical, noindex): all of /en/ → German counterpart (or /staedte/, /), /bundeslaender/* → /staedte/, /koeln/abschleppen-bergung/ → /koeln/ (it competed with /koeln/ for "Abschleppdienst Köln").
+- Links on kept pages rewritten: EN button and hreflang removed, Bundesland breadcrumbs → Städte (HTML + JSON-LD), footer "Bundesländer" and "Abschleppen & Bergung Köln" removed, neighbour lists and "Weitere Einsatzgebiete" cards pointing at deleted cities dropped. 0 broken links.
+- Köln overlap: district titles lead with the district ("Abschleppdienst Porz (Köln): Pannenhilfe 24/7"); /koeln/ and /koeln/pannenhilfe/ titles unchanged (already "Abschleppdienst Köln…" / "Pannenhilfe & Pannendienst Köln…").
+- Page-1 guides retitled to answer the query: Automatik (pos. 9.9, 502 impr., 2 clicks), Transporter (7.6), Tiefgarage (11.4).
+- Done in the HTML with a one-off script; `_build/build.pl` carries the same rules (`%KEEP_CITY`, `%GONE`, titles) but is still out of sync with the live HTML, see cycle 44. Re-check positions/clicks from ~2026-11-15.
