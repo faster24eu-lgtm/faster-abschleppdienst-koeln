@@ -371,7 +371,7 @@ $CRUMB_LABEL{'home'} = 'Start';
 # pages "discovered, not indexed", Bundesland pages at ~73 and /en/ at ~40, so they are gone.
 # KEEP_CITY = city pages that already had impressions. %GONE maps a removed slug to where its links and old
 # URL now point ('' = links become plain text, the URL 404s).
-my %KEEP_CITY = map { ("stadt-$_" => 1) } qw(aachen berlin bonn bremen chemnitz cottbus dormagen dortmund dresden duesseldorf duisburg essen frankfurt goerlitz hamburg ingolstadt kassel leipzig leverkusen luebeck muenchen passau ratingen stuttgart weimar zwickau);
+my %KEEP_CITY = map { ("stadt-$_" => 1) } qw(aachen bonn dormagen duesseldorf duisburg essen leverkusen ratingen);
 my %GONE = ('abschleppen-bergung-koeln' => 'index', 'bundeslaender' => 'staedte');   # bergung: same intent as /koeln/
 for my $s (keys %PATH) { $GONE{$s} = $P{substr($s,3)} ? substr($s,3) : 'home' if $s =~ /^en-/; }
 for my $s (keys %P) {
@@ -484,8 +484,8 @@ my (@GEO_CITY,@GEO_AB);
 $P{"koeln-$_"}{title} = "Abschleppdienst $DISTRICT{$_} (Köln): Pannenhilfe 24/7" for grep { $P{"koeln-$_"} } keys %DISTRICT;
 # Guides already on page 1 with almost no clicks: answer the question in the title and description.
 my %RETITLE = (
-  'ratgeber-automatik-abschleppen' => ['Automatikauto abschleppen: Ja, in N und max. 50 km/h',
-    'Ja, aber nur kurz: Wählhebel auf N, langsam, wenige Kilometer. Wann das Getriebe leidet und wann nur der Abschleppwagen hilft. 24/7 erreichbar.'],
+  'ratgeber-automatik-abschleppen' => ['Automatikauto abschleppen: Wann das Getriebe Schaden nimmt',
+    'Seil, Stange oder Abschleppwagen? Tabelle nach Getriebeart (Wandler, DSG, CVT, Hybrid, Allrad) und was hilft, wenn der Wählhebel in P klemmt.'],
   'ratgeber-transporter-abschleppen' => ['Transporter &amp; Bus abschleppen: Sprinter bis 3,5 t',
     'Sprinter, Transit oder Kleinbus liegengeblieben? Ob Sie selbst abschleppen dürfen, was der Abschleppwagen wissen muss und was Sie am Telefon sagen. 24/7.'],
   'ratgeber-tiefgarage-parkhaus-liegengeblieben' => ['Auto in Tiefgarage oder Parkhaus liegengeblieben? So geht’s',

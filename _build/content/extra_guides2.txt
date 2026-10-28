@@ -91,6 +91,17 @@
 <li><strong>Langsam und kurz:</strong> Viele Hersteller nennen höchstens etwa 50&nbsp;km/h und eine Strecke von einigen Dutzend Kilometern, manche deutlich weniger. Längere Strecken oder höheres Tempo führen schnell zu Getriebeschäden.</li>
 <li><strong>Betriebsanleitung lesen:</strong> Dort steht, ob und wie Ihr Modell abgeschleppt werden darf. Die Angaben unterscheiden sich von Hersteller zu Hersteller deutlich.</li>
 </ul>
+<h2>Abschleppen nach Getriebeart</h2>
+<p>Die Werte sind typische Herstellerangaben, keine Garantie. Maßgeblich ist die Betriebsanleitung Ihres Modells.</p>
+<div class="tblwrap"><table class="tbl"><thead><tr><th>Getriebe / Antrieb</th><th>Mit Seil oder Stange?</th><th>Typische Grenze</th></tr></thead><tbody>
+<tr><td>Wandlerautomatik (klassische Automatik)</td><td>Meist ja, Wählhebel auf N</td><td>oft höchstens 50&nbsp;km/h und etwa 50&nbsp;km, manchmal weniger</td></tr>
+<tr><td>Doppelkupplung (DSG, S tronic, PDK)</td><td>Bei vielen Modellen ja, auf N</td><td>oft ähnlich wie Wandler, bei manchen deutlich kürzer</td></tr>
+<tr><td>Stufenlos (CVT)</td><td>Nur wenn ausdrücklich erlaubt</td><td>häufig nur sehr kurze Strecken oder gar nicht</td></tr>
+<tr><td>Hybrid</td><td>Meist nein</td><td>oft nur mit angehobenen Antriebsrädern oder auf dem Plateau</td></tr>
+<tr><td>Elektroauto</td><td>Nein</td><td>nur verladen, siehe <a href="ratgeber-e-auto-abschleppen.html">E-Auto abschleppen</a></td></tr>
+<tr><td>Allrad mit Automatik</td><td>Meist nein</td><td>nur verladen, damit kein Rad dreht</td></tr>
+<tr><td>Wählhebel klemmt in P</td><td>Nein</td><td>Notentriegelung oder Abschleppwagen mit Seilwinde</td></tr>
+</tbody></table></div>
 <h2>So schleppen Sie ein Automatikauto richtig ab</h2>
 <ol>
 <li><strong>Betriebsanleitung prüfen:</strong> Ist Abschleppen erlaubt, und mit welcher Höchstgeschwindigkeit und Strecke?</li>
