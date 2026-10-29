@@ -416,3 +416,11 @@ Search Console (30 days): only ~110 of 474 sitemap URLs had impressions; most sm
 - Köln overlap: district titles lead with the district ("Abschleppdienst Porz (Köln): Pannenhilfe 24/7"); /koeln/ and /koeln/pannenhilfe/ titles unchanged (already "Abschleppdienst Köln…" / "Pannenhilfe & Pannendienst Köln…").
 - Page-1 guides retitled to answer the query: Automatik (pos. 9.9, 502 impr., 2 clicks), Transporter (7.6), Tiefgarage (11.4).
 - Done in the HTML with a one-off script; `_build/build.pl` carries the same rules (`%KEEP_CITY`, `%GONE`, titles) but is still out of sync with the live HTML, see cycle 44. Re-check positions/clicks from ~2026-11-15.
+
+## 2026-10-29 – Money-page audit fixes (owner approved)
+- Home: title "Abschleppdienst Köln & Offenburg 24/7 – oft ab 125 € | Faster", description names Köln and Ortenau; new section "Abschleppdienst in Köln und in der Ortenau" linking Porz, Nippes, Kalk, Mülheim, /koeln/, Offenburg, Achern, A5.
+- Porz (pos. 10.3 for "abschleppdienst porz"): new section "Abschleppdienst Porz: Preis und Ablauf" + cost FAQ.
+- Nippes (857 words): new sections on typical jobs (Neusser Straße, Niehl/Ford-Werke, Longerich/A57, Clouth Quartier) and price + cost FAQ.
+- Offenburg (pos. 7.6 for "abschleppdienst"): new section "Abschleppdienst in der Nähe: ganze Ortenau" (surrounding municipalities, Achern/A5 links) + cost FAQ.
+- FAQ JSON-LD rebuilt with scripts/faq-schema.pl. Edited in the HTML directly; _build is still out of sync (see cycle 44). Audit output unchanged.
+- Re-check from ~2026-11-20.
