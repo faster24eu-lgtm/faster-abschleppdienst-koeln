@@ -1,6 +1,6 @@
 === stadt-bergheim | Abschleppdienst Bergheim: Pannenhilfe A61, A553, B477 | Pannenhilfe und Abschleppen in Bergheim: Rhein-Erft-Kreis westlich von Köln, 15 Ortsteile seit 1975, A61 und A553, B477, Braunkohletagebau. | page ===
 <!--AREAS: Bergheim, Quadrath-Ichendorf, Niederaußem, Oberaußem, Glesch, Glessen, Paffendorf, Kenten, Zieverich -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bergheim</p><h1>Abschleppdienst Bergheim</h1><p class="lead">Bergheim liegt im Rhein-Erft-Kreis rund 20 Kilometer westlich von Köln. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bergheim</p><h1>Abschleppdienst Bergheim</h1><p class="lead">Bergheim liegt im Rhein-Erft-Kreis rund 20 Kilometer westlich von Köln. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Bergheim: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Bergheim oder an A61, A553 und B477. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -45,7 +45,7 @@
 
 === stadt-troisdorf | Abschleppdienst Troisdorf: Pannenhilfe A59, A3, B8, B56 | Pannenhilfe und Abschleppen in Troisdorf: bevölkerungsreichste Stadt im Rhein-Sieg-Kreis, A59-Zubringer zur A3, B8, B56 als Grenze zu Siegburg. | page ===
 <!--AREAS: Troisdorf, Sieglar, Spich, Altenrath, Eschmar, Friedrich-Wilhelms-Hütte, Rotter See, Sieg, Agger -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Troisdorf</p><h1>Abschleppdienst Troisdorf</h1><p class="lead">Troisdorf liegt rechtsrheinisch zwischen Köln und Bonn an der Sieg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Troisdorf</p><h1>Abschleppdienst Troisdorf</h1><p class="lead">Troisdorf liegt rechtsrheinisch zwischen Köln und Bonn an der Sieg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Troisdorf: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Troisdorf oder an A59, A3, B8 und B56. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -86,7 +86,7 @@
 
 === stadt-siegburg | Abschleppdienst Siegburg: Pannenhilfe A3, A560, B8, B56 | Pannenhilfe und Abschleppen in Siegburg: Kreisstadt des Rhein-Sieg-Kreises am Michaelsberg, A3 seit 1937, A560 nach Bonn, B8, B56, B484. | page ===
 <!--AREAS: Siegburg, Wolsdorf, Kaldauen, Seligenthal, Braschoß, Michaelsberg, Sieg, Agger -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Siegburg</p><h1>Abschleppdienst Siegburg</h1><p class="lead">Siegburg liegt an der Mündung der Agger in die Sieg, am Michaelsberg, an A3 und A560. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Siegburg</p><h1>Abschleppdienst Siegburg</h1><p class="lead">Siegburg liegt an der Mündung der Agger in die Sieg, am Michaelsberg, an A3 und A560. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Siegburg: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Siegburg oder an A3, A560, B8 und B56. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -129,7 +129,7 @@
 
 === stadt-ahlen | Abschleppdienst Ahlen: Pannenhilfe A1, A2, B58 | Pannenhilfe und Abschleppen in Ahlen: Münsterland, A2 rund 10 km entfernt, A1 etwa 20 km entfernt, B58 in Ost-West-Richtung, Kernstadt mit Bauerschaften. | page ===
 <!--AREAS: Ahlen, Dolberg, Vorhelm, Borbein, Brockhausen, Halene, Rosendahl, Tönnishäuschen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ahlen</p><h1>Abschleppdienst Ahlen</h1><p class="lead">Ahlen liegt im westfälischen Münsterland, die B58 durchquert die Stadt in Ost-West-Richtung. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ahlen</p><h1>Abschleppdienst Ahlen</h1><p class="lead">Ahlen liegt im westfälischen Münsterland, die B58 durchquert die Stadt in Ost-West-Richtung. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Ahlen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Ahlen oder an A1, A2 und B58. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -168,7 +168,7 @@
 
 === stadt-gummersbach | Abschleppdienst Gummersbach: Aggertalsperre, RB25 | Pannenhilfe und Abschleppen in Gummersbach: Oberbergischer Kreis an der Agger, Aggertalsperre, seit 2016 geschlossener Innenstadtring, RB25 nach Köln. | page ===
 <!--AREAS: Gummersbach, Aggertalsperre, Genkeltalsperre, Agger, Innenstadtring, Lindenstadt -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gummersbach</p><h1>Abschleppdienst Gummersbach</h1><p class="lead">Gummersbach liegt an der Agger im Oberbergischen Kreis. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gummersbach</p><h1>Abschleppdienst Gummersbach</h1><p class="lead">Gummersbach liegt an der Agger im Oberbergischen Kreis. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Gummersbach: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Gummersbach. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -211,7 +211,7 @@
 
 === stadt-bad-homburg | Abschleppdienst Bad Homburg: Pannenhilfe B456, S5, Saalburgchaussee | Pannenhilfe und Abschleppen in Bad Homburg vor der Höhe: Kurstadt am Taunus, B456 als Saalburgchaussee, S-Bahn-Linie S5 nach Frankfurt, Ortsbezirke. | page ===
 <!--AREAS: Bad Homburg, Gonzenheim, Ober-Eschbach, Ober-Erlenbach, Dornholzhausen, Kirdorf, Taunus, Frankfurt -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bad Homburg vor der Höhe</p><h1>Abschleppdienst Bad Homburg</h1><p class="lead">Bad Homburg liegt am Fuß des Taunus in der Metropolregion Frankfurt/Rhein-Main. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bad Homburg vor der Höhe</p><h1>Abschleppdienst Bad Homburg</h1><p class="lead">Bad Homburg liegt am Fuß des Taunus in der Metropolregion Frankfurt/Rhein-Main. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Bad Homburg: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Bad Homburg oder an B456. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -254,7 +254,7 @@
 
 === stadt-hattingen | Abschleppdienst Hattingen: Pannenhilfe A43, A40, A44 | Pannenhilfe und Abschleppen in Hattingen an der Ruhr: A43 über Sprockhövel oder Witten, A40/A43/A448 über Bochum, A44 über Velbert. | page ===
 <!--AREAS: Hattingen, Blankenstein, Niederwenigern, Welper, Winz-Baak, Holthausen, Ruhr, Sprockhövel -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hattingen</p><h1>Abschleppdienst Hattingen</h1><p class="lead">Hattingen liegt an der Ruhr und grenzt unmittelbar an Wuppertal, Essen und Bochum. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hattingen</p><h1>Abschleppdienst Hattingen</h1><p class="lead">Hattingen liegt an der Ruhr und grenzt unmittelbar an Wuppertal, Essen und Bochum. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Hattingen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Hattingen oder an A43, A40, A44 und A448. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -297,7 +297,7 @@
 
 === stadt-ravensburg | Abschleppdienst Ravensburg: Pannenhilfe B30, B32, B33 | Pannenhilfe und Abschleppen in Ravensburg im Schussental: Kreuzungspunkt von B30, B32 und B33, nächste Autobahnen bei Ulm und Wangen. | page ===
 <!--AREAS: Ravensburg, Eschach, Schmalegg, Taldorf, Schussental, Weingarten, Bodensee -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ravensburg</p><h1>Abschleppdienst Ravensburg</h1><p class="lead">Ravensburg liegt im Schussental in Oberschwaben, unweit des Bodensees. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ravensburg</p><h1>Abschleppdienst Ravensburg</h1><p class="lead">Ravensburg liegt im Schussental in Oberschwaben, unweit des Bodensees. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Ravensburg: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Ravensburg oder an B30, B32, B33 und A7. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

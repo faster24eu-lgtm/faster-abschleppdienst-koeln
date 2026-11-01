@@ -24,8 +24,8 @@ for my $p (@pages) {
     bad("$p: unexpected noindex") if $h =~ /<meta name="robots" content="noindex, nofollow"/;
   }
   while ($h =~ /<script type="application\/ld\+json">(.*?)<\/script>/gs) { my $j = $1; eval { decode_json($j) }; bad("$p: invalid JSON-LD: $@") if $@; }
-  while ($h =~ /href="tel:([^"]*)"/g) { bad("$p: wrong phone $1") if $1 ne '+4917641956993' && $1 ne '+3233756737'; }
-  while ($h =~ /href="https:\/\/wa\.me\/(\d+)/g) { bad("$p: wrong wa.me $1") if $1 ne '4917641956993'; }
+  while ($h =~ /href="tel:([^"]*)"/g) { bad("$p: phone link $1 (site is WhatsApp only)"); }
+  while ($h =~ /href="https:\/\/wa\.me\/(\d+)/g) { bad("$p: wrong wa.me $1") if $1 ne '3233756737'; }
   bad("$p: placeholder text") if $h =~ /TODO|\[ergänzen\]|ergänzen\]|ENTWURF|Lorem|XXX/;
   # links
   my @t;

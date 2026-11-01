@@ -1,6 +1,6 @@
 === stadt-salzgitter | Abschleppdienst Salzgitter: Pannenhilfe A39, A36, A7 | Pannenhilfe und Abschleppen in Salzgitter: 31 Stadtteile in sieben Ortschaften, A39 mit fünf Anschlussstellen, A36, Dreieck Salzgitter, B6 und B248. | page ===
 <!--AREAS: Salzgitter, Salzgitter-Lebenstedt, Salzgitter-Bad, Salzgitter-Thiede, Salzgitter-Gebhardshagen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Salzgitter</p><h1>Abschleppdienst Salzgitter</h1><p class="lead">Salzgitter liegt nördlich des Harzes im Südosten Niedersachsens, an A39 und A36 und nahe dem Dreieck Salzgitter an der A7. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Salzgitter</p><h1>Abschleppdienst Salzgitter</h1><p class="lead">Salzgitter liegt nördlich des Harzes im Südosten Niedersachsens, an A39 und A36 und nahe dem Dreieck Salzgitter an der A7. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Salzgitter: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Salzgitter oder an A39, A36, A7 und B6. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -48,7 +48,7 @@
 
 === stadt-fuerth | Abschleppdienst Fürth: Pannenhilfe A73, A3, Nürnberger Raum | Pannenhilfe in Fürth: Kern des Ballungsraums Nürnberg, Kreuz Fürth/Erlangen, Frankenschnellweg, Ludwig-Donau-Main-Kanal. | page ===
 <!--AREAS: Fürth, Fürth-Atzenhof, Fürth-Poppenreuth, Fürth-Stadeln, Nürnberg -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Fürth</p><h1>Abschleppdienst Fürth</h1><p class="lead">Fürth bildet mit Nürnberg und Erlangen das Kerngebiet des Ballungsraums Nürnberg. Am Kreuz Fürth/Erlangen kreuzen A3 und A73. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Fürth</p><h1>Abschleppdienst Fürth</h1><p class="lead">Fürth bildet mit Nürnberg und Erlangen das Kerngebiet des Ballungsraums Nürnberg. Am Kreuz Fürth/Erlangen kreuzen A3 und A73. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Fürth: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Fürth oder an A73 und A3. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -98,7 +98,7 @@
 
 === stadt-hildesheim | Abschleppdienst Hildesheim: Pannenhilfe A7, Vorholz | Pannenhilfe und Abschleppen in Hildesheim: 14 Ortschaften, Lage südöstlich von Hannover, A7 östlich der Stadt und Verkehrsmittelwahl. Standort nennen. | page ===
 <!--AREAS: Hildesheim, Hildesheim-Mitte, Hildesheim-Himmelsthür, Hildesheim-Ochtersum, Hildesheim-Drispenstedt -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hildesheim</p><h1>Abschleppdienst Hildesheim</h1><p class="lead">Hildesheim liegt rund 30 Kilometer südöstlich von Hannover, mit der A7 östlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hildesheim</p><h1>Abschleppdienst Hildesheim</h1><p class="lead">Hildesheim liegt rund 30 Kilometer südöstlich von Hannover, mit der A7 östlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Hildesheim: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Hildesheim oder an A7 und A39. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -147,7 +147,7 @@
 
 === stadt-cottbus | Abschleppdienst Cottbus: Pannenhilfe A15, B97, Stadtring | Pannenhilfe und Abschleppen in Cottbus: 19 Ortsteile, A15 mit Anschlussstellen West, Süd und Ost, B97, B168, B169 als Stadtring und Niederlausitz. | page ===
 <!--AREAS: Cottbus, Cottbus-Sielow, Cottbus-Madlow, Cottbus-Sachsendorf, Cottbus-Ströbitz -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cottbus</p><h1>Abschleppdienst Cottbus</h1><p class="lead">Cottbus liegt in der Niederlausitz an der A15 Richtung Polen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cottbus</p><h1>Abschleppdienst Cottbus</h1><p class="lead">Cottbus liegt in der Niederlausitz an der A15 Richtung Polen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Cottbus: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Cottbus oder an A15, B97, B168 und B169. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -199,7 +199,7 @@
 
 === stadt-guetersloh | Abschleppdienst Gütersloh: Pannenhilfe A2, Rheda-Wiedenbrück | Pannenhilfe und Abschleppen in Gütersloh: sieben Stadtteile im Stadtteil Gütersloh, A2 mit eigener Anschlussstelle, Rheda-Wiedenbrück und Flughafen. | page ===
 <!--AREAS: Gütersloh, Gütersloh-Pavenstädt, Gütersloh-Kattenstroth, Gütersloh-Blankenhagen, Rheda-Wiedenbrück -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gütersloh</p><h1>Abschleppdienst Gütersloh</h1><p class="lead">Gütersloh liegt an der A2 in Ostwestfalen-Lippe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gütersloh</p><h1>Abschleppdienst Gütersloh</h1><p class="lead">Gütersloh liegt an der A2 in Ostwestfalen-Lippe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Gütersloh: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Gütersloh oder an A2. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -245,7 +245,7 @@
 
 === stadt-witten | Abschleppdienst Witten: Pannenhilfe A43, A448, A45 | Pannenhilfe und Abschleppen in Witten: sieben Stadtteile, A43, A448 und A45 mit mehreren Anschlussstellen, Ruhr und historische Chaussee. Standort nennen. | page ===
 <!--AREAS: Witten, Witten-Heven, Witten-Herbede, Witten-Stockum, Witten-Annen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Witten</p><h1>Abschleppdienst Witten</h1><p class="lead">Witten liegt im Südosten des Ruhrgebiets an A43, A448 und A45. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Witten</p><h1>Abschleppdienst Witten</h1><p class="lead">Witten liegt im Südosten des Ruhrgebiets an A43, A448 und A45. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Witten: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Witten oder an A43, A448 und A45. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -294,7 +294,7 @@
 
 === stadt-hanau | Abschleppdienst Hanau: Pannenhilfe A45, A66, Hanauer Kreuz | Pannenhilfe und Abschleppen in Hanau: zehn Stadtteile, Hanauer Kreuz mit A45 und A66, A3 in der Nähe und Frankfurt in 30 Kilometern. Standort nennen. | page ===
 <!--AREAS: Hanau, Hanau-Kesselstadt, Hanau-Steinheim, Hanau-Großauheim, Hanau-Wolfgang -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hanau</p><h1>Abschleppdienst Hanau</h1><p class="lead">Hanau liegt östlich von Frankfurt, wo sich A45 und A66 am Hanauer Kreuz treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hanau</p><h1>Abschleppdienst Hanau</h1><p class="lead">Hanau liegt östlich von Frankfurt, wo sich A45 und A66 am Hanauer Kreuz treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Hanau: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Hanau oder an A45, A66, A3 und B45. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -342,7 +342,7 @@
 
 === stadt-schwerin | Abschleppdienst Schwerin: Pannenhilfe A24, A14 | Pannenhilfe und Abschleppen in Schwerin: 17 Ortsteile, A24 südlich der Stadt, Kreuz Schwerin mit A14, B104, B106 und B321. So nennen Sie Ihren Standort. | page ===
 <!--AREAS: Schwerin, Schwerin-Lankow, Schwerin-Großer Dreesch, Schwerin-Neumühle, Schwerin-Zippendorf -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Schwerin</p><h1>Abschleppdienst Schwerin</h1><p class="lead">Schwerin ist die kleinste Landeshauptstadt Deutschlands und liegt südlich an der A24, wo im Kreuz Schwerin die A14 nach Wismar abzweigt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Schwerin</p><h1>Abschleppdienst Schwerin</h1><p class="lead">Schwerin ist die kleinste Landeshauptstadt Deutschlands und liegt südlich an der A24, wo im Kreuz Schwerin die A14 nach Wismar abzweigt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Schwerin: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Schwerin oder an A24, A14, B104 und B106. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

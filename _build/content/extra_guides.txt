@@ -208,7 +208,7 @@
 </div></section>
 @@CTA@@
 === ratgeber-starthilfe-batterie | Auto überbrücken: Starthilfe richtig geben (Reihenfolge) | Starthilfe Schritt für Schritt: welches Kabel zuerst, wohin das schwarze Kabel gehört, wie lange Sie fahren müssen und die häufigsten Fehler beim Überbrücken. | page ===
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Auto überbrücken: So geben Sie richtig Starthilfe</h1><p class="lead">Das Auto klickt nur oder tut gar nichts? Meist ist die Batterie leer. Mit Starthilfekabel und einem zweiten Auto ist das oft in zehn Minuten erledigt, wenn Sie die Reihenfolge einhalten.</p><div class="actions"><a class="btn btn-y" href="tel:+4917641956993">Jetzt anrufen: +49 176 41956993</a><a class="btn btn-wa" href="https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug." target="_blank" rel="noopener">WhatsApp mit Standort senden</a></div><p style="font-size:14px;margin:-10px 0 0;opacity:.75">24/7 erreichbar &middot; Preis vorher am Telefon</p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratgeber</p><h1>Auto überbrücken: So geben Sie richtig Starthilfe</h1><p class="lead">Das Auto klickt nur oder tut gar nichts? Meist ist die Batterie leer. Mit Starthilfekabel und einem zweiten Auto ist das oft in zehn Minuten erledigt, wenn Sie die Reihenfolge einhalten.</p><div class="actions"><a class="btn btn-wa" href="https://wa.me/3233756737?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug." target="_blank" rel="noopener">WhatsApp mit Standort senden</a></div><p style="font-size:14px;margin:-10px 0 0;opacity:.75">24/7 erreichbar &middot; Preis vorher per WhatsApp</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <div class="note"><p><strong>Kurz gesagt, die Reihenfolge:</strong> 1. Rotes Kabel an den Pluspol der leeren Batterie. 2. Das andere rote Ende an den Pluspol der Spenderbatterie. 3. Schwarzes Kabel an den Minuspol der Spenderbatterie. 4. Das andere schwarze Ende an ein blankes Metallteil im Motorraum des Pannenautos, nicht an dessen Minuspol. Erst den Spender starten, dann das Pannenauto. Abklemmen in umgekehrter Reihenfolge.</p></div>
 <h2>Woran Sie eine leere Batterie erkennen</h2>
@@ -497,11 +497,11 @@
 </div></section>
 @@CTA@@
 === kontakt | Kontakt &amp; Anfrage – Abschleppdienst | Abschleppdienst kontaktieren: per Telefon, WhatsApp oder Formular. Für Köln sowie Karlsruhe, Baden-Baden, Achern und Offenburg. 24/7 erreichbar. | page ===
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kontakt</p><h1>Hilfe anfordern</h1><p class="lead">Dringend? Rufen Sie an oder schreiben Sie per WhatsApp und senden Sie Ihren Standort. Das Formular ist für Anfragen, die nicht eilen.</p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kontakt</p><h1>Hilfe anfordern</h1><p class="lead">Dringend? Schreiben Sie uns per WhatsApp und senden Sie Ihren Standort. Das Formular ist für Anfragen, die nicht eilen.</p></div></section>
 <section class="section"><div class="wrap split">
 <div class="copy"><h2>So erreichen Sie uns</h2>
 <p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp schreiben</a></p>
-<p><a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993 anrufen</a></p>
+<p></p>
 <p><strong>E-Mail:</strong> <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
 <p><strong>Adresse:</strong><br>Faster Abschleppdienst<br>Am Festungsgraben 2<br>10117 Berlin</p>
 <p><strong>Sprachen:</strong> Deutsch, Niederländisch, Französisch und Englisch.</p>

@@ -1,6 +1,6 @@
 === stadt-friedrichshafen | Abschleppdienst Friedrichshafen: Pannenhilfe B31, B30, Bodensee | Pannenhilfe und Abschleppen in Friedrichshafen: Nordufer des Bodensees, B31 am Ufer entlang, B30 Richtung Ravensburg und Ulm, Flughafen und Messe. | page ===
 <!--AREAS: Friedrichshafen, Ailingen, Ettenkirch, Kluftern, Raderach, Fischbach, Messe Friedrichshafen, Bodensee -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Friedrichshafen</p><h1>Abschleppdienst Friedrichshafen</h1><p class="lead">Friedrichshafen liegt am Nordufer des Bodensees, ohne Autobahn auf dem Stadtgebiet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Friedrichshafen</p><h1>Abschleppdienst Friedrichshafen</h1><p class="lead">Friedrichshafen liegt am Nordufer des Bodensees, ohne Autobahn auf dem Stadtgebiet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Friedrichshafen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Friedrichshafen oder an B31, B30, A89 und A96. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-aalen | Abschleppdienst Aalen: Pannenhilfe A7, B19, B29, Kocher | Pannenhilfe und Abschleppen in Aalen: Ostwürttemberg am Kocher, A7 mit den Anschlüssen Westhausen und Oberkochen, B19, B29 als Westumfahrung, B290. | page ===
 <!--AREAS: Aalen, Unterkochen, Wasseralfingen, Ebnat, Hofen, Oberkochen, Westhausen, Kocher -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Aalen</p><h1>Abschleppdienst Aalen</h1><p class="lead">Aalen liegt im Tal des oberen Kocher am Rand der Schwäbischen Alb an der A7. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Aalen</p><h1>Abschleppdienst Aalen</h1><p class="lead">Aalen liegt im Tal des oberen Kocher am Rand der Schwäbischen Alb an der A7. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Aalen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Aalen oder an A7, B19, B29 und B290. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -86,7 +86,7 @@
 
 === stadt-heidenheim | Abschleppdienst Heidenheim: Pannenhilfe A7, B19, B466 | Pannenhilfe und Abschleppen in Heidenheim an der Brenz: Ostalb an der Grenze zu Bayern, A7 mit eigener Ausfahrt, B19 und B466, Hellenstein. | page ===
 <!--AREAS: Heidenheim, Schnaitheim, Mergelstetten, Oggenhausen, Großkuchen, Brenz, Hellenstein, Albuch, Härtsfeld -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Heidenheim an der Brenz</p><h1>Abschleppdienst Heidenheim an der Brenz</h1><p class="lead">Heidenheim liegt an der Brenz im Osten Baden-Württembergs, die A7 verläuft in der Nähe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Heidenheim an der Brenz</p><h1>Abschleppdienst Heidenheim an der Brenz</h1><p class="lead">Heidenheim liegt an der Brenz im Osten Baden-Württembergs, die A7 verläuft in der Nähe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Heidenheim an der Brenz: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Heidenheim an der Brenz oder an A7, B19 und B466. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -129,7 +129,7 @@
 
 === stadt-boeblingen | Abschleppdienst Böblingen: Pannenhilfe A81, A8, Kreuz Stuttgart | Pannenhilfe und Abschleppen in Böblingen: vier Anschlussstellen der A81, Kreuzungspunkt von A8 und A81 nahe der Stadt, B464 und Flugfeld. | page ===
 <!--AREAS: Böblingen, Dagersheim, Flugfeld, Böblingen-Hulb, Ehningen, Schönbuch, Sindelfingen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Böblingen</p><h1>Abschleppdienst Böblingen</h1><p class="lead">Böblingen liegt etwa 20 Kilometer südwestlich von Stuttgart, die A81 führt im Norden vorbei. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Böblingen</p><h1>Abschleppdienst Böblingen</h1><p class="lead">Böblingen liegt etwa 20 Kilometer südwestlich von Stuttgart, die A81 führt im Norden vorbei. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Böblingen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Böblingen oder an A81, A8, B464 und B14. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -172,7 +172,7 @@
 
 === stadt-waiblingen | Abschleppdienst Waiblingen: Pannenhilfe B14, B29, Remstal | Pannenhilfe und Abschleppen in Waiblingen: Kreisstadt an der Rems nordöstlich von Stuttgart, B14 Richtung Nürnberg, B29 nach Aalen, fünf Stadtteile. | page ===
 <!--AREAS: Waiblingen, Beinstein, Bittenfeld, Hegnach, Hohenacker, Neustadt, Rems, Fellbach, Remstal -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Waiblingen</p><h1>Abschleppdienst Waiblingen</h1><p class="lead">Waiblingen liegt etwa zehn Kilometer nordöstlich von Stuttgart im Remstal. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Waiblingen</p><h1>Abschleppdienst Waiblingen</h1><p class="lead">Waiblingen liegt etwa zehn Kilometer nordöstlich von Stuttgart im Remstal. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Waiblingen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Waiblingen oder an B14, B29, A81 und A8. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -213,7 +213,7 @@
 
 === stadt-loerrach | Abschleppdienst Lörrach: Pannenhilfe A98, B317, Dreiländereck | Pannenhilfe und Abschleppen in Lörrach: Wiesental an der Schweizer Grenze, A98 mit Wiesentalbrücke, B317 als Hauptverkehrsader, Dreiländereck. | page ===
 <!--AREAS: Lörrach, Brombach, Haagen, Hauingen, Tumringen, Stetten, Wiesentalbrücke, Weil am Rhein, Basel, Wiese -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lörrach</p><h1>Abschleppdienst Lörrach</h1><p class="lead">Lörrach liegt im Wiesental im äußersten Südwesten Deutschlands an der Schweizer Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lörrach</p><h1>Abschleppdienst Lörrach</h1><p class="lead">Lörrach liegt im Wiesental im äußersten Südwesten Deutschlands an der Schweizer Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Doppelzentrum mit Weil am Rhein</h2>
 <p>Lörrach ist Kreisstadt und größte Stadt des gleichnamigen Landkreises und seit dem 1. April 1956 Große Kreisstadt. Mit der westlich gelegenen Nachbarstadt Weil am Rhein bildet Lörrach ein Doppelzentrum. Die Stadt liegt weniger als fünf Kilometer vom Dreiländereck Deutschland–Frankreich–Schweiz entfernt, die Gemarkungsfläche grenzt unmittelbar an die Schweiz, im Wiesental an Riehen im Kanton Basel-Stadt. Lörrach gehört zum Trinationalen Eurodistrict Basel. Zu den Stadtteilen zählen Brombach, Haagen, Hauingen, Tumringen und Stetten. Nennen Sie uns bei einer Panne Stadtteil und Straße und ob Sie in Deutschland stehen. Mehr auf <a href="stadt-freiburg.html">Abschleppdienst Freiburg</a> und <a href="abschleppdienst-offenburg.html">Abschleppdienst Offenburg</a>.</p>
@@ -242,7 +242,7 @@
 
 === stadt-baden-baden | Abschleppdienst Baden-Baden: Pannenhilfe A5, B500, Michaelstunnel | Pannenhilfe und Abschleppen in Baden-Baden: A5 mit den Anschlussstellen Baden-Baden und Bühl, B500 durch den Michaelstunnel, Schwarzwaldhochstraße. | page ===
 <!--AREAS: Baden-Baden, Lichtental, Oos, Balg, Sandweier, Haueneberstein, Ebersteinburg, Steinbach, Neuweier, Varnhalt, Schwarzwaldhochstraße -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Baden-Baden</p><h1>Abschleppdienst Baden-Baden</h1><p class="lead">Baden-Baden liegt am Westrand des nördlichen Schwarzwaldes im Tal der Oos an der A5. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Baden-Baden</p><h1>Abschleppdienst Baden-Baden</h1><p class="lead">Baden-Baden liegt am Westrand des nördlichen Schwarzwaldes im Tal der Oos an der A5. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Baden-Baden: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Baden-Baden oder an A5 und B500. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -285,7 +285,7 @@
 
 === stadt-bruchsal | Abschleppdienst Bruchsal: Pannenhilfe A5, B3, B35, Rheintalbahn | Pannenhilfe und Abschleppen in Bruchsal: Kraichgau nördlich von Karlsruhe, A5 Anschlussstelle Bruchsal, B3 und B35, Kernstadt und fünf Stadtteile. | page ===
 <!--AREAS: Bruchsal, Büchenau, Heidelsheim, Helmsheim, Obergrombach, Untergrombach, Kraichgau, Forst -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bruchsal</p><h1>Abschleppdienst Bruchsal</h1><p class="lead">Bruchsal liegt am westlichen Rand des Kraichgaus etwa 20 Kilometer nördlich von Karlsruhe an der A5. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bruchsal</p><h1>Abschleppdienst Bruchsal</h1><p class="lead">Bruchsal liegt am westlichen Rand des Kraichgaus etwa 20 Kilometer nördlich von Karlsruhe an der A5. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Bruchsal: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Bruchsal oder an A5, B3 und B35. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

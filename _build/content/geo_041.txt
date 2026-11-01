@@ -1,6 +1,6 @@
 === stadt-delmenhorst | Abschleppdienst Delmenhorst: Pannenhilfe A28, B75, B213 | Pannenhilfe und Abschleppen in Delmenhorst: A28 mit Dreieck Delmenhorst, vierspurige B75 nach Bremen, B213 zur A1, zehn Stadtbezirke. | page ===
 <!--AREAS: Delmenhorst, Delmenhorst-Deichhorst, Delmenhorst-Stickgras, Delmenhorst-Düsternort, Stuhr, Bremen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Delmenhorst</p><h1>Abschleppdienst Delmenhorst</h1><p class="lead">Delmenhorst liegt im Oldenburger Land zwischen Oldenburg und Bremen an der A28. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Delmenhorst</p><h1>Abschleppdienst Delmenhorst</h1><p class="lead">Delmenhorst liegt im Oldenburger Land zwischen Oldenburg und Bremen an der A28. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Delmenhorst: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Delmenhorst oder an A28, B75, B213 und A1. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -49,7 +49,7 @@
 
 === stadt-neubrandenburg | Abschleppdienst Neubrandenburg: Pannenhilfe A20, B96, B104 | Pannenhilfe und Abschleppen in Neubrandenburg: A20 mit Anschlussstellen Nord und Ost, Kreisverkehr Friedrich-Engels-Ring, B96, B104 und B192. | page ===
 <!--AREAS: Neubrandenburg, Neubrandenburg-Datzeberg, Neubrandenburg-Oststadt, Neubrandenburg-Reitbahnviertel, Trollenhagen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neubrandenburg</p><h1>Abschleppdienst Neubrandenburg</h1><p class="lead">Neubrandenburg liegt in der Mecklenburgischen Seenplatte, die A20 verläuft östlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neubrandenburg</p><h1>Abschleppdienst Neubrandenburg</h1><p class="lead">Neubrandenburg liegt in der Mecklenburgischen Seenplatte, die A20 verläuft östlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Neubrandenburg: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Neubrandenburg oder an A20, B96, B104 und B192. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -94,7 +94,7 @@
 
 === stadt-dessau-rosslau | Abschleppdienst Dessau-Roßlau: Pannenhilfe A9, B184, B185, B187 | Pannenhilfe und Abschleppen in Dessau-Roßlau: 25 Stadtbezirke, A9 mit Dessau-Süd und Dessau-Ost, B184, B185, B187, Roßlauer Elbbrücke. | page ===
 <!--AREAS: Dessau-Roßlau, Dessau, Roßlau, Vockerode, Coswig, Elbe -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dessau-Roßlau</p><h1>Abschleppdienst Dessau-Roßlau</h1><p class="lead">Dessau-Roßlau liegt in Sachsen-Anhalt beiderseits der Elbe an der A9. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dessau-Roßlau</p><h1>Abschleppdienst Dessau-Roßlau</h1><p class="lead">Dessau-Roßlau liegt in Sachsen-Anhalt beiderseits der Elbe an der A9. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Dessau-Roßlau: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Dessau-Roßlau oder an A9, B184, B185 und B187. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -135,7 +135,7 @@
 
 === stadt-ratingen | Abschleppdienst Ratingen: Pannenhilfe A3, A44, A52, A524 | Pannenhilfe und Abschleppen in Ratingen: vier Autobahnen mit zehn Anschlussstellen, A3, A44, A52 und A524, sechs Gemeindebezirke, B1 und B227. | page ===
 <!--AREAS: Ratingen, Ratingen-Ost, Ratingen-West, Ratingen-Lintorf, Ratingen-Homberg, Breitscheid -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratingen</p><h1>Abschleppdienst Ratingen</h1><p class="lead">Ratingen liegt nordöstlich von Düsseldorf an vier Autobahnen mit zehn Anschlussstellen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ratingen</p><h1>Abschleppdienst Ratingen</h1><p class="lead">Ratingen liegt nordöstlich von Düsseldorf an vier Autobahnen mit zehn Anschlussstellen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Ratingen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Ratingen oder an A3, A44, A52 und A524. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -182,7 +182,7 @@
 
 === stadt-ruesselsheim | Abschleppdienst Rüsselsheim am Main: Pannenhilfe A60, A67, B43 | Pannenhilfe und Abschleppen in Rüsselsheim am Main: A60 Mitte und Königstädten, A67, Mainspitz-Dreieck, B43 und Anbindung an A3 und A671. | page ===
 <!--AREAS: Rüsselsheim, Rüsselsheim-Königstädten, Rüsselsheim-Haßloch, Bauschheim, Mainspitz-Dreieck, Flörsheim -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rüsselsheim am Main</p><h1>Abschleppdienst Rüsselsheim am Main</h1><p class="lead">Rüsselsheim liegt am Main im Rhein-Main-Gebiet an A60 und A67. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rüsselsheim am Main</p><h1>Abschleppdienst Rüsselsheim am Main</h1><p class="lead">Rüsselsheim liegt am Main im Rhein-Main-Gebiet an A60 und A67. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Rüsselsheim am Main: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Rüsselsheim am Main oder an A60, A67, B43 und A3. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -231,7 +231,7 @@
 
 === stadt-straubing | Abschleppdienst Straubing: Panne auf B8, B20, A3, A92 | Pannenhilfe und Abschleppen in Straubing: B8 durch die Stadt, Zubringer B20 zu A3 und A92, Gewerbegebiete Alburg und Straubing-Ost. 24/7 erreichbar. | page ===
 <!--AREAS: Straubing, Straubing-Alburg, Straubing-Ittling, Straubing-Kagers, Straubing-Ost, Bogen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Straubing</p><h1>Abschleppdienst Straubing</h1><p class="lead">Liegen geblieben in Straubing? Rufen Sie an oder schicken Sie Ihren Standort per WhatsApp. Wir organisieren die Hilfe, egal ob auf der B8, dem Zubringer B20 oder im Parkhaus.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Straubing</p><h1>Abschleppdienst Straubing</h1><p class="lead">Liegen geblieben in Straubing? Schicken Sie Ihren Standort per WhatsApp. Wir organisieren die Hilfe, egal ob auf der B8, dem Zubringer B20 oder im Parkhaus.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Straubing: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Straubing oder an B8, B20, A3 und A92. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

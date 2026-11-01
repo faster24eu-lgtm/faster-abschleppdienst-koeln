@@ -1,6 +1,6 @@
 === stadt-wilhelmshaven | Abschleppdienst Wilhelmshaven: Pannenhilfe A29, B210, JadeWeserPort | Pannenhilfe und Abschleppen in Wilhelmshaven: Jadebusen, A29 bis zum JadeWeserPort, B210, Kaiser-Wilhelm-Brücke, Marinestandort und Hafenbereiche. | page ===
 <!--AREAS: Wilhelmshaven, Wilhelmshaven-Heppens, Wilhelmshaven-Voslapp, Schortens, Sande, Jever -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wilhelmshaven</p><h1>Abschleppdienst Wilhelmshaven</h1><p class="lead">Wilhelmshaven liegt am Jadebusen an der Nordsee, mit der A29 als Zubringer bis zum JadeWeserPort. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wilhelmshaven</p><h1>Abschleppdienst Wilhelmshaven</h1><p class="lead">Wilhelmshaven liegt am Jadebusen an der Nordsee, mit der A29 als Zubringer bis zum JadeWeserPort. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Wilhelmshaven: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Wilhelmshaven oder an A29 und B210. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-emden | Abschleppdienst Emden: Pannenhilfe A31, B210, Hafen | Pannenhilfe und Abschleppen in Emden: Ostfrieslands größte Stadt, A31 mit fünf Anschlussstellen im Halbkreis um die Stadt, B210, L2 und Seehafen. | page ===
 <!--AREAS: Emden, Emden-Borssum, Emden-Larrelt, Emden-Wybelsum, Emden-Petkum, Emden-Barenburg -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Emden</p><h1>Abschleppdienst Emden</h1><p class="lead">Emden liegt an der Emsmündung am Dollart und hat fünf Anschlussstellen der A31. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Emden</p><h1>Abschleppdienst Emden</h1><p class="lead">Emden liegt an der Emsmündung am Dollart und hat fünf Anschlussstellen der A31. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Emden: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Emden oder an A31, B210 und A28. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -86,7 +86,7 @@
 
 === stadt-lueneburg | Abschleppdienst Lüneburg: Pannenhilfe A39, B4, B209, B216 | Pannenhilfe und Abschleppen in Lüneburg: Hansestadt an der Ilmenau, Autobahnanschluss A39, B4, B209 und B216, Altstadt über Salzstock, Nähe Hamburg. | page ===
 <!--AREAS: Lüneburg, Lüneburg-Kaltenmoor, Lüneburg-Häcklingen, Lüneburg-Oedeme, Lüneburg-Ochtmissen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lüneburg</p><h1>Abschleppdienst Lüneburg</h1><p class="lead">Lüneburg liegt an der Ilmenau am Rand der Lüneburger Heide, rund 50 Kilometer südöstlich von Hamburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lüneburg</p><h1>Abschleppdienst Lüneburg</h1><p class="lead">Lüneburg liegt an der Ilmenau am Rand der Lüneburger Heide, rund 50 Kilometer südöstlich von Hamburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Lüneburg: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Lüneburg oder an A39, B4, B209 und B216. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

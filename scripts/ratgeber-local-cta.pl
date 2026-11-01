@@ -4,10 +4,10 @@
 #   2. after the article: a second call box plus an "Abschleppdienst in Ihrer Nähe" block linking the
 #      local service pages (<!-- local-links:start --> ... <!-- local-links:end -->)
 # Rerunnable: both blocks are removed and rebuilt on every run. Phone/WhatsApp buttons use the same
-# markup as the rest of the site (the visible number must stay "+49 176 41956993" for the Ads number swap).
+# markup as the rest of the site (WhatsApp only, +32 3 375 67 37).
 use strict; use warnings;
 my $R = shift // '.';
-my $WA = 'https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.';
+my $WA = 'https://wa.me/3233756737?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.';
 
 # Headline + one line per guide; anything not listed gets the default.
 my %TOP_DE = (
@@ -52,9 +52,8 @@ my @LOCAL_EN = (
 sub callbox {
   my ($h, $t, $en) = @_;
   my $wa = $en ? 'Send location on WhatsApp' : 'WhatsApp mit Standort';
-  my $call = $en ? 'Call now: +49 176 41956993' : 'Jetzt anrufen: +49 176 41956993';
-  my $sub = $en ? '24/7 &middot; one call is enough' : '24/7 erreichbar &middot; ein Anruf genügt';
-  return qq{<section class="section callbox" style="padding:18px 0 0"><div class="wrap narrow"><div style="background:#fff8d6;border:2px solid #f6c400;border-radius:8px;padding:16px 18px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between"><div><strong style="font-size:20px;line-height:1.3">$h</strong><br><span>$t</span><br><small>$sub</small></div><div style="display:flex;flex-wrap:wrap;gap:10px"><a class="btn btn-y" href="tel:+4917641956993">$call</a><a class="btn btn-wa" href="$WA" target="_blank" rel="noopener">$wa</a></div></div></div></section>};
+  my $sub = $en ? '24/7 &middot; one message is enough' : '24/7 erreichbar &middot; eine Nachricht genügt';
+  return qq{<section class="section callbox" style="padding:18px 0 0"><div class="wrap narrow"><div style="background:#fff8d6;border:2px solid #f6c400;border-radius:8px;padding:16px 18px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between"><div><strong style="font-size:20px;line-height:1.3">$h</strong><br><span>$t</span><br><small>$sub</small></div><div style="display:flex;flex-wrap:wrap;gap:10px"><a class="btn btn-wa" href="$WA" target="_blank" rel="noopener">$wa</a></div></div></div></section>};
 }
 
 my ($n, $skipped) = (0, 0);

@@ -1,6 +1,6 @@
 === stadt-recklinghausen | Abschleppdienst Recklinghausen: Pannenhilfe A2, A43 | Pannenhilfe und Abschleppen in Recklinghausen: 18 Stadtteile, Kreuz Recklinghausen mit A2 und A43, B225 und Umgehungsstraßen. Standort nennen. | page ===
 <!--AREAS: Recklinghausen, Recklinghausen-Hillerheide, Recklinghausen-Suderwich, Recklinghausen-Süd, Herten -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Recklinghausen</p><h1>Abschleppdienst Recklinghausen</h1><p class="lead">Recklinghausen liegt im nördlichen Ruhrgebiet, wo sich A2 und A43 kreuzen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Recklinghausen</p><h1>Abschleppdienst Recklinghausen</h1><p class="lead">Recklinghausen liegt im nördlichen Ruhrgebiet, wo sich A2 und A43 kreuzen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Recklinghausen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Recklinghausen oder an A2, A43 und B225. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -42,7 +42,7 @@
 
 === stadt-reutlingen | Abschleppdienst Reutlingen: Pannenhilfe B28, B312, Scheibengipfeltunnel | Pannenhilfe und Abschleppen in Reutlingen: Großstadt ohne direkten Autobahnanschluss, B28, B312, Scheibengipfeltunnel und Wege zur A8 und A81. | page ===
 <!--AREAS: Reutlingen, Reutlingen-Betzingen, Reutlingen-Sondelfingen, Reutlingen-Orschel-Hagen, Pfullingen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Reutlingen</p><h1>Abschleppdienst Reutlingen</h1><p class="lead">Reutlingen ist eine von nur zwei deutschen Großstädten ohne direkten Autobahnanschluss. Wer hier liegen bleibt, steht meist auf einer Bundesstraße. Sagen Sie uns, wo, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Reutlingen</p><h1>Abschleppdienst Reutlingen</h1><p class="lead">Reutlingen ist eine von nur zwei deutschen Großstädten ohne direkten Autobahnanschluss. Wer hier liegen bleibt, steht meist auf einer Bundesstraße. Sagen Sie uns, wo, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Reutlingen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Reutlingen oder an B28, B312, A8 und A81. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -84,7 +84,7 @@
 
 === stadt-koblenz | Abschleppdienst Koblenz: Pannenhilfe A61, A48, Rhein, Mosel | Pannenhilfe und Abschleppen in Koblenz: 30 Stadtteile, Rhein und Mosel, A61 im Westen, A48 im Norden, Glockenbergtunnel und viele Brücken. | page ===
 <!--AREAS: Koblenz, Koblenz-Ehrenbreitstein, Koblenz-Güls, Koblenz-Lützel, Koblenz-Pfaffendorf -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Koblenz</p><h1>Abschleppdienst Koblenz</h1><p class="lead">Koblenz liegt am Zusammenfluss von Rhein und Mosel. Rheinbrücken, Moselbrücken und der Glockenbergtunnel prägen den Verkehr. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Koblenz</p><h1>Abschleppdienst Koblenz</h1><p class="lead">Koblenz liegt am Zusammenfluss von Rhein und Mosel. Rheinbrücken, Moselbrücken und der Glockenbergtunnel prägen den Verkehr. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Dritte Großstadt in Rheinland-Pfalz</h2>
 <p>Koblenz, bis 1926 Coblenz, ist eine kreisfreie Großstadt im nördlichen Rheinland-Pfalz mit 113.020 Einwohnern (31. Dezember 2025) und nach Mainz und Ludwigshafen die drittgrößte Stadt des Landes. Das Stadtgebiet ist in 30 statistische Stadtteile gegliedert, zwei Wahlkreise trennen die linksrheinischen von den rechtsrheinischen Ortsbezirken. Neben Rhein und Mosel durchfließen kleinere Bäche das Stadtgebiet, etwa der Königsbach in Stolzenfels. Nennen Sie uns bei einer Panne den Stadtteil, die Straße und ob Sie links oder rechts des Rheins beziehungsweise der Mosel stehen.</p>
@@ -112,7 +112,7 @@
 
 === stadt-bergisch-gladbach | Abschleppdienst Bergisch Gladbach: Pannenhilfe A4, B55 | Pannenhilfe und Abschleppen in Bergisch Gladbach: sechs statistische Bezirke, Grenze zu Köln, A4, Kreuz Köln-Ost und Bundesstraßen B55 und B506. | page ===
 <!--AREAS: Bergisch Gladbach, Bergisch Gladbach-Refrath, Bergisch Gladbach-Bensberg, Bergisch Gladbach-Bockenberg, Köln -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bergisch Gladbach</p><h1>Abschleppdienst Bergisch Gladbach</h1><p class="lead">Bergisch Gladbach grenzt im Westen unmittelbar an Köln. Im Süden verläuft die A4 nach Olpe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bergisch Gladbach</p><h1>Abschleppdienst Bergisch Gladbach</h1><p class="lead">Bergisch Gladbach grenzt im Westen unmittelbar an Köln. Im Süden verläuft die A4 nach Olpe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Bergisch Gladbach: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Bergisch Gladbach oder an A4, B55, B506 und A3. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -158,7 +158,7 @@
 
 === stadt-bremerhaven | Abschleppdienst Bremerhaven: Pannenhilfe A27, B6, B212 | Pannenhilfe und Abschleppen in Bremerhaven: zwei Stadtbezirke, A27, Grimsbystraße B212, Überseehafen, Containerterminal und Blexen-Fähre. | page ===
 <!--AREAS: Bremerhaven, Bremerhaven-Geestemünde, Bremerhaven-Lehe, Bremerhaven-Leherheide, Bremerhaven-Überseehafen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bremerhaven</p><h1>Abschleppdienst Bremerhaven</h1><p class="lead">Bremerhaven liegt an der Weser als Exklave des Landes Bremen, mit dem Überseehafengebiet und der A27 im Osten. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bremerhaven</p><h1>Abschleppdienst Bremerhaven</h1><p class="lead">Bremerhaven liegt an der Weser als Exklave des Landes Bremen, mit dem Überseehafengebiet und der A27 im Osten. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Bremerhaven: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Bremerhaven oder an A27, B6, B212 und B71. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -206,7 +206,7 @@
 
 === stadt-erlangen | Abschleppdienst Erlangen: Pannenhilfe A3, A73, Tennenlohe | Pannenhilfe und Abschleppen in Erlangen: neun Stadtteile, Kreuz Fürth/Erlangen, A3, A73, B4 und viele Radwege. So nennen Sie Ihren Standort. | page ===
 <!--AREAS: Erlangen, Erlangen-Tennenlohe, Erlangen-Frauenaurach, Erlangen-Bruck, Fürth -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Erlangen</p><h1>Abschleppdienst Erlangen</h1><p class="lead">Erlangen gehört zum Nürnberger Ballungsraum und liegt an der A3, mit der A73 (Frankenschnellweg) am Kreuz Fürth/Erlangen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Erlangen</p><h1>Abschleppdienst Erlangen</h1><p class="lead">Erlangen gehört zum Nürnberger Ballungsraum und liegt an der A3, mit der A73 (Frankenschnellweg) am Kreuz Fürth/Erlangen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Erlangen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Erlangen oder an A3, A73 und B4. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -254,7 +254,7 @@
 
 === stadt-remscheid | Abschleppdienst Remscheid: Pannenhilfe A1, B229, B51 | Pannenhilfe in Remscheid: vier Stadtbezirke, A1 mit Anschlussstellen Remscheid und Lennep, B51, B229, B237 und Müngstener Brücke. | page ===
 <!--AREAS: Remscheid, Remscheid-Lennep, Remscheid-Lüttringhausen, Remscheid-Hasten, Wuppertal -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Remscheid</p><h1>Abschleppdienst Remscheid</h1><p class="lead">Remscheid ist eine bergische Stadt mit hügeligen Straßen und Anschluss an die A1. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Remscheid</p><h1>Abschleppdienst Remscheid</h1><p class="lead">Remscheid ist eine bergische Stadt mit hügeligen Straßen und Anschluss an die A1. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Remscheid: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Remscheid oder an A1, B229, B51 und B237. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

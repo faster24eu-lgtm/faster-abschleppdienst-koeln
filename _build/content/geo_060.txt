@@ -1,6 +1,6 @@
 === stadt-dueren | Abschleppdienst Düren: Pannenhilfe A4, B56, B264, B399 | Pannenhilfe und Abschleppen in Düren: Tor zur Nordeifel an der Rur, A4-Abfahrt im Norden, B56, B264 und B399, Friedrich-Ebert-Platz als zentraler Knoten. | page ===
 <!--AREAS: Düren, Birkesdorf, Arnoldsweiler, Gürzenich, Lendersdorf, Niederau, Merken, Rölsdorf, Distelrath, Rur -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Düren</p><h1>Abschleppdienst Düren</h1><p class="lead">Düren liegt an der Rur zwischen Aachen und Köln am Nordrand der Eifel. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Düren</p><h1>Abschleppdienst Düren</h1><p class="lead">Düren liegt an der Rur zwischen Aachen und Köln am Nordrand der Eifel. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Düren: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Düren oder an A4, B56, B264 und B399. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-euskirchen | Abschleppdienst Euskirchen: Pannenhilfe A1, A61, B56, B51 | Pannenhilfe und Abschleppen in Euskirchen: Kreisstadt am Nordrand der Eifel, A1 und A61 nahe Kreuz Bliesheim, B56, B51, B266, Ringstraße. | page ===
 <!--AREAS: Euskirchen, Kuchenheim, Stotzheim, Kreuzweingarten, Großbüllesheim, Flamersheim, Kreuz Bliesheim, Erft -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Euskirchen</p><h1>Abschleppdienst Euskirchen</h1><p class="lead">Euskirchen liegt südwestlich von Bonn und Köln an der A1. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Euskirchen</p><h1>Abschleppdienst Euskirchen</h1><p class="lead">Euskirchen liegt südwestlich von Bonn und Köln an der A1. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Euskirchen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Euskirchen oder an A1, A61, B56 und B51. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -78,7 +78,7 @@
 
 === stadt-kerpen | Abschleppdienst Kerpen: Pannenhilfe A4, A61, Kreuz Kerpen | Pannenhilfe und Abschleppen in Kerpen: Kolpingstadt westlich von Köln, Autobahnkreuz Kerpen von A4 und A61, drei Anschlussstellen auf dem Stadtgebiet. | page ===
 <!--AREAS: Kerpen, Horrem, Sindorf, Türnich, Buir, Blatzheim, Manheim, Mödrath, Kreuz Kerpen, Erft -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kerpen</p><h1>Abschleppdienst Kerpen</h1><p class="lead">Kerpen liegt wenige Kilometer westlich von Köln, hier kreuzen sich A4 und A61. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kerpen</p><h1>Abschleppdienst Kerpen</h1><p class="lead">Kerpen liegt wenige Kilometer westlich von Köln, hier kreuzen sich A4 und A61. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Kerpen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Kerpen oder an A4, A61 und A1. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -121,7 +121,7 @@
 
 === stadt-frechen | Abschleppdienst Frechen: Pannenhilfe A1, A4, B264, L277 | Pannenhilfe und Abschleppen in Frechen: Nachbarstadt von Köln, Anschlussstelle Frechen an der A1, Frechen Nord an der A4, B264, Stadtbahn 7. | page ===
 <!--AREAS: Frechen, Königsdorf, Buschbell, Hücheln, Bachem, Habbelrath, Grefrath, Benzelrath, Kreuz Köln-West -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Frechen</p><h1>Abschleppdienst Frechen</h1><p class="lead">Frechen grenzt westlich an Köln, die A1 verläuft am Autobahnkreuz Köln-West. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Frechen</p><h1>Abschleppdienst Frechen</h1><p class="lead">Frechen grenzt westlich an Köln, die A1 verläuft am Autobahnkreuz Köln-West. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Frechen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Frechen oder an A1, A4 und B264. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

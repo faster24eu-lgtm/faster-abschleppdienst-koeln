@@ -7,7 +7,7 @@
   my %STATE = map { $_->[0] => $_->[2] } @GEO_CITY;
   my %INTRO;
   if (open(my $sf,'<:raw',"$Bin/content/bundeslaender.txt")) { my $k; while (my $l=<$sf>) { if ($l =~ /^=== (.+?) ===\s*$/) { $k=$1; next } $INTRO{$k} .= $l if defined $k } close $sf }
-  my $wabtn = '<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p>';
+  my $wabtn = '<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p>';
   # Bundesland hubs
   my @states = sort keys %BYST;
   for my $name (@states) {

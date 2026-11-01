@@ -1,6 +1,6 @@
 === stadt-velbert | Abschleppdienst Velbert: Pannenhilfe A44, A535, A46, B227 | Pannenhilfe und Abschleppen in Velbert: drei Stadtbezirke im Niederbergischen Land, A44 mit Tunnel Birth, A535, B227 und Willy-Brandt-Platz. | page ===
 <!--AREAS: Velbert, Velbert-Mitte, Neviges, Langenberg, Tönisheide, Heiligenhaus, Wuppertal -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Velbert</p><h1>Abschleppdienst Velbert</h1><p class="lead">Velbert liegt im Niederbergischen Land zwischen Düsseldorf, Essen und Wuppertal an A44, A535 und A46. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Velbert</p><h1>Abschleppdienst Velbert</h1><p class="lead">Velbert liegt im Niederbergischen Land zwischen Düsseldorf, Essen und Wuppertal an A44, A535 und A46. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Velbert: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Velbert oder an A44, A535, A46 und B227. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -41,7 +41,7 @@
 
 === stadt-minden | Abschleppdienst Minden: Pannenhilfe B65, B61, Weserbrücken | Pannenhilfe und Abschleppen in Minden: Stadt an der Weser, A2 und A30 rund 15 Kilometer südlich, B65, B61 mit Weserauentunnel, vierspurige Weserbrücken. | page ===
 <!--AREAS: Minden, Minden-Häverstädt, Minden-Dützen, Minden-Haddenhausen, Porta Westfalica, Weser -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Minden</p><h1>Abschleppdienst Minden</h1><p class="lead">Minden liegt beiderseits der Weser im Nordosten Nordrhein-Westfalens, A2 und A30 verlaufen rund 15 Kilometer südlich. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Minden</p><h1>Abschleppdienst Minden</h1><p class="lead">Minden liegt beiderseits der Weser im Nordosten Nordrhein-Westfalens, A2 und A30 verlaufen rund 15 Kilometer südlich. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Minden: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Minden oder an B65, B61, A2 und A30. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -82,7 +82,7 @@
 
 === stadt-gladbeck | Abschleppdienst Gladbeck: Pannenhilfe A2, A31, A52, B224 | Pannenhilfe und Abschleppen in Gladbeck: nördliches Ruhrgebiet, Anschlussstellen der A2, A31 und A52, B224 und Europabrücke. | page ===
 <!--AREAS: Gladbeck, Gladbeck-Mitte, Rentfort, Brauck, Butendorf, Ellinghorst, Zweckel, Schultendorf -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gladbeck</p><h1>Abschleppdienst Gladbeck</h1><p class="lead">Gladbeck liegt im nördlichen Ruhrgebiet an drei Autobahnen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gladbeck</p><h1>Abschleppdienst Gladbeck</h1><p class="lead">Gladbeck liegt im nördlichen Ruhrgebiet an drei Autobahnen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Gladbeck: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Gladbeck oder an A2, A31, A52 und B224. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -123,7 +123,7 @@
 
 === stadt-memmingen | Abschleppdienst Memmingen: Pannenhilfe A7, A96, B300 | Pannenhilfe und Abschleppen in Memmingen: Kreuz von A7 und A96, südlichstes Autobahnkreuz Deutschlands, B300, B312, Mittlerer Ring. | page ===
 <!--AREAS: Memmingen, Amendingen, Buxach, Steinheim, Dickenreishausen, Eisenburg, Iller -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Memmingen</p><h1>Abschleppdienst Memmingen</h1><p class="lead">Memmingen liegt in Bayerisch-Schwaben am Autobahnkreuz von A7 und A96. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Memmingen</p><h1>Abschleppdienst Memmingen</h1><p class="lead">Memmingen liegt in Bayerisch-Schwaben am Autobahnkreuz von A7 und A96. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Memmingen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Memmingen oder an A7, A96, B300 und B312. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -164,7 +164,7 @@
 
 === stadt-iserlohn | Abschleppdienst Iserlohn: Pannenhilfe A46, B7, B233, B236 | Pannenhilfe und Abschleppen in Iserlohn: größte Stadt des Sauerlandes, A46 mit fünf Anschlussstellen, B7, B233, B236 und Seilersee mit Autobahnbrücke. | page ===
 <!--AREAS: Iserlohn, Letmathe, Hemer, Seilersee, Iserlohn-Kalthof, Sümmern, Märkischer Kreis -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Iserlohn</p><h1>Abschleppdienst Iserlohn</h1><p class="lead">Iserlohn ist die größte Stadt des Sauerlandes und liegt an der A46 im Märkischen Kreis. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Iserlohn</p><h1>Abschleppdienst Iserlohn</h1><p class="lead">Iserlohn ist die größte Stadt des Sauerlandes und liegt an der A46 im Märkischen Kreis. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Iserlohn: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Iserlohn oder an A46, B7, B233 und B236. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

@@ -3,7 +3,7 @@
 <p class="eyebrow">Towing &amp; Roadside Assistance</p>
 <h1>Towing and Roadside Assistance All Over Germany</h1>
 <p class="lead">Stuck by the roadside with your vehicle and need someone to organise help? Call now or message us on WhatsApp. We coordinate a partner near you right away, with a focus on Cologne and the stretch between Karlsruhe and Offenburg.</p>
-<div class="actions"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a><a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></div>
+<div class="actions"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a></div>
 <ul class="proof"><li><strong>Around the clock</strong>by phone and WhatsApp, no ticket system</li><li><strong>Nationwide</strong>partners near you</li><li><strong>Four languages</strong>German, Dutch, French, English</li></ul>
 </div><div><img class="hero-img" src="assets/faster-road-transport.jpg" alt="Faster tow truck with vehicles on the road" width="1200" height="900" fetchpriority="high"></div></div></section>
 <section class="section"><div class="wrap"><h2>Where do you need help?</h2><p class="sub">Pick your region or your city. There you'll find exits, roads and tips for describing where you are.</p>

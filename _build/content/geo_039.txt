@@ -1,6 +1,6 @@
 === stadt-zwickau | Abschleppdienst Zwickau: Pannenhilfe A4, A72, B93, B173 | Pannenhilfe und Abschleppen in Zwickau: fünf Stadtbezirke, A4-Anschlussstelle Zwickau-Nord, A72 Zwickau-West und -Ost, Schnellstraße B93 und B173. | page ===
 <!--AREAS: Zwickau, Zwickau-Cainsdorf, Zwickau-Planitz, Zwickau-Eckersbach, Zwickau-Oberhohndorf, Zwickau-Crossen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Zwickau</p><h1>Abschleppdienst Zwickau</h1><p class="lead">Zwickau liegt in Südwestsachsen zwischen der A4 im Norden und der A72 im Süden. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Zwickau</p><h1>Abschleppdienst Zwickau</h1><p class="lead">Zwickau liegt in Südwestsachsen zwischen der A4 im Norden und der A72 im Süden. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Zwickau: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Zwickau oder an A4, A72, B93 und B173. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-gera | Abschleppdienst Gera: Pannenhilfe A4, B2, B7, B92 | Pannenhilfe und Abschleppen in Gera: 28 Ortsteile, Weiße Elster, A4 mit Gera-Langenberg, Geraer Kreuz und Gera-Leumnitz, B2, B7, B92 und Umfahrung. | page ===
 <!--AREAS: Gera, Gera-Langenberg, Gera-Leumnitz, Gera-Untermhaus, Gera-Lusan, Gera-Cretzschwitz -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gera</p><h1>Abschleppdienst Gera</h1><p class="lead">Gera liegt an der Weißen Elster in Ostthüringen, die A4 verläuft durch das nördliche Stadtgebiet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gera</p><h1>Abschleppdienst Gera</h1><p class="lead">Gera liegt an der Weißen Elster in Ostthüringen, die A4 verläuft durch das nördliche Stadtgebiet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Gera: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Gera oder an A4, B2, B7 und B92. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -84,7 +84,7 @@
 
 === stadt-esslingen | Abschleppdienst Esslingen am Neckar: Pannenhilfe A8, B10 | Pannenhilfe und Abschleppen in Esslingen am Neckar: 24 Stadtteile, Neckartal, B10 vierspurig, A8-Anschlussstelle Esslingen und Nähe zu Stuttgart. | page ===
 <!--AREAS: Esslingen am Neckar, Esslingen-Zell, Esslingen-Mettingen, Esslingen-Oberesslingen, Esslingen-Berkheim, Plochingen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Esslingen am Neckar</p><h1>Abschleppdienst Esslingen am Neckar</h1><p class="lead">Esslingen liegt etwa zehn Kilometer südöstlich von Stuttgart im Neckartal an der B10 und der A8. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Esslingen am Neckar</p><h1>Abschleppdienst Esslingen am Neckar</h1><p class="lead">Esslingen liegt etwa zehn Kilometer südöstlich von Stuttgart im Neckartal an der B10 und der A8. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Esslingen am Neckar: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Esslingen am Neckar oder an A8 und B10. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -133,7 +133,7 @@
 
 === stadt-tuebingen | Abschleppdienst Tübingen: Pannenhilfe B27, B28, Schlossbergtunnel | Pannenhilfe und Abschleppen in Tübingen: Universitätsstadt am Neckar ohne Autobahnanschluss, B27 und B28, Schlossbergtunnel. | page ===
 <!--AREAS: Tübingen, Tübingen-Derendingen, Tübingen-Lustnau, Tübingen-Hirschau, Tübingen-Weilheim, Dußlingen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Tübingen</p><h1>Abschleppdienst Tübingen</h1><p class="lead">Tübingen liegt am Neckar rund 30 Kilometer südlich von Stuttgart, ohne unmittelbaren Autobahnanschluss. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Tübingen</p><h1>Abschleppdienst Tübingen</h1><p class="lead">Tübingen liegt am Neckar rund 30 Kilometer südlich von Stuttgart, ohne unmittelbaren Autobahnanschluss. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Tübingen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Tübingen oder an B27, B28, A8 und A81. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

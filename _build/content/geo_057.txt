@@ -1,6 +1,6 @@
 === stadt-neumuenster | Abschleppdienst Neumünster: Pannenhilfe A7, B205, B430 | Pannenhilfe und Abschleppen in Neumünster: Verkehrsknoten an der A7 mit B205 und B430, neun Stadtteile, Holstenhallen, Metropolregion Hamburg. | page ===
 <!--AREAS: Neumünster, Einfeld, Gadeland, Tungendorf, Wittorf, Faldera, Brachenfeld, Bad Bramstedt, Rendsburg -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neumünster</p><h1>Abschleppdienst Neumünster</h1><p class="lead">Neumünster liegt in Holstein an der A7 zwischen Hamburg, Kiel und Flensburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neumünster</p><h1>Abschleppdienst Neumünster</h1><p class="lead">Neumünster liegt in Holstein an der A7 zwischen Hamburg, Kiel und Flensburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Neumünster: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Neumünster oder an A7, B205, B430 und B4. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-wismar | Abschleppdienst Wismar: Pannenhilfe A20, A14, Kreuz Wismar | Pannenhilfe und Abschleppen in Wismar: Hansestadt an der Wismarer Bucht, Kreuz Wismar von A20 und A14, Hafen mit Bahnanschluss und UNESCO-Altstadt. | page ===
 <!--AREAS: Wismar, Wismarer Bucht, Insel Poel, Hafen Wismar, Kreuz Wismar, Schwerin, Lübeck -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wismar</p><h1>Abschleppdienst Wismar</h1><p class="lead">Wismar liegt an der Wismarer Bucht, hier kreuzen sich A20 und A14. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wismar</p><h1>Abschleppdienst Wismar</h1><p class="lead">Wismar liegt an der Wismarer Bucht, hier kreuzen sich A20 und A14. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Wismar: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Wismar oder an A20 und A14. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

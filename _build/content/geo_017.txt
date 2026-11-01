@@ -1,6 +1,6 @@
 === stadt-halle | Abschleppdienst Halle (Saale): Pannenhilfe A14, A9, A38 | Pannenhilfe und Abschleppen in Halle (Saale): fünf Stadtbezirke, Saale, Autobahnring der Mitteldeutschen Schleife, A14, A9, Star Park und Hafen. | page ===
 <!--AREAS: Halle (Saale), Halle-Neustadt, Halle-Trotha, Halle-Peißen, Halle-Ost -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Halle (Saale)</p><h1>Abschleppdienst Halle (Saale)</h1><p class="lead">Halle wird auf drei Seiten von einem Autobahnring umgeben, der Teil der Mitteldeutschen Schleife ist. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Halle (Saale)</p><h1>Abschleppdienst Halle (Saale)</h1><p class="lead">Halle wird auf drei Seiten von einem Autobahnring umgeben, der Teil der Mitteldeutschen Schleife ist. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Großstadt an der Saale</h2>
 <p>Halle (Saale) ist eine kreisfreie Großstadt im Süden von Sachsen-Anhalt. Das Stadtgebiet ist in die fünf Stadtbezirke Mitte, Nord, Ost, Süd und West gegliedert, die in Stadtteile und diese wiederum in Stadtviertel unterteilt sind. Die Saale fließt durch Halle und ist mit mehreren Wehren und Schleusen schiffbar. Das gibt Ihnen einen Hinweis für die Standortangabe: Nennen Sie uns die Seite der Saale und die Brücke, an der Sie stehen.</p>
@@ -36,7 +36,7 @@
 
 === stadt-magdeburg | Abschleppdienst Magdeburg: Pannenhilfe A2, A14, Elbe | Pannenhilfe und Abschleppen in Magdeburg: 40 Stadtteile, Kreuz Magdeburg mit A2 und A14, Straßentunnel B1 und Wasserstraßenkreuz. Standort nennen. | page ===
 <!--AREAS: Magdeburg, Magdeburg-Rothensee, Magdeburg-Neustadt, Magdeburg-Stadtfeld, Magdeburg-Ostelbien -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Magdeburg</p><h1>Abschleppdienst Magdeburg</h1><p class="lead">Magdeburg liegt an der Elbe und ist ein Verkehrsknotenpunkt: im Norden die A2, dazu die A14 und mehrere Straßentunnel. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Magdeburg</p><h1>Abschleppdienst Magdeburg</h1><p class="lead">Magdeburg liegt an der Elbe und ist ein Verkehrsknotenpunkt: im Norden die A2, dazu die A14 und mehrere Straßentunnel. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Hauptstadt Sachsen-Anhalts an der Elbe</h2>
 <p>Magdeburg ist die Hauptstadt des Landes Sachsen-Anhalt und in 40 Stadtteile gegliedert. Wenn Sie in Magdeburg liegen bleiben, nennen Sie uns Stadtteil, Straße und ob Sie westlich oder östlich der Elbe stehen.</p>
@@ -71,7 +71,7 @@
 
 === stadt-freiburg | Abschleppdienst Freiburg im Breisgau: Pannenhilfe A5 | Pannenhilfe und Abschleppen in Freiburg im Breisgau: 28 Stadtteile, Schauinsland, A5, Schwarzwald und Höhenunterschiede. So nennen Sie Ihren Standort. | page ===
 <!--AREAS: Freiburg im Breisgau, Freiburg-Littenweiler, Freiburg-Haslach, Freiburg-Hochdorf, Freiburg-Munzingen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Freiburg im Breisgau</p><h1>Abschleppdienst Freiburg im Breisgau</h1><p class="lead">Freiburg liegt am Rand des Schwarzwalds mit dem größten Höhenunterschied unter den deutschen Großstädten. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Freiburg im Breisgau</p><h1>Abschleppdienst Freiburg im Breisgau</h1><p class="lead">Freiburg liegt am Rand des Schwarzwalds mit dem größten Höhenunterschied unter den deutschen Großstädten. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Stadt zwischen Rhein und Schwarzwald</h2>
 <p>Freiburg im Breisgau liegt am Rand des Schwarzwalds. Mit dem südöstlich gelegenen, gut 1.280 Meter hohen Schauinsland gehört einer der höheren Berge des Schwarzwaldes zum Stadtgebiet, der Höhenunterschied im Stadtgebiet ist entsprechend groß. Für eine Panne bedeutet das: Vieles hängt davon ab, ob Sie in der Rheinebene oder an einem Hang stehen. Sagen Sie uns, ob Sie bergauf oder bergab stehen und wie eng die Straße ist.</p>
@@ -107,7 +107,7 @@
 
 === stadt-krefeld | Abschleppdienst Krefeld: Pannenhilfe A57, A44, A40 | Pannenhilfe und Abschleppen in Krefeld: fünf Stadtbezirke, A57 mit Kreuz Meerbusch und Kreuz Moers, Geismühle, B9 und B57. Standort nennen. | page ===
 <!--AREAS: Krefeld, Krefeld-Uerdingen, Krefeld-Oppum, Krefeld-Linn, Krefeld-Hüls -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Krefeld</p><h1>Abschleppdienst Krefeld</h1><p class="lead">Krefeld liegt am linken Niederrhein und wird von der A57 in Nord-Süd-Richtung durchquert. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Krefeld</p><h1>Abschleppdienst Krefeld</h1><p class="lead">Krefeld liegt am linken Niederrhein und wird von der A57 in Nord-Süd-Richtung durchquert. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Samt- und Seidenstadt am Niederrhein</h2>
 <p>Krefeld ist eine linksrheinisch gelegene Großstadt am Niederrhein, im Beinamen auch "Samt- und Seidenstadt" genannt. Das Stadtgebiet gliedert sich in die fünf Stadtbezirke Mitte, Nord, West, Süd und Ost. Bei einer Panne zählen Stadtteil und Straße, zum Beispiel Uerdingen, Oppum, Linn oder Hüls, dazu die Angabe, ob Sie an einer Hauptstraße oder in einer Wohnstraße stehen.</p>

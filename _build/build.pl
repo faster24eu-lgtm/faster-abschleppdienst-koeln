@@ -1,19 +1,19 @@
 use strict; use warnings; use FindBin qw($Bin);
 binmode(STDOUT,':raw');
 my $OUT = "$Bin/..";
-my $WA  = 'https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.';
+my $WA  = 'https://wa.me/3233756737?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.';
 
 my $header = <<'EOT';
 <header class="site-header"><div class="wrap nav">
   <a class="brand" href="home.html" aria-label="Faster Abschleppdienst - Startseite"><img src="assets/faster-logo-de-600.png" alt="Faster Abschleppdienst Logo" width="110" height="38"><span><strong>FASTER</strong><small>ABSCHLEPPDIENST &amp; PANNENHILFE</small></span></a>
   <nav class="menu" aria-label="Hauptnavigation">@@MENU@@</nav>
-  <div class="nav-cta">@@LANGSWITCH@@<a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp</a><a class="btn btn-y hide-s" href="tel:+4917641956993">+49 176 41956993</a></div>
+  <div class="nav-cta">@@LANGSWITCH@@<a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp</a></div>
 </div></header>
 EOT
 my $footer = <<'EOT';
 <footer class="site-footer"><div class="wrap foot-grid">
   <div><strong>Faster Abschleppdienst</strong><p>Abschleppdienst und Pannenhilfe in ganz Deutschland, mit Schwerpunkt Köln und Karlsruhe bis Offenburg. Persönlich und rund um die Uhr erreichbar.</p></div>
-  <div><strong>Kontakt</strong><p><a href="tel:+4917641956993">+49 176 41956993</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Adresse: Am Festungsgraben 2<br>10117 Berlin</p></div>
+  <div><strong>Kontakt</strong><p><a href="https://wa.me/3233756737" target="_blank" rel="noopener">WhatsApp +32 3 375 67 37</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Adresse: Am Festungsgraben 2<br>10117 Berlin</p></div>
   <div><strong>Köln</strong><p><a href="index.html">Abschleppdienst Köln</a><br><a href="pannenhilfe-koeln.html">Pannenhilfe Köln</a><br><a href="abschleppen-bergung-koeln.html">Abschleppen &amp; Bergung Köln</a><br><a href="abschleppdienst-koeln-stadtteile.html">Stadtbezirke und Rheinbrücken</a><br><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a><br><a href="pannenhilfe-a3-koeln.html">Panne auf der A3</a><br><a href="pannenhilfe-a4-koeln.html">Panne auf der A4</a><br><a href="pannenhilfe-a1-koeln.html">Panne auf der A1</a></p></div>
   <div><strong>Karlsruhe bis Offenburg</strong><p><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden</a><br><a href="abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="abschleppdienst-a5.html">Panne auf der A5</a></p></div>
   <div><strong>Ratgeber &amp; Rechtliches</strong><p><a href="staedte.html">Alle Städte</a><br><a href="autobahnen.html">Autobahnen</a><br><a href="ratgeber.html">Alle Ratgeber</a><br><a href="kontakt.html">Kontakt</a><br><a href="impressum.html">Impressum</a><br><a href="datenschutz.html">Datenschutz</a><br><a href="#" onclick="return window.openCookieBanner &amp;&amp; window.openCookieBanner(event)">Cookie-Einstellungen</a></p></div>
@@ -25,13 +25,13 @@ my $header_en = <<'EOT';
 <header class="site-header"><div class="wrap nav">
   <a class="brand" href="en-home.html" aria-label="Faster Abschleppdienst - Home"><img src="assets/faster-logo-de-600.png" alt="Faster Abschleppdienst Logo" width="110" height="38"><span><strong>FASTER</strong><small>TOWING &amp; ROADSIDE ASSISTANCE</small></span></a>
   <nav class="menu" aria-label="Main navigation">@@MENU@@</nav>
-  <div class="nav-cta">@@LANGSWITCH@@<a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp</a><a class="btn btn-y hide-s" href="tel:+4917641956993">+49 176 41956993</a></div>
+  <div class="nav-cta">@@LANGSWITCH@@<a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp</a></div>
 </div></header>
 EOT
 my $footer_en = <<'EOT';
 <footer class="site-footer"><div class="wrap foot-grid">
   <div><strong>Faster Abschleppdienst</strong><p>Towing and roadside assistance all over Germany, with a focus on Cologne and Karlsruhe to Offenburg. Personal service, reachable around the clock.</p></div>
-  <div><strong>Contact</strong><p><a href="tel:+4917641956993">+49 176 41956993</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Address: Am Festungsgraben 2<br>10117 Berlin, Germany</p></div>
+  <div><strong>Contact</strong><p><a href="https://wa.me/3233756737" target="_blank" rel="noopener">WhatsApp +32 3 375 67 37</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Address: Am Festungsgraben 2<br>10117 Berlin, Germany</p></div>
   <div><strong>Cologne</strong><p><a href="en-index.html">Towing Service Cologne</a><br><a href="en-pannenhilfe-koeln.html">Roadside Assistance Cologne</a><br><a href="en-abschleppen-bergung-koeln.html">Towing &amp; Recovery Cologne</a><br><a href="en-abschleppdienst-koeln-stadtteile.html">Districts &amp; Rhine Bridges</a><br><a href="en-pannenhilfe-koelner-autobahnring.html">Cologne Motorway Ring</a><br><a href="en-pannenhilfe-a3-koeln.html">Breakdown on the A3</a><br><a href="en-pannenhilfe-a4-koeln.html">Breakdown on the A4</a><br><a href="en-pannenhilfe-a1-koeln.html">Breakdown on the A1</a></p></div>
   <div><strong>Karlsruhe to Offenburg</strong><p><a href="en-abschleppdienst-mittelbaden.html">Central Baden Overview</a><br><a href="en-abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="en-abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="en-abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="en-abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="en-abschleppdienst-a5.html">Breakdown on the A5</a></p></div>
   <div><strong>Guides &amp; Legal</strong><p><a href="staedte.html">All Cities (German)</a><br><a href="bundeslaender.html">States (German)</a><br><a href="autobahnen.html">Motorways (German)</a><br><a href="ratgeber.html">All Guides (German)</a><br><a href="kontakt.html">Contact</a><br><a href="impressum.html">Legal Notice</a><br><a href="datenschutz.html">Privacy Policy</a><br><a href="#" onclick="return window.openCookieBanner &amp;&amp; window.openCookieBanner(event)">Cookie Settings</a></p></div>
@@ -49,15 +49,12 @@ gtag('consent', 'default', {
 </script>
 EOT
 # Google tag (Google Ads AW-18517785509) with call conversion / phone-swap config.
-# Phone number below must match the visible text exactly ("+49 176 41956993") for the number-swap to work.
+# Phone number below must match the visible text exactly ("WhatsApp +32 3 375 67 37") for the number-swap to work.
 my $gtag_script = <<'EOT';
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18517785509"></script>
 <script>
 gtag('js', new Date());
-gtag('config', 'AW-18517785509');
-gtag('config', 'AW-18517785509/FgL9CJ2g8KQdEKX3-_1E', {
-  'phone_conversion_number': '+49 176 41956993'
-});
+gtag('config', 'AW-18517785509');
 </script>
 EOT
 # Reporting-only click events for phone and WhatsApp links (event delegation, no send_to/conversion label).
@@ -137,10 +134,10 @@ my $cookie_banner_en = <<'EOT';
 EOT
 my $ld = <<'EOT';
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"Faster Abschleppdienst","description":"Abschleppdienst und Pannenhilfe für Köln und Umgebung.","email":"faster24eu@gmail.com","telephone":"+4917641956993","address":{"@type":"PostalAddress","streetAddress":"Am Festungsgraben 2","postalCode":"10117","addressLocality":"Berlin","addressCountry":"DE"},"areaServed":{"@type":"City","name":"Köln"},"knowsLanguage":["de","nl","fr","en"]}
+{"@context":"https://schema.org","@type":"LocalBusiness","name":"Faster Abschleppdienst","description":"Abschleppdienst und Pannenhilfe für Köln und Umgebung.","email":"faster24eu@gmail.com","telephone":"+3233756737","address":{"@type":"PostalAddress","streetAddress":"Am Festungsgraben 2","postalCode":"10117","addressLocality":"Berlin","addressCountry":"DE"},"areaServed":{"@type":"City","name":"Köln"},"knowsLanguage":["de","nl","fr","en"]}
 </script>
 EOT
-my $cta = '<section class="cta"><div class="wrap cta-in"><div><h2>Liegengeblieben? Jetzt anrufen.</h2><p>24 Stunden erreichbar. Wir nennen Ihnen den Preis, bevor jemand losfährt.</p></div><div class="actions"><a class="btn btn-dark" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a><a class="btn btn-out" href="tel:+4917641956993">+49 176 41956993</a></div></div></section>';
+my $cta = '<section class="cta"><div class="wrap cta-in"><div><h2>Liegengeblieben? Jetzt per WhatsApp melden.</h2><p>24 Stunden erreichbar. Wir nennen Ihnen den Preis, bevor jemand losfährt.</p></div><div class="actions"><a class="btn btn-dark" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></div></div></section>';
 my (@order, %P); my $cur;
 while (my $l = <DATA>) {
   if ($l =~ /^=== (\S+) \| (.*?\| Faster Abschleppdienst) \| (.*) \| (\w+) ===\s*$/) { $cur=$1; push @order,$cur; $P{$cur}={title=>$2,desc=>$3,flag=>$4,body=>''}; next }
@@ -149,12 +146,12 @@ while (my $l = <DATA>) {
 # extra page: Karlsruhe / Mittelbaden (body generated from the owner's copy by md2body.pl)
 if (open(my $mb,'<:raw',"$Bin/content/mittelbaden_body.html")) {
   local $/; my $b=<$mb>; close $mb;
-  my $wa2='https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.';
+  my $wa2='https://wa.me/3233756737?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.';
   $b =~ s/\@\@WA2\@\@/$wa2/g;
   push @order,'abschleppdienst-mittelbaden';
   $P{'abschleppdienst-mittelbaden'}={
     title=>'Abschleppdienst Karlsruhe bis Offenburg ab 129 €',
-    desc=>'Panne oder Unfall zwischen Karlsruhe, Baden-Baden, Achern und Offenburg? 24h Abschleppdienst und Pannenhilfe, Festpreis am Telefon. +49 176 41956993',
+    desc=>'Panne oder Unfall zwischen Karlsruhe, Baden-Baden, Achern und Offenburg? 24h Abschleppdienst und Pannenhilfe, Festpreis am Telefon. WhatsApp +32 3 375 67 37',
     flag=>'page', body=>$b};
 }
 sub jesc { my $s=shift; $s =~ s/<[^>]+>//g; $s =~ s/&amp;/&/g; $s =~ s/&nbsp;/ /g; $s =~ tr/\\//d; $s =~ s/"/\\"/g; $s =~ s/\s+/ /g; $s }
@@ -167,7 +164,7 @@ sub schema_for {
   $out .= '<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":['.join(',',@qa).']}</script>'."\n" if @qa;
   if ($$r =~ s/<!--AREAS: (.*?) -->\n?//) {
     my @ar = map { '{"@type":"City","name":"'.$_.'"}' } split /, /, $1;
-    $out .= '<script type="application/ld+json">{"@context":"https://schema.org","@type":"AutomotiveBusiness","name":"Faster Abschleppdienst","telephone":"+4917641956993","email":"faster24eu@gmail.com","areaServed":['.join(',',@ar).'],"knowsLanguage":["de","nl","fr","en"]}</script>'."\n";
+    $out .= '<script type="application/ld+json">{"@context":"https://schema.org","@type":"AutomotiveBusiness","name":"Faster Abschleppdienst","telephone":"+3233756737","email":"faster24eu@gmail.com","areaServed":['.join(',',@ar).'],"knowsLanguage":["de","nl","fr","en"]}</script>'."\n";
   }
   return $out;
 }
@@ -225,14 +222,14 @@ sub cta_for {
     if ($slug =~ /^en-(index|.*koeln.*)$/) { ($h,$t)=('Broken down in Cologne?','Call us or send your location on WhatsApp.'); }
     elsif ($slug =~ /^en-abschleppdienst-(karlsruhe|baden-baden|achern|offenburg|a5|mittelbaden)$/) { ($h,$t)=('Broken down between Karlsruhe and Offenburg?','Call us or share your location on WhatsApp. We tell you the price before anyone drives out.'); }
     else { ($h,$t)=('Reach us directly','Phone and WhatsApp: available around the clock.'); }
-    return qq{<section class="cta"><div class="wrap cta-in"><div><h2>$h</h2><p>$t</p></div><div class="actions"><a class="btn btn-dark" href="\@\@WA\@\@" target="_blank" rel="noopener">Send location on WhatsApp</a><a class="btn btn-out" href="tel:+4917641956993">+49 176 41956993</a></div></div></section>};
+    return qq{<section class="cta"><div class="wrap cta-in"><div><h2>$h</h2><p>$t</p></div><div class="actions"><a class="btn btn-dark" href="\@\@WA\@\@" target="_blank" rel="noopener">Send location on WhatsApp</a></div></div></section>};
   }
   my ($h,$t);
-  if ($slug =~ /^(index|.*koeln.*)$/) { ($h,$t)=('Panne in Köln?','Rufen Sie an oder schreiben Sie per WhatsApp und schicken Sie Ihren Standort.'); }
-  elsif ($slug =~ /^abschleppdienst-(karlsruhe|baden-baden|achern|offenburg|a5|mittelbaden)$/) { ($h,$t)=('Liegen geblieben zwischen Karlsruhe und Offenburg?','Rufen Sie an oder teilen Sie Ihren Standort per WhatsApp. Den Preis nennen wir vor der Abfahrt.'); }
-  elsif ($slug =~ /^ratgeber/) { ($h,$t)=('Ihr Fall ist nicht dabei?','Schildern Sie uns die Lage kurz am Telefon oder per WhatsApp, dann sagen wir Ihnen, was sinnvoll ist.'); }
+  if ($slug =~ /^(index|.*koeln.*)$/) { ($h,$t)=('Panne in Köln?','Schreiben Sie uns per WhatsApp und schicken Sie Ihren Standort.'); }
+  elsif ($slug =~ /^abschleppdienst-(karlsruhe|baden-baden|achern|offenburg|a5|mittelbaden)$/) { ($h,$t)=('Liegen geblieben zwischen Karlsruhe und Offenburg?','Teilen Sie Ihren Standort per WhatsApp. Den Preis nennen wir vor der Abfahrt.'); }
+  elsif ($slug =~ /^ratgeber/) { ($h,$t)=('Ihr Fall ist nicht dabei?','Schildern Sie uns die Lage kurz per WhatsApp, dann sagen wir Ihnen, was sinnvoll ist.'); }
   else { ($h,$t)=('Direkt erreichbar','Telefon und WhatsApp: rund um die Uhr.'); }
-  return qq{<section class="cta"><div class="wrap cta-in"><div><h2>$h</h2><p>$t</p></div><div class="actions"><a class="btn btn-dark" href="\@\@WA\@\@" target="_blank" rel="noopener">WhatsApp mit Standort</a><a class="btn btn-out" href="tel:+4917641956993">+49 176 41956993</a></div></div></section>};
+  return qq{<section class="cta"><div class="wrap cta-in"><div><h2>$h</h2><p>$t</p></div><div class="actions"><a class="btn btn-dark" href="\@\@WA\@\@" target="_blank" rel="noopener">WhatsApp mit Standort</a></div></div></section>};
 }
 sub plainlen { my $s=shift; $s =~ s/&amp;/&/g; $s =~ s/&[a-z]+;/x/g; length($s) }
 my @SITEMAP;
@@ -401,7 +398,7 @@ my (@GEO_CITY,@GEO_AB);
   my %by; push @{$by{$_->[2]}}, $_ for @GEO_CITY;
   my @rows; for my $g (sort keys %by) { push @rows, [$g, join(', ', map { qq{<a href="$_->[0].html">$_->[1]</a>} } sort { $a->[1] cmp $b->[1] } @{$by{$g}})]; }
   $P{'staedte'} = { title=>'Abschleppdienst in Deutschland: Städte | Faster Abschleppdienst', desc=>'Abschleppdienst und Pannenhilfe in deutschen Städten: Übersicht nach Bundesland mit Seiten zu Stadtteilen, Autobahnen und Hinweisen für Ihren Standort.', flag=>'hub',
-    body=>'<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Deutschlandweit</p><h1>Abschleppdienst in Ihrer Stadt</h1><p class="lead">Zu jeder Stadt in dieser Übersicht gibt es eine eigene Seite mit Stadtteilen, Autobahnen und Hinweisen, wie Sie Ihren Standort beschreiben. Rufen Sie an oder schreiben Sie per WhatsApp: wir organisieren die Hilfe.</p></div></section>'."\n".
+    body=>'<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Deutschlandweit</p><h1>Abschleppdienst in Ihrer Stadt</h1><p class="lead">Zu jeder Stadt in dieser Übersicht gibt es eine eigene Seite mit Stadtteilen, Autobahnen und Hinweisen, wie Sie Ihren Standort beschreiben. Schreiben Sie uns per WhatsApp: wir organisieren die Hilfe.</p></div></section>'."\n".
     '<section class="section"><div class="wrap narrow copy"><h2>Städte nach Bundesland</h2>'."\n".$tbl->(\@rows,'Bundesland','Städte')."\n".
     '<h2>Ihre Stadt fehlt?</h2><p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze in Deutschland übernehmen Partner vor Ort. Wenn Ihre Stadt hier noch nicht aufgeführt ist, rufen Sie trotzdem an oder schreiben Sie uns per WhatsApp mit Ihrem Standort: in vielen Fällen können wir auch dort Hilfe organisieren. Auf den <a href="autobahnen.html">Autobahn-Seiten</a> finden Sie Ausfahrten und Hinweise zu den wichtigsten Strecken.</p>'."\n".'</div></section>'."\n".'@@CTA@@'."\n" };
   push @order,'staedte' unless grep { $_ eq 'staedte' } @order;
@@ -423,7 +420,7 @@ my (@GEO_CITY,@GEO_AB);
   # /staedte/ index grouped by Bundesland with search
   { my $sec = join('', map { my $nm=$_; my $sl=$blslug->($nm); '<div class="cityblock"><h2>'.$esc->($nm).'</h2><ul class="citylist">'.join('', map { qq{<li><a href="$_->[0].html">$_->[1]</a></li>} } sort { $a->[1] cmp $b->[1] } @{$BYST{$nm}})."</ul></div>\n" } @states);
     my $js = q{<script>(function(){var q=document.getElementById('cityq');if(!q){return;}var items=document.querySelectorAll('.citylist li');var blocks=document.querySelectorAll('.cityblock');q.addEventListener('input',function(){var v=q.value.trim().toLowerCase();for(var i=0;i<items.length;i++){items[i].style.display=(!v||items[i].textContent.toLowerCase().indexOf(v)>-1)?'':'none';}for(var j=0;j<blocks.length;j++){var lis=blocks[j].querySelectorAll('li');var any=false;for(var k=0;k<lis.length;k++){if(lis[k].style.display!=='none'){any=true;}}blocks[j].style.display=any?'':'none';}});})();</script>};
-    $P{'staedte'}{body} = qq{<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Deutschlandweit</p><h1>Abschleppdienst in Ihrer Stadt</h1><p class="lead">Zu jeder Stadt in dieser Übersicht gibt es eine eigene Seite mit Stadtteilen, Autobahnen und Hinweisen, wie Sie Ihren Standort beschreiben. Rufen Sie an oder schreiben Sie per WhatsApp: wir organisieren die Hilfe.</p></div></section>\n<section class="section"><div class="wrap narrow copy"><p><label for="cityq"><strong>Stadt suchen</strong></label><br><input class="citysearch" id="cityq" type="search" placeholder="Stadt eingeben, zum Beispiel Kassel" autocomplete="off"></p>\n$sec<h2>Ihre Stadt fehlt?</h2><p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze in Deutschland übernehmen Partner vor Ort. Wenn Ihre Stadt hier noch nicht aufgeführt ist, rufen Sie trotzdem an oder schreiben Sie uns per WhatsApp mit Ihrem Standort: wir klären dann, welcher Partner in Frage kommt. Auf den <a href="autobahnen.html">Autobahn-Seiten</a> finden Sie Ausfahrten und Hinweise zu den wichtigsten Strecken.</p>\n</div></section>\n$js\n\@\@CTA\@\@\n};  }
+    $P{'staedte'}{body} = qq{<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Deutschlandweit</p><h1>Abschleppdienst in Ihrer Stadt</h1><p class="lead">Zu jeder Stadt in dieser Übersicht gibt es eine eigene Seite mit Stadtteilen, Autobahnen und Hinweisen, wie Sie Ihren Standort beschreiben. Schreiben Sie uns per WhatsApp: wir organisieren die Hilfe.</p></div></section>\n<section class="section"><div class="wrap narrow copy"><p><label for="cityq"><strong>Stadt suchen</strong></label><br><input class="citysearch" id="cityq" type="search" placeholder="Stadt eingeben, zum Beispiel Kassel" autocomplete="off"></p>\n$sec<h2>Ihre Stadt fehlt?</h2><p>Faster hat seinen Sitz in Antwerpen (Belgien). Die Einsätze in Deutschland übernehmen Partner vor Ort. Wenn Ihre Stadt hier noch nicht aufgeführt ist, rufen Sie trotzdem an oder schreiben Sie uns per WhatsApp mit Ihrem Standort: wir klären dann, welcher Partner in Frage kommt. Auf den <a href="autobahnen.html">Autobahn-Seiten</a> finden Sie Ausfahrten und Hinweise zu den wichtigsten Strecken.</p>\n</div></section>\n$js\n\@\@CTA\@\@\n};  }
   # city pages: crumbs -> Bundesland, neighbours, services block, extra FAQ
   my %NB; if (open(my $nf,'<:raw',"$Bin/content/geo_nb.txt")) { while (my $l=<$nf>) { chomp $l; next if $l =~ /^\s*(#|$)/; my ($s,$n,$a)=split /\t/,$l; $NB{$s}=[$n//'',$a//''] } close $nf }
   my $tok = sub { my $t=shift; return 'index' if $t eq 'koeln'; return 'abschleppdienst-karlsruhe' if $t eq 'karlsruhe'; return "stadt-$t" };
@@ -498,7 +495,7 @@ sub service_ld {
   my $ar = join(',', map { '{"@type":"City","name":"'.$_.'"}' } @$areas);
   $name =~ s/"/\\"/g;
   my $stype = $is_en ? 'Towing and roadside assistance' : 'Abschleppdienst und Pannenhilfe';
-  return '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"'.$name.'","serviceType":"'.$stype.'","url":"'.$curl.'","provider":{"@type":"Organization","name":"Faster Abschleppdienst","telephone":"+4917641956993","email":"faster24eu@gmail.com"},"areaServed":['.$ar.'],"availableLanguage":["de","nl","fr","en"]}</script>'."\n";
+  return '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"'.$name.'","serviceType":"'.$stype.'","url":"'.$curl.'","provider":{"@type":"Organization","name":"Faster Abschleppdienst","telephone":"+3233756737","email":"faster24eu@gmail.com"},"areaServed":['.$ar.'],"availableLanguage":["de","nl","fr","en"]}</script>'."\n";
 }
 sub article_ld {
   my ($name,$curl,$is_en)=@_; $name =~ s/"/\\"/g;
@@ -523,7 +520,7 @@ for my $slug (@order) {
   my $p=$P{$slug}; my $body=$p->{body};
   my $path = path_for($slug); my $region = region_for($path);
   my $is_en = ($slug =~ /^en-/) ? 1 : 0;
-  my $wa = ($region eq 'koeln') ? $WA : 'https://wa.me/4917641956993?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.';
+  my $wa = ($region eq 'koeln') ? $WA : 'https://wa.me/3233756737?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.';
   $body =~ s/\@\@CTA\@\@/related_for($slug).cta_for($slug)/ge;
   $body =~ s/Wir nennen Ihnen den Preis, bevor jemand losfährt\./Wir besprechen Ihre Situation und sagen Ihnen, wie es weitergeht./ if $region eq 'koeln' && !$is_en;
   $body =~ s/\@\@WA\@\@/$wa/g;
@@ -622,9 +619,9 @@ __DATA__
 <section class="hero"><div class="wrap hero-grid"><div>
 <p class="eyebrow">Abschleppdienst Köln</p>
 <h1>Abschleppdienst Köln: Pannenhilfe und Abschleppen, 24/7 erreichbar</h1>
-<p class="lead">Panne, Unfall oder ein Fahrzeug, das nicht mehr startet? Rufen Sie an oder schreiben Sie per WhatsApp. Wir besprechen die Situation und organisieren die Hilfe in Köln und Umgebung.</p>
-<div class="actions"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a><a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993 anrufen</a></div>
-<ul class="proof"><li><strong>24/7</strong>erreichbar per Telefon und WhatsApp</li><li><strong>Persönlich</strong>direkt am Telefon oder per WhatsApp</li><li><strong>Pkw bis Transporter</strong>auch Motorräder und Maschinen</li></ul>
+<p class="lead">Panne, Unfall oder ein Fahrzeug, das nicht mehr startet? Schreiben Sie uns per WhatsApp. Wir besprechen die Situation und organisieren die Hilfe in Köln und Umgebung.</p>
+<div class="actions"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort senden</a></div>
+<ul class="proof"><li><strong>24/7</strong>erreichbar per Telefon und WhatsApp</li><li><strong>Persönlich</strong>direkt per WhatsApp</li><li><strong>Pkw bis Transporter</strong>auch Motorräder und Maschinen</li></ul>
 </div><div><img class="hero-img" src="assets/faster-road-transport.jpg" alt="Faster Abschleppwagen mit Fahrzeugen auf der Straße" width="1200" height="900" fetchpriority="high"></div></div></section>
 <section class="section"><div class="wrap"><h2>Unsere Leistungen in Köln und Umgebung</h2><p class="sub">Von der einfachen Starthilfe bis zum Abschleppen nach einem Unfall.</p>
 <div class="cards3">
@@ -644,12 +641,12 @@ __DATA__
 <p>Bringen Sie sich zuerst in Sicherheit, bevor Sie uns anrufen: Warnblinkanlage einschalten, Warnweste anziehen, Warndreieck aufstellen, wenn es sicher möglich ist, und wenn möglich hinter der Leitplanke warten. Um das Technische kümmern wir uns.</p></div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Häufige Fragen</h2>
 <details><summary>Wie schnell sind Sie da?</summary><div>Das hängt von Standort, Verkehr und Verfügbarkeit ab. Wir geben Ihnen beim Anruf eine realistische Einschätzung statt eines festen Versprechens.</div></details>
-<details><summary>Was kostet die Hilfe?</summary><div>Das hängt von Standort, Ziel, Fahrzeug und Situation ab und lässt sich nicht pauschal auf einer Website sagen. Rufen Sie an oder schreiben Sie uns, dann besprechen wir Ihren Fall persönlich.</div></details>
+<details><summary>Was kostet die Hilfe?</summary><div>Das hängt von Standort, Ziel, Fahrzeug und Situation ab und lässt sich nicht pauschal auf einer Website sagen. Schreiben Sie uns per WhatsApp, dann besprechen wir Ihren Fall persönlich.</div></details>
 <details><summary>Sind Sie nachts und am Wochenende erreichbar?</summary><div>Ja, per Telefon und WhatsApp sind wir 24/7 erreichbar.</div></details>
 <details><summary>Wo sitzt Faster, und wer fährt in Köln?</summary><div>Faster hat seinen Sitz in Antwerpen (Belgien). In Köln und Umgebung arbeiten wir mit Partnern zusammen, die den Einsatz vor Ort übernehmen. Sie erreichen uns rund um die Uhr; wir koordinieren die Hilfe.</div></details>
 <details><summary>Welche Sprachen sprechen Sie?</summary><div>Deutsch, Niederländisch, Französisch und Englisch.</div></details>
 </div></section>
-<section class="cta"><div class="wrap cta-in"><div><h2>Panne in Köln?</h2><p>Rufen Sie an oder schreiben Sie per WhatsApp. Wir sind 24/7 erreichbar.</p></div><div class="actions"><a class="btn btn-dark" href="@@WA@@" target="_blank" rel="noopener">WhatsApp</a><a class="btn btn-out" href="tel:+4917641956993">+49 176 41956993</a></div></div></section>
+<section class="cta"><div class="wrap cta-in"><div><h2>Panne in Köln?</h2><p>Schreiben Sie uns per WhatsApp. Wir sind 24/7 erreichbar.</p></div><div class="actions"><a class="btn btn-dark" href="@@WA@@" target="_blank" rel="noopener">WhatsApp</a></div></div></section>
 === pannenhilfe-koeln | Pannenhilfe Köln | Faster Abschleppdienst | Pannenhilfe in Köln und Umgebung: Batterie, Reifen, Startprobleme, ausgesperrt, falsch getankt. 24/7 erreichbar per Telefon und WhatsApp. | page ===
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Pannenhilfe</p><h1>Pannenhilfe Köln</h1><p class="lead">Nicht jede Panne braucht einen Abschleppwagen. Oft lässt sich das Problem vor Ort lösen.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
@@ -662,8 +659,8 @@ __DATA__
 <li><strong>Fahrzeug springt nicht an:</strong> Wir prüfen zuerst, was los ist, und entscheiden dann, ob eine Hilfe vor Ort reicht oder das Fahrzeug abgeschleppt werden muss.</li>
 </ul>
 <h2>So läuft es ab</h2>
-<p>Rufen Sie an oder schreiben Sie per WhatsApp und senden Sie Ihren Standort. Wir besprechen, was nötig ist, und organisieren die Hilfe.</p>
-<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p>
+<p>Schreiben Sie uns per WhatsApp und senden Sie Ihren Standort. Wir besprechen, was nötig ist, und organisieren die Hilfe.</p>
+<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p>
 </div></section>
 === abschleppen-bergung-koeln | Abschleppen und Bergung Köln | Abschleppen und Bergung in Köln nach Panne, Unfall oder Schaden. Transport zur Werkstatt oder zum Wunschziel, für Pkw, Transporter, Motorräder. | page ===
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Abschleppen &amp; Bergung</p><h1>Abschleppen und Bergung Köln</h1><p class="lead">Wenn Weiterfahren nicht mehr geht, bringen wir Ihr Fahrzeug sicher an den vereinbarten Ort.</p></div></section>
@@ -675,15 +672,15 @@ __DATA__
 <h2>Fahrzeuge</h2>
 <ul class="ticks"><li>Pkw und Transporter bis 3,5 Tonnen</li><li>Motorräder und Roller</li><li>Maschinen und Gabelstapler</li></ul>
 <h2>Kosten</h2>
-<p>Die Kosten hängen von Standort, Ziel, Fahrzeugtyp und Dringlichkeit ab. Rufen Sie an oder schreiben Sie uns, dann besprechen wir Ihren Fall persönlich.</p>
-<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p>
+<p>Die Kosten hängen von Standort, Ziel, Fahrzeugtyp und Dringlichkeit ab. Schreiben Sie uns per WhatsApp, dann besprechen wir Ihren Fall persönlich.</p>
+<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p>
 </div></section>
 === kontakt | Kontakt &amp; Anfrage | Faster Abschleppdienst | Abschleppdienst Köln kontaktieren: per Telefon, WhatsApp oder Formular. Faster Abschleppdienst. | page ===
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kontakt</p><h1>Hilfe anfordern</h1><p class="lead">Dringend? Rufen Sie an oder schreiben Sie per WhatsApp und senden Sie Ihren Standort.</p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kontakt</p><h1>Hilfe anfordern</h1><p class="lead">Dringend? Schreiben Sie uns per WhatsApp und senden Sie Ihren Standort.</p></div></section>
 <section class="section"><div class="wrap split">
 <div class="copy"><h2>So erreichen Sie uns</h2>
 <p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp schreiben</a></p>
-<p><a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993 anrufen</a></p>
+<p></p>
 <p><strong>E-Mail:</strong> <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
 <p><strong>Adresse:</strong><br>Faster Abschleppdienst<br>Am Festungsgraben 2<br>10117 Berlin</p>
 <p><strong>Sprachen:</strong> Deutsch, Niederländisch, Französisch und Englisch.</p></div>
@@ -707,7 +704,7 @@ __DATA__
 <p>Abdelkarim El Farkouch<br>Einzelunternehmen nach belgischem Recht, Handelsname „Faster Depannage / Takeldienst“<br>Am Festungsgraben 2<br>10117 Berlin</p>
 <p>Geschäftssitz: Boniverlei 172, 2650 Edegem, Belgien</p>
 <h2>Kontakt</h2>
-<p>Telefon: +49 176 41956993<br>E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
+<p>WhatsApp: +32 3 375 67 37<br>E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
 <h2>Unternehmensregister</h2>
 <p>Eingetragen in der Zentralen Datenbank der Unternehmen Belgiens (KBO/BCE)<br>Unternehmensnummer: 1003.737.489</p>
 <h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2>
@@ -717,7 +714,7 @@ __DATA__
 <section class="page-head"><div class="wrap narrow"><h1>Datenschutzerklärung</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>1. Verantwortlicher</h2>
-<p>Abdelkarim El Farkouch (Faster Depannage / Takeldienst), Am Festungsgraben 2, 10117 Berlin. E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a>, Telefon: +49 176 41956993.</p>
+<p>Abdelkarim El Farkouch (Faster Depannage / Takeldienst), Am Festungsgraben 2, 10117 Berlin. E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a>, WhatsApp: +32 3 375 67 37.</p>
 <h2>2. Hosting</h2>
 <p>Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. Beim Aufruf der Seiten verarbeitet GitHub technisch notwendige Daten, insbesondere Ihre IP-Adresse, Datum und Uhrzeit des Zugriffs sowie den verwendeten Browser, in Server-Logdateien. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer funktionsfähigen und sicheren Website). Dabei ist eine Übermittlung personenbezogener Daten in die USA nicht ausgeschlossen; GitHub, Inc. ist unter dem EU-US Data Privacy Framework zertifiziert, das ein angemessenes Datenschutzniveau vorsieht. Weitere Informationen finden Sie in der <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">Datenschutzerklärung von GitHub</a>.</p>
 <h2>3. Kontaktformular</h2>

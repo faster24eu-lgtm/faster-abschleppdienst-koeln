@@ -3,7 +3,7 @@
 <p class="eyebrow">Towing Service Cologne</p>
 <h1>Towing Service Cologne: Roadside Assistance, Reachable 24/7</h1>
 <p class="lead">Breakdown, accident, or a vehicle that won't start? Call now or message us on WhatsApp. We go through the situation right away and organise help in Cologne and the surrounding area.</p>
-<div class="actions"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a><a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></div>
+<div class="actions"><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a></div>
 <ul class="proof"><li><strong>24/7</strong>reachable by phone and WhatsApp</li><li><strong>Personal</strong>a real person on the phone, no ticket system</li><li><strong>Cars to vans</strong>also motorcycles and machinery</li></ul>
 </div><div><img class="hero-img" src="assets/faster-road-transport.jpg" alt="Faster tow truck with vehicles on the road" width="1200" height="900" fetchpriority="high"></div></div></section>
 <section class="section"><div class="wrap"><h2>Our services in Cologne and the surrounding area</h2><p class="sub">From simple jump-starts to towing after an accident.</p>
@@ -68,7 +68,7 @@
 </div></section>
 @@CTA@@
 === en-pannenhilfe-koeln | Roadside Assistance Cologne: Battery, Tyres, Wrong Fuel | Roadside assistance in Cologne: battery, tyres, locked out, wrong fuel. What can be fixed on the spot and when towing is needed. Reachable 24/7. | page ===
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Roadside Assistance</p><h1>Roadside Assistance Cologne</h1><p class="lead">Not every breakdown needs a tow truck. Often the problem can be fixed on the spot, and sometimes towing is the better option. Call now or message us, and we'll tell you right away what makes sense in your situation.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Free initial assessment on the phone, before anything drives out.</p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Roadside Assistance</p><h1>Roadside Assistance Cologne</h1><p class="lead">Not every breakdown needs a tow truck. Often the problem can be fixed on the spot, and sometimes towing is the better option. Call now or message us, and we'll tell you right away what makes sense in your situation.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a></p><p class="sub">Free initial assessment on the phone, before anything drives out.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Flat battery and won't start</h2>
 <p>If the engine just clicks or does nothing at all, it's usually the battery. Common causes are cold weather, lots of short trips, an ageing battery, or a light left on. If it's safe and technically possible, we first try to start the vehicle with a booster. After that you should drive a longer stretch and have the battery checked. If the vehicle still won't start, there's often another fault, for example the starter motor or fuel supply. Then transport to a garage is the next step. Hybrid and electric cars have special jump-start points; see our guide (German) on <a href="ratgeber-starthilfe-batterie.html">jump-starts and flat batteries</a>.</p>
@@ -86,7 +86,7 @@
 <p>If something red is lit up on the dashboard, or the engine overheats, see our guides (German) on <a href="ratgeber-warnleuchten-auto.html">warning lights</a> and <a href="ratgeber-motor-ueberhitzt.html">an overheating engine</a>. If none of that helps, the vehicle is loaded onto a flatbed and taken to the garage you name. How that works and what to prepare is on our <a href="en-abschleppen-bergung-koeln.html">Towing &amp; Recovery Cologne</a> page.</p>
 <h2>How it works</h2>
 <p>Call us or message on WhatsApp and send your location. We discuss what's needed and organise the help. Jobs on the ground are carried out by our partners in Cologne and the surrounding area.</p>
-<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p>
+<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a></p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
 <details><summary>Can a jump-start damage my car?</summary><div>Yes, if connected the wrong way, especially on modern vehicles with sensitive electronics. Get help, or check your owner's manual.</div></details>
@@ -96,7 +96,7 @@
 <section class="section"><div class="wrap narrow"><div class="related"><a href="ratgeber-starthilfe-batterie.html">Jump-starting<small>Battery, cables, how it's done (German)</small></a><a href="ratgeber-falsch-getankt.html">Wrong fuel<small>What not to do (German)</small></a><a href="ratgeber-ausgesperrt.html">Locked out<small>Keys in the car (German)</small></a></div></div></section>
 @@CTA@@
 === en-abschleppen-bergung-koeln | Towing &amp; Recovery Cologne After a Breakdown or Accident | Towing and recovery in Cologne after a breakdown, accident or damage. Transport to a garage or your chosen destination, for cars, vans, motorcycles. | page ===
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Towing &amp; Recovery</p><h1>Towing &amp; Recovery Cologne</h1><p class="lead">When driving on is no longer possible, we bring your vehicle safely to the agreed place right now. Call us or message us on WhatsApp, we're here for you immediately.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">No ticket system, no waiting on hold: you speak to us right away.</p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Towing &amp; Recovery</p><h1>Towing &amp; Recovery Cologne</h1><p class="lead">When driving on is no longer possible, we bring your vehicle safely to the agreed place right now. Call us or message us on WhatsApp, we're here for you immediately.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a></p><p class="sub">No ticket system, no waiting on hold: you speak to us right away.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>What happens after you call?</h2>
 <p>You tell us briefly what happened and send us your location, easiest by WhatsApp. We work out with you the vehicle and destination and tell you the price before anyone drives out. After that our partner on the ground picks up your vehicle and brings it to the agreed place.</p>
@@ -122,7 +122,7 @@
 <p>Things work a little differently on the motorway: a vehicle is taken off at the next exit, and if the police are involved, a contracted company is often assigned. More on our <a href="en-pannenhilfe-koelner-autobahnring.html">Breakdown on the Cologne Motorway Ring</a> page.</p>
 <h2>Cost</h2>
 <p>The cost depends on location, destination, vehicle type and urgency. Call or message us and we'll discuss your case personally.</p>
-<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p>
+<p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a></p>
 </div></section>
 <section class="section grey"><div class="wrap narrow"><h2>Frequently Asked Questions</h2>
 <details><summary>Is my vehicle pulled or carried?</summary><div>Usually carried: it's loaded onto a flatbed. That's gentler, and for electric cars and motorcycles it's the right choice.</div></details>
@@ -133,7 +133,7 @@
 @@CTA@@
 === en-pannenhilfe-koelner-autobahnring | Breakdown on the Cologne Motorway Ring (A1, A3, A4, A555) | Breakdown around Cologne: the motorway ring with A1, A3, A4, A555 and A59. What to do in a breakdown or traffic jam. | page ===
 <!--AREAS: Köln, Leverkusen, Bonn -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne</p><h1>Breakdown on the Cologne Motorway Ring</h1><p class="lead">The A1, A3 and A4 form the ring around Cologne, together with the A555, A57 and A59. If you break down here, every minute counts: call immediately or send your location on WhatsApp, and we'll organise help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable around the clock, including nights and weekends.</p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne</p><h1>Breakdown on the Cologne Motorway Ring</h1><p class="lead">The A1, A3 and A4 form the ring around Cologne, together with the A555, A57 and A59. If you break down here, every minute counts: call immediately or send your location on WhatsApp, and we'll organise help.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a></p><p class="sub">Reachable around the clock, including nights and weekends.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>What happens after you call?</h2>
 <p>Tell us the motorway, direction of travel, and the last exit or interchange. We'll tell you right away what happens next and organise a partner who'll drive to you on the ring or one of the feeder motorways. We'll also tell you the price up front, before anyone drives out.</p>
@@ -186,7 +186,7 @@
 @@CTA@@
 === en-abschleppdienst-koeln-stadtteile | Cologne: Districts, Ring Roads &amp; Rhine Bridges | Where do we help in Cologne? Nine districts, ring roads and the Rhine bridges: how to describe your location in a breakdown. | page ===
 <!--AREAS: Köln, Ehrenfeld, Nippes, Lindenthal, Rodenkirchen, Chorweiler, Porz, Kalk, Mülheim, Deutz -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne</p><h1>Towing Service Cologne: Districts, Ring Roads &amp; Rhine Bridges</h1><p class="lead">Cologne is big and has many streets that share the same name. Describing your location well gets you help faster. Call now or message us on WhatsApp, whichever district you're in.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">One call is enough, we'll coordinate the right partner for your district.</p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne</p><h1>Towing Service Cologne: Districts, Ring Roads &amp; Rhine Bridges</h1><p class="lead">Cologne is big and has many streets that share the same name. Describing your location well gets you help faster. Call now or message us on WhatsApp, whichever district you're in.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a></p><p class="sub">One call is enough, we'll coordinate the right partner for your district.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>What happens after you call?</h2>
 <p>Tell us the district or borough and the street, plus your vehicle and what happened. We work out with you what's needed and tell you the price on the phone. After that our partner on the ground drives to you and takes the vehicle to the agreed place.</p>
@@ -250,7 +250,7 @@
 @@CTA@@
 === en-pannenhilfe-a3-koeln | Breakdown on the A3 near Cologne: Leverkusen to Rösrath | Breakdown on the A3 between Leverkusen and Rösrath: exits, the Cologne-Ost interchange, the Heumar triangle, eight lanes. | page ===
 <!--AREAS: Köln, Leverkusen, Rösrath -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne · A3</p><h1>Breakdown on the A3 near Cologne</h1><p class="lead">In eastern Cologne, the A3 is one of the busiest motorways in Germany. If you break down here, call immediately or message us on WhatsApp: we'll tell you roughly where you might be, and what matters most when you break down in heavy traffic.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable 24/7, even in the middle of the night on the hard shoulder.</p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne · A3</p><h1>Breakdown on the A3 near Cologne</h1><p class="lead">In eastern Cologne, the A3 is one of the busiest motorways in Germany. If you break down here, call immediately or message us on WhatsApp: we'll tell you roughly where you might be, and what matters most when you break down in heavy traffic.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a></p><p class="sub">Reachable 24/7, even in the middle of the night on the hard shoulder.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>What happens after you call?</h2>
 <p>Tell us your direction of travel and the last exit or rest stop, for example Köln-Dellbrück or Königsforst. We'll tell you the price right away and send a partner who'll drive to you on the A3. Until they arrive, stay reachable by phone in case your situation changes.</p>
@@ -299,7 +299,7 @@
 @@CTA@@
 === en-pannenhilfe-a4-koeln | Breakdown on the A4 near Cologne: Frechen to Bensberg | Breakdown on the A4 from Frechen to Bensberg: exits, the Rodenkirchen Bridge, the Cologne-Süd interchange, narrower sections. | page ===
 <!--AREAS: Köln, Frechen, Bergisch Gladbach -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne · A4</p><h1>Breakdown on the A4 near Cologne</h1><p class="lead">The A4 comes from the Aachen direction, forms the eastern ring together with the A3, and then runs into the Bergisches Land. Along this route the number of lanes and the surroundings change several times. Broken down? Call immediately or send your location on WhatsApp.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable 24/7, even on the Rodenkirchen Bridge in the middle of the night.</p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne · A4</p><h1>Breakdown on the A4 near Cologne</h1><p class="lead">The A4 comes from the Aachen direction, forms the eastern ring together with the A3, and then runs into the Bergisches Land. Along this route the number of lanes and the surroundings change several times. Broken down? Call immediately or send your location on WhatsApp.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a></p><p class="sub">Reachable 24/7, even on the Rodenkirchen Bridge in the middle of the night.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>What happens after you call?</h2>
 <p>Tell us your direction of travel (Aachen or Olpe) and the last exit, for example Köln-Süd or Bergisch Gladbach-Refrath. We'll tell you the price on the phone right away and send a partner who'll drive to you on the A4. Stay reachable in case your situation changes, for example if your vehicle can still roll as far as a rest area.</p>
@@ -342,7 +342,7 @@
 @@CTA@@
 === en-pannenhilfe-a1-koeln | Breakdown on the A1 near Cologne: Leverkusen to Erfttal | Breakdown on the A1 via Köln-Nord and Lövenich to Frechen: exits, the Rhine bridge, the noise-protection tunnel, how to behave. | page ===
 <!--AREAS: Köln, Leverkusen, Frechen, Hürth -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne · A1</p><h1>Breakdown on the A1 near Cologne</h1><p class="lead">In the west and north of Cologne, the A1 forms the ring. It crosses the Rhine on the Leverkusen bridge, runs through a noise-protection enclosure, and then heads towards the Eifel. Broken down? Call immediately or send your location on WhatsApp.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a> <a class="btn btn-y" href="tel:+4917641956993">Call now: +49 176 41956993</a></p><p class="sub">Reachable 24/7, including in the Lövenich tunnel or on the Rhine bridge.</p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Cologne · A1</p><h1>Breakdown on the A1 near Cologne</h1><p class="lead">In the west and north of Cologne, the A1 forms the ring. It crosses the Rhine on the Leverkusen bridge, runs through a noise-protection enclosure, and then heads towards the Eifel. Broken down? Call immediately or send your location on WhatsApp.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Send location on WhatsApp</a></p><p class="sub">Reachable 24/7, including in the Lövenich tunnel or on the Rhine bridge.</p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>What happens after you call?</h2>
 <p>Tell us your direction of travel and the last exit or interchange, for example the Cologne-Nord interchange or Köln-Lövenich. We'll tell you the price on the phone right away and send a partner who'll drive to you on the A1. In the Lövenich tunnel or on the Rhine bridge, tell us explicitly, since special rules apply there.</p>

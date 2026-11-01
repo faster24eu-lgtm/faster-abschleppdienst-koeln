@@ -1,6 +1,6 @@
 === stadt-marl | Abschleppdienst Marl: Pannenhilfe A43, A52, A2, B225 | Pannenhilfe und Abschleppen in Marl: nördliches Ruhrgebiet, A43 in Sinsen, vier Anschlussstellen der A52, A2 am Übergang zur B224 und die B225. | page ===
 <!--AREAS: Marl, Marl-Sinsen, Marl-Hüls, Marl-Lenkerbeck, Marl-Brassert, Marl-Drewer, Marl-Polsum -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Marl</p><h1>Abschleppdienst Marl</h1><p class="lead">Marl liegt im nördlichen Ruhrgebiet an A43 und A52. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Marl</p><h1>Abschleppdienst Marl</h1><p class="lead">Marl liegt im nördlichen Ruhrgebiet an A43 und A52. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Marl: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Marl oder an A43, A52, A2 und B225. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-dorsten | Abschleppdienst Dorsten: Pannenhilfe A31, A52, B58, B224 | Pannenhilfe und Abschleppen in Dorsten: Lippe, Übergang zwischen Ruhrgebiet und Münsterland, A31 und A52, B58, B224 und B225. | page ===
 <!--AREAS: Dorsten, Dorsten-Hardt, Dorsten-Lembeck, Dorsten-Holsterhausen, Wulfen, Lippe -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dorsten</p><h1>Abschleppdienst Dorsten</h1><p class="lead">Dorsten liegt an der Lippe zwischen dem Norden des Ruhrgebiets und dem Münsterland an A31 und A52. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dorsten</p><h1>Abschleppdienst Dorsten</h1><p class="lead">Dorsten liegt an der Lippe zwischen dem Norden des Ruhrgebiets und dem Münsterland an A31 und A52. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Dorsten: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Dorsten oder an A31, A52, B58 und B224. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -84,7 +84,7 @@
 
 === stadt-lippstadt | Abschleppdienst Lippstadt: Pannenhilfe B55, A2, A44 | Pannenhilfe und Abschleppen in Lippstadt: 18 Ortsteile beiderseits der Lippe, vierspurige B55 mit Verbindung zu A2 und A44, ICE- und IC-Halt. | page ===
 <!--AREAS: Lippstadt, Lippstadt-Cappel, Lippstadt-Bökenförde, Erwitte, Rheda-Wiedenbrück, Lippe -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lippstadt</p><h1>Abschleppdienst Lippstadt</h1><p class="lead">Lippstadt liegt an der Lippe im Kreis Soest, die B55 verbindet die Stadt mit A2 und A44. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lippstadt</p><h1>Abschleppdienst Lippstadt</h1><p class="lead">Lippstadt liegt an der Lippe im Kreis Soest, die B55 verbindet die Stadt mit A2 und A44. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Lippstadt: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Lippstadt oder an B55, A2, A44 und B1. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -127,7 +127,7 @@
 
 === stadt-castrop-rauxel | Abschleppdienst Castrop-Rauxel: Pannenhilfe A2, A42, A45, B235 | Pannenhilfe und Abschleppen in Castrop-Rauxel: 15 Stadtteile, Kreuz Castrop-Rauxel-Ost von A42 und A45, A2 und die B235 nach Witten. | page ===
 <!--AREAS: Castrop-Rauxel, Rauxel, Habinghorst, Ickern, Henrichenburg, Merklinde, Kreuz Castrop-Rauxel-Ost -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Castrop-Rauxel</p><h1>Abschleppdienst Castrop-Rauxel</h1><p class="lead">Castrop-Rauxel liegt im Kreis Recklinghausen an drei Autobahnen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Castrop-Rauxel</p><h1>Abschleppdienst Castrop-Rauxel</h1><p class="lead">Castrop-Rauxel liegt im Kreis Recklinghausen an drei Autobahnen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Castrop-Rauxel: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Castrop-Rauxel oder an A2, A42, A45 und B235. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -168,7 +168,7 @@
 
 === stadt-arnsberg | Abschleppdienst Arnsberg: Pannenhilfe A46, A445, B7 | Pannenhilfe und Abschleppen in Arnsberg: Sauerland, Sitz der Bezirksregierung, A46 mit fünf Anschlussstellen, A445 und B7, Neheim-Hüsten. | page ===
 <!--AREAS: Arnsberg, Neheim, Hüsten, Oeventrop, Arnsberg-Altstadt, Uentrop, Ruhr -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Arnsberg</p><h1>Abschleppdienst Arnsberg</h1><p class="lead">Arnsberg liegt im Sauerland an der Ruhr, hier endet die A445 und beginnt ein Teilstück der A46. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Arnsberg</p><h1>Abschleppdienst Arnsberg</h1><p class="lead">Arnsberg liegt im Sauerland an der Ruhr, hier endet die A445 und beginnt ein Teilstück der A46. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Arnsberg: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Arnsberg oder an A46, A445 und B7. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -209,7 +209,7 @@
 
 === stadt-rheine | Abschleppdienst Rheine: Pannenhilfe A30, B70, B481 | Pannenhilfe und Abschleppen in Rheine: Stadt an der Ems im Münsterland, A30 mit drei Anschlussstellen, B70 und B481. | page ===
 <!--AREAS: Rheine, Rheine-Mesum, Rheine-Hauenhorst, Rheine-Elte, Ems, Emsland -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rheine</p><h1>Abschleppdienst Rheine</h1><p class="lead">Rheine liegt an der Ems im Münsterland an der A30, die A31 und A1 verbindet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rheine</p><h1>Abschleppdienst Rheine</h1><p class="lead">Rheine liegt an der Ems im Münsterland an der A30, die A31 und A1 verbindet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Rheine: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Rheine oder an A30, B70, B481 und A31. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -253,7 +253,7 @@
 
 === stadt-goslar | Abschleppdienst Goslar: Pannenhilfe B6, A369, B82, A7 | Pannenhilfe und Abschleppen in Goslar: größte Stadt am Harz, vierspurige B6, A369 zur A36, B82 zur A7 bei Seesen und Vienenburg als Stadtteil. | page ===
 <!--AREAS: Goslar, Vienenburg, Oker, Hahnenklee, Bad Harzburg, Harz, Seesen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Goslar</p><h1>Abschleppdienst Goslar</h1><p class="lead">Goslar ist die größte Stadt am Harz, die A369 bindet sie an die A36 an. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Goslar</p><h1>Abschleppdienst Goslar</h1><p class="lead">Goslar ist die größte Stadt am Harz, die A369 bindet sie an die A36 an. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Goslar: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Goslar oder an B6, A369, B82 und A7. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -294,7 +294,7 @@
 
 === stadt-wolfenbuettel | Abschleppdienst Wolfenbüttel: Pannenhilfe A36, B79 | Pannenhilfe und Abschleppen in Wolfenbüttel: Kreisstadt an der Oker, vier Anschlussstellen der A36, B79 und die aufgehobene B4. | page ===
 <!--AREAS: Wolfenbüttel, Wolfenbüttel-Fümmelse, Oker, Braunschweig, Salzgitter-Thiede -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wolfenbüttel</p><h1>Abschleppdienst Wolfenbüttel</h1><p class="lead">Wolfenbüttel liegt an der Oker südlich von Braunschweig mit vier Anschlussstellen der A36. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wolfenbüttel</p><h1>Abschleppdienst Wolfenbüttel</h1><p class="lead">Wolfenbüttel liegt an der Oker südlich von Braunschweig mit vier Anschlussstellen der A36. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Wolfenbüttel: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Wolfenbüttel oder an A36, B79, B4 und A395. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -339,7 +339,7 @@
 
 === stadt-hameln | Abschleppdienst Hameln: Pannenhilfe B1, B83, B217, Weserbrücken | Pannenhilfe und Abschleppen in Hameln an der Weser: B1, B83 und B217 sternförmig am Innenstadtring, Münsterbrücke und Thiewallbrücke. | page ===
 <!--AREAS: Hameln, Hameln-Hastenbeck, Hameln-Afferde, Hameln-Tündern, Weser, Bad Pyrmont -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hameln</p><h1>Abschleppdienst Hameln</h1><p class="lead">Hameln liegt an der Weser südwestlich von Hannover, drei Bundesstraßen treffen sich am Innenstadtring. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hameln</p><h1>Abschleppdienst Hameln</h1><p class="lead">Hameln liegt an der Weser südwestlich von Hannover, drei Bundesstraßen treffen sich am Innenstadtring. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Hameln: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Hameln oder an B1, B83, B217 und A2. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -382,7 +382,7 @@
 
 === stadt-hof | Abschleppdienst Hof: Pannenhilfe A9, A72, A93, B2, B15, B173 | Pannenhilfe und Abschleppen in Hof (Saale): A9, A72 und A93 im Hufeisen um die Stadt, vierspurige B2, B15 und B173 auf der Ernst-Reuter-Straße. | page ===
 <!--AREAS: Hof, Hof Saale, Dreieck Hochfranken, Bayerisches Vogtland, Untreusee, Ernst-Reuter-Straße -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hof (Saale)</p><h1>Abschleppdienst Hof (Saale)</h1><p class="lead">Hof liegt an der Saale im Nordosten Bayerns, A9, A72 und A93 umschließen die Stadt im Hufeisen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hof (Saale)</p><h1>Abschleppdienst Hof (Saale)</h1><p class="lead">Hof liegt an der Saale im Nordosten Bayerns, A9, A72 und A93 umschließen die Stadt im Hufeisen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Hof (Saale): Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Hof (Saale) oder an A9, A72, A93 und B2. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -425,7 +425,7 @@
 
 === stadt-ansbach | Abschleppdienst Ansbach: Pannenhilfe A6, B13, B14 | Pannenhilfe und Abschleppen in Ansbach: Regierungssitz Mittelfrankens, drei Anschlussstellen der A6, B13 und B14. | page ===
 <!--AREAS: Ansbach, Ansbach-Eyb, Ansbach-Brodswinden, Herrieden, Lichtenau, Rezat -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ansbach</p><h1>Abschleppdienst Ansbach</h1><p class="lead">Ansbach liegt etwa 40 Kilometer südwestlich von Nürnberg an der A6. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ansbach</p><h1>Abschleppdienst Ansbach</h1><p class="lead">Ansbach liegt etwa 40 Kilometer südwestlich von Nürnberg an der A6. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Ansbach: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Ansbach oder an A6, B13 und B14. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -466,7 +466,7 @@
 
 === stadt-wittenberg | Abschleppdienst Lutherstadt Wittenberg: Pannenhilfe A9, B2, B187 | Pannenhilfe und Abschleppen in Lutherstadt Wittenberg: Elbestadt, A9 mit den Anschlussstellen 6, 7 und 8, B2, B187, B100 und B182. | page ===
 <!--AREAS: Lutherstadt Wittenberg, Elbe, Klein Marzehns, Köselitz, Coswig, Kemberg, Fläming -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lutherstadt Wittenberg</p><h1>Abschleppdienst Lutherstadt Wittenberg</h1><p class="lead">Wittenberg liegt an der Elbe im Osten Sachsen-Anhalts, die A9 verläuft in der Nähe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lutherstadt Wittenberg</p><h1>Abschleppdienst Lutherstadt Wittenberg</h1><p class="lead">Wittenberg liegt an der Elbe im Osten Sachsen-Anhalts, die A9 verläuft in der Nähe. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Lutherstadt Wittenberg: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Lutherstadt Wittenberg oder an A9, B2, B187 und B100. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

@@ -1,6 +1,6 @@
 === stadt-oldenburg | Abschleppdienst Oldenburg: Pannenhilfe A28, A29, A293 | Pannenhilfe und Abschleppen in Oldenburg (Oldb): neun Stadtbezirke, Autobahnring mit A28, A29, A293 und Nordtangente, viele Radfahrer. Standort nennen. | page ===
 <!--AREAS: Oldenburg, Oldenburg-Eversten, Oldenburg-Ohmstede, Oldenburg-Nadorst, Bad Zwischenahn -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Oldenburg</p><h1>Abschleppdienst Oldenburg</h1><p class="lead">Oldenburg hat einen Autobahnring mit Stadtautobahnen und den höchsten Radverkehrsanteil Deutschlands. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Oldenburg</p><h1>Abschleppdienst Oldenburg</h1><p class="lead">Oldenburg hat einen Autobahnring mit Stadtautobahnen und den höchsten Radverkehrsanteil Deutschlands. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Oldenburg in Oldenburg</h2>
 <p>Oldenburg ist eine kreisfreie Großstadt in Niedersachsen. Die amtliche Bezeichnung Oldenburg (Oldb) steht als Abkürzung für "Oldenburg in Oldenburg", in Abgrenzung von Oldenburg in Holstein. Die Stadt ist in neun Stadtbezirke aufgegliedert, die wiederum in Stadtteile untergliedert sind. Bei einer Panne helfen Ihnen der Stadtteilname und die Straße, etwa Eversten, Ohmstede oder Nadorst, und ein Hinweis, ob Sie sich in einem Wohngebiet oder an einer Hauptstraße befinden.</p>
@@ -32,7 +32,7 @@
 
 === stadt-leverkusen | Abschleppdienst Leverkusen: Pannenhilfe A1, A3, A59 | Pannenhilfe und Abschleppen in Leverkusen: drei Stadtbezirke, Kreuz Leverkusen mit A1 und A3, Rheinbrücke Wiesdorf und A59. Standort richtig nennen. | page ===
 <!--AREAS: Leverkusen, Leverkusen-Wiesdorf, Leverkusen-Opladen, Leverkusen-Schlebusch, Leverkusen-Hitdorf -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Leverkusen</p><h1>Abschleppdienst Leverkusen</h1><p class="lead">In Leverkusen kreuzen sich A1 und A3 am Kreuz Leverkusen, und die A1 quert den Rhein auf der Rheinbrücke Leverkusen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Leverkusen</p><h1>Abschleppdienst Leverkusen</h1><p class="lead">In Leverkusen kreuzen sich A1 und A3 am Kreuz Leverkusen, und die A1 quert den Rhein auf der Rheinbrücke Leverkusen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Leverkusen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Leverkusen oder an A1, A3, A59 und B8. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -80,7 +80,7 @@
 
 === stadt-osnabrueck | Abschleppdienst Osnabrück: Pannenhilfe A1, A30, A33 | Pannenhilfe und Abschleppen in Osnabrück: 23 Stadtteile, A1, A30, A33, Kreuze Lotte/Osnabrück und Osnabrück-Süd, Dütebrücke und Bundesstraßen. | page ===
 <!--AREAS: Osnabrück, Osnabrück-Atter, Osnabrück-Schinkel, Osnabrück-Haste, Georgsmarienhütte -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Osnabrück</p><h1>Abschleppdienst Osnabrück</h1><p class="lead">In Osnabrück schneiden sich europäische Verkehrsachsen: die A1 im Nordwesten, die A30 im Süden und die A33 im Osten. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Osnabrück</p><h1>Abschleppdienst Osnabrück</h1><p class="lead">In Osnabrück schneiden sich europäische Verkehrsachsen: die A1 im Nordwesten, die A30 im Süden und die A33 im Osten. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>23 nummerierte Stadtteile</h2>
 <p>Osnabrück ist eine kreisfreie Großstadt in Niedersachsen. Das Stadtgebiet ist in 23 Stadtteile unterteilt, die fortlaufend nummeriert sind. Nennen Sie uns bei einer Panne den Stadtteil und die Straße, die Nummer brauchen Sie nicht, denn im Alltag ist sie kaum bekannt.</p>
@@ -114,7 +114,7 @@
 
 === stadt-solingen | Abschleppdienst Solingen: Pannenhilfe, Viehbachtalstraße, A3 | Pannenhilfe in Solingen: fünf Stadtbezirke, Bachtäler, Viehbachtalstraße, keine direkte Autobahn, Anschlussstelle Solingen an der A3. | page ===
 <!--AREAS: Solingen, Solingen-Ohligs, Solingen-Gräfrath, Solingen-Wald, Solingen-Burg, Langenfeld -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Solingen</p><h1>Abschleppdienst Solingen</h1><p class="lead">Solingen liegt im Bergischen Land, zwischen Bachtälern und Höhenrücken, und hat keinen direkten Autobahnanschluss. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Solingen</p><h1>Abschleppdienst Solingen</h1><p class="lead">Solingen liegt im Bergischen Land, zwischen Bachtälern und Höhenrücken, und hat keinen direkten Autobahnanschluss. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Solingen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Solingen oder an A3. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -162,7 +162,7 @@
 
 === stadt-heidelberg | Abschleppdienst Heidelberg: Pannenhilfe A5, A656, B37 | Pannenhilfe und Abschleppen in Heidelberg: 15 Stadtteile, Neckar, A5, A656 mit Kreuz Heidelberg, Bismarckplatz und Alte Brücke. | page ===
 <!--AREAS: Heidelberg, Heidelberg-Neuenheim, Heidelberg-Handschuhsheim, Heidelberg-Rohrbach, Heidelberg-Kirchheim -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Heidelberg</p><h1>Abschleppdienst Heidelberg</h1><p class="lead">Heidelberg liegt am Neckar, wo er den Odenwald verlässt, mit A5 im Westen und A656 nach Mannheim. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Heidelberg</p><h1>Abschleppdienst Heidelberg</h1><p class="lead">Heidelberg liegt am Neckar, wo er den Odenwald verlässt, mit A5 im Westen und A656 nach Mannheim. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Stadt am Neckar zwischen Odenwald und Rheinebene</h2>
 <p>Heidelberg liegt am Neckar in Baden-Württemberg, an der Stelle, wo dieser den Odenwald verlässt und in die oberrheinische Tiefebene eintritt. Die Stadt ist in 15 Stadtteile gegliedert. Für die Standortangabe brauchen wir Stadtteil und Straße, zum Beispiel Handschuhsheim, Neuenheim, Rohrbach oder Kirchheim, und die Neckarseite.</p>
@@ -196,7 +196,7 @@
 
 === stadt-herne | Abschleppdienst Herne: Pannenhilfe A42, A43, Kreuz Herne | Pannenhilfe und Abschleppen in Herne: vier Stadtbezirke, Kreuz Herne mit A42 und A43, B226 und 14,8 Kilometer Autobahn im Stadtgebiet. Standort nennen. | page ===
 <!--AREAS: Herne, Herne-Wanne, Herne-Eickel, Herne-Mitte, Herne-Sodingen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Herne</p><h1>Abschleppdienst Herne</h1><p class="lead">Herne liegt mitten im Ruhrgebiet, wo sich A42 und A43 am Kreuz Herne treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Herne</p><h1>Abschleppdienst Herne</h1><p class="lead">Herne liegt mitten im Ruhrgebiet, wo sich A42 und A43 am Kreuz Herne treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Herne: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Herne oder an A42, A43 und B226. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -244,7 +244,7 @@
 
 === stadt-rostock | Abschleppdienst Rostock: Pannenhilfe A19, A20, Warnowtunnel | Pannenhilfe und Abschleppen in Rostock: Ortsteile, Kreuz Rostock mit A19 und A20, Warnowtunnel, B103, B105, B110 und Hafen Warnemünde. Standort nennen. | page ===
 <!--AREAS: Rostock, Rostock-Warnemünde, Rostock-Schmarl, Rostock-Lichtenhagen, Rostock-Reutershagen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rostock</p><h1>Abschleppdienst Rostock</h1><p class="lead">Rostock liegt direkt an der Ostsee, mit A19 und A20 am Kreuz Rostock und dem Warnowtunnel unter der Warnow. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rostock</p><h1>Abschleppdienst Rostock</h1><p class="lead">Rostock liegt direkt an der Ostsee, mit A19 und A20 am Kreuz Rostock und dem Warnowtunnel unter der Warnow. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Größte Stadt Mecklenburg-Vorpommerns</h2>
 <p>Rostock ist eine norddeutsche Großstadt in Mecklenburg-Vorpommern im Landesteil Mecklenburg, direkt an der Ostsee. Das Stadtgebiet ist in 31 Ortsteile gegliedert. Nennen Sie uns bei einer Panne Ortsteil und Straße, etwa Warnemünde, Schmarl oder Lichtenhagen, und ob Sie westlich oder östlich der Warnow stehen.</p>
@@ -278,7 +278,7 @@
 
 === stadt-neuss | Abschleppdienst Neuss: Pannenhilfe A57, A46, A52 | Pannenhilfe und Abschleppen in Neuss: linker Niederrhein gegenüber Düsseldorf, A57, Kreuze Neuss-West und Neuss-Süd, A46, A52 und Fleher Brücke. | page ===
 <!--AREAS: Neuss, Neuss-Norf, Neuss-Grimlinghausen, Neuss-Büttgen, Düsseldorf -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neuss</p><h1>Abschleppdienst Neuss</h1><p class="lead">Neuss liegt am linken Niederrhein gegenüber von Düsseldorf, zwischen A57, A46 und A52. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neuss</p><h1>Abschleppdienst Neuss</h1><p class="lead">Neuss liegt am linken Niederrhein gegenüber von Düsseldorf, zwischen A57, A46 und A52. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Neuss: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Neuss oder an A57, A46 und A52. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

@@ -1,6 +1,6 @@
 === stadt-viersen | Abschleppdienst Viersen: Pannenhilfe A61, Kreuz Mönchengladbach | Pannenhilfe und Abschleppen in Viersen: vier Stadtbezirke, A61 mit den Anschlussstellen Süchteln, Viersen und Mackenstein, Kreuz Mönchengladbach. | page ===
 <!--AREAS: Viersen, Alt-Viersen, Dülken, Süchteln, Boisheim, Mackenstein, Kreuz Mönchengladbach -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Viersen</p><h1>Abschleppdienst Viersen</h1><p class="lead">Viersen liegt am linken Niederrhein an der A61. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe mit Partnerbetrieben.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Viersen</p><h1>Abschleppdienst Viersen</h1><p class="lead">Viersen liegt am linken Niederrhein an der A61. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe mit Partnerbetrieben.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Viersen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Viersen oder an A61 und A52. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-dormagen | Abschleppdienst Dormagen: Pannenhilfe A57, B9, Rhein | Pannenhilfe und Abschleppen in Dormagen: Stadt am Rhein zwischen Düsseldorf und Köln, A57 Anschlussstelle 25, B9-Umgehung, Chempark und Rheinfähre. | page ===
 <!--AREAS: Dormagen, Horrem, Nievenheim, Zons, Stürzelberg, Delrath, Hackenbroich, Chempark -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dormagen</p><h1>Abschleppdienst Dormagen</h1><p class="lead">Dormagen liegt links des Rheins zwischen Düsseldorf und Köln an der A57. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dormagen</p><h1>Abschleppdienst Dormagen</h1><p class="lead">Dormagen liegt links des Rheins zwischen Düsseldorf und Köln an der A57. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Dormagen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Dormagen oder an A57, B9 und B477. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -86,7 +86,7 @@
 
 === stadt-bocholt | Abschleppdienst Bocholt: Pannenhilfe B67, B473, A3, A31 | Pannenhilfe und Abschleppen in Bocholt: Westmünsterland an der niederländischen Grenze, B473 zur A3, B67 als Südring, Westringtunnel. | page ===
 <!--AREAS: Bocholt, Barlo, Stenern, Biemenhorst, Mussum, Westringtunnel, Bocholter Aa -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bocholt</p><h1>Abschleppdienst Bocholt</h1><p class="lead">Bocholt liegt im Westmünsterland an der niederländischen Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bocholt</p><h1>Abschleppdienst Bocholt</h1><p class="lead">Bocholt liegt im Westmünsterland an der niederländischen Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Bocholt: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Bocholt oder an B67, B473, A3 und A31. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -129,7 +129,7 @@
 
 === stadt-herford | Abschleppdienst Herford: Pannenhilfe A2, A30, B239, B61 | Pannenhilfe und Abschleppen in Herford: Hansestadt in Ostwestfalen, A2 mit drei Anschlussstellen, A30 Kirchlengern, B239 und B61. | page ===
 <!--AREAS: Herford, Elverdissen, Schwarzenmoor, Stiftberg, Werre, Bad Salzuflen, Vlotho, Kirchlengern -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Herford</p><h1>Abschleppdienst Herford</h1><p class="lead">Herford liegt im Ravensberger Hügelland an der A2. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Herford</p><h1>Abschleppdienst Herford</h1><p class="lead">Herford liegt im Ravensberger Hügelland an der A2. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Herford: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Herford oder an A2, A30, B239 und B61. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -174,7 +174,7 @@
 
 === stadt-unna | Abschleppdienst Unna: Pannenhilfe A1, A44, B1 | Pannenhilfe und Abschleppen in Unna: östlicher Rand des Ruhrgebiets am Hellweg, A1 und A44 direkt an der Stadt, B1 quer durchs Stadtgebiet. | page ===
 <!--AREAS: Unna, Königsborn, Massen, Hemmerde, Billmerich, Siddinghausen, Hellweg, Kamen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Unna</p><h1>Abschleppdienst Unna</h1><p class="lead">Unna liegt am östlichen Rand des Ruhrgebiets, A1 und A44 verlaufen direkt an der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Unna</p><h1>Abschleppdienst Unna</h1><p class="lead">Unna liegt am östlichen Rand des Ruhrgebiets, A1 und A44 verlaufen direkt an der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Unna: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Unna oder an A1, A44, B1 und B233. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -217,7 +217,7 @@
 
 === stadt-luenen | Abschleppdienst Lünen: Pannenhilfe A2, B54, B236, Lippe | Pannenhilfe und Abschleppen in Lünen: Lippe durch die Innenstadt, Datteln-Hamm-Kanal, Anschluss über die A2, B54 und B236 im gemeinsamen Verlauf. | page ===
 <!--AREAS: Lünen, Altlünen, Horstmar, Beckinghausen, Lippe, Datteln-Hamm-Kanal, Seepark, Stadthafen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lünen</p><h1>Abschleppdienst Lünen</h1><p class="lead">Lünen liegt an der Lippe zwischen Münsterland und Hellwegregion. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lünen</p><h1>Abschleppdienst Lünen</h1><p class="lead">Lünen liegt an der Lippe zwischen Münsterland und Hellwegregion. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Lünen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Lünen oder an A2, B54 und B236. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -258,7 +258,7 @@
 
 === stadt-lingen | Abschleppdienst Lingen (Ems): Pannenhilfe A31, B70, B213 | Pannenhilfe und Abschleppen in Lingen (Ems): Emsland nahe der niederländischen Grenze, A31, B70, B213 und B214 als Umgehungen, Kanal. | page ===
 <!--AREAS: Lingen, Altenlingen, Baccum, Holthausen, Laxten, Schepsdorf, Darme, Lingener Höhe, Dortmund-Ems-Kanal -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lingen (Ems)</p><h1>Abschleppdienst Lingen (Ems)</h1><p class="lead">Lingen liegt an der Ems im Süden des Emslandes, nahe der A31. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lingen (Ems)</p><h1>Abschleppdienst Lingen (Ems)</h1><p class="lead">Lingen liegt an der Ems im Süden des Emslandes, nahe der A31. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Lingen (Ems): Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Lingen (Ems) oder an A31, B70, B213 und B214. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

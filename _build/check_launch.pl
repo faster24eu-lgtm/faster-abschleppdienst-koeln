@@ -34,11 +34,8 @@ for my $f (sort @files) {
   print "! $rel: $descc meta description (want 1)\n" and $errors++ if $descc != 1;
   my $canonc = () = $h =~ /<link rel="canonical"/g;
   print "! $rel: $canonc canonical (want 1)\n" and $errors++ if $canonc != 1;
-  # phone number consistency: visible text occurrences vs phone_conversion_number value
-  if ($h =~ /'phone_conversion_number':\s*'([^']*)'/) {
-    my $pn = $1;
-    print "! $rel: phone_conversion_number is '$pn', expected '+49 176 41956993'\n" and $errors++ if $pn ne '+49 176 41956993';
-  }
+  # WhatsApp only: no phone links and no Ads phone-number swap
+  print "! $rel: phone link or phone_conversion_number found (site is WhatsApp only)\n" and $errors++ if $h =~ /href="tel:|'phone_conversion_number'/;
   # external scripts: only googletagmanager.com allowed
   while ($h =~ /<script[^>]+src="(https?:\/\/[^"]+)"/g) {
     my $src = $1;

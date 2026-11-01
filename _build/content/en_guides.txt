@@ -471,11 +471,11 @@
 </div></section>
 @@CTA@@
 === en-kontakt | Contact &amp; Enquiry – Towing Service | Contact our towing service by phone, WhatsApp or form. For Cologne, and Karlsruhe, Baden-Baden, Achern and Offenburg. Reachable 24/7. | page ===
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Contact</p><h1>Request Help</h1><p class="lead">Urgent? Call or message us on WhatsApp and send your location. The form is for enquiries that aren't urgent.</p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Contact</p><h1>Request Help</h1><p class="lead">Urgent? Message us on WhatsApp and send your location. The form is for enquiries that aren't urgent.</p></div></section>
 <section class="section"><div class="wrap split">
 <div class="copy"><h2>How to reach us</h2>
 <p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">Message on WhatsApp</a></p>
-<p><a class="btn btn-y" href="tel:+4917641956993">Call +49 176 41956993</a></p>
+<p></p>
 <p><strong>Email:</strong> <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
 <p><strong>Address:</strong><br>Faster Abschleppdienst<br>Am Festungsgraben 2<br>10117 Berlin, Germany</p>
 <p><strong>Languages:</strong> German, Dutch, French and English.</p>

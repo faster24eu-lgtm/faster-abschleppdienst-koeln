@@ -1,6 +1,6 @@
 === stadt-wetzlar | Abschleppdienst Wetzlar: Pannenhilfe A45, A480, B49 | Pannenhilfe und Abschleppen in Wetzlar: A45 mit Wetzlarer Kreuz, A480, B49 Richtung Limburg und Gießen, Verkehrsknoten von Dill- und Lahntal. | page ===
 <!--AREAS: Wetzlar, Wetzlar-Dutenhofen, Wetzlar-Münchholzhausen, Wetzlar-Büblingshausen, Aßlar, Wetzlar-Blasbach -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wetzlar</p><h1>Abschleppdienst Wetzlar</h1><p class="lead">Wetzlar liegt an der A45 Sauerlandlinie mit dem Wetzlarer Kreuz in Mittelhessen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wetzlar</p><h1>Abschleppdienst Wetzlar</h1><p class="lead">Wetzlar liegt an der A45 Sauerlandlinie mit dem Wetzlarer Kreuz in Mittelhessen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Wetzlar: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Wetzlar oder an A45, A480, B49 und A48. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-marburg | Abschleppdienst Marburg: Pannenhilfe B3, B62, B252, B255 | Pannenhilfe und Abschleppen in Marburg: Universitätsstadt an der Lahn, Stadtautobahn B3a, vierspurig nach Gießen, B62, B252, B255. | page ===
 <!--AREAS: Marburg, Marburg-Cappel, Marburg-Wehrda, Marburg-Marbach, Cölbe, Niederweimar -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Marburg</p><h1>Abschleppdienst Marburg</h1><p class="lead">Marburg liegt an der Lahn in Mittelhessen, die B3 führt quer durch das Stadtgebiet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Marburg</p><h1>Abschleppdienst Marburg</h1><p class="lead">Marburg liegt an der Lahn in Mittelhessen, die B3 führt quer durch das Stadtgebiet. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Marburg: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Marburg oder an B3, B62, B252 und B255. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -86,7 +86,7 @@
 
 === stadt-fulda | Abschleppdienst Fulda: Pannenhilfe A7, A66, Dreieck Fulda | Pannenhilfe und Abschleppen in Fulda: A7 mit drei Ausfahrten, A66 mit Tunnel Neuhof, Dreieck Fulda, B27, B254, B458 und Westumfahrung von 2008. | page ===
 <!--AREAS: Fulda, Fulda-Nord, Fulda-Mitte, Fulda-Süd, Neuhof, Petersberg -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Fulda</p><h1>Abschleppdienst Fulda</h1><p class="lead">Fulda liegt zentral an der A7 mit Anschluss an die A66 Richtung Frankfurt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Fulda</p><h1>Abschleppdienst Fulda</h1><p class="lead">Fulda liegt zentral an der A7 mit Anschluss an die A66 Richtung Frankfurt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Fulda: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Fulda oder an A7, A66, B27 und B254. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -129,7 +129,7 @@
 
 === stadt-brandenburg-an-der-havel | Abschleppdienst Brandenburg an der Havel: Pannenhilfe A2, B1, B102 | Pannenhilfe und Abschleppen in Brandenburg an der Havel: A2 rund zehn Kilometer südlich, B1 und B102, 58 Brücken und Zufahrten an der Havel. | page ===
 <!--AREAS: Brandenburg an der Havel, Brandenburg-Görden, Brandenburg-Kirchmöser, Brandenburg-Plaue, Brandenburg-Neustadt -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Brandenburg an der Havel</p><h1>Abschleppdienst Brandenburg an der Havel</h1><p class="lead">Brandenburg an der Havel liegt an der Havel, die A2 verläuft rund zehn Kilometer südlich. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Brandenburg an der Havel</p><h1>Abschleppdienst Brandenburg an der Havel</h1><p class="lead">Brandenburg an der Havel liegt an der Havel, die A2 verläuft rund zehn Kilometer südlich. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Brandenburg an der Havel: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Brandenburg an der Havel oder an A2, B1, B102 und A10. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -172,7 +172,7 @@
 
 === stadt-frankfurt-oder | Abschleppdienst Frankfurt (Oder): Pannenhilfe A12, B5, B87, B112 | Pannenhilfe und Abschleppen in Frankfurt (Oder): Grenzstadt an der Oder, A12 zur polnischen A2, Autobahnbrücke, B5, B87 und B112. | page ===
 <!--AREAS: Frankfurt (Oder), Frankfurt-Markendorf, Frankfurt-Hansa Nord, Frankfurt-Süd, Słubice, Rosengarten -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Frankfurt (Oder)</p><h1>Abschleppdienst Frankfurt (Oder)</h1><p class="lead">Frankfurt (Oder) liegt am Westufer der Oder an der Grenze zu Polen, mit der A12 nach Berlin. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Frankfurt (Oder)</p><h1>Abschleppdienst Frankfurt (Oder)</h1><p class="lead">Frankfurt (Oder) liegt am Westufer der Oder an der Grenze zu Polen, mit der A12 nach Berlin. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Frankfurt (Oder): Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Frankfurt (Oder) oder an A12, B5, B87 und B112. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -215,7 +215,7 @@
 
 === stadt-plauen | Abschleppdienst Plauen: Pannenhilfe A72, B92, B173 | Pannenhilfe und Abschleppen in Plauen: Vogtland, A72 zum Dreieck Bayerisches Vogtland, B92 über die Friedensbrücke, B173 vierspurig und Weiße Elster. | page ===
 <!--AREAS: Plauen, Plauen-Jößnitz, Plauen-Steinsdorf, Plauen-Chrieschwitz, Plauen-Haselbrunn, Plauen-Neundorf -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Plauen</p><h1>Abschleppdienst Plauen</h1><p class="lead">Plauen ist die größte Stadt des sächsischen Vogtlandes, die A9 erreichen Sie über die A72. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Plauen</p><h1>Abschleppdienst Plauen</h1><p class="lead">Plauen ist die größte Stadt des sächsischen Vogtlandes, die A9 erreichen Sie über die A72. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Plauen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Plauen oder an A72, B92, B173 und A9. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -258,7 +258,7 @@
 
 === stadt-weimar | Abschleppdienst Weimar: Pannenhilfe A4, Ausfahrt Weimar, Ilm | Pannenhilfe und Abschleppen in Weimar: Klassikerstadt an der Ilm, A4 mit Anschlussstelle 49 Weimar, Ausfahrten Apolda und Nohra. | page ===
 <!--AREAS: Weimar, Weimar-Legefeld, Weimar-Gelmeroda, Weimar-Tiefurt, Weimar-Schöndorf, Ettersberg -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Weimar</p><h1>Abschleppdienst Weimar</h1><p class="lead">Weimar liegt an der Ilm zwischen Erfurt und Jena an der A4. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Weimar</p><h1>Abschleppdienst Weimar</h1><p class="lead">Weimar liegt an der Ilm zwischen Erfurt und Jena an der A4. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Weimar: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Weimar oder an A4. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -301,7 +301,7 @@
 
 === stadt-eisenach | Abschleppdienst Eisenach: Pannenhilfe A4, B7, B19, Wartburg | Pannenhilfe und Abschleppen in Eisenach: Wartburgstadt im Hörseltal, A4 seit 2010 nördlich verlegt, alte Trasse als Umgehung, B7 und B19. | page ===
 <!--AREAS: Eisenach, Eisenach-West, Eisenach-Ost, Wutha-Farnroda, Ramsborn, Wartburg -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Eisenach</p><h1>Abschleppdienst Eisenach</h1><p class="lead">Eisenach liegt im Hörseltal am Nordrand des Thüringer Waldes, die A4 verläuft seit 2010 weiter nördlich. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Eisenach</p><h1>Abschleppdienst Eisenach</h1><p class="lead">Eisenach liegt im Hörseltal am Nordrand des Thüringer Waldes, die A4 verläuft seit 2010 weiter nördlich. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Eisenach: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Eisenach oder an A4, B7 und B19. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

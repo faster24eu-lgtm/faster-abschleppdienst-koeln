@@ -1,6 +1,6 @@
 === stadt-kassel | Abschleppdienst Kassel: Panne auf A7, A44, A49 | Pannenhilfe und Abschleppen in Kassel: steiles A7-Gefälle am Kaufunger Wald, Doppelkreuz A44/A49, Lohfeldener Rüssel. 24/7 per Telefon und WhatsApp. | page ===
 <!--AREAS: Kassel, Kassel-Bad Wilhelmshöhe, Kassel-Wahlershausen, Kassel-Waldau, Lohfelden -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kassel</p><h1>Abschleppdienst Kassel</h1><p class="lead">Liegen geblieben in Kassel? Rufen Sie an oder schicken Sie Ihren Standort per WhatsApp, wir kümmern uns um den Rest. Das gilt auf der Straße genauso wie auf der A7, A44 oder A49.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kassel</p><h1>Abschleppdienst Kassel</h1><p class="lead">Liegen geblieben in Kassel? Schicken Sie Ihren Standort per WhatsApp, wir kümmern uns um den Rest. Das gilt auf der Straße genauso wie auf der A7, A44 oder A49.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Was wir in Kassel tun</h2>
 <p>Platzhalter, wird automatisch ersetzt.</p>
@@ -33,7 +33,7 @@
 
 === stadt-hagen | Abschleppdienst Hagen: Pannenhilfe A1, A45, A46 | Pannenhilfe und Abschleppen in Hagen: fünf Stadtbezirke, Tor zum Sauerland, A1, A45, A46 mit 32,7 Kilometern Autobahn im Stadtgebiet, Volme und Ennepe. | page ===
 <!--AREAS: Hagen, Hagen-Hohenlimburg, Hagen-Elsey, Hagen-Wehringhausen, Hagen-Vorhalle -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hagen</p><h1>Abschleppdienst Hagen</h1><p class="lead">Hagen ist das Tor zum Sauerland am Südostrand des Ruhrgebiets, mit Autobahnen und steilen Straßen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hagen</p><h1>Abschleppdienst Hagen</h1><p class="lead">Hagen ist das Tor zum Sauerland am Südostrand des Ruhrgebiets, mit Autobahnen und steilen Straßen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Hagen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Hagen oder an A1, A45, A46 und B7. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -79,7 +79,7 @@
 
 === stadt-hamm | Abschleppdienst Hamm: Pannenhilfe A1 und A2, Kamener Kreuz | Pannenhilfe und Abschleppen in Hamm: sieben Stadtbezirke, Lage zwischen A1 und A2, Datteln-Hamm-Kanal, Lippe und geplante A445. Standort nennen. | page ===
 <!--AREAS: Hamm, Hamm-Uentrop, Hamm-Rhynern, Hamm-Herringen, Hamm-Heessen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hamm</p><h1>Abschleppdienst Hamm</h1><p class="lead">Hamm liegt zwischen den Autobahnen A1 und A2 am Nordostrand des Ruhrgebiets. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hamm</p><h1>Abschleppdienst Hamm</h1><p class="lead">Hamm liegt zwischen den Autobahnen A1 und A2 am Nordostrand des Ruhrgebiets. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Hamm: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Hamm oder an A1, A2, A445 und B63. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -127,7 +127,7 @@
 
 === stadt-saarbruecken | Abschleppdienst Saarbrücken: Pannenhilfe A6, A620, A1 | Pannenhilfe und Abschleppen in Saarbrücken: vier Stadtbezirke, Saar, Stadtautobahn A620, A6, A1, A623 und Goldene Bremm an der französischen Grenze. | page ===
 <!--AREAS: Saarbrücken, Saarbrücken-Dudweiler, Saarbrücken-Malstatt, Saarbrücken-Fechingen, Saarbrücken-Güdingen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Saarbrücken</p><h1>Abschleppdienst Saarbrücken</h1><p class="lead">Saarbrücken ist die Landeshauptstadt des Saarlandes an der französischen Grenze. Mehrere Autobahnen beginnen hier, die A620 ist Stadtautobahn. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Saarbrücken</p><h1>Abschleppdienst Saarbrücken</h1><p class="lead">Saarbrücken ist die Landeshauptstadt des Saarlandes an der französischen Grenze. Mehrere Autobahnen beginnen hier, die A620 ist Stadtautobahn. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Landeshauptstadt an der Saar</h2>
 <p>Saarbrücken ist die Landeshauptstadt des Saarlandes und liegt an der Saar. Das Stadtgebiet ist in die vier Stadtbezirke Mitte, Dudweiler, West und Halberg gegliedert. Nennen Sie uns bei einer Panne Stadtbezirk oder Stadtteil und Straße und ob Sie links oder rechts der Saar stehen.</p>
@@ -161,7 +161,7 @@
 
 === stadt-muelheim | Abschleppdienst Mülheim an der Ruhr: Pannenhilfe A40, A52 | Pannenhilfe in Mülheim an der Ruhr: drei Stadtbezirke, A40 mit über 130.000 Fahrzeugen täglich, Mintarder Ruhrtalbrücke, Kettenbrücke. | page ===
 <!--AREAS: Mülheim an der Ruhr, Mülheim-Mintard, Mülheim-Broich, Mülheim-Styrum, Mülheim-Winkhausen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Mülheim an der Ruhr</p><h1>Abschleppdienst Mülheim an der Ruhr</h1><p class="lead">Mülheim liegt an der Ruhr zwischen Duisburg und Essen. Im Norden verläuft die A40 mit einem der höchsten Verkehrsaufkommen Deutschlands. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Mülheim an der Ruhr</p><h1>Abschleppdienst Mülheim an der Ruhr</h1><p class="lead">Mülheim liegt an der Ruhr zwischen Duisburg und Essen. Im Norden verläuft die A40 mit einem der höchsten Verkehrsaufkommen Deutschlands. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Mülheim an der Ruhr: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Mülheim an der Ruhr oder an A40 und A52. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -209,7 +209,7 @@
 
 === stadt-potsdam | Abschleppdienst Potsdam: Pannenhilfe A10, A115, Havel | Pannenhilfe und Abschleppen in Potsdam: acht Stadtbezirke, Berliner Ring A10, Dreieck Potsdam, A115 (AVUS), Nuthe-Schnellstraße und Glienicker Brücke. | page ===
 <!--AREAS: Potsdam, Potsdam-Babelsberg, Potsdam-Golm, Potsdam-Sacrow, Potsdam-Innenstadt -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Potsdam</p><h1>Abschleppdienst Potsdam</h1><p class="lead">Potsdam liegt an der Havel südwestlich von Berlin, angebunden über den Berliner Ring A10 und die A115. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Potsdam</p><h1>Abschleppdienst Potsdam</h1><p class="lead">Potsdam liegt an der Havel südwestlich von Berlin, angebunden über den Berliner Ring A10 und die A115. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Hauptstadt Brandenburgs an der Havel</h2>
 <p>Potsdam ist die Hauptstadt des Landes Brandenburg. Sie liegt an der Havel im Ballungsraum Berlin und grenzt südwestlich an Berlin. Die Stadt gliedert sich in acht Stadtbezirke und weiter in 32 Stadtteile. Nennen Sie uns bei einer Panne Stadtteil und Straße.</p>
@@ -243,7 +243,7 @@
 
 === stadt-ludwigshafen | Abschleppdienst Ludwigshafen: Pannenhilfe A6, A61, A65 | Pannenhilfe und Abschleppen in Ludwigshafen am Rhein: zehn Ortsbezirke, A6, A61, A65, A650, B9 und Rheinbrücken nach Mannheim. Standort richtig nennen. | page ===
 <!--AREAS: Ludwigshafen am Rhein, Ludwigshafen-Oggersheim, Ludwigshafen-Mundenheim, Ludwigshafen-Friesenheim, Frankenthal -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ludwigshafen</p><h1>Abschleppdienst Ludwigshafen am Rhein</h1><p class="lead">Ludwigshafen ist die größte Stadt der Pfalz und bildet mit Mannheim ein zusammenhängendes Stadtgebiet. Sagen Sie uns, auf welcher Rheinseite Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ludwigshafen</p><h1>Abschleppdienst Ludwigshafen am Rhein</h1><p class="lead">Ludwigshafen ist die größte Stadt der Pfalz und bildet mit Mannheim ein zusammenhängendes Stadtgebiet. Sagen Sie uns, auf welcher Rheinseite Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Ludwigshafen am Rhein: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Ludwigshafen am Rhein oder an A6, A61, A65 und A650. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

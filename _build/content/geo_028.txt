@@ -1,6 +1,6 @@
 === stadt-kaiserslautern | Abschleppdienst Kaiserslautern: Pannenhilfe A6, A62, Pfälzerwald | Pannenhilfe und Abschleppen in Kaiserslautern: A6 mit Ramstein-Bogen und fehlendem Standstreifen, Kreuz Landstuhl-West mit A62, Pfälzerwald. | page ===
 <!--AREAS: Kaiserslautern, Kaiserslautern-Morlautern, Kaiserslautern-Erfenbach, Ramstein-Miesenbach, Landstuhl -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kaiserslautern</p><h1>Abschleppdienst Kaiserslautern</h1><p class="lead">Kaiserslautern liegt am nordwestlichen Rand des Pfälzerwalds an der A6. Westlich der Stadt hat die Autobahn abschnittsweise keinen Standstreifen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kaiserslautern</p><h1>Abschleppdienst Kaiserslautern</h1><p class="lead">Kaiserslautern liegt am nordwestlichen Rand des Pfälzerwalds an der A6. Westlich der Stadt hat die Autobahn abschnittsweise keinen Standstreifen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Kaiserslautern: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Kaiserslautern oder an A6 und A62. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-konstanz | Abschleppdienst Konstanz: Pannenhilfe B33, Fähre Meersburg | Pannenhilfe und Abschleppen in Konstanz: 15 Stadtteile, Bodensee, Seerhein-Brücken, B33 nach Singen, Anschluss an die A81 und Grenze zur Schweiz. | page ===
 <!--AREAS: Konstanz, Konstanz-Wollmatingen, Konstanz-Petershausen, Konstanz-Allmannsdorf, Radolfzell -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Konstanz</p><h1>Abschleppdienst Konstanz</h1><p class="lead">Konstanz ist die größte Stadt am Bodensee und liegt direkt an der Schweizer Grenze. Ein Autobahnanschluss fehlt in der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Konstanz</p><h1>Abschleppdienst Konstanz</h1><p class="lead">Konstanz ist die größte Stadt am Bodensee und liegt direkt an der Schweizer Grenze. Ein Autobahnanschluss fehlt in der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Größte Stadt am Bodensee</h2>
 <p>Konstanz ist die größte Stadt am Bodensee. Das Stadtgebiet wird in 15 Stadtteile gegliedert, teils ehemals eigenständige Gemeinden, die nach Konstanz eingegliedert wurden, teils Stadtteile, deren Bezeichnungen sich im Lauf der Zeit ergeben haben. Zu ihnen gehört Wollmatingen. Nennen Sie uns bei einer Panne Stadtteil und Straße und ob Sie links oder rechts des Seerheins stehen.</p>
@@ -74,7 +74,7 @@
 
 === stadt-flensburg | Abschleppdienst Flensburg: Pannenhilfe A7, B199, B200 | Pannenhilfe und Abschleppen in Flensburg: 13 Stadtteile, Förde, A7 westlich der Stadt, B199, B200 als Westtangente und Grenze zu Dänemark. | page ===
 <!--AREAS: Flensburg, Flensburg-Mürwik, Flensburg-Jürgensby, Flensburg-Weiche, Harrislee -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Flensburg</p><h1>Abschleppdienst Flensburg</h1><p class="lead">Flensburg liegt an der Förde im Norden Schleswig-Holsteins, kurz vor der dänischen Grenze. Die A7 verläuft westlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Flensburg</p><h1>Abschleppdienst Flensburg</h1><p class="lead">Flensburg liegt an der Förde im Norden Schleswig-Holsteins, kurz vor der dänischen Grenze. Die A7 verläuft westlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Flensburg: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Flensburg oder an A7, B199 und B200. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -117,7 +117,7 @@
 
 === stadt-jena | Abschleppdienst Jena: Pannenhilfe A4, Jagdbergtunnel, Saale | Pannenhilfe und Abschleppen in Jena: 30 Ortsteile, Saale, A4 mit Jagdbergtunnel und Lobdeburgtunnel, 21 Brücken und viele Talbrücken. | page ===
 <!--AREAS: Jena, Jena-Lobeda, Jena-Winzerla, Jena-Burgau, Jena-Wenigenjena -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Jena</p><h1>Abschleppdienst Jena</h1><p class="lead">Jena liegt im Saaletal, mit Tunneln und Talbrücken der A4 im Süden. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Jena</p><h1>Abschleppdienst Jena</h1><p class="lead">Jena liegt im Saaletal, mit Tunneln und Talbrücken der A4 im Süden. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Jena: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Jena oder an A4. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -166,7 +166,7 @@
 
 === stadt-siegen | Abschleppdienst Siegen: Pannenhilfe A45, Hüttentalstraße, Siegtalbrücke | Pannenhilfe und Abschleppen in Siegen: sechs Bezirke, A45 mit der 106 Meter hohen Siegtalbrücke, Hüttentalstraße B54, Siegerland und Bergstraßen. | page ===
 <!--AREAS: Siegen, Siegen-Geisweid, Siegen-Weidenau, Siegen-Eiserfeld, Kreuztal -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Siegen</p><h1>Abschleppdienst Siegen</h1><p class="lead">Siegen liegt im Siegerland zwischen Bergen und Tälern, an der A45 mit der Siegtalbrücke. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Siegen</p><h1>Abschleppdienst Siegen</h1><p class="lead">Siegen liegt im Siegerland zwischen Bergen und Tälern, an der A45 mit der Siegtalbrücke. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Siegen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Siegen oder an A45, B54 und A4. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

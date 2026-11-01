@@ -1,6 +1,6 @@
 === stadt-soest | Abschleppdienst Soest: B1, B475, B229 | Pannenhilfe und Abschleppen in Soest: alter Hellweg als B1, B475 Richtung Münsterland, B229 ins Sauerland, 18 Ortsteile in der Soester Börde. | page ===
 <!--AREAS: Soest, Soester Börde, Ostönnen, Meiningsen, Deiringsen, Hellweg, Welver, Bad Sassendorf -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Soest</p><h1>Abschleppdienst Soest</h1><p class="lead">Soest liegt auf halbem Weg zwischen Dortmund und Paderborn am alten Hellweg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Soest</p><h1>Abschleppdienst Soest</h1><p class="lead">Soest liegt auf halbem Weg zwischen Dortmund und Paderborn am alten Hellweg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Soest: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Soest oder an B1, B475 und B229. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-nordhorn | Abschleppdienst Nordhorn: A30, A31, B403, B213 | Pannenhilfe und Abschleppen in Nordhorn: Grafschaft Bentheim an der Vechte, Nähe zu A30 und A31, Schnittpunkt B403/B213, neue Nordumgehung seit 2019. | page ===
 <!--AREAS: Nordhorn, Bookholt, Deegfeld, Blanke, Vechte, Grafschaft Bentheim -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Nordhorn</p><h1>Abschleppdienst Nordhorn</h1><p class="lead">Nordhorn liegt an der Vechte direkt an der niederländischen Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Nordhorn</p><h1>Abschleppdienst Nordhorn</h1><p class="lead">Nordhorn liegt an der Vechte direkt an der niederländischen Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Nordhorn: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Nordhorn oder an A30, A31, B403 und B213. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -86,7 +86,7 @@
 
 === stadt-nienburg | Abschleppdienst Nienburg/Weser: B6, B214, B215 | Pannenhilfe und Abschleppen in Nienburg/Weser: kein direkter Autobahnanschluss, nächste Autobahn A27 rund 40 Kilometer entfernt, B6, B214 und B215. | page ===
 <!--AREAS: Nienburg, Weser, Verden, Walsrode, Mittelweserregion -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Nienburg/Weser</p><h1>Abschleppdienst Nienburg/Weser</h1><p class="lead">Nienburg liegt an der Weser in der Mittelweserregion, ohne eigenen Autobahnanschluss. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Nienburg/Weser</p><h1>Abschleppdienst Nienburg/Weser</h1><p class="lead">Nienburg liegt an der Weser in der Mittelweserregion, ohne eigenen Autobahnanschluss. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Nienburg/Weser: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Nienburg/Weser oder an B6, B214, B215 und A27. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -129,7 +129,7 @@
 
 === stadt-verden | Abschleppdienst Verden (Aller): A27, B215 | Pannenhilfe und Abschleppen in Verden (Aller): Reiterstadt an der Mündung der Aller in die Weser, A27 Cuxhaven–Bremen–Walsrode, B215 nach Minden. | page ===
 <!--AREAS: Verden, Verdener Heide, Geestrücken, Aller, Weser, Mittelweserregion -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Verden (Aller)</p><h1>Abschleppdienst Verden (Aller)</h1><p class="lead">Verden liegt an der Mündung der Aller in die Weser, direkt an der A27. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Verden (Aller)</p><h1>Abschleppdienst Verden (Aller)</h1><p class="lead">Verden liegt an der Mündung der Aller in die Weser, direkt an der A27. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Verden (Aller): Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Verden (Aller) oder an A27 und B215. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

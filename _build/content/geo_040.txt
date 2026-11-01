@@ -1,6 +1,6 @@
 === stadt-kempten | Abschleppdienst Kempten (Allgäu): Pannenhilfe A7, A980, B12, B19 | Pannenhilfe und Abschleppen in Kempten im Allgäu: A7 und A980, Bundesstraßen B12 und B19, vierspuriger Mittlerer Ring und Illerbrücken. | page ===
 <!--AREAS: Kempten, Kempten-Thingers, Kempten-Sankt Mang, Kempten-Lauben, Kempten-Leubas, Iller -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kempten (Allgäu)</p><h1>Abschleppdienst Kempten (Allgäu)</h1><p class="lead">Kempten ist das Zentrum des Allgäus und liegt an der A7 und der kurzen A980. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kempten (Allgäu)</p><h1>Abschleppdienst Kempten (Allgäu)</h1><p class="lead">Kempten ist das Zentrum des Allgäus und liegt an der A7 und der kurzen A980. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Kempten (Allgäu): Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Kempten (Allgäu) oder an A7, A980, B12 und B19. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-aschaffenburg | Abschleppdienst Aschaffenburg: Pannenhilfe A3, B26, Mainhafen | Pannenhilfe und Abschleppen in Aschaffenburg: drei Anschlussstellen an der A3, B26 mit vierstreifigem Ausbau am Mainhafen, Ringstraße und Untermain. | page ===
 <!--AREAS: Aschaffenburg, Aschaffenburg-Damm, Aschaffenburg-Schweinheim, Aschaffenburg-Nilkheim, Stockstadt, Mainhafen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Aschaffenburg</p><h1>Abschleppdienst Aschaffenburg</h1><p class="lead">Aschaffenburg liegt am Bayerischen Untermain an der A3 zwischen Frankfurt und Würzburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Aschaffenburg</p><h1>Abschleppdienst Aschaffenburg</h1><p class="lead">Aschaffenburg liegt am Bayerischen Untermain an der A3 zwischen Frankfurt und Würzburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Aschaffenburg: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Aschaffenburg oder an A3 und B26. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -86,7 +86,7 @@
 
 === stadt-schweinfurt | Abschleppdienst Schweinfurt: Pannenhilfe A70, A71, A7 | Pannenhilfe und Abschleppen in Schweinfurt: Autobahnknoten mit A70 und A71 als Süd- und Westtangente, sieben Anschlussstellen, Kreuz Schweinfurt/Werneck. | page ===
 <!--AREAS: Schweinfurt, Schweinfurt-Oberndorf, Schweinfurt-Hafen, Werneck, Dreieck Werntal, Bergrheinfeld -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Schweinfurt</p><h1>Abschleppdienst Schweinfurt</h1><p class="lead">Schweinfurt ist ein Autobahnknoten, an dem A7, A70 und A71 zusammenlaufen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Schweinfurt</p><h1>Abschleppdienst Schweinfurt</h1><p class="lead">Schweinfurt ist ein Autobahnknoten, an dem A7, A70 und A71 zusammenlaufen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Schweinfurt: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Schweinfurt oder an A70, A71, A7 und A73. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -129,7 +129,7 @@
 
 === stadt-villingen-schwenningen | Abschleppdienst Villingen-Schwenningen: Pannenhilfe A81, B27, B33 | Pannenhilfe und Abschleppen in Villingen-Schwenningen: Doppelstadt in Baden und Württemberg, A81, B27, B33 kreuzungsfrei durch Villingen, B523. | page ===
 <!--AREAS: Villingen-Schwenningen, Villingen, Schwenningen, Mühlhausen, Hüfingen, Bad Dürrheim -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Villingen-Schwenningen</p><h1>Abschleppdienst Villingen-Schwenningen</h1><p class="lead">Villingen-Schwenningen ist eine Doppelstadt im Südwesten Baden-Württembergs an der A81. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Villingen-Schwenningen</p><h1>Abschleppdienst Villingen-Schwenningen</h1><p class="lead">Villingen-Schwenningen ist eine Doppelstadt im Südwesten Baden-Württembergs an der A81. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Villingen-Schwenningen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Villingen-Schwenningen oder an A81, B27, B33 und B523. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -170,7 +170,7 @@
 
 === stadt-sindelfingen | Abschleppdienst Sindelfingen: Pannenhilfe A81, A8, B464 | Pannenhilfe und Abschleppen in Sindelfingen: Anschlussstellen Sindelfingen-Ost, Böblingen/Sindelfingen und Hulb an der A81, Kreuz Stuttgart, B464. | page ===
 <!--AREAS: Sindelfingen, Sindelfingen-Maichingen, Sindelfingen-Darmsheim, Böblingen, Kreuz Stuttgart -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Sindelfingen</p><h1>Abschleppdienst Sindelfingen</h1><p class="lead">Sindelfingen liegt etwa 15 Kilometer südwestlich von Stuttgart an der A81. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Sindelfingen</p><h1>Abschleppdienst Sindelfingen</h1><p class="lead">Sindelfingen liegt etwa 15 Kilometer südwestlich von Stuttgart an der A81. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Sindelfingen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Sindelfingen oder an A81, A8, B464 und B14. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -215,7 +215,7 @@
 
 === stadt-goeppingen | Abschleppdienst Göppingen: Pannenhilfe B10, B297, A8 | Pannenhilfe und Abschleppen in Göppingen: Kernstadt und sieben Stadtbezirke, B10-Umgehung im Süden, B297 und A8-Anschlussstelle Aichelberg. | page ===
 <!--AREAS: Göppingen, Göppingen-Faurndau, Göppingen-Holzheim, Göppingen-Jebenhausen, Göppingen-Hohenstaufen, Aichelberg -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Göppingen</p><h1>Abschleppdienst Göppingen</h1><p class="lead">Göppingen liegt etwa 40 Kilometer östlich von Stuttgart an der B10, die A8 erreichen Sie bei Aichelberg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Göppingen</p><h1>Abschleppdienst Göppingen</h1><p class="lead">Göppingen liegt etwa 40 Kilometer östlich von Stuttgart an der B10, die A8 erreichen Sie bei Aichelberg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Göppingen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Göppingen oder an B10, B297 und A8. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

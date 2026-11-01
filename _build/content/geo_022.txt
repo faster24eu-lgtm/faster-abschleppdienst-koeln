@@ -1,6 +1,6 @@
 === stadt-darmstadt | Abschleppdienst Darmstadt: Pannenhilfe A5, A67, Bergstraße | Pannenhilfe und Abschleppen in Darmstadt: neun Stadtteile, Darmstädter Kreuz mit A5 und A67, A672, B3 an der Bergstraße und starker Pendlerverkehr. | page ===
 <!--AREAS: Darmstadt, Darmstadt-Arheilgen, Darmstadt-Eberstadt, Darmstadt-Wixhausen, Darmstadt-Bessungen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Darmstadt</p><h1>Abschleppdienst Darmstadt</h1><p class="lead">Darmstadt liegt im Süden Hessens, wo sich A5 und A67 am Darmstädter Kreuz treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Darmstadt</p><h1>Abschleppdienst Darmstadt</h1><p class="lead">Darmstadt liegt im Süden Hessens, wo sich A5 und A67 am Darmstädter Kreuz treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Großstadt im Rhein-Main-Gebiet</h2>
 <p>Darmstadt ist eine kreisfreie Großstadt im Süden Hessens und gehört zum Rhein-Main-Gebiet. Das Stadtgebiet ist in neun Stadtteile gegliedert. Nennen Sie uns bei einer Panne Stadtteil oder Stadtviertel und Straße, etwa Arheilgen, Eberstadt oder Bessungen.</p>
@@ -34,7 +34,7 @@
 
 === stadt-offenbach | Abschleppdienst Offenbach am Main: Pannenhilfe A3, A661 | Pannenhilfe in Offenbach am Main: 21 Stadtteile, Offenbacher Kreuz mit A3 und A661, Carl-Ulrich-Brücke und Mainfähre. | page ===
 <!--AREAS: Offenbach am Main, Offenbach-Bürgel, Offenbach-Rumpenheim, Offenbach-Bieber, Frankfurt-Fechenheim -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Offenbach am Main</p><h1>Abschleppdienst Offenbach am Main</h1><p class="lead">Offenbach grenzt direkt an Frankfurt und liegt am Offenbacher Kreuz von A3 und A661. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Offenbach am Main</p><h1>Abschleppdienst Offenbach am Main</h1><p class="lead">Offenbach grenzt direkt an Frankfurt und liegt am Offenbacher Kreuz von A3 und A661. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Offenbach am Main: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Offenbach am Main oder an A3, A661 und A5. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -82,7 +82,7 @@
 
 === stadt-ulm | Abschleppdienst Ulm: Pannenhilfe A8, A7, Donau | Pannenhilfe und Abschleppen in Ulm: 17 Stadtteile, Donau, Grenze zu Bayern, A8, Kreuz Ulm/Elchingen mit A7, Dreieck Hittistetten und Albaufstieg. | page ===
 <!--AREAS: Ulm, Ulm-Eselsberg, Ulm-Böfingen, Ulm-Wiblingen, Neu-Ulm -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ulm</p><h1>Abschleppdienst Ulm</h1><p class="lead">Ulm liegt an der Donau an der Grenze zu Bayern, wo sich A8 und A7 am Kreuz Ulm/Elchingen treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ulm</p><h1>Abschleppdienst Ulm</h1><p class="lead">Ulm liegt an der Donau an der Grenze zu Bayern, wo sich A8 und A7 am Kreuz Ulm/Elchingen treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Stadt an der Donau, Grenze zu Bayern</h2>
 <p>Ulm liegt in Baden-Württemberg an der Donau, am südöstlichen Rand der Schwäbischen Alb und am nördlichen Rand Oberschwabens, direkt an der Grenze zu Bayern. Das Stadtgebiet ist in 17 Stadtteile eingeteilt, darunter Stadtmitte, Böfingen, Donautal, Eggingen, Einsingen, Ermingen, Eselsberg, Gögglingen-Donaustetten, Grimmelfingen, Jungingen, Lehr, Mähringen und Oststadt. Am anderen Donauufer liegt Neu-Ulm in Bayern. Nennen Sie uns bei einer Panne deshalb, ob Sie in Ulm oder Neu-Ulm stehen, denn dort wechseln Bundesland und Zuständigkeit.</p>
@@ -116,7 +116,7 @@
 
 === stadt-heilbronn | Abschleppdienst Heilbronn: Pannenhilfe A6, A81, Neckartal | Pannenhilfe und Abschleppen in Heilbronn: neun Stadtteile, Neckar, Kreuz Weinsberg mit A6 und A81, Neckartalstraße, B27, B39 und B293. Standort nennen. | page ===
 <!--AREAS: Heilbronn, Heilbronn-Böckingen, Heilbronn-Sontheim, Heilbronn-Neckargartach, Weinsberg -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Heilbronn</p><h1>Abschleppdienst Heilbronn</h1><p class="lead">Heilbronn liegt am Neckar, wenige Kilometer vom Kreuz Weinsberg entfernt, an dem sich A6 und A81 treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Heilbronn</p><h1>Abschleppdienst Heilbronn</h1><p class="lead">Heilbronn liegt am Neckar, wenige Kilometer vom Kreuz Weinsberg entfernt, an dem sich A6 und A81 treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Heilbronn: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Heilbronn oder an A6, A81, B27 und B39. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -164,7 +164,7 @@
 
 === stadt-pforzheim | Abschleppdienst Pforzheim: Pannenhilfe A8, B10, Enztal | Pannenhilfe und Abschleppen in Pforzheim: 15 Stadtteile, Enz, Nagold und Würm, A8 mit vier Anschlussstellen, B10, B294 und B463. Standort nennen. | page ===
 <!--AREAS: Pforzheim, Pforzheim-Eutingen, Pforzheim-Huchenfeld, Pforzheim-Würm, Pforzheim-Brötzingen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Pforzheim</p><h1>Abschleppdienst Pforzheim</h1><p class="lead">Pforzheim liegt am Nordrand des Schwarzwalds am Zusammenfluss von Enz, Nagold und Würm. Die A8 verläuft nördlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Pforzheim</p><h1>Abschleppdienst Pforzheim</h1><p class="lead">Pforzheim liegt am Nordrand des Schwarzwalds am Zusammenfluss von Enz, Nagold und Würm. Die A8 verläuft nördlich der Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Pforzheim: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Pforzheim oder an A8, B10, B294 und B463. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -212,7 +212,7 @@
 
 === stadt-goettingen | Abschleppdienst Göttingen: Pannenhilfe A7, A38, B3 | Pannenhilfe in Göttingen: 18 Stadtbezirke, A7 im Westen, Dreieck Drammetal (A38), Verkehrsring am Stadtwall, B3 und B27. | page ===
 <!--AREAS: Göttingen, Göttingen-Weende, Göttingen-Grone, Göttingen-Geismar, Göttingen-Nikolausberg -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Göttingen</p><h1>Abschleppdienst Göttingen</h1><p class="lead">Göttingen ist eine Universitätsstadt in Südniedersachsen, im Westen von der A7 tangiert. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Göttingen</p><h1>Abschleppdienst Göttingen</h1><p class="lead">Göttingen ist eine Universitätsstadt in Südniedersachsen, im Westen von der A7 tangiert. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Göttingen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Göttingen oder an A7, A38, B3 und B27. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -260,7 +260,7 @@
 
 === stadt-bottrop | Abschleppdienst Bottrop: Pannenhilfe A2, A31, A42 | Pannenhilfe und Abschleppen in Bottrop: drei Stadtbezirke, Dreieck Bottrop, A2, A31, A42 und B224. So nennen Sie Ihren Standort. | page ===
 <!--AREAS: Bottrop, Bottrop-Kirchhellen, Bottrop-Mitte, Bottrop-Süd, Gladbeck -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bottrop</p><h1>Abschleppdienst Bottrop</h1><p class="lead">Bottrop liegt im Ruhrgebiet an A2, A31 und A42. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bottrop</p><h1>Abschleppdienst Bottrop</h1><p class="lead">Bottrop liegt im Ruhrgebiet an A2, A31 und A42. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Bottrop: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Bottrop oder an A2, A31, A42 und B224. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -309,7 +309,7 @@
 
 === stadt-trier | Abschleppdienst Trier: Pannenhilfe A1, A602, Mosel | Pannenhilfe und Abschleppen in Trier: 19 Ortsbezirke, Mosel, Römerbrücke, A602, A1 und die Anbindung an Luxemburg. So nennen Sie Ihren Standort. | page ===
 <!--AREAS: Trier, Trier-West, Trier-Süd, Trier-Olewig, Trier-Ehrang -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Trier</p><h1>Abschleppdienst Trier</h1><p class="lead">Trier liegt an der Mosel, mit A602 und A1 als Anbindung. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Trier</p><h1>Abschleppdienst Trier</h1><p class="lead">Trier liegt an der Mosel, mit A602 und A1 als Anbindung. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Kreisfreie Stadt an der Mosel</h2>
 <p>Trier ist eine kreisfreie Großstadt an der Mosel. Das Stadtgebiet gliedert sich in 19 Ortsbezirke. Nennen Sie uns bei einer Panne den Ortsbezirk und die Straße, und ob Sie links oder rechts der Mosel stehen.</p>

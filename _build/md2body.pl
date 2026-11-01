@@ -7,8 +7,8 @@ my $WA='@@WA2@@';
 $t =~ s/\[MARKE\]/Faster Abschleppdienst/g;
 $t =~ s/\[PREIS_AB\]/129/g;
 $t =~ s/\[Per WhatsApp Standort senden\]\(\[WHATSAPP\]\)/[Per WhatsApp Standort senden]($WA)/g;
-$t =~ s/\*\*\[TELEFON\]\*\*/**[+49 176 41956993](tel:+4917641956993)**/g;
-$t =~ s/\[TELEFON\]/[+49 176 41956993](tel:+4917641956993)/g;
+$t =~ s{\*\*\[TELEFON\]\*\*}{**[WhatsApp +32 3 375 67 37](https://wa.me/3233756737)**}g;
+$t =~ s{\[TELEFON\]}{[WhatsApp +32 3 375 67 37](https://wa.me/3233756737)}g;
 $t =~ s/\[ANFAHRT_MIN\]/<mark>[ANFAHRT_MIN, mit Partnern klären]<\/mark>/g;
 $t =~ s/\[ZAHLUNGSARTEN[^\]]*\]/<mark>[Zahlungsarten mit Partnern klären, z. B. Bar, EC-Karte, Kreditkarte, Überweisung]<\/mark>/g;
 # owner links (/abschleppdienst-xyz/ and /ratgeber/xyz/) point to the flat page files

@@ -1,6 +1,6 @@
 === stadt-dortmund | Abschleppdienst Dortmund: Pannenhilfe A40, A45, A2 | Pannenhilfe und Abschleppen in Dortmund: zwölf Stadtbezirke, A40 Ruhrschnellweg, Westfalendamm, A45, A2 und Autobahnring. Standort richtig nennen. | page ===
 <!--AREAS: Dortmund, Dortmund-Hörde, Dortmund-Eving, Dortmund-Brackel, Dortmund-Aplerbeck -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dortmund</p><h1>Abschleppdienst Dortmund</h1><p class="lead">Dortmund liegt im östlichen Ruhrgebiet an einem dichten Netz aus A40, A45 und A2. Wer hier liegen bleibt, steht oft im Stau. Sagen Sie uns, wo, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dortmund</p><h1>Abschleppdienst Dortmund</h1><p class="lead">Dortmund liegt im östlichen Ruhrgebiet an einem dichten Netz aus A40, A45 und A2. Wer hier liegen bleibt, steht oft im Stau. Sagen Sie uns, wo, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Zwölf Stadtbezirke rund um die Innenstadt</h2>
 <p>Dortmund gliedert sich in zwölf Stadtbezirke: die drei Innenstadtbezirke West, Nord und Ost und den Ring aus neun weiteren Bezirken, im Uhrzeigersinn beginnend im Norden Eving, Scharnhorst, Brackel, Aplerbeck, Hörde, Hombruch, Lütgendortmund, Huckarde und Mengede. Für Ihre Standortangabe reicht der Bezirk selten. Nennen Sie den Stadtteil und die Straße, zum Beispiel Wickede, Kirchlinde oder Hombruch.</p>
@@ -37,7 +37,7 @@
 
 === stadt-essen | Abschleppdienst Essen: Pannenhilfe A40, A52, A42 | Pannenhilfe und Abschleppen in Essen: neun Stadtbezirke, 50 Stadtteile, Ruhrschnellweg, A52 mit Mintarder Ruhrtalbrücke, A42 und Baldeneysee. | page ===
 <!--AREAS: Essen, Essen-Werden, Essen-Rüttenscheid, Essen-Karnap, Essen-Kupferdreh -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Essen</p><h1>Abschleppdienst Essen</h1><p class="lead">Essen liegt im Zentrum des Ruhrgebiets, geteilt zwischen dichtem Norden und grünem Süden an der Ruhr. Wer hier liegen bleibt, sollte wissen, in welchem Teil der Stadt er steht.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Essen</p><h1>Abschleppdienst Essen</h1><p class="lead">Essen liegt im Zentrum des Ruhrgebiets, geteilt zwischen dichtem Norden und grünem Süden an der Ruhr. Wer hier liegen bleibt, sollte wissen, in welchem Teil der Stadt er steht.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Neun Stadtbezirke, 50 Stadtteile</h2>
 <p>Das Stadtgebiet besteht aus neun Stadtbezirken, die mit römischen Zahlen und mit einem besonderen Namen bezeichnet werden, unterteilt in insgesamt 50 Stadtteile. Bei der Standortangabe helfen Ihnen der Stadtteilname und die Straße mehr als die Bezirksnummer, etwa Rüttenscheid, Karnap, Werden oder Kupferdreh.</p>
@@ -74,7 +74,7 @@
 
 === stadt-leipzig | Abschleppdienst Leipzig: Pannenhilfe, A14, A38, Ring | Pannenhilfe und Abschleppen in Leipzig: zehn Stadtbezirke, 63 Ortsteile, A14, A38-Südumfahrung, Mitteldeutsche Schleife und Mittlerer Ring. | page ===
 <!--AREAS: Leipzig, Leipzig-Gohlis, Leipzig-Wahren, Leipzig-Stötteritz, Leipzig-Wiederitzsch -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Leipzig</p><h1>Abschleppdienst Leipzig</h1><p class="lead">Leipzig ist die einwohnerreichste Stadt Sachsens und liegt zwischen A14, A38 und dem äußeren Autobahnring. Sagen Sie uns, wo Sie stehen, wir koordinieren Pannenhilfe und Abschleppen.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Leipzig</p><h1>Abschleppdienst Leipzig</h1><p class="lead">Leipzig ist die einwohnerreichste Stadt Sachsens und liegt zwischen A14, A38 und dem äußeren Autobahnring. Sagen Sie uns, wo Sie stehen, wir koordinieren Pannenhilfe und Abschleppen.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Stadtbezirke, Ortsteile und Stadtteile</h2>
 <p>Leipzig ist verwaltungsmäßig in zehn Stadtbezirke gegliedert, die 63 Ortsteile enthalten. Als Stadtteile bezeichnet man dagegen Gebiete, die durch Eingemeindung vorher selbstständiger Dörfer entstanden sind, daher decken sich Stadtteil- und Ortsteilgrenzen nicht immer. Für Ihre Standortangabe heißt das: Nennen Sie den Namen, unter dem der Ort bekannt ist, etwa Gohlis, Wahren oder Stötteritz, und dazu die Straße.</p>
@@ -111,7 +111,7 @@
 
 === stadt-bremen | Abschleppdienst Bremen: Pannenhilfe, A1, A27, A281 | Pannenhilfe und Abschleppen in Bremen: fünf Stadtbezirke, A1, A27 mit Bremer Kreuz, A281 und Wesertunnel-Planung. So nennen Sie Ihren Standort. | page ===
 <!--AREAS: Bremen, Bremen-Vahr, Bremen-Arsten, Bremen-Hemelingen, Bremen-Gröpelingen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bremen</p><h1>Abschleppdienst Bremen</h1><p class="lead">Bremen ist ganz von Niedersachsen umschlossen und wird von der A1 im Süden umfahren, während die A27 im Osten vorbeiführt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bremen</p><h1>Abschleppdienst Bremen</h1><p class="lead">Bremen ist ganz von Niedersachsen umschlossen und wird von der A1 im Süden umfahren, während die A27 im Osten vorbeiführt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Fünf Stadtbezirke, 88 Ortsteile</h2>
 <p>Das Stadtgebiet ist in fünf Stadtbezirke eingeteilt, mit insgesamt 88 Ortsteilen, von denen die meisten zu 18 Stadtteilen zusammengefasst sind. Bei einer Standortangabe helfen der Stadtteil und die Straße, denn die Bezirksnummer ist im Alltag kaum bekannt.</p>

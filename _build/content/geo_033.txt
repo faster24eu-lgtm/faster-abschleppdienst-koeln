@@ -1,6 +1,6 @@
 === stadt-rosenheim | Abschleppdienst Rosenheim: Pannenhilfe A8, A93, B15 | Pannenhilfe und Abschleppen in Rosenheim: Inntal zwischen München und Salzburg, A8, A93, B15 und Umgehung Panorama-Schwaig. | page ===
 <!--AREAS: Rosenheim, Kolbermoor, Bad Aibling, Stephanskirchen, Autobahndreieck Inntal -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rosenheim</p><h1>Abschleppdienst Rosenheim</h1><p class="lead">Rosenheim liegt im Inntal zwischen München, Salzburg und Innsbruck an der A8 und A93. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Rosenheim</p><h1>Abschleppdienst Rosenheim</h1><p class="lead">Rosenheim liegt im Inntal zwischen München, Salzburg und Innsbruck an der A8 und A93. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Rosenheim: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Rosenheim oder an A8, A93 und B15. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-passau | Abschleppdienst Passau: Pannenhilfe A3, Donaubrücke Schalding | Pannenhilfe und Abschleppen in Passau: Dreiflüssestadt, A3 mit der längsten deutschen Donaubrücke, Innkreisautobahn, Grenzverkehr. | page ===
 <!--AREAS: Passau, Passau-Innstadt, Passau-Hacklberg, Passau-Grubweg, Schalding, Suben -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Passau</p><h1>Abschleppdienst Passau</h1><p class="lead">Passau liegt an der Grenze zu Österreich am Zusammenfluss von Donau, Inn und Ilz, an der A3. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Passau</p><h1>Abschleppdienst Passau</h1><p class="lead">Passau liegt an der Grenze zu Österreich am Zusammenfluss von Donau, Inn und Ilz, an der A3. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Passau: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Passau oder an A3, A94, B8 und B12. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -88,7 +88,7 @@
 
 === stadt-goerlitz | Abschleppdienst Görlitz: Pannenhilfe A4, B6, B99, Neiße | Pannenhilfe und Abschleppen in Görlitz: östlichste Stadt Deutschlands, A4 mit Grenzübergang Ludwigsdorf, B6, B99 und Altstadt. | page ===
 <!--AREAS: Görlitz, Görlitz-Königshufen, Görlitz-Hagenwerder, Görlitz-Weinhübel, Zgorzelec, Ludwigsdorf -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Görlitz</p><h1>Abschleppdienst Görlitz</h1><p class="lead">Görlitz liegt an der Lausitzer Neiße an der Grenze zu Polen, am Ende der A4. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Görlitz</p><h1>Abschleppdienst Görlitz</h1><p class="lead">Görlitz liegt an der Lausitzer Neiße an der Grenze zu Polen, am Ende der A4. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Görlitz: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Görlitz oder an A4, B6, B99 und B115. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -131,7 +131,7 @@
 
 === stadt-greifswald | Abschleppdienst Greifswald: Pannenhilfe A20, B105, B109 | Pannenhilfe und Abschleppen in Greifswald: Hansestadt an der Ostsee, A20 mit Anschlussstelle Greifswald, B105, B109 und Zufahrten nach Usedom und Rügen. | page ===
 <!--AREAS: Greifswald, Greifswald-Eldena, Greifswald-Schönwalde, Wieck, Ostseeviertel, Jarmen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Greifswald</p><h1>Abschleppdienst Greifswald</h1><p class="lead">Greifswald liegt in Vorpommern, südwestlich der Stadt verläuft die A20. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Greifswald</p><h1>Abschleppdienst Greifswald</h1><p class="lead">Greifswald liegt in Vorpommern, südwestlich der Stadt verläuft die A20. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Greifswald: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Greifswald oder an A20, B105 und B109. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -176,7 +176,7 @@
 
 === stadt-stralsund | Abschleppdienst Stralsund: Pannenhilfe A20, Rügenbrücke, B96, B105 | Pannenhilfe und Abschleppen in Stralsund: Tor zur Insel Rügen, Zubringer zur A20, Rügenbrücke von 2007, Rügendamm, B96, B105 und B194. | page ===
 <!--AREAS: Stralsund, Stralsund-Grünhufe, Stralsund-Knieper, Dänholm, Altefähr, Rügen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stralsund</p><h1>Abschleppdienst Stralsund</h1><p class="lead">Stralsund liegt am Strelasund und gilt als Tor zur Insel Rügen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Stralsund</p><h1>Abschleppdienst Stralsund</h1><p class="lead">Stralsund liegt am Strelasund und gilt als Tor zur Insel Rügen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Stralsund: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Stralsund oder an A20, B96, B105 und B194. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -217,7 +217,7 @@
 
 === stadt-celle | Abschleppdienst Celle: Pannenhilfe A7, B3, B214, B191 | Pannenhilfe und Abschleppen in Celle: Tor zur Lüneburger Heide, Fachwerk-Altstadt, B3, B214, B191 und Landesstraßen zur A7. | page ===
 <!--AREAS: Celle, Celle-Altencelle, Celle-Garßen, Celle-Groß Hehlen, Celle-Vorwerk, Celle-Wietzenbruch -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Celle</p><h1>Abschleppdienst Celle</h1><p class="lead">Celle liegt im Urstromtal der Aller, das Netz der Bundesstraßen führt in alle Richtungen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Celle</p><h1>Abschleppdienst Celle</h1><p class="lead">Celle liegt im Urstromtal der Aller, das Netz der Bundesstraßen führt in alle Richtungen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Celle: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Celle oder an A7, B3, B214 und B191. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -260,7 +260,7 @@
 
 === stadt-giessen | Abschleppdienst Gießen: Pannenhilfe A5, A45, A485, B49 | Pannenhilfe und Abschleppen in Gießen: Universitätsstadt in Mittelhessen, Gießener Ring mit A480 und A485, A5, A45 und B49 Richtung Wetzlar. | page ===
 <!--AREAS: Gießen, Gießen-Wieseck, Gießen-Kleinlinden, Gießen-Lützellinden, Wettenberg, Lich -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gießen</p><h1>Abschleppdienst Gießen</h1><p class="lead">Gießen liegt in Mittelhessen an einem Teil-Autobahnnetz, dem Gießener Ring, zwischen A5 und A45. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gießen</p><h1>Abschleppdienst Gießen</h1><p class="lead">Gießen liegt in Mittelhessen an einem Teil-Autobahnnetz, dem Gießener Ring, zwischen A5 und A45. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Gießen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Gießen oder an A5, A45, A485 und B49. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

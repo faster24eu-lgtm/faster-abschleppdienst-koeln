@@ -1,6 +1,6 @@
 === stadt-speyer | Abschleppdienst Speyer: Pannenhilfe A61, B9, B39, Salierbrücke | Pannenhilfe und Abschleppen in Speyer: A61 im Norden, kreuzungsfreie B9 und B39 mit sieben Abfahrten, Salierbrücke und Autobahnbrücke. | page ===
 <!--AREAS: Speyer, Speyer-Nord, Speyer-Süd, Speyer-West, Dudenhofen, Salierbrücke, Rheinbrücke -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Speyer</p><h1>Abschleppdienst Speyer</h1><p class="lead">Speyer liegt am linken Rheinufer in der Metropolregion Rhein-Neckar an B9, B39 und A61. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Speyer</p><h1>Abschleppdienst Speyer</h1><p class="lead">Speyer liegt am linken Rheinufer in der Metropolregion Rhein-Neckar an B9, B39 und A61. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Speyer: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Speyer oder an A61, B9, B39 und A6. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -43,7 +43,7 @@
 
 === stadt-neuwied | Abschleppdienst Neuwied: Pannenhilfe B42, B256, Raiffeisenbrücke | Pannenhilfe und Abschleppen in Neuwied: rechtes Rheinufer nordwestlich von Koblenz, B42 und B256 als Schnellstraßen, Raiffeisenbrücke, A3, A48 und A61. | page ===
 <!--AREAS: Neuwied, Neuwied-Heddesdorf, Neuwied-Engers, Neuwied-Feldkirchen, Raiffeisenbrücke, Koblenz -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neuwied</p><h1>Abschleppdienst Neuwied</h1><p class="lead">Neuwied liegt am rechten Rheinufer etwa zehn Kilometer nordwestlich von Koblenz. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Neuwied</p><h1>Abschleppdienst Neuwied</h1><p class="lead">Neuwied liegt am rechten Rheinufer etwa zehn Kilometer nordwestlich von Koblenz. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Neuwied: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Neuwied oder an B42, B256, A3 und A48. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -86,7 +86,7 @@
 
 === stadt-pirmasens | Abschleppdienst Pirmasens: Pannenhilfe A8, A62, B10 | Pannenhilfe und Abschleppen in Pirmasens: Pfälzerwald, Anschluss an A8 und A62, B10 zur Rheinschiene, Landesstraßen L482 bis L600. | page ===
 <!--AREAS: Pirmasens, Pirmasens-Nord, Rodalben, Vinningen, Hinterweidenthal, Lemberg -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Pirmasens</p><h1>Abschleppdienst Pirmasens</h1><p class="lead">Pirmasens liegt am Westrand des Pfälzerwalds im Südwesten von Rheinland-Pfalz. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Pirmasens</p><h1>Abschleppdienst Pirmasens</h1><p class="lead">Pirmasens liegt am Westrand des Pfälzerwalds im Südwesten von Rheinland-Pfalz. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Pirmasens: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Pirmasens oder an A8, A62, B10 und A6. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -129,7 +129,7 @@
 
 === stadt-bad-kreuznach | Abschleppdienst Bad Kreuznach: Pannenhilfe A61, B41, B48, B428 | Pannenhilfe und Abschleppen in Bad Kreuznach: Anschlussstelle 51 der A61 rund zwölf Kilometer vom Zentrum, B41, B48 und B428, Rüdesheimer Straße. | page ===
 <!--AREAS: Bad Kreuznach, Bad Münster am Stein, Bosenheim, Planig, Winzenheim, Rüdesheimer Straße -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bad Kreuznach</p><h1>Abschleppdienst Bad Kreuznach</h1><p class="lead">Bad Kreuznach liegt an der Nahe, die A61 ist rund zwölf Kilometer vom Zentrum entfernt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bad Kreuznach</p><h1>Abschleppdienst Bad Kreuznach</h1><p class="lead">Bad Kreuznach liegt an der Nahe, die A61 ist rund zwölf Kilometer vom Zentrum entfernt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Bad Kreuznach: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Bad Kreuznach oder an A61, B41, B48 und B428. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -170,7 +170,7 @@
 
 === stadt-zweibruecken | Abschleppdienst Zweibrücken: Pannenhilfe A8, A6, A62, B10 | Pannenhilfe und Abschleppen in Zweibrücken: kleinste kreisfreie Stadt Deutschlands an der A8, Anschluss an A6, A62 und B10, Flughafen. | page ===
 <!--AREAS: Zweibrücken, Zweibrücken-Ixheim, Zweibrücken-Niederauerbach, Einöd, Bitsch, Flughafen Zweibrücken -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Zweibrücken</p><h1>Abschleppdienst Zweibrücken</h1><p class="lead">Zweibrücken liegt an der A8 unmittelbar an der Grenze zum Saarland. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Zweibrücken</p><h1>Abschleppdienst Zweibrücken</h1><p class="lead">Zweibrücken liegt an der A8 unmittelbar an der Grenze zum Saarland. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Zweibrücken: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Zweibrücken oder an A8, A6, A62 und B10. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

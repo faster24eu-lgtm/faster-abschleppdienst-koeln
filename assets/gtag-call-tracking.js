@@ -10,8 +10,5 @@
     document.head.appendChild(s);
     gtag('js', new Date());
     gtag('config', 'AW-18517785509');
-  }
-  gtag('config', 'AW-18517785509/FgL9CJ2g8KQdEKX3-_1E', {
-    'phone_conversion_number': '+49 176 41956993'
-  });
+  }
 })();

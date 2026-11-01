@@ -1,6 +1,6 @@
 === stadt-luebeck | Abschleppdienst Lübeck: Pannenhilfe A1, A20, A226 | Pannenhilfe und Abschleppen in Lübeck: zehn Stadtteile, Altstadtinsel, A1 Vogelfluglinie, A20 Ostseeautobahn, A226 nach Travemünde und Skandinavienkai. | page ===
 <!--AREAS: Lübeck, Lübeck-Travemünde, Lübeck-Moisling, Lübeck-Buntekuh, Lübeck-Genin -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lübeck</p><h1>Abschleppdienst Lübeck</h1><p class="lead">Lübeck liegt an der Trave in der Nähe der Ostsee, mit einer Altstadt auf einer Insel und Autobahnen zur Fähre nach Skandinavien. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lübeck</p><h1>Abschleppdienst Lübeck</h1><p class="lead">Lübeck liegt an der Trave in der Nähe der Ostsee, mit einer Altstadt auf einer Insel und Autobahnen zur Fähre nach Skandinavien. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Hansestadt an der Lübecker Bucht</h2>
 <p>Die Hansestadt Lübeck ist eine kreisfreie Großstadt im Südosten Schleswig-Holsteins an der Lübecker Bucht. Sie liegt an der unteren Trave, einem schiffbaren Fluss, der im Stadtteil Travemünde in die Ostsee mündet. Das Stadtgebiet ist in zehn Stadtteile eingeteilt, nur für Travemünde gibt es einen eigenen Ortsrat. Nennen Sie uns bei einer Panne den Stadtteil und die Straße, etwa Moisling, Buntekuh, Genin oder Travemünde.</p>
@@ -35,7 +35,7 @@
 
 === stadt-oberhausen | Abschleppdienst Oberhausen: Pannenhilfe A3, A2, A42 | Pannenhilfe und Abschleppen in Oberhausen: drei Stadtbezirke, Kreuz Oberhausen mit A3 und A2, A42 Emscherschnellweg und A516. Standort nennen. | page ===
 <!--AREAS: Oberhausen, Oberhausen-Sterkrade, Oberhausen-Osterfeld, Oberhausen-Alt -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Oberhausen</p><h1>Abschleppdienst Oberhausen</h1><p class="lead">Oberhausen ist der Ausgangspunkt der A2 und ein Autobahnknoten des westlichen Ruhrgebiets. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Oberhausen</p><h1>Abschleppdienst Oberhausen</h1><p class="lead">Oberhausen ist der Ausgangspunkt der A2 und ein Autobahnknoten des westlichen Ruhrgebiets. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Oberhausen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Oberhausen oder an A3, A2, A42 und A516. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -84,7 +84,7 @@
 
 === stadt-erfurt | Abschleppdienst Erfurt: Pannenhilfe A4, A71, Erfurter Kreuz | Pannenhilfe und Abschleppen in Erfurt: 53 Stadtteile, Erfurter Kreuz mit A4 und A71, und Standortangaben für Thüringens Landeshauptstadt. | page ===
 <!--AREAS: Erfurt, Erfurt-Frienstedt, Erfurt-Melchendorf, Erfurt-Ilversgehofen, Erfurt-Hochheim -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Erfurt</p><h1>Abschleppdienst Erfurt</h1><p class="lead">Erfurt ist die Landeshauptstadt Thüringens und liegt am Erfurter Kreuz, an dem sich A4 und A71 treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Erfurt</p><h1>Abschleppdienst Erfurt</h1><p class="lead">Erfurt ist die Landeshauptstadt Thüringens und liegt am Erfurter Kreuz, an dem sich A4 und A71 treffen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Landeshauptstadt Thüringens</h2>
 <p>Erfurt ist die Landeshauptstadt des Freistaates Thüringen. Das Stadtgebiet gliedert sich in 53 Stadtteile. Die Bebauung verteilt sich grob auf drei Typen: (alt-)städtische Stadtteile, Plattenbaugebiete und eingemeindete Dörfer. Bei einer Panne heißt das: Straßen und Zufahrten unterscheiden sich stark, von der Altstadt über Plattenbauviertel bis zu dörflichen Ortsteilen. Nennen Sie uns Stadtteil, Straße und Hausnummer.</p>
@@ -117,7 +117,7 @@
 
 === stadt-mainz | Abschleppdienst Mainz: Pannenhilfe A60, A643, A63 | Pannenhilfe und Abschleppen in Mainz: Rheinbrücken, Autobahnhalbring mit A60, A643 und A63, Zoll- und Binnenhafen. So nennen Sie Ihren Standort. | page ===
 <!--AREAS: Mainz, Mainz-Kastel, Mainz-Hechtsheim, Mainz-Finthen, Mainz-Laubenheim -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Mainz</p><h1>Abschleppdienst Mainz</h1><p class="lead">Mainz liegt am Rhein gegenüber von Wiesbaden. Ein Autobahnhalbring mit zwei Rheinbrücken trennt die äußeren Stadtteile vom Zentrum. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Mainz</p><h1>Abschleppdienst Mainz</h1><p class="lead">Mainz liegt am Rhein gegenüber von Wiesbaden. Ein Autobahnhalbring mit zwei Rheinbrücken trennt die äußeren Stadtteile vom Zentrum. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Landeshauptstadt am Rhein</h2>
 <p>Mainz ist die Landeshauptstadt von Rheinland-Pfalz und Teil des Rhein-Main-Gebiets. Mit der angrenzenden hessischen Landeshauptstadt Wiesbaden bildet sie einen gemeinsamen Ballungsraum. Für die Standortangabe wichtig: Der Rhein trennt beide Städte, die Brücken sind begrenzt. Nennen Sie uns deshalb auch, auf welcher Rheinseite Sie stehen.</p>

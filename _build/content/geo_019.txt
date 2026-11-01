@@ -1,6 +1,6 @@
 === stadt-regensburg | Abschleppdienst Regensburg: Pannenhilfe A3, A93, Ostumgehung | Pannenhilfe und Abschleppen in Regensburg: Donau, Steinerne Brücke, Kreuz Regensburg (A3 und A93), Ostumgehung und Stadtamhof. Standort richtig nennen. | page ===
 <!--AREAS: Regensburg, Regensburg-Stadtamhof, Regensburg-Innenstadt, Regensburg-Ost -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Regensburg</p><h1>Abschleppdienst Regensburg</h1><p class="lead">Regensburg liegt am nördlichsten Punkt der Donau, mit einer mittelalterlichen Altstadt und einem Autobahnkreuz. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Regensburg</p><h1>Abschleppdienst Regensburg</h1><p class="lead">Regensburg liegt am nördlichsten Punkt der Donau, mit einer mittelalterlichen Altstadt und einem Autobahnkreuz. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Regionalzentrum der Oberpfalz</h2>
 <p>Regensburg liegt in Ostbayern. Die Stadt liegt am nördlichsten Punkt der aus Süden strömenden Donau, die nach der Einmündung der Naab vom West-Ost-Höhenzug der Winzerer Höhen gezwungen wird, ihren Lauf nach Osten zu ändern. Für die Standortangabe heißt das: Die Donau teilt das Stadtgebiet, und die Brücken sind die einzigen Übergänge. Sagen Sie uns, ob Sie nördlich oder südlich der Donau stehen.</p>
@@ -33,7 +33,7 @@
 
 === stadt-ingolstadt | Abschleppdienst Ingolstadt: Pannenhilfe A9 und Donau | Pannenhilfe und Abschleppen in Ingolstadt: zwölf Stadtbezirke, Donau, A9 mit Anschlussstellen Süd und Nord/Ost, Glacis und Festungsanlagen. | page ===
 <!--AREAS: Ingolstadt, Ingolstadt-Mitte, Ingolstadt-Süd, Ingolstadt-Nord -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ingolstadt</p><h1>Abschleppdienst Ingolstadt</h1><p class="lead">Ingolstadt liegt an der Donau an der sechsspurigen A9. Die Altstadt ist von Grüngürteln und Festungsanlagen umgeben. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Ingolstadt</p><h1>Abschleppdienst Ingolstadt</h1><p class="lead">Ingolstadt liegt an der Donau an der sechsspurigen A9. Die Altstadt ist von Grüngürteln und Festungsanlagen umgeben. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Großstadt in Oberbayern</h2>
 <p>Ingolstadt ist eine kreisfreie Großstadt an der Donau in Oberbayern. Das Stadtgebiet ist in zwölf Stadtbezirke gegliedert. Neben dieser Gliederung gibt es eine aus der Stadtentwicklung entstandene Einteilung, die von den beiden Grüngürteln beeinflusst wird und die Altstadt von den Ortsteilen trennt. Nennen Sie uns bei einer Panne den Stadtteil und die Straße.</p>
@@ -68,7 +68,7 @@
 
 === stadt-wuerzburg | Abschleppdienst Würzburg: Pannenhilfe A3, A7, A81 | Pannenhilfe und Abschleppen in Würzburg: 13 Stadtbezirke, Mainbrücken, A3 mit Katzenbergtunnel, Kreuz Biebelried und Dreieck Würzburg-West. Standort. | page ===
 <!--AREAS: Würzburg, Würzburg-Heidingsfeld, Würzburg-Heuchelhof, Würzburg-Zell, Randersacker -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Würzburg</p><h1>Abschleppdienst Würzburg</h1><p class="lead">Würzburg liegt am Main und ist ein Verkehrsknoten aus A3, A7 und A81. Sagen Sie uns, auf welcher Mainseite Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Würzburg</p><h1>Abschleppdienst Würzburg</h1><p class="lead">Würzburg liegt am Main und ist ein Verkehrsknoten aus A3, A7 und A81. Sagen Sie uns, auf welcher Mainseite Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Stadt am Main in Unterfranken</h2>
 <p>Würzburg ist eine kreisfreie Stadt in Bayern im Bezirk Unterfranken. Das Stadtgebiet ist in 13 Stadtbezirke eingeteilt. Für Ihre Standortangabe ist die Mainseite wichtig: Die Festung liegt linksmainisch, die Altstadt rechtsmainisch. Nennen Sie uns außerdem Stadtteil und Straße.</p>
@@ -103,7 +103,7 @@
 
 === stadt-wolfsburg | Abschleppdienst Wolfsburg: Pannenhilfe A39 und A2 | Pannenhilfe und Abschleppen in Wolfsburg: 16 Ortschaften, 41 Stadtteile, A39, Kreuz Wolfsburg/Königslutter und Volkswagenwerk. Standort nennen. | page ===
 <!--AREAS: Wolfsburg, Wolfsburg-Fallersleben, Wolfsburg-Vorsfelde, Wolfsburg-Heßlingen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wolfsburg</p><h1>Abschleppdienst Wolfsburg</h1><p class="lead">Wolfsburg ist Sitz des Volkswagenwerks und liegt an der A39 und in der Nähe der A2. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wolfsburg</p><h1>Abschleppdienst Wolfsburg</h1><p class="lead">Wolfsburg ist Sitz des Volkswagenwerks und liegt an der A39 und in der Nähe der A2. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Sitz des Volkswagenwerks</h2>
 <p>Wolfsburg ist eine kreisfreie Großstadt im Osten Niedersachsens und Sitz des Volkswagenwerks, einer der größten Automobilfabriken der Welt. Für Ihre Panne bedeutet das: In der Nähe des Werks sind viele Fahrzeuge unterwegs, und die Zufahrten sind zu Schichtzeiten stark belastet. Sagen Sie uns, an welcher Straße oder welchem Tor Sie stehen.</p>

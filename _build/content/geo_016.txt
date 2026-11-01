@@ -1,6 +1,6 @@
 === stadt-augsburg | Abschleppdienst Augsburg: Pannenhilfe A8, B17, Lech | Pannenhilfe und Abschleppen in Augsburg: 42 Stadtbezirke, A8 mit zwei Anschlussstellen, Gelbe Autobahn B2, Westtangente B17 und Schleifenstraße. | page ===
 <!--AREAS: Augsburg, Augsburg-Haunstetten, Augsburg-Göggingen, Augsburg-Lechhausen, Gersthofen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Augsburg</p><h1>Abschleppdienst Augsburg</h1><p class="lead">Augsburg liegt an der A8 zwischen München und Stuttgart und hat eine Westtangente, die wie eine Autobahn gebaut ist. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Augsburg</p><h1>Abschleppdienst Augsburg</h1><p class="lead">Augsburg liegt an der A8 zwischen München und Stuttgart und hat eine Westtangente, die wie eine Autobahn gebaut ist. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Großstadt im Südwesten Bayerns</h2>
 <p>Augsburg ist eine kreisfreie Großstadt im Südwesten Bayerns mit mehreren größeren eingemeindeten Stadtteilen wie Göggingen, Bergheim, Inningen und Haunstetten. Wenn Sie in einem dieser Stadtteile liegen bleiben, nennen Sie uns den Namen und die Straße, denn "Augsburg" allein sagt einem Fahrer wenig.</p>
@@ -36,7 +36,7 @@
 
 === stadt-wiesbaden | Abschleppdienst Wiesbaden: Pannenhilfe A66, A643, A3 | Pannenhilfe und Abschleppen in Wiesbaden: 26 Ortsbezirke, Talmulde, A66, Schiersteiner Kreuz, A671 und Wiesbadener Kreuz. Standort nennen. | page ===
 <!--AREAS: Wiesbaden, Wiesbaden-Biebrich, Wiesbaden-Schierstein, Wiesbaden-Erbenheim, Wiesbaden-Mainz-Kastel -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wiesbaden</p><h1>Abschleppdienst Wiesbaden</h1><p class="lead">Wiesbaden liegt in einer Talmulde am Taunus, gegenüber von Mainz am Rhein. Autobahnen laufen im Süden und Osten vorbei. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Wiesbaden</p><h1>Abschleppdienst Wiesbaden</h1><p class="lead">Wiesbaden liegt in einer Talmulde am Taunus, gegenüber von Mainz am Rhein. Autobahnen laufen im Süden und Osten vorbei. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Landeshauptstadt am Taunus</h2>
 <p>Wiesbaden ist die Landeshauptstadt Hessens und bildet mit der benachbarten rheinland-pfälzischen Landeshauptstadt Mainz einen gemeinsamen Ballungsraum. Für Ihre Standortangabe heißt das: Ob Sie in Wiesbaden oder auf der anderen Rheinseite in Mainz stehen, macht für die Anfahrt einen Unterschied, denn der Rhein ist nur über Brücken passierbar.</p>
@@ -74,7 +74,7 @@
 
 === stadt-gelsenkirchen | Abschleppdienst Gelsenkirchen: Pannenhilfe A2, A42, A52 | Pannenhilfe und Abschleppen in Gelsenkirchen: fünf Stadtbezirke, Emscher, A2 an der Veltins-Arena, A42, A52 und Rhein-Herne-Kanal. Standort nennen. | page ===
 <!--AREAS: Gelsenkirchen, Gelsenkirchen-Buer, Gelsenkirchen-Horst, Gelsenkirchen-Scholven, Gelsenkirchen-Schalke -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gelsenkirchen</p><h1>Abschleppdienst Gelsenkirchen</h1><p class="lead">Gelsenkirchen liegt im Zentrum des Ruhrgebiets an A2, A42 und A52. Der Rhein-Herne-Kanal und die Emscher teilen die Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Gelsenkirchen</p><h1>Abschleppdienst Gelsenkirchen</h1><p class="lead">Gelsenkirchen liegt im Zentrum des Ruhrgebiets an A2, A42 und A52. Der Rhein-Herne-Kanal und die Emscher teilen die Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Gelsenkirchen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Gelsenkirchen oder an A2, A42, A52 und B224. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -111,7 +111,7 @@
 
 === stadt-moenchengladbach | Abschleppdienst Mönchengladbach: Pannenhilfe A44, A61 | Pannenhilfe und Abschleppen in Mönchengladbach: vier Stadtbezirke, Kreuz Mönchengladbach, A61 mit Borussia-Park und Garzweiler-Unterbrechung. | page ===
 <!--AREAS: Mönchengladbach, Mönchengladbach-Rheydt, Mönchengladbach-Wanlo, Mönchengladbach-Hardt, Mönchengladbach-Odenkirchen -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Mönchengladbach</p><h1>Abschleppdienst Mönchengladbach</h1><p class="lead">Mönchengladbach wird von vier Autobahnen berührt: A44, A46, A52 und A61. Im Süden ist die A61 wegen des Tagebaus unterbrochen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Mönchengladbach</p><h1>Abschleppdienst Mönchengladbach</h1><p class="lead">Mönchengladbach wird von vier Autobahnen berührt: A44, A46, A52 und A61. Im Süden ist die A61 wegen des Tagebaus unterbrochen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Zwei Zentren, viele Stadtteile</h2>
 <p>Mönchengladbach liegt im Westen Nordrhein-Westfalens, rund 25 Kilometer westlich von Düsseldorf. Mit den Stadtnamen Gladbach und Rheydt sind zwei Zentren gemeint. Nennen Sie uns deshalb Gladbach oder Rheydt und dazu den Stadtteil, etwa Odenkirchen oder Hardt.</p>
@@ -148,7 +148,7 @@
 
 === stadt-braunschweig | Abschleppdienst Braunschweig: Pannenhilfe A2, A39, A36 | Pannenhilfe und Abschleppen in Braunschweig: 21 Stadtbezirke, Oker, A2 mit Kreuz Braunschweig-Nord, A39, A36, Hafen und Flughafen. Standort richtig nennen. | page ===
 <!--AREAS: Braunschweig, Braunschweig-Waggum, Braunschweig-Lehndorf, Braunschweig-Querum -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Braunschweig</p><h1>Abschleppdienst Braunschweig</h1><p class="lead">Braunschweig liegt im Südosten Niedersachsens, A2, A39 und A36 führen zur Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Braunschweig</p><h1>Abschleppdienst Braunschweig</h1><p class="lead">Braunschweig liegt im Südosten Niedersachsens, A2, A39 und A36 führen zur Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Stadtbezirke im Südosten Niedersachsens</h2>
 <p>Braunschweig ist eine kreisfreie Großstadt im Südosten Niedersachsens, das Stadtgebiet gliedert sich in 21 Stadtbezirke. Im Alltag helfen Ihnen der Stadtteilname und die Straße, etwa Querum, Lehndorf oder Waggum.</p>
@@ -184,7 +184,7 @@
 
 === stadt-chemnitz | Abschleppdienst Chemnitz: Pannenhilfe A4, A72, Cityring | Pannenhilfe und Abschleppen in Chemnitz: 39 Stadtteile, A4, A72 mit Kreuz Chemnitz, Cityring und die B95, B107, B169, B173, B174. Standort nennen. | page ===
 <!--AREAS: Chemnitz, Chemnitz-Zentrum, Chemnitz-Rabenstein, Chemnitz-Kappel, Chemnitz-Hilbersdorf -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Chemnitz</p><h1>Abschleppdienst Chemnitz</h1><p class="lead">Chemnitz wird von A4 und A72 durchzogen, ein Cityring umschließt das Zentrum. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Chemnitz</p><h1>Abschleppdienst Chemnitz</h1><p class="lead">Chemnitz wird von A4 und A72 durchzogen, ein Cityring umschließt das Zentrum. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>39 Stadtteile im Südwesten Sachsens</h2>
 <p>Chemnitz ist eine kreisfreie Stadt im Südwesten des Freistaates Sachsen mit 39 Stadtteilen. Nennen Sie uns bei einer Panne den Stadtteil und die Straße, denn bei einer Stadt dieser Größe sagt der Name allein wenig.</p>
@@ -220,7 +220,7 @@
 
 === stadt-kiel | Abschleppdienst Kiel: Pannenhilfe A210, A215, B76 | Pannenhilfe und Abschleppen in Kiel: 30 Stadtteile, A210 und A215 zur A7, Stadtautobahn B76, Kieler Förde und Nord-Ostsee-Kanal. Standort nennen. | page ===
 <!--AREAS: Kiel, Kiel-Mitte, Kiel-Gaarden, Kiel-Wik, Kiel-Holtenau -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kiel</p><h1>Abschleppdienst Kiel</h1><p class="lead">Kiel ist die nördlichste Großstadt Deutschlands, an der Förde und am Nord-Ostsee-Kanal. Zwei Autobahnen führen auf die A7. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Kiel</p><h1>Abschleppdienst Kiel</h1><p class="lead">Kiel ist die nördlichste Großstadt Deutschlands, an der Förde und am Nord-Ostsee-Kanal. Zwei Autobahnen führen auf die A7. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Nördlichste Großstadt Deutschlands</h2>
 <p>Kiel ist die Landeshauptstadt Schleswig-Holsteins. Das Stadtgebiet ist in 30 Stadtteile eingeteilt. Wenn Sie in Kiel liegen bleiben, nennen Sie uns den Stadtteil und die Straße, zum Beispiel Gaarden, Wik oder Holtenau, und ob Sie westlich oder östlich der Förde stehen.</p>
@@ -256,7 +256,7 @@
 
 === stadt-aachen | Abschleppdienst Aachen: Pannenhilfe A4, A44, A544 | Pannenhilfe und Abschleppen in Aachen: sieben Stadtbezirke, Kreuz Aachen mit A4, A44 und A544, Grenze zu den Niederlanden und Belgien. Standort nennen. | page ===
 <!--AREAS: Aachen, Aachen-Mitte, Aachen-Brand, Aachen-Laurensberg, Aachen-Richterich, Aachen-Eilendorf -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Aachen</p><h1>Abschleppdienst Aachen</h1><p class="lead">Aachen liegt im Dreiländereck mit den Niederlanden und Belgien. Am Kreuz Aachen treffen sich drei Autobahnen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Aachen</p><h1>Abschleppdienst Aachen</h1><p class="lead">Aachen liegt im Dreiländereck mit den Niederlanden und Belgien. Am Kreuz Aachen treffen sich drei Autobahnen. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Kreisfreie Großstadt an der Grenze</h2>
 <p>Aachen ist eine kreisfreie Großstadt im äußersten Westen Nordrhein-Westfalens. Die Stadt beherbergt die RWTH und die FH Aachen, im Alltag bedeutet das viele Studierende und viel Autoverkehr rund um die Hochschulen. Das Stadtgebiet gliedert sich in sieben Stadtbezirke: Aachen-Mitte, Brand, Eilendorf, Haaren, Kornelimünster/Walheim, Laurensberg und Richterich. Daneben gibt es zahlreiche weitere Ortsbezeichnungen für Stadtteile und Viertel, die allgemein als Ortsteile Aachens gelten. Nennen Sie uns deshalb den Namen, unter dem der Ort bekannt ist, und die Straße.</p>

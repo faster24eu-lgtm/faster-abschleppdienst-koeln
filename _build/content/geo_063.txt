@@ -1,6 +1,6 @@
 === stadt-luedenscheid | Abschleppdienst Lüdenscheid: Pannenhilfe A45, B54, B229 | Pannenhilfe und Abschleppen in Lüdenscheid: Bergstadt im Sauerland, drei Anschlussstellen der A45, B54, B229, Nordtangente und zwei Tunnel. | page ===
 <!--AREAS: Lüdenscheid, Brügge, Volmetal, Rahmedetal, Versetal, Nordtangente, Sauerfeld, Wilhelmstraße -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lüdenscheid</p><h1>Abschleppdienst Lüdenscheid</h1><p class="lead">Lüdenscheid liegt als Bergstadt im nordwestlichen Sauerland, die A45 führt im Halbkreis östlich um die Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Lüdenscheid</p><h1>Abschleppdienst Lüdenscheid</h1><p class="lead">Lüdenscheid liegt als Bergstadt im nordwestlichen Sauerland, die A45 führt im Halbkreis östlich um die Stadt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Lüdenscheid: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Lüdenscheid oder an A45, B54 und B229. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -41,7 +41,7 @@
 
 === stadt-coburg | Abschleppdienst Coburg: Pannenhilfe A73, B4, B303 | Pannenhilfe und Abschleppen in Coburg: Oberfranken an der thüringischen Grenze, A73 seit 2008, B4 durch die Stadt, B303 am Stadtkern, Itz-Brücken. | page ===
 <!--AREAS: Coburg, Ketschendorf, Cortendorf, Creidlitz, Scheuerfeld, Neuses, Bertelsdorf, Itz, Veste Coburg -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Coburg</p><h1>Abschleppdienst Coburg</h1><p class="lead">Coburg liegt im Norden der Metropolregion Nürnberg unweit der thüringischen Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Coburg</p><h1>Abschleppdienst Coburg</h1><p class="lead">Coburg liegt im Norden der Metropolregion Nürnberg unweit der thüringischen Grenze. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Coburg: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Coburg oder an A73, B4, B303 und A71. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -84,7 +84,7 @@
 
 === stadt-freising | Abschleppdienst Freising: Pannenhilfe A92, B301, Flughafen München | Pannenhilfe und Abschleppen in Freising: Isarstadt nördlich von München, A92 im Süden, B301 durch die Hallertau, Flughafen München, Luitpoldbrücke. | page ===
 <!--AREAS: Freising, Weihenstephan, Lerchenfeld, Attaching, Vötting, Achering, Freisinger Moos, Flughafen München -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Freising</p><h1>Abschleppdienst Freising</h1><p class="lead">Freising liegt an der Isar etwa 30 Kilometer nördlich von München, die A92 durchquert den Süden. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Freising</p><h1>Abschleppdienst Freising</h1><p class="lead">Freising liegt an der Isar etwa 30 Kilometer nördlich von München, die A92 durchquert den Süden. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Freising: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Freising oder an A92, B301, A9 und B11. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -127,7 +127,7 @@
 
 === stadt-dachau | Abschleppdienst Dachau: Pannenhilfe B304, B471, A8, A92 | Pannenhilfe und Abschleppen in Dachau: Amper nordwestlich von München, B304 nach München, B471 am Südrand mit Anschluss an A8 und A92. | page ===
 <!--AREAS: Dachau, Dachau-Ost, Dachau-Süd, Dachauer Moos, Amper, Prittlbach, Mitterndorf, Karlsfeld -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dachau</p><h1>Abschleppdienst Dachau</h1><p class="lead">Dachau liegt an der Amper nordwestlich von München, am Südrand verläuft die B471. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Dachau</p><h1>Abschleppdienst Dachau</h1><p class="lead">Dachau liegt an der Amper nordwestlich von München, am Südrand verläuft die B471. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Dachau: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Dachau oder an B304, B471, A8 und A92. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -168,7 +168,7 @@
 
 === stadt-detmold | Abschleppdienst Detmold: Pannenhilfe B239, B238, Teutoburger Wald | Pannenhilfe und Abschleppen in Detmold am Teutoburger Wald: B239 und B238, nächste A2-Anschlussstelle etwa 22 Kilometer entfernt, 27 Ortsteile. | page ===
 <!--AREAS: Detmold, Hiddesen, Hermannsdenkmal, Teutoburger Wald, Osning, Lippe, Externsteine -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Detmold</p><h1>Abschleppdienst Detmold</h1><p class="lead">Detmold liegt am Teutoburger Wald in Ostwestfalen-Lippe, die nächste Autobahnanschlussstelle ist etwa 22 Kilometer entfernt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Detmold</p><h1>Abschleppdienst Detmold</h1><p class="lead">Detmold liegt am Teutoburger Wald in Ostwestfalen-Lippe, die nächste Autobahnanschlussstelle ist etwa 22 Kilometer entfernt. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Detmold: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Detmold oder an B239, B238, A2 und A44. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -209,7 +209,7 @@
 
 === stadt-bad-salzuflen | Abschleppdienst Bad Salzuflen: Pannenhilfe A2, B239 | Pannenhilfe und Abschleppen in Bad Salzuflen: Heilbad an der A2, Anschlussstellen Ostwestfalen-Lippe und Herford/Bad Salzuflen, B239 als Umgehung. | page ===
 <!--AREAS: Bad Salzuflen, Schötmar, Werl-Aspe, Wüsten, Lockhausen, Salze, Bega, Werre, Kurpark -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bad Salzuflen</p><h1>Abschleppdienst Bad Salzuflen</h1><p class="lead">Bad Salzuflen liegt im Kreis Lippe direkt an der A2. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Bad Salzuflen</p><h1>Abschleppdienst Bad Salzuflen</h1><p class="lead">Bad Salzuflen liegt im Kreis Lippe direkt an der A2. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Bad Salzuflen: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Bad Salzuflen oder an A2 und B239. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -252,7 +252,7 @@
 
 === stadt-amberg | Abschleppdienst Amberg: Pannenhilfe A6, B85, B299, Vils | Pannenhilfe und Abschleppen in Amberg: Oberpfalz östlich von Nürnberg, A6 mit den Anschlussstellen Amberg-West, -Süd und -Ost, B85, B299. | page ===
 <!--AREAS: Amberg, Amberg-West, Amberg-Süd, Amberg-Ost, Vils, Stadtbrille, Bayerische Eisenstraße, Waidhaus -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Amberg</p><h1>Abschleppdienst Amberg</h1><p class="lead">Amberg liegt an der Vils in der mittleren Oberpfalz an der A6. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Amberg</p><h1>Abschleppdienst Amberg</h1><p class="lead">Amberg liegt an der Vils in der mittleren Oberpfalz an der A6. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Amberg: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Amberg oder an A6, B85 und B299. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
@@ -295,7 +295,7 @@
 
 === stadt-weiden | Abschleppdienst Weiden i. d. OPf.: Pannenhilfe A93, B22, B470 | Pannenhilfe und Abschleppen in Weiden in der Oberpfalz: Waldnaab, 100 km östlich von Nürnberg, A93 Hof–Regensburg, B22, B470 und Staatsstraße 2657. | page ===
 <!--AREAS: Weiden in der Oberpfalz, Muglhof, Rothenstadt, Ullersricht, Waldnaab, Oberpfälzer Wald -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Weiden in der Oberpfalz</p><h1>Abschleppdienst Weiden i. d. OPf.</h1><p class="lead">Weiden liegt 100 Kilometer östlich von Nürnberg an der Waldnaab, die A93 verbindet Hof und Regensburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Weiden in der Oberpfalz</p><h1>Abschleppdienst Weiden i. d. OPf.</h1><p class="lead">Weiden liegt 100 Kilometer östlich von Nürnberg an der Waldnaab, die A93 verbindet Hof und Regensburg. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Weiden i. d. OPf.: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Weiden i. d. OPf. oder an A93, B22, B470 und B15. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>

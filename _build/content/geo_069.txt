@@ -1,6 +1,6 @@
 === stadt-huerth | Abschleppdienst Hürth: A1, A553, B265 | Pannenhilfe und Abschleppen in Hürth: Anschlussstellen Gleuel und Hürth an der A1, A553 ab Brühl, B265 als Luxemburger Straße. | page ===
 <!--AREAS: Hürth, Alt-Hürth, Knapsack, Gleuel, Efferen, Hermülheim, Kalscheuren, Fischenich, Ville -->
-<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hürth</p><h1>Abschleppdienst Hürth</h1><p class="lead">Hürth grenzt südwestlich direkt an Köln und liegt am Nordost-Hang der Ville. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a> <a class="btn btn-y" href="tel:+4917641956993">+49 176 41956993</a></p></div></section>
+<section class="page-head"><div class="wrap narrow"><p class="eyebrow">Hürth</p><h1>Abschleppdienst Hürth</h1><p class="lead">Hürth grenzt südwestlich direkt an Köln und liegt am Nordost-Hang der Ville. Sagen Sie uns, wo Sie stehen, wir koordinieren die Hilfe.</p><p><a class="btn btn-wa" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></p></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>Panne in Hürth: Preis, bevor jemand losfährt</h2>
 <p>Sie stehen in Hürth oder an A1, A553, B265 und A61. Rufen Sie an oder schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor ein Fahrzeug den Hof verlässt. Kurze Einsätze in der Nähe beginnen oft bei 125 €. Nacht, Bergung, Fahrzeuggewicht und Kilometer ändern den Betrag. Das ist kein Festpreis für ganz Deutschland.</p>
