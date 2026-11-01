@@ -3,7 +3,7 @@
 <section class="page-head"><div class="wrap narrow"><p class="eyebrow">Karlsruhe · Central Baden · Ortenau</p><h1>Towing &amp; Roadside Assistance 24/7 – Karlsruhe to Offenburg</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
 <p><strong>Car won't start, flat tyre, accident on the B3, or a breakdown on the A5?</strong> Call now. We tell you the price on the phone right away and send the nearest available tow truck from the region, day and night, including weekends and public holidays.</p>
-<p><strong><a href="https://wa.me/3233756737" target="_blank" rel="noopener">WhatsApp +32 3 375 67 37</a></strong> · <a href="@@WA@@">Send your location directly on WhatsApp</a></p>
+<p><strong><a href="https://wa.me/3233756737" target="_blank" rel="noopener">WhatsApp</a></strong> · <a href="@@WA@@">Send your location directly on WhatsApp</a></p>
 <p>No ticket system, no holding queue: you speak to us right away.</p>
 <ul>
 <li>Reachable 24 hours a day, 7 days a week</li>
@@ -62,7 +62,7 @@
 <li><strong>Put on a hi-vis vest</strong> before getting out. On the motorway, get out on the passenger side.</li>
 <li><strong>Move behind the crash barrier</strong>, together with all passengers.</li>
 <li><strong>Set up a warning triangle</strong>: on the motorway at least 150 metres behind the vehicle (roughly three guide posts), on a country road about 100 metres, in town about 50 metres.</li>
-<li><strong>Call us:</strong> <a href="https://wa.me/3233756737" target="_blank" rel="noopener">WhatsApp +32 3 375 67 37</a>. If anyone is injured, always call <strong>112</strong> first.</li>
+<li><strong>Call us:</strong> <a href="https://wa.me/3233756737" target="_blank" rel="noopener">WhatsApp</a>. If anyone is injured, always call <strong>112</strong> first.</li>
 </ol>
 <p>In detail (German): <strong><a href="ratgeber-panne-autobahn.html">Breaking down on the motorway – what to do</a></strong></p>
 <h2>Frequently Asked Questions</h2>
@@ -73,7 +73,7 @@
 <details><summary>Who pays after an accident?</summary><div>If you weren't at fault, the other driver's liability insurance usually covers towing to the nearest suitable garage.</div></details>
 <details><summary>Do you tow electric cars too?</summary><div>Yes. Electric cars are transported on a flatbed so the motor and electronics aren't damaged.</div></details>
 <details><summary>Can I pay by card?</summary><div><mark>[Payment methods to confirm with partners, e.g. cash, debit card, credit card, bank transfer]</mark></div></details>
-<p><strong>Broken down between Karlsruhe and Offenburg? Call now: <a href="https://wa.me/3233756737" target="_blank" rel="noopener">WhatsApp +32 3 375 67 37</a></strong></p>
+<p><strong>Broken down between Karlsruhe and Offenburg? Call now: <a href="https://wa.me/3233756737" target="_blank" rel="noopener">WhatsApp</a></strong></p>
 </div></section>
 @@CTA@@
 === en-abschleppdienst-karlsruhe | Towing Service Karlsruhe 24/7 – Roadside Assistance &amp; Fixed Price | Towing and roadside assistance in Karlsruhe: Durlach, Knielingen, Ettlingen, the Kriegsstraße tunnel. Reachable 24/7, price from €129. | page ===

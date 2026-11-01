@@ -13,7 +13,7 @@ EOT
 my $footer = <<'EOT';
 <footer class="site-footer"><div class="wrap foot-grid">
   <div><strong>Faster Abschleppdienst</strong><p>Abschleppdienst und Pannenhilfe in ganz Deutschland, mit Schwerpunkt Köln und Karlsruhe bis Offenburg. Persönlich und rund um die Uhr erreichbar.</p></div>
-  <div><strong>Kontakt</strong><p><a href="https://wa.me/3233756737" target="_blank" rel="noopener">WhatsApp +32 3 375 67 37</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Adresse: Am Festungsgraben 2<br>10117 Berlin</p></div>
+  <div><strong>Kontakt</strong><p><a href="https://wa.me/3233756737" target="_blank" rel="noopener">WhatsApp</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Adresse: Am Festungsgraben 2<br>10117 Berlin</p></div>
   <div><strong>Köln</strong><p><a href="index.html">Abschleppdienst Köln</a><br><a href="pannenhilfe-koeln.html">Pannenhilfe Köln</a><br><a href="abschleppen-bergung-koeln.html">Abschleppen &amp; Bergung Köln</a><br><a href="abschleppdienst-koeln-stadtteile.html">Stadtbezirke und Rheinbrücken</a><br><a href="pannenhilfe-koelner-autobahnring.html">Kölner Autobahnring</a><br><a href="pannenhilfe-a3-koeln.html">Panne auf der A3</a><br><a href="pannenhilfe-a4-koeln.html">Panne auf der A4</a><br><a href="pannenhilfe-a1-koeln.html">Panne auf der A1</a></p></div>
   <div><strong>Karlsruhe bis Offenburg</strong><p><a href="abschleppdienst-mittelbaden.html">Übersicht Mittelbaden</a><br><a href="abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="abschleppdienst-a5.html">Panne auf der A5</a></p></div>
   <div><strong>Ratgeber &amp; Rechtliches</strong><p><a href="staedte.html">Alle Städte</a><br><a href="autobahnen.html">Autobahnen</a><br><a href="ratgeber.html">Alle Ratgeber</a><br><a href="kontakt.html">Kontakt</a><br><a href="impressum.html">Impressum</a><br><a href="datenschutz.html">Datenschutz</a><br><a href="#" onclick="return window.openCookieBanner &amp;&amp; window.openCookieBanner(event)">Cookie-Einstellungen</a></p></div>
@@ -31,7 +31,7 @@ EOT
 my $footer_en = <<'EOT';
 <footer class="site-footer"><div class="wrap foot-grid">
   <div><strong>Faster Abschleppdienst</strong><p>Towing and roadside assistance all over Germany, with a focus on Cologne and Karlsruhe to Offenburg. Personal service, reachable around the clock.</p></div>
-  <div><strong>Contact</strong><p><a href="https://wa.me/3233756737" target="_blank" rel="noopener">WhatsApp +32 3 375 67 37</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Address: Am Festungsgraben 2<br>10117 Berlin, Germany</p></div>
+  <div><strong>Contact</strong><p><a href="https://wa.me/3233756737" target="_blank" rel="noopener">WhatsApp</a><br><a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a><br>Address: Am Festungsgraben 2<br>10117 Berlin, Germany</p></div>
   <div><strong>Cologne</strong><p><a href="en-index.html">Towing Service Cologne</a><br><a href="en-pannenhilfe-koeln.html">Roadside Assistance Cologne</a><br><a href="en-abschleppen-bergung-koeln.html">Towing &amp; Recovery Cologne</a><br><a href="en-abschleppdienst-koeln-stadtteile.html">Districts &amp; Rhine Bridges</a><br><a href="en-pannenhilfe-koelner-autobahnring.html">Cologne Motorway Ring</a><br><a href="en-pannenhilfe-a3-koeln.html">Breakdown on the A3</a><br><a href="en-pannenhilfe-a4-koeln.html">Breakdown on the A4</a><br><a href="en-pannenhilfe-a1-koeln.html">Breakdown on the A1</a></p></div>
   <div><strong>Karlsruhe to Offenburg</strong><p><a href="en-abschleppdienst-mittelbaden.html">Central Baden Overview</a><br><a href="en-abschleppdienst-karlsruhe.html">Karlsruhe</a><br><a href="en-abschleppdienst-baden-baden.html">Baden-Baden &amp; Rastatt</a><br><a href="en-abschleppdienst-achern.html">Achern &amp; Bühl</a><br><a href="en-abschleppdienst-offenburg.html">Offenburg &amp; Kehl</a><br><a href="en-abschleppdienst-a5.html">Breakdown on the A5</a></p></div>
   <div><strong>Guides &amp; Legal</strong><p><a href="staedte.html">All Cities (German)</a><br><a href="bundeslaender.html">States (German)</a><br><a href="autobahnen.html">Motorways (German)</a><br><a href="ratgeber.html">All Guides (German)</a><br><a href="kontakt.html">Contact</a><br><a href="impressum.html">Legal Notice</a><br><a href="datenschutz.html">Privacy Policy</a><br><a href="#" onclick="return window.openCookieBanner &amp;&amp; window.openCookieBanner(event)">Cookie Settings</a></p></div>
@@ -49,7 +49,7 @@ gtag('consent', 'default', {
 </script>
 EOT
 # Google tag (Google Ads AW-18517785509) with call conversion / phone-swap config.
-# Phone number below must match the visible text exactly ("WhatsApp +32 3 375 67 37") for the number-swap to work.
+# Phone number below must match the visible text exactly ("WhatsApp") for the number-swap to work.
 my $gtag_script = <<'EOT';
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18517785509"></script>
 <script>
@@ -134,7 +134,7 @@ my $cookie_banner_en = <<'EOT';
 EOT
 my $ld = <<'EOT';
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","name":"Faster Abschleppdienst","description":"Abschleppdienst und Pannenhilfe für Köln und Umgebung.","email":"faster24eu@gmail.com","telephone":"+3233756737","address":{"@type":"PostalAddress","streetAddress":"Am Festungsgraben 2","postalCode":"10117","addressLocality":"Berlin","addressCountry":"DE"},"areaServed":{"@type":"City","name":"Köln"},"knowsLanguage":["de","nl","fr","en"]}
+{"@context":"https://schema.org","@type":"LocalBusiness","name":"Faster Abschleppdienst","description":"Abschleppdienst und Pannenhilfe für Köln und Umgebung.","email":"faster24eu@gmail.com","address":{"@type":"PostalAddress","streetAddress":"Am Festungsgraben 2","postalCode":"10117","addressLocality":"Berlin","addressCountry":"DE"},"areaServed":{"@type":"City","name":"Köln"},"knowsLanguage":["de","nl","fr","en"]}
 </script>
 EOT
 my $cta = '<section class="cta"><div class="wrap cta-in"><div><h2>Liegengeblieben? Jetzt per WhatsApp melden.</h2><p>24 Stunden erreichbar. Wir nennen Ihnen den Preis, bevor jemand losfährt.</p></div><div class="actions"><a class="btn btn-dark" href="@@WA@@" target="_blank" rel="noopener">WhatsApp mit Standort</a></div></div></section>';
@@ -151,7 +151,7 @@ if (open(my $mb,'<:raw',"$Bin/content/mittelbaden_body.html")) {
   push @order,'abschleppdienst-mittelbaden';
   $P{'abschleppdienst-mittelbaden'}={
     title=>'Abschleppdienst Karlsruhe bis Offenburg ab 129 €',
-    desc=>'Panne oder Unfall zwischen Karlsruhe, Baden-Baden, Achern und Offenburg? 24h Abschleppdienst und Pannenhilfe, Festpreis am Telefon. WhatsApp +32 3 375 67 37',
+    desc=>'Panne oder Unfall zwischen Karlsruhe, Baden-Baden, Achern und Offenburg? 24h Abschleppdienst und Pannenhilfe, Festpreis am Telefon. WhatsApp',
     flag=>'page', body=>$b};
 }
 sub jesc { my $s=shift; $s =~ s/<[^>]+>//g; $s =~ s/&amp;/&/g; $s =~ s/&nbsp;/ /g; $s =~ tr/\\//d; $s =~ s/"/\\"/g; $s =~ s/\s+/ /g; $s }
@@ -164,7 +164,7 @@ sub schema_for {
   $out .= '<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":['.join(',',@qa).']}</script>'."\n" if @qa;
   if ($$r =~ s/<!--AREAS: (.*?) -->\n?//) {
     my @ar = map { '{"@type":"City","name":"'.$_.'"}' } split /, /, $1;
-    $out .= '<script type="application/ld+json">{"@context":"https://schema.org","@type":"AutomotiveBusiness","name":"Faster Abschleppdienst","telephone":"+3233756737","email":"faster24eu@gmail.com","areaServed":['.join(',',@ar).'],"knowsLanguage":["de","nl","fr","en"]}</script>'."\n";
+    $out .= '<script type="application/ld+json">{"@context":"https://schema.org","@type":"AutomotiveBusiness","name":"Faster Abschleppdienst","email":"faster24eu@gmail.com","areaServed":['.join(',',@ar).'],"knowsLanguage":["de","nl","fr","en"]}</script>'."\n";
   }
   return $out;
 }
@@ -495,7 +495,7 @@ sub service_ld {
   my $ar = join(',', map { '{"@type":"City","name":"'.$_.'"}' } @$areas);
   $name =~ s/"/\\"/g;
   my $stype = $is_en ? 'Towing and roadside assistance' : 'Abschleppdienst und Pannenhilfe';
-  return '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"'.$name.'","serviceType":"'.$stype.'","url":"'.$curl.'","provider":{"@type":"Organization","name":"Faster Abschleppdienst","telephone":"+3233756737","email":"faster24eu@gmail.com"},"areaServed":['.$ar.'],"availableLanguage":["de","nl","fr","en"]}</script>'."\n";
+  return '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"'.$name.'","serviceType":"'.$stype.'","url":"'.$curl.'","provider":{"@type":"Organization","name":"Faster Abschleppdienst","email":"faster24eu@gmail.com"},"areaServed":['.$ar.'],"availableLanguage":["de","nl","fr","en"]}</script>'."\n";
 }
 sub article_ld {
   my ($name,$curl,$is_en)=@_; $name =~ s/"/\\"/g;
@@ -704,7 +704,7 @@ __DATA__
 <p>Abdelkarim El Farkouch<br>Einzelunternehmen nach belgischem Recht, Handelsname „Faster Depannage / Takeldienst“<br>Am Festungsgraben 2<br>10117 Berlin</p>
 <p>Geschäftssitz: Boniverlei 172, 2650 Edegem, Belgien</p>
 <h2>Kontakt</h2>
-<p>WhatsApp: +32 3 375 67 37<br>E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
+<p>WhatsApp: <a href="https://wa.me/3233756737" target="_blank" rel="noopener">Nachricht senden</a><br>E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a></p>
 <h2>Unternehmensregister</h2>
 <p>Eingetragen in der Zentralen Datenbank der Unternehmen Belgiens (KBO/BCE)<br>Unternehmensnummer: 1003.737.489</p>
 <h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2>
@@ -714,7 +714,7 @@ __DATA__
 <section class="page-head"><div class="wrap narrow"><h1>Datenschutzerklärung</h1></div></section>
 <section class="section"><div class="wrap narrow copy">
 <h2>1. Verantwortlicher</h2>
-<p>Abdelkarim El Farkouch (Faster Depannage / Takeldienst), Am Festungsgraben 2, 10117 Berlin. E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a>, WhatsApp: +32 3 375 67 37.</p>
+<p>Abdelkarim El Farkouch (Faster Depannage / Takeldienst), Am Festungsgraben 2, 10117 Berlin. E-Mail: <a href="mailto:faster24eu@gmail.com">faster24eu@gmail.com</a>, WhatsApp: <a href="https://wa.me/3233756737" target="_blank" rel="noopener">Nachricht senden</a>.</p>
 <h2>2. Hosting</h2>
 <p>Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. Beim Aufruf der Seiten verarbeitet GitHub technisch notwendige Daten, insbesondere Ihre IP-Adresse, Datum und Uhrzeit des Zugriffs sowie den verwendeten Browser, in Server-Logdateien. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer funktionsfähigen und sicheren Website). Dabei ist eine Übermittlung personenbezogener Daten in die USA nicht ausgeschlossen; GitHub, Inc. ist unter dem EU-US Data Privacy Framework zertifiziert, das ein angemessenes Datenschutzniveau vorsieht. Weitere Informationen finden Sie in der <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">Datenschutzerklärung von GitHub</a>.</p>
 <h2>3. Kontaktformular</h2>
