@@ -26,7 +26,7 @@ gtag('config', 'AW-18517785509');
 document.addEventListener('click', function(e){
   var a = e.target.closest('a[href]'); if (!a) return;
   if (/^tel:/i.test(a.getAttribute('href'))) { gtag('event', 'phone_click', {'event_category': 'contact'}); }
-  else if (a.href.indexOf('wa.me') !== -1) { gtag('event', 'whatsapp_click', {'event_category': 'contact'}); }
+  else if (a.href.indexOf('wa.me') !== -1) { gtag('event', 'whatsapp_click', {'event_category': 'contact'}); gtag('event','conversion',{'send_to':'AW-18517785509/uFguCITBmrAdEKX3-_1E','value':1.0,'currency':'USD','transport_type':'beacon'}); }
 });
 </script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Abschleppdienst Düren","serviceType":"Abschleppdienst und Pannenhilfe","url":"https://abschleppdienst-faster.de/staedte/dueren/","provider":{"@type":"Organization","name":"Faster Abschleppdienst","email":"faster24eu@gmail.com"},"areaServed":[{"@type":"City","name":"Düren"},{"@type":"City","name":"Birkesdorf"},{"@type":"City","name":"Gürzenich"},{"@type":"City","name":"Arnoldsweiler"},{"@type":"City","name":"Mariaweiler"},{"@type":"City","name":"Rölsdorf"},{"@type":"City","name":"Lendersdorf"},{"@type":"City","name":"Niederau"},{"@type":"City","name":"Echtz"},{"@type":"City","name":"Merken"},{"@type":"City","name":"Hoven"},{"@type":"City","name":"Kreuzau"},{"@type":"City","name":"Merzenich"},{"@type":"City","name":"Langerwehe"},{"@type":"City","name":"Nideggen"}],"availableLanguage":["de","nl","fr","en"]}</script>

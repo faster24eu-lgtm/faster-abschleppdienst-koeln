@@ -26,7 +26,7 @@ gtag('config', 'AW-18517785509');
 document.addEventListener('click', function(e){
   var a = e.target.closest('a[href]'); if (!a) return;
   if (/^tel:/i.test(a.getAttribute('href'))) { gtag('event', 'phone_click', {'event_category': 'contact'}); }
-  else if (a.href.indexOf('wa.me') !== -1) { gtag('event', 'whatsapp_click', {'event_category': 'contact'}); }
+  else if (a.href.indexOf('wa.me') !== -1) { gtag('event', 'whatsapp_click', {'event_category': 'contact'}); gtag('event','conversion',{'send_to':'AW-18517785509/uFguCITBmrAdEKX3-_1E','value':1.0,'currency':'USD','transport_type':'beacon'}); }
 });
 </script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Abschleppdienst Hürth","serviceType":"Abschleppdienst und Pannenhilfe","url":"https://abschleppdienst-faster.de/staedte/huerth/","provider":{"@type":"Organization","name":"Faster Abschleppdienst","email":"faster24eu@gmail.com"},"areaServed":[{"@type":"City","name":"Hürth"},{"@type":"City","name":"Hermülheim"},{"@type":"City","name":"Efferen"},{"@type":"City","name":"Gleuel"},{"@type":"City","name":"Kalscheuren"},{"@type":"City","name":"Fischenich"},{"@type":"City","name":"Kendenich"},{"@type":"City","name":"Alstädten-Burbach"},{"@type":"City","name":"Berrenrath"},{"@type":"City","name":"Knapsack"},{"@type":"City","name":"Stotzheim"},{"@type":"City","name":"Sielsdorf"}],"availableLanguage":["de","nl","fr","en"]}</script>

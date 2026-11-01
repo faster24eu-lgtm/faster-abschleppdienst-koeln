@@ -27,7 +27,7 @@ gtag('config', 'AW-18517785509');
 document.addEventListener('click', function(e){
   var a = e.target.closest('a[href]'); if (!a) return;
   if (/^tel:/i.test(a.getAttribute('href'))) { gtag('event', 'phone_click', {'event_category': 'contact'}); }
-  else if (a.href.indexOf('wa.me') !== -1) { gtag('event', 'whatsapp_click', {'event_category': 'contact'}); }
+  else if (a.href.indexOf('wa.me') !== -1) { gtag('event', 'whatsapp_click', {'event_category': 'contact'}); gtag('event','conversion',{'send_to':'AW-18517785509/uFguCITBmrAdEKX3-_1E','value':1.0,'currency':'USD','transport_type':'beacon'}); }
 });
 </script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Abschleppdienst in Köln: Stadtbezirke, Ringe und Rheinbrücken","serviceType":"Abschleppdienst und Pannenhilfe","url":"https://abschleppdienst-faster.de/koeln/stadtteile/","provider":{"@type":"Organization","name":"Faster Abschleppdienst","email":"faster24eu@gmail.com"},"areaServed":[{"@type":"City","name":"Köln"},{"@type":"City","name":"Ehrenfeld"},{"@type":"City","name":"Nippes"},{"@type":"City","name":"Lindenthal"},{"@type":"City","name":"Rodenkirchen"},{"@type":"City","name":"Chorweiler"},{"@type":"City","name":"Porz"},{"@type":"City","name":"Kalk"},{"@type":"City","name":"Mülheim"},{"@type":"City","name":"Deutz"}],"availableLanguage":["de","nl","fr","en"]}</script>

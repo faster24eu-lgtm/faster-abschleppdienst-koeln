@@ -26,7 +26,7 @@ gtag('config', 'AW-18517785509');
 document.addEventListener('click', function(e){
   var a = e.target.closest('a[href]'); if (!a) return;
   if (/^tel:/i.test(a.getAttribute('href'))) { gtag('event', 'phone_click', {'event_category': 'contact'}); }
-  else if (a.href.indexOf('wa.me') !== -1) { gtag('event', 'whatsapp_click', {'event_category': 'contact'}); }
+  else if (a.href.indexOf('wa.me') !== -1) { gtag('event', 'whatsapp_click', {'event_category': 'contact'}); gtag('event','conversion',{'send_to':'AW-18517785509/uFguCITBmrAdEKX3-_1E','value':1.0,'currency':'USD','transport_type':'beacon'}); }
 });
 </script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Pannenhilfe auf der A40","serviceType":"Abschleppdienst und Pannenhilfe","url":"https://abschleppdienst-faster.de/autobahnen/a40/","provider":{"@type":"Organization","name":"Faster Abschleppdienst","email":"faster24eu@gmail.com"},"areaServed":[{"@type":"City","name":"A40"},{"@type":"City","name":"Moers"},{"@type":"City","name":"Duisburg"},{"@type":"City","name":"Mülheim an der Ruhr"},{"@type":"City","name":"Essen"},{"@type":"City","name":"Bochum"},{"@type":"City","name":"Dortmund"}],"availableLanguage":["de","nl","fr","en"]}</script>
