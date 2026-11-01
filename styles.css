@@ -29,7 +29,8 @@ h3{font-size:24px;font-weight:700;line-height:1;margin:0 0 10px}
 
 /* header */
 .site-header{position:sticky;top:0;z-index:50;background:var(--black);color:#fff;border-bottom:1px solid #262826}
-.site-header:before{content:"";display:block;height:5px;background:repeating-linear-gradient(110deg,var(--green) 0 26px,var(--green-d) 26px 34px)}
+/* "instant reply" bar: part of the sticky header, so it stays on screen while scrolling */
+.site-header:before{content:"\25CF\00a0 Jetzt online \00a0\00b7\00a0 Sofort-Antwort per WhatsApp \00a0\00b7\00a0 24/7, auch nachts & am Wochenende";display:block;background:var(--green);color:var(--black);font:italic 800 16px/1 var(--head);text-transform:uppercase;letter-spacing:.08em;text-align:center;padding:8px 12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .nav{display:flex;align-items:center;gap:20px;min-height:68px}
 .brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff}
 .brand img{height:36px;width:auto;background:#fff;padding:3px 6px;clip-path:polygon(8% 0,100% 0,92% 100%,0 100%)}
@@ -49,6 +50,7 @@ h3{font-size:24px;font-weight:700;line-height:1;margin:0 0 10px}
 .btn-wa,.btn-dark,.btn-out,.btn-y{background:var(--green);color:var(--black)}
 .btn-wa:hover,.btn-dark:hover,.btn-out:hover,.btn-y:hover{background:#86e04f}
 .nav-cta .btn{min-height:44px;padding:8px 22px 8px 18px;font-size:19px}
+.nav-cta .btn-wa{font-size:0}.nav-cta .btn-wa:after{content:"Sofort-Antwort";font-size:19px}
 .lang-drop{position:relative;align-self:center}
 .btn-lang{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-width:50px;padding:8px 10px;font:italic 800 16px var(--head);letter-spacing:.06em;text-decoration:none;border:1px solid #3a3d3a;color:#fff;background:transparent;cursor:pointer}
 .btn-lang:hover{border-color:var(--green);color:var(--green)}
@@ -165,14 +167,27 @@ details div{padding:0 22px 20px;color:var(--muted)}
 .cookie-accept{background:var(--green);border-color:var(--green);color:var(--black)}.cookie-accept:hover{background:#86e04f}
 .cookie-decline{background:transparent;color:#fff}.cookie-decline:hover{background:#2b2f2b}
 
-/* mobile WhatsApp bar */
-.sticky-call{display:none}
+/* floating WhatsApp button, always on screen: bubble on desktop, full-width bar on phones */
+@keyframes nudge{0%,82%,100%{transform:none}86%{transform:translateY(-6px)}90%{transform:none}94%{transform:translateY(-3px)}}
+@keyframes blink{50%{opacity:.35}}
+.sticky-call{display:block;position:fixed;right:24px;bottom:24px;z-index:180;filter:drop-shadow(0 10px 24px rgba(0,0,0,.45));animation:nudge 6s ease-in-out infinite}
+.sticky-call:before{content:"\25CF\00a0 Jetzt online";display:block;width:max-content;margin:0 0 6px auto;padding:6px 12px;background:var(--black);color:var(--green);font:italic 800 15px/1 var(--head);text-transform:uppercase;letter-spacing:.1em;clip-path:polygon(8px 0,100% 0,calc(100% - 8px) 100%,0 100%)}
+.sticky-call .btn{display:flex;min-height:64px;padding:14px 36px 14px 28px;font-size:0}
+.sticky-call .btn:before{width:28px;height:28px}
+.sticky-call .btn:after{content:"WhatsApp \00b7\00a0Sofort-Antwort";font-size:25px}
+.sticky-call .btn-y{display:none}
 @media(max-width:700px){
-  .sticky-call{display:block;position:fixed;left:0;right:0;bottom:0;z-index:180;padding:10px 12px calc(10px + env(safe-area-inset-bottom));background:var(--black);border-top:3px solid var(--green)}
-  .sticky-call .btn{display:flex;width:100%;min-height:54px;font-size:22px}
-  .sticky-call .btn-y{display:none}
-  body{padding-bottom:84px}
-  .cookie-banner{bottom:0}
+  .sticky-call{left:0;right:0;bottom:0;padding:8px 12px calc(10px + env(safe-area-inset-bottom));background:var(--black);border-top:3px solid var(--green);filter:none;animation:none}
+  .sticky-call:before{content:"\25CF\00a0 Jetzt online \00b7\0000a0Antwort sofort per WhatsApp";margin:0 auto 7px;padding:0;background:none;font-size:14px;letter-spacing:.04em;max-width:100%;animation:blink 1.6s ease-in-out infinite}
+  .sticky-call .btn{width:100%;min-height:54px;padding:10px 20px}
+  .sticky-call .btn:after{content:"WhatsApp \00b7\00a0Sofort-Antwort";font-size:23px}
+  body{padding-bottom:104px}
+}
+@media(max-width:520px){
+  .site-header:before{content:"\25CF\00a0 Sofort-Antwort per WhatsApp \00b7\0000a024/7";font-size:15px;padding:7px 10px}
+  .nav-cta .btn.btn-wa{font-size:0;padding:8px 16px 8px 12px}
+  .nav-cta .btn-wa:after{content:"Sofort-Antwort";font-size:17px}
+  .brand span{display:none}
 }
 
 .brand{flex:none}.brand small{white-space:nowrap}
