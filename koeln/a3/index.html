@@ -24,66 +24,197 @@
 <link rel="stylesheet" href="../../styles.css">
 <link rel="icon" href="../../assets/favicon.ico">
 <script type="application/ld+json">{
-  "@context":"https://schema.org",
-  "@graph":[
+  "@context": "https://schema.org",
+  "@graph": [
     {
-      "@type":"Organization",
-      "@id":"https://abschleppdienst-faster.de/#org",
-      "name":"Faster Abschleppdienst",
-      "url":"https://abschleppdienst-faster.de/",
-      
-      "email":"faster24eu@gmail.com",
-      "address":{"@type":"PostalAddress","streetAddress":"Am Festungsgraben 2","postalCode":"10117","addressLocality":"Berlin","addressCountry":"DE"},
-      "areaServed":"DE",
-      "availableLanguage":["de","nl","fr","en"],
-      "contactPoint":[
-        {"@type":"ContactPoint","contactType":"customer support","availableLanguage":["de","nl","fr","en"],"hoursAvailable":{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"opens":"00:00","closes":"23:59"}},
-        {"@type":"ContactPoint","contactType":"customer support","url":"https://wa.me/3233756737"}
-      ]
-    },
-    {
-      "@type":"Service",
-      "@id":"https://abschleppdienst-faster.de/koeln/a3/#service",
-      "name":"Pannenhilfe und Abschleppen A3 Köln",
-      "serviceType":["Pannenhilfe","Abschleppdienst"],
-      "url":"https://abschleppdienst-faster.de/koeln/a3/",
-      "provider":{"@id":"https://abschleppdienst-faster.de/#org"},
-      "areaServed":[
-        {"@type":"City","name":"Köln"},
-        {"@type":"City","name":"Leverkusen"},
-        {"@type":"City","name":"Rösrath"},
-        {"@type":"Place","name":"Bundesautobahn A3","description":"Abschnitt Leverkusen bis Rösrath, Kreuz Köln-Ost, Dreieck Heumar"}
+      "@type": "Organization",
+      "@id": "https://abschleppdienst-faster.de/#org",
+      "name": "Faster Abschleppdienst",
+      "url": "https://abschleppdienst-faster.de/",
+      "email": "faster24eu@gmail.com",
+      "areaServed": "DE",
+      "availableLanguage": [
+        "de",
+        "nl",
+        "fr",
+        "en"
       ],
-      "availableLanguage":["de","nl","fr","en"],
-      "offers":{"@type":"Offer","priceCurrency":"EUR","price":"125","description":"Oft ab 125 Euro für kurze Einsätze in der Nähe. Genaues vor der Fahrt."}
-    },
-    {
-      "@type":"HowTo",
-      "name":"Panne auf der A3 bei Köln",
-      "step":[
-        {"@type":"HowToStep","position":1,"name":"Warnblinker","text":"Warnblinkanlage einschalten."},
-        {"@type":"HowToStep","position":2,"name":"Sicherheit","text":"Weste an, Beifahrerseite, hinter die Leitplanke."},
-        {"@type":"HowToStep","position":3,"name":"Warndreieck","text":"Auf der Autobahn etwa 150 Meter hinter dem Fahrzeug, wenn es sicher geht."},
-        {"@type":"HowToStep","position":4,"name":"Standort","text":"Letzte Ausfahrt, Fahrtrichtung oder Kilometerstein. WhatsApp-Standort ist am schnellsten."},
-        {"@type":"HowToStep","position":5,"name":"Anrufen","text":"Preis vor der Fahrt. Partner vor Ort. Verletzte: zuerst 112. WhatsApp"}
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer support",
+          "availableLanguage": [
+            "de",
+            "nl",
+            "fr",
+            "en"
+          ],
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+          }
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer support",
+          "url": "https://wa.me/3233756737"
+        }
       ]
     },
     {
-      "@type":"FAQPage",
-      "mainEntity":[
-        {"@type":"Question","name":"Was, wenn ich am Kreuz Köln-Ost liegen bleibe?","acceptedAnswer":{"@type":"Answer","text":"Nennen Sie, aus welcher Richtung Sie kamen und wohin Sie wollten, und ob Sie auf der A3 oder A4 stehen."}},
-        {"@type":"Question","name":"Kann ich am Dreieck Heumar Hilfe rufen?","acceptedAnswer":{"@type":"Answer","text":"Ja. Ausfahrt und Fahrtrichtung angeben. Bei Verletzten zuerst die 112."}},
-        {"@type":"Question","name":"Ist die Raststätte Königsforst sicherer als der Seitenstreifen?","acceptedAnswer":{"@type":"Answer","text":"Ja. Wenn das Fahrzeug noch rollt, dort hinrollen."}},
-        {"@type":"Question","name":"Wer fährt auf der A3 zu mir?","acceptedAnswer":{"@type":"Answer","text":"Faster sitzt in Antwerpen und koordiniert. Vor Ort fährt ein Partner."}}
+      "@type": "Service",
+      "@id": "https://abschleppdienst-faster.de/koeln/a3/#service",
+      "name": "Pannenhilfe und Abschleppen A3 Köln",
+      "serviceType": [
+        "Pannenhilfe",
+        "Abschleppdienst"
+      ],
+      "url": "https://abschleppdienst-faster.de/koeln/a3/",
+      "provider": {
+        "@id": "https://abschleppdienst-faster.de/#org"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Köln"
+        },
+        {
+          "@type": "City",
+          "name": "Leverkusen"
+        },
+        {
+          "@type": "City",
+          "name": "Rösrath"
+        },
+        {
+          "@type": "Place",
+          "name": "Bundesautobahn A3",
+          "description": "Abschnitt Leverkusen bis Rösrath, Kreuz Köln-Ost, Dreieck Heumar"
+        }
+      ],
+      "availableLanguage": [
+        "de",
+        "nl",
+        "fr",
+        "en"
+      ],
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "price": "125",
+        "description": "Oft ab 125 Euro für kurze Einsätze in der Nähe. Genaues vor der Fahrt."
+      }
+    },
+    {
+      "@type": "HowTo",
+      "name": "Panne auf der A3 bei Köln",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Warnblinker",
+          "text": "Warnblinkanlage einschalten."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Sicherheit",
+          "text": "Weste an, Beifahrerseite, hinter die Leitplanke."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Warndreieck",
+          "text": "Auf der Autobahn etwa 150 Meter hinter dem Fahrzeug, wenn es sicher geht."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Standort",
+          "text": "Letzte Ausfahrt, Fahrtrichtung oder Kilometerstein. WhatsApp-Standort ist am schnellsten."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Anrufen",
+          "text": "Preis vor der Fahrt. Partner vor Ort. Verletzte: zuerst 112. WhatsApp"
+        }
       ]
     },
     {
-      "@type":"BreadcrumbList",
-      "itemListElement":[
-        {"@type":"ListItem","position":1,"name":"Start","item":"https://abschleppdienst-faster.de/"},
-        {"@type":"ListItem","position":2,"name":"Köln","item":"https://abschleppdienst-faster.de/koeln/"},
-        {"@type":"ListItem","position":3,"name":"Autobahnring","item":"https://abschleppdienst-faster.de/koeln/autobahnring/"},
-        {"@type":"ListItem","position":4,"name":"A3","item":"https://abschleppdienst-faster.de/koeln/a3/"}
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was, wenn ich am Kreuz Köln-Ost liegen bleibe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nennen Sie, aus welcher Richtung Sie kamen und wohin Sie wollten, und ob Sie auf der A3 oder A4 stehen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich am Dreieck Heumar Hilfe rufen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ausfahrt und Fahrtrichtung angeben. Bei Verletzten zuerst die 112."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist die Raststätte Königsforst sicherer als der Seitenstreifen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Wenn das Fahrzeug noch rollt, dort hinrollen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wer fährt auf der A3 zu mir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Faster sitzt in Antwerpen und koordiniert. Vor Ort fährt ein Partner."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Start",
+          "item": "https://abschleppdienst-faster.de/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Köln",
+          "item": "https://abschleppdienst-faster.de/koeln/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Autobahnring",
+          "item": "https://abschleppdienst-faster.de/koeln/autobahnring/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "A3",
+          "item": "https://abschleppdienst-faster.de/koeln/a3/"
+        }
       ]
     }
   ]
@@ -128,7 +259,7 @@
 <section class="cta"><div class="wrap cta-in"><div><h2>Panne auf der A3?</h2><p>Preis vor der Fahrt.</p></div><div class="actions"><a class="btn btn-dark" href="https://wa.me/3233756737?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.">WhatsApp</a></div></div></section>
 </main>
 <footer class="site-footer"><div class="wrap"><p>Faster · Am Festungsgraben 2 · 10117 Berlin · <a href="../../impressum/">Impressum</a></p></div><div class="faster-network" style="max-width:1200px;margin:0 auto;padding:14px 20px;font-size:13px;line-height:1.6;opacity:.85;display:flex;flex-wrap:wrap;gap:4px 16px"><span>Faster in Europa:</span> <a href="https://takeldienst-depannage.com/" hreflang="nl-BE" style="color:inherit;text-decoration:underline">Belgi&euml; &ndash; Takeldienst</a> <a href="https://sleepdienstfaster.nl/" hreflang="nl-NL" style="color:inherit;text-decoration:underline">Nederland &ndash; Sleepdienst</a> <a href="https://fasterbreakdownrecovery.co.uk/" hreflang="en-GB" style="color:inherit;text-decoration:underline">United Kingdom &ndash; Breakdown recovery</a></div></footer>
-<div class="sticky-call"><a class="btn btn-wa" href="https://wa.me/3233756737?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.">WhatsApp</a></div>
+<div class="sticky-call"><a class="btn sc-call" href="tel:TODO_DE_PHONE" hidden>Anrufen</a><a class="btn btn-wa" href="https://wa.me/3233756737?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.">WhatsApp</a></div>
 <div class="cookie-banner" id="cookie-banner" hidden>
   <div class="wrap cookie-in">
     <p>Wir verwenden Cookies von Google, um zu messen, ob unsere Anzeigen zu Anfragen führen. Sie können zustimmen oder ablehnen. Mehr dazu in der <a href="/datenschutz/">Datenschutzerklärung</a>.</p>

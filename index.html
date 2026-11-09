@@ -6,7 +6,242 @@
 <meta name="description" content="Abschleppdienst und Pannenhilfe in Köln und der Ortenau, 24/7 erreichbar. Partner vor Ort, Preis vor der Abfahrt, oft ab 125 €. Anruf oder WhatsApp.">
 <link rel="canonical" href="https://abschleppdienst-faster.de/">
 
-<link rel="stylesheet" href="styles.css">
+<style>/* abschleppdienst-faster.de: same look as fastdepannage.com. Black and charcoal
+   with a signal-green accent, italic condensed uppercase type, slanted buttons,
+   cut corners and diagonal hero edges. WhatsApp is the only contact. */
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,700;1,800;1,900&family=Barlow:wght@400;500;600;700&display=swap");
+:root{
+  --green:#6fd13a;--green-d:#4fa821;--green-dd:#2f7310;--green-l:#eef9e6;
+  --black:#0b0c0b;--char:#151715;--char2:#1f221f;--char3:#2b2f2b;
+  --bg:#f3f3f0;--card:#fff;--ink:#151615;--muted:#5b5e5a;--line:#dedfd8;
+  --cut:18px;
+  --head:"Barlow Condensed","Arial Narrow",Impact,sans-serif;
+  --body:Barlow,system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
+}
+*{box-sizing:border-box}html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;font-family:var(--body);font-size:17px;line-height:1.6;color:var(--ink);background:var(--bg)}
+img{max-width:100%;height:auto;display:block}a{color:inherit}
+p a,li a,td a,.copy a,details a{text-decoration-color:var(--green);text-decoration-thickness:2px;text-underline-offset:3px}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var(--green);outline-offset:3px}
+.wrap{width:min(calc(100% - 32px),1200px);margin:0 auto}.narrow{max-width:860px}
+
+/* type */
+h1,h2,h3{font-family:var(--head);font-style:italic;font-weight:800;text-transform:uppercase;line-height:.95;letter-spacing:.005em;margin:0 0 .45em}
+h1{font-size:clamp(42px,7vw,82px)}
+h2{font-size:clamp(32px,4.4vw,50px)}
+h3{font-size:24px;font-weight:700;line-height:1;margin:0 0 10px}
+.eyebrow{display:inline-flex;align-items:center;gap:10px;margin:0 0 14px;font:italic 700 15px/1.2 var(--head);text-transform:uppercase;letter-spacing:.14em;color:var(--green-dd)}
+.eyebrow:before{content:"";width:34px;height:4px;flex:none;background:var(--green);transform:skewX(-30deg)}
+.lead{font-size:clamp(18px,2vw,20px);color:var(--muted);max-width:62ch}
+.sub{color:var(--muted);max-width:640px;margin:-4px 0 26px}
+
+/* header */
+.site-header{position:sticky;top:0;z-index:50;background:var(--black);color:#fff;border-bottom:1px solid #262826}
+/* "instant reply" bar: part of the sticky header, so it stays on screen while scrolling */
+.site-header{overflow-x:clip}
+.site-header:before{content:"\0025CF\0000a0Jetzt online\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Sofort-Antwort per WhatsApp\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a024/7, auch nachts & am Wochenende\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Preis vor der Fahrt\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Oft ab 125\0000a0\0020ac\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Standort schicken, wir organisieren den Rest\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Jetzt WhatsApp schreiben\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0\0025CF\0000a0Jetzt online\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Sofort-Antwort per WhatsApp\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a024/7, auch nachts & am Wochenende\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Preis vor der Fahrt\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Oft ab 125\0000a0\0020ac\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Standort schicken, wir organisieren den Rest\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Jetzt WhatsApp schreiben\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0\0025CF\0000a0Jetzt online\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Sofort-Antwort per WhatsApp\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a024/7, auch nachts & am Wochenende\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Preis vor der Fahrt\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Oft ab 125\0000a0\0020ac\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Standort schicken, wir organisieren den Rest\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Jetzt WhatsApp schreiben\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0\0025CF\0000a0Jetzt online\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Sofort-Antwort per WhatsApp\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a024/7, auch nachts & am Wochenende\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Preis vor der Fahrt\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Oft ab 125\0000a0\0020ac\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Standort schicken, wir organisieren den Rest\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0Jetzt WhatsApp schreiben\0000a0\0000a0\0000a0\0025AA\0000a0\0000a0\0000a0";display:block;width:max-content;background:var(--green);color:var(--black);font:italic 800 16px/1 var(--head);text-transform:uppercase;letter-spacing:.08em;padding:8px 0;white-space:nowrap;animation:tick 60s linear infinite}
+@keyframes tick{to{transform:translateX(-50%)}}
+@media(prefers-reduced-motion:reduce){.site-header:before{animation:none}}
+.nav{display:flex;align-items:center;gap:20px;min-height:68px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff}
+.brand img{height:36px;width:auto;background:#fff;padding:3px 6px;clip-path:polygon(8% 0,100% 0,92% 100%,0 100%)}
+.brand span{display:flex;flex-direction:column;font-family:var(--head);font-style:italic;text-transform:uppercase;line-height:.95}
+.brand strong{font-size:24px;font-weight:900;letter-spacing:.01em}
+.brand small{color:var(--green);font-weight:700;font-size:11px;letter-spacing:.2em;margin-top:2px}
+.menu{display:flex;gap:2px;margin-left:auto}
+.menu a{position:relative;color:#d6d8d4;text-decoration:none;font:italic 700 18px var(--head);text-transform:uppercase;letter-spacing:.04em;padding:10px 13px}
+.menu a:after{content:"";position:absolute;left:13px;right:13px;bottom:4px;height:3px;background:var(--green);transform:skewX(-20deg) scaleX(0);transform-origin:left;transition:transform .2s}
+.menu a:hover{color:#fff}.menu a:hover:after{transform:skewX(-20deg) scaleX(1)}
+.nav-cta{display:flex;gap:8px;align-items:center}
+
+/* buttons */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:50px;padding:12px 28px;font:italic 800 20px/1 var(--head);text-transform:uppercase;letter-spacing:.04em;text-decoration:none;border:0;cursor:pointer;color:var(--black);background:var(--green);clip-path:polygon(12px 0,100% 0,calc(100% - 12px) 100%,0 100%);transition:background .15s}
+.btn:hover{background:#86e04f}
+.btn-wa:before,.btn-dark:before,.btn-out:before{content:"";width:22px;height:22px;flex:none;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%230b0c0b'%3E%3Cpath d='M17.5 14.4c-.3-.1-1.8-.9-2-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6l.4-.5.3-.5c.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.1-.3-.2-.6-.3zM12 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.7 1 1-3.6-.2-.4A9.8 9.8 0 1 1 12 21.8zm8.4-18.2A11.8 11.8 0 0 0 1.8 17.8L.1 24l6.3-1.7a11.8 11.8 0 0 0 5.6 1.4c6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.4-8.3z'/%3E%3C/svg%3E") center/contain no-repeat}
+.btn-wa,.btn-dark,.btn-out,.btn-y{background:var(--green);color:var(--black)}
+.btn-wa:hover,.btn-dark:hover,.btn-out:hover,.btn-y:hover{background:#86e04f}
+.nav-cta .btn{min-height:44px;padding:8px 22px 8px 18px;font-size:19px}
+.nav-cta .btn-wa{font-size:0}.nav-cta .btn-wa:after{content:"Sofort-Antwort";font-size:19px}
+.lang-drop{position:relative;align-self:center}
+.btn-lang{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-width:50px;padding:8px 10px;font:italic 800 16px var(--head);letter-spacing:.06em;text-decoration:none;border:1px solid #3a3d3a;color:#fff;background:transparent;cursor:pointer}
+.btn-lang:hover{border-color:var(--green);color:var(--green)}
+.lang-caret{font-size:10px;line-height:1;color:var(--green)}
+.lang-menu{position:absolute;right:0;top:calc(100% + 8px);margin:0;padding:6px 0;list-style:none;background:var(--char);border-top:3px solid var(--green);min-width:150px;z-index:80;box-shadow:0 20px 44px rgba(0,0,0,.5)}
+.lang-menu[hidden]{display:none}
+.lang-menu a{display:block;padding:10px 16px;text-decoration:none;font:italic 700 17px var(--head);text-transform:uppercase;color:#fff}
+.lang-menu a:hover{color:var(--green);background:#1d201d}
+.actions{display:flex;gap:12px 14px;flex-wrap:wrap;margin:24px 0}
+
+/* hero and page heads */
+.hero,.page-head{position:relative;isolation:isolate;overflow:hidden;background:var(--black);color:#c9cbc7;clip-path:polygon(0 0,100% 0,100% calc(100% - 42px),0 100%)}
+.hero:before,.page-head:before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(112deg,transparent 0 60%,rgba(111,209,58,.13) 60% 65%,transparent 65% 69%,rgba(111,209,58,.07) 69% 72%,transparent 72%),radial-gradient(ellipse at 80% 20%,rgba(111,209,58,.08),transparent 60%)}
+.hero{background-image:linear-gradient(180deg,rgba(11,12,11,.86),rgba(11,12,11,.94));background-size:cover;background-position:center;padding:64px 0 108px}
+.page-head{padding:50px 0 92px}
+.hero h1,.page-head h1{color:#fff}
+.hero .eyebrow,.page-head .eyebrow{color:var(--green)}
+.hero .lead,.page-head .lead{color:#c6c8c3}
+.page-head p:not(.eyebrow):not(.lead){color:#a9aca6}
+.page-head a:not(.btn){color:#fff}
+.hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center}
+.hero-img{width:100%;aspect-ratio:4/3;object-fit:cover;clip-path:polygon(0 0,calc(100% - 28px) 0,100% 28px,100% 100%,28px 100%,0 calc(100% - 28px));filter:saturate(.9) contrast(1.05)}
+.hero .actions .btn{min-height:58px;font-size:23px;padding:14px 34px}
+.proof{list-style:none;margin:30px 0 0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);max-width:620px;border-top:1px solid #2c2f2c;font-size:14px;line-height:1.35;color:#a9aca6}
+.proof li{padding:14px 12px 0 0}.proof li+li{padding-left:14px;border-left:1px solid #2c2f2c}
+.proof strong{display:block;font:italic 900 26px/1 var(--head);text-transform:uppercase;color:var(--green);margin-bottom:5px}
+
+/* breadcrumbs */
+.crumbs{background:var(--black);border-bottom:1px solid #1d201d;font:italic 600 15px var(--head);text-transform:uppercase;letter-spacing:.07em;color:#8b8e88}
+.crumbs .wrap{padding:12px 0}.crumbs a{color:#c6c8c3;text-decoration:none}.crumbs a:hover{color:var(--green)}
+.crumbs [aria-current]{color:var(--green);font-weight:700}
+
+/* sections and cards */
+.section{padding:76px 0}.grey{background:#fff}
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.cards3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.card{position:relative;background:var(--card);border:1px solid var(--line);padding:28px;clip-path:polygon(0 0,calc(100% - var(--cut)) 0,100% var(--cut),100% 100%,0 100%)}
+.card:before{content:"";position:absolute;left:0;top:0;width:5px;height:56px;background:var(--green)}
+.grey .card{background:var(--bg)}
+.card p{color:var(--muted);margin:0 0 14px}.card p:last-child{margin-bottom:0}
+.card a{font-weight:700}.card h3 a{text-decoration:none}.card h3 a:hover{color:var(--green-dd)}
+.steps{counter-reset:s;display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.step{counter-increment:s;background:var(--char);color:#bfc2bc;padding:30px 26px;clip-path:polygon(0 0,calc(100% - var(--cut)) 0,100% var(--cut),100% 100%,0 100%)}
+.step span{display:block;font:italic 900 64px/.9 var(--head);color:transparent;-webkit-text-stroke:2px var(--green);margin-bottom:12px}
+.step h3{color:#fff}.step p{margin:0;color:#bfc2bc}
+.split{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start}.rounded{border:1px solid var(--line);margin-bottom:22px}
+.ticks{list-style:none;padding:0;margin:0 0 20px}
+.ticks li{position:relative;padding:0 0 0 34px;margin-bottom:11px}
+.ticks li:before{content:"";position:absolute;left:0;top:5px;width:22px;height:18px;background:var(--green) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%230b0c0b' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12.5l4.5 4.5L19 7.5'/%3E%3C/svg%3E") center/14px no-repeat;clip-path:polygon(18% 0,100% 0,82% 100%,0 100%)}
+.copy h2{margin-top:40px}.copy h2:first-child{margin-top:0}.copy h3{margin-top:26px}.copy p{margin:0 0 16px}
+.copy ul:not(.ticks),.copy ol{margin:0 0 18px;padding-left:22px}.copy li{margin:0 0 6px}.copy li::marker{color:var(--green-d)}
+
+/* FAQ */
+details{background:#fff;border:1px solid var(--line);margin:0 0 10px}
+summary{cursor:pointer;list-style:none;padding:18px 60px 18px 22px;font-weight:700;font-size:18px;position:relative}
+summary::-webkit-details-marker{display:none}
+summary:after{content:"+";position:absolute;right:16px;top:50%;width:30px;height:30px;transform:translateY(-50%);display:grid;place-items:center;background:var(--black);color:var(--green);font:italic 800 24px/1 var(--head);clip-path:polygon(18% 0,100% 0,82% 100%,0 100%)}
+details[open] summary:after{content:"\2013";background:var(--green);color:var(--black)}
+details div{padding:0 22px 20px;color:var(--muted)}
+
+/* call to action band */
+.cta{position:relative;isolation:isolate;overflow:hidden;background:var(--black);color:#c3c5c0;padding:56px 0}
+.cta:before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(112deg,transparent 0 70%,rgba(111,209,58,.16) 70% 74%,transparent 74% 77%,rgba(111,209,58,.08) 77% 79%,transparent 79%)}
+.cta-in{display:flex;justify-content:space-between;align-items:center;gap:24px;flex-wrap:wrap}
+.cta h2{color:#fff;margin:0 0 8px}.cta p{margin:0;color:#a9aca6}
+.cta .btn{min-height:58px;font-size:23px;padding:14px 34px}
+.callout,.callbox{background:var(--black);color:#c3c5c0;padding:28px;margin-top:34px;clip-path:polygon(0 0,calc(100% - var(--cut)) 0,100% var(--cut),100% 100%,0 100%)}
+.callout h2,.callbox h2,.callout h3,.callbox h3{color:#fff;font-size:clamp(24px,3vw,32px)}
+.callout a:not(.btn),.callbox a:not(.btn){color:#fff}
+
+/* forms, tables, notes */
+.formbox{border:1px solid var(--line);background:#fff;padding:24px}.formbox label{display:block;font:italic 700 15px var(--head);text-transform:uppercase;letter-spacing:.06em;margin-bottom:12px}
+.formbox input,.formbox textarea{display:block;width:100%;margin-top:6px;border:1px solid #c9cbc4;padding:12px;font:inherit;background:#fff}.formbox textarea{min-height:110px}
+.fine{font-size:12px;color:var(--muted);margin-top:10px}mark{background:var(--green-l);padding:1px 4px}
+.tblwrap{overflow-x:auto;margin:0 0 22px}.tbl{border-collapse:collapse;width:100%;min-width:520px;background:#fff}
+.tbl th,.tbl td{border:1px solid var(--line);padding:10px 12px;text-align:left;font-size:15px;vertical-align:top}
+.tbl th{background:var(--black);color:#fff;font:italic 700 16px var(--head);text-transform:uppercase;letter-spacing:.04em;border-color:#2c2f2c}
+.note{background:var(--green-l);border-left:6px solid var(--green);padding:18px 22px;margin:0 0 22px}.note p{margin:0}
+
+/* related links and city grids */
+.related{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:8px}
+.related a{display:block;position:relative;border:1px solid var(--line);background:#fff;padding:16px 18px 16px 22px;font:italic 700 20px/1.05 var(--head);text-transform:uppercase;text-decoration:none;transition:background .15s,color .15s}
+.related a:before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--green)}
+.related a small{display:block;font:400 14px/1.4 var(--body);text-transform:none;color:var(--muted);margin-top:6px}
+.related a:hover{background:var(--black);color:#fff}.related a:hover small{color:#a9aca6}
+.regions{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.region-card{display:block;position:relative;background:#fff;border:1px solid var(--line);padding:30px 28px;text-decoration:none;color:inherit;clip-path:polygon(0 0,calc(100% - var(--cut)) 0,100% var(--cut),100% 100%,0 100%)}
+.region-card:before{content:"";position:absolute;left:0;top:0;width:5px;height:56px;background:var(--green)}
+.region-card h3{font-size:clamp(28px,3.4vw,40px);margin:6px 0 12px}.region-card p{color:var(--muted);margin:0 0 18px}.region-card strong{font-weight:700;color:var(--green-dd)}
+.region-card:hover{background:var(--black);color:#c9cbc7}.region-card:hover h3{color:#fff}.region-card:hover p{color:#a9aca6}.region-card:hover strong{color:var(--green)}
+.citysearch{width:100%;max-width:420px;padding:12px;border:1px solid #c9cbc4;font:inherit;margin-top:6px}
+.cityblock h2{font-size:26px;margin:28px 0 10px}
+.land-grid,.citylist{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:8px}
+.citylist{list-style:none;padding:0;margin:16px 0 0;columns:unset}.citylist li{break-inside:auto;margin:0}
+.land-btn,.citylist a{display:flex;align-items:center;justify-content:center;text-align:center;min-height:50px;padding:10px;border:1px solid var(--line);background:#fff;text-decoration:none;font:italic 700 18px/1.05 var(--head);text-transform:uppercase;letter-spacing:.02em;color:var(--ink);clip-path:polygon(8px 0,100% 0,calc(100% - 8px) 100%,0 100%);transition:background .15s,color .15s}
+.land-btn:hover,.citylist a:hover{background:var(--green);color:var(--black);border-color:var(--green)}
+
+/* footer */
+.site-footer{background:var(--black);color:#a9aca6;padding:56px 0 20px;font-size:15px;border-top:5px solid var(--green)}
+.site-footer a{color:#fff;text-decoration:none}.site-footer a:hover{color:var(--green)}
+.site-footer strong{display:block;color:#fff;font:italic 800 20px var(--head);text-transform:uppercase;letter-spacing:.03em;margin-bottom:6px}
+.site-footer p{margin:8px 0}
+.foot-grid{display:grid;grid-template-columns:1.3fr repeat(4,1fr);gap:28px}
+.foot-bottom{margin-top:30px;padding-top:16px;border-top:1px solid #262826;font-size:13px;color:#7c7f79}
+
+/* cookie banner */
+.cookie-banner{position:fixed;left:0;right:0;bottom:0;z-index:200;background:var(--char);color:#c9cbc7;border-top:3px solid var(--green);box-shadow:0 -10px 30px rgba(0,0,0,.35)}
+.cookie-banner[hidden]{display:none}
+.cookie-in{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px 24px;padding:16px 0}
+.cookie-banner p{margin:0;font-size:14px;line-height:1.5;max-width:640px;flex:1 1 320px}
+.cookie-banner a{color:#fff;text-decoration:underline;text-decoration-color:var(--green)}
+.cookie-actions{display:flex;gap:10px;flex:0 0 auto}
+.cookie-btn{font:italic 800 17px/1.1 var(--head);text-transform:uppercase;letter-spacing:.04em;padding:12px 22px;cursor:pointer;border:1px solid #3a3d3a;clip-path:polygon(8px 0,100% 0,calc(100% - 8px) 100%,0 100%)}
+.cookie-accept{background:var(--green);border-color:var(--green);color:var(--black)}.cookie-accept:hover{background:#86e04f}
+.cookie-decline{background:transparent;color:#fff}.cookie-decline:hover{background:#2b2f2b}
+
+/* floating WhatsApp button, always on screen: bubble on desktop, full-width bar on phones */
+@keyframes nudge{0%,82%,100%{transform:none}86%{transform:translateY(-6px)}90%{transform:none}94%{transform:translateY(-3px)}}
+@keyframes blink{50%{opacity:.35}}
+.sticky-call{display:block;position:fixed;right:24px;bottom:24px;z-index:180;filter:drop-shadow(0 10px 24px rgba(0,0,0,.45));animation:nudge 6s ease-in-out infinite}
+.sticky-call:before{content:"\25CF\00a0 Jetzt online";display:block;width:max-content;margin:0 0 6px auto;padding:6px 12px;background:var(--black);color:var(--green);font:italic 800 15px/1 var(--head);text-transform:uppercase;letter-spacing:.1em;clip-path:polygon(8px 0,100% 0,calc(100% - 8px) 100%,0 100%)}
+.sticky-call .btn{display:flex;min-height:64px;padding:14px 36px 14px 28px;font-size:0}
+.sticky-call .btn:before{width:28px;height:28px}
+.sticky-call .btn:after{content:"WhatsApp \00b7\00a0Sofort-Antwort";font-size:25px}
+.sticky-call .btn-y{display:none}
+@media(max-width:700px){
+  .sticky-call{left:0;right:0;bottom:0;padding:8px 12px calc(10px + env(safe-area-inset-bottom));background:var(--black);border-top:3px solid var(--green);filter:none;animation:none}
+  .sticky-call:before{content:"\25CF\00a0 Jetzt online \00b7\0000a0Antwort sofort per WhatsApp";margin:0 auto 7px;padding:0;background:none;font-size:14px;letter-spacing:.04em;max-width:100%;animation:blink 1.6s ease-in-out infinite}
+  .sticky-call .btn{width:100%;min-height:54px;padding:10px 20px}
+  .sticky-call .btn:after{content:"WhatsApp \00b7\00a0Sofort-Antwort";font-size:23px}
+  body{padding-bottom:104px}
+}
+@media(max-width:520px){
+  .site-header:before{font-size:14px;padding:7px 0;animation-duration:50s}
+  .nav-cta .btn.btn-wa{font-size:0;padding:8px 16px 8px 12px}
+  .nav-cta .btn-wa:after{content:"Sofort-Antwort";font-size:17px}
+  .brand span{display:none}
+}
+
+.brand{flex:none}.brand small{white-space:nowrap}
+@media(max-width:1180px){
+  .nav{flex-wrap:wrap;row-gap:0;padding-top:8px}.nav-cta{margin-left:auto}
+  .menu{display:flex;order:3;flex:0 0 100%;overflow-x:auto;gap:4px;margin:0;padding:6px 0 8px;border-top:1px solid #262826;white-space:nowrap;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+  .menu::-webkit-scrollbar{display:none}
+  .menu a{font-size:17px;padding:8px 10px}.menu a:after{left:10px;right:10px}
+}
+@media(max-width:900px){
+  .hero-grid,.split,.cards,.cards3,.steps,.foot-grid,.related,.regions{grid-template-columns:1fr}
+  .hide-s{display:none}
+  .section{padding:56px 0}
+  .hero{padding:40px 0 84px}.page-head{padding:36px 0 72px}
+  .hero,.page-head{clip-path:polygon(0 0,100% 0,100% calc(100% - 26px),0 100%)}
+  .proof{grid-template-columns:1fr;border-top:0}.proof li,.proof li+li{padding:12px 0 0;border-left:0;border-top:1px solid #2c2f2c}
+  .land-grid,.citylist{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width:520px){
+  .brand small{display:none}
+  .brand strong{font-size:21px}
+  .nav{min-height:0;gap:12px}
+  .nav-cta .btn{padding:8px 16px 8px 12px;font-size:17px}
+  .land-grid,.citylist{grid-template-columns:1fr}
+  .cookie-in{flex-direction:column;align-items:stretch;gap:10px;padding:12px 0}
+  .cookie-banner p{max-width:none;flex:none;font-size:13px;line-height:1.4}
+  .cookie-actions{width:100%}.cookie-btn{flex:1;padding:11px 14px}
+}
+
+/* hero background as real image (LCP), split sticky bar */
+.hero{background-image:none;background-color:var(--black)}
+.hero-bg{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;opacity:.1}
+.hero-bg img{width:100%;height:100%;object-fit:cover}
+.sticky-call .sc-call{display:none}
+@media(max-width:700px){
+  .sticky-call{display:flex;flex-wrap:wrap;gap:8px}
+  .sticky-call:before{flex-basis:100%}
+  .sticky-call .btn{flex:1 1 0;width:auto;min-width:0;min-height:56px}
+  .sticky-call .sc-call:not([hidden]){display:flex;background:var(--green);color:var(--black)}
+  .sticky-call .sc-call:after{content:"Anrufen";font-size:23px}
+  .sticky-call .sc-call:not([hidden]) + .btn-wa:after{content:"WhatsApp"}
+}
+</style>
 <script src="/assets/nav.js" defer></script>
 <meta name="theme-color" content="#8b0e0e">
 <link rel="icon" href="assets/favicon.ico">
@@ -21,7 +256,7 @@ gtag('js', new Date());
 gtag('config', 'AW-18517785509');
 </script>
 <script>document.addEventListener('click',function(e){var a=e.target.closest('a[href]');if(!a)return;if(/^tel:/i.test(a.getAttribute('href')))gtag('event','phone_click',{'event_category':'contact'});else if(a.href.indexOf('wa.me')!==-1){gtag('event','whatsapp_click',{'event_category':'contact'});gtag('event','conversion',{'send_to':'AW-18517785509/uFguCITBmrAdEKX3-_1E','value':1.0,'currency':'USD','transport_type':'beacon'});}});</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "LocalBusiness", "@id": "https://abschleppdienst-faster.de/#business", "name": "Faster Abschleppdienst", "url": "https://abschleppdienst-faster.de/", "email": "faster24eu@gmail.com", "image": "https://abschleppdienst-faster.de/assets/faster-road-transport.jpg", "logo": "https://abschleppdienst-faster.de/assets/faster-logo-de-600.png", "priceRange": "ab 125 €", "address": {"@type": "PostalAddress", "streetAddress": "Am Festungsgraben 2", "postalCode": "10117", "addressLocality": "Berlin", "addressCountry": "DE"}, "areaServed": {"@type": "Country", "name": "Deutschland"}, "availableLanguage": ["de", "nl", "fr", "en"], "openingHoursSpecification": {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"], "opens": "00:00", "closes": "23:59"}, "sameAs": ["https://takeldienst-depannage.com/"]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"LocalBusiness","@id":"https://abschleppdienst-faster.de/#business","name":"Faster Abschleppdienst","url":"https://abschleppdienst-faster.de/","email":"faster24eu@gmail.com","image":"https://abschleppdienst-faster.de/assets/faster-road-transport.jpg","logo":"https://abschleppdienst-faster.de/assets/faster-logo-de-600.png","priceRange":"ab 125 €","areaServed":[{"@type":"City","name":"Köln"},{"@type":"City","name":"Karlsruhe"},{"@type":"City","name":"Offenburg"},{"@type":"City","name":"Lahr"},{"@type":"City","name":"Kehl"},{"@type":"City","name":"Achern"}],"availableLanguage":["de","nl","fr","en"],"openingHoursSpecification":{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"opens":"00:00","closes":"23:59"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Wie schnell sind Sie da?", "acceptedAnswer": {"@type": "Answer", "text": "Hängt von Standort, Verkehr und ob ein Partner frei ist. Per WhatsApp eine realistische Spanne, keine Garantiezeit."}}, {"@type": "Question", "name": "Was kostet die Hilfe?", "acceptedAnswer": {"@type": "Answer", "text": "Preis vor der Fahrt. Kurze Einsätze in der Nähe oft bei 125 Euro. Mehr unter Kosten."}}, {"@type": "Question", "name": "Nachts und am Wochenende?", "acceptedAnswer": {"@type": "Answer", "text": "Ja. WhatsApp rund um die Uhr."}}, {"@type": "Question", "name": "Kommt ihr auch in meiner Stadt?", "acceptedAnswer": {"@type": "Answer", "text": "Wir koordinieren Partner in ganz Deutschland. Standort sagen."}}, {"@type": "Question", "name": "Wer fährt zu mir?", "acceptedAnswer": {"@type": "Answer", "text": "Ein Partnerbetrieb vor Ort. Faster koordiniert aus Antwerpen."}}, {"@type": "Question", "name": "Wer zahlt nach einem Unfall?", "acceptedAnswer": {"@type": "Answer", "text": "Oft die Versicherung des Verursachers oder ein Schutzbrief. Übersicht: Abschleppkosten nach Unfall."}}]}</script>
 </head>
 <body>
@@ -31,13 +266,13 @@ gtag('config', 'AW-18517785509');
   <div class="nav-cta"><a class="btn btn-wa" href="https://wa.me/3233756737?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug." target="_blank" rel="noopener">WhatsApp</a></div>
 </div></header>
 <main>
-<section class="hero"><div class="wrap hero-grid"><div>
+<section class="hero"><picture class="hero-bg"><source media="(max-width:700px)" srcset="assets/hero-map-720.webp" width="720" height="1280"><img src="assets/hero-map-land-1440.webp" srcset="assets/hero-map-land-960.webp 960w, assets/hero-map-land-1440.webp 1440w" sizes="100vw" width="1440" height="810" alt="" fetchpriority="high" decoding="async"></picture><div class="wrap hero-grid"><div>
 <p class="eyebrow">24/7 · Preis vor der Fahrt · Partner vor Ort</p>
 <h1>Panne? Wir organisieren den Abschleppdienst.</h1>
 <p class="lead">Sie stehen am Rand, das Auto geht nicht weiter. Schicken Sie den Standort per WhatsApp. Wir nennen den Preis, bevor jemand losfährt, und setzen einen lokalen Partner in Bewegung – bundesweit, nicht nur in einer Stadt. Viele kurze Einsätze beginnen bei 125&nbsp;€.</p>
 <div class="actions"><a class="btn btn-wa" href="https://wa.me/3233756737?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug." target="_blank" rel="noopener">WhatsApp mit Standort</a></div>
 <ul class="proof"><li><strong>Preis vorab</strong>oft ab 125&nbsp;€, Zahl bevor jemand fährt</li><li><strong>Partner vor Ort</strong>bundesweit</li></ul>
-</div><div><img class="hero-img" src="assets/faster-road-transport.jpg" alt="Abschleppwagen von Faster" width="1200" height="900" fetchpriority="high"></div></div></section>
+</div><div><img class="hero-img" src="assets/faster-road-transport-1200.webp" srcset="assets/faster-road-transport-800.webp 800w, assets/faster-road-transport-1200.webp 1200w" sizes="(max-width:700px) 100vw, 46vw" alt="Abschleppwagen von Faster" width="1200" height="900" fetchpriority="high"></div></div></section>
 <section class="section"><div class="wrap">
 <h2>Drei Schritte, dann rollt jemand.</h2>
 <p class="sub">Autobahn, Wohnstraße, Parkhaus. Standort reicht.</p>
@@ -164,5 +399,5 @@ gtag('config', 'AW-18517785509');
   window.openCookieBanner = function(e){ if (e) e.preventDefault(); if (banner) banner.hidden = false; return false; };
 })();
 </script>
-<div class="sticky-call"><a class="btn btn-wa" href="https://wa.me/3233756737?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.">WhatsApp</a></div>
+<div class="sticky-call"><a class="btn sc-call" href="tel:TODO_DE_PHONE" hidden>Anrufen</a><a class="btn btn-wa" href="https://wa.me/3233756737?text=Hallo%20Faster%2C%20ich%20brauche%20Hilfe%20mit%20meinem%20Fahrzeug.">WhatsApp</a></div>
 </body></html>
